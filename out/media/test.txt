@@ -1,0 +1,5 @@
+GitHub Pages serving check for phuquoctips bot media path.
+If you can read this file at:
+  https://sonnguyen140189.github.io/machine-learning-for-software-engineers/out/media/test.txt
+then PUBLIC_MEDIA_BASE_URL is wired correctly and the daily-post workflow's
+generated MP4/JPG files will be reachable by Instagram and TikTok.
