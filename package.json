@@ -1,0 +1,25 @@
+{
+  "name": "phuquoc-review-bot",
+  "version": "0.1.0",
+  "description": "Automated daily Phu Quoc hotel & place reviews for Facebook, Instagram, and TikTok.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "daily": "node src/orchestrator.js",
+    "fetch:places": "node src/fetchers/places.js",
+    "fetch:photos": "node src/fetchers/photos.js",
+    "generate": "node src/generator/content.js",
+    "video": "node src/video/build.js",
+    "post:fb": "node src/posters/facebook.js",
+    "post:ig": "node src/posters/instagram.js",
+    "post:tiktok": "node src/posters/tiktok.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.1",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
