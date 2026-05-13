@@ -1,8 +1,28 @@
 {
   "postedPlaceIds": [
+    "ChIJw58lTZeNpzERBCwsZlG8gwA",
     "ChIJuV0Hp8KNpzER0WP9kmtfxoo"
   ],
   "history": [
+    {
+      "date": "2026-05-13",
+      "placeId": "ChIJw58lTZeNpzERBCwsZlG8gwA",
+      "placeName": "Sunset Sanato Beach Club",
+      "results": {
+        "facebook": {
+          "id": "dry-run"
+        },
+        "instagram": {
+          "id": "dry-run"
+        },
+        "instagramReel": {
+          "id": "dry-run"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
     {
       "date": "2026-05-13",
       "placeId": "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
