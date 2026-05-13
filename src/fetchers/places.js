@@ -83,12 +83,23 @@ export async function getPhotoUrl(photoName, maxWidthPx = 1600) {
   return data.photoUri || null;
 }
 
+// Reject places whose display name is mostly non-ASCII (i.e. Vietnamese-only
+// names like "Chợ đêm Phú Quốc"). Audience is foreign tourists reading English.
+// Hybrid names like "Vinpearl Resort & Spa Phú Quốc" still pass because the
+// Vietnamese fragment is a small share of the total.
+function hasEnglishName(place) {
+  const name = place.displayName?.text || "";
+  if (!name) return false;
+  const nonAscii = name.replace(/[\x20-\x7E]/g, "");
+  return nonAscii.length / name.length < 0.25;
+}
+
 export async function fetchDailyCandidates({ count = 8 } = {}) {
   const query = SEARCH_QUERIES[Math.floor(Math.random() * SEARCH_QUERIES.length)];
-  const places = await searchPhuQuocPlaces({ query, max: count * 2 });
-  // Prefer well-rated places
+  const places = await searchPhuQuocPlaces({ query, max: count * 4 });
   return places
     .filter((p) => (p.rating || 0) >= 4.0 && (p.userRatingCount || 0) >= 30)
+    .filter(hasEnglishName)
     .slice(0, count);
 }
 
