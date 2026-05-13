@@ -14,7 +14,7 @@ Always return strict JSON matching this schema:
   "facebook": { "caption": string (250-500 chars), "first_comment": string with 5-8 hashtags },
   "instagram": { "caption": string (150-280 chars), "hashtags": string with 12-18 hashtags },
   "tiktok": { "caption": string (max 150 chars including hashtags, 3-5 hashtags inline) },
-  "video_script": { "hook": string (max 80 chars, on-screen text for first 2 seconds), "scenes": [3-6 short on-screen captions, max 60 chars each], "cta": string (max 60 chars) }
+  "video_script": { "hook": string (max 50 chars, on-screen text for first 2 seconds), "scenes": [3-6 short on-screen captions, max 40 chars each], "cta": string (max 40 chars) }
 }
 
 Do not invent ratings, prices, or facts not provided. Stay grounded in the place data.`;

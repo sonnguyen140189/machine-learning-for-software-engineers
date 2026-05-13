@@ -25,6 +25,25 @@ function escapeDrawText(text) {
     .replace(/%/g, "\\%");
 }
 
+// Greedy word-wrap so on-screen captions never overflow the 1080px frame.
+// At fontsize 46, ~28 chars per line fits with comfortable margins.
+function wrapForOverlay(text, maxCharsPerLine = 28) {
+  const words = String(text || "").trim().split(/\s+/);
+  const lines = [];
+  let current = "";
+  for (const word of words) {
+    const candidate = current ? `${current} ${word}` : word;
+    if (candidate.length > maxCharsPerLine && current) {
+      lines.push(current);
+      current = word;
+    } else {
+      current = candidate;
+    }
+  }
+  if (current) lines.push(current);
+  return lines.join("\n");
+}
+
 /**
  * Build a vertical 1080x1920 slideshow video from images, with on-screen text per scene.
  * Suitable for TikTok and Instagram Reels.
@@ -55,14 +74,17 @@ export async function buildSlideshowVideo(
 
   const filterParts = [];
   for (let i = 0; i < slides; i++) {
-    const caption = escapeDrawText(captions[i] || "");
-    // Scale + pad to 1080x1920 vertical, then draw caption near bottom
+    // Wrap first, escape second, then convert real newlines to the literal
+    // "\n" sequence that ffmpeg drawtext expands back to line breaks.
+    const wrapped = wrapForOverlay(captions[i] || "");
+    const caption = escapeDrawText(wrapped).replace(/\n/g, "\\n");
     filterParts.push(
       `[${i}:v]scale=1080:1920:force_original_aspect_ratio=increase,` +
         `crop=1080:1920,` +
-        `drawtext=text='${caption}':fontcolor=white:fontsize=58:` +
-        `box=1:boxcolor=black@0.55:boxborderw=24:` +
-        `x=(w-text_w)/2:y=h-360,` +
+        `drawtext=text='${caption}':fontcolor=white:fontsize=46:` +
+        `line_spacing=10:` +
+        `box=1:boxcolor=black@0.6:boxborderw=22:` +
+        `x=(w-text_w)/2:y=h-420,` +
         `setsar=1,format=yuv420p[v${i}]`,
     );
   }
