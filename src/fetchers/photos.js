@@ -70,17 +70,19 @@ async function fetchGooglePlacePhotos(place, count = 6) {
 
 export async function gatherPhotosForPlace(place, { count = 8 } = {}) {
   const placeName = place.displayName?.text || "Phu Quoc";
-  const fromGoogle = await fetchGooglePlacePhotos(place, count);
-  if (fromGoogle.length >= count) return fromGoogle.slice(0, count);
-
-  // Fill remaining slots from stock photo sources
-  const needed = count - fromGoogle.length;
   const query = `${placeName} Phu Quoc Vietnam`;
-  const [unsplash, pexels] = await Promise.all([
-    fetchUnsplash(query, Math.ceil(needed / 2)),
-    fetchPexels(query, Math.ceil(needed / 2)),
-  ]);
-  return [...fromGoogle, ...unsplash, ...pexels].slice(0, count);
+  const result = [];
+
+  result.push(...(await fetchGooglePlacePhotos(place, count)));
+  if (result.length >= count) return result.slice(0, count);
+
+  result.push(...(await fetchPexels(query, count - result.length)));
+  if (result.length >= count) return result.slice(0, count);
+
+  // Unsplash terms expect non-automated use, so only hit it when Google +
+  // Pexels couldn't fill the slate.
+  result.push(...(await fetchUnsplash(query, count - result.length)));
+  return result.slice(0, count);
 }
 
 export async function downloadPhotos(photos, prefix) {
