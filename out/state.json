@@ -1,10 +1,30 @@
 {
   "postedPlaceIds": [
+    "ChIJXQcO2BeLpzERuYoEmJFjuuM",
     "ChIJLZPWxLiWpzERwrkgfIa1P8I",
     "ChIJw58lTZeNpzERBCwsZlG8gwA",
     "ChIJuV0Hp8KNpzER0WP9kmtfxoo"
   ],
   "history": [
+    {
+      "date": "2026-05-13",
+      "placeId": "ChIJXQcO2BeLpzERuYoEmJFjuuM",
+      "placeName": "Ong Lang beach",
+      "results": {
+        "facebook": {
+          "id": "dry-run"
+        },
+        "instagram": {
+          "id": "dry-run"
+        },
+        "instagramReel": {
+          "id": "dry-run"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
     {
       "date": "2026-05-13",
       "placeId": "ChIJLZPWxLiWpzERwrkgfIa1P8I",
