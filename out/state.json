@@ -1,4 +1,27 @@
 {
-  "postedPlaceIds": [],
-  "history": []
+  "postedPlaceIds": [
+    "ChIJ04EPezKNpzERUCu48VTEXnw"
+  ],
+  "history": [
+    {
+      "date": "2026-05-13",
+      "placeId": "ChIJ04EPezKNpzERUCu48VTEXnw",
+      "placeName": "The Waterfront Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122101001577313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17871779457506338"
+        },
+        "instagramReel": {
+          "id": "18001569878751411"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    }
+  ]
 }
