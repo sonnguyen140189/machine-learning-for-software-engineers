@@ -68,11 +68,12 @@ async function main() {
   const results = {};
 
   try {
-    results.facebook = await postFacebookCarousel(
-      photoUrls,
-      content.facebook.caption,
-      content.facebook.first_comment,
-    );
+    // Inline hashtags in the caption — posting them as a first comment
+    // requires pages_manage_engagement scope (not granted on this app).
+    const fbCaption = content.facebook.first_comment
+      ? `${content.facebook.caption}\n\n${content.facebook.first_comment}`
+      : content.facebook.caption;
+    results.facebook = await postFacebookCarousel(photoUrls, fbCaption);
   } catch (err) {
     results.facebook = { error: err.message };
     console.error("Facebook post failed:", err.message);

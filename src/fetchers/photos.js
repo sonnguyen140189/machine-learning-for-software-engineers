@@ -1,5 +1,6 @@
-import { writeFile, mkdir } from "node:fs/promises";
+import { writeFile, mkdir, unlink } from "node:fs/promises";
 import { join } from "node:path";
+import { spawn } from "node:child_process";
 import { config } from "../config.js";
 import { getPhotoUrl } from "./places.js";
 
@@ -85,16 +86,38 @@ export async function gatherPhotosForPlace(place, { count = 8 } = {}) {
   return result.slice(0, count);
 }
 
+// IG carousel rejects images that are not 1:1, 4:5, or 1.91:1. Center-crop
+// every photo to 1080x1080 square so the same files work for both FB (any
+// ratio) and IG (square).
+function cropToSquare(inputPath, outputPath) {
+  return new Promise((resolve, reject) => {
+    const ff = spawn("ffmpeg", [
+      "-y", "-loglevel", "error",
+      "-i", inputPath,
+      "-vf", "crop='min(iw,ih)':'min(iw,ih)',scale=1080:1080",
+      outputPath,
+    ]);
+    ff.on("error", reject);
+    ff.on("exit", (code) =>
+      code === 0 ? resolve() : reject(new Error(`ffmpeg crop exited ${code}`)),
+    );
+  });
+}
+
 export async function downloadPhotos(photos, prefix) {
   await mkdir(MEDIA_DIR, { recursive: true });
   const downloaded = [];
   for (let i = 0; i < photos.length; i++) {
+    const rawPath = join(MEDIA_DIR, `${prefix}-${i}.raw.jpg`);
     const filePath = join(MEDIA_DIR, `${prefix}-${i}.jpg`);
     try {
-      await downloadTo(photos[i].url, filePath);
+      await downloadTo(photos[i].url, rawPath);
+      await cropToSquare(rawPath, filePath);
+      await unlink(rawPath).catch(() => {});
       downloaded.push({ ...photos[i], localPath: filePath });
     } catch (err) {
       console.warn(`Skipping photo ${i}: ${err.message}`);
+      await unlink(rawPath).catch(() => {});
     }
   }
   return downloaded;
