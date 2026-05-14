@@ -7,7 +7,7 @@ import { generateContent } from "./generator/content.js";
 import { buildSlideshowVideo } from "./video/build.js";
 import { toPublicUrl } from "./util/publicUrl.js";
 import { loadState, saveState } from "./util/state.js";
-import { postFacebookCarousel } from "./posters/facebook.js";
+import { postFacebookCarousel, postFacebookVideo } from "./posters/facebook.js";
 import { postInstagramCarousel, postInstagramReel } from "./posters/instagram.js";
 import { postTikTokVideo } from "./posters/tiktok.js";
 
@@ -97,6 +97,17 @@ async function main() {
   }
 
   if (videoUrl) {
+    try {
+      results.facebookVideo = await postFacebookVideo(
+        videoUrl,
+        content.facebook.first_comment
+          ? `${content.facebook.caption}\n\n${content.facebook.first_comment}`
+          : content.facebook.caption,
+      );
+    } catch (err) {
+      results.facebookVideo = { error: err.message };
+      console.error("Facebook video failed:", err.message);
+    }
     try {
       results.instagramReel = await postInstagramReel(videoUrl, content.instagram.caption);
     } catch (err) {
