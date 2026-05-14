@@ -37,10 +37,17 @@ async function main() {
   const placeName = place.displayName?.text || "Phu Quoc";
   console.log(`Today's place: ${placeName} (${place.id})`);
 
+  // Unique per-run prefix so that media URLs published to FB/IG never
+  // collide with a previous run's still-cached files on GitHub Pages.
+  // (Posting happens BEFORE the new files are pushed; without uniqueness,
+  // IG can re-download yesterday's video at today's URL.)
+  const placeShort = place.id.slice(-12);
+  const prefix = `${stamp}-${placeShort}`;
+
   // 2. Gather + download photos
   const photoMeta = await gatherPhotosForPlace(place, { count: 8 });
   if (photoMeta.length < 3) throw new Error(`Not enough photos for ${placeName}`);
-  const downloaded = await downloadPhotos(photoMeta, stamp);
+  const downloaded = await downloadPhotos(photoMeta, prefix);
   const photoPaths = downloaded.map((p) => p.localPath);
   console.log(`Downloaded ${photoPaths.length} photos`);
 
@@ -49,7 +56,7 @@ async function main() {
   await writeFile(join(OUT_DIR, `content-${stamp}.json`), JSON.stringify(content, null, 2));
 
   // 4. Build the video
-  const videoPath = join(OUT_DIR, "media", `${stamp}.mp4`);
+  const videoPath = join(OUT_DIR, "media", `${prefix}.mp4`);
   await buildSlideshowVideo(photoPaths.slice(0, 6), content.video_script, videoPath, 3);
   console.log(`Built video: ${videoPath}`);
 
