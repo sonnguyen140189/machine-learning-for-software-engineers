@@ -1,11 +1,12 @@
 import { mkdir, writeFile, readFile, unlink } from "node:fs/promises";
 import { join } from "node:path";
 import { config } from "./config.js";
+import { sleep } from "./util/sleep.js";
 import { fetchDailyCandidates } from "./fetchers/places.js";
 import { gatherPhotosForPlace, downloadPhotos } from "./fetchers/photos.js";
 import { generateContent } from "./generator/content.js";
 import { buildSlideshowVideo } from "./video/build.js";
-import { toPublicUrl } from "./util/publicUrl.js";
+import { toPublicUrl, ensureUrlReady } from "./util/publicUrl.js";
 import { loadState, saveState } from "./util/state.js";
 import { postFacebookCarousel, postFacebookVideo } from "./posters/facebook.js";
 import { postInstagramCarousel, postInstagramReel } from "./posters/instagram.js";
@@ -17,10 +18,6 @@ const PENDING_FILE = join(OUT_DIR, "pending-batch.json");
 function todayStamp() {
   const d = new Date();
   return d.toISOString().slice(0, 10);
-}
-
-function sleep(ms) {
-  return new Promise((r) => setTimeout(r, ms));
 }
 
 async function generateForPlace(place, stamp) {
@@ -61,6 +58,17 @@ async function postOnePending(item) {
 
   const photoUrls = photoPaths.map(toPublicUrl);
   const videoUrl = toPublicUrl(videoPath);
+
+  // Verify every media URL is reachable on Pages BEFORE handing it to Graph.
+  // Pages CDN propagates across edges asynchronously, and FB caches 404s from
+  // failed fetches — so probing per-URL right before posting catches stragglers
+  // that the workflow's single-file wait step missed.
+  // Throw on failure so the caller leaves the place in the candidate pool
+  // and a later run can retry it instead of treating it as "already posted".
+  console.log(`Verifying ${photoUrls.length + 1} media URLs reachable...`);
+  for (const url of [...photoUrls, videoUrl]) {
+    await ensureUrlReady(url, { maxSeconds: 120, intervalMs: 5000 });
+  }
 
   const results = {};
   const fbCaption = content.facebook.first_comment

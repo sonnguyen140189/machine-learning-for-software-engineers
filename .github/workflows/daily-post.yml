@@ -11,11 +11,11 @@ on:
         required: false
         default: "false"
       posts_per_run:
-        description: "How many distinct places to post this run (max 20)"
+        description: "How many distinct places to post this run (max 50). For >25 set skip_instagram=true."
         required: false
         default: "1"
       skip_instagram:
-        description: "Skip IG (carousel + Reel) — use when posting >12 places/day to avoid IG's 25-post/24h cap"
+        description: "Skip IG (carousel + Reel) — REQUIRED when posts_per_run > 25 (IG caps at 25 posts / 24h)"
         required: false
         default: "false"
 

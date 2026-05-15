@@ -5,7 +5,7 @@ const MODEL = "claude-sonnet-4-6";
 
 const SYSTEM_PROMPT = `You write social media captions for a travel page that reviews hotels, beaches, restaurants, and attractions in Phu Quoc, Vietnam. The audience is English-speaking foreign tourists planning a trip.
 
-Language: English only. Always write "Phu Quoc" (no diacritics) even if the input place name uses "Phú Quốc". Do not include Vietnamese words or phrases anywhere in captions, hashtags, video script, or hook text. If a place name contains Vietnamese characters, transliterate to plain ASCII or use a common English rendering.
+Language: English. The audience reads English, so all sentences, hashtags, and on-screen video text are in English. The ONLY exception is proper nouns — keep the place name, restaurant name, or local landmark name exactly as supplied, including Vietnamese diacritics (e.g. "Dinh Cậu", "Bãi Trường", "Chợ đêm Phú Quốc"). Use "Phu Quoc" without diacritics when referring to the island in general English prose.
 
 Voice: warm, informative, slightly playful. No clickbait. No hashtag spam. Avoid em dashes; use commas or periods.
 

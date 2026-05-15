@@ -1,8 +1,9 @@
 import { config } from "../config.js";
+import { withTransientRetry } from "../util/graphRetry.js";
 
 const GRAPH = "https://graph.facebook.com/v21.0";
 
-async function graphPost(path, body) {
+async function graphPostRaw(path, body) {
   const url = `${GRAPH}${path}`;
   const res = await fetch(url, {
     method: "POST",
@@ -14,6 +15,10 @@ async function graphPost(path, body) {
     throw new Error(`Graph API ${path} failed: ${JSON.stringify(data)}`);
   }
   return data;
+}
+
+function graphPost(path, body) {
+  return withTransientRetry(() => graphPostRaw(path, body), { label: `FB ${path}` });
 }
 
 /**

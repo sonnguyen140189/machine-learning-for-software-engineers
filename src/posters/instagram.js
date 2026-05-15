@@ -1,8 +1,9 @@
 import { config } from "../config.js";
+import { withTransientRetry } from "../util/graphRetry.js";
 
 const GRAPH = "https://graph.facebook.com/v21.0";
 
-async function graphPost(path, body) {
+async function graphPostRaw(path, body) {
   const res = await fetch(`${GRAPH}${path}`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
@@ -11,6 +12,10 @@ async function graphPost(path, body) {
   const data = await res.json();
   if (!res.ok) throw new Error(`IG Graph ${path} failed: ${JSON.stringify(data)}`);
   return data;
+}
+
+function graphPost(path, body) {
+  return withTransientRetry(() => graphPostRaw(path, body), { label: `IG ${path}` });
 }
 
 async function graphGet(path) {

@@ -83,40 +83,31 @@ export async function getPhotoUrl(photoName, maxWidthPx = 1600) {
   return data.photoUri || null;
 }
 
-// Vietnamese-language place-type prefixes (temple, market, shrine, mausoleum,
-// communal house, mountain, beach, etc). If the name STARTS with any of these,
-// the place is locally named and unlikely to read well in an English caption.
-const VN_PREFIXES = [
-  "Chợ", "Cho ",
-  "Đền", "Den ",
-  "Đình", "Dinh ",
-  "Lăng", "Lang ",
-  "Chùa", "Chua ",
-  "Miếu", "Mieu ",
-  "Núi", "Nui ",
-  "Bãi ", "Bai ",
-  "Hòn ", "Hon ",
-  "Vườn", "Vuon ",
-  "Suối", "Suoi ",
-];
-
-// Audience is foreign tourists. Reject names that are mostly Vietnamese
-// (more than 8% non-ASCII characters) or that start with a Vietnamese
-// place-type prefix.
-function hasEnglishName(place) {
-  const name = place.displayName?.text || "";
-  if (!name) return false;
-  if (VN_PREFIXES.some((p) => name.startsWith(p))) return false;
-  const nonAscii = name.replace(/[\x20-\x7E]/g, "");
-  return nonAscii.length / name.length < 0.08;
+// Audience is foreign tourists but local proper nouns are allowed in place /
+// restaurant names per the page owner's instruction. Captions are still
+// authored in English by the Claude prompt — we only relax the name filter.
+function hasUsableName(place) {
+  return Boolean(place.displayName?.text);
 }
 
 export async function fetchDailyCandidates({ count = 8 } = {}) {
-  const query = SEARCH_QUERIES[Math.floor(Math.random() * SEARCH_QUERIES.length)];
-  const places = await searchPhuQuocPlaces({ query, max: count * 4 });
-  return places
+  // Pull from MULTIPLE search queries so a single noisy query (e.g. only
+  // surfaces local-named night markets) doesn't starve a large batch.
+  const queries = [...SEARCH_QUERIES].sort(() => Math.random() - 0.5);
+  const seen = new Set();
+  const collected = [];
+  for (const query of queries) {
+    const batch = await searchPhuQuocPlaces({ query, max: 20 });
+    for (const p of batch) {
+      if (seen.has(p.id)) continue;
+      seen.add(p.id);
+      collected.push(p);
+    }
+    if (collected.length >= count * 4) break;
+  }
+  return collected
     .filter((p) => (p.rating || 0) >= 4.0 && (p.userRatingCount || 0) >= 30)
-    .filter(hasEnglishName)
+    .filter(hasUsableName)
     .slice(0, count);
 }
 
