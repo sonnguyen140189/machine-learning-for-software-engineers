@@ -1,5 +1,8 @@
 {
   "postedPlaceIds": [
+    "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
+    "ChIJXQcO2BeLpzERuYoEmJFjuuM",
+    "ChIJw58lTZeNpzERBCwsZlG8gwA",
     "ChIJn_OoioaMpzER6LmKuuTHasY",
     "ChIJbUZGsQEfCDERXgX4I2SUCsI",
     "ChIJb94_UYaMpzERLROoXapH5lI",
@@ -8,6 +11,73 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-15",
+      "placeId": "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
+      "placeName": "Istanbul Beach Club Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102382063313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18213657790325589"
+        },
+        "facebookVideo": {
+          "id": "996748362788379"
+        },
+        "instagramReel": {
+          "id": "18107878513763034"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "placeId": "ChIJXQcO2BeLpzERuYoEmJFjuuM",
+      "placeName": "Ong Lang beach",
+      "results": {
+        "facebook": {
+          "error": "Graph API /1133240739869014/photos failed: {\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Akqm_nEGa0oYJCb8PdpWiG7\"}}"
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media failed: {\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://sonnguyen140189.github.io/machine-learning-for-software-engineers/out/media/2026-05-15-RuYoEmJFjuuM-0.jpg.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ASMLOx4u6mkVYlA_AWmSmP_\"}}"
+        },
+        "facebookVideo": {
+          "error": "Graph API /1133240739869014/videos failed: {\"error\":{\"message\":\"Unable to fetch video file from URL.\",\"type\":\"OAuthException\",\"code\":389,\"error_subcode\":1363057,\"is_transient\":false,\"error_user_title\":\"Unable to fetch video file from URL\",\"error_user_msg\":\"Unable to fetch video file from URL.\",\"fbtrace_id\":\"AUlIL5Wx5eeXRr-KTGqhgS2\"}}"
+        },
+        "instagramReel": {
+          "id": "18103966348985906"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "placeId": "ChIJw58lTZeNpzERBCwsZlG8gwA",
+      "placeName": "Sunset Sanato Beach Club",
+      "results": {
+        "facebook": {
+          "error": "Graph API /1133240739869014/photos failed: {\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"ArNq7fUVHp4GWFtyIDa8kD2\"}}"
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media failed: {\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://sonnguyen140189.github.io/machine-learning-for-software-engineers/out/media/2026-05-15-RBCwsZlG8gwA-0.jpg.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AJ1mB4sgtaUWiPVI9HmHcEe\"}}"
+        },
+        "facebookVideo": {
+          "error": "Graph API /1133240739869014/videos failed: {\"error\":{\"message\":\"Unable to fetch video file from URL.\",\"type\":\"OAuthException\",\"code\":389,\"error_subcode\":1363057,\"is_transient\":false,\"error_user_title\":\"Unable to fetch video file from URL\",\"error_user_msg\":\"Unable to fetch video file from URL.\",\"fbtrace_id\":\"AUNrkkr52QnMEkp4Ms3Egg6\"}}"
+        },
+        "instagramReel": {
+          "error": "IG container 18130988494519977: Error: Media upload has failed with error code 2207076"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
     {
       "date": "2026-05-15",
       "placeId": "ChIJn_OoioaMpzER6LmKuuTHasY",
