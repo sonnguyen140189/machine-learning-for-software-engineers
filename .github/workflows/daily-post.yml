@@ -42,12 +42,44 @@ jobs:
 
       - run: npm ci || npm install
 
-      - name: Run daily post
+      - name: Generate phase (build media + scripts, no posting)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          PUBLIC_MEDIA_BASE_URL: ${{ vars.PUBLIC_MEDIA_BASE_URL }}
+          POSTS_PER_RUN: ${{ github.event.inputs.posts_per_run || '1' }}
+          TIMEZONE: Asia/Ho_Chi_Minh
+          PHASE: generate
+        run: node src/orchestrator.js
+
+      - name: Commit + push media so Pages serves it
+        run: |
+          git config user.name "phuquoc-review-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A out/
+          if ! git diff --cached --quiet; then
+            git commit -m "Generate batch $(date -u +%Y-%m-%dT%H-%M)"
+            git push
+          fi
+
+      - name: Wait for GitHub Pages to deploy new media
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          for i in $(seq 1 30); do
+            status=$(gh api /repos/${{ github.repository }}/pages/builds/latest -q .status 2>/dev/null || echo "?")
+            echo "[$i] pages build: $status"
+            if [ "$status" = "built" ]; then break; fi
+            sleep 10
+          done
+          # Additional small grace period for CDN propagation.
+          sleep 20
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Post phase
+        env:
           META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
           META_IG_BUSINESS_ACCOUNT_ID: ${{ secrets.META_IG_BUSINESS_ACCOUNT_ID }}
@@ -55,19 +87,18 @@ jobs:
           TIKTOK_OPEN_ID: ${{ secrets.TIKTOK_OPEN_ID }}
           PUBLIC_MEDIA_BASE_URL: ${{ vars.PUBLIC_MEDIA_BASE_URL }}
           DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
-          POSTS_PER_RUN: ${{ github.event.inputs.posts_per_run || '1' }}
           SKIP_INSTAGRAM: ${{ github.event.inputs.skip_instagram || 'false' }}
           TIMEZONE: Asia/Ho_Chi_Minh
-        run: npm run daily
+          PHASE: post
+        run: node src/orchestrator.js
 
-      - name: Commit generated media + state
-        if: success()
+      - name: Commit state + cleanup pending file
+        if: success() || failure()
         run: |
-          git config user.name "phuquoc-review-bot"
-          git config user.email "bot@users.noreply.github.com"
+          git pull --rebase origin master || true
           git add -A out/
           if ! git diff --cached --quiet; then
-            git commit -m "Daily post $(date -u +%Y-%m-%d)"
+            git commit -m "Post batch $(date -u +%Y-%m-%dT%H-%M)"
             git push
           fi
 

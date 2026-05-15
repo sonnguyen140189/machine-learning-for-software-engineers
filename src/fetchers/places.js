@@ -83,15 +83,32 @@ export async function getPhotoUrl(photoName, maxWidthPx = 1600) {
   return data.photoUri || null;
 }
 
-// Reject places whose display name is mostly non-ASCII (i.e. Vietnamese-only
-// names like "Chợ đêm Phú Quốc"). Audience is foreign tourists reading English.
-// Hybrid names like "Vinpearl Resort & Spa Phú Quốc" still pass because the
-// Vietnamese fragment is a small share of the total.
+// Vietnamese-language place-type prefixes (temple, market, shrine, mausoleum,
+// communal house, mountain, beach, etc). If the name STARTS with any of these,
+// the place is locally named and unlikely to read well in an English caption.
+const VN_PREFIXES = [
+  "Chợ", "Cho ",
+  "Đền", "Den ",
+  "Đình", "Dinh ",
+  "Lăng", "Lang ",
+  "Chùa", "Chua ",
+  "Miếu", "Mieu ",
+  "Núi", "Nui ",
+  "Bãi ", "Bai ",
+  "Hòn ", "Hon ",
+  "Vườn", "Vuon ",
+  "Suối", "Suoi ",
+];
+
+// Audience is foreign tourists. Reject names that are mostly Vietnamese
+// (more than 8% non-ASCII characters) or that start with a Vietnamese
+// place-type prefix.
 function hasEnglishName(place) {
   const name = place.displayName?.text || "";
   if (!name) return false;
+  if (VN_PREFIXES.some((p) => name.startsWith(p))) return false;
   const nonAscii = name.replace(/[\x20-\x7E]/g, "");
-  return nonAscii.length / name.length < 0.25;
+  return nonAscii.length / name.length < 0.08;
 }
 
 export async function fetchDailyCandidates({ count = 8 } = {}) {

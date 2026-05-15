@@ -1,4 +1,4 @@
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, writeFile, readFile, unlink } from "node:fs/promises";
 import { join } from "node:path";
 import { config } from "./config.js";
 import { fetchDailyCandidates } from "./fetchers/places.js";
@@ -12,6 +12,7 @@ import { postInstagramCarousel, postInstagramReel } from "./posters/instagram.js
 import { postTikTokVideo } from "./posters/tiktok.js";
 
 const OUT_DIR = "out";
+const PENDING_FILE = join(OUT_DIR, "pending-batch.json");
 
 function todayStamp() {
   const d = new Date();
@@ -22,12 +23,10 @@ function sleep(ms) {
   return new Promise((r) => setTimeout(r, ms));
 }
 
-async function postOnePlace(place, stamp, state) {
+async function generateForPlace(place, stamp) {
   const placeName = place.displayName?.text || "Phu Quoc";
-  console.log(`\n--- Posting: ${placeName} (${place.id}) ---`);
+  console.log(`\n--- Generate: ${placeName} (${place.id}) ---`);
 
-  // Unique per-run prefix so URLs never collide with a previous run's
-  // still-cached files on GitHub Pages.
   const placeShort = place.id.slice(-12);
   const prefix = `${stamp}-${placeShort}`;
 
@@ -47,18 +46,23 @@ async function postOnePlace(place, stamp, state) {
   await buildSlideshowVideo(photoPaths.slice(0, 6), content.video_script, videoPath, 3);
   console.log(`Built video: ${videoPath}`);
 
-  let photoUrls = [];
-  let videoUrl = null;
-  try {
-    photoUrls = photoPaths.map(toPublicUrl);
-    videoUrl = toPublicUrl(videoPath);
-  } catch (err) {
-    if (!config.dryRun) throw err;
-    console.warn(`[DRY] skipping URL resolution: ${err.message}`);
-  }
+  return {
+    placeId: place.id,
+    placeName,
+    photoPaths,
+    videoPath,
+    content,
+  };
+}
+
+async function postOnePending(item) {
+  const { placeName, photoPaths, videoPath, content } = item;
+  console.log(`\n--- Post: ${placeName} ---`);
+
+  const photoUrls = photoPaths.map(toPublicUrl);
+  const videoUrl = toPublicUrl(videoPath);
 
   const results = {};
-
   const fbCaption = content.facebook.first_comment
     ? `${content.facebook.caption}\n\n${content.facebook.first_comment}`
     : content.facebook.caption;
@@ -67,7 +71,7 @@ async function postOnePlace(place, stamp, state) {
     results.facebook = await postFacebookCarousel(photoUrls, fbCaption);
   } catch (err) {
     results.facebook = { error: err.message };
-    console.error("Facebook post failed:", err.message);
+    console.error("FB carousel failed:", err.message);
   }
 
   if (!config.skipInstagram) {
@@ -78,83 +82,113 @@ async function postOnePlace(place, stamp, state) {
       );
     } catch (err) {
       results.instagram = { error: err.message };
-      console.error("Instagram carousel failed:", err.message);
+      console.error("IG carousel failed:", err.message);
     }
   } else {
     results.instagram = { skipped: "SKIP_INSTAGRAM=true" };
   }
 
-  if (videoUrl) {
-    try {
-      results.facebookVideo = await postFacebookVideo(videoUrl, fbCaption);
-    } catch (err) {
-      results.facebookVideo = { error: err.message };
-      console.error("Facebook video failed:", err.message);
-    }
-
-    if (!config.skipInstagram) {
-      try {
-        results.instagramReel = await postInstagramReel(videoUrl, content.instagram.caption);
-      } catch (err) {
-        results.instagramReel = { error: err.message };
-        console.error("Instagram Reel failed:", err.message);
-      }
-    } else {
-      results.instagramReel = { skipped: "SKIP_INSTAGRAM=true" };
-    }
-
-    try {
-      results.tiktok = await postTikTokVideo(videoUrl, content.tiktok.caption);
-    } catch (err) {
-      results.tiktok = { error: err.message };
-      console.error("TikTok post failed:", err.message);
-    }
+  try {
+    results.facebookVideo = await postFacebookVideo(videoUrl, fbCaption);
+  } catch (err) {
+    results.facebookVideo = { error: err.message };
+    console.error("FB video failed:", err.message);
   }
 
-  state.postedPlaceIds = [place.id, ...state.postedPlaceIds].slice(0, 500);
-  state.history.unshift({ date: stamp, placeId: place.id, placeName, results });
-  state.history = state.history.slice(0, 200);
-  await saveState(state);
+  if (!config.skipInstagram) {
+    try {
+      results.instagramReel = await postInstagramReel(videoUrl, content.instagram.caption);
+    } catch (err) {
+      results.instagramReel = { error: err.message };
+      console.error("IG Reel failed:", err.message);
+    }
+  } else {
+    results.instagramReel = { skipped: "SKIP_INSTAGRAM=true" };
+  }
 
-  return { placeName, results };
+  try {
+    results.tiktok = await postTikTokVideo(videoUrl, content.tiktok.caption);
+  } catch (err) {
+    results.tiktok = { error: err.message };
+  }
+
+  return { placeId: item.placeId, placeName, results };
 }
 
-async function main() {
+async function generatePhase() {
   await mkdir(OUT_DIR, { recursive: true });
+  await mkdir(join(OUT_DIR, "media"), { recursive: true });
   const state = await loadState();
   const stamp = todayStamp();
   const n = config.postsPerRun;
 
-  console.log(
-    `=== Phu Quoc batch: ${stamp} (dryRun=${config.dryRun}, ` +
-      `posts=${n}, skipInstagram=${config.skipInstagram}) ===`,
-  );
+  console.log(`=== GENERATE phase: ${stamp} (posts=${n}) ===`);
 
-  // Pull a larger candidate pool so we always have N fresh places.
   const candidates = await fetchDailyCandidates({ count: Math.max(n * 4, 12) });
   if (!candidates.length) throw new Error("No place candidates returned");
 
-  const summary = [];
+  const pending = [];
+  const chosenIds = new Set();
   for (let i = 0; i < n; i++) {
-    const fresh = candidates.filter(
-      (p) =>
-        !state.postedPlaceIds.includes(p.id) &&
-        !summary.some((s) => s.placeId === p.id),
+    const place = candidates.find(
+      (p) => !state.postedPlaceIds.includes(p.id) && !chosenIds.has(p.id),
     );
-    const place = fresh[0] || candidates[i % candidates.length];
-    try {
-      const out = await postOnePlace(place, stamp, state);
-      summary.push({ placeId: place.id, placeName: out.placeName, results: out.results });
-    } catch (err) {
-      console.error(`Post ${i + 1}/${n} failed for ${place.id}: ${err.message}`);
-      summary.push({ placeId: place.id, error: err.message });
+    if (!place) {
+      console.warn(`Ran out of fresh candidates after ${i} places`);
+      break;
     }
-    // Brief pacing between posts to ease API rate-limit pressure.
-    if (i < n - 1) await sleep(5000);
+    chosenIds.add(place.id);
+    try {
+      const item = await generateForPlace(place, stamp);
+      pending.push(item);
+    } catch (err) {
+      console.error(`Generate failed for ${place.id}: ${err.message}`);
+    }
   }
 
-  console.log("\n=== Batch done ===");
-  console.log(JSON.stringify(summary, null, 2));
+  await writeFile(PENDING_FILE, JSON.stringify({ stamp, items: pending }, null, 2));
+  console.log(`\n=== Generated ${pending.length}/${n}. Wrote ${PENDING_FILE}. ===`);
+}
+
+async function postPhase() {
+  const state = await loadState();
+  const raw = await readFile(PENDING_FILE, "utf8").catch(() => null);
+  if (!raw) throw new Error(`${PENDING_FILE} not found — run generate phase first`);
+  const { stamp, items } = JSON.parse(raw);
+
+  console.log(`=== POST phase: ${stamp} (${items.length} items, skipIG=${config.skipInstagram}) ===`);
+
+  if (config.dryRun) {
+    console.log("[DRY] would post:", items.map((i) => i.placeName));
+    return;
+  }
+
+  for (let i = 0; i < items.length; i++) {
+    try {
+      const out = await postOnePending(items[i]);
+      state.postedPlaceIds = [items[i].placeId, ...state.postedPlaceIds].slice(0, 500);
+      state.history.unshift({ date: stamp, placeId: items[i].placeId, placeName: out.placeName, results: out.results });
+    } catch (err) {
+      console.error(`Post failed for ${items[i].placeId}: ${err.message}`);
+    }
+    if (i < items.length - 1) await sleep(5000);
+  }
+  state.history = state.history.slice(0, 200);
+  await saveState(state);
+
+  // Clear pending so next generate run starts clean
+  await unlink(PENDING_FILE).catch(() => {});
+  console.log("\n=== Post phase done ===");
+}
+
+async function main() {
+  const phase = (process.env.PHASE || "all").toLowerCase();
+  if (phase === "generate") return generatePhase();
+  if (phase === "post") return postPhase();
+  // Legacy single-shot for ad-hoc local runs (generate + post in one process).
+  // Not safe for cloud runs because URLs aren't yet served by Pages.
+  await generatePhase();
+  await postPhase();
 }
 
 main().catch((err) => {
