@@ -18,49 +18,35 @@ function todayStamp() {
   return d.toISOString().slice(0, 10);
 }
 
-function pickFreshPlace(candidates, postedIds) {
-  const fresh = candidates.filter((p) => !postedIds.includes(p.id));
-  return fresh[0] || candidates[0];
+function sleep(ms) {
+  return new Promise((r) => setTimeout(r, ms));
 }
 
-async function main() {
-  await mkdir(OUT_DIR, { recursive: true });
-  const state = await loadState();
-  const stamp = todayStamp();
-
-  console.log(`=== Daily Phu Quoc post: ${stamp} (dryRun=${config.dryRun}) ===`);
-
-  // 1. Find a place to feature today
-  const candidates = await fetchDailyCandidates({ count: 12 });
-  if (!candidates.length) throw new Error("No place candidates returned");
-  const place = pickFreshPlace(candidates, state.postedPlaceIds);
+async function postOnePlace(place, stamp, state) {
   const placeName = place.displayName?.text || "Phu Quoc";
-  console.log(`Today's place: ${placeName} (${place.id})`);
+  console.log(`\n--- Posting: ${placeName} (${place.id}) ---`);
 
-  // Unique per-run prefix so that media URLs published to FB/IG never
-  // collide with a previous run's still-cached files on GitHub Pages.
-  // (Posting happens BEFORE the new files are pushed; without uniqueness,
-  // IG can re-download yesterday's video at today's URL.)
+  // Unique per-run prefix so URLs never collide with a previous run's
+  // still-cached files on GitHub Pages.
   const placeShort = place.id.slice(-12);
   const prefix = `${stamp}-${placeShort}`;
 
-  // 2. Gather + download photos
   const photoMeta = await gatherPhotosForPlace(place, { count: 8 });
   if (photoMeta.length < 3) throw new Error(`Not enough photos for ${placeName}`);
   const downloaded = await downloadPhotos(photoMeta, prefix);
   const photoPaths = downloaded.map((p) => p.localPath);
   console.log(`Downloaded ${photoPaths.length} photos`);
 
-  // 3. Generate captions / hashtags / video script
   const content = await generateContent(place);
-  await writeFile(join(OUT_DIR, `content-${stamp}.json`), JSON.stringify(content, null, 2));
+  await writeFile(
+    join(OUT_DIR, `content-${prefix}.json`),
+    JSON.stringify(content, null, 2),
+  );
 
-  // 4. Build the video
   const videoPath = join(OUT_DIR, "media", `${prefix}.mp4`);
   await buildSlideshowVideo(photoPaths.slice(0, 6), content.video_script, videoPath, 3);
   console.log(`Built video: ${videoPath}`);
 
-  // 5. Resolve public URLs (will throw if PUBLIC_MEDIA_BASE_URL unset)
   let photoUrls = [];
   let videoUrl = null;
   try {
@@ -71,49 +57,52 @@ async function main() {
     console.warn(`[DRY] skipping URL resolution: ${err.message}`);
   }
 
-  // 6. Post to each platform (no-op when DRY_RUN=true)
   const results = {};
 
+  const fbCaption = content.facebook.first_comment
+    ? `${content.facebook.caption}\n\n${content.facebook.first_comment}`
+    : content.facebook.caption;
+
   try {
-    // Inline hashtags in the caption — posting them as a first comment
-    // requires pages_manage_engagement scope (not granted on this app).
-    const fbCaption = content.facebook.first_comment
-      ? `${content.facebook.caption}\n\n${content.facebook.first_comment}`
-      : content.facebook.caption;
     results.facebook = await postFacebookCarousel(photoUrls, fbCaption);
   } catch (err) {
     results.facebook = { error: err.message };
     console.error("Facebook post failed:", err.message);
   }
 
-  try {
-    results.instagram = await postInstagramCarousel(
-      photoUrls,
-      `${content.instagram.caption}\n\n${content.instagram.hashtags}`,
-    );
-  } catch (err) {
-    results.instagram = { error: err.message };
-    console.error("Instagram carousel failed:", err.message);
+  if (!config.skipInstagram) {
+    try {
+      results.instagram = await postInstagramCarousel(
+        photoUrls,
+        `${content.instagram.caption}\n\n${content.instagram.hashtags}`,
+      );
+    } catch (err) {
+      results.instagram = { error: err.message };
+      console.error("Instagram carousel failed:", err.message);
+    }
+  } else {
+    results.instagram = { skipped: "SKIP_INSTAGRAM=true" };
   }
 
   if (videoUrl) {
     try {
-      results.facebookVideo = await postFacebookVideo(
-        videoUrl,
-        content.facebook.first_comment
-          ? `${content.facebook.caption}\n\n${content.facebook.first_comment}`
-          : content.facebook.caption,
-      );
+      results.facebookVideo = await postFacebookVideo(videoUrl, fbCaption);
     } catch (err) {
       results.facebookVideo = { error: err.message };
       console.error("Facebook video failed:", err.message);
     }
-    try {
-      results.instagramReel = await postInstagramReel(videoUrl, content.instagram.caption);
-    } catch (err) {
-      results.instagramReel = { error: err.message };
-      console.error("Instagram Reel failed:", err.message);
+
+    if (!config.skipInstagram) {
+      try {
+        results.instagramReel = await postInstagramReel(videoUrl, content.instagram.caption);
+      } catch (err) {
+        results.instagramReel = { error: err.message };
+        console.error("Instagram Reel failed:", err.message);
+      }
+    } else {
+      results.instagramReel = { skipped: "SKIP_INSTAGRAM=true" };
     }
+
     try {
       results.tiktok = await postTikTokVideo(videoUrl, content.tiktok.caption);
     } catch (err) {
@@ -122,14 +111,50 @@ async function main() {
     }
   }
 
-  // 7. Persist state
-  state.postedPlaceIds = [place.id, ...state.postedPlaceIds].slice(0, 200);
+  state.postedPlaceIds = [place.id, ...state.postedPlaceIds].slice(0, 500);
   state.history.unshift({ date: stamp, placeId: place.id, placeName, results });
-  state.history = state.history.slice(0, 90);
+  state.history = state.history.slice(0, 200);
   await saveState(state);
 
-  console.log("Done.");
-  console.log(JSON.stringify(results, null, 2));
+  return { placeName, results };
+}
+
+async function main() {
+  await mkdir(OUT_DIR, { recursive: true });
+  const state = await loadState();
+  const stamp = todayStamp();
+  const n = config.postsPerRun;
+
+  console.log(
+    `=== Phu Quoc batch: ${stamp} (dryRun=${config.dryRun}, ` +
+      `posts=${n}, skipInstagram=${config.skipInstagram}) ===`,
+  );
+
+  // Pull a larger candidate pool so we always have N fresh places.
+  const candidates = await fetchDailyCandidates({ count: Math.max(n * 4, 12) });
+  if (!candidates.length) throw new Error("No place candidates returned");
+
+  const summary = [];
+  for (let i = 0; i < n; i++) {
+    const fresh = candidates.filter(
+      (p) =>
+        !state.postedPlaceIds.includes(p.id) &&
+        !summary.some((s) => s.placeId === p.id),
+    );
+    const place = fresh[0] || candidates[i % candidates.length];
+    try {
+      const out = await postOnePlace(place, stamp, state);
+      summary.push({ placeId: place.id, placeName: out.placeName, results: out.results });
+    } catch (err) {
+      console.error(`Post ${i + 1}/${n} failed for ${place.id}: ${err.message}`);
+      summary.push({ placeId: place.id, error: err.message });
+    }
+    // Brief pacing between posts to ease API rate-limit pressure.
+    if (i < n - 1) await sleep(5000);
+  }
+
+  console.log("\n=== Batch done ===");
+  console.log(JSON.stringify(summary, null, 2));
 }
 
 main().catch((err) => {

@@ -17,6 +17,10 @@ export const config = {
   publicMediaBaseUrl: process.env.PUBLIC_MEDIA_BASE_URL,
   dryRun: process.env.DRY_RUN !== "false",
   timezone: process.env.TIMEZONE || "Asia/Ho_Chi_Minh",
+  postsPerRun: Math.max(1, Math.min(20, parseInt(process.env.POSTS_PER_RUN || "1", 10))),
+  // When true, skip IG calls entirely so we can post 50/day to FB without
+  // hitting the IG Graph API's 25-post-per-24h cap.
+  skipInstagram: process.env.SKIP_INSTAGRAM === "true",
   // Phu Quoc center coordinates
   phuQuoc: {
     lat: 10.2270,

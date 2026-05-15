@@ -10,6 +10,14 @@ on:
         description: "Dry run (no actual posting)"
         required: false
         default: "false"
+      posts_per_run:
+        description: "How many distinct places to post this run (max 20)"
+        required: false
+        default: "1"
+      skip_instagram:
+        description: "Skip IG (carousel + Reel) — use when posting >12 places/day to avoid IG's 25-post/24h cap"
+        required: false
+        default: "false"
 
 permissions:
   contents: write
@@ -47,6 +55,8 @@ jobs:
           TIKTOK_OPEN_ID: ${{ secrets.TIKTOK_OPEN_ID }}
           PUBLIC_MEDIA_BASE_URL: ${{ vars.PUBLIC_MEDIA_BASE_URL }}
           DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+          POSTS_PER_RUN: ${{ github.event.inputs.posts_per_run || '1' }}
+          SKIP_INSTAGRAM: ${{ github.event.inputs.skip_instagram || 'false' }}
           TIMEZONE: Asia/Ho_Chi_Minh
         run: npm run daily
 
