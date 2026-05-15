@@ -1,0 +1,25 @@
+{
+  "facebook": {
+    "caption": "Grand World Phu Quoc is one of those places that genuinely surprises first-time visitors. Think a walkable entertainment complex packed with themed streets, light installations, live performances, and a canal you can cruise along, all on the north end of the island near Bai Dai Beach. It earns its 4.4 out of 5 from over 13,000 reviews for good reason. Whether you are looking for a lively evening out, a family-friendly adventure, or just great photo spots, this place delivers. Practical tip: visit after sunset when the lights come on and the whole complex transforms into something really special.",
+    "first_comment": "#GrandWorldPhuQuoc #PhuQuoc #PhuQuocTravel #VietnamTravel #IslandLife #TravelVietnam #FamilyTravel"
+  },
+  "instagram": {
+    "caption": "Evenings at Grand World Phu Quoc hit different after dark. Glowing lights, canal boats, live shows, and street after street of things to explore. Rated 4.4/5 by 13,000+ visitors, it is easily one of the island's most fun nights out. Pro tip: skip the afternoon heat and arrive at sunset.",
+    "hashtags": "#GrandWorldPhuQuoc #PhuQuoc #PhuQuocIsland #VietnamTravel #TravelAsia #IslandTravel #NightLife #FamilyFriendly #TravelPhotography #BaiDai #SoutheastAsia #AsiaTravel #VacationVibes #ExploreVietnam #TravelInspiration #HiddenGems"
+  },
+  "tiktok": {
+    "caption": "Grand World Phu Quoc at night is unreal. Canal boats, light shows, endless food. Do not miss this. #PhuQuoc #GrandWorld #VietnamTravel #TravelTok #IslandLife"
+  },
+  "video_script": {
+    "hook": "This place changes after dark.",
+    "scenes": [
+      "Grand World, Phu Quoc",
+      "Canal boats & glowing streets",
+      "Live performances every night",
+      "Food, shops & photo spots",
+      "Rated 4.4/5 by 13,000+ visitors",
+      "Arrive at sunset for best vibes"
+    ],
+    "cta": "Save this for your Phu Quoc trip!"
+  }
+}

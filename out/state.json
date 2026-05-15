@@ -1,10 +1,79 @@
 {
   "postedPlaceIds": [
+    "ChIJn_OoioaMpzER6LmKuuTHasY",
+    "ChIJbUZGsQEfCDERXgX4I2SUCsI",
+    "ChIJb94_UYaMpzERLROoXapH5lI",
     "ChIJ0R95YniTpzER8HfwfZ2aMZI",
     "ChIJLZPWxLiWpzERwrkgfIa1P8I",
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-15",
+      "placeId": "ChIJn_OoioaMpzER6LmKuuTHasY",
+      "placeName": "Dinh Cậu",
+      "results": {
+        "facebook": {
+          "error": "Graph API /1133240739869014/photos failed: {\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AKHAInvX8jaOnDkgWg7yQan\"}}"
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media failed: {\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://sonnguyen140189.github.io/machine-learning-for-software-engineers/out/media/2026-05-15-R6LmKuuTHasY-0.jpg.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ApnyWOB-cbXi3tLZVoL9i3D\"}}"
+        },
+        "facebookVideo": {
+          "error": "Graph API /1133240739869014/videos failed: {\"error\":{\"message\":\"Unable to fetch video file from URL.\",\"type\":\"OAuthException\",\"code\":389,\"error_subcode\":1363057,\"is_transient\":false,\"error_user_title\":\"Unable to fetch video file from URL\",\"error_user_msg\":\"Unable to fetch video file from URL.\",\"fbtrace_id\":\"Ad29FlJJxEY52gGNsWvAEiD\"}}"
+        },
+        "instagramReel": {
+          "error": "IG container 18130987450519977: Error: Media upload has failed with error code 2207076"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "placeId": "ChIJbUZGsQEfCDERXgX4I2SUCsI",
+      "placeName": "Grand World Phu Quoc",
+      "results": {
+        "facebook": {
+          "error": "Graph API /1133240739869014/photos failed: {\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"Ai6MwqDAJZcKOQ4PXZcMsPl\"}}"
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media failed: {\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://sonnguyen140189.github.io/machine-learning-for-software-engineers/out/media/2026-05-15-RXgX4I2SUCsI-0.jpg.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"AvZfR5LRXrnFTlSXWOph_mT\"}}"
+        },
+        "facebookVideo": {
+          "error": "Graph API /1133240739869014/videos failed: {\"error\":{\"message\":\"Unable to fetch video file from URL.\",\"type\":\"OAuthException\",\"code\":389,\"error_subcode\":1363057,\"is_transient\":false,\"error_user_title\":\"Unable to fetch video file from URL\",\"error_user_msg\":\"Unable to fetch video file from URL.\",\"fbtrace_id\":\"AV3CUcys__kx-tP2k7pITrY\"}}"
+        },
+        "instagramReel": {
+          "error": "IG container 18130987375519977: Error: Media upload has failed with error code 2207076"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "placeId": "ChIJb94_UYaMpzERLROoXapH5lI",
+      "placeName": "Dinh Bà Thủy Long Thánh Mẫu",
+      "results": {
+        "facebook": {
+          "error": "Graph API /1133240739869014/photos failed: {\"error\":{\"message\":\"Missing or invalid image file\",\"type\":\"OAuthException\",\"code\":324,\"error_subcode\":2069019,\"is_transient\":true,\"error_user_title\":\"Image Required\",\"error_user_msg\":\"Make sure your Page post includes an image that can be used in an ad.\",\"fbtrace_id\":\"AuYiSX7RVvkGUzvuoKOFwPL\"}}"
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media failed: {\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://sonnguyen140189.github.io/machine-learning-for-software-engineers/out/media/2026-05-15-RLROoXapH5lI-0.jpg.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"A2Nj5DnceB049APi87QhMvU\"}}"
+        },
+        "facebookVideo": {
+          "error": "Graph API /1133240739869014/videos failed: {\"error\":{\"message\":\"Unable to fetch video file from URL.\",\"type\":\"OAuthException\",\"code\":389,\"error_subcode\":1363057,\"is_transient\":false,\"error_user_title\":\"Unable to fetch video file from URL\",\"error_user_msg\":\"Unable to fetch video file from URL.\",\"fbtrace_id\":\"A8MJeF7i2QBYEaeu_dmSYjn\"}}"
+        },
+        "instagramReel": {
+          "error": "IG container 18130987243519977: Error: Media upload has failed with error code 2207076"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
     {
       "date": "2026-05-15",
       "placeId": "ChIJ0R95YniTpzER8HfwfZ2aMZI",
