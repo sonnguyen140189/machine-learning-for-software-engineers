@@ -13,7 +13,7 @@ on:
       posts_per_run:
         description: "How many distinct places to post this run (max 50). For >25 set skip_instagram=true."
         required: false
-        default: "20"
+        default: "12"
       skip_instagram:
         description: "Skip IG (carousel + Reel) — REQUIRED when posts_per_run > 25 (IG caps at 25 posts / 24h)"
         required: false
@@ -49,7 +49,7 @@ jobs:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           PUBLIC_MEDIA_BASE_URL: ${{ vars.PUBLIC_MEDIA_BASE_URL }}
-          POSTS_PER_RUN: ${{ github.event.inputs.posts_per_run || '20' }}
+          POSTS_PER_RUN: ${{ github.event.inputs.posts_per_run || '12' }}
           TIMEZONE: Asia/Ho_Chi_Minh
           PHASE: generate
         run: node src/orchestrator.js
