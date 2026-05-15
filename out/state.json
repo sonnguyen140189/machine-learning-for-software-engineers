@@ -1,5 +1,8 @@
 {
   "postedPlaceIds": [
+    "ChIJF33R8xCLpzERFtTAVV7G-14",
+    "ChIJ92MYQACNpzERK6dM8g8-pG0",
+    "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
     "ChIJJdya9E71pzERTu4abOIfjls",
     "ChIJ07kLWwCTpzERMUTHN5TrzFY",
     "ChIJq-YgJcuNpzER37aiRi5HfVo",
@@ -14,6 +17,75 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-15",
+      "placeId": "ChIJF33R8xCLpzERFtTAVV7G-14",
+      "placeName": "Camia Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102395119313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18097864949113361"
+        },
+        "facebookVideo": {
+          "id": "1544294990635404"
+        },
+        "instagramReel": {
+          "id": "18124214194618332"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "placeId": "ChIJ92MYQACNpzERK6dM8g8-pG0",
+      "placeName": "Restaurant Bukhara halal",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102394237313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18589236331039300"
+        },
+        "facebookVideo": {
+          "id": "1261881789046361"
+        },
+        "instagramReel": {
+          "id": "17951328227979876"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "placeId": "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
+      "placeName": "FUSION Treats",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102393409313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18092533073188333"
+        },
+        "facebookVideo": {
+          "id": "843332235485205"
+        },
+        "instagramReel": {
+          "id": "17911738311202998"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
     {
       "date": "2026-05-15",
       "placeId": "ChIJJdya9E71pzERTu4abOIfjls",
