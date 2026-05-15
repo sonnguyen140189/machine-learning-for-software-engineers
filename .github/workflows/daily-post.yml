@@ -64,19 +64,30 @@ jobs:
             git push
           fi
 
-      - name: Wait for GitHub Pages to deploy new media
+      - name: Wait until newly pushed media is reachable on Pages
         if: ${{ github.event.inputs.dry_run != 'true' }}
         run: |
-          for i in $(seq 1 30); do
-            status=$(gh api /repos/${{ github.repository }}/pages/builds/latest -q .status 2>/dev/null || echo "?")
-            echo "[$i] pages build: $status"
-            if [ "$status" = "built" ]; then break; fi
+          FIRST_FILE=$(git diff HEAD~1 HEAD --name-only --diff-filter=A 2>/dev/null | grep '^out/media/' | head -1)
+          if [ -z "$FIRST_FILE" ]; then
+            echo "No new media file found in HEAD — skipping wait."
+            exit 0
+          fi
+          URL="${PUBLIC_MEDIA_BASE_URL%/out/media}/$FIRST_FILE"
+          # PUBLIC_MEDIA_BASE_URL ends with /out/media; FIRST_FILE starts with out/media/
+          echo "Probing: $URL"
+          for i in $(seq 1 60); do
+            code=$(curl -sS -o /dev/null -w "%{http_code}" -I "$URL")
+            echo "[$i] $URL → HTTP $code"
+            if [ "$code" = "200" ]; then
+              echo "✓ Pages is serving the new media."
+              exit 0
+            fi
             sleep 10
           done
-          # Additional small grace period for CDN propagation.
-          sleep 20
+          echo "Timed out waiting for Pages to serve $URL"
+          exit 1
         env:
-          GH_TOKEN: ${{ github.token }}
+          PUBLIC_MEDIA_BASE_URL: ${{ vars.PUBLIC_MEDIA_BASE_URL }}
 
       - name: Post phase
         env:
