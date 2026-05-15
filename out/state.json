@@ -1,5 +1,8 @@
 {
   "postedPlaceIds": [
+    "ChIJJdya9E71pzERTu4abOIfjls",
+    "ChIJ07kLWwCTpzERMUTHN5TrzFY",
+    "ChIJq-YgJcuNpzER37aiRi5HfVo",
     "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
     "ChIJXQcO2BeLpzERuYoEmJFjuuM",
     "ChIJw58lTZeNpzERBCwsZlG8gwA",
@@ -11,6 +14,75 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-15",
+      "placeId": "ChIJJdya9E71pzERTu4abOIfjls",
+      "placeName": "Milana Beach Resort & Spa Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102386089313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18055927103720972"
+        },
+        "facebookVideo": {
+          "id": "903014992792754"
+        },
+        "instagramReel": {
+          "id": "18108407974925236"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "placeId": "ChIJ07kLWwCTpzERMUTHN5TrzFY",
+      "placeName": "Sonasea Public Beach Bai Truong",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102385063313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18077724707209173"
+        },
+        "facebookVideo": {
+          "id": "2023174281970608"
+        },
+        "instagramReel": {
+          "id": "18116655619813670"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "placeId": "ChIJq-YgJcuNpzER37aiRi5HfVo",
+      "placeName": "Phu Quoc Beach",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102383881313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18058614590491727"
+        },
+        "facebookVideo": {
+          "id": "25840207158988252"
+        },
+        "instagramReel": {
+          "id": "18122507026643342"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
     {
       "date": "2026-05-15",
       "placeId": "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
