@@ -1,5 +1,7 @@
 {
   "postedPlaceIds": [
+    "ChIJcSDG-fqWpzERQkkxuLWDUyU",
+    "ChIJQ4JcfECSpzER9dUT9AlYDJk",
     "ChIJoXjKmgSNpzERianh5FZP7WE",
     "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
     "ChIJB4_swjiNpzER0vsGaMBGTxg",
@@ -29,6 +31,52 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-16",
+      "placeId": "ChIJcSDG-fqWpzERQkkxuLWDUyU",
+      "placeName": "Premier Village Phu Quoc Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102667327313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AxVzg0FsMB-2tAeNSx9lmgp\"}}"
+        },
+        "facebookVideo": {
+          "id": "1299105922410875"
+        },
+        "instagramReel": {
+          "id": "17888575056489766"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "placeId": "ChIJQ4JcfECSpzER9dUT9AlYDJk",
+      "placeName": "InterContinental Phu Quoc Long Beach Resort by IHG",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102666217313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AUxR3MX_jxi6hno6X52oQ5l\"}}"
+        },
+        "facebookVideo": {
+          "id": "1534582191555988"
+        },
+        "instagramReel": {
+          "id": "18050113883753084"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
     {
       "date": "2026-05-16",
       "placeId": "ChIJoXjKmgSNpzERianh5FZP7WE",
