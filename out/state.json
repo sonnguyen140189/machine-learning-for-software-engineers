@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJoXjKmgSNpzERianh5FZP7WE",
+    "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
+    "ChIJB4_swjiNpzER0vsGaMBGTxg",
+    "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
+    "ChIJwaXLFgyJpzERsHSEodjscKQ",
+    "ChIJbYvoSyqNpzER-Damlo13tio",
+    "ChIJ8zUfc5iXpzERSSpBZR01y2c",
+    "ChIJd8N-u3CPpzERe2DX-mg_nWE",
+    "ChIJvxdKNoKWpzERAWSyG5rABsg",
+    "ChIJc-syEUyNpzERlXt7rXb3Hcg",
+    "ChIJH_PX_b6VpzERKTtTpGV5YXk",
+    "ChIJ2bp76JUfCDER2BAKZAkG66c",
     "ChIJF33R8xCLpzERFtTAVV7G-14",
     "ChIJ92MYQACNpzERK6dM8g8-pG0",
     "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
@@ -17,6 +29,282 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-16",
+      "placeId": "ChIJoXjKmgSNpzERianh5FZP7WE",
+      "placeName": "Kimie's Tours - Snorkeling, diving, & hiking",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102467695313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ADDmCNA31PCJJcbgt-UiBD-\"}}"
+        },
+        "facebookVideo": {
+          "id": "1346919380832318"
+        },
+        "instagramReel": {
+          "id": "18532054396079866"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "placeId": "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
+      "placeName": "Phu Quoc Local Guide - Snorkeling and Scuba Diving",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102466243313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AWXCgsYI79tmWM_Duv14Qb6\"}}"
+        },
+        "facebookVideo": {
+          "id": "4154858701401491"
+        },
+        "instagramReel": {
+          "id": "18102766276969522"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "placeId": "ChIJB4_swjiNpzER0vsGaMBGTxg",
+      "placeName": "Onbird Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102465139313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AEN8w8lNIFSLHgt1JGxuv8d\"}}"
+        },
+        "facebookVideo": {
+          "id": "1683393183114075"
+        },
+        "instagramReel": {
+          "id": "18093096034966122"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "placeId": "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
+      "placeName": "Into The Blue - Phu Quoc Snorkeling Boat Trip",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102463759313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Ah3eS_CicQHT3BLFQKOsAZd\"}}"
+        },
+        "facebookVideo": {
+          "id": "4466833583592226"
+        },
+        "instagramReel": {
+          "id": "18583831960015326"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "placeId": "ChIJwaXLFgyJpzERsHSEodjscKQ",
+      "placeName": "Khu du lịch sinh thái (Suối Đá Bàn)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102462775313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AbdnEiSVYwiAp0JG9guDFte\"}}"
+        },
+        "facebookVideo": {
+          "id": "1355178093137818"
+        },
+        "instagramReel": {
+          "id": "18107185262302956"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "placeId": "ChIJbYvoSyqNpzER-Damlo13tio",
+      "placeName": "PHU QUOC CENTRE",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102461941313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AeUVAMj-IUmVqzLsKDQS1P-\"}}"
+        },
+        "facebookVideo": {
+          "id": "1569768804717756"
+        },
+        "instagramReel": {
+          "id": "17980818002840585"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "placeId": "ChIJ8zUfc5iXpzERSSpBZR01y2c",
+      "placeName": "Phu Quoc Prison History Museum",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102460399313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AC3aCWXQ2rAPfbtJzfId3M_\"}}"
+        },
+        "facebookVideo": {
+          "id": "1270326775170704"
+        },
+        "instagramReel": {
+          "id": "18174987103401228"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "placeId": "ChIJd8N-u3CPpzERe2DX-mg_nWE",
+      "placeName": "Suoi Tranh Waterfall",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102459421313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AtTE6U2gqZ824dk0Gjw3hXn\"}}"
+        },
+        "facebookVideo": {
+          "id": "2012059109705782"
+        },
+        "instagramReel": {
+          "id": "18352470460244372"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "placeId": "ChIJvxdKNoKWpzERAWSyG5rABsg",
+      "placeName": "Hon Thom Departure Terminal - Sun World Hon Thom Nature Park",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102458263313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AwILqVrxWZKRQnH96giiDGc\"}}"
+        },
+        "facebookVideo": {
+          "id": "1028282989784891"
+        },
+        "instagramReel": {
+          "id": "17969159654900529"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "placeId": "ChIJc-syEUyNpzERlXt7rXb3Hcg",
+      "placeName": "Dinh Cau Lighthouse",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102457087313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Ar3TOFKVPss1NNe3MqXTccE\"}}"
+        },
+        "facebookVideo": {
+          "id": "1698445057829482"
+        },
+        "instagramReel": {
+          "id": "18129521062586812"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "placeId": "ChIJH_PX_b6VpzERKTtTpGV5YXk",
+      "placeName": "Sunset Town",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102455947313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Aq9GWMJyr0v9JMcL4J8QZc_\"}}"
+        },
+        "facebookVideo": {
+          "id": "990321913446917"
+        },
+        "instagramReel": {
+          "id": "18579124783042654"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "placeId": "ChIJ2bp76JUfCDER2BAKZAkG66c",
+      "placeName": "Vinpearl Safari Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102454693313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18055779248724567"
+        },
+        "facebookVideo": {
+          "id": "1633523951100612"
+        },
+        "instagramReel": {
+          "id": "17950857900158691"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
     {
       "date": "2026-05-15",
       "placeId": "ChIJF33R8xCLpzERFtTAVV7G-14",
