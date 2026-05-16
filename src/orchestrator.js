@@ -20,13 +20,15 @@ function todayStamp() {
   return d.toISOString().slice(0, 10);
 }
 
-async function generateForPlace(place, stamp) {
+async function generateForPlace(place, stamp, mode) {
   const placeName = place.displayName?.text || "Phu Quoc";
-  console.log(`\n--- Generate: ${placeName} (${place.id}) ---`);
+  console.log(`\n--- Generate (${mode}): ${placeName} (${place.id}) ---`);
 
   const placeShort = place.id.slice(-12);
   const prefix = `${stamp}-${placeShort}`;
 
+  // Photos are always downloaded — video mode uses them as slideshow frames,
+  // photo mode uses them as the carousel.
   const photoMeta = await gatherPhotosForPlace(place, { count: 8 });
   if (photoMeta.length < 3) throw new Error(`Not enough photos for ${placeName}`);
   const downloaded = await downloadPhotos(photoMeta, prefix);
@@ -39,13 +41,17 @@ async function generateForPlace(place, stamp) {
     JSON.stringify(content, null, 2),
   );
 
-  const videoPath = join(OUT_DIR, "media", `${prefix}.mp4`);
-  await buildSlideshowVideo(photoPaths.slice(0, 6), content.video_script, videoPath, 3);
-  console.log(`Built video: ${videoPath}`);
+  let videoPath = null;
+  if (mode === "video") {
+    videoPath = join(OUT_DIR, "media", `${prefix}.mp4`);
+    await buildSlideshowVideo(photoPaths.slice(0, 6), content.video_script, videoPath, 3);
+    console.log(`Built video: ${videoPath}`);
+  }
 
   return {
     placeId: place.id,
     placeName,
+    mode,
     photoPaths,
     videoPath,
     content,
@@ -53,11 +59,11 @@ async function generateForPlace(place, stamp) {
 }
 
 async function postOnePending(item) {
-  const { placeName, photoPaths, videoPath, content } = item;
-  console.log(`\n--- Post: ${placeName} ---`);
+  const { placeName, photoPaths, videoPath, content, mode } = item;
+  console.log(`\n--- Post (${mode}): ${placeName} ---`);
 
   const photoUrls = photoPaths.map(toPublicUrl);
-  const videoUrl = toPublicUrl(videoPath);
+  const videoUrl = videoPath ? toPublicUrl(videoPath) : null;
 
   // Verify every media URL is reachable on Pages BEFORE handing it to Graph.
   // Pages CDN propagates across edges asynchronously, and FB caches 404s from
@@ -65,73 +71,73 @@ async function postOnePending(item) {
   // that the workflow's single-file wait step missed.
   // Throw on failure so the caller leaves the place in the candidate pool
   // and a later run can retry it instead of treating it as "already posted".
-  console.log(`Verifying ${photoUrls.length + 1} media URLs reachable...`);
-  for (const url of [...photoUrls, videoUrl]) {
+  const urlsToCheck = mode === "video" ? [videoUrl] : photoUrls;
+  console.log(`Verifying ${urlsToCheck.length} media URLs reachable...`);
+  for (const url of urlsToCheck) {
     await ensureUrlReady(url, { maxSeconds: 120, intervalMs: 5000 });
   }
 
   const results = {};
 
-  // Carousel-only caption keeps the long-form fact recap.
-  const fbPhotoCaption = content.facebook.first_comment
-    ? `${content.facebook.caption}\n\n${content.facebook.first_comment}`
-    : content.facebook.caption;
+  if (mode === "photo") {
+    // Photo-only run: FB carousel + IG carousel. Skip the video surfaces so
+    // the feed doesn't show the same place twice in 1 minute.
+    const fbPhotoCaption = content.facebook.first_comment
+      ? `${content.facebook.caption}\n\n${content.facebook.first_comment}`
+      : content.facebook.caption;
+    const igPhotoCaption = `${content.instagram.caption}\n\n${content.instagram.hashtags}`;
 
-  // Video gets its own caption so the two FB Page posts (carousel + video
-  // within ~1 minute of each other) don't look like a copy-paste. Fall back
-  // to the photo caption if the upstream generator didn't produce one.
-  const fbVideoBase = content.facebook.video_caption || content.facebook.caption;
-  const fbVideoCaption = content.facebook.first_comment
-    ? `${fbVideoBase}\n\n${content.facebook.first_comment}`
-    : fbVideoBase;
-
-  const igPhotoCaption = `${content.instagram.caption}\n\n${content.instagram.hashtags}`;
-  const igVideoBase = content.instagram.video_caption || content.instagram.caption;
-  const igVideoCaption = `${igVideoBase}\n\n${content.instagram.hashtags}`;
-
-  try {
-    results.facebook = await postFacebookCarousel(photoUrls, fbPhotoCaption);
-  } catch (err) {
-    results.facebook = { error: err.message };
-    console.error("FB carousel failed:", err.message);
-  }
-
-  if (!config.skipInstagram) {
     try {
-      results.instagram = await postInstagramCarousel(photoUrls, igPhotoCaption);
+      results.facebook = await postFacebookCarousel(photoUrls, fbPhotoCaption);
     } catch (err) {
-      results.instagram = { error: err.message };
-      console.error("IG carousel failed:", err.message);
+      results.facebook = { error: err.message };
+      console.error("FB carousel failed:", err.message);
+    }
+    if (!config.skipInstagram) {
+      try {
+        results.instagram = await postInstagramCarousel(photoUrls, igPhotoCaption);
+      } catch (err) {
+        results.instagram = { error: err.message };
+        console.error("IG carousel failed:", err.message);
+      }
+    } else {
+      results.instagram = { skipped: "SKIP_INSTAGRAM=true" };
     }
   } else {
-    results.instagram = { skipped: "SKIP_INSTAGRAM=true" };
-  }
+    // Video-only run: FB video + IG Reel + TikTok. Prefer the video_caption so
+    // the wording lines up with what the viewer SEES in the clips. Fall back
+    // to the photo caption if older content didn't carry the new field.
+    const fbVideoBase = content.facebook.video_caption || content.facebook.caption;
+    const fbVideoCaption = content.facebook.first_comment
+      ? `${fbVideoBase}\n\n${content.facebook.first_comment}`
+      : fbVideoBase;
+    const igVideoBase = content.instagram.video_caption || content.instagram.caption;
+    const igVideoCaption = `${igVideoBase}\n\n${content.instagram.hashtags}`;
 
-  try {
-    results.facebookVideo = await postFacebookVideo(videoUrl, fbVideoCaption);
-  } catch (err) {
-    results.facebookVideo = { error: err.message };
-    console.error("FB video failed:", err.message);
-  }
-
-  if (!config.skipInstagram) {
     try {
-      results.instagramReel = await postInstagramReel(videoUrl, igVideoCaption);
+      results.facebookVideo = await postFacebookVideo(videoUrl, fbVideoCaption);
     } catch (err) {
-      results.instagramReel = { error: err.message };
-      console.error("IG Reel failed:", err.message);
+      results.facebookVideo = { error: err.message };
+      console.error("FB video failed:", err.message);
     }
-  } else {
-    results.instagramReel = { skipped: "SKIP_INSTAGRAM=true" };
+    if (!config.skipInstagram) {
+      try {
+        results.instagramReel = await postInstagramReel(videoUrl, igVideoCaption);
+      } catch (err) {
+        results.instagramReel = { error: err.message };
+        console.error("IG Reel failed:", err.message);
+      }
+    } else {
+      results.instagramReel = { skipped: "SKIP_INSTAGRAM=true" };
+    }
+    try {
+      results.tiktok = await postTikTokVideo(videoUrl, content.tiktok.caption);
+    } catch (err) {
+      results.tiktok = { error: err.message };
+    }
   }
 
-  try {
-    results.tiktok = await postTikTokVideo(videoUrl, content.tiktok.caption);
-  } catch (err) {
-    results.tiktok = { error: err.message };
-  }
-
-  return { placeId: item.placeId, placeName, results };
+  return { placeId: item.placeId, placeName, mode, results };
 }
 
 async function generatePhase() {
@@ -157,8 +163,12 @@ async function generatePhase() {
       break;
     }
     chosenIds.add(place.id);
+    // Alternate so the feed reads as "photo place, video place, photo place,
+    // ..." instead of doubling every place across both formats. Index 0 is
+    // photo so a 1-post ad-hoc run defaults to the cheaper / faster surface.
+    const mode = i % 2 === 0 ? "photo" : "video";
     try {
-      const item = await generateForPlace(place, stamp);
+      const item = await generateForPlace(place, stamp, mode);
       pending.push(item);
     } catch (err) {
       console.error(`Generate failed for ${place.id}: ${err.message}`);
