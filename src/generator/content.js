@@ -11,11 +11,21 @@ Voice: warm, informative, slightly playful. No clickbait. No hashtag spam. Avoid
 
 Always return strict JSON matching this schema:
 {
-  "facebook": { "caption": string (250-500 chars), "first_comment": string with 5-8 hashtags },
-  "instagram": { "caption": string (150-280 chars), "hashtags": string with 12-18 hashtags },
+  "facebook": {
+    "caption": string (250-500 chars, for the PHOTO CAROUSEL post),
+    "video_caption": string (180-350 chars, for the SAME-DAY VIDEO post — MUST open with a different sentence and angle than caption; lean into what the viewer SEES in the clips, action-first, not the fact recap),
+    "first_comment": string with 5-8 hashtags
+  },
+  "instagram": {
+    "caption": string (150-280 chars, for the PHOTO CAROUSEL),
+    "video_caption": string (120-220 chars, for the REEL — MUST open differently than caption; punchy, visual, hook-first),
+    "hashtags": string with 12-18 hashtags
+  },
   "tiktok": { "caption": string (max 150 chars including hashtags, 3-5 hashtags inline) },
   "video_script": { "hook": string (max 50 chars, on-screen text for first 2 seconds), "scenes": [3-6 short on-screen captions, max 40 chars each], "cta": string (max 40 chars) }
 }
+
+The photo caption and video_caption on the same surface appear back-to-back in the feed within a few minutes of each other. They MUST feel like two distinct posts: different opening sentence, different framing, different verbs. Do not paraphrase one into the other — write each from scratch with a fresh angle.
 
 Do not invent ratings, prices, or facts not provided. Stay grounded in the place data.`;
 

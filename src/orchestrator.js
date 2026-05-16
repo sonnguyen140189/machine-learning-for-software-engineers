@@ -71,12 +71,26 @@ async function postOnePending(item) {
   }
 
   const results = {};
-  const fbCaption = content.facebook.first_comment
+
+  // Carousel-only caption keeps the long-form fact recap.
+  const fbPhotoCaption = content.facebook.first_comment
     ? `${content.facebook.caption}\n\n${content.facebook.first_comment}`
     : content.facebook.caption;
 
+  // Video gets its own caption so the two FB Page posts (carousel + video
+  // within ~1 minute of each other) don't look like a copy-paste. Fall back
+  // to the photo caption if the upstream generator didn't produce one.
+  const fbVideoBase = content.facebook.video_caption || content.facebook.caption;
+  const fbVideoCaption = content.facebook.first_comment
+    ? `${fbVideoBase}\n\n${content.facebook.first_comment}`
+    : fbVideoBase;
+
+  const igPhotoCaption = `${content.instagram.caption}\n\n${content.instagram.hashtags}`;
+  const igVideoBase = content.instagram.video_caption || content.instagram.caption;
+  const igVideoCaption = `${igVideoBase}\n\n${content.instagram.hashtags}`;
+
   try {
-    results.facebook = await postFacebookCarousel(photoUrls, fbCaption);
+    results.facebook = await postFacebookCarousel(photoUrls, fbPhotoCaption);
   } catch (err) {
     results.facebook = { error: err.message };
     console.error("FB carousel failed:", err.message);
@@ -84,10 +98,7 @@ async function postOnePending(item) {
 
   if (!config.skipInstagram) {
     try {
-      results.instagram = await postInstagramCarousel(
-        photoUrls,
-        `${content.instagram.caption}\n\n${content.instagram.hashtags}`,
-      );
+      results.instagram = await postInstagramCarousel(photoUrls, igPhotoCaption);
     } catch (err) {
       results.instagram = { error: err.message };
       console.error("IG carousel failed:", err.message);
@@ -97,7 +108,7 @@ async function postOnePending(item) {
   }
 
   try {
-    results.facebookVideo = await postFacebookVideo(videoUrl, fbCaption);
+    results.facebookVideo = await postFacebookVideo(videoUrl, fbVideoCaption);
   } catch (err) {
     results.facebookVideo = { error: err.message };
     console.error("FB video failed:", err.message);
@@ -105,7 +116,7 @@ async function postOnePending(item) {
 
   if (!config.skipInstagram) {
     try {
-      results.instagramReel = await postInstagramReel(videoUrl, content.instagram.caption);
+      results.instagramReel = await postInstagramReel(videoUrl, igVideoCaption);
     } catch (err) {
       results.instagramReel = { error: err.message };
       console.error("IG Reel failed:", err.message);
