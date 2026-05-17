@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ90jXsf2TpzERk1THOzfOnoU",
+    "ChIJq31LD1-MpzERdIuwa2Bg2ok",
+    "ChIJbdRC8WqSpzERtGShQM46Sx8",
+    "ChIJ9Xes_7KLpzERE6bKzBUIeKg",
+    "ChIJFywM4byNpzERTsKVgNJw3vc",
+    "ChIJMTK8cRSLpzER_q7VsEitfig",
+    "ChIJGetZgyyNpzERfgkTRwWcE74",
+    "ChIJ1aeQ29SNpzERQ6q22sUKYRc",
+    "ChIJI6oge0mLpzERKUoKtQLR-oc",
+    "ChIJBzbuPzwkCDER2xazM7W1GSc",
+    "ChIJBz09gZgfCDERzAyxFBp-iDM",
+    "ChIJQUSIY6yNpzERAxVW7b7Opt0",
     "ChIJcSDG-fqWpzERQkkxuLWDUyU",
     "ChIJQ4JcfECSpzER9dUT9AlYDJk",
     "ChIJoXjKmgSNpzERianh5FZP7WE",
@@ -31,6 +43,186 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-17",
+      "placeId": "ChIJ90jXsf2TpzERk1THOzfOnoU",
+      "placeName": "Bãi 3 Cây Dừa (Three Coconus Tree Beach) Longbeach",
+      "results": {
+        "facebookVideo": {
+          "id": "1337147501598001"
+        },
+        "instagramReel": {
+          "id": "18099128981103406"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "placeId": "ChIJq31LD1-MpzERdIuwa2Bg2ok",
+      "placeName": "Sunset Beach Bar & Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102754855313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"ANpXywcqiFIbL9hX8NNB0cd\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "placeId": "ChIJbdRC8WqSpzERtGShQM46Sx8",
+      "placeName": "Thanh Kieu Beach Resort",
+      "results": {
+        "facebookVideo": {
+          "id": "1285826973766272"
+        },
+        "instagramReel": {
+          "id": "18424317241124775"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "placeId": "ChIJ9Xes_7KLpzERE6bKzBUIeKg",
+      "placeName": "THE PEAK PHU QUOC",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102753805313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A0cWiebBM4CeM8bqO_Kehcj\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "placeId": "ChIJFywM4byNpzERTsKVgNJw3vc",
+      "placeName": "Free Beach Resort Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "2631800053889090"
+        },
+        "instagramReel": {
+          "id": "17968477044102220"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "placeId": "ChIJMTK8cRSLpzER_q7VsEitfig",
+      "placeName": "Phu Quoc Eco Beach Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102752545313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"Ae3L_NsbWPH3u8nAl11TCpQ\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "placeId": "ChIJGetZgyyNpzERfgkTRwWcE74",
+      "placeName": "Bãi biển Lumera Beach",
+      "results": {
+        "facebookVideo": {
+          "id": "1702716890992223"
+        },
+        "instagramReel": {
+          "id": "18074246855295421"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "placeId": "ChIJ1aeQ29SNpzERQ6q22sUKYRc",
+      "placeName": "OCSEN Beach Bar & Club",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102751675313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AFwD9tgqkRsTRF_HI2TB9hO\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "placeId": "ChIJI6oge0mLpzERKUoKtQLR-oc",
+      "placeName": "Ocean Bay Resort & Spa Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1514367926752005"
+        },
+        "instagramReel": {
+          "id": "18588110998010815"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "placeId": "ChIJBzbuPzwkCDER2xazM7W1GSc",
+      "placeName": "Thom Beach Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102750763313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A3w56ooswgTHvwwczymKZRq\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "placeId": "ChIJBz09gZgfCDERzAyxFBp-iDM",
+      "placeName": "Bai Dai beach",
+      "results": {
+        "facebookVideo": {
+          "id": "1515550006885459"
+        },
+        "instagramReel": {
+          "id": "18108069281489002"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "placeId": "ChIJQUSIY6yNpzERAxVW7b7Opt0",
+      "placeName": "Bãi Trường",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102749809313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A4rjHRxQnWWufwwanA2RkX8\"}}"
+        }
+      }
+    },
     {
       "date": "2026-05-16",
       "placeId": "ChIJcSDG-fqWpzERQkkxuLWDUyU",
