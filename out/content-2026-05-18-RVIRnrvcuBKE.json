@@ -1,0 +1,27 @@
+{
+  "facebook": {
+    "caption": "Seashells Phu Quoc Hotel & Spa earns its 4.4/5 from nearly 2,800 guests for good reason. Stylish rooms, a free breakfast to start your mornings right, a private beach area to call your own, a full spa, and a pool that practically begs you to stay all afternoon. It sits right on 01 Võ Thị Sáu in the heart of Khu 1, so you're close to the action without feeling crowded. Practical tip: book a sea-facing room early, those views go fast.",
+    "video_caption": "Watch the pool shimmer, the beach stretch out, and the breakfast spread fill the frame. Seashells Phu Quoc Hotel & Spa is the kind of place where your biggest decision is pool lounger or private beach, and honestly both answers are correct. Rated 4.4/5 by nearly 2,800 guests, it delivers on every shot you see here.",
+    "first_comment": "#SeashellsPhuQuoc #PhuQuocHotel #PhuQuocVietnam #BeachHotel #VietnamTravel #PhuQuocResort #TravelVietnam"
+  },
+  "instagram": {
+    "caption": "Pool, private beach, free breakfast, and a spa under one roof. Seashells Phu Quoc Hotel & Spa scores a well-earned 4.4/5 from nearly 2,800 guests. Pro tip: request a sea-facing room when you book.",
+    "video_caption": "That pool. That beach. That breakfast. Seashells Phu Quoc Hotel & Spa is giving all the right vibes, and 2,793 reviewers agree. Your Phu Quoc base just got an upgrade.",
+    "hashtags": "#SeashellsPhuQuoc #PhuQuocHotel #PhuQuocVietnam #VietnamResort #BeachHotelVibes #PhuQuocResort #VietnamTravel #TravelAsia #HotelLife #BeachVacation #SpaHotel #PoolsideVibes #IslandHotel #VisitVietnam #AsiaTravel"
+  },
+  "tiktok": {
+    "caption": "Private beach, rooftop pool, free breakfast AND a spa. Seashells Phu Quoc Hotel & Spa is the move. #PhuQuocVietnam #HotelTok #VietnamTravel #BeachHotel"
+  },
+  "video_script": {
+    "hook": "Private beach. Pool. Free breakfast.",
+    "scenes": [
+      "Seashells Phu Quoc Hotel & Spa",
+      "Stylish rooms, sea views",
+      "Your own private beach area",
+      "Pool sessions all afternoon",
+      "Spa days, sorted",
+      "4.4/5 from 2,793 guests"
+    ],
+    "cta": "Book a sea-facing room early!"
+  }
+}
