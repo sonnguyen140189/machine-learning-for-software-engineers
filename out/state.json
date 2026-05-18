@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ0cqxY2ySpzERo9J49pxmTgY",
+    "ChIJkcMAuZCNpzERRQmhoqfUVYk",
+    "ChIJy5uCwXCXpzERQSR2-hAgnuo",
+    "ChIJ4YZT316MpzERCRfSDHQgbtk",
+    "ChIJjUvOA0-LpzERxo73OaJMLZo",
+    "ChIJn6kim_SXpzERd6rlRMQmpZc",
+    "ChIJyVg7uFmMpzER8oO_9EVvcbg",
+    "ChIJR8uGGm2TpzERCyP0dgpgLX0",
+    "ChIJGeOzddMfCDERWqFBHDihXo0",
+    "ChIJDz3c2puNpzERnfsc7Mo0TOQ",
+    "ChIJxfXY0YeMpzERVIRnrvcuBKE",
+    "ChIJhS_cnzseCDERAMqYy7efZBo",
     "ChIJ90jXsf2TpzERk1THOzfOnoU",
     "ChIJq31LD1-MpzERdIuwa2Bg2ok",
     "ChIJbdRC8WqSpzERtGShQM46Sx8",
@@ -43,6 +55,186 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-18",
+      "placeId": "ChIJ0cqxY2ySpzERo9J49pxmTgY",
+      "placeName": "Pullman Phu Quoc Beach Resort",
+      "results": {
+        "facebookVideo": {
+          "id": "1578912577222500"
+        },
+        "instagramReel": {
+          "id": "18102480676817910"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "placeId": "ChIJkcMAuZCNpzERRQmhoqfUVYk",
+      "placeName": "Salinda Resort Phu Quoc Island",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102985609313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AZswvWg5ETX61DIWbIx5j7p\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "placeId": "ChIJy5uCwXCXpzERQSR2-hAgnuo",
+      "placeName": "New World Phu Quoc Resort",
+      "results": {
+        "facebookVideo": {
+          "id": "1573412058118458"
+        },
+        "instagramReel": {
+          "id": "18587792989061521"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "placeId": "ChIJ4YZT316MpzERCRfSDHQgbtk",
+      "placeName": "Cassia Cottage Resort & Spa Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102984487313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AD8mAxm2zqcCupzTWRCx13j\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "placeId": "ChIJjUvOA0-LpzERxo73OaJMLZo",
+      "placeName": "Mövenpick Villas & Residences Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1005999791768198"
+        },
+        "instagramReel": {
+          "id": "17926791468302339"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "placeId": "ChIJn6kim_SXpzERd6rlRMQmpZc",
+      "placeName": "Premier Residences Phu Quoc Emerald Bay Managed by Accor",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102983287313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A3Uu5MMdKR68SZzlHruCt20\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "placeId": "ChIJyVg7uFmMpzER8oO_9EVvcbg",
+      "placeName": "La Veranda Resort Phu Quoc - MGallery Collection",
+      "results": {
+        "facebookVideo": {
+          "id": "968013299183046"
+        },
+        "instagramReel": {
+          "id": "18104088826960098"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "placeId": "ChIJR8uGGm2TpzERCyP0dgpgLX0",
+      "placeName": "Sailing Club Signature Resort Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102982315313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A-0_IS1jL2gwdGtgBlMWfly\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "placeId": "ChIJGeOzddMfCDERWqFBHDihXo0",
+      "placeName": "Wyndham Grand Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "835878149573432"
+        },
+        "instagramReel": {
+          "id": "17936085834252397"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "placeId": "ChIJDz3c2puNpzERnfsc7Mo0TOQ",
+      "placeName": "Dusit Princess Moonrise beach resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102981469313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"AKGAtx9g17S4fFdoe-uhC9q\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "placeId": "ChIJxfXY0YeMpzERVIRnrvcuBKE",
+      "placeName": "Seashells Phu Quoc Hotel & Spa",
+      "results": {
+        "facebookVideo": {
+          "id": "949241834537295"
+        },
+        "instagramReel": {
+          "id": "18361067725236858"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "placeId": "ChIJhS_cnzseCDERAMqYy7efZBo",
+      "placeName": "Vinpearl Resort & Spa Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122102980233313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Application request limit reached\",\"type\":\"OAuthException\",\"is_transient\":false,\"code\":4,\"error_subcode\":2207051,\"error_user_title\":\"action is blocked\",\"error_user_msg\":\"We restrict certain activity to protect our community. Tell us if you think we made a mistake.\",\"fbtrace_id\":\"A42o3DMUg5DXCiHOdUEJ2sd\"}}"
+        }
+      }
+    },
     {
       "date": "2026-05-17",
       "placeId": "ChIJ90jXsf2TpzERk1THOzfOnoU",
