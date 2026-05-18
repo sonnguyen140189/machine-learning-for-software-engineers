@@ -52,12 +52,14 @@ function wrapForOverlay(text, maxCharsPerLine = 28) {
  * @param {{hook: string, scenes: string[], cta: string}} script
  * @param {string} outputPath - mp4 output path
  * @param {number} secondsPerScene
+ * @param {string | null} musicPath - optional audio track to mix under the video; looped to length, 1s fade-in/out, volume 60%
  */
 export async function buildSlideshowVideo(
   imagePaths,
   script,
   outputPath,
   secondsPerScene = 3,
+  musicPath = null,
 ) {
   await mkdir(OUT_DIR, { recursive: true });
 
@@ -66,10 +68,16 @@ export async function buildSlideshowVideo(
   if (slides < 2) {
     throw new Error("Need at least 2 images + captions to build a video");
   }
+  const totalDuration = slides * secondsPerScene;
 
   const inputs = [];
   for (let i = 0; i < slides; i++) {
     inputs.push("-loop", "1", "-t", String(secondsPerScene), "-i", imagePaths[i]);
+  }
+  if (musicPath) {
+    // -stream_loop -1 makes ffmpeg replay the track until we cut it with
+    // atrim below, so short clips still cover a 18-21s slideshow.
+    inputs.push("-stream_loop", "-1", "-i", musicPath);
   }
 
   const filterParts = [];
@@ -91,25 +99,29 @@ export async function buildSlideshowVideo(
   const concatInputs = Array.from({ length: slides }, (_, i) => `[v${i}]`).join("");
   filterParts.push(`${concatInputs}concat=n=${slides}:v=1:a=0[outv]`);
 
+  // Audio: pad-or-trim to video length, gentle fade in/out, drop the music
+  // to 60% so the on-screen text still draws the eye over the rhythm.
+  if (musicPath) {
+    const musicIdx = slides;
+    const fadeOutStart = Math.max(0, totalDuration - 1).toFixed(2);
+    filterParts.push(
+      `[${musicIdx}:a]atrim=duration=${totalDuration},` +
+        `afade=t=in:st=0:d=1,afade=t=out:st=${fadeOutStart}:d=1,` +
+        `volume=0.6[outa]`,
+    );
+  }
+
   const filterComplex = filterParts.join(";");
 
-  const args = [
-    "-y",
-    ...inputs,
-    "-filter_complex",
-    filterComplex,
-    "-map",
-    "[outv]",
-    "-r",
-    "30",
-    "-c:v",
-    "libx264",
-    "-pix_fmt",
-    "yuv420p",
-    "-movflags",
-    "+faststart",
+  const args = ["-y", ...inputs, "-filter_complex", filterComplex, "-map", "[outv]"];
+  if (musicPath) args.push("-map", "[outa]", "-c:a", "aac", "-b:a", "128k", "-shortest");
+  args.push(
+    "-r", "30",
+    "-c:v", "libx264",
+    "-pix_fmt", "yuv420p",
+    "-movflags", "+faststart",
     outputPath,
-  ];
+  );
 
   await run("ffmpeg", args);
   return outputPath;

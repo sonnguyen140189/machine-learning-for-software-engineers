@@ -6,6 +6,7 @@ import { fetchDailyCandidates } from "./fetchers/places.js";
 import { gatherPhotosForPlace, downloadPhotos } from "./fetchers/photos.js";
 import { generateContent } from "./generator/content.js";
 import { buildSlideshowVideo } from "./video/build.js";
+import { pickRandomMusic } from "./util/music.js";
 import { toPublicUrl, ensureUrlReady } from "./util/publicUrl.js";
 import { loadState, saveState } from "./util/state.js";
 import { postFacebookCarousel, postFacebookVideo } from "./posters/facebook.js";
@@ -44,7 +45,10 @@ async function generateForPlace(place, stamp, mode) {
   let videoPath = null;
   if (mode === "video") {
     videoPath = join(OUT_DIR, "media", `${prefix}.mp4`);
-    await buildSlideshowVideo(photoPaths.slice(0, 6), content.video_script, videoPath, 3);
+    const musicPath = await pickRandomMusic();
+    if (musicPath) console.log(`Music: ${musicPath}`);
+    else console.log("No music in assets/music/ — building silent video");
+    await buildSlideshowVideo(photoPaths.slice(0, 6), content.video_script, videoPath, 3, musicPath);
     console.log(`Built video: ${videoPath}`);
   }
 
