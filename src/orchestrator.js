@@ -153,8 +153,11 @@ async function generatePhase() {
 
   console.log(`=== GENERATE phase: ${stamp} (posts=${n}) ===`);
 
-  const candidates = await fetchDailyCandidates({ count: Math.max(n * 4, 12) });
-  if (!candidates.length) throw new Error("No place candidates returned");
+  const candidates = await fetchDailyCandidates({
+    count: Math.max(n * 4, 12),
+    excludeIds: new Set(state.postedPlaceIds),
+  });
+  if (!candidates.length) throw new Error("No fresh place candidates returned (exhausted pool?)");
 
   const pending = [];
   const chosenIds = new Set();

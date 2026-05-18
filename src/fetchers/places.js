@@ -90,12 +90,18 @@ function hasUsableName(place) {
   return Boolean(place.displayName?.text);
 }
 
-export async function fetchDailyCandidates({ count = 8 } = {}) {
+export async function fetchDailyCandidates({ count = 8, excludeIds = new Set() } = {}) {
   // Pull from MULTIPLE search queries so a single noisy query (e.g. only
   // surfaces local-named night markets) doesn't starve a large batch.
+  // Caller passes excludeIds so we keep iterating queries until we collect
+  // enough FRESH candidates instead of returning a pool that's already
+  // entirely covered by state.postedPlaceIds (which would silently produce
+  // 0 posts for a small ad-hoc run).
+  const exclude = excludeIds instanceof Set ? excludeIds : new Set(excludeIds);
   const queries = [...SEARCH_QUERIES].sort(() => Math.random() - 0.5);
   const seen = new Set();
   const collected = [];
+  const targetFresh = count * 2; // 2× buffer so the rating/name filters can prune
   for (const query of queries) {
     const batch = await searchPhuQuocPlaces({ query, max: 20 });
     for (const p of batch) {
@@ -103,9 +109,11 @@ export async function fetchDailyCandidates({ count = 8 } = {}) {
       seen.add(p.id);
       collected.push(p);
     }
-    if (collected.length >= count * 4) break;
+    const fresh = collected.filter((p) => !exclude.has(p.id));
+    if (fresh.length >= targetFresh) break;
   }
   return collected
+    .filter((p) => !exclude.has(p.id))
     .filter((p) => (p.rating || 0) >= 4.0 && (p.userRatingCount || 0) >= 30)
     .filter(hasUsableName)
     .slice(0, count);
