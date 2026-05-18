@@ -1,5 +1,7 @@
 {
   "postedPlaceIds": [
+    "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
+    "ChIJbWwp_zj1pzERg-_J_57c0UA",
     "ChIJ0cqxY2ySpzERo9J49pxmTgY",
     "ChIJkcMAuZCNpzERRQmhoqfUVYk",
     "ChIJy5uCwXCXpzERQSR2-hAgnuo",
@@ -55,6 +57,36 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-18",
+      "placeId": "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
+      "placeName": "Meliá Vinpearl Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "881096195018904"
+        },
+        "instagramReel": {
+          "id": "17890830678525694"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "placeId": "ChIJbWwp_zj1pzERg-_J_57c0UA",
+      "placeName": "Green Bay Phu Quoc Resort & Spa",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103153003313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18099791591025440"
+        }
+      }
+    },
     {
       "date": "2026-05-18",
       "placeId": "ChIJ0cqxY2ySpzERo9J49pxmTgY",
