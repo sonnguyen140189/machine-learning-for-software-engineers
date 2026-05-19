@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJq-MaQQCVpzERMbW2Y8JvlMI",
+    "ChIJfcl6s46NpzERvFpgYpkmGe0",
+    "ChIJc0P1PxmNpzERVBubA78Rpzc",
+    "ChIJixiLeACNpzER0bDJkqmR1Ac",
+    "ChIJeaUPhUuNpzERsYgZr-tG9Hw",
+    "ChIJaTPDBp2TpzERo-OZblaniLY",
+    "ChIJI8DOC6r1pzER4RZWiBFkfxc",
+    "ChIJif-3eKuNpzERQNn7TSJoUsA",
+    "ChIJ9T54ktqNpzERu6dsX5pZXx4",
+    "ChIJH58ibXKSpzERN59OMqttOUY",
+    "ChIJSTGCnBuLpzERx2KCLdVFKIk",
+    "ChIJAQAAAECKpzERzt6bVEvLa-M",
     "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
     "ChIJbWwp_zj1pzERg-_J_57c0UA",
     "ChIJ0cqxY2ySpzERo9J49pxmTgY",
@@ -57,6 +69,186 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-19",
+      "placeId": "ChIJq-MaQQCVpzERMbW2Y8JvlMI",
+      "placeName": "Lemon Queen",
+      "results": {
+        "facebookVideo": {
+          "id": "2246973639416949"
+        },
+        "instagramReel": {
+          "id": "18006009695869916"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "placeId": "ChIJfcl6s46NpzERvFpgYpkmGe0",
+      "placeName": "Chợ Dương Đông Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103235653313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18185781805339812"
+        }
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "placeId": "ChIJc0P1PxmNpzERVBubA78Rpzc",
+      "placeName": "PHU QUOC NIGHT MARKET & LOCAL FOOD",
+      "results": {
+        "facebookVideo": {
+          "id": "1270628901917350"
+        },
+        "instagramReel": {
+          "id": "18085253549374245"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "placeId": "ChIJixiLeACNpzER0bDJkqmR1Ac",
+      "placeName": "LOCA - Night Market",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103234525313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18124856371619711"
+        }
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "placeId": "ChIJeaUPhUuNpzERsYgZr-tG9Hw",
+      "placeName": "Chợ đêm Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1608122183603655"
+        },
+        "instagramReel": {
+          "id": "17966580081077708"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "placeId": "ChIJaTPDBp2TpzERo-OZblaniLY",
+      "placeName": "Phu Quoc Marina - Integrated Resort Complex",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103233523313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17925271059340377"
+        }
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "placeId": "ChIJI8DOC6r1pzER4RZWiBFkfxc",
+      "placeName": "Eco Lagoon",
+      "results": {
+        "facebookVideo": {
+          "id": "1020334937201086"
+        },
+        "instagramReel": {
+          "id": "17866561704619831"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "placeId": "ChIJif-3eKuNpzERQNn7TSJoUsA",
+      "placeName": "Vida Loca Resort & Sunset Beach Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103232503313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18028668866637685"
+        }
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "placeId": "ChIJ9T54ktqNpzERu6dsX5pZXx4",
+      "placeName": "Tahiti Hotel",
+      "results": {
+        "facebookVideo": {
+          "id": "957134343977257"
+        },
+        "instagramReel": {
+          "id": "18122053546629646"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "placeId": "ChIJH58ibXKSpzERN59OMqttOUY",
+      "placeName": "Best Western Premier Sonasea Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103231591313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18079037813553795"
+        }
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "placeId": "ChIJSTGCnBuLpzERx2KCLdVFKIk",
+      "placeName": "Mövenpick Resort Waverly Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "2549255688829542"
+        },
+        "instagramReel": {
+          "id": "18108768166928600"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "placeId": "ChIJAQAAAECKpzERzt6bVEvLa-M",
+      "placeName": "Chen Sea Resort & Spa Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103230481313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18128324422613892"
+        }
+      }
+    },
     {
       "date": "2026-05-18",
       "placeId": "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
