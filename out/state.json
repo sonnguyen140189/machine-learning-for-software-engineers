@@ -1,5 +1,16 @@
 {
   "postedPlaceIds": [
+    "ChIJHfkAZ4WVpzERmME-KkMKRrI",
+    "ChIJDZ6BeIiLpzER1VmMR746npc",
+    "ChIJx4kkhiiNpzERH47LIVsqJps",
+    "ChIJKzlafMuLpzERtBF-FredP28",
+    "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
+    "ChIJpW9hndiNpzERaocRFppy0S4",
+    "ChIJH7qQ4niLpzERauDuEKEMXVk",
+    "ChIJBZASQZ6NpzERfkHFOYJvawM",
+    "ChIJBWE7axyNpzER5e0d8AjEDJA",
+    "ChIJh0oTEUaLpzERgI8_SI_bkLg",
+    "ChIJNctD3zAfCDERxIbcyPQYj68",
     "ChIJq-MaQQCVpzERMbW2Y8JvlMI",
     "ChIJfcl6s46NpzERvFpgYpkmGe0",
     "ChIJc0P1PxmNpzERVBubA78Rpzc",
@@ -69,6 +80,172 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-21",
+      "placeId": "ChIJHfkAZ4WVpzERmME-KkMKRrI",
+      "placeName": "Lotus Home & Cafe",
+      "results": {
+        "facebookVideo": {
+          "id": "1470855274766549"
+        },
+        "instagramReel": {
+          "id": "17865100920564764"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-21",
+      "placeId": "ChIJDZ6BeIiLpzER1VmMR746npc",
+      "placeName": "Hồ Bơi Cafe Nam Anh",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103887913313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18080194523560511"
+        }
+      }
+    },
+    {
+      "date": "2026-05-21",
+      "placeId": "ChIJx4kkhiiNpzERH47LIVsqJps",
+      "placeName": "Zyzu Kafé",
+      "results": {
+        "facebookVideo": {
+          "id": "1022036600252649"
+        },
+        "instagramReel": {
+          "id": "18100426204863757"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-21",
+      "placeId": "ChIJKzlafMuLpzERtBF-FredP28",
+      "placeName": "Hoa Đảo Viên Coffee - Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1477207876873284"
+        },
+        "instagramReel": {
+          "id": "18050263319757699"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-21",
+      "placeId": "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
+      "placeName": "ANBA COFFEE",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103886821313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18085186214568416"
+        }
+      }
+    },
+    {
+      "date": "2026-05-21",
+      "placeId": "ChIJpW9hndiNpzERaocRFppy0S4",
+      "placeName": "MR. VIET COFFEE OUTLET IN PHU QUOC",
+      "results": {
+        "facebookVideo": {
+          "id": "1717391992922420"
+        },
+        "instagramReel": {
+          "id": "18080055323636284"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-21",
+      "placeId": "ChIJH7qQ4niLpzERauDuEKEMXVk",
+      "placeName": "HD cafe",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103885957313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17965404908917199"
+        }
+      }
+    },
+    {
+      "date": "2026-05-21",
+      "placeId": "ChIJBZASQZ6NpzERfkHFOYJvawM",
+      "placeName": "Tarapaca Cafe",
+      "results": {
+        "facebookVideo": {
+          "id": "1026102663087014"
+        },
+        "instagramReel": {
+          "id": "18103843702808079"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-21",
+      "placeId": "ChIJBWE7axyNpzER5e0d8AjEDJA",
+      "placeName": "AROMA Cafe Bistro Bar Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103884673313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18057863798706791"
+        }
+      }
+    },
+    {
+      "date": "2026-05-21",
+      "placeId": "ChIJh0oTEUaLpzERgI8_SI_bkLg",
+      "placeName": "Tiệm Cà Phê Đồng Giao",
+      "results": {
+        "facebookVideo": {
+          "id": "1465539862253339"
+        },
+        "instagramReel": {
+          "id": "17897567511307999"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-21",
+      "placeId": "ChIJNctD3zAfCDERxIbcyPQYj68",
+      "placeName": "Vinpearl Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103883773313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17889581805520394"
+        }
+      }
+    },
     {
       "date": "2026-05-19",
       "placeId": "ChIJq-MaQQCVpzERMbW2Y8JvlMI",
