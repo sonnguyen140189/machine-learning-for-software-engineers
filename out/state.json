@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJhwi1TFqTpzERiZQmfO7PxUY",
+    "ChIJUYfZHeSNpzER5-l8QW0lTcM",
+    "ChIJb5faY8qNpzERH4uW3FwoE5s",
+    "ChIJ2SBPKCONpzER36aEkpOGpyk",
+    "ChIJZWGJPeONpzERce--tYenego",
+    "ChIJh878oruNpzER7b0NN-zrQpk",
+    "ChIJgfT9NoygKU8R8P0qLndf3k0",
+    "ChIJLUwZPQCNpzERZrGj0TvOFHI",
+    "ChIJO-aIpaKNpzERkCLeSERC9yE",
+    "ChIJHaad39SNpzERxyH_xEG63Kg",
+    "ChIJQz9pjguLpzERt20ZmhsgK9Y",
+    "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
     "ChIJHfkAZ4WVpzERmME-KkMKRrI",
     "ChIJDZ6BeIiLpzER1VmMR746npc",
     "ChIJx4kkhiiNpzERH47LIVsqJps",
@@ -80,6 +92,186 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-22",
+      "placeId": "ChIJhwi1TFqTpzERiZQmfO7PxUY",
+      "placeName": "Rooty Trip Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1629681544811151"
+        },
+        "instagramReel": {
+          "id": "18111671374871177"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "placeId": "ChIJUYfZHeSNpzER5-l8QW0lTcM",
+      "placeName": "Liby Travel - Phu Quoc Island Tours",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103963489313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18105556681985024"
+        }
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "placeId": "ChIJb5faY8qNpzERH4uW3FwoE5s",
+      "placeName": "Vietnam Explorer PADI Dive Center",
+      "results": {
+        "facebookVideo": {
+          "id": "951037344223512"
+        },
+        "instagramReel": {
+          "id": "18137700997476478"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "placeId": "ChIJ2SBPKCONpzER36aEkpOGpyk",
+      "placeName": "Nice Tours Phu Quoc - Tailor Made Travel",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103962541313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18076628339380193"
+        }
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "placeId": "ChIJZWGJPeONpzERce--tYenego",
+      "placeName": "Алиса гид по Фукуоку",
+      "results": {
+        "facebookVideo": {
+          "id": "2523177031480578"
+        },
+        "instagramReel": {
+          "id": "17927600796326316"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "placeId": "ChIJh878oruNpzER7b0NN-zrQpk",
+      "placeName": "Ecodive Vietnam - Trung Tâm Lặn Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103960741313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17867829951620445"
+        }
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "placeId": "ChIJgfT9NoygKU8R8P0qLndf3k0",
+      "placeName": "Poseidon Diving School Phu Quoc Padi",
+      "results": {
+        "facebookVideo": {
+          "id": "1642710020345366"
+        },
+        "instagramReel": {
+          "id": "18092138804601908"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "placeId": "ChIJLUwZPQCNpzERZrGj0TvOFHI",
+      "placeName": "Layla Mermaid Tours - Premium 4 Island Snorkeling & Beach BBQ Escape",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103959823313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18354063787211754"
+        }
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "placeId": "ChIJO-aIpaKNpzERkCLeSERC9yE",
+      "placeName": "Vietnam Active - PADI 5 Star Diving Center Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1289652023347228"
+        },
+        "instagramReel": {
+          "id": "18377379991166855"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "placeId": "ChIJHaad39SNpzERxyH_xEG63Kg",
+      "placeName": "Pacific Boat",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103958941313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18177560005397301"
+        }
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "placeId": "ChIJQz9pjguLpzERt20ZmhsgK9Y",
+      "placeName": "Flipper diving club",
+      "results": {
+        "facebookVideo": {
+          "id": "2416319115520368"
+        },
+        "instagramReel": {
+          "id": "17914936410383972"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "placeId": "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
+      "placeName": "Phil Hai Diving Club",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122103958017313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18090380498589025"
+        }
+      }
+    },
     {
       "date": "2026-05-21",
       "placeId": "ChIJHfkAZ4WVpzERmME-KkMKRrI",
