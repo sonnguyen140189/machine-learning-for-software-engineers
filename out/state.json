@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJMemrMgSNpzERRHKLDaKlO9k",
+    "ChIJTZlTGwCNpzERcOusT0_hYo4",
+    "ChIJZQn9bDAfCDERZjwRggL8Ecc",
+    "ChIJl8UfBQGNpzERWCMLl5afNZA",
+    "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
+    "ChIJE0W_Mu-NpzER4e-2jmhYJYI",
+    "ChIJCVbqKQCVpzERyNmZl5mrNcU",
+    "ChIJRQVFmFqNpzERu5Sg8_W6Zoo",
+    "ChIJjRr6GAKNpzERbsvxEBPABTc",
+    "ChIJgwI3D_8fCDERzTBdqPmUa9M",
+    "ChIJvc4-RWUgCDERx4AJFW81Tg4",
+    "ChIJZ9RuXLwfCDEREl1ID-Nkj30",
     "ChIJhwi1TFqTpzERiZQmfO7PxUY",
     "ChIJUYfZHeSNpzER5-l8QW0lTcM",
     "ChIJb5faY8qNpzERH4uW3FwoE5s",
@@ -92,6 +104,186 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-23",
+      "placeId": "ChIJMemrMgSNpzERRHKLDaKlO9k",
+      "placeName": "Aigue-Marine French Bistro by Hidden Gem",
+      "results": {
+        "facebookVideo": {
+          "id": "1559713052395572"
+        },
+        "instagramReel": {
+          "error": "IG Graph GET /18132198088519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AIojaTxIodRSmvE8LC9VKgZ\"}}"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "placeId": "ChIJTZlTGwCNpzERcOusT0_hYo4",
+      "placeName": "SORI Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122104182927313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph GET /18132198076519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AYBbIsG5fVJi04kgDnzZXwU\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "placeId": "ChIJZQn9bDAfCDERZjwRggL8Ecc",
+      "placeName": "Nautilus Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "1541694274135923"
+        },
+        "instagramReel": {
+          "error": "IG Graph GET /18132197887519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AGsWwlsERWi_6P4QbB7yt2O\"}}"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "placeId": "ChIJl8UfBQGNpzERWCMLl5afNZA",
+      "placeName": "Bombay Indian Restaurant Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122104181913313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph GET /18132197878519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"ACfzvfzZpvb42EcuM-5YrMm\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "placeId": "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
+      "placeName": "NINH KITCHEN - VIETNAMESE CUISINE",
+      "results": {
+        "facebookVideo": {
+          "id": "1007974254957465"
+        },
+        "instagramReel": {
+          "error": "IG Graph GET /18132197704519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AvF39S3A_1iGhrHOHmxUmU0\"}}"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "placeId": "ChIJE0W_Mu-NpzER4e-2jmhYJYI",
+      "placeName": "Day market",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122104181157313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph GET /18132197698519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AmOX7GzXmKhjwvirgWoiliQ\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "placeId": "ChIJCVbqKQCVpzERyNmZl5mrNcU",
+      "placeName": "Chợ đêm Vui Fest",
+      "results": {
+        "facebookVideo": {
+          "id": "1522975715886543"
+        },
+        "instagramReel": {
+          "error": "IG Graph GET /18132197491519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"Adwn8SB6H5jaFHAK-aSpfDH\"}}"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "placeId": "ChIJRQVFmFqNpzERu5Sg8_W6Zoo",
+      "placeName": "Kingkong Mart",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122104180449313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph GET /18132197479519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"Ab0Haamg5VVFp0wIOnI_UQ2\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "placeId": "ChIJjRr6GAKNpzERbsvxEBPABTc",
+      "placeName": "EXMoney Phu Quoc Night Market | Currency Exchange",
+      "results": {
+        "facebookVideo": {
+          "id": "2024078811868008"
+        },
+        "instagramReel": {
+          "error": "IG Graph GET /18132197305519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AGCj_abZNaNMkdr1HbNojo3\"}}"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "placeId": "ChIJgwI3D_8fCDERzTBdqPmUa9M",
+      "placeName": "VinWonders Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122104179663313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph GET /18132197284519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AypYIE8ao2qX-3jPSIPQdbW\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "placeId": "ChIJvc4-RWUgCDERx4AJFW81Tg4",
+      "placeName": "Phu Quoc National Park",
+      "results": {
+        "facebookVideo": {
+          "id": "2060142401244365"
+        },
+        "instagramReel": {
+          "error": "IG Graph GET /18132197101519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AvywFOJdOOcAujklMsZ_qZD\"}}"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "placeId": "ChIJZ9RuXLwfCDEREl1ID-Nkj30",
+      "placeName": "Crowne Plaza Phu Quoc Starbay by IHG",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122104178835313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph GET /18132197092519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AmKJSSFTA6h2mWeUYtaz6zh\"}}"
+        }
+      }
+    },
     {
       "date": "2026-05-22",
       "placeId": "ChIJhwi1TFqTpzERiZQmfO7PxUY",
