@@ -4,6 +4,7 @@ import { config } from "./config.js";
 import { sleep } from "./util/sleep.js";
 import { fetchDailyCandidates } from "./fetchers/places.js";
 import { gatherPhotosForPlace, downloadPhotos } from "./fetchers/photos.js";
+import { gatherBrollForPlace } from "./fetchers/broll.js";
 import { generateContent } from "./generator/content.js";
 import { buildSlideshowVideo } from "./video/build.js";
 import { pickRandomMusic } from "./util/music.js";
@@ -48,7 +49,24 @@ async function generateForPlace(place, stamp, mode) {
     const musicPath = await pickRandomMusic();
     if (musicPath) console.log(`Music: ${musicPath}`);
     else console.log("No music in assets/music/ — building silent video");
-    await buildSlideshowVideo(photoPaths.slice(0, 6), content.video_script, videoPath, 3, musicPath);
+    // Pexels B-roll: fail open. If the fetcher errors or returns nothing the
+    // video still builds with just the photos — the Steps 1-3 enhancements
+    // (Ken Burns + crossfade + brand font) already give it plenty of motion.
+    let brollPaths = [];
+    try {
+      brollPaths = await gatherBrollForPlace(placeName, prefix, { count: 2, sceneDuration: 3 });
+      if (brollPaths.length) console.log(`B-roll: ${brollPaths.length} clip(s)`);
+    } catch (err) {
+      console.warn(`B-roll fetch failed (continuing without): ${err.message}`);
+    }
+    await buildSlideshowVideo(
+      photoPaths.slice(0, 6),
+      content.video_script,
+      videoPath,
+      3,
+      musicPath,
+      brollPaths,
+    );
     console.log(`Built video: ${videoPath}`);
   }
 
