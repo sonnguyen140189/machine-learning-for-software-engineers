@@ -1,5 +1,10 @@
 {
   "postedPlaceIds": [
+    "ChIJsUtKbcyNpzERvb8Kdb3kX4g",
+    "ChIJ17LlPYaNpzERY0rp_hDIF7E",
+    "ChIJy5_OrWqKpzERGaQHR6TfBU0",
+    "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
+    "ChIJO7iBQT2LpzERSCmTsZEu8xE",
     "ChIJh4tQxoeMpzERnVXCmClthfI",
     "ChIJG0omSAeNpzERTWnB_Eaa4c8",
     "ChIJVRCAbGGNpzERkJ7P7jN-dls",
@@ -127,6 +132,80 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-26",
+      "placeId": "ChIJsUtKbcyNpzERvb8Kdb3kX4g",
+      "placeName": "CHAO Cafe & Local Taste",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122104723929313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph GET /18132613804519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"A0-5Mo3BiCV6mbYg2vRQIyk\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "placeId": "ChIJ17LlPYaNpzERY0rp_hDIF7E",
+      "placeName": "MYLA SEAFOOD",
+      "results": {
+        "facebookVideo": {
+          "id": "2840843802937229"
+        },
+        "instagramReel": {
+          "error": "IG Graph GET /18132613570519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AB7SEkkH1xAq2IhrvqjF--I\"}}"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "placeId": "ChIJy5_OrWqKpzERGaQHR6TfBU0",
+      "placeName": "Novotel Phu Quoc Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122104723023313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph GET /18132613564519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"A7Q93m7crnqk7PP5bsO5dfx\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "placeId": "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
+      "placeName": "Vinpearl Wonderworld Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "2318244672034920"
+        },
+        "instagramReel": {
+          "error": "IG Graph GET /18132613357519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"ASjoumNReFOdwVin6Md4wl-\"}}"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "placeId": "ChIJO7iBQT2LpzERSCmTsZEu8xE",
+      "placeName": "Coco Palm Beach Resort & Spa",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122104722297313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph GET /18132613342519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AII-Va2wSm-QBLhathglNGL\"}}"
+        }
+      }
+    },
     {
       "date": "2026-05-25",
       "placeId": "ChIJh4tQxoeMpzERnVXCmClthfI",
