@@ -82,7 +82,12 @@ export async function buildSlideshowVideo(
 
   const inputs = [];
   for (let i = 0; i < slides; i++) {
-    inputs.push("-loop", "1", "-t", String(secondsPerScene), "-i", imagePaths[i]);
+    // Feed a single still frame per image so zoompan owns the timing.
+    // Earlier we used `-loop 1 -t <sec>`, which at ffmpeg's default 25fps
+    // produced ~75 input frames; zoompan d=N then emitted N frames PER input
+    // frame, ballooning a 3s scene to ~225s. Just `-i image.jpg` reads exactly
+    // one frame, so zoompan d=sceneFrames@fps=30 yields exactly secondsPerScene.
+    inputs.push("-i", imagePaths[i]);
   }
   if (musicPath) {
     // -stream_loop -1 makes ffmpeg replay the track until we cut it with
