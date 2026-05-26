@@ -1,4 +1,47 @@
 {
   "stamp": "2026-05-26",
-  "items": []
+  "items": [
+    {
+      "placeId": "ChIJVfAI0x-LpzEREtAbjhh-bMM",
+      "placeName": "Ola Coffee",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-05-26-REtAbjhh-bMM-0.jpg",
+        "out/media/2026-05-26-REtAbjhh-bMM-1.jpg",
+        "out/media/2026-05-26-REtAbjhh-bMM-2.jpg",
+        "out/media/2026-05-26-REtAbjhh-bMM-3.jpg",
+        "out/media/2026-05-26-REtAbjhh-bMM-4.jpg",
+        "out/media/2026-05-26-REtAbjhh-bMM-5.jpg",
+        "out/media/2026-05-26-REtAbjhh-bMM-6.jpg",
+        "out/media/2026-05-26-REtAbjhh-bMM-7.jpg"
+      ],
+      "videoPath": "out/media/2026-05-26-REtAbjhh-bMM.mp4",
+      "content": {
+        "facebook": {
+          "caption": "Tucked along 600 Đường Cách Mạng Tháng Tám in Khu 6, Ola Coffee is earning its 4.5-star reputation one cup at a time. Whether you need a slow morning start or a midday escape from the Phu Quoc heat, this cozy cafe delivers a genuine local coffee experience away from the tourist crowds. Mornings tend to be the sweetest time to visit, when the neighborhood is still quiet. Tip: grab a seat early, as smaller cafes like this fill up fast on weekends.",
+          "video_caption": "Watch the steam rise and the neighborhood come alive outside Ola Coffee. This is what a proper local cafe morning in Phu Quoc actually looks like, no rush, just good coffee and a quiet street in Khu 6. Pop in, slow down, and let the island pace do its thing.",
+          "first_comment": "#PhuQuoc #OlaCoffee #PhuQuocCafe #VietnamCoffee #CafeHopping #TravelVietnam #PhuQuocTravel"
+        },
+        "instagram": {
+          "caption": "Good coffee, quiet street, zero tourist chaos. Ola Coffee in Khu 6 is a solid 4.5-star find for anyone who wants to sip slowly and soak up the real Phu Quoc vibe. Go in the morning for the best atmosphere.",
+          "video_caption": "Steam rising, streets still quiet, coffee already perfect. Ola Coffee is the kind of local spot in Phu Quoc you stumble onto and then tell everyone about.",
+          "hashtags": "#PhuQuoc #OlaCoffee #PhuQuocCafe #VietnamCoffee #CafeHopping #LocalCafe #TravelVietnam #IslandLife #CoffeeTime #PhuQuocTravel #VisitVietnam #HiddenGems #VietnamTravel #CafeVibes"
+        },
+        "tiktok": {
+          "caption": "Skip the tourist cafes. Ola Coffee in Khu 6 is the real deal. 4.5 stars for a reason. #PhuQuoc #OlaCoffee #VietnamCoffee #CafeHopping"
+        },
+        "video_script": {
+          "hook": "Best local cafe in Phu Quoc?",
+          "scenes": [
+            "Ola Coffee, Khu 6, Phu Quoc",
+            "4.5 stars, 145 reviews",
+            "Away from the tourist crowds",
+            "Mornings here hit different",
+            "Arrive early, seats go fast"
+          ],
+          "cta": "Save this for your trip!"
+        }
+      }
+    }
+  ]
 }
