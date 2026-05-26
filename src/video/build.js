@@ -68,7 +68,10 @@ export async function buildSlideshowVideo(
   if (slides < 2) {
     throw new Error("Need at least 2 images + captions to build a video");
   }
-  const totalDuration = slides * secondsPerScene;
+  // Each crossfade overlaps two streams by xfadeDuration seconds, so the
+  // total runtime is shorter than naive N * secondsPerScene.
+  const xfadeDuration = 0.5;
+  const totalDuration = slides * secondsPerScene - (slides - 1) * xfadeDuration;
 
   const inputs = [];
   for (let i = 0; i < slides; i++) {
@@ -88,7 +91,7 @@ export async function buildSlideshowVideo(
     const caption = escapeDrawText(wrapped).replace(/\n/g, "\\n");
     filterParts.push(
       `[${i}:v]scale=1080:1920:force_original_aspect_ratio=increase,` +
-        `crop=1080:1920,` +
+        `crop=1080:1920,fps=30,` +
         `drawtext=fontfile=assets/fonts/Poppins-Bold.ttf:` +
         `text='${caption}':fontcolor=white:fontsize=52:` +
         `line_spacing=12:` +
@@ -97,8 +100,20 @@ export async function buildSlideshowVideo(
         `setsar=1,format=yuv420p[v${i}]`,
     );
   }
-  const concatInputs = Array.from({ length: slides }, (_, i) => `[v${i}]`).join("");
-  filterParts.push(`${concatInputs}concat=n=${slides}:v=1:a=0[outv]`);
+  // Chain xfade transitions between consecutive scenes. xfade overlaps two
+  // streams by xfadeDuration; the offset is the time from the start of the
+  // accumulated stream at which the next scene should begin fading in.
+  // offset(i) for the i-th xfade (0-indexed) = (i + 1) * (secondsPerScene - xfadeDuration)
+  let prevLabel = "v0";
+  for (let i = 0; i < slides - 1; i++) {
+    const nextLabel = i === slides - 2 ? "outv" : `x${i}`;
+    const offset = ((i + 1) * (secondsPerScene - xfadeDuration)).toFixed(2);
+    filterParts.push(
+      `[${prevLabel}][v${i + 1}]xfade=transition=fade:` +
+        `duration=${xfadeDuration}:offset=${offset}[${nextLabel}]`,
+    );
+    prevLabel = nextLabel;
+  }
 
   // Audio: pad-or-trim to video length, gentle fade in/out, drop the music
   // to 60% so the on-screen text still draws the eye over the rhythm.
