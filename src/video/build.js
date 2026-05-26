@@ -89,10 +89,11 @@ export async function buildSlideshowVideo(
     filterParts.push(
       `[${i}:v]scale=1080:1920:force_original_aspect_ratio=increase,` +
         `crop=1080:1920,` +
-        `drawtext=text='${caption}':fontcolor=white:fontsize=46:` +
-        `line_spacing=10:` +
-        `box=1:boxcolor=black@0.6:boxborderw=22:` +
-        `x=(w-text_w)/2:y=h-420,` +
+        `drawtext=fontfile=assets/fonts/Poppins-Bold.ttf:` +
+        `text='${caption}':fontcolor=white:fontsize=52:` +
+        `line_spacing=12:` +
+        `box=1:boxcolor=0x0288D1@0.78:boxborderw=28:` +
+        `x=(w-text_w)/2:y=h-440,` +
         `setsar=1,format=yuv420p[v${i}]`,
     );
   }
