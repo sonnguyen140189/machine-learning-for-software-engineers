@@ -1,5 +1,7 @@
 {
   "postedPlaceIds": [
+    "ChIJr3Ri4nKNpzERO5jEgIBd3hw",
+    "ChIJ_0eqFMcfCDERGFRN2VvZDXg",
     "ChIJsUtKbcyNpzERvb8Kdb3kX4g",
     "ChIJ17LlPYaNpzERY0rp_hDIF7E",
     "ChIJy5_OrWqKpzERGaQHR6TfBU0",
@@ -132,6 +134,36 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-26",
+      "placeId": "ChIJr3Ri4nKNpzERO5jEgIBd3hw",
+      "placeName": "Lặn biển Phú Quốc - Delight Diving",
+      "results": {
+        "facebookVideo": {
+          "id": "1636992534034040"
+        },
+        "instagramReel": {
+          "id": "18105433024946403"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "placeId": "ChIJ_0eqFMcfCDERGFRN2VvZDXg",
+      "placeName": "Phố đi bộ - chợ đêm Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122104842591313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18103819916068052"
+        }
+      }
+    },
     {
       "date": "2026-05-26",
       "placeId": "ChIJsUtKbcyNpzERvb8Kdb3kX4g",
