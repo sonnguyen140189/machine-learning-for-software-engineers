@@ -72,6 +72,13 @@ export async function buildSlideshowVideo(
   // total runtime is shorter than naive N * secondsPerScene.
   const xfadeDuration = 0.5;
   const totalDuration = slides * secondsPerScene - (slides - 1) * xfadeDuration;
+  // Ken Burns config — slow zoom over the scene. Alternating direction
+  // (even = zoom in / push, odd = zoom out / pull) breaks the monotony
+  // of every photo doing the same thing.
+  const fps = 30;
+  const sceneFrames = Math.round(secondsPerScene * fps);
+  const zoomSpeed = 0.0013; // ~0.12 zoom delta over a 3s scene
+  const maxZoom = 1.15;
 
   const inputs = [];
   for (let i = 0; i < slides; i++) {
@@ -89,9 +96,19 @@ export async function buildSlideshowVideo(
     // "\n" sequence that ffmpeg drawtext expands back to line breaks.
     const wrapped = wrapForOverlay(captions[i] || "");
     const caption = escapeDrawText(wrapped).replace(/\n/g, "\\n");
+    // Ken Burns: alternate zoom direction per scene. `on` is the output
+    // frame index inside zoompan; we compute z from it directly so the
+    // motion is linear and predictable regardless of zoompan's internal
+    // accumulation quirks.
+    const zoomIn = i % 2 === 0;
+    const zExpr = zoomIn
+      ? `min(1.0+on*${zoomSpeed}\\,${maxZoom})`
+      : `max(${maxZoom}-on*${zoomSpeed}\\,1.0)`;
     filterParts.push(
-      `[${i}:v]scale=1080:1920:force_original_aspect_ratio=increase,` +
-        `crop=1080:1920,fps=30,` +
+      `[${i}:v]scale=2160:3840:force_original_aspect_ratio=increase,` +
+        `crop=2160:3840,` +
+        `zoompan=z='${zExpr}':d=${sceneFrames}:s=1080x1920:` +
+        `x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':fps=${fps},` +
         `drawtext=fontfile=assets/fonts/Poppins-Bold.ttf:` +
         `text='${caption}':fontcolor=white:fontsize=52:` +
         `line_spacing=12:` +
