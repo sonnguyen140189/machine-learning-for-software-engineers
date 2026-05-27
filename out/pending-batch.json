@@ -1,43 +1,44 @@
 {
-  "stamp": "2026-05-26",
+  "stamp": "2026-05-27",
   "items": [
     {
-      "placeId": "ChIJVfAI0x-LpzEREtAbjhh-bMM",
-      "placeName": "Ola Coffee",
-      "mode": "video",
+      "placeId": "ChIJD9DsB2WTpzERfreTz-avFp0",
+      "placeName": "Andochine Resort & Spa Phu Quoc",
+      "mode": "photo",
       "photoPaths": [
-        "out/media/2026-05-26-REtAbjhh-bMM-0.jpg",
-        "out/media/2026-05-26-REtAbjhh-bMM-1.jpg",
-        "out/media/2026-05-26-REtAbjhh-bMM-2.jpg",
-        "out/media/2026-05-26-REtAbjhh-bMM-3.jpg",
-        "out/media/2026-05-26-REtAbjhh-bMM-4.jpg",
-        "out/media/2026-05-26-REtAbjhh-bMM-5.jpg",
-        "out/media/2026-05-26-REtAbjhh-bMM-6.jpg",
-        "out/media/2026-05-26-REtAbjhh-bMM-7.jpg"
+        "out/media/2026-05-27-RfreTz-avFp0-0.jpg",
+        "out/media/2026-05-27-RfreTz-avFp0-1.jpg",
+        "out/media/2026-05-27-RfreTz-avFp0-2.jpg",
+        "out/media/2026-05-27-RfreTz-avFp0-3.jpg",
+        "out/media/2026-05-27-RfreTz-avFp0-4.jpg",
+        "out/media/2026-05-27-RfreTz-avFp0-5.jpg",
+        "out/media/2026-05-27-RfreTz-avFp0-6.jpg",
+        "out/media/2026-05-27-RfreTz-avFp0-7.jpg"
       ],
-      "videoPath": "out/media/2026-05-26-REtAbjhh-bMM.mp4",
+      "videoPath": null,
       "content": {
         "facebook": {
-          "caption": "Tucked along 600 Đường Cách Mạng Tháng Tám in Khu 6, Ola Coffee is one of those finds that makes a trip feel a little more personal. With a solid 4.5/5 from 145 reviewers, it has clearly won over plenty of visitors looking for a genuine coffee stop away from the tourist trail. Swing by in the morning for a quieter, more local atmosphere, and grab a table before the midday heat sets in.",
-          "video_caption": "Watch the cups land on the table at Ola Coffee and you will understand why the rating speaks for itself. Real coffee, a relaxed vibe, and a neighborhood corner of Phu Quoc that most visitors scroll right past. This is your sign to stop scrolling and stop in.",
-          "first_comment": "#OlaCoffee #PhuQuocCafe #CoffeeInVietnam #PhuQuocHidden #VietnamCoffee #TravelPhuQuoc #CafeVibes"
+          "caption": "Andochine Resort & Spa Phu Quoc is turning heads on the island, and a 4.9/5 rating across nearly 900 reviews tells you this place is doing almost everything right. Tucked inside the Sonasea Villas & Resort complex along Đường Bào, it blends Indochine-inspired design with the lush tropical setting Phu Quoc does so well. Expect beautifully appointed rooms, attentive spa treatments, and the kind of poolside calm that makes you forget your return flight exists. Practical tip: book your spa session in advance, especially during peak season from November to April, as slots fill up fast.",
+          "video_caption": "Watch the light move through those Indochine-style corridors and you will understand instantly why Andochine Resort & Spa Phu Quoc earns the scores it does. From the pool to the spa, every corner of this place looks as good in motion as it does in photos. Nearly 900 guests gave it a 4.9/5, and the clips show exactly why.",
+          "first_comment": "#AndochineResort #PhuQuocResort #PhuQuocSpa #LuxuryPhuQuoc #SonaseaResort #VietnamTravel #TropicalGetaway"
         },
         "instagram": {
-          "caption": "Ola Coffee earns its 4.5/5 the honest way. Good coffee, a low-key neighborhood feel, and a welcome break from the beach crowds. Located in Khu 6 on Đường Cách Mạng Tháng Tám. Go early, go often.",
-          "video_caption": "Morning light, a proper cup, and zero tourist rush. Ola Coffee in Khu 6 is the kind of Phu Quoc moment you will actually want to remember.",
-          "hashtags": "#OlaCoffee #PhuQuocCafe #VietnamCoffee #CafeHopping #PhuQuocIsland #HiddenGemCafe #CoffeeLovers #TravelVietnam #IslandCoffee #LocalVibes #MorningCoffee #CafeFinds #PhuQuocTravel #ExploreVietnam"
+          "caption": "Nearly 900 reviews and a 4.9/5 rating. Andochine Resort & Spa Phu Quoc, set within the Sonasea complex on Đường Bào, is the kind of place that rewards slow mornings and long spa afternoons. Book your treatments early, especially Nov through Apr.",
+          "video_caption": "Pool reflections, spa serenity, Indochine vibes. Andochine Resort & Spa Phu Quoc has a 4.9/5 from nearly 900 guests, and every second of footage explains why. Your slow-travel era starts here.",
+          "hashtags": "#AndochineResort #AndochinePhuQuoc #PhuQuocResort #PhuQuocSpa #SonaseaResort #LuxuryVietnam #VietnamResort #TropicalResort #PhuQuocIsland #VietnamTravel #IslandLife #SpaRetreat #IndochineStyle #TravelPhuQuoc #SlowTravel #HotelGoals #AsiaTravel #VisitVietnam"
         },
         "tiktok": {
-          "caption": "Skipped the resort coffee and found Ola Coffee in Khu 6 instead. 4.5 stars, real vibes, zero regrets. #OlaCoffee #PhuQuoc #VietnamCoffee #CafeHop"
+          "caption": "4.9 stars, nearly 900 reviews, pure Indochine luxury. Andochine Resort & Spa Phu Quoc might be your best sleep in Vietnam. Book that spa early! #AndochineResort #PhuQuocResort #VietnamTravel #LuxuryTravel"
         },
         "video_script": {
-          "hook": "Best coffee stop in Phu Quoc?",
+          "hook": "4.9 stars. 899 reviews.",
           "scenes": [
-            "Ola Coffee, Khu 6",
-            "Rated 4.5/5 by 145 visitors",
-            "Off the main tourist strip",
-            "Morning visit recommended",
-            "Order up and settle in"
+            "Welcome to Andochine Resort & Spa",
+            "Indochine design meets tropical Phu Quoc",
+            "Inside the Sonasea complex, Đường Bào",
+            "Pool, spa, and serious relaxation",
+            "Nearly 900 guests can't be wrong",
+            "Pro tip: book your spa in advance"
           ],
           "cta": "Save this for your Phu Quoc trip"
         }
