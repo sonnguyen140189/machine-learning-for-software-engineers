@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Some cafes just fix the noise in your head.\n\nKin Cafe on Đường Bạch Đằng is that kind of place. Slow mornings, good coffee, a vibe that makes you forget the beach hustle exists. 4.2 stars across 200 reviews, and the crowd still feels local-sized.\n\nBudget around $15-30 per person. Worth every cent for the reset.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch how fast the outside world disappears when you sit down at Kin Cafe. One order in, you're already on Phu Quoc time. Đường Bạch Đằng has been hiding this the whole time.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #VietnamCafe #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "This cafe fixes the noise in your head.\n\nKin Cafe, Đường Bạch Đằng. 4.2 stars, 200 reviews, zero chaos.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "One coffee at Kin Cafe and you're fully on Phu Quoc time. No resort crowds. Just the good slow.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CafeVibes"
+  },
+  "tiktok": {
+    "caption": "The cafe that actually slows your brain down. Kin Cafe, Phu Quoc. Go. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This cafe fixes burnout.",
+    "scenes": [
+      "Push open the cafe door, step inside",
+      "Hands wrap around a warm coffee cup",
+      "Empty chairs, soft light, no crowd",
+      "Slow zoom on menu hitting the table",
+      "Guest exhales, leans back, smiles"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
