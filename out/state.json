@@ -1,5 +1,6 @@
 {
   "postedPlaceIds": [
+    "ChIJD9DsB2WTpzERfreTz-avFp0",
     "ChIJr3Ri4nKNpzERO5jEgIBd3hw",
     "ChIJ_0eqFMcfCDERGFRN2VvZDXg",
     "ChIJsUtKbcyNpzERvb8Kdb3kX4g",
@@ -134,6 +135,20 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-27",
+      "placeId": "ChIJD9DsB2WTpzERfreTz-avFp0",
+      "placeName": "Andochine Resort & Spa Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122104922895313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18080529230641231"
+        }
+      }
+    },
     {
       "date": "2026-05-26",
       "placeId": "ChIJr3Ri4nKNpzERO5jEgIBd3hw",
