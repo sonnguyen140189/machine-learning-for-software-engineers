@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.6 stars. 546 reviews. At a beach bistro most tourists never find.\n\nThe Beach Bistro sits right on Khu Bãi Dài, Gành Dầu, Phú Quốc. Far from the resort strip. The kind of place that earns its rating quietly.\n\n546 people took the time to rate it. That number means something.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Plates hitting the table at The Beach Bistro, Gành Dầu. 546 reviews worth of reasons to drive north. Watch till the end.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocFood #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.6 stars. 546 reviews. Khu Bãi Dài, Gành Dầu, Phú Quốc.\n\nMost visitors never make it this far north. Their loss.\n\nSave this.",
+    "video_caption": "546 people rated The Beach Bistro. Watch what they kept coming back for.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #GanhDau #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.6 stars, 546 reviews, and tourists keep sleeping on it. Gành Dầu delivers. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "546 reviews. Worth the drive.",
+    "scenes": [
+      "Aerial shot: empty Khu Bãi Dài coastline",
+      "Car turning off main road toward Gành Dầu",
+      "Exterior of The Beach Bistro, beachside",
+      "Close-up: food arriving at outdoor table",
+      "Wide shot: diners, water in background",
+      "Phone screen showing 4.6 star rating"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

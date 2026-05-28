@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you take a wrong turn on Đ. 30 Tháng 4 and end up at Chill Bar Đồi Trăng. 4.8 stars. 157 reviews. Nobody at the resort told you about this. The kind of bar that earns repeat visits, not just photos. Add it to the list before everyone else does. Save this for your Phu Quoc trip.",
+    "video_caption": "Wrong turn. Best discovery. Chill Bar Đồi Trăng is sitting at 4.8 stars for a reason. Watch this before you book your nights out in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #PhuQuocNightlife #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn. Found Chill Bar Đồi Trăng. 4.8 stars, 157 reviews, zero hype on tourist maps. Tag your travel buddy.",
+    "video_caption": "4.8 stars and locals keep it quiet. Chill Bar Đồi Trăng hits different at night.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: wrong turn, best bar in Phu Quoc. Chill Bar Đồi Trăng, 4.8⭐ #PhuQuoc #PhuQuocBars #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Best bar.",
+    "scenes": [
+      "Approach Chill Bar Đồi Trăng entrance at night",
+      "Pan across bar setup and crowd",
+      "Close-up of drinks being poured",
+      "Slow pull-back on the full vibe",
+      "Show 4.8-star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
