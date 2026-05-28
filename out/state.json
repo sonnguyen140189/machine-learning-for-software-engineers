@@ -1,5 +1,7 @@
 {
   "postedPlaceIds": [
+    "ChIJReCCyQsfCDEREcf_dOKY-wA",
+    "ChIJK0z_dgCNpzERiSVWSPMxaoc",
     "ChIJD9DsB2WTpzERfreTz-avFp0",
     "ChIJr3Ri4nKNpzERO5jEgIBd3hw",
     "ChIJ_0eqFMcfCDERGFRN2VvZDXg",
@@ -135,6 +137,36 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-28",
+      "placeId": "ChIJReCCyQsfCDEREcf_dOKY-wA",
+      "placeName": "The Beach Bistro",
+      "results": {
+        "facebookVideo": {
+          "id": "1042373858219279"
+        },
+        "instagramReel": {
+          "id": "18080368829559335"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-28",
+      "placeId": "ChIJK0z_dgCNpzERiSVWSPMxaoc",
+      "placeName": "Chill Bar Đồi Trăng",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122105098287313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17992162421986128"
+        }
+      }
+    },
     {
       "date": "2026-05-27",
       "placeId": "ChIJD9DsB2WTpzERfreTz-avFp0",
