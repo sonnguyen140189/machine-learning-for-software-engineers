@@ -1,5 +1,6 @@
 {
   "postedPlaceIds": [
+    "ChIJv-9uPmUfCDER6NeYGQTjw3g",
     "ChIJGb4oNz2LpzERnlJX2YrpYTQ",
     "ChIJj9eeH0-XpzERR3O-7B0rxFo",
     "ChIJReCCyQsfCDEREcf_dOKY-wA",
@@ -139,6 +140,20 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-30",
+      "placeId": "ChIJv-9uPmUfCDER6NeYGQTjw3g",
+      "placeName": "Grand World Food Court",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122105597847313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18106438483756590"
+        }
+      }
+    },
     {
       "date": "2026-05-29",
       "placeId": "ChIJGb4oNz2LpzERnlJX2YrpYTQ",
