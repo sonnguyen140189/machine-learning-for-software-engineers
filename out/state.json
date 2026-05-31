@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ44_c7DiLpzERBpIsx0wB0T4",
+    "ChIJ2_A_qiGNpzERECnKPGDMbqc",
+    "ChIJY6klvwiLpzERbXSkUvWfTOs",
+    "ChIJ2fu7BmGNpzERyc_w8wahNio",
+    "ChIJLa_VvluMpzERVdeTFM021V4",
+    "ChIJyQi3u2GMpzERVXgllKB2V_A",
+    "ChIJEYK7sD6LpzERgAa_oy1mPEg",
+    "ChIJgw37s0-XpzERx2gWzxP5Qfg",
+    "ChIJNzL9GqEfCDERTQfv5j5Deik",
+    "ChIJEzRJ34iLpzEReKo1k_nV9NU",
+    "ChIJjwG2SAAfCDERd7JcFN0UNTw",
+    "ChIJF9qetGKMpzER2yzXvft5qgg",
     "ChIJv-9uPmUfCDER6NeYGQTjw3g",
     "ChIJGb4oNz2LpzERnlJX2YrpYTQ",
     "ChIJj9eeH0-XpzERR3O-7B0rxFo",
@@ -140,6 +152,186 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-05-31",
+      "placeId": "ChIJ44_c7DiLpzERBpIsx0wB0T4",
+      "placeName": "Flavor of life Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "976945965081520"
+        },
+        "instagramReel": {
+          "id": "18119255068742862"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "placeId": "ChIJ2_A_qiGNpzERECnKPGDMbqc",
+      "placeName": "Nhà Hàng Chay NẤM (Vegan Restaurant)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122105867871313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18115894090863232"
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "placeId": "ChIJY6klvwiLpzERbXSkUvWfTOs",
+      "placeName": "Bếp Chay Nhà An | VEGETARIAN BISTRO",
+      "results": {
+        "facebookVideo": {
+          "id": "27098525906443437"
+        },
+        "instagramReel": {
+          "id": "17892213879490859"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "placeId": "ChIJ2fu7BmGNpzERyc_w8wahNio",
+      "placeName": "GRACE'S TOUR PHÚ QUỐC- SIM CARD- MONEY EXCHANGE- ENGLISH SPEAKER- DIVING",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122105866875313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18111588280705822"
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
+      "placeName": "Jerry's Jungle Tours",
+      "results": {
+        "facebookVideo": {
+          "id": "1029241599782444"
+        },
+        "instagramReel": {
+          "id": "18154039033466601"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "placeId": "ChIJyQi3u2GMpzERVXgllKB2V_A",
+      "placeName": "RED RIVER TOURS",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122105865621313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18103531136078506"
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "placeId": "ChIJEYK7sD6LpzERgAa_oy1mPEg",
+      "placeName": "Basket Boat Tour & Kayak Tour (Dynasty Phu Quoc)",
+      "results": {
+        "facebookVideo": {
+          "id": "1298656575776657"
+        },
+        "instagramReel": {
+          "id": "18105861469946088"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "placeId": "ChIJgw37s0-XpzERx2gWzxP5Qfg",
+      "placeName": "VEGAYACHTS - Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122105864481313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17865576192568139"
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "placeId": "ChIJNzL9GqEfCDERTQfv5j5Deik",
+      "placeName": "Vinpearl Land Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1546914373697329"
+        },
+        "instagramReel": {
+          "id": "18106924037293648"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "placeId": "ChIJEzRJ34iLpzEReKo1k_nV9NU",
+      "placeName": "Cung Điện Hải Vương",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122105863119313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17952963345157782"
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "placeId": "ChIJjwG2SAAfCDERd7JcFN0UNTw",
+      "placeName": "Vinpearl Resort Phu Quoc lobby",
+      "results": {
+        "facebookVideo": {
+          "id": "978485644823673"
+        },
+        "instagramReel": {
+          "id": "18103607804050248"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "placeId": "ChIJF9qetGKMpzER2yzXvft5qgg",
+      "placeName": "Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122105862267313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18098388947129870"
+        }
+      }
+    },
     {
       "date": "2026-05-30",
       "placeId": "ChIJv-9uPmUfCDER6NeYGQTjw3g",
