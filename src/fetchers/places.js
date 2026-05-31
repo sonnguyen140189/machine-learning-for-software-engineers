@@ -18,6 +18,31 @@ const SEARCH_QUERIES = [
   "cafes Phu Quoc",
   "night market Phu Quoc",
   "snorkeling Phu Quoc",
+  // Expanded set (2026-05-31). The original 8 queries returned ~140 unique
+  // places. After ~138 posts the state's excludeIds nearly covered the entire
+  // pool and the cron crashed with "No fresh place candidates returned".
+  // These broaden coverage so the pool stays > 200 unique places.
+  "breakfast spots Phu Quoc",
+  "bars Phu Quoc",
+  "spa massage Phu Quoc",
+  "boat tours Phu Quoc",
+  "sunset bars Phu Quoc",
+  "street food Phu Quoc",
+  "seafood restaurants Phu Quoc",
+  "fishing village Phu Quoc",
+  // Second expansion (same day) — first expansion only got pool to 197 unique
+  // places, leaving ~6 days runway. These broaden into food-by-cuisine,
+  // attractions, and outdoor categories Phu Quoc has but the original queries
+  // missed. Target pool ≥ 280 so 200-cap leaves ≥ 80 fresh = ~6 days buffer
+  // per cron run.
+  "pho noodles Phu Quoc",
+  "temples pagodas Phu Quoc",
+  "waterfalls Phu Quoc",
+  "Vinpearl Phu Quoc",
+  "pearl farm Phu Quoc",
+  "vegan vegetarian Phu Quoc",
+  "bakery desserts Phu Quoc",
+  "kayaking Phu Quoc",
 ];
 
 const TEXT_SEARCH_URL = "https://places.googleapis.com/v1/places:searchText";

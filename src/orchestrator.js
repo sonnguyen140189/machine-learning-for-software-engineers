@@ -220,7 +220,13 @@ async function postPhase() {
   for (let i = 0; i < items.length; i++) {
     try {
       const out = await postOnePending(items[i]);
-      state.postedPlaceIds = [items[i].placeId, ...state.postedPlaceIds].slice(0, 500);
+      // Rolling window of "recently posted" — cap at 200 so the same place
+      // becomes eligible again after ~17 days at 12 posts/day. This pairs with
+      // the expanded SEARCH_QUERIES (24 queries → pool ~280 unique places) to
+      // keep `fresh = pool - cap` comfortably > POSTS_PER_RUN at all times.
+      // Bumping the cap higher (we had 500) starves the fetcher, since Phu Quoc
+      // has finite venues and Google returns a non-deterministic subset per run.
+      state.postedPlaceIds = [items[i].placeId, ...state.postedPlaceIds].slice(0, 200);
       state.history.unshift({ date: stamp, placeId: items[i].placeId, placeName: out.placeName, results: out.results });
     } catch (err) {
       console.error(`Post failed for ${items[i].placeId}: ${err.message}`);
