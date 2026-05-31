@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "6,163 reviews. 4.4 stars. And most tourists still don't know where to go once they land.\n\nPhu Quoc isn't one beach. It's white sand on the west, fishing villages in the north, jungle trails in the middle, and night markets after dark.\n\nOne island. About 20 ways to spend a day.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "White sand hits first. Then the jungle trails kick in. Then Phú Quốc shows you it's not just a beach island. 6,163 people rated it 4.4 stars. Here's why that number holds up.",
+    "first_comment": "#PhuQuoc #PhuQuocIsland #VisitVietnam #VietnamTravel #TravelTips #PhuQuocTips #IslandLife"
+  },
+  "instagram": {
+    "caption": "6,163 reviews. 4.4 stars. Phú Quốc still delivers.\n\nBeaches, jungle trails, night markets. One island, zero boring days.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.4 stars across 6,163 reviews. Phú Quốc earns it every single frame. Here's what the island actually looks like.",
+    "hashtags": "#PhuQuoc #PhuQuocIsland #PhuQuocTips #PhuQuocBeaches #VietnamTravel #TravelTips #TravelReels #VietnamIsland #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "6,163 reviews. 4.4 stars. Phú Quốc isn't one vibe, it's every vibe. #PhuQuoc #VietnamTravel #TravelTips #IslandLife"
+  },
+  "video_script": {
+    "hook": "6,163 reviews. 4.4 stars.",
+    "scenes": [
+      "Drone pull back over white-sand west coast",
+      "Close shot: fishing boats at northern village",
+      "Hiker enters dense jungle trail mid-island",
+      "Night market stalls lit up, crowds moving",
+      "Feet in shallow clear water at sunset"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

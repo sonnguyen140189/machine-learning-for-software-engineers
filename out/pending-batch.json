@@ -1,0 +1,522 @@
+{
+  "stamp": "2026-05-31",
+  "items": [
+    {
+      "placeId": "ChIJF9qetGKMpzER2yzXvft5qgg",
+      "placeName": "Phú Quốc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-05-31-R2yzXvft5qgg-0.jpg",
+        "out/media/2026-05-31-R2yzXvft5qgg-1.jpg",
+        "out/media/2026-05-31-R2yzXvft5qgg-2.jpg",
+        "out/media/2026-05-31-R2yzXvft5qgg-3.jpg",
+        "out/media/2026-05-31-R2yzXvft5qgg-4.jpg",
+        "out/media/2026-05-31-R2yzXvft5qgg-5.jpg",
+        "out/media/2026-05-31-R2yzXvft5qgg-6.jpg",
+        "out/media/2026-05-31-R2yzXvft5qgg-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "6,163 reviews. 4.4 stars. And most tourists still don't know where to go once they land.\n\nPhu Quoc isn't one beach. It's white sand on the west, fishing villages in the north, jungle trails in the middle, and night markets after dark.\n\nOne island. About 20 ways to spend a day.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "White sand hits first. Then the jungle trails kick in. Then Phú Quốc shows you it's not just a beach island. 6,163 people rated it 4.4 stars. Here's why that number holds up.",
+          "first_comment": "#PhuQuoc #PhuQuocIsland #VisitVietnam #VietnamTravel #TravelTips #PhuQuocTips #IslandLife"
+        },
+        "instagram": {
+          "caption": "6,163 reviews. 4.4 stars. Phú Quốc still delivers.\n\nBeaches, jungle trails, night markets. One island, zero boring days.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "4.4 stars across 6,163 reviews. Phú Quốc earns it every single frame. Here's what the island actually looks like.",
+          "hashtags": "#PhuQuoc #PhuQuocIsland #PhuQuocTips #PhuQuocBeaches #VietnamTravel #TravelTips #TravelReels #VietnamIsland #ThingsToDoPhuQuoc"
+        },
+        "tiktok": {
+          "caption": "6,163 reviews. 4.4 stars. Phú Quốc isn't one vibe, it's every vibe. #PhuQuoc #VietnamTravel #TravelTips #IslandLife"
+        },
+        "video_script": {
+          "hook": "6,163 reviews. 4.4 stars.",
+          "scenes": [
+            "Drone pull back over white-sand west coast",
+            "Close shot: fishing boats at northern village",
+            "Hiker enters dense jungle trail mid-island",
+            "Night market stalls lit up, crowds moving",
+            "Feet in shallow clear water at sunset"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJjwG2SAAfCDERd7JcFN0UNTw",
+      "placeName": "Vinpearl Resort Phu Quoc lobby",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-05-31-Rd7JcFN0UNTw-0.jpg",
+        "out/media/2026-05-31-Rd7JcFN0UNTw-1.jpg",
+        "out/media/2026-05-31-Rd7JcFN0UNTw-2.jpg",
+        "out/media/2026-05-31-Rd7JcFN0UNTw-3.jpg",
+        "out/media/2026-05-31-Rd7JcFN0UNTw-4.jpg",
+        "out/media/2026-05-31-Rd7JcFN0UNTw-5.jpg",
+        "out/media/2026-05-31-Rd7JcFN0UNTw-6.jpg",
+        "out/media/2026-05-31-Rd7JcFN0UNTw-7.jpg"
+      ],
+      "videoPath": "out/media/2026-05-31-Rd7JcFN0UNTw.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.8 stars. 141 reviews. And that lobby hits different the moment you walk in.\n\nVinpearl Resort Phu Quoc is not a small flex. The scale, the light, the detail, it earns every star. Whether you're checking in or just wandering through, this place sets the tone for your whole trip.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the light pour into the Vinpearl Resort Phu Quoc lobby. 4.8 stars across 141 reviews and you'll see exactly why the moment you step through those doors. This is your first impression of the island done right.",
+          "first_comment": "#PhuQuoc #PhuQuocHotels #VinpearlPhuQuoc #VisitVietnam #TravelTips #PhuQuocResort #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "4.8 stars. 141 reviews. The Vinpearl Resort Phu Quoc lobby earns all of it.\n\nTag your travel buddy.",
+          "video_caption": "Step inside Vinpearl Resort Phu Quoc. 4.8 stars for a reason. This lobby is your sign to book.",
+          "hashtags": "#PhuQuocHotels #PhuQuocResort #VinpearlPhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.8 stars. 141 reviews. Vinpearl Resort Phu Quoc lobby just built different. #PhuQuoc #PhuQuocHotels #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.8 stars. 141 reviews.",
+          "scenes": [
+            "Wide shot: full lobby entrance reveal",
+            "Pan up: ceiling height and light detail",
+            "Slow walk through main atrium",
+            "Close up: check-in desk, staff greeting",
+            "Pull back: full lobby scale, guests moving"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJEzRJ34iLpzEReKo1k_nV9NU",
+      "placeName": "Cung Điện Hải Vương",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-05-31-ReKo1k_nV9NU-0.jpg",
+        "out/media/2026-05-31-ReKo1k_nV9NU-1.jpg",
+        "out/media/2026-05-31-ReKo1k_nV9NU-2.jpg",
+        "out/media/2026-05-31-ReKo1k_nV9NU-3.jpg",
+        "out/media/2026-05-31-ReKo1k_nV9NU-4.jpg",
+        "out/media/2026-05-31-ReKo1k_nV9NU-5.jpg",
+        "out/media/2026-05-31-ReKo1k_nV9NU-6.jpg",
+        "out/media/2026-05-31-ReKo1k_nV9NU-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you walked into Cung Điện Hải Vương not expecting much. You left two hours later. 4.7 stars across 4,147 reviews. That number earned the hard way. Floor-to-ceiling tanks. Schools of fish moving like one organism. Kids go silent. Adults do too. This is the aquarium Phu Quoc didn't tell you it had. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch what happens when you step inside Cung Điện Hải Vương. 4,147 people rated this 4.7 stars. The tanks do all the talking. No narration needed.",
+          "first_comment": "#PhuQuoc #PhuQuocAttractions #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Walked in skeptical. Walked out converted. Cung Điện Hải Vương. 4.7★ from 4,147 people. Tag your travel buddy.",
+          "video_caption": "4,147 reviews. 4.7 stars. Cung Điện Hải Vương hits different in person.",
+          "hashtags": "#PhuQuocAttractions #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelReels #TravelTips #ThingsToDoPhuQuoc #VisitVietnam"
+        },
+        "tiktok": {
+          "caption": "You did not come to Phu Quoc for an aquarium. Cung Điện Hải Vương will change that. 4.7★ 4,147 reviews. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels #ThingsToDo"
+        },
+        "video_script": {
+          "hook": "Walked in skeptical. Big mistake.",
+          "scenes": [
+            "Entrance doors open, light shifts blue",
+            "Floor-to-ceiling tank fills the frame",
+            "Dense school of fish turns in unison",
+            "Child presses hands flat against glass",
+            "Wide shot, visitor silhouettes in tank glow",
+            "Review count and 4.7 star rating on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJNzL9GqEfCDERTQfv5j5Deik",
+      "placeName": "Vinpearl Land Phú Quốc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-05-31-RTQfv5j5Deik-0.jpg",
+        "out/media/2026-05-31-RTQfv5j5Deik-1.jpg",
+        "out/media/2026-05-31-RTQfv5j5Deik-2.jpg",
+        "out/media/2026-05-31-RTQfv5j5Deik-3.jpg",
+        "out/media/2026-05-31-RTQfv5j5Deik-4.jpg",
+        "out/media/2026-05-31-RTQfv5j5Deik-5.jpg",
+        "out/media/2026-05-31-RTQfv5j5Deik-6.jpg",
+        "out/media/2026-05-31-RTQfv5j5Deik-7.jpg"
+      ],
+      "videoPath": "out/media/2026-05-31-RTQfv5j5Deik.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.5 stars at Vinpearl Land Phú Quốc. 148 reviews deep and still delivering. Bãi Dài is already one of Phu Quoc's longest stretches of beach, and this resort sits right on it. Private beach access, full resort amenities, the kind of property that justifies a longer stay. Save this for your Phu Quoc trip.",
+          "video_caption": "Walking into Vinpearl Land Phú Quốc on Bãi Dài, and the beach is right there. 4.5 stars across 148 reviews. This is what a Phu Quoc resort day actually looks like.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #BaiDai #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "4.5 stars. 148 reviews. Vinpearl Land Phú Quốc on Bãi Dài just hits different. Tag your travel buddy.",
+          "video_caption": "Bãi Dài beach, resort right on the sand. Vinpearl Land Phú Quốc earns that 4.5 for a reason.",
+          "hashtags": "#PhuQuocResort #PhuQuocBeaches #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VisitVietnam"
+        },
+        "tiktok": {
+          "caption": "4.5 stars on Bãi Dài beach. Vinpearl Land Phú Quốc goes hard. #PhuQuoc #PhuQuocResort #VietnamTravel #BaiDai"
+        },
+        "video_script": {
+          "hook": "4.5 stars. Bãi Dài beach.",
+          "scenes": [
+            "Aerial pan over Bãi Dài coastline",
+            "Resort entrance gates, slow push-in",
+            "Pool area with beach visible behind",
+            "Feet in sand, waves rolling in",
+            "Guest looking out from balcony"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJgw37s0-XpzERx2gWzxP5Qfg",
+      "placeName": "VEGAYACHTS - Phu Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-05-31-Rx2gWzxP5Qfg-0.jpg",
+        "out/media/2026-05-31-Rx2gWzxP5Qfg-1.jpg",
+        "out/media/2026-05-31-Rx2gWzxP5Qfg-2.jpg",
+        "out/media/2026-05-31-Rx2gWzxP5Qfg-3.jpg",
+        "out/media/2026-05-31-Rx2gWzxP5Qfg-4.jpg",
+        "out/media/2026-05-31-Rx2gWzxP5Qfg-5.jpg",
+        "out/media/2026-05-31-Rx2gWzxP5Qfg-6.jpg",
+        "out/media/2026-05-31-Rx2gWzxP5Qfg-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "1,307 reviews. Every single one a perfect 5 stars. That's VEGAYACHTS in An Thới, Phú Quốc. A private yacht tour off the southern tip of the island, where the water shifts from green to blue and the crowds disappear. Sunset Town is right there when you dock back. Book early. Spots fill fast. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the coastline of Phú Quốc shrink as the yacht pulls out of An Thới. Open water, no tour buses, no noise. Just 1,307 five-star reviews telling you this is the one. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocTours #PhuQuocYacht #VisitVietnam #TravelTips #PhuQuocIsland #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "1,307 reviews. 5.0 stars. Zero exceptions. VEGAYACHTS, An Thới, Phú Quốc. Save this for your Phu Quoc trip.",
+          "video_caption": "Open water. Southern Phú Quốc. 5.0 stars from 1,307 people. VEGAYACHTS delivers. Tag your travel buddy.",
+          "hashtags": "#PhuQuocTours #PhuQuocYacht #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "5.0 stars. 1,307 reviews. VEGAYACHTS in Phú Quốc is not a fluke. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "5.0 stars. 1,307 reviews.",
+          "scenes": [
+            "Yacht leaving An Thới harbour",
+            "Open blue water, no other boats",
+            "Close-up: wake cutting through the sea",
+            "Southern Phú Quốc coastline from the deck",
+            "Sunset over Sunset Town on return"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJEYK7sD6LpzERgAa_oy1mPEg",
+      "placeName": "Basket Boat Tour & Kayak Tour (Dynasty Phu Quoc)",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-05-31-RgAa_oy1mPEg-0.jpg",
+        "out/media/2026-05-31-RgAa_oy1mPEg-1.jpg",
+        "out/media/2026-05-31-RgAa_oy1mPEg-2.jpg",
+        "out/media/2026-05-31-RgAa_oy1mPEg-3.jpg",
+        "out/media/2026-05-31-RgAa_oy1mPEg-4.jpg",
+        "out/media/2026-05-31-RgAa_oy1mPEg-5.jpg",
+        "out/media/2026-05-31-RgAa_oy1mPEg-6.jpg",
+        "out/media/2026-05-31-RgAa_oy1mPEg-7.jpg"
+      ],
+      "videoPath": "out/media/2026-05-31-RgAa_oy1mPEg.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists rent jet skis. Locals spin basket boats.\n\nThe basket boat tour at Dynasty Phu Quoc is one of those activities that doesn't show up on the big booking sites. 4.9 stars across 346 reviews. That ratio doesn't lie.\n\nYou get on a round wicker boat, a local spins it like a top, and you hold on. Equal parts chaos and fun. Add kayaking and you've got a full morning on the water.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch a local spin a wicker basket boat like it's nothing. You're next. Dynasty Phu Quoc's basket boat tour is the water activity you keep skipping. 4.9 stars. 346 reviews. Go.",
+          "first_comment": "#PhuQuoc #PhuQuocActivities #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "Tourists rent jet skis. Locals spin basket boats.\n\n4.9★, 346 reviews, and most visitors walk straight past it. Dynasty Phu Quoc's basket boat tour is your morning sorted.\n\nTag your travel buddy.",
+          "video_caption": "A local spinning a basket boat at full speed. You're about to be in that boat. Dynasty Phu Quoc. 4.9★. Book it.",
+          "hashtags": "#PhuQuocActivities #PhuQuocTips #PhuQuocKayak #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Tourists skip this. Big mistake. Basket boat chaos at Dynasty Phu Quoc. 4.9★ for a reason. #PhuQuoc #PhuQuocActivities #VietnamTravel #TravelTips #TravelReels"
+        },
+        "video_script": {
+          "hook": "Tourists keep skipping this.",
+          "scenes": [
+            "Wide shot: round basket boats on calm water",
+            "Local guide grips paddles, starts spinning",
+            "Tourist grips the sides, laughing hard",
+            "Kayak glides past mangroves, low angle",
+            "Close-up: 4.9★ review screen on phone"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJyQi3u2GMpzERVXgllKB2V_A",
+      "placeName": "RED RIVER TOURS",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-05-31-RVXgllKB2V_A-0.jpg",
+        "out/media/2026-05-31-RVXgllKB2V_A-1.jpg",
+        "out/media/2026-05-31-RVXgllKB2V_A-2.jpg",
+        "out/media/2026-05-31-RVXgllKB2V_A-3.jpg",
+        "out/media/2026-05-31-RVXgllKB2V_A-4.jpg",
+        "out/media/2026-05-31-RVXgllKB2V_A-5.jpg",
+        "out/media/2026-05-31-RVXgllKB2V_A-6.jpg",
+        "out/media/2026-05-31-RVXgllKB2V_A-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists book the first tour agency they Google. Locals in Phu Quoc point to 379 Đường Trần Hưng Đạo. Red River Tours sits away from the resort strip, 4.1 stars across 361 reviews, and keeps filling up. Skip the hotel desk markup. Walk in, ask questions, compare. That's how you actually see Phu Quoc. Save this for your Phu Quoc trip.",
+          "video_caption": "Walk past the resort tour desks. Head straight to Red River Tours on Đường Trần Hưng Đạo. 361 reviews say this is the move. Your itinerary just got better.",
+          "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Tourists Google tours. Locals send you to Red River Tours. 4.1★, 361 reviews, no resort markup. Tag your travel buddy.",
+          "video_caption": "Skip the hotel desk. Red River Tours on Đường Trần Hưng Đạo. Phu Quoc done right.",
+          "hashtags": "#PhuQuocTours #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Not the first result on Google. Still the one locals recommend. Red River Tours, Phu Quoc. #PhuQuoc #PhuQuocTours #TravelTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Tourists miss this agency.",
+          "scenes": [
+            "Street view: 379 Đường Trần Hưng Đạo sign",
+            "Storefront of Red River Tours, no queue",
+            "Staff pointing at island map on counter",
+            "Cut to: boats, island hopping, snorkel gear",
+            "Text overlay: 4.1★ across 361 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
+      "placeName": "Jerry's Jungle Tours",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-05-31-RVdeTFM021V4-0.jpg",
+        "out/media/2026-05-31-RVdeTFM021V4-1.jpg",
+        "out/media/2026-05-31-RVdeTFM021V4-2.jpg",
+        "out/media/2026-05-31-RVdeTFM021V4-3.jpg",
+        "out/media/2026-05-31-RVdeTFM021V4-4.jpg",
+        "out/media/2026-05-31-RVdeTFM021V4-5.jpg",
+        "out/media/2026-05-31-RVdeTFM021V4-6.jpg",
+        "out/media/2026-05-31-RVdeTFM021V4-7.jpg"
+      ],
+      "videoPath": "out/media/2026-05-31-RVdeTFM021V4.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.4 stars. 69 reviews. And most tourists in Phu Quoc have never heard of Jerry's Jungle Tours.\n\nCửa Lấp, Phú Quốc is where the island stops looking like a postcard and starts looking real. Mangroves, waterways, the parts tour buses can never reach.\n\nSmall group. Local knowledge. Zero resort-lobby polish.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Boat cutting through the mangroves at Cửa Lấp, Phú Quốc. No crowds. No script. Just Jerry's Jungle Tours doing what the big operators won't. This is the side of the island most visitors fly home without seeing.",
+          "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.4 stars. 69 reviews. Most visitors never find this.\n\nJerry's Jungle Tours, Cửa Lấp, Phú Quốc. Tag your travel buddy.",
+          "video_caption": "Mangroves. Waterways. Zero crowds. Jerry's Jungle Tours hits different.",
+          "hashtags": "#PhuQuocTours #PhuQuocTips #CuaLap #VietnamTravel #TravelTips #TravelReels #PhuQuocVietnam"
+        },
+        "tiktok": {
+          "caption": "69 reviews and most tourists still walk past this 👀 Jerry's Jungle Tours, Phú Quốc #PhuQuoc #PhuQuocTours #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.4★. 69 reviews. Heard of it?",
+          "scenes": [
+            "Boat launches from Cửa Lấp dock",
+            "Dense mangrove canopy closes overhead",
+            "Guide points out wildlife off-bank",
+            "Waterway widens, no other boats in sight",
+            "Group reaction shot, genuine not posed"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ2fu7BmGNpzERyc_w8wahNio",
+      "placeName": "GRACE'S TOUR PHÚ QUỐC- SIM CARD- MONEY EXCHANGE- ENGLISH SPEAKER- DIVING",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-05-31-Ryc_w8wahNio-0.jpg",
+        "out/media/2026-05-31-Ryc_w8wahNio-1.jpg",
+        "out/media/2026-05-31-Ryc_w8wahNio-2.jpg",
+        "out/media/2026-05-31-Ryc_w8wahNio-3.jpg",
+        "out/media/2026-05-31-Ryc_w8wahNio-4.jpg",
+        "out/media/2026-05-31-Ryc_w8wahNio-5.jpg",
+        "out/media/2026-05-31-Ryc_w8wahNio-6.jpg",
+        "out/media/2026-05-31-Ryc_w8wahNio-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "5.0 stars. 190 reviews. Zero complaints.\n\nGRACE'S TOUR PHÚ QUỐC is the one stop on Đường Trần Hưng Đạo that foreign tourists keep coming back to. SIM card on arrival. Money exchange on the spot. English-speaking staff who actually answer your questions. Diving trips booked in minutes.\n\nNo runaround. No language barrier. Just sorted.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Walk into GRACE'S TOUR PHÚ QUỐC and walk out with a SIM, local cash, and a diving trip booked. Staff speak English. 5.0 stars across 190 reviews. This is the first stop you make when you land.",
+          "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #VietnamTravel #TravelTips"
+        },
+        "instagram": {
+          "caption": "5.0 stars. 190 reviews. GRACE'S TOUR PHÚ QUỐC does it all.\n\nSIM card. Money exchange. Diving. English speakers. One address.\n\nTag your travel buddy.",
+          "video_caption": "SIM card, cash exchange, diving trips. One stop. 5.0 stars. GRACE'S TOUR PHÚ QUỐC is your first move in Phu Quoc.",
+          "hashtags": "#PhuQuocTips #PhuQuocDiving #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocTours"
+        },
+        "tiktok": {
+          "caption": "5.0 stars, 190 reviews. SIM, cash, diving, English. GRACE'S TOUR PHÚ QUỐC does everything. #PhuQuoc #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "5.0★ across 190 reviews.",
+          "scenes": [
+            "Storefront on Đường Trần Hưng Đạo, busy street",
+            "Staff hands tourist a SIM card, smiling",
+            "Cash counted out at money exchange counter",
+            "Diver gears up, boat in background",
+            "Google reviews page: 5.0 stars, 190 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJY6klvwiLpzERbXSkUvWfTOs",
+      "placeName": "Bếp Chay Nhà An | VEGETARIAN BISTRO",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-05-31-RbXSkUvWfTOs-0.jpg",
+        "out/media/2026-05-31-RbXSkUvWfTOs-1.jpg",
+        "out/media/2026-05-31-RbXSkUvWfTOs-2.jpg",
+        "out/media/2026-05-31-RbXSkUvWfTOs-3.jpg",
+        "out/media/2026-05-31-RbXSkUvWfTOs-4.jpg",
+        "out/media/2026-05-31-RbXSkUvWfTOs-5.jpg",
+        "out/media/2026-05-31-RbXSkUvWfTOs-6.jpg",
+        "out/media/2026-05-31-RbXSkUvWfTOs-7.jpg"
+      ],
+      "videoPath": "out/media/2026-05-31-RbXSkUvWfTOs.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.9 stars. 332 reviews. A vegetarian bistro in Phu Quoc that almost nobody talks about.\n\nBếp Chay Nhà An sits on Đường Trần Hưng Đạo and it is quietly crushing it. Plant-based food on an island famous for seafood? The locals figured this one out first.\n\nIf you're skipping meat for a day or eating veggie full-time, this is your spot. Save this for your Phu Quoc trip.",
+          "video_caption": "332 people rated this place 4.9 stars and it's a vegetarian bistro. Watch what comes out of the kitchen at Bếp Chay Nhà An. Plant-based Phu Quoc hits different.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #VietnamTravel #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.9 stars. 332 reviews. Vegetarian bistro in Phu Quoc.\n\nBếp Chay Nhà An is the plant-based spot locals already know. Save this.",
+          "video_caption": "332 people gave this 4.9 stars. It's vegetarian. It's in Phu Quoc. Bếp Chay Nhà An delivers.",
+          "hashtags": "#PhuQuocFood #PhuQuocTips #VegetarianVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocRestaurants"
+        },
+        "tiktok": {
+          "caption": "4.9 stars, 332 reviews, fully vegetarian in Phu Quoc. Bếp Chay Nhà An is not a drill. #PhuQuoc #PhuQuocFood #VegetarianTravel #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.9 stars. Vegetarian. Phu Quoc.",
+          "scenes": [
+            "Zoom in on storefront sign: Bếp Chay Nhà An",
+            "Hands carry steaming bowls to table",
+            "Close-up: colorful plant-based dishes plated",
+            "Cut to Google review screen: 4.9, 332 reviews",
+            "Wide shot: full table spread, no meat in sight"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ2_A_qiGNpzERECnKPGDMbqc",
+      "placeName": "Nhà Hàng Chay NẤM (Vegan Restaurant)",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-05-31-RECnKPGDMbqc-0.jpg",
+        "out/media/2026-05-31-RECnKPGDMbqc-1.jpg",
+        "out/media/2026-05-31-RECnKPGDMbqc-2.jpg",
+        "out/media/2026-05-31-RECnKPGDMbqc-3.jpg",
+        "out/media/2026-05-31-RECnKPGDMbqc-4.jpg",
+        "out/media/2026-05-31-RECnKPGDMbqc-5.jpg",
+        "out/media/2026-05-31-RECnKPGDMbqc-6.jpg",
+        "out/media/2026-05-31-RECnKPGDMbqc-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "432 reviews. 4.5 stars. For a vegan restaurant on a beach island. Nhà Hàng Chay NẤM is doing something right. Plant-based done properly in Phú Quốc, at 13 Đường Nguyễn Trãi. No fish sauce shortcuts. No compromises. Whether you're fully vegan or just need a break from seafood, this place delivers. Save this for your Phu Quoc trip.",
+          "video_caption": "Plant-based plates landing at Nhà Hàng Chay NẤM. 432 reviews don't lie. Vegan food in Phú Quốc that actually earns its 4.5 stars. Watch what arrives at the table.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+        },
+        "instagram": {
+          "caption": "432 reviews. 4.5★. Vegan food in Phu Quoc that hits. Nhà Hàng Chay NẤM, 13 Đường Nguyễn Trãi. Tag your travel buddy.",
+          "video_caption": "Plant-based plates at Nhà Hàng Chay NẤM. 4.5 stars across 432 reviews. Phu Quoc vegan done right.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VeganVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VeganTravel"
+        },
+        "tiktok": {
+          "caption": "432 reviews. 4.5★. Vegan food in Phu Quoc that earns it. Nhà Hàng Chay NẤM is the one. #PhuQuoc #PhuQuocFood #VeganVietnam #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "432 reviews. 4.5★. Vegan.",
+          "scenes": [
+            "Exterior shot: restaurant sign NẤM",
+            "Hands plating a colorful vegan dish",
+            "Close-up: fresh vegetables, no meat",
+            "Wide shot: full table spread",
+            "Reviewer quote on screen: 4.5 stars"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ44_c7DiLpzERBpIsx0wB0T4",
+      "placeName": "Flavor of life Restaurant",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-05-31-RBpIsx0wB0T4-0.jpg",
+        "out/media/2026-05-31-RBpIsx0wB0T4-1.jpg",
+        "out/media/2026-05-31-RBpIsx0wB0T4-2.jpg",
+        "out/media/2026-05-31-RBpIsx0wB0T4-3.jpg",
+        "out/media/2026-05-31-RBpIsx0wB0T4-4.jpg",
+        "out/media/2026-05-31-RBpIsx0wB0T4-5.jpg",
+        "out/media/2026-05-31-RBpIsx0wB0T4-6.jpg",
+        "out/media/2026-05-31-RBpIsx0wB0T4-7.jpg"
+      ],
+      "videoPath": "out/media/2026-05-31-RBpIsx0wB0T4.mp4",
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes burnout.\n\nFlavor of life Restaurant sits on a quiet street in Ông Lang, far from the resort crowds. 4.6 stars. 62 reviews. The kind of spot where you order something, breathe, and stop checking your phone.\n\nĐường Dinh Bà is easy to miss. That's the point.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Slow food. Slow afternoon. Flavor of life Restaurant in Ông Lang is exactly what Phu Quoc should feel like. 4 Đường Dinh Bà. Go find it.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #OngLang #VisitVietnam #TravelTips #PhuQuocFood #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "This place fixes burnout. Flavor of life Restaurant, Ông Lang. 4.6★, zero rush.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Ông Lang has a restaurant that makes you forget your flight home. Flavor of life. 4 Đường Dinh Bà. Go.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #OngLang #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "The Phu Quoc restaurant that fixes burnout. Ông Lang side, no crowds. #PhuQuoc #PhuQuocFood #OngLang #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "This place fixes burnout.",
+          "scenes": [
+            "Wide shot: quiet Đường Dinh Bà street",
+            "Pan up: Flavor of life sign, soft light",
+            "Empty table, food arriving slowly",
+            "Close-up: dish placed, steam rising",
+            "Guest leans back, phone face-down"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

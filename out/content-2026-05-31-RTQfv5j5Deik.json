@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars at Vinpearl Land Phú Quốc. 148 reviews deep and still delivering. Bãi Dài is already one of Phu Quoc's longest stretches of beach, and this resort sits right on it. Private beach access, full resort amenities, the kind of property that justifies a longer stay. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into Vinpearl Land Phú Quốc on Bãi Dài, and the beach is right there. 4.5 stars across 148 reviews. This is what a Phu Quoc resort day actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #BaiDai #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.5 stars. 148 reviews. Vinpearl Land Phú Quốc on Bãi Dài just hits different. Tag your travel buddy.",
+    "video_caption": "Bãi Dài beach, resort right on the sand. Vinpearl Land Phú Quốc earns that 4.5 for a reason.",
+    "hashtags": "#PhuQuocResort #PhuQuocBeaches #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "4.5 stars on Bãi Dài beach. Vinpearl Land Phú Quốc goes hard. #PhuQuoc #PhuQuocResort #VietnamTravel #BaiDai"
+  },
+  "video_script": {
+    "hook": "4.5 stars. Bãi Dài beach.",
+    "scenes": [
+      "Aerial pan over Bãi Dài coastline",
+      "Resort entrance gates, slow push-in",
+      "Pool area with beach visible behind",
+      "Feet in sand, waves rolling in",
+      "Guest looking out from balcony"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

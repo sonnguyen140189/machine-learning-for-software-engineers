@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "432 reviews. 4.5 stars. For a vegan restaurant on a beach island. Nhà Hàng Chay NẤM is doing something right. Plant-based done properly in Phú Quốc, at 13 Đường Nguyễn Trãi. No fish sauce shortcuts. No compromises. Whether you're fully vegan or just need a break from seafood, this place delivers. Save this for your Phu Quoc trip.",
+    "video_caption": "Plant-based plates landing at Nhà Hàng Chay NẤM. 432 reviews don't lie. Vegan food in Phú Quốc that actually earns its 4.5 stars. Watch what arrives at the table.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "432 reviews. 4.5★. Vegan food in Phu Quoc that hits. Nhà Hàng Chay NẤM, 13 Đường Nguyễn Trãi. Tag your travel buddy.",
+    "video_caption": "Plant-based plates at Nhà Hàng Chay NẤM. 4.5 stars across 432 reviews. Phu Quoc vegan done right.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VeganVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VeganTravel"
+  },
+  "tiktok": {
+    "caption": "432 reviews. 4.5★. Vegan food in Phu Quoc that earns it. Nhà Hàng Chay NẤM is the one. #PhuQuoc #PhuQuocFood #VeganVietnam #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "432 reviews. 4.5★. Vegan.",
+    "scenes": [
+      "Exterior shot: restaurant sign NẤM",
+      "Hands plating a colorful vegan dish",
+      "Close-up: fresh vegetables, no meat",
+      "Wide shot: full table spread",
+      "Reviewer quote on screen: 4.5 stars"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
