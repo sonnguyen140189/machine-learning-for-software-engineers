@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJj3F_PH6MpzERfHGG1n2ILfY",
+    "ChIJdzmotOqNpzER3SFTNOAxFC4",
+    "ChIJH9ee78qXpzERHmD_84LM0Dw",
+    "ChIJi-z2ewCNpzER4P73e0T61VE",
+    "ChIJYREw3iyNpzER4MEeLlm9Ju4",
+    "ChIJG95PVOeNpzERkFIrScFenIo",
+    "ChIJlVd-PKCNpzER4kuW6-aFtAc",
+    "ChIJ5eqLUm2NpzERURd3wi62JoM",
+    "ChIJMSfrfEqNpzER9_6_sLzv_nk",
+    "ChIJOS1SBvaNpzER_8gRpU5tGKI",
+    "ChIJj3KLVmuNpzERRcxS6PIioiI",
+    "ChIJh-NscYeMpzER9zBF1Ddrbo0",
     "ChIJ44_c7DiLpzERBpIsx0wB0T4",
     "ChIJ2_A_qiGNpzERECnKPGDMbqc",
     "ChIJY6klvwiLpzERbXSkUvWfTOs",
@@ -152,6 +164,186 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-06-01",
+      "placeId": "ChIJj3F_PH6MpzERfHGG1n2ILfY",
+      "placeName": "Quán Chay Tỉnh Tâm Trai",
+      "results": {
+        "facebookVideo": {
+          "id": "736856329515893"
+        },
+        "instagramReel": {
+          "id": "17984132814008896"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "placeId": "ChIJdzmotOqNpzER3SFTNOAxFC4",
+      "placeName": "Indian Restaurant Krishna Garden - 100% Pure Vegetarian Food",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122105995881313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17887661784390822"
+        }
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "placeId": "ChIJH9ee78qXpzERHmD_84LM0Dw",
+      "placeName": "CASEPIA Kitchen & Lounge",
+      "results": {
+        "facebookVideo": {
+          "id": "1940629783260554"
+        },
+        "instagramReel": {
+          "id": "18595525960023614"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "placeId": "ChIJi-z2ewCNpzER4P73e0T61VE",
+      "placeName": "CƠM CHAY HIỀN ĐỨC",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122105994807313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18087875015435945"
+        }
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "placeId": "ChIJYREw3iyNpzER4MEeLlm9Ju4",
+      "placeName": "Nhà hàng Chay Minh Tâm",
+      "results": {
+        "facebookVideo": {
+          "id": "857626984081565"
+        },
+        "instagramReel": {
+          "id": "18109871509728780"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "placeId": "ChIJG95PVOeNpzERkFIrScFenIo",
+      "placeName": "Sen River Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122105993925313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18104659240965700"
+        }
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "placeId": "ChIJlVd-PKCNpzER4kuW6-aFtAc",
+      "placeName": "Rajwadi Zaikah Indian Restaurant Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1663799901545113"
+        },
+        "instagramReel": {
+          "id": "18095328050192942"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "placeId": "ChIJ5eqLUm2NpzERURd3wi62JoM",
+      "placeName": "Cơm chay tự chọn Bồ Đề Chay",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122105993043313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18414838015179699"
+        }
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "placeId": "ChIJMSfrfEqNpzER9_6_sLzv_nk",
+      "placeName": "Maharaja Lounge - Authentic Indian 100% Veg Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "1350846660280300"
+        },
+        "instagramReel": {
+          "id": "18104720707811376"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "placeId": "ChIJOS1SBvaNpzER_8gRpU5tGKI",
+      "placeName": "Nora’s Cafe - Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122105992047313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17975300976028758"
+        }
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "placeId": "ChIJj3KLVmuNpzERRcxS6PIioiI",
+      "placeName": "RASOI INDIAN PURE VEGETARIAN RESTAURANT",
+      "results": {
+        "facebookVideo": {
+          "id": "1727693781983320"
+        },
+        "instagramReel": {
+          "id": "18169981549424535"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "placeId": "ChIJh-NscYeMpzER9zBF1Ddrbo0",
+      "placeName": "Khánh Ly Vegetarian Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122105990835313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18099884189117204"
+        }
+      }
+    },
     {
       "date": "2026-05-31",
       "placeId": "ChIJ44_c7DiLpzERBpIsx0wB0T4",
