@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past CASEPIA Kitchen & Lounge. Locals keep coming back. 4.7 stars across 730 reviews inside Sorrento, Sunset Town tells you everything. This is not the loud beachfront strip. It's the kind of place you find by accident and immediately add to your shortlist. Save this for your Phu Quoc trip.",
+    "video_caption": "Fork hits the plate. Steam rises. 730 people rated this 4.7 stars and most tourists never find it. CASEPIA Kitchen & Lounge, Sorrento, Sunset Town. Now you know.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #SunsetTownPhuQuoc #VietnamFood"
+  },
+  "instagram": {
+    "caption": "730 reviews. 4.7 stars. Tourists keep walking past CASEPIA Kitchen & Lounge. Save this for your Phu Quoc trip.",
+    "video_caption": "The restaurant insiders keep to themselves. CASEPIA Kitchen & Lounge, Sunset Town. 4.7 stars. Go find it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #SunsetTownPhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodReels"
+  },
+  "tiktok": {
+    "caption": "Locals don't post this. 4.7 stars, 730 reviews, Sunset Town. Go before it blows up. #PhuQuoc #PhuQuocFood #SunsetTownPhuQuoc #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior shot, Sorrento entrance, golden light",
+      "Push through door, reveal full dining room",
+      "Close-up: food landing on table",
+      "Slow pan across lounge seating",
+      "Phone screen showing 4.7 stars, 730 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

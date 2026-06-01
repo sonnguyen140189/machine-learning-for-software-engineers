@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this place. Quán Chay Tỉnh Tâm Trai sits on Nguyễn Trung Trực, quiet, no neon signs, no English menu out front. Pure Vietnamese vegetarian food. The kind of meal that slows you down. 41 reviews, 4.2 stars, and most of them locals. If your Phu Quoc trip has been all seafood and cocktails, this is the reset button. Save this for your Phu Quoc trip.",
+    "video_caption": "Camera pans past the street entrance. Simple bowls land on the table. Steam rising. No crowds, no tourist noise. Just real vegetarian food on Nguyễn Trung Trực, Phu Quoc. Quán Chay Tỉnh Tâm Trai. Worth finding.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianVietnam #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals eat here. Tourists walk straight past. Quán Chay Tỉnh Tâm Trai, Phu Quoc's quiet vegetarian spot. Tag your travel buddy.",
+    "video_caption": "No sign. No crowds. Just bowls of real Vietnamese vegetarian food. Quán Chay Tỉnh Tâm Trai delivers.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #VegetarianVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Locals don't post this Phu Quoc veggie spot. You found it. #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post this place.",
+    "scenes": [
+      "Walk down Nguyễn Trung Trực street",
+      "Plain storefront, no tourist signs",
+      "Steaming bowls placed on table",
+      "Close-up: broth, herbs, chopsticks",
+      "Empty seats, calm atmosphere"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 1,108 reviews. At a cafe on a back lane in Cửa Lấp.\n\nNora's Cafe - Restaurant isn't on the main strip. It's down Hem Chua Ong, away from the tourist drag. That's exactly why the numbers hit different.\n\nOver a thousand people went out of their way to leave a review. That's not luck. That's consistency.\n\nAdd this to your Phu Quoc list before everyone else does. Save this for your Phu Quoc trip.",
+    "video_caption": "Down a back lane in Cửa Lấp. 1,108 reviews. Watch what comes out of this kitchen at Nora's Cafe - Restaurant and you'll understand every single one.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 1,108 reviews. Down a back lane in Cửa Lấp.\n\nNora's Cafe - Restaurant earns every one. Tag your travel buddy.",
+    "video_caption": "1,108 people reviewed a cafe on a back lane in Cửa Lấp. Nora's hits different. Here's why.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #CuaLap #VietnamTravel #TravelTips #TravelReels #FoodTravelAsia"
+  },
+  "tiktok": {
+    "caption": "4.7 stars on a back lane in Cửa Lấp. Nora's Cafe - Restaurant is not a coincidence. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.7★ from 1,108 reviews.",
+    "scenes": [
+      "Motorbike turns down Hem Chua Ong",
+      "Small sign: Nora's Cafe comes into view",
+      "Plates landing on outdoor table",
+      "Close-up: food texture, steam rising",
+      "Phone screen shows 4.7, scroll reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
