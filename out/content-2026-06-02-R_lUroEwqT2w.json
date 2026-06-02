@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 906 reviews. At a spa most tourists never find.\n\nL Spa in Cửa Lấp is doing something right. Nearly 1,000 people rated it almost perfectly, and it's not on the main tourist strip.\n\nAdd it to your Phu Quoc itinerary before it blows up.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "906 reviews. 4.9 stars. Watch what the fuss is about at L Spa in Cửa Lấp, one of Phu Quoc's highest-rated massage spots. Your body will thank you.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 906 reviews. L Spa in Cửa Lấp is the real deal.\n\nTag your travel buddy.",
+    "video_caption": "906 people rated this spa nearly perfectly. L Spa, Cửa Lấp. Book it.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaVietnam #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 906 reviews. L Spa in Cửa Lấp hits different. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9★ 906 reviews. One spa.",
+    "scenes": [
+      "Exterior shot: L Spa signage, Cửa Lấp street",
+      "Slow pan across treatment rooms",
+      "Therapist preparing warm oils, close-up",
+      "Guest relaxing face-down on massage table",
+      "Google review screen: 906 ratings, 4.9 stars"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

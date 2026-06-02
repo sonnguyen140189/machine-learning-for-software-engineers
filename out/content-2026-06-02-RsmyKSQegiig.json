@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout.\n\nYUJU SPA on Đường Trần Hưng Đạo is sitting at 4.9 stars across 5,859 reviews. That number doesn't happen by accident.\n\nBook it on day one of your trip. You'll wish you did. Your body will thank you by day two.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Hands working out every knot from a week of travel. 4.9 stars. 5,859 people already know about YUJU SPA. Now you do too. 📍 Đường Trần Hưng Đạo, Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. 4.9★ across 5,859 reviews. YUJU SPA, Đường Trần Hưng Đạo.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "5,859 reviews. 4.9 stars. YUJU SPA hits different after a long travel day. 📍 Phu Quoc.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 5,859 reviews. YUJU SPA in Phu Quoc will reset you completely. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Exterior shot: 99A Đường Trần Hưng Đạo signage",
+      "Therapist hands applying oil on back",
+      "Guest melting into massage table",
+      "Close-up: 4.9★ review screen on phone",
+      "Guest walking out, visibly relaxed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
