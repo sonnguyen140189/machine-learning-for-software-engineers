@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJSZd5tJyNpzER_lUroEwqT2w",
+    "ChIJCT7IJHeNpzERsmyKSQegiig",
+    "ChIJw0auYQCNpzER8BCjNBsmIBs",
+    "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
+    "ChIJjXUjGRmNpzERbpTPg0YpR3g",
+    "ChIJqx54JIyNpzERfmx8wXohQ4U",
+    "ChIJiyzaO4CNpzERTH6QKehpvBw",
+    "ChIJK6PXziqyU2gREZvk_pErVag",
+    "ChIJcQI2WEyNpzERiZfbiTwGiHU",
+    "ChIJ_QHQ2eWNpzER0VcwkboktMU",
+    "ChIJtXjS0ZiNpzERdRstZIXgHfw",
+    "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
     "ChIJj3F_PH6MpzERfHGG1n2ILfY",
     "ChIJdzmotOqNpzER3SFTNOAxFC4",
     "ChIJH9ee78qXpzERHmD_84LM0Dw",
@@ -164,6 +176,186 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-06-02",
+      "placeId": "ChIJSZd5tJyNpzER_lUroEwqT2w",
+      "placeName": "L Spa",
+      "results": {
+        "facebookVideo": {
+          "id": "1536991558000583"
+        },
+        "instagramReel": {
+          "id": "18166364395437796"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "placeId": "ChIJCT7IJHeNpzERsmyKSQegiig",
+      "placeName": "YUJU SPA Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106221085313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18398292925083046"
+        }
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "placeId": "ChIJw0auYQCNpzER8BCjNBsmIBs",
+      "placeName": "LUA SPA",
+      "results": {
+        "facebookVideo": {
+          "id": "1517849133345932"
+        },
+        "instagramReel": {
+          "id": "17881048935597359"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "placeId": "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
+      "placeName": "Phu Quoc Day Spa - 푸꾸옥 스파 마사지 - 富国岛的水疗按摩",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106220065313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18075091316446787"
+        }
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "placeId": "ChIJjXUjGRmNpzERbpTPg0YpR3g",
+      "placeName": "Miss Tiên Spa-Body & Foot Massage",
+      "results": {
+        "facebookVideo": {
+          "id": "1770534837652539"
+        },
+        "instagramReel": {
+          "id": "18466628659096589"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "placeId": "ChIJqx54JIyNpzERfmx8wXohQ4U",
+      "placeName": "Little WIN SPA 2 - MASSAGE (전신 마사지, 풋 마사지)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106219129313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17892095151489521"
+        }
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "placeId": "ChIJiyzaO4CNpzERTH6QKehpvBw",
+      "placeName": "FIONA SPA",
+      "results": {
+        "facebookVideo": {
+          "id": "1543251727375515"
+        },
+        "instagramReel": {
+          "id": "18427200169120960"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "placeId": "ChIJK6PXziqyU2gREZvk_pErVag",
+      "placeName": "Dgold Spa - body massage, foot massage, shampoo, nail",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106218175313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18204040504347818"
+        }
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "placeId": "ChIJcQI2WEyNpzERiZfbiTwGiHU",
+      "placeName": "Hello Spa - Massage & Nail",
+      "results": {
+        "facebookVideo": {
+          "id": "1356609513105246"
+        },
+        "instagramReel": {
+          "id": "18364760977224339"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "placeId": "ChIJ_QHQ2eWNpzER0VcwkboktMU",
+      "placeName": "Golden Foot Massage Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106217281313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18095539874224028"
+        }
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "placeId": "ChIJtXjS0ZiNpzERdRstZIXgHfw",
+      "placeName": "Nala Spa - chợ đêm Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "4352299754916317"
+        },
+        "instagramReel": {
+          "id": "18205329640349883"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "placeId": "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
+      "placeName": "Ham Ninh fishing town",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106216405313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18154183504480290"
+        }
+      }
+    },
     {
       "date": "2026-06-01",
       "placeId": "ChIJj3F_PH6MpzERfHGG1n2ILfY",
