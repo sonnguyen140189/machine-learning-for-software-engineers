@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJGXZel_ONpzERtQgInjMPXU4",
+    "ChIJhW2pjhiLpzERiG9nCVbYLxM",
+    "ChIJg1ksqtqNpzER3W4HrVMz7hE",
+    "ChIJY9wKiiCNpzERVASet8RYkRg",
+    "ChIJ73vtGACNpzERggOwt0eOKmI",
+    "ChIJOwIiCSmNpzER1ISpdLmLcEg",
+    "ChIJ7fpDGamNpzERBaF8duO9WKY",
+    "ChIJT6Xejc2NpzERdkK-4arbWEI",
+    "ChIJ652atFCNpzERuDwXbWc_sTQ",
+    "ChIJ8XFXohUfCDERBxpbf0_1MIs",
+    "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
+    "ChIJDxCXXTSXpzERXI7z0X_H_Ow",
     "ChIJSZd5tJyNpzER_lUroEwqT2w",
     "ChIJCT7IJHeNpzERsmyKSQegiig",
     "ChIJw0auYQCNpzER8BCjNBsmIBs",
@@ -176,6 +188,186 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-06-03",
+      "placeId": "ChIJGXZel_ONpzERtQgInjMPXU4",
+      "placeName": "Bún quậy THIỆN MỸ",
+      "results": {
+        "facebookVideo": {
+          "id": "1608772514099982"
+        },
+        "instagramReel": {
+          "id": "18442704448185549"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "placeId": "ChIJhW2pjhiLpzERiG9nCVbYLxM",
+      "placeName": "The Beauty Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106530565313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18182384542389748"
+        }
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "placeId": "ChIJg1ksqtqNpzER3W4HrVMz7hE",
+      "placeName": "Tram Tram’s Banh Mi",
+      "results": {
+        "facebookVideo": {
+          "id": "1568787958230913"
+        },
+        "instagramReel": {
+          "id": "18131393359582745"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "placeId": "ChIJY9wKiiCNpzERVASet8RYkRg",
+      "placeName": "Chè Nhà Jun-Chè Ngon Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106529185313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18041781152593648"
+        }
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "placeId": "ChIJ73vtGACNpzERggOwt0eOKmI",
+      "placeName": "Diner PHU QUOC BEER'n BURGERS BREAKFAST LUNCH DINNER",
+      "results": {
+        "facebookVideo": {
+          "id": "1944632222857807"
+        },
+        "instagramReel": {
+          "id": "18251703460306867"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "placeId": "ChIJOwIiCSmNpzER1ISpdLmLcEg",
+      "placeName": "Mì Tê - Artisan Noodles",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106527937313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18000908384762805"
+        }
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "placeId": "ChIJ7fpDGamNpzERBaF8duO9WKY",
+      "placeName": "Bánh Mì & You",
+      "results": {
+        "facebookVideo": {
+          "id": "922432874144491"
+        },
+        "instagramReel": {
+          "id": "18080107325365171"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "placeId": "ChIJT6Xejc2NpzERdkK-4arbWEI",
+      "placeName": "Nhà Xưa 68",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106527079313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18162693877444023"
+        }
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "placeId": "ChIJ652atFCNpzERuDwXbWc_sTQ",
+      "placeName": "Quán Ăn 93",
+      "results": {
+        "facebookVideo": {
+          "id": "1220821880020864"
+        },
+        "instagramReel": {
+          "id": "18380004781165471"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "placeId": "ChIJ8XFXohUfCDERBxpbf0_1MIs",
+      "placeName": "Tạ Hiền Street Food & Drink Grand World Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106526209313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18416314603181777"
+        }
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "placeId": "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
+      "placeName": "Phu Quoc Street Food Tour - Eat with Locals, Drink with Locals",
+      "results": {
+        "facebookVideo": {
+          "id": "2552925221858631"
+        },
+        "instagramReel": {
+          "id": "17905673886425665"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "placeId": "ChIJDxCXXTSXpzERXI7z0X_H_Ow",
+      "placeName": "Catamaran VN Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106525273313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18081898463413036"
+        }
+      }
+    },
     {
       "date": "2026-06-02",
       "placeId": "ChIJSZd5tJyNpzER_lUroEwqT2w",
