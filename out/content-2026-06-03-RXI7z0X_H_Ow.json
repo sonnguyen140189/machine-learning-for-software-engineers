@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "136 reviews. Every single one gives 5 stars. That's not luck. Catamaran VN Phu Quoc runs sailing tours off Phu Quoc and the numbers back it up. Full catamaran. Open water. No crowds packed onto a party boat. Just the kind of day on the water people keep talking about long after they leave. Save this for your Phu Quoc trip.",
+    "video_caption": "Sails up, South China Sea ahead. Watch what a 5-star catamaran tour actually looks like off Phu Quoc. 136 people rated this perfect. Now you know why.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "136 reviews. Every single one: 5 stars.\n\nCatamaran VN Phu Quoc is doing something right on that water. Tag your travel buddy.",
+    "video_caption": "Open water. Full catamaran. 136 perfect ratings. Phu Quoc sailing just hit different.",
+    "hashtags": "#PhuQuocTours #PhuQuocIsland #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SailingVietnam"
+  },
+  "tiktok": {
+    "caption": "136 reviews. Zero below 5 stars. Catamaran VN Phu Quoc is built different. #PhuQuoc #PhuQuocTours #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "136 reviews. All 5 stars.",
+    "scenes": [
+      "Catamaran leaves the dock at sunrise",
+      "Sails catch wind, open sea ahead",
+      "Crew adjusts rigging, guests watch",
+      "Wide shot: blue water, no other boats",
+      "Close-up: guest smiling at the bow"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're on Đường Trần Hưng Đạo craving real food after days of pho and spring rolls. Then you spot it. PHU QUOC BEER'n BURGERS BREAKFAST LUNCH DINNER. Burgers, cold beers, breakfast all day. 4.5 stars from 90 people who made the same lucky turn. Sometimes a proper burger is exactly what a long travel day needs. Save this for your Phu Quoc trip.",
+    "video_caption": "Burgers stacked. Beers cold. Breakfast served all day. PHU QUOC BEER'n BURGERS at 118 Đường Trần Hưng Đạo is doing the work. 4.5 stars. No rice required. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you find a burger joint on Đường Trần Hưng Đạo. 4.5 stars. Breakfast all day. Cold beer. Don't walk past this one.",
+    "video_caption": "Burgers. Beers. Breakfast all day. PHU QUOC BEER'n BURGERS hits different mid-trip. 4.5 stars.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Found a proper burger spot in Phu Quoc and I am not sorry 🍔 #PhuQuocFood #PhuQuoc #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you needed this burger.",
+    "scenes": [
+      "Exterior shot, sign reads BEER'n BURGERS",
+      "Burger lands on counter, close-up",
+      "Cold beer poured, condensation dripping",
+      "Breakfast plate hits the table",
+      "Street view, 118 Đường Trần Hưng Đạo"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

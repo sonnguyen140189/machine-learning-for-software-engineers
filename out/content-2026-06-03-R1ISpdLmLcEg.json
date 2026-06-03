@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "898 reviews. 4.7 stars. On a noodle shop. On Trần Hưng Đạo.\n\nMì Tê - Artisan Noodles is not playing around. Locals rate it. Repeat visitors rate it. The bowls are handcrafted, the queue tells you everything you need to know before you even sit down.\n\nPhu Quoc has no shortage of noodle spots. This one earned nearly 900 opinions and still sits at 4.7. That means almost nobody left disappointed.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the bowl land on the table. That broth color. That texture. Mì Tê - Artisan Noodles on Trần Hưng Đạo has 898 reviews at 4.7 stars. Your next lunch stop is decided.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 898 reviews. One noodle shop on Trần Hưng Đạo.\n\nMì Tê - Artisan Noodles earns every rating. Save this.",
+    "video_caption": "898 people rated this noodle shop 4.7 stars. Mì Tê - Artisan Noodles. Go before the line gets longer.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats"
+  },
+  "tiktok": {
+    "caption": "898 reviews. 4.7 stars. One noodle shop in Phu Quoc. Mì Tê hits different. #PhuQuoc #PhuQuocFood #VietnamFood #NoodleShop"
+  },
+  "video_script": {
+    "hook": "898 reviews. 4.7 stars.",
+    "scenes": [
+      "Pan across Trần Hưng Đạo shopfront",
+      "Close-up: noodles pulled by hand",
+      "Broth poured into bowl, steam rising",
+      "Toppings arranged, shot from above",
+      "First chopstick lift, noodles stretch",
+      "Review count on screen: 898 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

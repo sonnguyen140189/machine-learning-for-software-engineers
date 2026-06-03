@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stopped guessing which street stall is safe and just let a local lead. That's exactly what the Phu Quoc Street Food Tour at 94 Nguyễn Trung Trực delivers. Eat what locals eat. Drink what locals drink. No tourist-trap stops. 5.0 stars across 97 reviews says it all. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch someone try every local bite on this street food tour and look increasingly happy about it. 5.0 stars. 97 reviews. No bad picks here. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #StreetFoodTour #VisitVietnam #TravelTips #PhuQuocTips #VietnamStreetFood"
+  },
+  "instagram": {
+    "caption": "POV: a local just handed you food you'd never have found alone. 5.0★, 97 reviews. 94 Nguyễn Trung Trực. Save this.",
+    "video_caption": "Eating through Phu Quoc with locals. Every single stop a 5-star hit. This is how you do it.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocStreetFood #VietnamTravel #TravelTips #TravelReels #StreetFoodTour #EatLikeALocal"
+  },
+  "tiktok": {
+    "caption": "Let a local decide every bite. 5.0★ street food tour in Phu Quoc. No bad stops. #PhuQuocFood #PhuQuocTips #VietnamStreetFood #StreetFoodTour"
+  },
+  "video_script": {
+    "hook": "POV: locals pick every bite.",
+    "scenes": [
+      "Walk through busy street stalls at dusk",
+      "Local guide points to steaming bowl",
+      "Close-up: chopsticks lifting noodles",
+      "Group clinking drinks, laughing",
+      "Reviewer rating: 5 stars on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

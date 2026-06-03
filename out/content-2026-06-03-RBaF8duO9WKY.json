@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're in Cửa Lấp, hungry, and you walk into Bánh Mì & You.\n\n4.8 stars. 672 reviews. This place earns every single one.\n\nThe bánh mì here hits different. Crispy roll, loaded fillings, zero fuss. The kind of spot you return to twice before you even leave Phu Quoc.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "672 people rated this 4.8 stars and they were right. Watch the crunch on that bánh mì roll at Bánh Mì & You in Cửa Lấp. This is lunch sorted.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BanhMi #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found the good bánh mì in Phu Quoc.\n\n4.8★ across 672 reviews. Bánh Mì & You, Cửa Lấp. Go.\n\nTag your travel buddy.",
+    "video_caption": "4.8 stars. 672 reviews. One bite and you'll get it. Bánh Mì & You is the real deal.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #BanhMi #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars and 672 reviews don't lie. Bánh Mì & You in Cửa Lấp is that spot. #PhuQuoc #PhuQuocFood #BanhMi #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: best bánh mì in Phu Quoc",
+    "scenes": [
+      "Close-up: crispy roll handed over counter",
+      "Slow pull: stuffed fillings visible inside",
+      "First bite, audible crunch",
+      "Wide shot: simple shopfront, Cửa Lấp street",
+      "On-screen: 4.8★ 672 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

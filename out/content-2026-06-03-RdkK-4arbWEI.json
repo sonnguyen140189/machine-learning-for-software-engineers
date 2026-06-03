@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "618 reviews. 4.4 stars. And most tourists walk straight past Nhà Xưa 68.\n\nThis local restaurant on Lý Thường Kiệt is where Phu Quoc residents actually eat. No beach-club markup. No English-only menu. Just real food, real portions, real prices.\n\nIf your Phu Quoc trip is all resorts and no streets, you're missing half the island.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walk into Nhà Xưa 68 and the vibe hits immediately. 618 locals and visitors rated this 4.4 stars for a reason. Street-level Phu Quoc dining, no filter.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips #PhuQuocRestaurant"
+  },
+  "instagram": {
+    "caption": "618 reviews. 4.4 stars. Locals eat here. Tourists don't know it yet.\n\nNhà Xưa 68, Lý Thường Kiệt. Add it to your list.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.4 stars, 618 reviews. Nhà Xưa 68 is the real Phu Quoc dining scene. Go before everyone finds it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurant #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "618 people rated this 4.4 stars and it's still flying under the radar. Nhà Xưa 68, Phu Quoc. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "618 reviews. Still off the radar.",
+    "scenes": [
+      "Exterior shot: street-level signage of Nhà Xưa 68",
+      "Push into busy dining room, locals at tables",
+      "Close-up: steaming dishes being set down",
+      "Pan across full table spread, no empty plates",
+      "Cut to Google rating: 4.4 stars, 618 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

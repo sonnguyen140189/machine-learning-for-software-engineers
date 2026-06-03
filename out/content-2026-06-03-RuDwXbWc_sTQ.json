@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "Walked down Đường Nguyễn Văn Trỗi, almost skipped number 93. Don't be me.\n\nQuán Ăn 93 is a no-frills bistro with 336 reviews and a 4.3-star average. That rating doesn't come from tourists. It comes from people eating here twice.\n\nFind it at 93/185 Đường Nguyễn Văn Trỗi, Khu 2. Save this for your Phu Quoc trip.",
+    "video_caption": "Plate after plate landing on the table at Quán Ăn 93. Small spot. Big reputation. 4.3 stars across 336 reviews on a side street most visitors never turn down.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked past this spot twice. Third time I went in. Quán Ăn 93. 4.3 stars. 336 reviews. Worth the detour.\n\nTag your travel buddy.",
+    "video_caption": "Side street bistro. 336 reviews deep. Quán Ăn 93 earns every one of those stars.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn on Đường Nguyễn Văn Trỗi. Found Quán Ăn 93. 4.3 stars. 336 reviews. You're welcome. #PhuQuoc #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found the right street",
+    "scenes": [
+      "Walk down Đường Nguyễn Văn Trỗi",
+      "Stop at the 93/185 entrance",
+      "Packed tables, locals eating",
+      "Close-up: plates arriving fast",
+      "Text overlay: 4.3 stars, 336 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
