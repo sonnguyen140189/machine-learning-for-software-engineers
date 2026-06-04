@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 62 reviews. One of the best-rated pho spots on the island. Phở bát đá -bún bò bát đá Anh Đạt on 12 Lê Lợi serves pho and bun bo in a stone bowl, keeping it hot from first bite to last. No frills. No tourist markup. Just a bowl that earns those stars. Save this for your Phu Quoc trip.",
+    "video_caption": "Stone bowl hits the table still bubbling. Phở bát đá Anh Đạt, 4.8 stars, and a line of locals who know exactly why. Watch until the end.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 62 reviews. Stone bowl pho that stays hot to the last bite. Phở bát đá Anh Đạt, 12 Lê Lợi. Save this.",
+    "video_caption": "Stone bowl arrives still boiling. 4.8 stars at Phở bát đá Anh Đạt. Locals eat here daily.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars on a stone bowl pho spot locals actually go to. Phở bát đá Anh Đạt, Phu Quoc. 📍 #PhuQuoc #PhuQuocFood #VietnamEats #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8 stars. 62 locals can't lie.",
+    "scenes": [
+      "Stone bowl lands on table, steam rising",
+      "Close-up: broth still bubbling at the rim",
+      "Chopsticks pulling thick bun bo noodles",
+      "Wide shot: packed local dining room",
+      "Rating card: 4.8★, 12 Lê Lợi, Phu Quoc"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

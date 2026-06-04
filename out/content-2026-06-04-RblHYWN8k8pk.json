@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars. 567 reviews. One bowl of pho. Pho Sai Gon on Đ. 30 Tháng 4 keeps showing up on locals' lists for a reason. No frills, no tourist markup. Just broth that earns its reputation review after review. If you're in Khu 1 and need a real meal, this is the address. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the bowl land on the table. Steam rising, broth clear, herbs piled high. This is what 567 reviewers kept coming back for at Pho Sai Gon. Real pho in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.5 stars. 567 reviews. One address: Pho Sai Gon, Đ. 30 Tháng 4. That broth doesn't lie. Tag your travel buddy.",
+    "video_caption": "Bowl hits the table. Steam everywhere. 567 people already know about Pho Sai Gon. Now you do too.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.5 stars, 567 reviews, one bowl of pho. Pho Sai Gon delivers. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.5★ · 567 reviews · one bowl",
+    "scenes": [
+      "Exterior shot: street sign Đ. 30 Tháng 4",
+      "Close-up: broth poured into bowl",
+      "Steam rising in slow motion",
+      "Herbs and beef added to bowl",
+      "First spoonful lifted to camera",
+      "Review count on screen: 567"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "751 reviews. 4.6 stars. Under $10 a bowl.\n\nPhở bò Nam Định on Đường Trần Hưng Đạo is not a tourist restaurant. It's where locals eat pho before 8am and the broth runs out by noon.\n\nNam Định-style means cleaner, lighter broth than the south. Beef is sliced thin. Noodles are firm. No fuss.\n\nGet there early. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the broth hit the bowl. That's Nam Định-style pho, under $10, 4.6 stars from 751 real reviews. Đường Trần Hưng Đạo. Go before noon or go hungry.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "751 reviews. 4.6 stars. Under $10 a bowl.\n\nPhở bò Nam Định. Broth runs out by noon. Go early.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Broth hits different at 7am. Phở bò Nam Định, 4.6 stars, under $10. Don't sleep in.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #Pho"
+  },
+  "tiktok": {
+    "caption": "751 reviews don't lie. Best pho under $10 in Phu Quoc. #PhuQuoc #PhuQuocFood #VietnamFood #Pho"
+  },
+  "video_script": {
+    "hook": "751 reviews. Under $10.",
+    "scenes": [
+      "Close-up: ladle pours hot broth into bowl",
+      "Thin beef slices dropped in, steam rising",
+      "Tight shot: firm noodles lifted with chopsticks",
+      "Wide shot: packed local crowd, simple plastic stools",
+      "Text overlay: Đường Trần Hưng Đạo, 4.6 stars"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

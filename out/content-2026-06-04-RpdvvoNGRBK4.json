@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 244 reviews. One bowl of pho in Phu Quoc.\n\nPhở Vương Phú Quốc sits at 70 Đ. 30 Tháng 4 and the locals keep coming back. Rich broth, real depth, the kind of bowl that makes you order a second before you finish the first.\n\nNot a resort restaurant. Not a tourist trap. Just pho done right.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch that broth hit the bowl. Phở Vương Phú Quốc, 4.9 stars, 244 reviews. This is what locals eat for breakfast on the island. Address in bio.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 244 reviews. One bowl at Phở Vương Phú Quốc.\n\nBroth this deep takes hours. Worth every minute.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Locals line up. 4.9 stars. Phở Vương Phú Quốc delivers every time. Don't skip breakfast on the island.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhoVietnam"
+  },
+  "tiktok": {
+    "caption": "4.9 stars in Phu Quoc. This bowl of pho hits different. #PhuQuoc #PhuQuocFood #VietnamTravel #PhoVietnam"
+  },
+  "video_script": {
+    "hook": "4.9 stars. 244 reviews.",
+    "scenes": [
+      "Close-up: steaming broth poured into bowl",
+      "Hands pulling apart fresh herbs and bean sprouts",
+      "Chopsticks lift thick rice noodles",
+      "Wide shot: packed local tables, no tourists",
+      "Final frame: storefront at 70 Đ. 30 Tháng 4"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

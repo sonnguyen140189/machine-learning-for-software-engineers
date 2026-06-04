@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this one. Bún Quậy Kiến-Xây on Đường Trần Hưng Đạo is where Phu Quoc locals actually eat their noodles. Bún Quậy is the island's own dish: springy hand-rolled noodles, fresh seafood, light broth. 2,574 reviews and somehow still off most itineraries. Get here early. Bowls go fast. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the noodles hit the bowl at Bún Quậy Kiến-Xây. Fresh seafood, local broth, 2,574 people rated it 4.2 stars. Still not on the tourist map. Now you know.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocNoodles #VisitVietnam #TravelTips #LocalFood #PhuQuocTravel"
+  },
+  "instagram": {
+    "caption": "Locals eat here. Tourists don't know it exists. Bún Quậy Kiến-Xây, Phu Quoc's own noodle dish, 2,574 reviews. Save this.",
+    "video_caption": "Bowl of Bún Quậy Kiến-Xây incoming. This is what Phu Quoc locals actually order. 4.2 stars, zero tourist crowds.",
+    "hashtags": "#PhuQuocFood #PhuQuocNoodles #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #LocalEats #PhuQuoc #VietnamFood #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The noodle shop Phu Quoc tourists walk past every day. Bún Quậy Kiến-Xây. 2,574 reviews. Go. #PhuQuoc #PhuQuocFood #LocalEats #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior shot: busy local crowd, no tourists",
+      "Chef rolls fresh bún quậy noodles by hand",
+      "Seafood dropped into steaming broth",
+      "Bowl lands on table, close-up pour",
+      "First bite reaction, no words needed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

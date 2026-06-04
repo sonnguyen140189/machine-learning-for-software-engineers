@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking Trần Hưng Đạo and you almost skip Phở Chào. Don't be that person.\n\n4.8 stars. 93 reviews. A bowl of phở on a street lined with tourist traps. This one locals actually back.\n\nFind it at 127/2 Đường Trần Hưng Đạo, Khu phố 7. Show up hungry.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Steam rising. Bowl lands on the table. 4.8 stars on Trần Hưng Đạo and most tourists walk straight past Phở Chào. Not anymore.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you almost walked past the 4.8-star phở spot on Trần Hưng Đạo. Phở Chào. Remember the name.\n\nTag your travel buddy.",
+    "video_caption": "Hot bowl. 4.8 stars. Phở Chào keeps getting overlooked. Not after this.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #Pho"
+  },
+  "tiktok": {
+    "caption": "Almost missed this 4.8-star phở spot in Phu Quoc. Phở Chào on Trần Hưng Đạo. Go. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you almost skipped this.",
+    "scenes": [
+      "Walk along busy Trần Hưng Đạo",
+      "Stop at Phở Chào sign, 127/2",
+      "Close-up: steaming bowl hits table",
+      "Slow pour of broth, herbs dropped in",
+      "Phone shows 4.8 stars, 93 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

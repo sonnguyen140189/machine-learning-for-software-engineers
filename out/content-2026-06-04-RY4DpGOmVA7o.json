@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 857 reviews. One bowl of phở on Đường Trần Hưng Đạo.\n\nPhở Hòa keeps showing up on locals' lists and it earns every star. The broth hits different when you're eating where the neighborhood actually eats, not where the resort pointed you.\n\nPhu Quoc has no shortage of tourist traps. This isn't one of them.\n\n📍 128D Đường Trần Hưng Đạo, Khu phố 7\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the steam rise off a bowl at Phở Hòa. 857 people rated this 4.8 stars. The spoon tells you why in the first sip. 📍 128D Đường Trần Hưng Đạo, Phú Quốc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #VietnamFood #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 857 reviews. One address: Phở Hòa.\n\nLocals eat here. The broth proves why.\n\n📍 128D Đường Trần Hưng Đạo, Phú Quốc. Save this.",
+    "video_caption": "First spoonful at Phở Hòa and you get it immediately. 4.8 stars, 857 reviews. Phu Quoc's bowl to beat. 📍",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamFood #VietnamTravel #TravelTips #TravelReels #Pho"
+  },
+  "tiktok": {
+    "caption": "4.8 stars. 857 reviews. This bowl at Phở Hòa earns both. #PhuQuoc #PhuQuocFood #VietnamFood #Pho #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★ 857 reviews. One bowl.",
+    "scenes": [
+      "Close-up: broth poured into bowl",
+      "Steam rising, slow zoom out",
+      "Hands add herbs and chili",
+      "First spoonful lifted to camera",
+      "Packed tables, locals eating",
+      "Sign: Phở Hòa, Trần Hưng Đạo"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
