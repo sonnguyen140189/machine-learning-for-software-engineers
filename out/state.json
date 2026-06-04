@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJjwOhDFuNpzERHGC-KN7pjUk",
+    "ChIJP-wbXH2MpzERblHYWN8k8pk",
+    "ChIJc9uFHgCNpzERe-wLYlkuV_Q",
+    "ChIJyyzkOQCNpzERhV6CqtU5LxQ",
+    "ChIJS797XwCNpzERpdvvoNGRBK4",
+    "ChIJOawITM2NpzERxPm19sYAUpo",
+    "ChIJR1rvyAmNpzERHEdIhXDMsII",
+    "ChIJQf0ZjIeNpzERtMMtf7OdVyg",
+    "ChIJ67MzfTqNpzERl5vEmwYkACQ",
+    "ChIJt-QpkieNpzEROHxvKTl08as",
+    "ChIJccUCppGNpzERY4DpGOmVA7o",
+    "ChIJqWvgD-yNpzERS66-PApwcs0",
     "ChIJGXZel_ONpzERtQgInjMPXU4",
     "ChIJhW2pjhiLpzERiG9nCVbYLxM",
     "ChIJg1ksqtqNpzER3W4HrVMz7hE",
@@ -188,6 +200,186 @@
     "ChIJ04EPezKNpzERUCu48VTEXnw"
   ],
   "history": [
+    {
+      "date": "2026-06-04",
+      "placeId": "ChIJjwOhDFuNpzERHGC-KN7pjUk",
+      "placeName": "Thường Lạc Artisan Dumplings - Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "2090393661829152"
+        },
+        "instagramReel": {
+          "id": "18165439708439321"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "placeId": "ChIJP-wbXH2MpzERblHYWN8k8pk",
+      "placeName": "Pho Sai Gon",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106798285313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18088745405062138"
+        }
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "placeId": "ChIJc9uFHgCNpzERe-wLYlkuV_Q",
+      "placeName": "Phở bát đá -bún bò bát đá Anh Đạt",
+      "results": {
+        "facebookVideo": {
+          "id": "2236506863841797"
+        },
+        "instagramReel": {
+          "id": "18112605853854932"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "placeId": "ChIJyyzkOQCNpzERhV6CqtU5LxQ",
+      "placeName": "Phở Chào",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106797481313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18074555126657773"
+        }
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "placeId": "ChIJS797XwCNpzERpdvvoNGRBK4",
+      "placeName": "Phở Vương Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "875423854931551"
+        },
+        "instagramReel": {
+          "id": "18092662187002986"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "placeId": "ChIJOawITM2NpzERxPm19sYAUpo",
+      "placeName": "Phở bò Nam Định",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106796401313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18066576338703141"
+        }
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "placeId": "ChIJR1rvyAmNpzERHEdIhXDMsII",
+      "placeName": "Bún Quậy Kiến-Xây | Local PhuQuoc Seafood Noodles",
+      "results": {
+        "facebookVideo": {
+          "id": "1012855928366620"
+        },
+        "instagramReel": {
+          "id": "18069075527366600"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "placeId": "ChIJQf0ZjIeNpzERtMMtf7OdVyg",
+      "placeName": "Mì Tê Lý Thường Kiệt - Artisan Noodles",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106795525313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17975496786021953"
+        }
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "placeId": "ChIJ67MzfTqNpzERl5vEmwYkACQ",
+      "placeName": "Phở Lý Quốc Sư",
+      "results": {
+        "facebookVideo": {
+          "id": "955063057428043"
+        },
+        "instagramReel": {
+          "id": "18115535926652364"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "placeId": "ChIJt-QpkieNpzEROHxvKTl08as",
+      "placeName": "Xóm Mới Garden Phú Quốc 씀모이가든 푸꾸옥 맛집",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106794619313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17858748597643878"
+        }
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "placeId": "ChIJccUCppGNpzERY4DpGOmVA7o",
+      "placeName": "Phở Hòa",
+      "results": {
+        "facebookVideo": {
+          "id": "1525125512313477"
+        },
+        "instagramReel": {
+          "id": "18359640970235522"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "placeId": "ChIJqWvgD-yNpzERS66-PApwcs0",
+      "placeName": "Bún Quậy Bạch Đằng",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122106793719313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18062255075706768"
+        }
+      }
+    },
     {
       "date": "2026-06-03",
       "placeId": "ChIJGXZel_ONpzERtQgInjMPXU4",
