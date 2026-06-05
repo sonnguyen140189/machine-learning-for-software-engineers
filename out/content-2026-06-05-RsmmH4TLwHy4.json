@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 194 reviews. One spa on Đường Trần Hưng Đạo that keeps showing up on every local recommendation list.\n\nZEN Spa & Nail (2) in Phú Quốc is the kind of place that earns repeat customers. Nails, massages, and treatments done right, at a relaxed island pace.\n\nIf your feet need a break from the beaches, this is the stop. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into ZEN Spa & Nail (2) on Đường Trần Hưng Đạo. 4.8 stars from 194 guests. Watch what a proper Phu Quoc spa visit actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 194 reviews. ZEN Spa & Nail (2) keeps delivering.\n\nNails and massage on Đường Trần Hưng Đạo. Save this for your Phu Quoc trip.",
+    "video_caption": "194 guests rated this 4.8. ZEN Spa & Nail (2), Phú Quốc. Your feet earned this.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 194 reviews. ZEN Spa & Nail (2) in Phú Quốc hits different after a beach day. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8★ from 194 reviews.",
+    "scenes": [
+      "Exterior shot: 14 Đường Trần Hưng Đạo sign",
+      "Staff greeting guest at front desk",
+      "Close-up: nail treatment in progress",
+      "Massage table, calm lighting, towels set",
+      "Google review screen: 4.8 star rating"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

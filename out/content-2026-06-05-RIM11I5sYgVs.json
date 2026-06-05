@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout.\n\nMassage Phú Quốc - Nhiên Spa sits on 43A Mạc Thiên Tích and it's the kind of session you book on day one and wish you'd booked every day. 4.8 stars across 287 reviews. That number holds because the work is real.\n\nSkip the resort spa markup. Come here. Save this for your Phu Quoc trip.",
+    "video_caption": "Hands working out every knot from your travel day. Nhiên Spa on 43A Mạc Thiên Tích. 4.8 stars. 287 people already knew. Now you do.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #SpaPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Nhiên Spa, 4.8★, 287 reviews. Book it day one.\n\nTag your travel buddy.",
+    "video_caption": "One hour at Massage Phú Quốc - Nhiên Spa. Every knot gone. 4.8 stars earned.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #SpaPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc spa with 4.8 stars that actually earns it. Book Nhiên Spa first. #PhuQuoc #SpaPhuQuoc #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Street view: 43A Mạc Thiên Tích entrance",
+      "Therapist prepares warm towels",
+      "Close-up: hands working shoulder muscles",
+      "Guest exhales, eyes closed, relaxed",
+      "Phone screen shows 4.8★, 287 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

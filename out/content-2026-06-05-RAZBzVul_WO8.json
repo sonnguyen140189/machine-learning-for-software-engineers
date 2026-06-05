@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 351 reviews. On the main strip of Trần Hưng Đạo.\n\nMassage DuBai Luxury Phú Quốc keeps showing up in every 'best of Phu Quoc' conversation for a reason. Consistent ratings like that don't happen by accident.\n\nBook ahead. Slots fill fast, especially evenings.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the moment you walk into Massage DuBai Luxury Phú Quốc. 4.9 stars across 351 reviews. The treatment rooms, the ambiance, the staff. This is what that rating actually looks like in person.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 351 reviews. This spa on Trần Hưng Đạo is not a fluke.\n\nMassage DuBai Luxury Phú Quốc. Book early.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "351 people rated this place 4.9 stars. Walking through Massage DuBai Luxury Phú Quốc, it's obvious why.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 351 reviews. Massage DuBai Luxury Phú Quốc is the real deal. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9 stars. 351 reviews.",
+    "scenes": [
+      "Exterior shot: 35 Đường Trần Hưng Đạo signage",
+      "Push through entrance doors, reveal interior",
+      "Pan across treatment rooms, lighting, decor",
+      "Staff greeting guests at reception",
+      "Close-up: hands during massage treatment",
+      "End card: rating overlay 4.9 stars, 351 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
