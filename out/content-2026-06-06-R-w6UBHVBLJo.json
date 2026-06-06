@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes a bad travel day. INK 360 Rooftop Bar sits on top of the InterContinental. Cocktails above the South China Sea. 4.5 stars across 515 reviews. The crowd is small. The sky is big. Budget $40-80 per person and go at sunset. Save this for your Phu Quoc trip.",
+    "video_caption": "Drinks poured 10 floors up. INK 360 Rooftop Bar at the InterContinental, Phú Quốc. 4.5 stars. That view does something to you. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #PhuQuocNightlife #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes a bad travel day. INK 360 Rooftop Bar, InterContinental Phú Quốc. 4.5★, 515 reviews. Go at sunset. Save this.",
+    "video_caption": "Rooftop cocktails. South China Sea below. INK 360 at the InterContinental Phú Quốc. 4.5 stars. Worth every dollar.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The rooftop bar Phu Quoc doesn't talk about enough. INK 360. Sunset hits different up here. #PhuQuoc #PhuQuocBars #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This fixes a bad travel day.",
+    "scenes": [
+      "Elevator doors open to rooftop",
+      "Wide shot: sea stretching to horizon",
+      "Bartender pours cocktail, slow motion",
+      "Sun dropping behind water, golden light",
+      "Guest raises glass toward the view"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

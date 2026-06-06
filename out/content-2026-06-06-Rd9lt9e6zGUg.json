@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 774 reviews. On a street most tourists never walk down.\n\nHouse No. 1 on 58 Đường Bạch Đằng is pulling numbers that big resort bars can't touch. Cold drinks, local crowd, zero pretension.\n\nIf your Phu Quoc bar list doesn't have this on it, fix that now.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Drinks in hand, local crowd packed in, 4.8 stars on the board. House No. 1 at 58 Đường Bạch Đằng is the bar the resort strip doesn't want you finding. Go find it.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #ThingsToDoPhuQuoc #VisitVietnam #VietnamNightlife #PhuQuocTips #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 774 reviews. Bar most tourists never find.\n\nHouse No. 1, 58 Đường Bạch Đằng. Add it.\n\nTag your travel buddy.",
+    "video_caption": "774 people rated this bar 4.8 stars. Locals pack it nightly. House No. 1 on Đường Bạch Đằng. Now you know.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocFood"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 774 reviews, zero tourists inside. House No. 1 Phu Quoc hits different. #PhuQuoc #PhuQuocBars #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8 stars. 774 reviews.",
+    "scenes": [
+      "Exterior shot: 58 Đường Bạch Đằng signage",
+      "Pan across packed local crowd inside",
+      "Close-up: cold drinks hitting the table",
+      "Wide shot: full bar atmosphere, no tourists",
+      "Cut to Google rating on phone screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

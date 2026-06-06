@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Fresh seafood on the beach for $15-30 a head. At Aloha Beach Bar on 68 Đường Trần Hưng Đạo, that's exactly what you get. 4.7 stars across 2,045 reviews. The kind of place that fills up fast for good reason. Cold drinks, sand underfoot, plates that actually deliver. Save this for your Phu Quoc trip.",
+    "video_caption": "Plates hitting the table, beer already cold, waves a few meters away. Aloha Beach Bar delivers fresh seafood for $15-30 a person. 4.7 stars. 2,045 people agree.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocSeafood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "$15-30 for fresh seafood on the beach. 4.7★, 2,045 reviews. Aloha Beach Bar is not a skip. Tag your travel buddy.",
+    "video_caption": "Cold beer. Fresh catch. Sand underfoot. Aloha Beach Bar, Phu Quoc. $15-30 a head.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocTips #PhuQuocBeaches #VietnamTravel #TravelTips #TravelReels #FoodieTravel"
+  },
+  "tiktok": {
+    "caption": "Fresh seafood beach bar for under $30 a head 👀 4.7 stars and over 2k reviews say it's worth it #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "$30 seafood. On the beach.",
+    "scenes": [
+      "Aerial or wide shot of beachfront bar",
+      "Plates of fresh seafood arriving at table",
+      "Close-up: grilled prawns, cold beer poured",
+      "Wide shot: guests eating, ocean behind",
+      "Screen text: 4.7★ across 2,045 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

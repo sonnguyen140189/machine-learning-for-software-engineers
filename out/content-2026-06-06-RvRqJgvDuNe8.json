@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk past 149 Đường Trần Hưng Đạo every day. They have no idea what's inside.\n\nOrigin 1982 is a speakeasy bar hidden inside the last original old house on the strip. 4.9 stars across 597 reviews. That rating doesn't happen by accident.\n\nCraft cocktails, zero tourist-bar energy, and a 1982 house that's somehow still standing. Find it before everyone else does.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "A 1982 house on Đường Trần Hưng Đạo. Push the door. Inside: Origin 1982, a speakeasy with a 4.9-star rating most tourists never find. This is what locals drink on weekends.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Origin 1982. A 4.9-star speakeasy inside the last old house on Đường Trần Hưng Đạo. Tag your travel buddy.",
+    "video_caption": "Walk past this 1982 house or walk in. Origin 1982 speakeasy. 597 reviews. 4.9 stars. Your call.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CocktailBar"
+  },
+  "tiktok": {
+    "caption": "The speakeasy tourists keep missing in Phu Quoc. 4.9 stars. Old house. No sign. #PhuQuoc #PhuQuocNightlife #SpeakeasyBar"
+  },
+  "video_script": {
+    "hook": "Locals don't post this bar.",
+    "scenes": [
+      "Exterior shot: weathered 1982 house facade",
+      "Hand pushes open a low-lit wooden door",
+      "Bartender pours craft cocktail, slow motion",
+      "Wide shot: intimate speakeasy interior",
+      "Close-up: glass raised, dim warm lighting"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

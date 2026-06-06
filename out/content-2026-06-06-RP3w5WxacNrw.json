@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc nightlife that doesn't feel like a tourist trap. Rosso Sky Bar & Lounge hits different when you're watching the Duong Dong lights from above with a drink in hand. 4.3 stars, rooftop vibes, actual atmosphere. Not every night needs a beach. Save this for your Phu Quoc trip.",
+    "video_caption": "Rooftop. Night sky. Duong Dong below you. Rosso Sky Bar & Lounge is the after-dinner move nobody talks about. 4.3 stars and it shows.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBar #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Phu Quoc nightlife that actually delivers. Rosso Sky Bar, Duong Dong rooftop, 4.3 stars. Tag your travel buddy.",
+    "video_caption": "City lights. Rooftop bar. Duong Dong at night. Rosso Sky Bar hits.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBar #PhuQuocTips #VietnamNightlife #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Rooftop bar in Duong Dong nobody warned you about. 4.3 stars. Go at night. #PhuQuoc #PhuQuocNightlife #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc nights look like THIS",
+    "scenes": [
+      "Aerial pull-back: Duong Dong glowing at night",
+      "Feet walking onto rooftop terrace",
+      "Bar counter, drinks being poured",
+      "Wide shot: city lights stretch behind guests",
+      "Close-up: glass raised, skyline in background"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

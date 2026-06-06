@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you duck into a side alley off Trần Hưng Đạo and find a proper English pub on a tropical island. Cold pints. Bar stools. 4.8 stars from 879 people who clearly know what they're doing. The Cheeky Traveller is the kind of place you walk past, then double back for. Save this for your Phu Quoc trip.",
+    "video_caption": "Down a backstreet on Trần Hưng Đạo, cold beer in hand, English pub energy in full swing. The Cheeky Traveller hits different after a day in the sun. 4.8 stars. 879 reviews. Go find it.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: wrong alley, right pub. The Cheeky Traveller, 4.8★ from 879 people. Tag your travel buddy.",
+    "video_caption": "Cold pint. Side alley. Phu Quoc. The Cheeky Traveller delivers every time.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Found a proper English pub down a Phu Quoc alley. 4.8 stars. Not a drill. #PhuQuoc #PhuQuocBars #TravelTips"
+  },
+  "video_script": {
+    "hook": "Wrong alley. Right pub.",
+    "scenes": [
+      "Walk down narrow Hẻm 118 alley",
+      "Pub sign appears around corner",
+      "Pull back reveal: full English bar interior",
+      "Pint glass hits the counter",
+      "Crowd laughing, bar stools full"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
