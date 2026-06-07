@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "9,563 reviews. And most tourists skip straight to the beach.\n\nPhu Quoc Prison History Museum sits at 350 Đ. Nguyễn Văn Cừ and it will stop you cold. French colonial-era cells. Mannequins showing exactly what happened to POWs here. No filter, no softening.\n\nThis island has a brutal history most visitors never see. One hour here changes how you see the whole trip.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walk the cells. Read the walls. See the mannequins up close. Phu Quoc Prison History Museum is rated 4.3★ across 9,563 reviews and most tourists drive right past it.",
+    "first_comment": "#PhuQuoc #PhuQuocHistory #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "9,563 reviews. Most tourists skip it for the beach.\n\nPhu Quoc Prison History Museum. One hour. Unforgettable.\n\nSave this for your trip.",
+    "video_caption": "French colonial prison. Vietnam War POWs. 9,563 reviews. This is the Phu Quoc most visitors never see.",
+    "hashtags": "#PhuQuocHistory #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "9,563 people rated this. Most tourists still skip it. #PhuQuoc #PhuQuocHistory #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "9,563 reviews. Tourists skip it.",
+    "scenes": [
+      "Pan across prison gate exterior",
+      "Walk through narrow colonial cell blocks",
+      "Close-up on mannequins in torture scenes",
+      "Slow zoom on worn stone walls",
+      "Visitor reading plaques in silence"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "15,416 reviews. 4.5 stars. And most tourists still don't know what's inside.\n\nHòn Thơm Departure Terminal at Bãi Đất Đỏ is where you board the world's longest non-stop cable car, cross open ocean, and land on an island water park. The terminal itself is built like Ancient Rome, which is a weird flex, but it works.\n\nCable car + water park combo. One ticket. One of the most unique half-days on the island.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Boarding a Roman-themed cable car terminal to cross the ocean to a water park. Phu Quoc doesn't miss. Hòn Thơm Departure Terminal, Bãi Đất Đỏ. 15,416 reviews at 4.5 stars. This one earns it.",
+    "first_comment": "#PhuQuoc #PhuQuocIsland #HonThom #SunWorldHonThom #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "15,416 reviews. 4.5 stars. Ancient Rome. On Phu Quoc.\n\nHòn Thơm cable car departs here. Ocean crossing. Island water park on the other side.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Roman arches, open ocean, cable car, water park. Hòn Thơm terminal is a lot. 15,416 people agree.",
+    "hashtags": "#PhuQuocThingsToDo #HonThom #SunWorldHonThom #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "World's longest cable car over open ocean. Ancient Roman terminal. Island water park. Phu Quoc is unreal. #PhuQuoc #HonThom #SunWorld #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "15,416 reviews. Worth it?",
+    "scenes": [
+      "Wide shot: Roman columns at terminal entrance",
+      "Tilt up: cable car lines vanish over ocean",
+      "Inside cabin: sea below, horizon ahead",
+      "Aerial view: Hòn Thơm island approaching",
+      "Water park slides, crowds, blue pools"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

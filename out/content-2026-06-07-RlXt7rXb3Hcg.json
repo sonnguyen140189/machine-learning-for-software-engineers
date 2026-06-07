@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc that doesn't feel touristy. Climb the rocks at Dinh Cậu as the sun drops and you'll get it. Fishermen heading out. Colors hitting the water. Nobody selling you anything. 4.4 stars from 112 people who came back and told someone. Arrive 30 minutes before sunset. Stay until the light is completely gone. Save this for your Phu Quoc trip.",
+    "video_caption": "Sun dropping behind Dinh Cậu. Rocks, boats, zero crowds. This is the version of Phu Quoc most tourists never slow down enough to find. 4.4★, 112 reviews. Go before the tour buses figure it out.",
+    "first_comment": "#PhuQuoc #PhuQuocSunset #VisitVietnam #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. Dinh Cậu at sunset. Rocks, boats, real light. Tag your travel buddy.",
+    "video_caption": "Climbing the rocks at Dinh Cậu as the sun goes down. Worth every second.",
+    "hashtags": "#PhuQuocSunset #PhuQuocTips #PhuQuocAttractions #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "This is what Phu Quoc actually feels like. Dinh Cậu at sunset. Go. #PhuQuoc #PhuQuocSunset #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that doesn't feel touristy.",
+    "scenes": [
+      "Wide shot: Dinh Cậu rocks at golden hour",
+      "Pan across fishing boats leaving port",
+      "Slow zoom on lighthouse against orange sky",
+      "Handheld walk up the rock path",
+      "Final frame: sun touching the waterline"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

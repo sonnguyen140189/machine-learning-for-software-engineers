@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Sunset Town in Phu Quoc hits different when the sky goes orange and the whole waterfront slows down. 4.6 stars across 4,311 reviews and it still feels like people are keeping it quiet. The architecture, the light, the vibe. Nothing about this feels like a generic tourist stop. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the sky turn orange over Sunset Town. 4.6 stars, 4,311 reviews, and it still doesn't feel crowded. This is the Phu Quoc moment people come back for.",
+    "first_comment": "#PhuQuoc #SunsetTown #PhuQuocAttractions #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Sunset Town, Phu Quoc. 4.6 stars, 4,311 reviews. Tag your travel buddy.",
+    "video_caption": "Sky goes orange. Crowd slows down. Sunset Town delivers every single time.",
+    "hashtags": "#PhuQuoc #SunsetTownPhuQuoc #PhuQuocAttractions #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #TravelVibes"
+  },
+  "tiktok": {
+    "caption": "4,311 people rated this 4.6 stars and it still feels calm. Sunset Town, Phu Quoc. #PhuQuoc #SunsetTown #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: waterfront at golden hour",
+      "Pan across European-style architecture",
+      "Crowd slowing, people watching the sky",
+      "Close up: reflection of orange sky on water",
+      "Zoom out: full Sunset Town skyline lit up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

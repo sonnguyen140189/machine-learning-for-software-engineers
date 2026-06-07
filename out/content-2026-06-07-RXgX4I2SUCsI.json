@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "13,473 reviews. 4.5 stars. Grand World Phu Quoc keeps pulling people back.\n\nCanals, lights, live performances, and a full street of restaurants at Bãi Dài. It hits different at night when everything is lit up and the crowds actually add to the energy.\n\nNot every Phu Quoc day needs a beach. Save this for your Phu Quoc trip.",
+    "video_caption": "Canals, neon lights, and street food all in one spot at Grand World Phu Quoc. 13,473 people rated this 4.5 stars. Walk it at night and you'll see why.",
+    "first_comment": "#PhuQuoc #PhuQuocAttractions #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "13,473 reviews. 4.5 stars. Grand World Phu Quoc earns every one.\n\nCanals + lights + live shows at Bãi Dài. Go at night.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Lights on, crowd out, Grand World Phu Quoc at night. 4.5 stars across 13,473 reviews. This is why.",
+    "hashtags": "#PhuQuocAttractions #PhuQuocNightlife #BãiDài #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "13,473 reviews at 4.5 stars. Grand World Phu Quoc at night is the reason. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "13,473 reviews. 4.5 stars.",
+    "scenes": [
+      "Aerial shot of lit-up canals at night",
+      "Foot traffic along waterfront promenade",
+      "Live street performance mid-crowd",
+      "Close-up of food stalls, steam rising",
+      "Wide shot: full Grand World skyline lit"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
