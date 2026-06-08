@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: You took the road north and found Hộ Quốc Temple before the tour buses arrived.\n\n4.7 stars. 1,301 reviews. And most visitors still stumble on it by accident.\n\nBuddhist temple perched in the hills of Phu Quoc. The kind of place that stops you mid-scroll and makes you book the trip.\n\nGo early. Go quiet. Bring nothing but your phone.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walking the grounds of Hộ Quốc Temple at sunrise. No crowds. No noise. Just 4.7 stars and a view that earns every single one. This is northern Phu Quoc doing what it does best.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "POV: wrong turn. Right place. Hộ Quốc Temple, 4.7★ across 1,301 reviews. Go before 8am.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Hộ Quốc Temple at first light. 4.7 stars. Zero crowds. Northern Phu Quoc delivers.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #VisitVietnam #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn in Phu Quoc. Found Hộ Quốc Temple. 4.7★ 1,301 reviews. Go early. #PhuQuoc #PhuQuocTemple #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: You found Hộ Quốc Temple",
+    "scenes": [
+      "Drone pull-back: temple in green hills",
+      "Slow walk up stone entrance steps",
+      "Close-up: incense smoke rising",
+      "Wide shot: empty courtyard at dawn",
+      "Pan across ornate roof details"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you skipped the crowded south coast and booked Ông Lang instead. Ocean Bay Resort & Spa Phu Quoc sits right on one of the quieter stretches of the island. 4.7 stars across 3,037 reviews. That's not luck, that's consistency. Beach access, spa, pool. Fewer selfie-stick crowds. More actual rest. Save this for your Phu Quoc trip.",
+    "video_caption": "Quiet beach. No crowds. 4.7 stars from 3,037 guests. Ocean Bay Resort & Spa Phu Quoc on the Ông Lang coast is doing something right. Watch till the end.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #OngLang #VisitVietnam #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "Skipped the south coast. Booked Ông Lang. Ocean Bay Resort & Spa Phu Quoc, 4.7★, 3,037 reviews. Quieter beach. Real rest. Tag your travel buddy.",
+    "video_caption": "4.7 stars. Ông Lang beach. Zero south-coast chaos. Ocean Bay Resort & Spa Phu Quoc delivers.",
+    "hashtags": "#PhuQuocResort #PhuQuocBeaches #OngLang #PhuQuocTips #VietnamTravel #TravelTips #TravelReels"
+  },
+  "tiktok": {
+    "caption": "POV: you found the quiet side of Phu Quoc. Ocean Bay Resort & Spa, Ông Lang, 4.7★. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found the quiet side",
+    "scenes": [
+      "Drone pulls back from calm Ông Lang shoreline",
+      "Resort entrance sign comes into frame",
+      "Empty pool overlooking the beach",
+      "Spa treatment room, candles lit",
+      "Guest relaxing on sun lounger, no crowd",
+      "Rating card: 4.7★, 3,037 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

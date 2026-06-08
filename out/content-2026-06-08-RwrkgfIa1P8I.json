@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars across 3,363 reviews. At a beachfront resort. On Bãi Khem.\n\nJW Marriott Phu Quoc Emerald Bay isn't just a hotel. It's 3 outdoor pools, 5 restaurants, a full spa, and direct access to one of Phu Quoc's cleanest stretches of sand.\n\nThe design alone earns its own post. Think vintage French university meets tropical coast.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "3 pools. 5 restaurants. 1 beach that actually lives up to the hype. JW Marriott Phu Quoc Emerald Bay on Bãi Khem is doing everything right. The review count backs it up.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #LuxuryTravel #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.7★ from 3,363 guests. Bãi Khem beachfront. 3 pools. 5 restaurants. One very long waitlist.\n\nTag your travel buddy.",
+    "video_caption": "Checking into JW Marriott Phu Quoc Emerald Bay. Bãi Khem outside the window. 3,363 reviews earned every star.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #BaiKhem #VietnamTravel #TravelReels #PhuQuocTips #LuxuryHotel"
+  },
+  "tiktok": {
+    "caption": "4.7★ across 3,363 reviews on Bãi Khem. JW Marriott Phu Quoc Emerald Bay is not playing around. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.7★. 3,363 reviews. Phu Quoc.",
+    "scenes": [
+      "Aerial pan over Bãi Khem shoreline",
+      "Resort facade, French colonial details",
+      "Infinity pool merging into ocean horizon",
+      "Restaurant table set beachside at dusk",
+      "Spa corridor, low light, slow push-in",
+      "Guest walks onto private beach at sunrise"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

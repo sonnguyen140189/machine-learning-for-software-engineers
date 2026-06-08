@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "476 reviews. 4.1 stars. And most tourists in Phu Quoc have never heard of Suối Đá Bàn.\n\nThis eco-tourism zone is all natural rock pools, jungle streams, and actual shade. Not a beach bar in sight. Just water, boulders, and locals actually swimming.\n\nIf you need a break from the resort strip, this is where to go.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the water move through these rock pools at Suối Đá Bàn. 476 people rated this spot. Barely anyone on the tourist trail knows it exists.",
+    "first_comment": "#PhuQuoc #PhuQuocNature #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #EcoTourism #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "476 reviews and tourists keep walking past Suối Đá Bàn.\n\nRock pools. Jungle streams. Zero beach clubs.\n\nTag your travel buddy.",
+    "video_caption": "Rock pools, cold water, real jungle. Suối Đá Bàn hits different when you skip the beach for a day.",
+    "hashtags": "#PhuQuocNature #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #EcoTourism #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "476 reviews and still off the tourist radar. Suối Đá Bàn, Phu Quoc. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocNature"
+  },
+  "video_script": {
+    "hook": "476 reviews. No tourists here.",
+    "scenes": [
+      "Drone pull-back over jungle canopy",
+      "Feet stepping onto flat rock slabs",
+      "Clear water rushing between boulders",
+      "Local family swimming in natural pool",
+      "Wide shot: zero beach chairs in sight"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
