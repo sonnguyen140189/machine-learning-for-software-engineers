@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you skip the resort gift shop and find Phu Quoc Centre instead. Local market energy. Real prices. The kind of place you wander for an hour and leave with things you didn't know you needed. Sitting right on Đường Trần Hưng Đạo, it's one of those stops most tourists walk past on their way somewhere else. Don't be that tourist. Save this for your Phu Quoc trip.",
+    "video_caption": "Wandering into Phu Quoc Centre on Đường Trần Hưng Đạo. Stalls, local goods, zero resort markup. This is where you actually shop in Phu Quoc. 4.3 stars from 161 reviews and most visitors still walk right past it.",
+    "first_comment": "#PhuQuoc #PhuQuocMarket #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #TravelVietnam"
+  },
+  "instagram": {
+    "caption": "POV: you found the market tourists keep walking past. Phu Quoc Centre, Đường Trần Hưng Đạo. Real goods, real prices. Tag your travel buddy.",
+    "video_caption": "Ducking into Phu Quoc Centre. 161 reviews. Zero resort pricing. This is the market lap locals actually do.",
+    "hashtags": "#PhuQuocMarket #PhuQuocTips #PhuQuocShopping #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Walked past this 3 times. Finally went in. Big mistake not going sooner. #PhuQuoc #PhuQuocMarket #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Walked past this 3x. Don't be me.",
+    "scenes": [
+      "Exterior shot: market entrance on Đường Trần Hưng Đạo",
+      "Pan across stalls, goods stacked high",
+      "Close-up: price tags, local products",
+      "Hands picking up items, comparing",
+      "Wide shot: busy market floor, locals shopping"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
