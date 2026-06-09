@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you take a wrong turn on Đường Bào and land on a beach most tourists drive straight past. Bãi Trường stretches for kilometers. The Sonasea public section means no resort wristband, no fee, no attitude. 4.4 stars from 107 reviews. Just show up, find a spot, stay longer than planned. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking onto Bãi Trường with zero resort fees and zero crowds. The Sonasea public beach section on Đường Bào is the move. 4.4 stars, 107 reviews, and most visitors are still sleeping.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #BaiTruong #VisitVietnam #TravelTips #PhuQuocTips #VietnamBeach"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn on Đường Bào. Found this. Bãi Trường, no wristband required. 4.4★, 107 reviews. Tag your travel buddy.",
+    "video_caption": "No resort fee. No wristband. Just Bãi Trường showing up for you. POV: best wrong turn of the trip.",
+    "hashtags": "#PhuQuocBeach #BaiTruong #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #BeachVibes"
+  },
+  "tiktok": {
+    "caption": "Wrong turn. Best turn. Bãi Trường public beach, no fee, no fuss. 4.4★ #PhuQuoc #BaiTruong #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Best turn.",
+    "scenes": [
+      "Driving along Đường Bào, turn signal flicks on",
+      "Feet hit sand, wide beach comes into frame",
+      "Pan left, coastline stretches out of sight",
+      "Locals and tourists sharing space, no gates visible",
+      "Close-up: bare feet, waves rolling in"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

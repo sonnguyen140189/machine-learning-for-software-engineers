@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the big names on Long Beach. Regulars book Dusit Princess Moonrise Beach Resort.\n\n4.7 stars across 2,396 reviews. On the quieter Cửa Lấp side of the island. Fewer crowds, same Phu Quoc water.\n\nThis is the resort that keeps getting re-booked. Not because of marketing. Because of the stay.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walk the pool deck at Dusit Princess Moonrise Beach Resort and you'll get why 2,396 guests rated it 4.7 stars. Cửa Lấp side. Quieter strip. Seriously good resort.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists skip Cửa Lấp. That's exactly why you shouldn't.\n\nDusit Princess Moonrise Beach Resort. 4.7★, 2,396 reviews. Save this.",
+    "video_caption": "4.7 stars. Quieter side of the island. Dusit Princess Moonrise Beach Resort hits different when the crowds are elsewhere.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocVietnam"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc resort regulars keep rebooking. Dusit Princess Moonrise Beach Resort, Cửa Lấp side. 4.7★ #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists don't know this resort.",
+    "scenes": [
+      "Aerial pan over Cửa Lấp coastline",
+      "Resort entrance, guests walking in",
+      "Pool deck, calm water, few people",
+      "Close-up: 4.7★ review screen",
+      "Beach frontage, long empty shoreline"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

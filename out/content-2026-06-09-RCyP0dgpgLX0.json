@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you almost booked somewhere else. Then you found Sailing Club Signature Resort Phu Quoc. 4.9 stars across 4,552 reviews. On Đường Bào, away from the crowds. This is what a resort stay in Phu Quoc actually looks like when you get it right. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into Sailing Club Signature Resort Phu Quoc for the first time. 4.9 stars. 4,552 people already know. Now you do too.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you almost booked somewhere else. Sailing Club Signature Resort Phu Quoc. 4.9★, 4,552 reviews. Tag your travel buddy.",
+    "video_caption": "First look inside Sailing Club Signature Resort Phu Quoc. 4.9 stars. This is why 4,552 guests came back to rate it.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Almost missed this one. Sailing Club Signature Resort Phu Quoc. 4.9★ from 4,552 reviews. Do not skip. #PhuQuoc #PhuQuocResort #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: almost booked somewhere else",
+    "scenes": [
+      "Arrive at resort entrance, wide shot",
+      "Pan across lobby to open-air pool",
+      "Close-up: 4.9★ review screen on phone",
+      "Slow walk along beachfront path",
+      "Guest settles into sun lounger, ocean ahead"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
