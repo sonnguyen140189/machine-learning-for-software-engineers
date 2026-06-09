@@ -1,0 +1,92 @@
+{
+  "stamp": "2026-06-09",
+  "items": [
+    {
+      "placeId": "ChIJbd7_NgGNpzERqXUHaQ6Y6K4",
+      "placeName": "Blue seafood restaurant (블루씨푸드)",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-09-RqXUHaQ6Y6K4-0.jpg",
+        "out/media/2026-06-09-RqXUHaQ6Y6K4-1.jpg",
+        "out/media/2026-06-09-RqXUHaQ6Y6K4-2.jpg",
+        "out/media/2026-06-09-RqXUHaQ6Y6K4-3.jpg",
+        "out/media/2026-06-09-RqXUHaQ6Y6K4-4.jpg",
+        "out/media/2026-06-09-RqXUHaQ6Y6K4-5.jpg",
+        "out/media/2026-06-09-RqXUHaQ6Y6K4-6.jpg",
+        "out/media/2026-06-09-RqXUHaQ6Y6K4-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this seafood spot on Đường Nguyễn Trãi. Their loss. Blue Seafood Restaurant pulls 4.7 stars across 900 reviews and the locals know exactly why. Fresh catches, no resort markup, real Phu Quoc flavors. Street address: 34 Đường Nguyễn Trãi, Khu 1. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the seafood land straight on the table at Blue Seafood Restaurant. 4.7 stars. 900 reviews. Đường Nguyễn Trãi delivers.",
+          "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about Blue Seafood Restaurant. 4.7★, 900 reviews, Đường Nguyễn Trãi. Save this before your trip.",
+          "video_caption": "4.7 stars on Đường Nguyễn Trãi. The seafood speaks for itself. Tag your travel buddy.",
+          "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "900 reviews and tourists still walk past this. Blue Seafood Restaurant, Phu Quoc. #PhuQuocFood #PhuQuoc #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Locals don't post about this.",
+          "scenes": [
+            "Exterior shot: 34 Đường Nguyễn Trãi signage",
+            "Close-up: fresh seafood displayed on ice",
+            "Chef plates a steaming seafood dish",
+            "Table full of dishes, hands reaching in",
+            "Screen text: 4.7★ across 900 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJh_DUIYeNpzERDqbaRMxPgTY",
+      "placeName": "Hải sản Động Tôm Hùm - Lobster Cave seafood",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-09-RDqbaRMxPgTY-0.jpg",
+        "out/media/2026-06-09-RDqbaRMxPgTY-1.jpg",
+        "out/media/2026-06-09-RDqbaRMxPgTY-2.jpg",
+        "out/media/2026-06-09-RDqbaRMxPgTY-3.jpg",
+        "out/media/2026-06-09-RDqbaRMxPgTY-4.jpg",
+        "out/media/2026-06-09-RDqbaRMxPgTY-5.jpg",
+        "out/media/2026-06-09-RDqbaRMxPgTY-6.jpg",
+        "out/media/2026-06-09-RDqbaRMxPgTY-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-09-RDqbaRMxPgTY.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "7,599 reviews. 4.8 stars. At a seafood spot on 1 Đường Bạch Đằng.\n\nHải sản Động Tôm Hùm is not a secret. It's just that good. Fresh lobster, crab, and shellfish at $15-30 a head. That price range on Phu Quoc for seafood this rated is genuinely rare.\n\nThe review count alone should tell you everything. Save this for your Phu Quoc trip.",
+          "video_caption": "Lobster hitting the grill at Hải sản Động Tôm Hùm. 4.8 stars from 7,599 people and under $30 a head. This is why you come to Phu Quoc.",
+          "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "7,599 reviews. 4.8 stars. Hải sản Động Tôm Hùm just built the case for you.\n\nFresh lobster under $30. Save this.",
+          "video_caption": "Grilled lobster. 4.8 stars. Hải sản Động Tôm Hùm is the move.",
+          "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "7,599 reviews don't lie. Hải sản Động Tôm Hùm hits different. #PhuQuoc #PhuQuocFood #SeafoodLovers"
+        },
+        "video_script": {
+          "hook": "7,599 reviews. 4.8 stars.",
+          "scenes": [
+            "Close-up: live lobsters in tank",
+            "Chef lifts lobster onto grill",
+            "Flames rise, shell turns red",
+            "Full spread lands on table",
+            "Fork breaks into lobster meat",
+            "Packed outdoor tables, sea breeze"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}
