@@ -63,7 +63,7 @@ async function generateForPlace(place, stamp, mode) {
       photoPaths.slice(0, 6),
       content.video_script,
       videoPath,
-      3,
+      2, // 2s/scene for TikTok-style pace (was 3s; total drops 15.5s → 9.5s)
       musicPath,
       brollPaths,
     );

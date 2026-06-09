@@ -68,6 +68,61 @@ function interleaveScenes(imagePaths, brollPaths) {
   return out;
 }
 
+// Build the drawtext filter(s) for a single scene. Two patterns:
+//   - Non-hook scenes (sceneIdx > 0): one animated caption that slides up
+//     from y=h-240 → h-340 over the first 0.3s, alpha fades in over the same
+//     window, holds, then fades out over the last 0.2s before crossfade.
+//   - Hook scene (sceneIdx === 0): PREPEND a "stat slam" — same hook text at
+//     huge fontsize (88px) centered on screen for 0-0.5s, with a quick
+//     0.1s in/out. The animated caption is delayed to start at t=0.5 so the
+//     punch hands off cleanly. This is what turns "first frame is a photo
+//     with a caption box" into "first frame is a punch in the face."
+//
+// Comma-escape rules: ffmpeg parses filter chains on `,`. Inside expressions
+// we use `\\,` (which becomes `\,` in the actual ffmpeg arg string, telling
+// the expression parser "this is a literal comma, not a filter separator").
+function buildDrawtextLayers(captionText, sceneIdx, sceneSeconds) {
+  const FADE_IN = 0.3;
+  const FADE_OUT = 0.2;
+  const PUNCH_END = 0.5;
+  const isHook = sceneIdx === 0;
+  const startT = isHook ? PUNCH_END : 0;
+  const fadeOutStart = (sceneSeconds - FADE_OUT).toFixed(2);
+  // localT = scene-local time, reset to 0 when this caption layer activates.
+  // For non-hook scenes that's just t. For hook scene, the caption layer
+  // activates at t=0.5 so we use (t-0.5).
+  const localT = startT === 0 ? "t" : `(t-${startT})`;
+
+  const wrapped = wrapForOverlay(captionText || "");
+  const captionEsc = escapeDrawText(wrapped).replace(/\n/g, "\\n");
+  const captionLayer =
+    `drawtext=fontfile=assets/fonts/Poppins-Bold.ttf:` +
+    `text='${captionEsc}':fontcolor=white:fontsize=52:` +
+    `line_spacing=12:` +
+    `box=1:boxcolor=0x0288D1@0.78:boxborderw=28:` +
+    `x=(w-text_w)/2:` +
+    `y='if(lt(${localT}\\,${FADE_IN})\\, h-340+100*(${FADE_IN}-${localT})/${FADE_IN}\\, h-340)':` +
+    `alpha='if(lt(${localT}\\,${FADE_IN})\\, ${localT}/${FADE_IN}\\, if(gt(t\\,${fadeOutStart})\\, max(0\\,(${sceneSeconds}-t)/${FADE_OUT})\\, 1))':` +
+    `enable='gte(t\\,${startT})'`;
+
+  if (!isHook) return captionLayer;
+
+  // Hook scene: BIG centered punch with the same caption text.
+  // Wrap shorter (14 chars/line) so fontsize 88 doesn't overflow 1080px wide.
+  const punchWrapped = wrapForOverlay(captionText || "", 14);
+  const punchEsc = escapeDrawText(punchWrapped).replace(/\n/g, "\\n");
+  const punchLayer =
+    `drawtext=fontfile=assets/fonts/Poppins-Bold.ttf:` +
+    `text='${punchEsc}':fontcolor=white:fontsize=88:` +
+    `line_spacing=14:` +
+    `box=1:boxcolor=0x0288D1@0.92:boxborderw=36:` +
+    `x=(w-text_w)/2:y=(h-text_h)/2:` +
+    `enable='lt(t\\,${PUNCH_END})':` +
+    `alpha='if(lt(t\\,0.1)\\, t/0.1\\, if(gt(t\\,0.4)\\, (${PUNCH_END}-t)/0.1\\, 1))'`;
+
+  return `${punchLayer},${captionLayer}`;
+}
+
 /**
  * Build a vertical 1080x1920 slideshow video from images (and optional B-roll
  * clips), with on-screen text per scene. Suitable for TikTok and Reels.
@@ -83,7 +138,7 @@ export async function buildSlideshowVideo(
   imagePaths,
   script,
   outputPath,
-  secondsPerScene = 3,
+  secondsPerScene = 2,
   musicPath = null,
   brollPaths = [],
 ) {
@@ -104,7 +159,7 @@ export async function buildSlideshowVideo(
   // of every photo doing the same thing.
   const fps = 30;
   const sceneFrames = Math.round(secondsPerScene * fps);
-  const zoomSpeed = 0.0013; // ~0.12 zoom delta over a 3s scene
+  const zoomSpeed = 0.002; // ~0.12 zoom delta over a 2s scene at 30fps
   const maxZoom = 1.15;
 
   const inputs = [];
@@ -127,18 +182,10 @@ export async function buildSlideshowVideo(
 
   const filterParts = [];
   for (let i = 0; i < slides; i++) {
-    // Wrap first, escape second, then convert real newlines to the literal
-    // "\n" sequence that ffmpeg drawtext expands back to line breaks.
-    const wrapped = wrapForOverlay(captions[i] || "");
-    const caption = escapeDrawText(wrapped).replace(/\n/g, "\\n");
     const isVideo = mediaList[i].type === "video";
-
-    const drawtextFilter =
-      `drawtext=fontfile=assets/fonts/Poppins-Bold.ttf:` +
-      `text='${caption}':fontcolor=white:fontsize=52:` +
-      `line_spacing=12:` +
-      `box=1:boxcolor=0x0288D1@0.78:boxborderw=28:` +
-      `x=(w-text_w)/2:y=h-440`;
+    // One or two drawtext filters per scene — see buildDrawtextLayers for the
+    // hook-scene "punch + caption handoff" vs the standard animated caption.
+    const drawtextLayers = buildDrawtextLayers(captions[i] || "", i, secondsPerScene);
 
     if (isVideo) {
       // B-roll already has natural motion — skip Ken Burns. Trim to scene
@@ -147,7 +194,7 @@ export async function buildSlideshowVideo(
       filterParts.push(
         `[${i}:v]trim=duration=${secondsPerScene},setpts=PTS-STARTPTS,` +
           `scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,` +
-          `fps=${fps},${drawtextFilter},` +
+          `fps=${fps},${drawtextLayers},` +
           `setsar=1,format=yuv420p[v${i}]`,
       );
     } else {
@@ -164,7 +211,7 @@ export async function buildSlideshowVideo(
           `crop=2160:3840,` +
           `zoompan=z='${zExpr}':d=${sceneFrames}:s=1080x1920:` +
           `x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':fps=${fps},` +
-          `${drawtextFilter},` +
+          `${drawtextLayers},` +
           `setsar=1,format=yuv420p[v${i}]`,
       );
     }
