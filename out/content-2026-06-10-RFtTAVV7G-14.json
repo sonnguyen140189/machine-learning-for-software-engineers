@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 2,356 reviews. On a beach in Ông Lang that most tourists never reach.\n\nCamia Restaurant sits right on the sand at Lê Thúc Nha Street. The crowd is small. The rating is not.\n\n2,356 people rated this place. Almost all of them came back impressed. That kind of consistency is rare anywhere in Vietnam.\n\nIf you're staying near Ông Lang, this is the dinner. Save this for your Phu Quoc trip.",
+    "video_caption": "Sand under your feet. Food in front of you. 4.8 stars from 2,356 people at Camia Restaurant in Ông Lang. Watch how quiet this beach actually is.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #OngLang #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8★ from 2,356 reviews. Beach restaurant. Ông Lang.\nCamia Restaurant is the one. Save this.",
+    "video_caption": "Beachside dinner at Camia Restaurant. 4.8 stars. Ông Lang. Not many tourists know this street.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #OngLang #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats"
+  },
+  "tiktok": {
+    "caption": "4.8★ beach restaurant in Ông Lang that tourists keep missing. Camia Restaurant. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8★. 2,356 reviews. Beach.",
+    "scenes": [
+      "Aerial or wide shot: beach at Ông Lang, nearly empty",
+      "Walk along Lê Thúc Nha Street toward restaurant",
+      "Tables on sand, ocean in background",
+      "Close-up: food arriving at table",
+      "Reviewer count shown on phone screen: 2,356",
+      "Last shot: guest eating, waves behind them"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
