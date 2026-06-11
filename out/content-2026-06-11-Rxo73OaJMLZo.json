@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book Phú Quốc's south coast. Savvy ones book Ong Lang.\n\nMövenpick Villas & Residences Phú Quốc sits in a quieter zone most first-timers scroll past. 4.6 stars across 2,444 reviews. The villas give you space. The beach in front gives you breathing room.\n\nIf you want the resort energy, stay south. If you want actual rest, you already know.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Ong Lang side of Phu Quoc. Fewer crowds, bigger villas, 4.6 stars from 2,444 guests. Mövenpick Villas & Residences Phú Quốc is the move if you're done fighting for a sun lounger. The south coast doesn't have a monopoly on good stays.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists book south Phu Quoc. Smart ones book Ong Lang.\n\nMövenpick Villas & Residences Phú Quốc. 4.6★, 2,444 reviews. More space, fewer crowds.\n\nTag your travel buddy.",
+    "video_caption": "4.6 stars. Ong Lang side. Zero fight for a sun lounger. Mövenpick Phú Quốc is the quieter call.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #OngLang #VietnamTravel #TravelTips #TravelReels #PhuQuocVillas"
+  },
+  "tiktok": {
+    "caption": "Why smart travelers skip south Phu Quoc for Ong Lang. 4.6★ resort, half the crowds. #PhuQuoc #PhuQuocHotel #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals skip the south coast.",
+    "scenes": [
+      "Aerial pan: Ong Lang coastline at sunrise",
+      "Wide shot: villa pool, no crowds",
+      "Close-up: Mövenpick sign at entrance",
+      "Guest walking private beach path",
+      "Sunlit villa interior, doors open to garden"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

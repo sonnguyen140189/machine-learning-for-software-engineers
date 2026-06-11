@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "7,774 reviews. 4.8 stars. Meliá Vinpearl Phu Quoc keeps showing up at the top for a reason. Located in the Cửa Cạn - Gành Dầu area, this is the north end of the island where the pace slows down and the water actually looks like the photos. If you're planning a Phu Quoc trip and want one hotel to anchor it, this is the data-backed answer. Save this for your Phu Quoc trip.",
+    "video_caption": "Nearly 8,000 guests rated this place 4.8 stars. Walk through Meliá Vinpearl Phu Quoc and see exactly why the reviews don't lie. North island calm, resort scale, zero compromises.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "7,774 reviews. 4.8 stars. Meliá Vinpearl Phu Quoc earns every one. North island, real calm. Save this for your Phu Quoc trip.",
+    "video_caption": "4.8 stars across nearly 8,000 stays. Meliá Vinpearl Phu Quoc delivers. Watch this before you book.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "7,774 reviews and still 4.8 stars. Meliá Vinpearl Phu Quoc is built different. #PhuQuoc #PhuQuocHotel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★ across 7,774 reviews.",
+    "scenes": [
+      "Aerial pull back over north island coastline",
+      "Resort entrance, wide shot, guests arriving",
+      "Pool deck with sea view behind it",
+      "Close-up: room balcony, calm water below",
+      "Sunset light hitting the facade"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "8,873 reviews. 4.8 stars. Bãi Khem's best-rated resort keeps delivering.\n\nPremier Residences Phu Quoc Emerald Bay sits right on one of Phu Quoc's cleanest beaches. 5 restaurants on-site. Full spa. Fitness center. Free breakfast included.\n\nThis is the property locals point every guest toward when budget isn't the question.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the sun hit Bãi Khem from inside a 4.8-star resort with free breakfast and 5 restaurants steps from your room. Premier Residences Emerald Bay is doing numbers for a reason. 8,873 people reviewed it. Almost all of them said go.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "8,873 reviews. 4.8 stars. Bãi Khem beach at your door.\n\nPremier Residences Phu Quoc Emerald Bay: 5 restaurants, spa, free breakfast. Tag your travel buddy.",
+    "video_caption": "4.8 stars across 8,873 reviews. Bãi Khem resort life looks exactly like this.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #BaiKhem #PhuQuocTips #VietnamTravel #TravelReels #TravelTips #PhuQuocBeaches"
+  },
+  "tiktok": {
+    "caption": "4.8 stars. 8,873 reviews. Bãi Khem resort with free breakfast hits different. #PhuQuoc #PhuQuocHotel #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "8,873 reviews. 4.8 stars.",
+    "scenes": [
+      "Aerial pan over Bãi Khem beachfront",
+      "Resort entrance, staff greeting guests",
+      "Breakfast spread being plated outdoors",
+      "Spa treatment room, steam rising",
+      "Beach chairs, waves lapping shoreline",
+      "Guest raises coffee cup at ocean view"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
