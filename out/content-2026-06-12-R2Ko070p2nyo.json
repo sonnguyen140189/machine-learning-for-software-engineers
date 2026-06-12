@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "935 reviews. 4.4 stars. On an island full of beach clubs and rooftop bars, The Rabbit Hole Irish Bar keeps pulling people back.\n\nSports on every screen. Cold pints. The kind of bar where you sit down for one and stay for four.\n\nFind it at 118/2/1 Đường Trần Hưng Đạo, Khu Phố 7 next time you need a night that isn't a sunset cocktail.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Screens everywhere, pints poured fast, crowd already loud. The Rabbit Hole Irish Bar on Đường Trần Hưng Đạo is the spot Phu Quoc visitors keep rating 4.4 stars across 935 reviews. Walk in, find a seat, stay longer than you planned.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #ThingsToDoPhuQuoc #VisitVietnam #IrishBar #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "935 reviews. 4.4 stars. The Rabbit Hole Irish Bar earns it every night.\n\nCold pints. Live sport. Đường Trần Hưng Đạo.\n\nTag your travel buddy.",
+    "video_caption": "Pints up, game on. 935 people rated The Rabbit Hole Irish Bar 4.4 stars for a reason. This is your Phu Quoc game-night sorted.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocTips #PhuQuocBars #VietnamTravel #TravelTips #TravelReels #IrishBarAbroad"
+  },
+  "tiktok": {
+    "caption": "935 reviews. 4.4 stars. Phu Quoc's Irish bar actually delivers. #PhuQuoc #PhuQuocNightlife #TravelTips #IrishBar"
+  },
+  "video_script": {
+    "hook": "935 reviews. 4.4 stars.",
+    "scenes": [
+      "Exterior sign lit up at night",
+      "Multiple screens showing live sport",
+      "Bartender pouring cold pint, foam settling",
+      "Packed crowd watching the game",
+      "Wide shot: full bar, every seat taken"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

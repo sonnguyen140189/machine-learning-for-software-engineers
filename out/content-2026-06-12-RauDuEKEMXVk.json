@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars. 314 reviews. HD cafe is earning those numbers one cup at a time.\n\nSit down, slow down. This is the kind of café Phú Quốc locals actually return to, not just tag once. Good coffee, fair prices, and a vibe that doesn't feel manufactured for tourists.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the steam rise. HD cafe just delivered a 4.5-star cup and the reviews don't lie. Phú Quốc coffee culture, no tourist markup.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeeVietnam #VisitVietnam #TravelTips #PhuQuocTips #VietnamCoffee"
+  },
+  "instagram": {
+    "caption": "314 reviews. 4.5 stars. HD cafe is not a fluke.\n\nPhu Quoc coffee done right. Tag your travel buddy.",
+    "video_caption": "4.5 stars, 314 reviews. One sip at HD cafe and you'll get it.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CoffeeVietnam #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "314 reviews don't lie. HD cafe in Phú Quốc hits different. #PhuQuoc #PhuQuocCafe #VietnamTravel #CoffeeTime"
+  },
+  "video_script": {
+    "hook": "314 reviews. 4.5 stars.",
+    "scenes": [
+      "Exterior shot: HD cafe sign, street-level",
+      "Barista pulling espresso, close-up",
+      "Steam rising from fresh cup on table",
+      "Customer takes first sip, reaction shot",
+      "Pan across café interior, locals seated"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

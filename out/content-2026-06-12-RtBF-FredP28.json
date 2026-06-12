@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "214 reviews. 4.6 stars. And most tourists walk straight past Hoa Đảo Viên Coffee - Phú Quốc without even noticing it.\n\nThis is the kind of coffee shop locals actually return to. Not because it's on a list. Because the coffee is solid and the vibe doesn't try too hard.\n\nIf you're in Phu Quoc and need a proper break from beach-hopping, this is your spot.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch how many seats are filled at Hoa Đảo Viên Coffee - Phú Quốc on a weekday. 214 reviews earned. Every single one makes sense the second you sit down.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "214 reviews. 4.6 stars. Hoa Đảo Viên Coffee - Phú Quốc hits different.\n\nSkip the resort café. Come here. Tag your travel buddy.",
+    "video_caption": "4.6 stars from 214 locals and tourists. Hoa Đảo Viên Coffee - Phú Quốc earns every one.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #CoffeePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "214 people rated this Phu Quoc café 4.6 stars. Worth the stop. #PhuQuoc #PhuQuocCafe #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.6★ from 214 reviews.",
+    "scenes": [
+      "Exterior of Hoa Đảo Viên Coffee sign",
+      "Locals seated, cups in hand",
+      "Close-up: Vietnamese coffee poured slow",
+      "Reviewer quote overlaid on screen",
+      "Wide shot: full café, relaxed crowd"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

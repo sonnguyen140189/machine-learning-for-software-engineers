@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this place. Locals are inside eating bowls of cháo gà rẫy that taste like they took all day to make. Quán cháo gà rẫy Phú Quốc on 113 Nguyễn Trung Trực is the kind of spot that doesn't need a sign-out front. 4.7 stars. 36 reviews. All from people who actually live here. Add this to your Phu Quoc list before it gets crowded. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch this bowl land on the table. Quán cháo gà rẫy Phú Quốc. Slow-cooked chicken rice porridge, 4.7 stars, and zero tourists in sight. This is what locals eat on a quiet morning in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #VietnamFood #TravelTips #VietnamEats"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Quán cháo gà rẫy Phú Quốc. 4.7 stars, 36 real reviews, zero tourist menus. Save this for your Phu Quoc trip.",
+    "video_caption": "One bowl. Slow-cooked chicken. Zero tourists. Quán cháo gà rẫy Phú Quốc hits different at 7am.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamFood #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Locals eat here every morning. Tourists walk past. Don't be that tourist. #PhuQuoc #PhuQuocFood #VietnamFood #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Street-level shot: simple shopfront, no English sign",
+      "Close-up: steaming bowl of cháo gà rẫy hits the table",
+      "Slow pour: broth ladled over shredded chicken",
+      "Pan across: full local crowd, zero tourists visible",
+      "Pull back: address text overlaid on storefront"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

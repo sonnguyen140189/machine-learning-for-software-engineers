@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Sip & Heal Beach Bar on Đường Trần Hưng Đạo delivers exactly what the name promises. Cocktails in hand, feet in the sand, zero tourist chaos. 4.6 stars from 53 real reviews backs it up. Get here before the crowds figure it out. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the sun drop over the water at Sip & Heal Beach Bar. Cold cocktail, warm light, no crowd. This is what Phu Quoc evenings are supposed to feel like. 4.6 stars. Go find out why.",
+    "first_comment": "#PhuQuoc #PhuQuocBeachBar #CuaLap #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocNightlife #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Sip & Heal Beach Bar, Phu Quoc. 4.6★, cold cocktails, no chaos. Save this.",
+    "video_caption": "Cocktail in hand. Sun going down. Sip & Heal Beach Bar hits different after a long beach day.",
+    "hashtags": "#PhuQuocBeachBar #PhuQuocNightlife #PhuQuocTips #CuaLap #VietnamTravel #TravelTips #TravelReels #PhuQuocVibes"
+  },
+  "tiktok": {
+    "caption": "Beach bar burnout cure in Phu Quoc. 4.6 stars, chill vibes, real cocktails. #PhuQuoc #PhuQuocBeachBar #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Aerial pan: bar meets beach shoreline",
+      "Bartender pours cocktail, slow motion",
+      "Guest lifts glass toward setting sun",
+      "Empty seats filling as dusk hits",
+      "Close-up: condensation on cold glass"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

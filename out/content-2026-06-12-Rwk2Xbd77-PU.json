@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. ANBA COFFEE on 131 Đường Trần Hưng Đạo hits different when you need to slow down mid-trip. 4.6 stars across 1,312 reviews. Not luck. Consistency. Order something cold, find a seat, and stop planning for an hour. Phu Quoc will still be there. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the crowd disappear the second you walk into ANBA COFFEE. 1,312 people rated it 4.6 stars for a reason. Cold drink in hand, zero rush. This is what a real coffee stop in Phu Quoc looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeeVietnam #VisitVietnam #TravelTips #PhuQuocTips #VietnamCoffee"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. ANBA COFFEE, 4.6★, 1,312 reviews. Find a seat and stop planning for an hour. Save this.",
+    "video_caption": "Cold drink. Zero rush. ANBA COFFEE delivers every time. 4.6★ across 1,312 reviews.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CoffeeVietnam"
+  },
+  "tiktok": {
+    "caption": "The café that makes you forget your itinerary. ANBA COFFEE, 4.6★ 1,312 reviews. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that slows you down.",
+    "scenes": [
+      "Exterior shot: ANBA COFFEE sign on Đường Trần Hưng Đạo",
+      "Push through the door, ambient interior reveal",
+      "Close-up: cold coffee poured over ice",
+      "Wide shot: guests relaxed, no rush",
+      "Pan across 4.6★ rating on phone screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
