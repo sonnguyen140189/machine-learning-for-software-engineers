@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists buy fish sauce at the airport. Locals buy it here.\n\nChợ Dương Đông Phú Quốc is the real daily market of Phu Quoc town. Fresh seafood pulled off boats that morning. Local produce, spices, snacks, and street food stalls the resort crowd never finds.\n\n4.3 stars across 390 reviews. Not influencer-staged. Just real.\n\nGo early. 6-8am is peak chaos, peak freshness, and peak people-watching.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Vendors unpack live crabs at 6am. Piles of peppercorns the size of your head. This is Chợ Dương Đông Phú Quốc before the tour buses even wake up. Come hungry.",
+    "first_comment": "#PhuQuoc #PhuQuocMarket #PhuQuocFood #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post this market. You should.\n\nChợ Dương Đông Phú Quốc. 4.3★, 390 reviews, zero tourist menus. Go at 6am.\n\nTag your travel buddy.",
+    "video_caption": "Live seafood, pepper stalls, chaos. Chợ Dương Đông Phú Quốc at sunrise hits different.",
+    "hashtags": "#PhuQuocFood #PhuQuocMarket #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #Vietnam"
+  },
+  "tiktok": {
+    "caption": "The market Phu Quoc resorts don't mention. Chợ Dương Đông. 6am. Go. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post this market.",
+    "scenes": [
+      "Aerial or wide shot of crowded stalls at dawn",
+      "Vendor unloads live crabs from basket",
+      "Close-up: peppercorns, dried shrimp, fish sauce bottles",
+      "Shopper haggles, hands exchange cash",
+      "Street food stall, steam rising from pot",
+      "Clock graphic: 6AM, Chợ Dương Đông Phú Quốc"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

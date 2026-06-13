@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Upmarket seafood plates and a sea-view terrace for $15-30 a person. At Xin Chao, that's the actual bill. 4,975 reviews back it up. Fresh catches, a buzzing crowd, and the kind of terrace where you lose track of time. On Đường Trần Hưng Đạo, right on the water. Book ahead or wait. Worth both. Save this for your Phu Quoc trip.",
+    "video_caption": "Plates landing on the table, ocean right behind them. This is Xin Chao on Đường Trần Hưng Đạo. Upmarket seafood, $15-30 a head, terrace packed for a reason. 4,975 reviews. Go find out why.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "$15-30 for upmarket seafood overlooking the sea. Xin Chao is not messing around. 4,975 reviews agree. Save this.",
+    "video_caption": "Fresh seafood, sea-view terrace, $30 max. Xin Chao on Đường Trần Hưng Đạo. The crowd tells you everything.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Upmarket seafood terrace for under $30. Xin Chao is real. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Upmarket seafood. $30 max.",
+    "scenes": [
+      "Wide shot: terrace packed, ocean behind",
+      "Close-up: fresh seafood hitting the table",
+      "Pan across buzzing crowd at golden hour",
+      "Tight shot: price on the bill, viewer reacts",
+      "Pull back: full terrace view, water glittering"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

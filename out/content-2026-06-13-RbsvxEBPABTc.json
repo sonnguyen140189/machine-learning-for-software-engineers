@@ -1,0 +1,26 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you land in Phu Quoc, need dong, and walk past three bad-rate booths before someone points you here.\n\nEXMoney at 10 Đường Nguyễn Trãi sits right by Chợ đêm Phú Quốc. 4.9 stars. 39 reviews. That rating for a currency exchange is rare.\n\nGet your dong sorted before you hit the market stalls. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the rate board before you exchange anywhere else. EXMoney next to Chợ đêm Phú Quốc. 4.9 stars. Your wallet notices the difference.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Walked past 3 exchange booths. Found this one. 4.9★ at EXMoney, Chợ đêm Phú Quốc. Don't skip it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Rate board. Night market lights. Your first smart move in Phu Quoc starts at EXMoney on Đường Nguyễn Trãi.",
+    "hashtags": "#PhuQuocTips #PhuQuocNightMarket #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Don't exchange money at the airport. Find EXMoney by Chợ đêm Phú Quốc first. 4.9★ says it all. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Walked past 3 bad booths.",
+    "scenes": [
+      "Pan across busy Chợ đêm Phú Quốc entrance",
+      "Zoom in on EXMoney rate board sign",
+      "Hands counting Vietnamese dong notes",
+      "Google review screen showing 4.9 stars"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
