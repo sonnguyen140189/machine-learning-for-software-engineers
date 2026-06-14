@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJh_O6fQOTpzER59owkekSGzg",
+    "ChIJwWU1ZCcfCDEReUYA7CbOibg",
+    "ChIJv4cK9HiNpzER-Vx6JuZH1Sw",
+    "ChIJAUdyovyNpzER8QPEJgQFxbs",
+    "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
+    "ChIJTZlTGwCNpzERcOusT0_hYo4",
+    "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
+    "ChIJFxJfXGiNpzER5oQGw5O9TkU",
+    "ChIJxyir2P0fCDERr4lf9WU--CQ",
+    "ChIJE0W_Mu-NpzER4e-2jmhYJYI",
+    "ChIJRQVFmFqNpzERu5Sg8_W6Zoo",
+    "ChIJq-MaQQCVpzERMbW2Y8JvlMI",
     "ChIJMwe2gsuXpzERYM-EJba18Po",
     "ChIJ6ZS5Zl6MpzERb-qhkr9ofs4",
     "ChIJf6ykc4iMpzER-X7O0fSCJSs",
@@ -187,21 +199,189 @@
     "ChIJKRithzaNpzERRsQNtyxB4fA",
     "ChIJt4DYpuyLpzERm18CccVtFaM",
     "ChIJ0SWXnaiNpzERGkNpjowX_KI",
-    "ChIJZczOcTKNpzERDrdWOGSuTvA",
-    "ChIJiamiNwCNpzERGZfl84R9I3k",
-    "ChIJlSRlw5KNpzER9K0k_h7wn_A",
-    "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
-    "ChIJfQAdSg2NpzEREkgYHVPn5dE",
-    "ChIJq6qqEz8eCDER7vOnb6Q6Ol8",
-    "ChIJ0d82exqLpzERoNkx8uHzmAM",
-    "ChIJKZFCSpiLpzERK3qFs9JUOEw",
-    "ChIJsY399WOMpzER7lV4UDy_2w0",
-    "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
-    "ChIJ0ROUga6NpzER_UTaYvXtN1w",
-    "ChIJEXpOynGNpzER-yD5vqjo9-E",
-    "ChIJo5M0X62NpzERgrGHtWo8nCQ"
+    "ChIJZczOcTKNpzERDrdWOGSuTvA"
   ],
   "history": [
+    {
+      "date": "2026-06-14",
+      "placeId": "ChIJh_O6fQOTpzER59owkekSGzg",
+      "placeName": "Mr Seafood",
+      "results": {
+        "facebookVideo": {
+          "id": "2094821291457310"
+        },
+        "instagramReel": {
+          "id": "18068769074389442"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "placeId": "ChIJwWU1ZCcfCDEReUYA7CbOibg",
+      "placeName": "Welcome To Nha Hang Quoc Thien",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122108841633313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18356676535240877"
+        }
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "placeId": "ChIJv4cK9HiNpzER-Vx6JuZH1Sw",
+      "placeName": "Nhà hàng Vịnh Xanh Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "36224925410484343"
+        },
+        "instagramReel": {
+          "id": "18221247778320890"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "placeId": "ChIJAUdyovyNpzER8QPEJgQFxbs",
+      "placeName": "Crab Island | Taste of Seafood | 해산물의 맛",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122108840775313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17975935284048330"
+        }
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "placeId": "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
+      "placeName": "Nhà hàng hải sản Xưa và Nay",
+      "results": {
+        "facebookVideo": {
+          "id": "1332717965494877"
+        },
+        "instagramReel": {
+          "id": "18112124899902140"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "placeId": "ChIJTZlTGwCNpzERcOusT0_hYo4",
+      "placeName": "SORI Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122108839959313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18053533598760291"
+        }
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "placeId": "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
+      "placeName": "NINH KITCHEN - VIETNAMESE CUISINE",
+      "results": {
+        "facebookVideo": {
+          "id": "1674940410265738"
+        },
+        "instagramReel": {
+          "id": "18275065402294996"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "placeId": "ChIJFxJfXGiNpzER5oQGw5O9TkU",
+      "placeName": "Nhà hàng hải sản Thuận Kiều 2 - Fresh Seafood & Vietnamese Cuisine",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122108839119313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17969478216063855"
+        }
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "placeId": "ChIJxyir2P0fCDERr4lf9WU--CQ",
+      "placeName": "Mai Hương Beachfront",
+      "results": {
+        "facebookVideo": {
+          "id": "1326114339494511"
+        },
+        "instagramReel": {
+          "id": "17944351686234635"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "placeId": "ChIJE0W_Mu-NpzER4e-2jmhYJYI",
+      "placeName": "Day market",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122108838291313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18004397816930682"
+        }
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "placeId": "ChIJRQVFmFqNpzERu5Sg8_W6Zoo",
+      "placeName": "Kingkong Mart",
+      "results": {
+        "facebookVideo": {
+          "id": "998111896301388"
+        },
+        "instagramReel": {
+          "id": "18171660649423509"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "placeId": "ChIJq-MaQQCVpzERMbW2Y8JvlMI",
+      "placeName": "Lemon Queen",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122108837469313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17929444206329572"
+        }
+      }
+    },
     {
       "date": "2026-06-13",
       "placeId": "ChIJMwe2gsuXpzERYM-EJba18Po",
@@ -3016,184 +3196,6 @@
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-05-25",
-      "placeId": "ChIJiamiNwCNpzERGZfl84R9I3k",
-      "placeName": "Cua 350 – Crab Noodle Soup Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122104555737313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph GET /18132480025519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"A40FJZwFIybPqVAlam3XyuW\"}}"
-        }
-      }
-    },
-    {
-      "date": "2026-05-25",
-      "placeId": "ChIJlSRlw5KNpzER9K0k_h7wn_A",
-      "placeName": "Nhà hàng Thì Là Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1827308881575764"
-        },
-        "instagramReel": {
-          "error": "IG Graph GET /18132479812519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AxBKam2Vxch-O6A7eAgqoRb\"}}"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-05-25",
-      "placeId": "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
-      "placeName": "The Spice House Restaurant at Cassia Cottage Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122104554921313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph GET /18132479803519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AIRjtWAG5v1Zn61YmsbjK0F\"}}"
-        }
-      }
-    },
-    {
-      "date": "2026-05-25",
-      "placeId": "ChIJfQAdSg2NpzEREkgYHVPn5dE",
-      "placeName": "Hi Coffee - 11 Trần Hưng Đạo - Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122104554063313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph GET /18132479617519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AmnIBOY_pkp3fwBe9YyTLZS\"}}"
-        }
-      }
-    },
-    {
-      "date": "2026-05-24",
-      "placeId": "ChIJq6qqEz8eCDER7vOnb6Q6Ol8",
-      "placeName": "Radisson Blu Resort, Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "3855809367892265"
-        },
-        "instagramReel": {
-          "error": "IG Graph GET /18132339262519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"A_g5EWvglSM7DCrkb_UKciP\"}}"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-05-24",
-      "placeId": "ChIJ0d82exqLpzERoNkx8uHzmAM",
-      "placeName": "Ola coffee shop",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122104364979313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph GET /18132339223519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AAJggDwrFrukgUbUE0nz4Ju\"}}"
-        }
-      }
-    },
-    {
-      "date": "2026-05-24",
-      "placeId": "ChIJKZFCSpiLpzERK3qFs9JUOEw",
-      "placeName": "Cà Phê Bàng",
-      "results": {
-        "facebookVideo": {
-          "id": "1277936334391089"
-        },
-        "instagramReel": {
-          "error": "IG Graph GET /18132338830519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AxI2QdylFW-Di7qGgLKJPmC\"}}"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-05-24",
-      "placeId": "ChIJsY399WOMpzER7lV4UDy_2w0",
-      "placeName": "Chuồn Chuồn Bistro & Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122104363983313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph GET /18132338722519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AY84hwB7WJuZ0qe63rIQUgn\"}}"
-        }
-      }
-    },
-    {
-      "date": "2026-05-24",
-      "placeId": "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
-      "placeName": "58 CAFÉ",
-      "results": {
-        "facebookVideo": {
-          "id": "1474020501140526"
-        },
-        "instagramReel": {
-          "error": "IG Graph GET /18132338368519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"ACmtGCOaN9JPTrsBGjMdZH7\"}}"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-05-24",
-      "placeId": "ChIJ0ROUga6NpzER_UTaYvXtN1w",
-      "placeName": "L Coffee",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122104363233313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph GET /18132338326519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"A6LW8WxpreF95O9jI1THuco\"}}"
-        }
-      }
-    },
-    {
-      "date": "2026-05-24",
-      "placeId": "ChIJEXpOynGNpzER-yD5vqjo9-E",
-      "placeName": "BUM Coffee",
-      "results": {
-        "facebookVideo": {
-          "id": "2515209575606848"
-        },
-        "instagramReel": {
-          "error": "IG Graph GET /18132338020519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"Al5HsOAD8X20aawdbqa7PBt\"}}"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-05-24",
-      "placeId": "ChIJo5M0X62NpzERgrGHtWo8nCQ",
-      "placeName": "MIX BAKERY COFFEE & TEA",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122104362285313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph GET /18132337996519977?fields=status_code,status&access_token=EAAL1AjV7zeYBRQOKmw95m3SAZB1TlRsc4duc3ERHvM0Mihv0fkZBu638bLCiOUhPJLaeHfBm5NMQUJuYZCb8X8xX9LrAuZCLsPXq0kNZA08EV4SZBNAnc98da28HhrXYETaYkYZCIAuZBDVYXnAQqvJEeMdzHXYFBjVBAi72gf7SJpgZCru7YaOGTmDOJUI8WJE5UTtGIKnXx2hLXke4IDwZDZD failed: {\"error\":{\"message\":\"Authorization Error\",\"code\":100,\"type\":\"GraphMethodException\",\"error_subcode\":33,\"fbtrace_id\":\"AykEFrLKCHBDgY3P_JcAhnD\"}}"
         }
       }
     }
