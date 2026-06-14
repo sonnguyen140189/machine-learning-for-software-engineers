@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "3,156 reviews. 4.7 stars. And somehow Nhà hàng Vịnh Xanh Phú Quốc still surprises first-timers.\n\nSit on Đường Trần Hưng Đạo, order the seafood, watch Phu Quoc slow down around you. This is the kind of meal that makes you extend your trip.\n\nIf you're eating out in Phu Quoc, this one earns its reputation. Save this for your Phu Quoc trip.",
+    "video_caption": "Fork hits the plate at Nhà hàng Vịnh Xanh Phú Quốc. 3,156 people rated this 4.7 stars. Watch why in 30 seconds.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 3,156 reviews. Nhà hàng Vịnh Xanh Phú Quốc earns every one.\n\nBook it. Tag your travel buddy.",
+    "video_caption": "3,156 people rated this spot 4.7 stars in Phu Quoc. Nhà hàng Vịnh Xanh Phú Quốc. Don't walk past it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "3,156 reviews don't lie. Nhà hàng Vịnh Xanh Phú Quốc goes on the list. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "3,156 reviews. 4.7 stars.",
+    "scenes": [
+      "Exterior shot: sign reads Nhà hàng Vịnh Xanh Phú Quốc",
+      "Pan down packed dining tables",
+      "Close-up: fresh seafood arriving at table",
+      "Wide shot: diners eating, street life outside",
+      "Rating card fades in: 4.7★ 3,156 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

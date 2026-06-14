@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.3 stars. 522 reviews. For a grocery store.\n\nKingkong Mart on Đường Bạch Đằng is where locals actually shop. Grab snacks, water, sunscreen, and local drinks before hitting the beach. Skip the resort minibar markup. This is your base camp for supplies in Phu Quoc.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Trolley loaded. Wallet still happy. Kingkong Mart on Đường Bạch Đằng is the grocery run every Phu Quoc visitor needs to make. 522 locals and travelers agree.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "522 reviews for a grocery store. Phu Quoc approved.\n\nKingkong Mart, Đường Bạch Đằng. Stock up here, not at your resort.\n\nSave this.",
+    "video_caption": "First stop in Phu Quoc: Kingkong Mart. 4.3 stars, 522 reviews. Your wallet will thank you.",
+    "hashtags": "#PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "522 reviews for a grocery store in Phu Quoc. Don't skip this stop. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "522 reviews. A grocery store.",
+    "scenes": [
+      "Exterior shot: Kingkong Mart sign on Đường Bạch Đằng",
+      "Pan across full shelves: snacks, drinks, basics",
+      "Close-up: local drinks and fresh water selection",
+      "Hand grabbing sunscreen, comparing prices",
+      "Full basket at checkout, receipt shown"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 220 reviews. SORI Restaurant is earning those ratings one plate at a time.\n\nPhu Quoc has no shortage of places to eat. But a 4.7 with 220 honest reviews? That's not luck. That's consistency.\n\nAdd this one to your Phu Quoc restaurant list before you land.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch what 220 reviewers kept coming back for. SORI Restaurant in Phu Quoc, rated 4.7 stars. The plates speak for themselves.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 220 reviews. SORI Restaurant delivers.\n\nPhu Quoc's restaurant scene is crowded. This one cuts through.\n\nTag your travel buddy.",
+    "video_caption": "220 people rated this 4.7 stars. SORI Restaurant, Phu Quoc. See why.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.7 stars in Phu Quoc. 220 reviews. SORI Restaurant is the move. #PhuQuoc #PhuQuocFood #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "4.7★ 220 reviews. SORI.",
+    "scenes": [
+      "Exterior shot, restaurant signage",
+      "Close-up: dishes arriving at table",
+      "Slow pan across full spread",
+      "Reaction shot: first bite taken",
+      "Screen: 4.7★ rating on Google"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

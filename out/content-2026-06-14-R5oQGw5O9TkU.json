@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this place. Locals keep coming back. Nhà hàng hải sản Thuận Kiều 2 on Đường Trần Hưng Đạo is pulling 4.7 stars across 561 reviews and it is not on any resort map. Fresh seafood, Vietnamese classics, real portions. No beach-club markup. Find it at 70B and order whatever the table next to you is having. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what lands on the table at Nhà hàng hải sản Thuận Kiều 2. Fresh seafood, 561 reviews, 4.7 stars. The tourists outside had no idea this was here. 70B Đường Trần Hưng Đạo. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocSeafood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Nhà hàng hải sản Thuận Kiều 2. 4.7 stars, 561 reviews, zero tourist-trap energy. Save this for your Phu Quoc trip.",
+    "video_caption": "561 reviews. 4.7 stars. Nhà hàng hải sản Thuận Kiều 2 hits different. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurant #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Locals eat here. Tourists walk past. Nhà hàng hải sản Thuận Kiều 2, 4.7★, 561 reviews. #PhuQuoc #PhuQuocFood #PhuQuocSeafood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Street-level shot: 70B Đường Trần Hưng Đạo sign",
+      "Packed local tables, no tourist menus visible",
+      "Fresh seafood arriving, steam rising off plate",
+      "Close-up: glistening grilled fish, herbs piled high",
+      "Reveal: 4.7 stars on screen, 561 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

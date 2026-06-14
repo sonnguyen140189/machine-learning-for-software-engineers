@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this place. Locals don't. Ninh Kitchen - Vietnamese Cuisine on Lê Lợi is pulling 4.8 stars from 222 reviews and it's not showing up on any resort map. Real Vietnamese food, real Phu Quoc neighborhood, zero performance. Find it at 10 Lê Lợi, Khu 1. Save this for your Phu Quoc trip.",
+    "video_caption": "Plates hitting the table at Ninh Kitchen - Vietnamese Cuisine. 4.8 stars. 222 people rated it. Most tourists never find it. Now you know where to go on Lê Lợi.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Ninh Kitchen - Vietnamese Cuisine. 4.8 stars, 222 reviews, zero tourist fanfare. Tag your travel buddy.",
+    "video_caption": "4.8 stars on Lê Lợi. Real Vietnamese food. Tourists keep missing it. Don't be one of them.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnameseFood"
+  },
+  "tiktok": {
+    "caption": "Locals eat here. Tourists don't know it exists. Ninh Kitchen, Lê Lợi, Phu Quoc. 4.8★ #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post this spot.",
+    "scenes": [
+      "Street-level shot: 10 Lê Lợi signage",
+      "Busy tables, local crowd eating",
+      "Close-up: steaming Vietnamese dishes arriving",
+      "Phone screen shows 4.8★, 222 reviews",
+      "Final wide: full table, no empty seats"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

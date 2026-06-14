@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4,016 reviews. 4.8 stars. At a seafood spot inside chợ đêm Sonasea.\n\nThat rating doesn't happen by accident. Mr Seafood is pulling real numbers because the food earns it. Fresh catch, night market energy, zero resort markup.\n\nThis is where you eat seafood in Phu Quoc. Not the beachfront spot charging tourists double.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Night market. Grilled seafood. 4.8 stars from 4,016 people. Mr Seafood at chợ đêm Sonasea is the move tonight. No debate.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocNightMarket #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4,016 reviews. 4.8 stars. Mr Seafood at chợ đêm Sonasea.\n\nReal numbers. Real food. No resort markup.\n\nTag your travel buddy.",
+    "video_caption": "Seafood. Night market. 4.8 stars. Mr Seafood hits different after dark.",
+    "hashtags": "#PhuQuocFood #PhuQuocNightMarket #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SeafoodLovers"
+  },
+  "tiktok": {
+    "caption": "4,016 reviews at a night market seafood spot. Mr Seafood at chợ đêm Sonasea goes hard. #PhuQuoc #PhuQuocFood #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "4,016 reviews. 4.8 stars.",
+    "scenes": [
+      "Zoom in on Google rating on phone",
+      "Wide shot: chợ đêm Sonasea at night",
+      "Grill smoking, seafood laid out fresh",
+      "Close-up: plate landing on table",
+      "Crowded tables, locals eating"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

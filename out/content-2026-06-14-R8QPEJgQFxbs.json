@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking Đường Trần Hưng Đạo and you almost walk past Crab Island | Taste of Seafood | 해산물의 맛. Don't. 4.5 stars across 349 reviews. Fresh seafood, right on the main strip in Khu Phố 7. Order the crab. Sit down. Thank yourself later. Save this for your Phu Quoc trip.",
+    "video_caption": "Plates hitting the table at Crab Island | Taste of Seafood | 해산물의 맛. 4.5 stars. 349 people already knew. Now you do too. Đường Trần Hưng Đạo, Khu Phố 7. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked past it. Went back. 4.5★, 349 reviews. Crab Island | Taste of Seafood | 해산물의 맛 earns it. Tag your travel buddy.",
+    "video_caption": "Crab cracked open. 4.5 stars. Đường Trần Hưng Đạo. Don't walk past this one.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Almost missed this seafood spot in Phu Quoc. 4.5★ 349 reviews. Don't be me. #PhuQuoc #PhuQuocFood #SeafoodLovers"
+  },
+  "video_script": {
+    "hook": "POV: you almost walked past this.",
+    "scenes": [
+      "Exterior shot: Crab Island sign on Đường Trần Hưng Đạo",
+      "Hands cracking fresh whole crab on table",
+      "Close-up: steaming seafood platter arriving",
+      "Reviewer scroll: 4.5 stars, 349 reviews on screen",
+      "Guest reaction: first bite, eyes widen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
