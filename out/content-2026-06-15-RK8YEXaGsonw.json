@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 362 reviews. And most tourists walk straight past it.\n\nTHE CLOUD COFFEE on 126a Đường Trần Hưng Đạo is pulling serious numbers for a café on Phú Quốc. No gimmicks. Just consistent coffee and a crowd that keeps coming back.\n\nIf your morning ritual matters, this one earns the detour.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch what 362 people rated 4.7 stars on Phú Quốc. THE CLOUD COFFEE, 126a Đường Trần Hưng Đạo. Your morning just got an upgrade. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 362 reviews. THE CLOUD COFFEE is not an accident.\n\n126a Đường Trần Hưng Đạo, Phú Quốc. Save this.",
+    "video_caption": "362 people rated this 4.7 stars. THE CLOUD COFFEE, Phú Quốc. Morning sorted.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #CoffeePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.7 stars. 362 reviews. THE CLOUD COFFEE on Phú Quốc hits different. #PhuQuoc #PhuQuocCafe #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.7★ 362 reviews. Worth it?",
+    "scenes": [
+      "Exterior shot, 126a Đường Trần Hưng Đạo sign visible",
+      "Barista pulling espresso, close-up pour",
+      "Coffee cup lands on table, steam rising",
+      "Wide café interior, real customers seated",
+      "Phone screen shows 4.7 rating, 362 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

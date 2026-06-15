@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Their loss. Saigonese Eatery is pulling 4.6 stars across 2,102 reviews and the crowds are not the resort crowd. Asian fusion done right, $15-30 a head, no nonsense. Find it at 129 Đường Trần Hưng Đạo and go before the algorithm catches up. Save this for your Phu Quoc trip.",
+    "video_caption": "Camera pans the menu at Saigonese Eatery. 4.6 stars. Over 2,000 people rated it. Plates landing on the table one after another. This is the $15-30 dinner your resort concierge forgot to mention.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Saigonese Eatery. 4.6 stars, 2,102 reviews, $15-30 a head. Go find it. Save this for your Phu Quoc trip.",
+    "video_caption": "4.6 stars. 2,102 reviews. Saigonese Eatery keeps flying under the radar on Đường Trần Hưng Đạo. Don't walk past it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #AsianFusion"
+  },
+  "tiktok": {
+    "caption": "The restaurant locals keep to themselves on Đường Trần Hưng Đạo. 4.6★ 2,102 reviews. $15-30. #PhuQuoc #PhuQuocFood #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Street-level shot: 129 Đường Trần Hưng Đạo sign",
+      "Tourists walking past the entrance",
+      "Inside: packed tables, full house",
+      "Close-up: fusion dishes landing on table",
+      "Phone screen showing 4.6 stars, 2,102 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

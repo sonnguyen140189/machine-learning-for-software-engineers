@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 579 reviews. On a Vietnamese island famous for seafood.\n\nBombay Indian Restaurant Phu Quoc is doing something right. Locals, expats, and tourists keep coming back, and the ratings don't lie. Rich curries, fresh naan, and portions that actually fill you up, all at 07 Lê Lợi, Khu 1.\n\nIf you're craving something bold between beach days, this is your spot.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the naan land on the table at Bombay Indian Restaurant Phu Quoc. 579 people gave this place 4.8 stars on a seafood island. Plates piled high, sauces dark and rich. Your next dinner sorted.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #IndianFoodVietnam #VisitVietnam #TravelTips #PhuQuocTips #VietnamEats"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 579 reviews. On a seafood island. Bombay Indian Restaurant Phu Quoc earned every one.\n\nTag your travel buddy.",
+    "video_caption": "Curry this good on a beach island? 579 reviews at 4.8 stars. Bombay Indian Restaurant Phu Quoc delivers.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #IndianFoodVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.8 stars on a seafood island. Bombay Indian Restaurant Phu Quoc is built different. #PhuQuoc #PhuQuocFood #VietnamTravel #IndianFood"
+  },
+  "video_script": {
+    "hook": "4.8★. 579 reviews. Phu Quoc.",
+    "scenes": [
+      "Exterior sign, 07 Lê Lợi, daytime",
+      "Naan dropped onto a packed table",
+      "Close-up: curry poured into bowl",
+      "Reviewer rating scrolling on screen",
+      "Full table, happy diners eating"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 292 reviews. And L Coffee in Cửa Lấp still flies under the radar.\n\nThis is the kind of coffee shop that earns repeat visits, not just tourist clicks. Local crowd, real ratings, and a vibe that doesn't perform for the camera.\n\nIf your Phu Quoc itinerary needs a coffee stop worth trusting, this is it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "292 people rated L Coffee 4.8 stars. Watch what they kept coming back for. Cửa Lấp, Phú Quốc. Real reviews, real coffee.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeeVietnam #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 292 reviews. L Coffee in Cửa Lấp earns every one.\n\nTag your travel buddy.",
+    "video_caption": "292 ratings. 4.8 stars. L Coffee, Cửa Lấp. Your Phu Quoc coffee stop is sorted.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #CoffeeVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuoc #CafeHopping"
+  },
+  "tiktok": {
+    "caption": "4.8 stars in Cửa Lấp. 292 reviews don't lie. L Coffee is your call. #PhuQuoc #PhuQuocCafe #VietnamTravel #CoffeeVietnam"
+  },
+  "video_script": {
+    "hook": "4.8★, 292 reviews.",
+    "scenes": [
+      "Exterior shot of L Coffee sign, Cửa Lấp street",
+      "Close-up: steaming Vietnamese coffee poured",
+      "Pan across local crowd seated inside",
+      "Slow zoom on 4.8 rating on screen",
+      "Final frame: address text on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
