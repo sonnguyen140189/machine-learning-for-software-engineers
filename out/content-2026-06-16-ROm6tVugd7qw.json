@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 545 reviews. At a café inside Chợ đêm Phú Quốc.\n\nAnn Cafe & Brunch Phu Quoc sits right on 7 Đường Lê Thị Hồng Gấm, inside the night market chaos, and somehow pulls near-perfect ratings. That does not happen by accident.\n\nCoffee, brunch, good vibes. While everyone else is rushing the seafood stalls, you're sitting down. Smart move.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Night market energy outside. Calm cup of coffee inside. Ann Cafe & Brunch Phu Quoc earns that 4.8 the hard way. Right in the middle of Chợ đêm Phú Quốc and still rated this high. Go find out why.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocNightMarket #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars inside Chợ đêm Phú Quốc. 545 reviews say don't walk past.\n\nAnn Cafe & Brunch Phu Quoc. Save it.",
+    "video_caption": "545 people rated this café 4.8. It's inside a night market. Order something. Sit down. You'll get it.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocNightMarket #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VietnamCafe"
+  },
+  "tiktok": {
+    "caption": "4.8 stars inside a night market? Ann Cafe & Brunch Phu Quoc earns it. #PhuQuoc #PhuQuocFood #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8★. Inside a night market.",
+    "scenes": [
+      "Pan across Chợ đêm Phú Quốc crowds at night",
+      "Push through market stalls toward café sign",
+      "Close-up: coffee cup landing on table",
+      "Cut to phone screen showing 545 reviews, 4.8 stars",
+      "Wide shot: guest relaxing while market buzzes outside"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

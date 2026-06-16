@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 153 reviews. Down a lane off Trần Hưng Đạo that most tourists never turn into.\n\nMộc Spa- Massage, Nail Phú Quốc is doing something right. That rating is almost impossible to maintain at scale, and it holds.\n\nBook before your beach day or after. Either way, your body will thank you.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "153 people rated this spa 4.9 stars. Watch what happens when you actually walk in. Mộc Spa- Massage, Nail Phú Quốc, tucked off Trần Hưng Đạo. Go find it.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.9★ across 153 reviews. In a lane off Trần Hưng Đạo most tourists walk straight past.\n\nMộc Spa- Massage, Nail Phú Quốc. Go.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "153 reviews. 4.9 stars. This spa off Trần Hưng Đạo earns every single one. Tag your travel buddy.",
+    "hashtags": "#PhuQuocSpa #MassagePhuQuoc #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+  },
+  "tiktok": {
+    "caption": "4.9★ from 153 reviews. Down a lane off Trần Hưng Đạo. Mộc Spa Phú Quốc is legit. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9★ · 153 reviews · Phu Quoc",
+    "scenes": [
+      "Zoom in on lane entrance off Trần Hưng Đạo",
+      "Door opens, spa interior revealed",
+      "Hands shown kneading shoulders, close up",
+      "Cut to nail station, clean and calm",
+      "Google rating card: 4.9★ 153 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

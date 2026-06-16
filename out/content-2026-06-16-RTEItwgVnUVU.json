@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 391 reviews. On the main strip of Trần Hưng Đạo.\n\nPATTHU SPA PHÚ QUỐC is not hiding. It's just that most tourists walk past it chasing the beach.\n\nFull body massage, foot massage, shampoo treatments. Staff rated consistently for pressure, timing, and not upselling you every five minutes.\n\n391 people left reviews. Almost all of them said they came back.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the full foot massage sequence at PATTHU SPA PHÚ QUỐC. 4.9 stars from 391 guests. Trần Hưng Đạo strip, dead easy to find. This is what day-two legs feel like after.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #RelaxVietnam"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 391 reviews. Main road. No excuses.\n\nPATTHU SPA PHÚ QUỐC, 114 Đường Trần Hưng Đạo. Book it.\n\nTag your travel buddy.",
+    "video_caption": "391 people rated this 4.9 stars. PATTHU SPA PHÚ QUỐC delivers. See why.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaTreatment #VisitVietnam #MassageTherapy"
+  },
+  "tiktok": {
+    "caption": "4.9 stars from 391 guests. PATTHU SPA PHÚ QUỐC on Trần Hưng Đạo. Book it. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "4.9★ from 391 guests.",
+    "scenes": [
+      "Exterior shot: 114 Đường Trần Hưng Đạo sign",
+      "Therapist sets up foot basin, steaming water",
+      "Close-up: hands working deep on foot arch",
+      "Cut to shampoo treatment, slow rinse overhead",
+      "Full-body massage table, calm lighting",
+      "Review overlay: 391 ratings, 4.9 stars"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

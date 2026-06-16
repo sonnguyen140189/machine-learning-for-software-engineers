@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 4,860 reviews. And somehow Ong Lang beach still flies under the radar.\n\nMövenpick Resort Waverly Phú Quốc sits right on one of the quietest stretches of coastline on the island. Two restaurants, a full spa, and a pool that actually gets sun all afternoon.\n\nSkip the crowded south. This is where the better version of Phu Quoc lives.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Ong Lang beach at sunrise, resort completely to yourself. This is Mövenpick Resort Waverly Phú Quốc, 4.7 stars across 4,860 reviews, and most tourists drive straight past it heading south. Big mistake.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #OngLangBeach #VisitVietnam #TravelTips #LuxuryTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4,860 reviews. 4.7 stars. Ong Lang beach almost empty.\n\nMövenpick Resort Waverly Phú Quốc. Save this for your trip.",
+    "video_caption": "Spa, pool, two restaurants, and a beach most tourists skip. Mövenpick Resort Waverly Phú Quốc delivers.",
+    "hashtags": "#PhuQuocResort #OngLangBeach #PhuQuocTips #PhuQuocHotel #VietnamTravel #TravelTips #TravelReels #LuxuryResort"
+  },
+  "tiktok": {
+    "caption": "4,860 reviews and Ong Lang beach still empty. Mövenpick Resort Waverly Phú Quốc, noted. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4,860 reviews. Still quiet.",
+    "scenes": [
+      "Drone pulls back from empty Ong Lang beach at dawn",
+      "Resort pool fills frame, zero people in it",
+      "Spa corridor, warm light, stone walls",
+      "Plates land at resort restaurant, close-up",
+      "Guest walks shoreline, no one else visible"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
