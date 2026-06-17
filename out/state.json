@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJO-aIpaKNpzERkCLeSERC9yE",
+    "ChIJHaad39SNpzERxyH_xEG63Kg",
+    "ChIJQz9pjguLpzERt20ZmhsgK9Y",
+    "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
+    "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
+    "ChIJoXjKmgSNpzERianh5FZP7WE",
+    "ChIJB4_swjiNpzER0vsGaMBGTxg",
+    "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
+    "ChIJUVkYvMWNpzER68bYoIeQoq0",
+    "ChIJh4tQxoeMpzERnVXCmClthfI",
+    "ChIJ17LlPYaNpzERY0rp_hDIF7E",
+    "ChIJCwiEQQSNpzER_YXtjinHkS0",
     "ChIJSTGCnBuLpzERx2KCLdVFKIk",
     "ChIJ4YZT316MpzERCRfSDHQgbtk",
     "ChIJbWwp_zj1pzERg-_J_57c0UA",
@@ -187,21 +199,189 @@
     "ChIJYREw3iyNpzER4MEeLlm9Ju4",
     "ChIJG95PVOeNpzERkFIrScFenIo",
     "ChIJlVd-PKCNpzER4kuW6-aFtAc",
-    "ChIJ5eqLUm2NpzERURd3wi62JoM",
-    "ChIJMSfrfEqNpzER9_6_sLzv_nk",
-    "ChIJOS1SBvaNpzER_8gRpU5tGKI",
-    "ChIJj3KLVmuNpzERRcxS6PIioiI",
-    "ChIJh-NscYeMpzER9zBF1Ddrbo0",
-    "ChIJ44_c7DiLpzERBpIsx0wB0T4",
-    "ChIJ2_A_qiGNpzERECnKPGDMbqc",
-    "ChIJY6klvwiLpzERbXSkUvWfTOs",
-    "ChIJ2fu7BmGNpzERyc_w8wahNio",
-    "ChIJLa_VvluMpzERVdeTFM021V4",
-    "ChIJyQi3u2GMpzERVXgllKB2V_A",
-    "ChIJEYK7sD6LpzERgAa_oy1mPEg",
-    "ChIJgw37s0-XpzERx2gWzxP5Qfg"
+    "ChIJ5eqLUm2NpzERURd3wi62JoM"
   ],
   "history": [
+    {
+      "date": "2026-06-17",
+      "placeId": "ChIJO-aIpaKNpzERkCLeSERC9yE",
+      "placeName": "Vietnam Active - PADI 5 Star Diving Center Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1772614154107019"
+        },
+        "instagramReel": {
+          "id": "18186266023383987"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "placeId": "ChIJHaad39SNpzERxyH_xEG63Kg",
+      "placeName": "Pacific Boat",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122109365043313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18046704470581926"
+        }
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "placeId": "ChIJQz9pjguLpzERt20ZmhsgK9Y",
+      "placeName": "Flipper diving club",
+      "results": {
+        "facebookVideo": {
+          "id": "976630068606805"
+        },
+        "instagramReel": {
+          "id": "17969227935089907"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "placeId": "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
+      "placeName": "Phil Hai Diving Club",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122109364083313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17943729657037580"
+        }
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "placeId": "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
+      "placeName": "Phu Quoc Local Guide - Snorkeling and Scuba Diving",
+      "results": {
+        "facebookVideo": {
+          "id": "27634637026222020"
+        },
+        "instagramReel": {
+          "id": "18177085855370352"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "placeId": "ChIJoXjKmgSNpzERianh5FZP7WE",
+      "placeName": "Kimie's Tours - Snorkeling, diving, & hiking",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122109363177313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18090297509202623"
+        }
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "placeId": "ChIJB4_swjiNpzER0vsGaMBGTxg",
+      "placeName": "Onbird Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "994718563534554"
+        },
+        "instagramReel": {
+          "id": "18071308553495444"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "placeId": "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
+      "placeName": "Into The Blue - Phu Quoc Snorkeling Boat Trip",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122109362505313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18127153852714210"
+        }
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "placeId": "ChIJUVkYvMWNpzER68bYoIeQoq0",
+      "placeName": "Vựa hải sản nhà Su & Bee",
+      "results": {
+        "facebookVideo": {
+          "id": "1729819541538455"
+        },
+        "instagramReel": {
+          "id": "18066403973438482"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "placeId": "ChIJh4tQxoeMpzERnVXCmClthfI",
+      "placeName": "Huong Bien Restaurant - Vietnamese Cuisine & Seafood",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122109361599313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18102498145843749"
+        }
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "placeId": "ChIJ17LlPYaNpzERY0rp_hDIF7E",
+      "placeName": "MYLA SEAFOOD",
+      "results": {
+        "facebookVideo": {
+          "id": "1845177703134267"
+        },
+        "instagramReel": {
+          "id": "18096609851238253"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "placeId": "ChIJCwiEQQSNpzER_YXtjinHkS0",
+      "placeName": "SELINA SPA Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122109360753313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18058587521741051"
+        }
+      }
+    },
     {
       "date": "2026-06-16",
       "placeId": "ChIJSTGCnBuLpzERx2KCLdVFKIk",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18414838015179699"
-        }
-      }
-    },
-    {
-      "date": "2026-06-01",
-      "placeId": "ChIJMSfrfEqNpzER9_6_sLzv_nk",
-      "placeName": "Maharaja Lounge - Authentic Indian 100% Veg Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1350846660280300"
-        },
-        "instagramReel": {
-          "id": "18104720707811376"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-01",
-      "placeId": "ChIJOS1SBvaNpzER_8gRpU5tGKI",
-      "placeName": "Nora’s Cafe - Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122105992047313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17975300976028758"
-        }
-      }
-    },
-    {
-      "date": "2026-06-01",
-      "placeId": "ChIJj3KLVmuNpzERRcxS6PIioiI",
-      "placeName": "RASOI INDIAN PURE VEGETARIAN RESTAURANT",
-      "results": {
-        "facebookVideo": {
-          "id": "1727693781983320"
-        },
-        "instagramReel": {
-          "id": "18169981549424535"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-01",
-      "placeId": "ChIJh-NscYeMpzER9zBF1Ddrbo0",
-      "placeName": "Khánh Ly Vegetarian Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122105990835313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18099884189117204"
-        }
-      }
-    },
-    {
-      "date": "2026-05-31",
-      "placeId": "ChIJ44_c7DiLpzERBpIsx0wB0T4",
-      "placeName": "Flavor of life Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "976945965081520"
-        },
-        "instagramReel": {
-          "id": "18119255068742862"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-05-31",
-      "placeId": "ChIJ2_A_qiGNpzERECnKPGDMbqc",
-      "placeName": "Nhà Hàng Chay NẤM (Vegan Restaurant)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122105867871313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18115894090863232"
-        }
-      }
-    },
-    {
-      "date": "2026-05-31",
-      "placeId": "ChIJY6klvwiLpzERbXSkUvWfTOs",
-      "placeName": "Bếp Chay Nhà An | VEGETARIAN BISTRO",
-      "results": {
-        "facebookVideo": {
-          "id": "27098525906443437"
-        },
-        "instagramReel": {
-          "id": "17892213879490859"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-05-31",
-      "placeId": "ChIJ2fu7BmGNpzERyc_w8wahNio",
-      "placeName": "GRACE'S TOUR PHÚ QUỐC- SIM CARD- MONEY EXCHANGE- ENGLISH SPEAKER- DIVING",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122105866875313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18111588280705822"
-        }
-      }
-    },
-    {
-      "date": "2026-05-31",
-      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
-      "placeName": "Jerry's Jungle Tours",
-      "results": {
-        "facebookVideo": {
-          "id": "1029241599782444"
-        },
-        "instagramReel": {
-          "id": "18154039033466601"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-05-31",
-      "placeId": "ChIJyQi3u2GMpzERVXgllKB2V_A",
-      "placeName": "RED RIVER TOURS",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122105865621313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18103531136078506"
-        }
-      }
-    },
-    {
-      "date": "2026-05-31",
-      "placeId": "ChIJEYK7sD6LpzERgAa_oy1mPEg",
-      "placeName": "Basket Boat Tour & Kayak Tour (Dynasty Phu Quoc)",
-      "results": {
-        "facebookVideo": {
-          "id": "1298656575776657"
-        },
-        "instagramReel": {
-          "id": "18105861469946088"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-05-31",
-      "placeId": "ChIJgw37s0-XpzERx2gWzxP5Qfg",
-      "placeName": "VEGAYACHTS - Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122105864481313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17865576192568139"
         }
       }
     }
