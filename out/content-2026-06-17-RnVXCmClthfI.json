@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "766 reviews. 4.7 stars. And most tourists walk right past it.\n\nHuong Bien Restaurant on 1 Võ Thị Sáu serves Vietnamese seafood the way locals actually eat it. No flashy beachfront markup. Just solid food, real portions, and a crowd that keeps coming back.\n\nIf your Phu Quoc itinerary is heavy on resort restaurants, this is the correction.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the seafood land on this table at Huong Bien Restaurant. 766 people rated it 4.7 stars. The line outside at dinner tells you the rest.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "766 reviews. 4.7 stars. Still off most tourist lists.\n\nHuong Bien Restaurant, 1 Võ Thị Sáu. Real Vietnamese seafood, no resort prices.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.7 stars, 766 reviews. Huong Bien Restaurant is the seafood spot Phu Quoc locals actually fill up every night.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "766 reviews, 4.7 stars, still no tourist trap energy. Huong Bien Restaurant hits different. #PhuQuoc #PhuQuocFood #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "766 reviews. 4.7 stars.",
+    "scenes": [
+      "Exterior shot: 1 Võ Thị Sáu sign",
+      "Pan packed local dining room",
+      "Seafood dish lands on table",
+      "Close up: fresh prawns, steam rising",
+      "Crowd shot: full tables, no tourists"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

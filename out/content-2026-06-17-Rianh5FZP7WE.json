@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "261 reviews. Every single one a 5-star. That's not luck, that's Kimie's Tours. Snorkeling, diving, and hiking all run out of a small alley off Đường Trần Hưng Đạo. No big resort logo. No tourist-trap markup. Just guides who actually know Phu Quoc's reefs and trails. Book before it fills up. Save this for your Phu Quoc trip.",
+    "video_caption": "Mask on, fins buckled, reef below you. Kimie's Tours is the 5.0-star operation hiding in Alley 91 off Đường Trần Hưng Đạo. 261 reviewers all said the same thing. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #PhuQuocSnorkeling #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "261 reviews. 5.0 stars. Zero exceptions. Kimie's Tours, Alley 91 Đường Trần Hưng Đạo. Snorkeling, diving, hiking. Tag your travel buddy.",
+    "video_caption": "Reefs, trails, 5.0 stars. Kimie's Tours doesn't advertise. The 261 reviews do it for them.",
+    "hashtags": "#PhuQuocDiving #PhuQuocSnorkeling #PhuQuocTips #PhuQuocTours #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "261 reviews. Every one a 5-star. Kimie's Tours is the real one. #PhuQuoc #PhuQuocDiving #PhuQuocTours #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "261 reviews. All 5 stars.",
+    "scenes": [
+      "Zoom in: 5.0 star rating on screen",
+      "Narrow alley, small sign, real vibe",
+      "Diver drops below crystal water",
+      "Snorkeler reaches toward coral reef",
+      "Hiker crests a jungle ridge",
+      "Review quotes flash one by one"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
