@@ -2,87 +2,86 @@
   "stamp": "2026-06-18",
   "items": [
     {
-      "placeId": "ChIJNctD3zAfCDERxIbcyPQYj68",
-      "placeName": "Vinpearl Phú Quốc",
+      "placeId": "ChIJy3uLSwCNpzERFT5PFepWMbQ",
+      "placeName": "Queen spa",
       "mode": "photo",
       "photoPaths": [
-        "out/media/2026-06-18-RxIbcyPQYj68-0.jpg",
-        "out/media/2026-06-18-RxIbcyPQYj68-1.jpg",
-        "out/media/2026-06-18-RxIbcyPQYj68-2.jpg",
-        "out/media/2026-06-18-RxIbcyPQYj68-3.jpg",
-        "out/media/2026-06-18-RxIbcyPQYj68-4.jpg",
-        "out/media/2026-06-18-RxIbcyPQYj68-5.jpg",
-        "out/media/2026-06-18-RxIbcyPQYj68-6.jpg",
-        "out/media/2026-06-18-RxIbcyPQYj68-7.jpg"
+        "out/media/2026-06-18-RFT5PFepWMbQ-0.jpg",
+        "out/media/2026-06-18-RFT5PFepWMbQ-1.jpg",
+        "out/media/2026-06-18-RFT5PFepWMbQ-2.jpg",
+        "out/media/2026-06-18-RFT5PFepWMbQ-3.jpg",
+        "out/media/2026-06-18-RFT5PFepWMbQ-4.jpg",
+        "out/media/2026-06-18-RFT5PFepWMbQ-5.jpg",
+        "out/media/2026-06-18-RFT5PFepWMbQ-6.jpg",
+        "out/media/2026-06-18-RFT5PFepWMbQ-7.jpg"
       ],
       "videoPath": null,
       "content": {
-        "hookArchetype": "NUMBER_REVEAL",
+        "hookArchetype": "EMOTIONAL_HIT",
         "facebook": {
-          "caption": "4.7 stars. 265 reviews. Sitting right on Bãi Dài, one of Phu Quoc's longest stretches of sand. Vinpearl Phú Quốc keeps showing up in every top-resort list for a reason. Private beach access, pools, full resort facilities, all on the quieter north end of the island. If you're planning a Phu Quoc stay and want the full resort experience, this one delivers. Save this for your Phu Quoc trip.",
-          "video_caption": "Walking into Vinpearl Phú Quốc on Bãi Dài. 4.7 stars, 265 reviews, private beach right outside. The north end of the island hits different. Full resort energy without the chaos.",
-          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+          "caption": "This place fixes burnout faster than a week on the beach. Queen Spa on Đường Trần Hưng Đạo is where Phu Quoc travelers actually decompress. 4.6 stars across 515 reviews. That's not luck, that's consistency. Book a slot, switch your phone off, and let it do the work. Save this for your Phu Quoc trip.",
+          "video_caption": "Hands working out every knot from your shoulders. That's the first 10 seconds inside Queen Spa. 4.6 stars, 515 reviews, and a address on Đường Trần Hưng Đạo worth saving right now.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
         },
         "instagram": {
-          "caption": "4.7 stars. 265 reviews. Vinpearl Phú Quốc on Bãi Dài is the benchmark. Private beach, full resort. Save this.",
-          "video_caption": "Bãi Dài resort life at Vinpearl Phú Quốc. 4.7 stars. The north end of Phu Quoc is built different.",
-          "hashtags": "#PhuQuocResort #PhuQuocHotel #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+          "caption": "This place fixes burnout. Queen Spa, 4.6★ across 515 reviews. Đường Trần Hưng Đạo, Phu Quoc. Save this.",
+          "video_caption": "Shoulders unknotting in real time. Queen Spa delivers. 4.6★, 515 reviews. Don't skip it.",
+          "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
         },
         "tiktok": {
-          "caption": "4.7 stars on Bãi Dài. Vinpearl Phú Quốc lives up to the rating. #PhuQuoc #PhuQuocResort #VietnamTravel"
+          "caption": "Phu Quoc spa that actually earns its 4.6★. Queen Spa, Đường Trần Hưng Đạo. Book it. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
         },
         "video_script": {
-          "hook": "4.7★ · 265 reviews · Bãi Dài",
+          "hook": "This place fixes burnout.",
           "scenes": [
-            "Aerial pull back from resort rooftop",
-            "Walk through lobby toward beach exit",
-            "Feet hit sand at Bãi Dài shoreline",
-            "Pool deck with ocean in background",
-            "Sun dropping over north Phu Quoc coast"
+            "Exterior shot, Đường Trần Hưng Đạo sign visible",
+            "Therapist hands pressing into shoulders",
+            "Close-up, steaming hot towel laid out",
+            "Guest face, eyes closed, visibly relaxed",
+            "Phone screen showing 4.6★, 515 reviews"
           ],
           "cta": "Save this for your Phu Quoc trip."
         }
       }
     },
     {
-      "placeId": "ChIJZ9RuXLwfCDEREl1ID-Nkj30",
-      "placeName": "Crowne Plaza Phu Quoc Starbay by IHG",
+      "placeId": "ChIJ6QcMHKeLpzER0GLtQa-Fo5s",
+      "placeName": "BONY- Vip Massage",
       "mode": "video",
       "photoPaths": [
-        "out/media/2026-06-18-REl1ID-Nkj30-0.jpg",
-        "out/media/2026-06-18-REl1ID-Nkj30-1.jpg",
-        "out/media/2026-06-18-REl1ID-Nkj30-2.jpg",
-        "out/media/2026-06-18-REl1ID-Nkj30-3.jpg",
-        "out/media/2026-06-18-REl1ID-Nkj30-4.jpg",
-        "out/media/2026-06-18-REl1ID-Nkj30-5.jpg",
-        "out/media/2026-06-18-REl1ID-Nkj30-6.jpg",
-        "out/media/2026-06-18-REl1ID-Nkj30-7.jpg"
+        "out/media/2026-06-18-R0GLtQa-Fo5s-0.jpg",
+        "out/media/2026-06-18-R0GLtQa-Fo5s-1.jpg",
+        "out/media/2026-06-18-R0GLtQa-Fo5s-2.jpg",
+        "out/media/2026-06-18-R0GLtQa-Fo5s-3.jpg",
+        "out/media/2026-06-18-R0GLtQa-Fo5s-4.jpg",
+        "out/media/2026-06-18-R0GLtQa-Fo5s-5.jpg",
+        "out/media/2026-06-18-R0GLtQa-Fo5s-6.jpg",
+        "out/media/2026-06-18-R0GLtQa-Fo5s-7.jpg"
       ],
-      "videoPath": "out/media/2026-06-18-REl1ID-Nkj30.mp4",
+      "videoPath": "out/media/2026-06-18-R0GLtQa-Fo5s.mp4",
       "content": {
-        "hookArchetype": "NUMBER_REVEAL",
+        "hookArchetype": "LOCALS_DONT_TELL",
         "facebook": {
-          "caption": "4.8 stars. 3,693 reviews. Crowne Plaza Phu Quoc Starbay by IHG keeps delivering.\n\nBeachfront position on Bãi Dài. Two restaurants on-site. A full spa. Outdoor pool with direct ocean access. Rooms that actually look like the photos.\n\nThis is the kind of property where you book two nights and stay four.\n\nSave this for your Phu Quoc trip.",
-          "video_caption": "Watch the sun hit that Bãi Dài waterfront at Crowne Plaza Phu Quoc Starbay by IHG. Pool, spa, two restaurants. 4.8 stars across 3,693 reviews. This one earns it. Tag your travel buddy.",
-          "first_comment": "#PhuQuoc #PhuQuocHotels #BaiDaiBeach #VisitVietnam #TravelTips #PhuQuocResort #IHGHotels"
+          "caption": "Tourists keep walking past this one. BONY- Vip Massage sits off the main drag, no flashy signage, no resort markup. 5.0 stars across 385 reviews. That score doesn't lie. Locals know. Now you do too. Book before your trip, not after two days of sore feet. Save this for your Phu Quoc trip.",
+          "video_caption": "Hands working out every knot from a full day on Phu Quoc beaches. BONY- Vip Massage. 5.0 stars, 385 reviews, zero hype needed. This is the one locals actually go back to.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #PhuQuocTips #VisitVietnam #TravelTips #MassagePhuQuoc #VietnamTravel"
         },
         "instagram": {
-          "caption": "4.8 stars. 3,693 reviews. Crowne Plaza Phu Quoc Starbay delivers.\n\nBeachfront on Bãi Dài, spa, 2 restaurants, pool. Save this.",
-          "video_caption": "Pool. Spa. Bãi Dài beachfront. 3,693 people rated this 4.8 stars. Now you know why.",
-          "hashtags": "#PhuQuocHotels #PhuQuocResort #BaiDaiBeach #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+          "caption": "Locals don't post about this spa. BONY- Vip Massage. 5.0 stars, 385 reviews. Skip the resort spa. Tag your travel buddy.",
+          "video_caption": "5.0 stars. 385 reviews. BONY- Vip Massage is the one Phu Quoc regulars keep to themselves.",
+          "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc #ThingsToDoPhuQuoc"
         },
         "tiktok": {
-          "caption": "3,693 reviews and still 4.8 stars. Crowne Plaza Phu Quoc Starbay on Bãi Dài is built different. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+          "caption": "The spa Phu Quoc locals don't talk about. 5.0 stars, 385 reviews. BONY- Vip Massage. #PhuQuoc #PhuQuocTips #VietnamTravel #SpaDay"
         },
         "video_script": {
-          "hook": "4.8★ across 3,693 reviews.",
+          "hook": "Locals keep this one quiet.",
           "scenes": [
-            "Aerial pan over Bãi Dài beachfront",
-            "Slow push into lobby entrance",
-            "Pool deck with ocean in background",
-            "Spa treatment room reveal",
-            "Restaurant plating, close-up",
-            "Balcony room view, sunset light"
+            "Street-level exterior, no resort signage",
+            "Reviewer rating locked on 5.0 stars",
+            "385 reviews scrolling on screen",
+            "Therapist hands prepping massage table",
+            "Guest exhales, eyes closed, relaxed"
           ],
           "cta": "Save this for your Phu Quoc trip."
         }
