@@ -68,15 +68,15 @@ function interleaveScenes(imagePaths, brollPaths) {
   return out;
 }
 
-// Build the drawtext filter(s) for a single scene. Two patterns:
-//   - Non-hook scenes (sceneIdx > 0): one animated caption that slides up
-//     from y=h-240 → h-340 over the first 0.3s, alpha fades in over the same
-//     window, holds, then fades out over the last 0.2s before crossfade.
-//   - Hook scene (sceneIdx === 0): PREPEND a "stat slam" — same hook text at
-//     huge fontsize (88px) centered on screen for 0-0.5s, with a quick
-//     0.1s in/out. The animated caption is delayed to start at t=0.5 so the
-//     punch hands off cleanly. This is what turns "first frame is a photo
-//     with a caption box" into "first frame is a punch in the face."
+// Build the drawtext filter for a single scene. Two patterns:
+//   - Hook scene (sceneIdx === 0): ONE big centered "slam" of the hook text,
+//     held for the whole scene (fade in 0.3s, hold, fade out 0.2s). Earlier
+//     this rendered the hook BOTH as a big punch AND again as a small caption
+//     underneath — viewers saw the first line twice, which read as a bug.
+//     Now the hook appears exactly once.
+//   - Other scenes (sceneIdx > 0): one animated caption that slides up from
+//     y=h-240 → h-340 over the first 0.3s, alpha fades in, holds, fades out
+//     over the last 0.2s before the crossfade.
 //
 // Comma-escape rules: ffmpeg parses filter chains on `,`. Inside expressions
 // we use `\\,` (which becomes `\,` in the actual ffmpeg arg string, telling
@@ -84,43 +84,38 @@ function interleaveScenes(imagePaths, brollPaths) {
 function buildDrawtextLayers(captionText, sceneIdx, sceneSeconds) {
   const FADE_IN = 0.3;
   const FADE_OUT = 0.2;
-  const PUNCH_END = 0.5;
-  const isHook = sceneIdx === 0;
-  const startT = isHook ? PUNCH_END : 0;
   const fadeOutStart = (sceneSeconds - FADE_OUT).toFixed(2);
-  // localT = scene-local time, reset to 0 when this caption layer activates.
-  // For non-hook scenes that's just t. For hook scene, the caption layer
-  // activates at t=0.5 so we use (t-0.5).
-  const localT = startT === 0 ? "t" : `(t-${startT})`;
+  // Shared alpha curve: fade in over FADE_IN, hold, fade out over FADE_OUT.
+  const alphaExpr =
+    `if(lt(t\\,${FADE_IN})\\, t/${FADE_IN}\\, ` +
+    `if(gt(t\\,${fadeOutStart})\\, max(0\\,(${sceneSeconds}-t)/${FADE_OUT})\\, 1))`;
+
+  if (sceneIdx === 0) {
+    // Hook: one big centered slam, shown once for the full scene.
+    // Wrap at 16 chars/line so fontsize 76 stays inside the 1080px width.
+    const punchWrapped = wrapForOverlay(captionText || "", 16);
+    const punchEsc = escapeDrawText(punchWrapped).replace(/\n/g, "\\n");
+    return (
+      `drawtext=fontfile=assets/fonts/Poppins-Bold.ttf:` +
+      `text='${punchEsc}':fontcolor=white:fontsize=76:` +
+      `line_spacing=14:` +
+      `box=1:boxcolor=0x0288D1@0.9:boxborderw=34:` +
+      `x=(w-text_w)/2:y=(h-text_h)/2:` +
+      `alpha='${alphaExpr}'`
+    );
+  }
 
   const wrapped = wrapForOverlay(captionText || "");
   const captionEsc = escapeDrawText(wrapped).replace(/\n/g, "\\n");
-  const captionLayer =
+  return (
     `drawtext=fontfile=assets/fonts/Poppins-Bold.ttf:` +
     `text='${captionEsc}':fontcolor=white:fontsize=52:` +
     `line_spacing=12:` +
     `box=1:boxcolor=0x0288D1@0.78:boxborderw=28:` +
     `x=(w-text_w)/2:` +
-    `y='if(lt(${localT}\\,${FADE_IN})\\, h-340+100*(${FADE_IN}-${localT})/${FADE_IN}\\, h-340)':` +
-    `alpha='if(lt(${localT}\\,${FADE_IN})\\, ${localT}/${FADE_IN}\\, if(gt(t\\,${fadeOutStart})\\, max(0\\,(${sceneSeconds}-t)/${FADE_OUT})\\, 1))':` +
-    `enable='gte(t\\,${startT})'`;
-
-  if (!isHook) return captionLayer;
-
-  // Hook scene: BIG centered punch with the same caption text.
-  // Wrap shorter (14 chars/line) so fontsize 88 doesn't overflow 1080px wide.
-  const punchWrapped = wrapForOverlay(captionText || "", 14);
-  const punchEsc = escapeDrawText(punchWrapped).replace(/\n/g, "\\n");
-  const punchLayer =
-    `drawtext=fontfile=assets/fonts/Poppins-Bold.ttf:` +
-    `text='${punchEsc}':fontcolor=white:fontsize=88:` +
-    `line_spacing=14:` +
-    `box=1:boxcolor=0x0288D1@0.92:boxborderw=36:` +
-    `x=(w-text_w)/2:y=(h-text_h)/2:` +
-    `enable='lt(t\\,${PUNCH_END})':` +
-    `alpha='if(lt(t\\,0.1)\\, t/0.1\\, if(gt(t\\,0.4)\\, (${PUNCH_END}-t)/0.1\\, 1))'`;
-
-  return `${punchLayer},${captionLayer}`;
+    `y='if(lt(t\\,${FADE_IN})\\, h-340+100*(${FADE_IN}-t)/${FADE_IN}\\, h-340)':` +
+    `alpha='${alphaExpr}'`
+  );
 }
 
 /**
@@ -154,13 +149,18 @@ export async function buildSlideshowVideo(
   // total runtime is shorter than naive N * secondsPerScene.
   const xfadeDuration = 0.5;
   const totalDuration = slides * secondsPerScene - (slides - 1) * xfadeDuration;
-  // Ken Burns config — slow zoom over the scene. Alternating direction
-  // (even = zoom in / push, odd = zoom out / pull) breaks the monotony
-  // of every photo doing the same thing.
+  // Motion config. We no longer zoom/crop the photo itself — cropping a square
+  // or landscape photo into a 9:16 frame and then zooming it cut off most of
+  // the subject, which read as "the picture is being chopped up." Instead each
+  // photo scene is composited: a BLURRED copy of the photo fills the frame as a
+  // backdrop (gentle zoom lives here, where cropping doesn't matter because
+  // it's blurred), and the FULL photo sits sharp and uncropped on top. The
+  // zoom delta below applies only to that blurred backdrop.
   const fps = 30;
   const sceneFrames = Math.round(secondsPerScene * fps);
-  const zoomSpeed = 0.002; // ~0.12 zoom delta over a 2s scene at 30fps
-  const maxZoom = 1.15;
+  const bgZoomSpeed = 0.0016; // ~0.10 zoom delta over a 2s scene on the backdrop
+  const bgMaxZoom = 1.12;
+  const blurSigma = 22; // heavy gaussian so the backdrop reads as ambient color
 
   const inputs = [];
   for (let i = 0; i < slides; i++) {
@@ -198,19 +198,26 @@ export async function buildSlideshowVideo(
           `setsar=1,format=yuv420p[v${i}]`,
       );
     } else {
-      // Ken Burns: alternate zoom direction per scene. `on` is the output
-      // frame index inside zoompan; we compute z from it directly so the
-      // motion is linear and predictable regardless of zoompan's internal
-      // accumulation quirks.
+      // Blurred-background composition. split the single still frame into a
+      // backdrop and a foreground:
+      //   - backdrop: fill 9:16 (crop ok, it's blurred), gentle zoom for life,
+      //     then a heavy gaussian blur so it reads as ambient colour.
+      //   - foreground: scale to FIT inside 9:16 (decrease = never crop), so the
+      //     whole photo is always visible. overlay centers it.
+      // overlay's default eof_action=repeat holds the single foreground frame
+      // across all backdrop frames, so the result runs the full scene length.
       const zoomIn = i % 2 === 0;
       const zExpr = zoomIn
-        ? `min(1.0+on*${zoomSpeed}\\,${maxZoom})`
-        : `max(${maxZoom}-on*${zoomSpeed}\\,1.0)`;
+        ? `min(1.0+on*${bgZoomSpeed}\\,${bgMaxZoom})`
+        : `max(${bgMaxZoom}-on*${bgZoomSpeed}\\,1.0)`;
       filterParts.push(
-        `[${i}:v]scale=2160:3840:force_original_aspect_ratio=increase,` +
-          `crop=2160:3840,` +
+        `[${i}:v]split=2[bg${i}][fg${i}];` +
+          `[bg${i}]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,` +
           `zoompan=z='${zExpr}':d=${sceneFrames}:s=1080x1920:` +
           `x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':fps=${fps},` +
+          `gblur=sigma=${blurSigma}[bgb${i}];` +
+          `[fg${i}]scale=1080:1920:force_original_aspect_ratio=decrease,setsar=1[fgf${i}];` +
+          `[bgb${i}][fgf${i}]overlay=(W-w)/2:(H-h)/2,` +
           `${drawtextLayers},` +
           `setsar=1,format=yuv420p[v${i}]`,
       );
