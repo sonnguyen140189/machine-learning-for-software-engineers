@@ -1,8 +1,20 @@
 import { spawn } from "node:child_process";
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, writeFile, unlink } from "node:fs/promises";
 import { join } from "node:path";
 
 const OUT_DIR = "out/media";
+
+// On-screen text is drawn via drawtext `textfile=` (not inline `text=`), so the
+// file content is rendered literally — no escaping of commas, colons, quotes,
+// or newlines needed. The only thing we must fix is glyphs the bundled font
+// can't draw: Poppins-Bold has no ★ (U+2605), which otherwise renders as a
+// tofu box. Replace "4.8★" → "4.8 stars" and collapse any doubled spaces.
+function sanitizeOverlayText(text) {
+  return String(text || "")
+    .replace(/\s*★/g, " stars")
+    .replace(/[ \t]{2,}/g, " ")
+    .trimEnd();
+}
 
 function run(cmd, args) {
   return new Promise((resolve, reject) => {
@@ -15,14 +27,6 @@ function run(cmd, args) {
       else reject(new Error(`${cmd} exited ${code}\n${stderr}`));
     });
   });
-}
-
-function escapeDrawText(text) {
-  return text
-    .replace(/\\/g, "\\\\")
-    .replace(/:/g, "\\:")
-    .replace(/'/g, "’")
-    .replace(/%/g, "\\%");
 }
 
 // Greedy word-wrap so on-screen captions never overflow the 1080px frame.
@@ -68,7 +72,9 @@ function interleaveScenes(imagePaths, brollPaths) {
   return out;
 }
 
-// Build the drawtext filter for a single scene. Two patterns:
+// Build the drawtext filter for a single scene. The caption text lives in a
+// file referenced by `textfile=` (written by the caller) so it renders
+// literally — no escaping of commas, quotes, or newlines. Two patterns:
 //   - Hook scene (sceneIdx === 0): ONE big centered "slam" of the hook text,
 //     held for the whole scene (fade in 0.3s, hold, fade out 0.2s). Earlier
 //     this rendered the hook BOTH as a big punch AND again as a small caption
@@ -77,27 +83,24 @@ function interleaveScenes(imagePaths, brollPaths) {
 //   - Other scenes (sceneIdx > 0): one animated caption that slides up from
 //     y=h-240 → h-340 over the first 0.3s, alpha fades in, holds, fades out
 //     over the last 0.2s before the crossfade.
-//
-// Comma-escape rules: ffmpeg parses filter chains on `,`. Inside expressions
-// we use `\\,` (which becomes `\,` in the actual ffmpeg arg string, telling
-// the expression parser "this is a literal comma, not a filter separator").
-function buildDrawtextLayers(captionText, sceneIdx, sceneSeconds) {
+function buildDrawtextLayers(textfilePath, sceneIdx, sceneSeconds) {
   const FADE_IN = 0.3;
   const FADE_OUT = 0.2;
   const fadeOutStart = (sceneSeconds - FADE_OUT).toFixed(2);
   // Shared alpha curve: fade in over FADE_IN, hold, fade out over FADE_OUT.
+  // `\\,` escapes the commas for the expression parser (becomes `\,` at run).
   const alphaExpr =
     `if(lt(t\\,${FADE_IN})\\, t/${FADE_IN}\\, ` +
     `if(gt(t\\,${fadeOutStart})\\, max(0\\,(${sceneSeconds}-t)/${FADE_OUT})\\, 1))`;
+  // textfile path is wrapped in single quotes so `:`/`,` in a path can't be
+  // mistaken for option separators. Our paths are ASCII and contain neither.
+  const tf = `textfile='${textfilePath}'`;
 
   if (sceneIdx === 0) {
     // Hook: one big centered slam, shown once for the full scene.
-    // Wrap at 16 chars/line so fontsize 76 stays inside the 1080px width.
-    const punchWrapped = wrapForOverlay(captionText || "", 16);
-    const punchEsc = escapeDrawText(punchWrapped).replace(/\n/g, "\\n");
     return (
       `drawtext=fontfile=assets/fonts/Poppins-Bold.ttf:` +
-      `text='${punchEsc}':fontcolor=white:fontsize=76:` +
+      `${tf}:fontcolor=white:fontsize=76:` +
       `line_spacing=14:` +
       `box=1:boxcolor=0x0288D1@0.9:boxborderw=34:` +
       `x=(w-text_w)/2:y=(h-text_h)/2:` +
@@ -105,11 +108,9 @@ function buildDrawtextLayers(captionText, sceneIdx, sceneSeconds) {
     );
   }
 
-  const wrapped = wrapForOverlay(captionText || "");
-  const captionEsc = escapeDrawText(wrapped).replace(/\n/g, "\\n");
   return (
     `drawtext=fontfile=assets/fonts/Poppins-Bold.ttf:` +
-    `text='${captionEsc}':fontcolor=white:fontsize=52:` +
+    `${tf}:fontcolor=white:fontsize=52:` +
     `line_spacing=12:` +
     `box=1:boxcolor=0x0288D1@0.78:boxborderw=28:` +
     `x=(w-text_w)/2:` +
@@ -180,12 +181,23 @@ export async function buildSlideshowVideo(
     inputs.push("-stream_loop", "-1", "-i", musicPath);
   }
 
+  // Write each scene's caption to a sidecar .txt file that drawtext reads via
+  // textfile=. Rendered literally — no comma/quote/newline escaping. Hook scene
+  // wraps tighter (16 chars) for its bigger 76px font; others use the 28-char
+  // default. These files are cleaned up after ffmpeg runs.
+  const textfilePaths = [];
+  for (let i = 0; i < slides; i++) {
+    const wrapWidth = i === 0 ? 16 : 28;
+    const overlayText = sanitizeOverlayText(wrapForOverlay(captions[i] || "", wrapWidth));
+    const tfPath = `${outputPath}.s${i}.txt`;
+    await writeFile(tfPath, overlayText, "utf8");
+    textfilePaths.push(tfPath);
+  }
+
   const filterParts = [];
   for (let i = 0; i < slides; i++) {
     const isVideo = mediaList[i].type === "video";
-    // One or two drawtext filters per scene — see buildDrawtextLayers for the
-    // hook-scene "punch + caption handoff" vs the standard animated caption.
-    const drawtextLayers = buildDrawtextLayers(captions[i] || "", i, secondsPerScene);
+    const drawtextLayers = buildDrawtextLayers(textfilePaths[i], i, secondsPerScene);
 
     if (isVideo) {
       // B-roll already has natural motion — skip Ken Burns. Trim to scene
@@ -262,7 +274,12 @@ export async function buildSlideshowVideo(
     outputPath,
   );
 
-  await run("ffmpeg", args);
+  try {
+    await run("ffmpeg", args);
+  } finally {
+    // Remove the per-scene caption sidecar files so they're never committed.
+    await Promise.all(textfilePaths.map((p) => unlink(p).catch(() => {})));
+  }
   return outputPath;
 }
 
