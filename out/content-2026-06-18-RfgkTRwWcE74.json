@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This beach fixes the noise in your head.\n\nBãi biển Lumera Beach sits right on Trần Hưng Đạo, one of Phu Quoc's main strips, but somehow it feels like the rest of the island doesn't exist. Soft sand, calm water, and enough space to actually breathe.\n\nNo agenda. Just show up.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Feet in the sand at Bãi biển Lumera Beach. Water this calm on a main road beach? Didn't expect it either. Phu Quoc keeps surprising.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "This beach fixes the noise in your head.\n\nBãi biển Lumera Beach, right on Trần Hưng Đạo. Calm water. Space to breathe. Tag your travel buddy.",
+    "video_caption": "Walked onto Bãi biển Lumera Beach expecting crowds. Got calm water and soft sand instead.",
+    "hashtags": "#PhuQuocBeach #PhuQuocTips #PhuQuocVietnam #TravelTips #VietnamTravel #TravelReels #BeachVibes"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc beach that actually lets you decompress. Bãi biển Lumera Beach delivered. #PhuQuoc #PhuQuocBeach #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This beach fixes burnout.",
+    "scenes": [
+      "Slow pan down to sand and calm shoreline",
+      "Bare feet stepping into shallow water",
+      "Wide shot of uncrowded beach stretching out",
+      "Close up of gentle waves breaking softly",
+      "Pull back to reveal Lumera Beach sign"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

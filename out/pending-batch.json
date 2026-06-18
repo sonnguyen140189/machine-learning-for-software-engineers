@@ -1,0 +1,525 @@
+{
+  "stamp": "2026-06-18",
+  "items": [
+    {
+      "placeId": "ChIJq-YgJcuNpzER37aiRi5HfVo",
+      "placeName": "Phu Quoc Beach",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-18-R37aiRi5HfVo-0.jpg",
+        "out/media/2026-06-18-R37aiRi5HfVo-1.jpg",
+        "out/media/2026-06-18-R37aiRi5HfVo-2.jpg",
+        "out/media/2026-06-18-R37aiRi5HfVo-3.jpg",
+        "out/media/2026-06-18-R37aiRi5HfVo-4.jpg",
+        "out/media/2026-06-18-R37aiRi5HfVo-5.jpg",
+        "out/media/2026-06-18-R37aiRi5HfVo-6.jpg",
+        "out/media/2026-06-18-R37aiRi5HfVo-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.2 stars. 190 reviews. Right on Đường Trần Hưng Đạo in the heart of Phu Quoc. This beach delivers exactly what you came for. Sand, sea, and no long drive to get there. Drop a pin, show up, and let the water do the rest. Save this for your Phu Quoc trip.",
+          "video_caption": "Feet in the sand at Phu Quoc Beach. 4.2 stars rated by real travelers. Central location on Đường Trần Hưng Đạo means zero excuses to skip it. Watch this before you book your hotel.",
+          "first_comment": "#PhuQuoc #PhuQuocBeach #PhuQuocVietnam #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.2 stars. 190 reviews. Phu Quoc Beach on Đường Trần Hưng Đạo keeps delivering. Tag your travel buddy.",
+          "video_caption": "Walk straight onto Phu Quoc Beach. Central. Rated. Worth every second.",
+          "hashtags": "#PhuQuocBeach #PhuQuocVietnam #PhuQuocTips #VietnamBeach #VietnamTravel #TravelTips #TravelReels #BeachVibes"
+        },
+        "tiktok": {
+          "caption": "4.2 stars, 190 reviews, central Phu Quoc. No detours needed. #PhuQuoc #PhuQuocBeach #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.2★. 190 reviews. See it.",
+          "scenes": [
+            "Aerial pan over beach shoreline",
+            "Feet stepping onto wet sand",
+            "Wide shot of clear water at midday",
+            "Close-up of waves rolling in",
+            "Street sign: Đường Trần Hưng Đạo visible"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJBz09gZgfCDERzAyxFBp-iDM",
+      "placeName": "Bai Dai beach",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-18-RzAyxFBp-iDM-0.jpg",
+        "out/media/2026-06-18-RzAyxFBp-iDM-1.jpg",
+        "out/media/2026-06-18-RzAyxFBp-iDM-2.jpg",
+        "out/media/2026-06-18-RzAyxFBp-iDM-3.jpg",
+        "out/media/2026-06-18-RzAyxFBp-iDM-4.jpg",
+        "out/media/2026-06-18-RzAyxFBp-iDM-5.jpg",
+        "out/media/2026-06-18-RzAyxFBp-iDM-6.jpg",
+        "out/media/2026-06-18-RzAyxFBp-iDM-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-18-RzAyxFBp-iDM.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past Bãi Dài. Fewer crowds. Longer stretch of sand. This is the beach Phu Quoc keeps to itself. No beach clubs fighting for your attention. No hawkers every 10 meters. Just a long, quiet coastline that most visitors never reach. If your Phu Quoc itinerary only has the south beaches, reroute. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch how empty this beach is on a regular afternoon. Bãi Dài runs for kilometers and most tourists genuinely never make it here. This is Phu Quoc before the crowds found it.",
+          "first_comment": "#PhuQuoc #PhuQuocBeaches #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #BeachVietnam"
+        },
+        "instagram": {
+          "caption": "Locals don't post about Bãi Dài. Fewer tourists, longer sand, zero hustle. This beach exists. Go find it. Save this.",
+          "video_caption": "Kilometers of sand. Almost no one on it. Bãi Dài is the Phu Quoc beach you actually want.",
+          "hashtags": "#PhuQuocBeaches #PhuQuocTips #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuoc #BeachVietnam #VietnamBeach"
+        },
+        "tiktok": {
+          "caption": "Phu Quoc beach with almost no tourists. Go before everyone finds out. #PhuQuoc #PhuQuocBeaches #VietnamTravel #BaiDai #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't post this beach.",
+          "scenes": [
+            "Drone pulls back over empty shoreline",
+            "Footprints in wet sand, no crowds visible",
+            "Wide shot: beach stretches to horizon",
+            "Close-up: calm water lapping the shore",
+            "Slow pan left, still no one in frame"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJJdya9E71pzERTu4abOIfjls",
+      "placeName": "Milana Beach Resort & Spa Phú Quốc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-18-RTu4abOIfjls-0.jpg",
+        "out/media/2026-06-18-RTu4abOIfjls-1.jpg",
+        "out/media/2026-06-18-RTu4abOIfjls-2.jpg",
+        "out/media/2026-06-18-RTu4abOIfjls-3.jpg",
+        "out/media/2026-06-18-RTu4abOIfjls-4.jpg",
+        "out/media/2026-06-18-RTu4abOIfjls-5.jpg",
+        "out/media/2026-06-18-RTu4abOIfjls-6.jpg",
+        "out/media/2026-06-18-RTu4abOIfjls-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this one. Milana Beach Resort & Spa Phú Quốc sits off the main strip with rustic bungalows, a private beach area, a pool, and a spa. 813 reviews and still flying under the radar. No lobby chaos. No resort crowds. Just sand, shade, and a pace that actually slows you down. Save this for your Phu Quoc trip.",
+          "video_caption": "Private beach. Rustic bungalow. Zero crowds. Milana Beach Resort & Spa Phú Quốc is what Phu Quoc looked like before the big resorts moved in. 813 reviews back it up.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocBeach #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Tourists keep walking past this resort. Milana Beach Resort & Spa Phú Quốc. Private beach, bungalows, spa. 813 reviews. Still quiet. Tag your travel buddy.",
+          "video_caption": "Rustic bungalow. Private sand. No resort crowds. Milana Beach Resort & Spa Phú Quốc delivers.",
+          "hashtags": "#PhuQuocResort #PhuQuocBeach #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachResort #PhuQuocHotel"
+        },
+        "tiktok": {
+          "caption": "Phu Quoc resort the crowds haven't found yet. Private beach, bungalows, spa. Milana Beach Resort & Spa Phú Quốc. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Tourists keep walking past this.",
+          "scenes": [
+            "Aerial pan over private beach",
+            "Slow push into rustic bungalow doorway",
+            "Feet in sand, zero other guests visible",
+            "Pool reflection, palm overhead",
+            "Spa treatment room, low light",
+            "Rating card: 4.2★ 813 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJGetZgyyNpzERfgkTRwWcE74",
+      "placeName": "Bãi biển Lumera Beach",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-18-RfgkTRwWcE74-0.jpg",
+        "out/media/2026-06-18-RfgkTRwWcE74-1.jpg",
+        "out/media/2026-06-18-RfgkTRwWcE74-2.jpg",
+        "out/media/2026-06-18-RfgkTRwWcE74-3.jpg",
+        "out/media/2026-06-18-RfgkTRwWcE74-4.jpg",
+        "out/media/2026-06-18-RfgkTRwWcE74-5.jpg",
+        "out/media/2026-06-18-RfgkTRwWcE74-6.jpg",
+        "out/media/2026-06-18-RfgkTRwWcE74-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-18-RfgkTRwWcE74.mp4",
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This beach fixes the noise in your head.\n\nBãi biển Lumera Beach sits right on Trần Hưng Đạo, one of Phu Quoc's main strips, but somehow it feels like the rest of the island doesn't exist. Soft sand, calm water, and enough space to actually breathe.\n\nNo agenda. Just show up.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Feet in the sand at Bãi biển Lumera Beach. Water this calm on a main road beach? Didn't expect it either. Phu Quoc keeps surprising.",
+          "first_comment": "#PhuQuoc #PhuQuocBeach #VisitVietnam #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "This beach fixes the noise in your head.\n\nBãi biển Lumera Beach, right on Trần Hưng Đạo. Calm water. Space to breathe. Tag your travel buddy.",
+          "video_caption": "Walked onto Bãi biển Lumera Beach expecting crowds. Got calm water and soft sand instead.",
+          "hashtags": "#PhuQuocBeach #PhuQuocTips #PhuQuocVietnam #TravelTips #VietnamTravel #TravelReels #BeachVibes"
+        },
+        "tiktok": {
+          "caption": "Phu Quoc beach that actually lets you decompress. Bãi biển Lumera Beach delivered. #PhuQuoc #PhuQuocBeach #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "This beach fixes burnout.",
+          "scenes": [
+            "Slow pan down to sand and calm shoreline",
+            "Bare feet stepping into shallow water",
+            "Wide shot of uncrowded beach stretching out",
+            "Close up of gentle waves breaking softly",
+            "Pull back to reveal Lumera Beach sign"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJFywM4byNpzERTsKVgNJw3vc",
+      "placeName": "Free Beach Resort Phu Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-18-RTsKVgNJw3vc-0.jpg",
+        "out/media/2026-06-18-RTsKVgNJw3vc-1.jpg",
+        "out/media/2026-06-18-RTsKVgNJw3vc-2.jpg",
+        "out/media/2026-06-18-RTsKVgNJw3vc-3.jpg",
+        "out/media/2026-06-18-RTsKVgNJw3vc-4.jpg",
+        "out/media/2026-06-18-RTsKVgNJw3vc-5.jpg",
+        "out/media/2026-06-18-RTsKVgNJw3vc-6.jpg",
+        "out/media/2026-06-18-RTsKVgNJw3vc-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this one. Free Beach Resort Phu Quoc sits on Hẻm 126A Đường Trần Hưng Đạo, away from the resort strip. Humble bungalows, a beachside eatery, motorcycle rentals on-site. 4.0★ across 489 reviews. No infinity pool. No lobby chandelier. Just beach access, a cold drink, and a bike to go find the rest of the island yourself. Save this for your Phu Quoc trip.",
+          "video_caption": "Bungalow. Beach. Motorcycle out front. Free Beach Resort Phu Quoc is doing the basics right, and that is exactly why regulars keep coming back. 4.0★, 489 reviews, zero fuss.",
+          "first_comment": "#PhuQuoc #PhuQuocHotels #PhuQuocTravel #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Tourists walk straight past this one. Bungalows, beachside eatery, motorbike rentals. 4.0★ (489 reviews). Tag your travel buddy.",
+          "video_caption": "Beach bungalow. Bike rental on-site. No crowds. Free Beach Resort Phu Quoc, and locals already know.",
+          "hashtags": "#PhuQuocHotels #PhuQuocTravel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachBungalow #VisitVietnam #PhuQuocVietnam"
+        },
+        "tiktok": {
+          "caption": "Tourists keep walking past this Phu Quoc bungalow spot. 4.0★, beachside eats, bike rentals. Low-key wins. #PhuQuoc #PhuQuocHotels #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Tourists keep walking past this.",
+          "scenes": [
+            "Slow pan down quiet lane off main road",
+            "Bungalow exterior, palm shade, open door",
+            "Beachside eatery, plates arriving at table",
+            "Motorcycle lined up at rental rack",
+            "Guest rides off toward beach road",
+            "Wide shot: beach, no crowds, end of day"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJbdRC8WqSpzERtGShQM46Sx8",
+      "placeName": "Thanh Kieu Beach Resort",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-18-RtGShQM46Sx8-0.jpg",
+        "out/media/2026-06-18-RtGShQM46Sx8-1.jpg",
+        "out/media/2026-06-18-RtGShQM46Sx8-2.jpg",
+        "out/media/2026-06-18-RtGShQM46Sx8-3.jpg",
+        "out/media/2026-06-18-RtGShQM46Sx8-4.jpg",
+        "out/media/2026-06-18-RtGShQM46Sx8-5.jpg",
+        "out/media/2026-06-18-RtGShQM46Sx8-6.jpg",
+        "out/media/2026-06-18-RtGShQM46Sx8-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-18-RtGShQM46Sx8.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this one. Thanh Kieu Beach Resort sits on Đường Trần Hưng Đạo and keeps a low profile while the crowds pile into the big-name hotels nearby. 4.4 stars across 903 reviews. That's not luck, that's consistency. Beach access, resort feel, without the resort markup energy. Save this for your Phu Quoc trip.",
+          "video_caption": "Walking into Thanh Kieu Beach Resort while everyone else queues at the tourist traps. 903 reviews say they got it right. Đường Trần Hưng Đạo, Phu Quoc. Go find it.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Locals don't talk about Thanh Kieu Beach Resort. 4.4 stars, 903 reviews, Đường Trần Hưng Đạo. Save this before it blows up.",
+          "video_caption": "903 people rated this place 4.4 stars and the tourist crowds still haven't found it. Phu Quoc, noted.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachResort"
+        },
+        "tiktok": {
+          "caption": "The resort on Đường Trần Hưng Đạo tourists keep skipping. 4.4★ 903 reviews. Their loss. #PhuQuoc #PhuQuocHotel #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't post this resort.",
+          "scenes": [
+            "Approach resort entrance from street",
+            "Pan across beach-facing facade",
+            "Shot of pool or beach access point",
+            "Close-up: 4.4 star rating on screen",
+            "Wide shot: empty loungers, no crowds"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJMTK8cRSLpzER_q7VsEitfig",
+      "placeName": "Phu Quoc Eco Beach Resort",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-18-R_q7VsEitfig-0.jpg",
+        "out/media/2026-06-18-R_q7VsEitfig-1.jpg",
+        "out/media/2026-06-18-R_q7VsEitfig-2.jpg",
+        "out/media/2026-06-18-R_q7VsEitfig-3.jpg",
+        "out/media/2026-06-18-R_q7VsEitfig-4.jpg",
+        "out/media/2026-06-18-R_q7VsEitfig-5.jpg",
+        "out/media/2026-06-18-R_q7VsEitfig-6.jpg",
+        "out/media/2026-06-18-R_q7VsEitfig-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you skip the crowded south and book a room on Ông Lang beach instead. Phu Quoc Eco Beach Resort sits right on the sand, open-air restaurant, outdoor pool, spa, gym. 4.6 stars across 894 reviews. That number holds. Quiet side of the island, beachfront, no chaos. Save this for your Phu Quoc trip.",
+          "video_caption": "Sand literally outside your door. Watch the open-air restaurant come alive at breakfast, pool empty by 7am, Ông Lang beach with almost no one on it. 4.6 stars. 894 reviews. This side of Phu Quoc hits different.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #OngLangBeach #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "POV: you picked the quiet side of Phu Quoc. Phu Quoc Eco Beach Resort, 4.6★, beachfront, pool, spa. Tag your travel buddy.",
+          "video_caption": "Ông Lang beach. Almost empty. Your resort is literally on the sand. This is the move.",
+          "hashtags": "#PhuQuocResort #PhuQuocBeaches #OngLangBeach #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocHotel"
+        },
+        "tiktok": {
+          "caption": "Booked the quiet side of Phu Quoc. Zero regrets. 4.6★ beachfront resort on Ông Lang. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "POV: you skipped the tourist chaos.",
+          "scenes": [
+            "Drone pull-back over Ông Lang beach",
+            "Resort exterior, sand right at the doorstep",
+            "Open-air restaurant filling up at breakfast",
+            "Pool shot, barely anyone in it",
+            "Spa hallway, calm lighting",
+            "Slow pan along empty beachfront at golden hour"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ9T54ktqNpzERu6dsX5pZXx4",
+      "placeName": "Tahiti Hotel",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-18-Ru6dsX5pZXx4-0.jpg",
+        "out/media/2026-06-18-Ru6dsX5pZXx4-1.jpg",
+        "out/media/2026-06-18-Ru6dsX5pZXx4-2.jpg",
+        "out/media/2026-06-18-Ru6dsX5pZXx4-3.jpg",
+        "out/media/2026-06-18-Ru6dsX5pZXx4-4.jpg",
+        "out/media/2026-06-18-Ru6dsX5pZXx4-5.jpg",
+        "out/media/2026-06-18-Ru6dsX5pZXx4-6.jpg",
+        "out/media/2026-06-18-Ru6dsX5pZXx4-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-18-Ru6dsX5pZXx4.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.3 stars. 624 reviews. Beach access and a pool on Trần Hưng Đạo.\n\nTahiti Hotel keeps it simple. No frills lobby, no resort markup. Just clean rooms, outdoor pool, and some units that walk straight to the beach.\n\nFor a Phu Quoc stay that does exactly what it says. 624 people agree.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Pool. Beach access. 624 reviews at 4.3 stars. Tahiti Hotel on Trần Hưng Đạo is giving quiet and practical. Walk-to-beach rooms exist here. Save this.",
+          "first_comment": "#PhuQuoc #PhuQuocHotels #VisitVietnam #TravelTips #PhuQuocTrip"
+        },
+        "instagram": {
+          "caption": "624 reviews. 4.3 stars. Beach access + pool at Tahiti Hotel.\n\nNo resort markup. Just what you need. Tag your travel buddy.",
+          "video_caption": "Pool shot, beach steps away. Tahiti Hotel, Phu Quoc. 624 people rated this 4.3 stars. Enough said.",
+          "hashtags": "#PhuQuocHotels #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachHotel"
+        },
+        "tiktok": {
+          "caption": "624 reviews. 4.3 stars. Beach access on Trần Hưng Đạo. Tahiti Hotel delivers. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "624 reviews. 4.3 stars.",
+          "scenes": [
+            "Pan across outdoor pool at golden hour",
+            "Walk from room door toward beach",
+            "Feet in sand, hotel visible behind",
+            "Slow zoom on 4.3-star rating on screen",
+            "Cut to pool lounger, empty, morning light"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJif-3eKuNpzERQNn7TSJoUsA",
+      "placeName": "Vida Loca Resort & Sunset Beach Phu Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-18-RQNn7TSJoUsA-0.jpg",
+        "out/media/2026-06-18-RQNn7TSJoUsA-1.jpg",
+        "out/media/2026-06-18-RQNn7TSJoUsA-2.jpg",
+        "out/media/2026-06-18-RQNn7TSJoUsA-3.jpg",
+        "out/media/2026-06-18-RQNn7TSJoUsA-4.jpg",
+        "out/media/2026-06-18-RQNn7TSJoUsA-5.jpg",
+        "out/media/2026-06-18-RQNn7TSJoUsA-6.jpg",
+        "out/media/2026-06-18-RQNn7TSJoUsA-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes burnout. Vida Loca Resort & Sunset Beach sits right on the water in Phu Quoc, and the name says it all. Sunsets hit different from that beach. 4.5 stars across 684 reviews, so it's not just us. Whether you're unwinding for a week or sneaking in a long weekend, this is the reset button. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the sky turn orange from Vida Loca Resort & Sunset Beach. Cold drink in hand. Water in front of you. 684 people rated this 4.5 stars. You'll get why in about 30 seconds.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocSunset #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "This place fixes burnout. Vida Loca Resort & Sunset Beach, 4.5★ across 684 reviews. The sunset alone is worth the booking. Tag your travel buddy.",
+          "video_caption": "Sun going down at Vida Loca Resort & Sunset Beach. 684 reviews. 4.5 stars. Watch this and tell me you're not booking.",
+          "hashtags": "#PhuQuocResort #PhuQuocSunset #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocBeaches"
+        },
+        "tiktok": {
+          "caption": "When burnout hits, Phu Quoc fixes it. Vida Loca Resort & Sunset Beach is proof. 4.5★, 684 reviews. #PhuQuoc #PhuQuocSunset #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "This place fixes burnout.",
+          "scenes": [
+            "Wide shot: resort faces the water at golden hour",
+            "Close-up: cold drink sweating on a beach chair",
+            "Slow pan: sun dropping behind the horizon",
+            "Cut to: empty beach, soft waves rolling in",
+            "Text overlay: 4.5★ across 684 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJI8DOC6r1pzER4RZWiBFkfxc",
+      "placeName": "Eco Lagoon",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-18-R4RZWiBFkfxc-0.jpg",
+        "out/media/2026-06-18-R4RZWiBFkfxc-1.jpg",
+        "out/media/2026-06-18-R4RZWiBFkfxc-2.jpg",
+        "out/media/2026-06-18-R4RZWiBFkfxc-3.jpg",
+        "out/media/2026-06-18-R4RZWiBFkfxc-4.jpg",
+        "out/media/2026-06-18-R4RZWiBFkfxc-5.jpg",
+        "out/media/2026-06-18-R4RZWiBFkfxc-6.jpg",
+        "out/media/2026-06-18-R4RZWiBFkfxc-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-18-R4RZWiBFkfxc.mp4",
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes burnout. Eco Lagoon in Phú Quốc sits at 4.9 stars across 177 reviews. That number holds because the setting actually delivers. Water, quiet, and zero resort-crowd energy. If your trip needs a reset moment, this is where you book it. Save this for your Phu Quoc trip.",
+          "video_caption": "4.9 stars. 177 people didn't lie. Watch what Eco Lagoon actually looks like when you arrive. No crowds. Just this.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocTips #VisitVietnam #TravelTips #VietnamTravel #PhuQuocHotel"
+        },
+        "instagram": {
+          "caption": "This place fixes burnout. Eco Lagoon, 4.9★, 177 reviews. Quiet wins every time. Save this for your Phu Quoc trip.",
+          "video_caption": "Arrived stressed. Left reset. Eco Lagoon hits different. 4.9★ for a reason.",
+          "hashtags": "#PhuQuocResort #PhuQuocTips #PhuQuocHotel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "The resort that actually resets you. Eco Lagoon, Phú Quốc. 4.9★ and you'll feel why. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "This place fixes burnout.",
+          "scenes": [
+            "Slow pan across still lagoon water",
+            "Empty sun lounger, soft morning light",
+            "Close-up: 4.9★ review screen",
+            "Guest exhales, sets phone face-down",
+            "Wide shot: resort framed by trees"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ90jXsf2TpzERk1THOzfOnoU",
+      "placeName": "Bãi 3 Cây Dừa (Three Coconus Tree Beach) Longbeach",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-18-Rk1THOzfOnoU-0.jpg",
+        "out/media/2026-06-18-Rk1THOzfOnoU-1.jpg",
+        "out/media/2026-06-18-Rk1THOzfOnoU-2.jpg",
+        "out/media/2026-06-18-Rk1THOzfOnoU-3.jpg",
+        "out/media/2026-06-18-Rk1THOzfOnoU-4.jpg",
+        "out/media/2026-06-18-Rk1THOzfOnoU-5.jpg",
+        "out/media/2026-06-18-Rk1THOzfOnoU-6.jpg",
+        "out/media/2026-06-18-Rk1THOzfOnoU-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This beach fixes burnout. Bãi 3 Cây Dừa sits right on Long Beach and somehow still feels like you have it to yourself. Three coconut palms, soft sand, water that actually looks like the brochure. No beach clubs. No DJ sets. Just the sound of waves doing their job. If your Phu Quoc trip is back-to-back tours and resort pools, block two hours for this. Save this for your Phu Quoc trip.",
+          "video_caption": "Bare feet hit the sand at Bãi 3 Cây Dừa and the noise just stops. Long Beach, Phu Quoc. Quieter than you expect. Way prettier than it looks on the map.",
+          "first_comment": "#PhuQuoc #PhuQuocBeach #LongBeachPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamBeach"
+        },
+        "instagram": {
+          "caption": "This beach fixes burnout. Bãi 3 Cây Dừa, Long Beach. Quieter than it has any right to be. Save this for your trip.",
+          "video_caption": "Three coconut palms. Zero crowds. Bãi 3 Cây Dừa delivering hard on Long Beach.",
+          "hashtags": "#PhuQuocBeach #PhuQuocTips #LongBeachPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VietnamBeach #BeachVibes"
+        },
+        "tiktok": {
+          "caption": "The Long Beach spot that actually quiets your brain. Bãi 3 Cây Dừa, Phu Quoc. Go. #PhuQuoc #PhuQuocBeach #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "This beach fixes burnout.",
+          "scenes": [
+            "Slow pan across three coconut palms",
+            "Bare feet walking onto empty sand",
+            "Turquoise water rolling in close-up",
+            "Wide shot: zero other tourists visible",
+            "Sit down, exhale, camera faces the sea"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJEYK7sD6LpzERgAa_oy1mPEg",
+      "placeName": "Basket Boat Tour & Kayak Tour (Dynasty Phu Quoc)",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-18-RgAa_oy1mPEg-0.jpg",
+        "out/media/2026-06-18-RgAa_oy1mPEg-1.jpg",
+        "out/media/2026-06-18-RgAa_oy1mPEg-2.jpg",
+        "out/media/2026-06-18-RgAa_oy1mPEg-3.jpg",
+        "out/media/2026-06-18-RgAa_oy1mPEg-4.jpg",
+        "out/media/2026-06-18-RgAa_oy1mPEg-5.jpg",
+        "out/media/2026-06-18-RgAa_oy1mPEg-6.jpg",
+        "out/media/2026-06-18-RgAa_oy1mPEg-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-18-RgAa_oy1mPEg.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep scrolling past this one. Basket boat tours in Phu Quoc hit different when there's no crowd. Spin in a traditional Vietnamese coracle, then grab a kayak and go at your own pace. 4.9 stars across 348 reviews and it still flies under the radar. Book it before the algorithm finds it. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch a basket boat spin full 360° and somehow stay perfectly dry. This is what Phu Quoc looks like off the resort strip. Kayak straight after. 4.9 stars. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocActivities #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #TravelTips"
+        },
+        "instagram": {
+          "caption": "Tourists keep walking past this. Basket boat + kayak in Phu Quoc. 4.9 stars, 348 reviews. Save this for your trip.",
+          "video_caption": "Spinning a basket boat and nobody else is here. Phu Quoc activities that locals actually do.",
+          "hashtags": "#PhuQuocActivities #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #BasketBoat"
+        },
+        "tiktok": {
+          "caption": "No crowds. No resort price tag. Just a spinning basket boat + kayak in Phu Quoc. 4.9 stars. #PhuQuoc #PhuQuocActivities #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Tourists keep walking past this.",
+          "scenes": [
+            "Close-up: basket boat wobbles on water",
+            "Wide: guide spins boat full circle",
+            "Reaction shot: tourist laughing, arms out",
+            "Cut: kayak glides into open water",
+            "Aerial or wide: empty coastline, no crowds",
+            "Text overlay: 4.9 stars, 348 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

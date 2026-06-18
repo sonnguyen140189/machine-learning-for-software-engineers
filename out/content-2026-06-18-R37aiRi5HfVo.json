@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.2 stars. 190 reviews. Right on Đường Trần Hưng Đạo in the heart of Phu Quoc. This beach delivers exactly what you came for. Sand, sea, and no long drive to get there. Drop a pin, show up, and let the water do the rest. Save this for your Phu Quoc trip.",
+    "video_caption": "Feet in the sand at Phu Quoc Beach. 4.2 stars rated by real travelers. Central location on Đường Trần Hưng Đạo means zero excuses to skip it. Watch this before you book your hotel.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #PhuQuocVietnam #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.2 stars. 190 reviews. Phu Quoc Beach on Đường Trần Hưng Đạo keeps delivering. Tag your travel buddy.",
+    "video_caption": "Walk straight onto Phu Quoc Beach. Central. Rated. Worth every second.",
+    "hashtags": "#PhuQuocBeach #PhuQuocVietnam #PhuQuocTips #VietnamBeach #VietnamTravel #TravelTips #TravelReels #BeachVibes"
+  },
+  "tiktok": {
+    "caption": "4.2 stars, 190 reviews, central Phu Quoc. No detours needed. #PhuQuoc #PhuQuocBeach #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.2★. 190 reviews. See it.",
+    "scenes": [
+      "Aerial pan over beach shoreline",
+      "Feet stepping onto wet sand",
+      "Wide shot of clear water at midday",
+      "Close-up of waves rolling in",
+      "Street sign: Đường Trần Hưng Đạo visible"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
