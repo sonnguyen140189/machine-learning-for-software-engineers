@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 266 reviews. On a beach most tourists never reach.\n\nVinpearl Phú Quốc sits on Bãi Dài, one of the longest undeveloped stretches on the island. The resort scale is real. The beach access is real. The rating holds up.\n\nIf you're planning a splurge stay in Phu Quoc, this is the one that keeps coming up in the reviews. Save this for your Phu Quoc trip.",
+    "video_caption": "Bãi Dài at a 4.7-star resort. Watch the beach stretch further than the camera can follow. Vinpearl Phú Quốc earns that rating in the first five minutes.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #VisitVietnam #PhuQuocHotel #TravelTips #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 266 reviews. Bãi Dài beach at your door.\n\nVinpearl Phú Quốc is the name that keeps appearing. Tag your travel buddy.",
+    "video_caption": "266 people rated this 4.7 stars. Bãi Dài proves them right in the first shot.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.7 stars on a beach most skip. Vinpearl Phú Quốc hits different. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.7★. 266 reviews. This beach.",
+    "scenes": [
+      "Aerial pan over Bãi Dài shoreline",
+      "Resort entrance, wide shot, no crowds",
+      "Beach chairs empty, water crystal clear",
+      "Close-up: 4.7 stars on phone screen",
+      "Guest walking into ocean, back to camera"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

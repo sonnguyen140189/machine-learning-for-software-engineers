@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking Đường Trần Hưng Đạo and spot a craft beer bar with a 4.8-star rating. You walk in. You don't leave for three hours.\n\nHoppy Daze Craft Beer Bar is the kind of place Phu Quoc needed. Cold taps, good energy, and zero resort markup attitude. 186 reviews don't lie.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Pulling up to Hoppy Daze on Đường Trần Hưng Đạo. Cold craft beer, 4.8 stars, 186 reviews deep. This bar earns every one of them. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #CraftBeerVietnam #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocNightlife #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: you almost walked past Hoppy Daze. Don't be that person.\n\n4.8★, 186 reviews, craft beer on Đường Trần Hưng Đạo. Save this.",
+    "video_caption": "First sip at Hoppy Daze. 4.8 stars for a reason. Craft beer hits different in Phu Quoc.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #CraftBeerVietnam #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: found a 4.8★ craft bar in Phu Quoc and stayed way too long 🍺 #PhuQuoc #CraftBeer #PhuQuocNightlife #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: best bar find in Phu Quoc",
+    "scenes": [
+      "Walk up to Hoppy Daze exterior, street view",
+      "Pan across tap handles and cold pints",
+      "Close-up: beer poured into glass, foam settles",
+      "Crowd laughing, relaxed bar atmosphere",
+      "Rating card: 4.8★ 186 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

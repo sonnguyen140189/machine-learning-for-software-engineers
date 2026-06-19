@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes the week you forgot to book properly. Versailles - Beach Club Phú Quốc sits right on Đường Trần Hưng Đạo, drinks in hand, sun dropping into the sea. 4.6 stars across 418 reviews. The vibe earns every one. Beach club energy without the attitude. Go for sunset. Stay longer than planned. Save this for your Phu Quoc trip.",
+    "video_caption": "Sun hits the water. Your drink is cold. Versailles - Beach Club Phú Quốc delivers the reset you actually came here for. 4.6 stars. 418 people agree. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocBeachClub #PhuQuocRestaurant #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout fast. Versailles - Beach Club Phú Quốc. 4.6★, 418 reviews, sunset on tap. Save this for your Phu Quoc trip.",
+    "video_caption": "Cold drink. Setting sun. Versailles - Beach Club Phú Quốc doing exactly what it promises. 4.6★.",
+    "hashtags": "#PhuQuocBeachClub #PhuQuocFood #PhuQuocSunset #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The beach club that actually delivers the reset. Versailles - Beach Club Phú Quốc. 4.6★ 418 reviews. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This fixes burnout instantly.",
+    "scenes": [
+      "Aerial sweep of beachfront club",
+      "Bartender pouring golden drink",
+      "Sun low, orange on the water",
+      "Guests relaxed, feet in sand",
+      "Close-up: 4.6★ sign or menu detail"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

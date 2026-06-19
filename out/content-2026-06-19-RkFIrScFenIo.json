@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered down 30 Tháng 4 Street and found the Vietnamese restaurant locals are actually rating 4.9 stars.\n\nSen River Restaurant. 167 reviews. Almost perfect score.\n\nNo resort markup. No tourist menu. Just Vietnamese food that earns that rating every single day.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Camera pans down 30 Tháng 4 Street. You almost walk past. Then you see it. Sen River Restaurant. 4.9 stars, 167 reviews, and a menu that explains everything.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips #VietnamFood #PhúQuốc"
+  },
+  "instagram": {
+    "caption": "POV: stumbled onto a 4.9-star Vietnamese restaurant nobody warned you about.\n\nSen River Restaurant. 167 reviews. Go.\n\nTag your travel buddy.",
+    "video_caption": "4.9 stars on a street you'd never plan to walk down. Sen River Restaurant is the accidental find of your Phu Quoc trip.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "POV: wrong turn. Right restaurant. 4.9 stars. 167 reviews. Sen River Restaurant, Phu Quoc. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you almost walked past this.",
+    "scenes": [
+      "Street-level walk down 30 Tháng 4",
+      "Restaurant sign comes into frame",
+      "Close-up: 4.9 stars on screen",
+      "Dishes arriving at the table",
+      "Reaction shot: first bite"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
