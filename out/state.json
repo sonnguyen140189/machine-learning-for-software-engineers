@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJgw37s0-XpzERx2gWzxP5Qfg",
+    "ChIJY-CSFuCNpzERklQhZxQ1wSo",
+    "ChIJCT7IJHeNpzERsmyKSQegiig",
+    "ChIJw0auYQCNpzER8BCjNBsmIBs",
+    "ChIJjXUjGRmNpzERbpTPg0YpR3g",
+    "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
+    "ChIJqx54JIyNpzERfmx8wXohQ4U",
+    "ChIJiyzaO4CNpzERTH6QKehpvBw",
+    "ChIJK6PXziqyU2gREZvk_pErVag",
+    "ChIJcQI2WEyNpzERiZfbiTwGiHU",
+    "ChIJ_QHQ2eWNpzER0VcwkboktMU",
+    "ChIJtXjS0ZiNpzERdRstZIXgHfw",
     "ChIJD6wtS1eMpzER4kblLDZp36s",
     "ChIJHalrczGMpzER22lEwxlew40",
     "ChIJG0ygU8-NpzERXtcRcF0Av7k",
@@ -187,21 +199,189 @@
     "ChIJS797XwCNpzERpdvvoNGRBK4",
     "ChIJOawITM2NpzERxPm19sYAUpo",
     "ChIJR1rvyAmNpzERHEdIhXDMsII",
-    "ChIJQf0ZjIeNpzERtMMtf7OdVyg",
-    "ChIJ67MzfTqNpzERl5vEmwYkACQ",
-    "ChIJt-QpkieNpzEROHxvKTl08as",
-    "ChIJccUCppGNpzERY4DpGOmVA7o",
-    "ChIJqWvgD-yNpzERS66-PApwcs0",
-    "ChIJGXZel_ONpzERtQgInjMPXU4",
-    "ChIJhW2pjhiLpzERiG9nCVbYLxM",
-    "ChIJg1ksqtqNpzER3W4HrVMz7hE",
-    "ChIJY9wKiiCNpzERVASet8RYkRg",
-    "ChIJ73vtGACNpzERggOwt0eOKmI",
-    "ChIJOwIiCSmNpzER1ISpdLmLcEg",
-    "ChIJ7fpDGamNpzERBaF8duO9WKY",
-    "ChIJT6Xejc2NpzERdkK-4arbWEI"
+    "ChIJQf0ZjIeNpzERtMMtf7OdVyg"
   ],
   "history": [
+    {
+      "date": "2026-06-20",
+      "placeId": "ChIJgw37s0-XpzERx2gWzxP5Qfg",
+      "placeName": "VEGAYACHTS - Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "991564313758834"
+        },
+        "instagramReel": {
+          "id": "17881291746600988"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "placeId": "ChIJY-CSFuCNpzERklQhZxQ1wSo",
+      "placeName": "Spa Canary music 1 🫲Shampoo -Nekc -Foot -body 머리 감기 · 어깨/목 · 팔 · 다리 · 전신",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122109945441313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17860480533642149"
+        }
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "placeId": "ChIJCT7IJHeNpzERsmyKSQegiig",
+      "placeName": "YUJU SPA Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1614812369603690"
+        },
+        "instagramReel": {
+          "id": "18366379921230835"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "placeId": "ChIJw0auYQCNpzER8BCjNBsmIBs",
+      "placeName": "LUA SPA",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122109944529313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17903755545280636"
+        }
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "placeId": "ChIJjXUjGRmNpzERbpTPg0YpR3g",
+      "placeName": "Miss Tiên Spa-Body & Foot Massage",
+      "results": {
+        "facebookVideo": {
+          "id": "1345339354223968"
+        },
+        "instagramReel": {
+          "id": "18098334296337218"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "placeId": "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
+      "placeName": "Phu Quoc Day Spa - 푸꾸옥 스파 마사지 - 富国岛的水疗按摩",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122109943563313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17944497270230880"
+        }
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "placeId": "ChIJqx54JIyNpzERfmx8wXohQ4U",
+      "placeName": "Little WIN SPA 2 - MASSAGE (전신 마사지, 풋 마사지)",
+      "results": {
+        "facebookVideo": {
+          "id": "27600441789573381"
+        },
+        "instagramReel": {
+          "id": "18084339989146896"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "placeId": "ChIJiyzaO4CNpzERTH6QKehpvBw",
+      "placeName": "FIONA SPA",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122109942567313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18103588274040477"
+        }
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "placeId": "ChIJK6PXziqyU2gREZvk_pErVag",
+      "placeName": "Dgold Spa - body massage, foot massage, shampoo, nail",
+      "results": {
+        "facebookVideo": {
+          "id": "1735848384258700"
+        },
+        "instagramReel": {
+          "id": "18146501092510999"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "placeId": "ChIJcQI2WEyNpzERiZfbiTwGiHU",
+      "placeName": "Hello Spa - Massage & Nail",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122109941763313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17903358273450705"
+        }
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "placeId": "ChIJ_QHQ2eWNpzER0VcwkboktMU",
+      "placeName": "Golden Foot Massage Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1777591879923359"
+        },
+        "instagramReel": {
+          "id": "17916895908399872"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "placeId": "ChIJtXjS0ZiNpzERdRstZIXgHfw",
+      "placeName": "Nala Spa - chợ đêm Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122109941037313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18123705121661825"
+        }
+      }
+    },
     {
       "date": "2026-06-19",
       "placeId": "ChIJD6wtS1eMpzER4kblLDZp36s",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "17975496786021953"
-        }
-      }
-    },
-    {
-      "date": "2026-06-04",
-      "placeId": "ChIJ67MzfTqNpzERl5vEmwYkACQ",
-      "placeName": "Phở Lý Quốc Sư",
-      "results": {
-        "facebookVideo": {
-          "id": "955063057428043"
-        },
-        "instagramReel": {
-          "id": "18115535926652364"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-04",
-      "placeId": "ChIJt-QpkieNpzEROHxvKTl08as",
-      "placeName": "Xóm Mới Garden Phú Quốc 씀모이가든 푸꾸옥 맛집",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122106794619313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17858748597643878"
-        }
-      }
-    },
-    {
-      "date": "2026-06-04",
-      "placeId": "ChIJccUCppGNpzERY4DpGOmVA7o",
-      "placeName": "Phở Hòa",
-      "results": {
-        "facebookVideo": {
-          "id": "1525125512313477"
-        },
-        "instagramReel": {
-          "id": "18359640970235522"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-04",
-      "placeId": "ChIJqWvgD-yNpzERS66-PApwcs0",
-      "placeName": "Bún Quậy Bạch Đằng",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122106793719313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18062255075706768"
-        }
-      }
-    },
-    {
-      "date": "2026-06-03",
-      "placeId": "ChIJGXZel_ONpzERtQgInjMPXU4",
-      "placeName": "Bún quậy THIỆN MỸ",
-      "results": {
-        "facebookVideo": {
-          "id": "1608772514099982"
-        },
-        "instagramReel": {
-          "id": "18442704448185549"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-03",
-      "placeId": "ChIJhW2pjhiLpzERiG9nCVbYLxM",
-      "placeName": "The Beauty Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122106530565313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18182384542389748"
-        }
-      }
-    },
-    {
-      "date": "2026-06-03",
-      "placeId": "ChIJg1ksqtqNpzER3W4HrVMz7hE",
-      "placeName": "Tram Tram’s Banh Mi",
-      "results": {
-        "facebookVideo": {
-          "id": "1568787958230913"
-        },
-        "instagramReel": {
-          "id": "18131393359582745"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-03",
-      "placeId": "ChIJY9wKiiCNpzERVASet8RYkRg",
-      "placeName": "Chè Nhà Jun-Chè Ngon Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122106529185313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18041781152593648"
-        }
-      }
-    },
-    {
-      "date": "2026-06-03",
-      "placeId": "ChIJ73vtGACNpzERggOwt0eOKmI",
-      "placeName": "Diner PHU QUOC BEER'n BURGERS BREAKFAST LUNCH DINNER",
-      "results": {
-        "facebookVideo": {
-          "id": "1944632222857807"
-        },
-        "instagramReel": {
-          "id": "18251703460306867"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-03",
-      "placeId": "ChIJOwIiCSmNpzER1ISpdLmLcEg",
-      "placeName": "Mì Tê - Artisan Noodles",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122106527937313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18000908384762805"
-        }
-      }
-    },
-    {
-      "date": "2026-06-03",
-      "placeId": "ChIJ7fpDGamNpzERBaF8duO9WKY",
-      "placeName": "Bánh Mì & You",
-      "results": {
-        "facebookVideo": {
-          "id": "922432874144491"
-        },
-        "instagramReel": {
-          "id": "18080107325365171"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-03",
-      "placeId": "ChIJT6Xejc2NpzERdkK-4arbWEI",
-      "placeName": "Nhà Xưa 68",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122106527079313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18162693877444023"
         }
       }
     }
