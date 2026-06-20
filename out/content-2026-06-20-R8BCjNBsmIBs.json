@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this spa on Đường Trần Hưng Đạo. Locals don't.\n\nLUA SPA holds a 4.8-star rating across nearly 2,000 reviews and still flies under the radar. Book a session after a long beach day. Your body will notice the difference.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Hands working out every knot from a full day on the sand. 4.8 stars. 1,999 reviews. LUA SPA on Đường Trần Hưng Đạo is the recovery stop most tourists never find.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about LUA SPA. 4.8 stars, 1,999 reviews, still off the tourist trail.\n\nTag your travel buddy.",
+    "video_caption": "4.8 stars. Nearly 2,000 reviews. LUA SPA is the Phu Quoc recovery session you didn't plan for.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocVietnam #VisitVietnam #VietnamTravel #TravelReels #TravelTips #PhúQuốc"
+  },
+  "tiktok": {
+    "caption": "The spa locals rate 4.8 stars but tourists keep missing. LUA SPA, Phú Quốc. #PhuQuoc #PhuQuocSpa #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior shot, 25 Đường Trần Hưng Đạo sign visible",
+      "Therapist hands setting up treatment table",
+      "Close-up: warm oil poured onto skin",
+      "Guest exhales, eyes closed, visibly unwinding",
+      "Phone screen shows 4.8 stars, 1,999 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

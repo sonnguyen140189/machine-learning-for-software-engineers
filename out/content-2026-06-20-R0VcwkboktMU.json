@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Locals don't. Golden Foot Massage Phú Quốc has a 4.9-star rating from 452 reviews and zero hype on the tourist trail. Foot massage, full body, deep tissue. Right on the main strip, zero wait most mornings. Your legs will thank you after a full beach day. Save this for your Phu Quoc trip.",
+    "video_caption": "Feet wrecked from the beaches? Golden Foot Massage Phú Quốc on Đường Trần Hưng Đạo. 4.9 stars, 452 reviews, and barely a tourist in sight. Book it.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't talk about Golden Foot Massage Phú Quốc. 4.9 stars. 452 reviews. No tourist crowds.\n\nTag your travel buddy.",
+    "video_caption": "4.9 stars on Đường Trần Hưng Đạo. Tourists keep walking. Don't be them.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The spa locals actually use in Phu Quoc. 4.9 stars. No tourist trap pricing. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals keep this one quiet.",
+    "scenes": [
+      "Pan down busy Đường Trần Hưng Đạo strip",
+      "Slow zoom into Golden Foot Massage Phú Quốc sign",
+      "Show relaxed guests inside, dim lighting",
+      "Close-up: phone screen showing 4.9 stars, 452 reviews",
+      "Feet on massage mat, therapist working"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

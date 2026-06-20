@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're sunburned, sandblasted, and your feet gave up two beaches ago. Then you find Little WIN SPA 2 on Đường Trần Hưng Đạo. 4.9 stars. 278 reviews. That's not luck, that's consistency. Full body or foot massage, and you walk out a different person. Save this for your Phu Quoc trip.",
+    "video_caption": "Feet destroyed from island hopping. Walked into Little WIN SPA 2. Walked out floating. 4.9 stars from 278 people and you'll feel every single one of them.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: your feet are done after day 3 in Phu Quoc. Little WIN SPA 2. 4.9 stars. 278 reviews. Go. Tag your travel buddy.",
+    "video_caption": "Walked in wrecked. Walked out reset. Little WIN SPA 2 hits different. 4.9★ 278 reviews.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Destroyed by beaches. Saved by this spa. Little WIN SPA 2, Phu Quoc. 4.9★ 278 reviews. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: your feet gave up.",
+    "scenes": [
+      "Feet dragging down Đường Trần Hưng Đạo",
+      "Spa entrance, calm lighting",
+      "Hands pressing into tired soles",
+      "Face sinking into massage table",
+      "Walking out, shoulders dropped, relaxed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
