@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,031 reviews. 4.8 stars. And most tourists still book the generic resort desk tours.\n\nRooty Trip Phú Quốc on Đường Trần Hưng Đạo is what repeat visitors use. Small group tours, local guides, real itineraries, not the laminated-menu stuff.\n\nIf you want to actually see Phu Quoc and not just the parts they package for you, this is the booking.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Your hotel's tour desk is not your only option. 1,031 people found Rooty Trip Phú Quốc first. Watch what a local-run tour actually looks like on this island.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 1,031 reviews. Skip the resort tour desk.\n\nRooty Trip Phú Quốc. Save this before you book anything.",
+    "video_caption": "1,031 travelers rated this 4.8. Rooty Trip Phú Quốc does it differently. Tag your travel buddy.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc #IslandTours"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 1031 reviews. Stop booking resort desk tours. Rooty Trip Phú Quốc hits different. #PhuQuoc #PhuQuocTours #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8★ 1,031 reviews.",
+    "scenes": [
+      "Zoom in on Google rating screen",
+      "Walk up to 191 Đường Trần Hưng Đạo storefront",
+      "Guide briefing small group, map in hand",
+      "Boat leaving dock, open water ahead",
+      "Close-up: happy tourists, not a resort shuttle"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

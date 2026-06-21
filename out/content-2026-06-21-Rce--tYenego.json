@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you land in Phu Quoc with zero plan and find a guide who actually knows the island. Алиса гид по Фукуоку on Đường Trần Hưng Đạo runs at 4.8 stars across 126 reviews. That's not luck. Local routes, real advice, no generic tourist loops. Save this for your Phu Quoc trip.",
+    "video_caption": "Walked into Алиса гид по Фукуоку on Đường Trần Hưng Đạo with questions. Walked out with an actual plan. 4.8 stars. 126 reviews. This is how you stop winging it in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #PhuQuocGuide"
+  },
+  "instagram": {
+    "caption": "POV: you finally stop guessing and let someone who knows Phu Quoc plan your trip. Алиса гид по Фукуоку. 4.8★, 126 reviews. Tag your travel buddy.",
+    "video_caption": "4.8 stars. 126 reviews. Алиса гид по Фукуоку on Đường Trần Hưng Đạo. Your Phu Quoc trip, actually sorted.",
+    "hashtags": "#PhuQuoc #PhuQuocTips #PhuQuocGuide #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Stop winging your Phu Quoc trip. Алиса гид по Фукуоку. 4.8★, 126 reviews. Real guides, real routes. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: no plan, landed in Phu Quoc",
+    "scenes": [
+      "Walk up to 105 Đường Trần Hưng Đạo entrance",
+      "Close-up of 4.8★ review screen",
+      "Staff pointing at local map on table",
+      "Cut to real Phu Quoc spots off tourist trail",
+      "Traveler leaves with printed itinerary"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

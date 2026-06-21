@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 146 reviews. And that lobby hits different the second you walk in.\n\nVinpearl Resort Phu Quoc is the kind of check-in that makes you forget you just survived a long-haul flight. Grand scale, open-air flow, and staff who actually mean it when they greet you.\n\nIf you're planning a splurge stay on the island, this one keeps showing up at the top for a reason.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the moment guests step into the Vinpearl Resort Phu Quoc lobby. That ceiling. That light. 4.8 stars across 146 reviews, and you'll see exactly why in the first 3 seconds.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #VisitVietnam #TravelTips #PhuQuocResort"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 146 reviews. The Vinpearl Resort Phu Quoc lobby delivers.\n\nThis is your splurge stay sorted. Save this.",
+    "video_caption": "Step inside Vinpearl Resort Phu Quoc. 4.8 stars. The lobby explains everything.",
+    "hashtags": "#PhuQuocHotels #PhuQuocResort #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #PhuQuoc #LuxuryTravel"
+  },
+  "tiktok": {
+    "caption": "4.8 stars and 146 reviews agree. Vinpearl Resort Phu Quoc lobby is the check-in moment. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8★. 146 reviews. SEE WHY.",
+    "scenes": [
+      "Slow push through resort entrance gates",
+      "Wide shot: full lobby ceiling height",
+      "Staff greeting guest at front desk",
+      "Close-up: lobby details, lighting, decor",
+      "Guest reaction walking in first time"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

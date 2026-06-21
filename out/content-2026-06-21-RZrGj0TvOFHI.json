@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you booked the 4-island snorkel tour and it actually delivered. Layla Mermaid Tours runs a full-day escape hitting four islands, snorkeling stops, and a beach BBQ. 5.0 stars across 189 reviews. That's not luck, that's consistency. Đường Trần Hưng Đạo is your starting point. Save this for your Phu Quoc trip.",
+    "video_caption": "Four islands. Snorkel gear on. BBQ on the beach at the end. Layla Mermaid Tours is the full-day trip Phu Quoc visitors keep raving about. 5.0 stars, 189 reviews. Book before it fills.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #PhuQuocIsland #VisitVietnam #TravelTips #IslandHopping #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: your 4-island day just ended with a beach BBQ. Layla Mermaid Tours. 5.0 stars, 189 reviews. Tag your travel buddy.",
+    "video_caption": "Snorkel. Island hop. Eat. Repeat. Layla Mermaid Tours delivers every time.",
+    "hashtags": "#PhuQuocTours #PhuQuocIsland #PhuQuocTips #IslandHopping #VietnamTravel #TravelTips #TravelReels #PhuQuocTravel"
+  },
+  "tiktok": {
+    "caption": "4 islands + beach BBQ + 5.0 stars. Layla Mermaid Tours is the one. #PhuQuoc #PhuQuocTours #IslandHopping #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: best day trip in Phu Quoc",
+    "scenes": [
+      "Boat leaving dock at sunrise",
+      "Snorkeler drops into clear water",
+      "Coral reef close-up, fish darting past",
+      "BBQ spread laid out on sandy beach",
+      "Group eating, laughing, ocean behind",
+      "5.0 stars graphic fades in on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

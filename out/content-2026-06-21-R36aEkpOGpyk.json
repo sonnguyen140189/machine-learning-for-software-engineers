@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 187 reviews. Zero filler trips.\n\nNice Tours Phu Quoc - Tailor Made Travel on Tran Hung Dao builds itineraries around what YOU actually want. Not the bus-tour circuit. Not the same snorkeling boat 400 people rode yesterday.\n\nCustom day trips, private guides, logistics sorted. Just tell them your travel style and they handle the rest.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "187 people gave this tour operator a perfect 5 stars. Watch what a custom-built Phu Quoc itinerary actually looks like from day one to last sunset.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #PhuQuocIsland #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 187 reviews. Not one trip the same.\n\nNice Tours Phu Quoc builds your itinerary from scratch. No cookie-cutter routes.\n\nTag your travel buddy.",
+    "video_caption": "Perfect score. 187 reviews. This is what tailor-made travel in Phu Quoc actually looks like.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocIsland #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "5.0 stars, 187 reviews, zero generic day trips. Custom Phu Quoc itineraries that actually fit your trip. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "5.0★. 187 reviews. Zero bad trips.",
+    "scenes": [
+      "Zoom in on 5-star review feed",
+      "Staff mapping out custom route",
+      "Private longtail boat on clear water",
+      "Tourist checking off itinerary list",
+      "Sunset shot from off-circuit beach"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
