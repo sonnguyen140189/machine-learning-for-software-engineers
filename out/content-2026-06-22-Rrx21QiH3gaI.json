@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking Đường Trần Hưng Đạo and duck into Blue Monkey Bar on a whim. 4.6 stars. 536 reviews. Now you understand why. $15-30 a head gets you solid drinks and a crowd that's actually having fun. Not a resort bar. Not a tourist trap. Just a good night out on Phu Quoc. Save this for your Phu Quoc trip.",
+    "video_caption": "536 people rated Blue Monkey Bar 4.6 stars and nobody warned you it was this good. Drinks flowing, crowd loud, Đường Trần Hưng Đạo energy. $15-30 a head. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBars #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked in on a whim. Left a regular. Blue Monkey Bar, 4.6★, 536 reviews. Tag your travel buddy.",
+    "video_caption": "536 reviews at 4.6 stars. Blue Monkey Bar hits different at night. $15-30 a head.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocLife"
+  },
+  "tiktok": {
+    "caption": "Ducked into Blue Monkey Bar by accident. 4.6 stars. 536 reviews. Not an accident anymore. #PhuQuoc #PhuQuocNightlife #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: best bar find in Phu Quoc",
+    "scenes": [
+      "Street-level shot: Blue Monkey Bar sign lit up",
+      "Push through the door, crowd already moving",
+      "Bartender shakes a drink, close-up pour",
+      "Pan across packed tables, people laughing",
+      "Price board on wall: $15-30 range visible"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

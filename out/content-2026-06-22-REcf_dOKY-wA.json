@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.6 stars. 549 reviews. At a beach restaurant most tourists never reach.\n\nThe Beach Bistro sits out in Khu Bãi Dài, Gành Dầu, far north Phu Quoc, where the crowds thin out and the water actually looks like the photos.\n\n549 people made the drive. Most of them left a four or five star review. That's not luck.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the crowd disappear the further north you go. This is The Beach Bistro in Gành Dầu. 4.6 stars, 549 reviews, and tables practically on the sand. Worth every kilometer.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel #PhuQuocIsland"
+  },
+  "instagram": {
+    "caption": "4.6★ across 549 reviews. Way up in Gành Dầu where tourists don't bother.\n\nThe Beach Bistro earns every star. Tag your travel buddy.",
+    "video_caption": "549 people rated this 4.6★ and most tourists still scroll past it. The Beach Bistro, Gành Dầu. Go north.",
+    "hashtags": "#PhuQuocRestaurants #PhuQuocFood #GanhDau #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "4.6★ across 549 reviews in the far north of Phu Quoc. The Beach Bistro hits different. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.6★. 549 reviews. Way up north.",
+    "scenes": [
+      "Drone pulls back from empty shoreline",
+      "Car turns onto quiet coastal road",
+      "Restaurant exterior, tables near water",
+      "Food arriving at table, close shot",
+      "Guest checking phone, 4.6 star rating shown"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

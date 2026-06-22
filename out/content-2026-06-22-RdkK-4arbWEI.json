@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "625 reviews. 4.4 stars. And most tourists walk straight past Nhà Xưa 68.\n\nThis local restaurant on Lý Thường Kiệt is pulling serious numbers for a reason. Real food, real portions, real Phu Quoc flavors without the resort markup.\n\nIf a place with 625 reviews still feels off the tourist radar, you go. Simple.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "625 people rated Nhà Xưa 68 and it still isn't on most tourist itineraries. Watch what lands on the table here. Phu Quoc local dining, no filter.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "625 reviews. 4.4 stars. Still under the radar.\n\nNhà Xưa 68 on Lý Thường Kiệt is the local spot your itinerary is missing. Save this.",
+    "video_caption": "Walked into Nhà Xưa 68 with 625 reviews backing it up. The food did not disappoint. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "625 reviews and still flying under the radar. Nhà Xưa 68 hits different. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "625 reviews. Still unknown.",
+    "scenes": [
+      "Exterior shot: 68 Lý Thường Kiệt sign",
+      "Walk through entrance, local crowd visible",
+      "Dishes arriving at the table, close up",
+      "Fork/chopsticks digging in, steam rising",
+      "Cut to Google review count on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

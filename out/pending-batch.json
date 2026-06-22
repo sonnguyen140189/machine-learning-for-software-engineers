@@ -1,0 +1,522 @@
+{
+  "stamp": "2026-06-22",
+  "items": [
+    {
+      "placeId": "ChIJyQi3u2GMpzERVXgllKB2V_A",
+      "placeName": "RED RIVER TOURS",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-22-RVXgllKB2V_A-0.jpg",
+        "out/media/2026-06-22-RVXgllKB2V_A-1.jpg",
+        "out/media/2026-06-22-RVXgllKB2V_A-2.jpg",
+        "out/media/2026-06-22-RVXgllKB2V_A-3.jpg",
+        "out/media/2026-06-22-RVXgllKB2V_A-4.jpg",
+        "out/media/2026-06-22-RVXgllKB2V_A-5.jpg",
+        "out/media/2026-06-22-RVXgllKB2V_A-6.jpg",
+        "out/media/2026-06-22-RVXgllKB2V_A-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists book tours at the big resort desks. Locals point you to 379 Đường Trần Hưng Đạo instead.\n\nRed River Tours has 362 reviews and a 4.1-star average. That's real feedback from real travelers, not a hotel commission.\n\nIf you want island day trips, snorkeling runs, or custom itineraries without the markup, this is the spot to start. Save this for your Phu Quoc trip.",
+          "video_caption": "Walk past the resort tour desk. Head to Red River Tours on Đường Trần Hưng Đạo. 362 reviews say the difference is worth it. Here's what to ask when you walk in.",
+          "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTravel #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "Tourists pay resort prices. Locals send you to Red River Tours instead. 4.1★ across 362 reviews.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Skip the resort tour desk. Red River Tours on Đường Trần Hưng Đạo. 362 travelers already know.",
+          "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocTravel #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels"
+        },
+        "tiktok": {
+          "caption": "Resort tour desk vs. where locals actually send you. Red River Tours, Phú Quốc. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't book tours here.",
+          "scenes": [
+            "Pan across crowded resort tour desks",
+            "Cut to street-level sign: 379 Đường Trần Hưng Đạo",
+            "Show exterior of Red River Tours shopfront",
+            "Close-up: phone screen showing 4.1★ 362 reviews",
+            "Staff talking with travelers at counter"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
+      "placeName": "Jerry's Jungle Tours",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-22-RVdeTFM021V4-0.jpg",
+        "out/media/2026-06-22-RVdeTFM021V4-1.jpg",
+        "out/media/2026-06-22-RVdeTFM021V4-2.jpg",
+        "out/media/2026-06-22-RVdeTFM021V4-3.jpg",
+        "out/media/2026-06-22-RVdeTFM021V4-4.jpg",
+        "out/media/2026-06-22-RVdeTFM021V4-5.jpg",
+        "out/media/2026-06-22-RVdeTFM021V4-6.jpg",
+        "out/media/2026-06-22-RVdeTFM021V4-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-22-RVdeTFM021V4.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.4 stars at Cửa Lấp, Phú Quốc. 69 reviewers figured out what most tourists scroll past. Jerry's Jungle Tours runs trips into the parts of Phu Quoc that look nothing like the resort strip. Real jungle. Real guides. Real different. If your Phu Quoc trip is all beach bars and pool loungers, no judgment. But this exists. Save this for your Phu Quoc trip.",
+          "video_caption": "Jungle canopy. Narrow trails. Zero resort vibes. Jerry's Jungle Tours at Cửa Lấp is putting 4.4 stars on the board with 69 reviews for a reason. This is Phu Quoc off the beaten track.",
+          "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.4 stars. 69 reviews. Jerry's Jungle Tours at Cửa Lấp hits different. Save this for your Phu Quoc trip.",
+          "video_caption": "Jungle trails, real guides, zero resort noise. Jerry's Jungle Tours, Cửa Lấp. 4.4 stars earned.",
+          "hashtags": "#PhuQuocTours #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocActivities #VietnamTours"
+        },
+        "tiktok": {
+          "caption": "4.4 stars. 69 reviews. Jerry's Jungle Tours at Cửa Lấp is the Phu Quoc trip most tourists miss. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.4 stars. 69 reviews. Phu Quoc jungle.",
+          "scenes": [
+            "Drone pulls back over dense jungle canopy",
+            "Boots stepping onto a narrow dirt trail",
+            "Guide points out wildlife mid-trail",
+            "Group moves single-file through thick green",
+            "Wide shot: no resorts, no crowds, just trees"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ-0XGzouOpzERbbOfSGDmmuU",
+      "placeName": "Tiên Sơn Đỉnh",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-22-RbbOfSGDmmuU-0.jpg",
+        "out/media/2026-06-22-RbbOfSGDmmuU-1.jpg",
+        "out/media/2026-06-22-RbbOfSGDmmuU-2.jpg",
+        "out/media/2026-06-22-RbbOfSGDmmuU-3.jpg",
+        "out/media/2026-06-22-RbbOfSGDmmuU-4.jpg",
+        "out/media/2026-06-22-RbbOfSGDmmuU-5.jpg",
+        "out/media/2026-06-22-RbbOfSGDmmuU-6.jpg",
+        "out/media/2026-06-22-RbbOfSGDmmuU-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes burnout. Tiên Sơn Đỉnh sits above Phu Quoc at 4.8 stars across 416 reviews, and the moment you reach the top, you understand why. No crowds pushing you toward a gift shop. No DJ set drowning out the view. Just elevation, wind, and silence. If you've been doing the beach-resort loop and something feels off, come here first. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the clouds move below you at Tiên Sơn Đỉnh. 416 people gave this 4.8 stars and most of them probably didn't say a word when they got to the top. Neither will you.",
+          "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "This place fixes burnout. Tiên Sơn Đỉnh, 4.8★, 416 reviews. The view earns every one. Tag your travel buddy.",
+          "video_caption": "Clouds below your feet at Tiên Sơn Đỉnh. 4.8 stars. Zero hype. All feeling.",
+          "hashtags": "#PhuQuocTips #PhuQuocAttractions #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Went to Tiên Sơn Đỉnh. Didn't speak for 10 minutes. That's the review. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+        },
+        "video_script": {
+          "hook": "This place fixes burnout.",
+          "scenes": [
+            "Winding road climbing through forest",
+            "Boots stepping onto summit platform",
+            "Wide shot: clouds stretching to horizon",
+            "Close-up: visitor going completely still",
+            "Slow pan across valley below"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJVRCAbGGNpzERkJ7P7jN-dls",
+      "placeName": "The Home Pizza Tran Hung Dao",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-22-RkJ7P7jN-dls-0.jpg",
+        "out/media/2026-06-22-RkJ7P7jN-dls-1.jpg",
+        "out/media/2026-06-22-RkJ7P7jN-dls-2.jpg",
+        "out/media/2026-06-22-RkJ7P7jN-dls-3.jpg",
+        "out/media/2026-06-22-RkJ7P7jN-dls-4.jpg",
+        "out/media/2026-06-22-RkJ7P7jN-dls-5.jpg",
+        "out/media/2026-06-22-RkJ7P7jN-dls-6.jpg",
+        "out/media/2026-06-22-RkJ7P7jN-dls-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-22-RkJ7P7jN-dls.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "7,215 reviews. 4.8 stars. For a pizza place in Phu Quoc.\n\nThe Home Pizza Trần Hưng Đạo on 129 Đường Trần Hưng Đạo isn't playing around. $15-30 a head, wood-fired crust, and a crowd every single night. This is the kind of spot that earns its rating one table at a time.\n\nGo hungry. Go early. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the pizza come out of that oven at The Home Pizza Trần Hưng Đạo. 7,215 people rated this 4.8 stars and now you'll see why. $15-30 a head, Dương Đông, Phu Quoc. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "7,215 reviews. 4.8 stars. Pizza in Phu Quoc hits different.\n\nThe Home Pizza Trần Hưng Đạo, 129 Đường Trần Hưng Đạo. $15-30/head. Save this.",
+          "video_caption": "4.8 stars, 7,215 reviews, one pizza oven. The Home Pizza Trần Hưng Đạo is earning every single one.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "7,215 reviews. 4.8 stars. Pizza in Phu Quoc. The Home Pizza Trần Hưng Đạo delivers. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "7,215 reviews. 4.8 stars.",
+          "scenes": [
+            "Exterior shot: busy entrance, queue forming",
+            "Close-up: pizza sliding out of hot oven",
+            "Pull back: full pie lands on table",
+            "Cut: first slice lifted, cheese stretch",
+            "Flash: Google rating 4.8 on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJReCCyQsfCDEREcf_dOKY-wA",
+      "placeName": "The Beach Bistro",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-22-REcf_dOKY-wA-0.jpg",
+        "out/media/2026-06-22-REcf_dOKY-wA-1.jpg",
+        "out/media/2026-06-22-REcf_dOKY-wA-2.jpg",
+        "out/media/2026-06-22-REcf_dOKY-wA-3.jpg",
+        "out/media/2026-06-22-REcf_dOKY-wA-4.jpg",
+        "out/media/2026-06-22-REcf_dOKY-wA-5.jpg",
+        "out/media/2026-06-22-REcf_dOKY-wA-6.jpg",
+        "out/media/2026-06-22-REcf_dOKY-wA-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.6 stars. 549 reviews. At a beach restaurant most tourists never reach.\n\nThe Beach Bistro sits out in Khu Bãi Dài, Gành Dầu, far north Phu Quoc, where the crowds thin out and the water actually looks like the photos.\n\n549 people made the drive. Most of them left a four or five star review. That's not luck.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the crowd disappear the further north you go. This is The Beach Bistro in Gành Dầu. 4.6 stars, 549 reviews, and tables practically on the sand. Worth every kilometer.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel #PhuQuocIsland"
+        },
+        "instagram": {
+          "caption": "4.6★ across 549 reviews. Way up in Gành Dầu where tourists don't bother.\n\nThe Beach Bistro earns every star. Tag your travel buddy.",
+          "video_caption": "549 people rated this 4.6★ and most tourists still scroll past it. The Beach Bistro, Gành Dầu. Go north.",
+          "hashtags": "#PhuQuocRestaurants #PhuQuocFood #GanhDau #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+        },
+        "tiktok": {
+          "caption": "4.6★ across 549 reviews in the far north of Phu Quoc. The Beach Bistro hits different. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.6★. 549 reviews. Way up north.",
+          "scenes": [
+            "Drone pulls back from empty shoreline",
+            "Car turns onto quiet coastal road",
+            "Restaurant exterior, tables near water",
+            "Food arriving at table, close shot",
+            "Guest checking phone, 4.6 star rating shown"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJv-9uPmUfCDER6NeYGQTjw3g",
+      "placeName": "Grand World Food Court",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-22-R6NeYGQTjw3g-0.jpg",
+        "out/media/2026-06-22-R6NeYGQTjw3g-1.jpg",
+        "out/media/2026-06-22-R6NeYGQTjw3g-2.jpg",
+        "out/media/2026-06-22-R6NeYGQTjw3g-3.jpg",
+        "out/media/2026-06-22-R6NeYGQTjw3g-4.jpg",
+        "out/media/2026-06-22-R6NeYGQTjw3g-5.jpg",
+        "out/media/2026-06-22-R6NeYGQTjw3g-6.jpg",
+        "out/media/2026-06-22-R6NeYGQTjw3g-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-22-R6NeYGQTjw3g.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you wandered into Grand World Food Court expecting a standard mall food court. You did not expect this.\n\n4.9 stars. 1,584 reviews. Every stall packed with locals and tourists eating side by side. Phú Quốc's Grand World Beachfront delivers a food court that actually earns that rating.\n\nGrab a tray. Walk every stall first. Then commit.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Walking into Grand World Food Court at Phú Quốc and the options just don't stop. 4.9 stars. 1,584 people were right. Pick a stall, grab a seat, eat well.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #GrandWorldPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: you walked into Grand World Food Court and stayed two hours.\n\n4.9★ from 1,584 reviews. Phú Quốc's best food court energy. Tag your travel buddy.",
+          "video_caption": "4.9 stars. 1,584 reviews. Grand World Food Court at Phú Quốc hits different after dark.",
+          "hashtags": "#PhuQuocFood #PhuQuocTips #GrandWorldPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "POV: you found Grand World Food Court in Phú Quốc. 4.9 stars. The stalls don't lie. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: best food court in Phu Quoc",
+          "scenes": [
+            "Entrance shot, crowds moving through",
+            "Pan across stalls, steam rising",
+            "Close-up: food hitting the tray",
+            "Overhead: packed communal tables",
+            "Reaction shot: first bite taken"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJj9eeH0-XpzERR3O-7B0rxFo",
+      "placeName": "CÁI MÂM BISTRO",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-22-RR3O-7B0rxFo-0.jpg",
+        "out/media/2026-06-22-RR3O-7B0rxFo-1.jpg",
+        "out/media/2026-06-22-RR3O-7B0rxFo-2.jpg",
+        "out/media/2026-06-22-RR3O-7B0rxFo-3.jpg",
+        "out/media/2026-06-22-RR3O-7B0rxFo-4.jpg",
+        "out/media/2026-06-22-RR3O-7B0rxFo-5.jpg",
+        "out/media/2026-06-22-RR3O-7B0rxFo-6.jpg",
+        "out/media/2026-06-22-RR3O-7B0rxFo-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.7 stars. 1,240 reviews. At a bistro inside Chợ đêm Vuifest.\n\nCái Mâm Bistro is not an accident. That rating holds because the food earns it, night after night, in one of Sunset Town's busiest market strips.\n\nIf you're hitting Phú Quốc and skipping the night market scene, you're leaving the best meals on the table.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Walk into Chợ đêm Vuifest, find Cái Mâm Bistro, order everything. 4.7 stars across 1,240 reviews tells you exactly what to expect. Don't overthink it.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocNightMarket #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.7★ across 1,240 reviews. Inside Chợ đêm Vuifest, Phú Quốc.\n\nCái Mâm Bistro earns every star. Save this.",
+          "video_caption": "1,240 people rated Cái Mâm Bistro 4.7 stars. Your turn to find out why.",
+          "hashtags": "#PhuQuocFood #PhuQuocNightMarket #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.7 stars. 1,240 reviews. Cái Mâm Bistro inside Chợ đêm Vuifest hits different at night. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.7★ · 1,240 reviews · night market",
+          "scenes": [
+            "Pan across Chợ đêm Vuifest at night",
+            "Push in on Cái Mâm Bistro sign",
+            "Close-up: plates landing on table",
+            "Crowd filling seats around the bistro",
+            "Fork into food, steam rising"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJg25lxluMpzERrx21QiH3gaI",
+      "placeName": "Blue Monkey Bar",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-22-Rrx21QiH3gaI-0.jpg",
+        "out/media/2026-06-22-Rrx21QiH3gaI-1.jpg",
+        "out/media/2026-06-22-Rrx21QiH3gaI-2.jpg",
+        "out/media/2026-06-22-Rrx21QiH3gaI-3.jpg",
+        "out/media/2026-06-22-Rrx21QiH3gaI-4.jpg",
+        "out/media/2026-06-22-Rrx21QiH3gaI-5.jpg",
+        "out/media/2026-06-22-Rrx21QiH3gaI-6.jpg",
+        "out/media/2026-06-22-Rrx21QiH3gaI-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-22-Rrx21QiH3gaI.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you're walking Đường Trần Hưng Đạo and duck into Blue Monkey Bar on a whim. 4.6 stars. 536 reviews. Now you understand why. $15-30 a head gets you solid drinks and a crowd that's actually having fun. Not a resort bar. Not a tourist trap. Just a good night out on Phu Quoc. Save this for your Phu Quoc trip.",
+          "video_caption": "536 people rated Blue Monkey Bar 4.6 stars and nobody warned you it was this good. Drinks flowing, crowd loud, Đường Trần Hưng Đạo energy. $15-30 a head. Go.",
+          "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBars #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Walked in on a whim. Left a regular. Blue Monkey Bar, 4.6★, 536 reviews. Tag your travel buddy.",
+          "video_caption": "536 reviews at 4.6 stars. Blue Monkey Bar hits different at night. $15-30 a head.",
+          "hashtags": "#PhuQuocNightlife #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocLife"
+        },
+        "tiktok": {
+          "caption": "Ducked into Blue Monkey Bar by accident. 4.6 stars. 536 reviews. Not an accident anymore. #PhuQuoc #PhuQuocNightlife #PhuQuocTips"
+        },
+        "video_script": {
+          "hook": "POV: best bar find in Phu Quoc",
+          "scenes": [
+            "Street-level shot: Blue Monkey Bar sign lit up",
+            "Push through the door, crowd already moving",
+            "Bartender shakes a drink, close-up pour",
+            "Pan across packed tables, people laughing",
+            "Price board on wall: $15-30 range visible"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
+      "placeName": "Phu Quoc Street Food Tour - Eat with Locals, Drink with Locals",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-22-RBPnWDk-EEcc-0.jpg",
+        "out/media/2026-06-22-RBPnWDk-EEcc-1.jpg",
+        "out/media/2026-06-22-RBPnWDk-EEcc-2.jpg",
+        "out/media/2026-06-22-RBPnWDk-EEcc-3.jpg",
+        "out/media/2026-06-22-RBPnWDk-EEcc-4.jpg",
+        "out/media/2026-06-22-RBPnWDk-EEcc-5.jpg",
+        "out/media/2026-06-22-RBPnWDk-EEcc-6.jpg",
+        "out/media/2026-06-22-RBPnWDk-EEcc-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you stopped guessing which street stall is safe and just let a local lead.\n\nThe Phu Quoc Street Food Tour at 94 Nguyễn Trung Trực does exactly that. Eat what locals eat. Drink what locals drink. No menu confusion, no tourist markup, no solo wandering past the good stuff.\n\n5.0 stars across 97 reviews. That's a perfect score. On a street food tour.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Chopsticks in hand, zero idea what's coming next. That's the whole point. Follow a local through Phu Quoc's real food scene and eat your way through 94 Nguyễn Trung Trực. 5.0 stars. 97 reviews. Book it.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #StreetFoodTour #VisitVietnam #TravelTips #PhuQuocTips #VietnamStreetFood"
+        },
+        "instagram": {
+          "caption": "POV: a local hands you something and says just eat it.\n\n5.0★ across 97 reviews. Phu Quoc street food, done right. Save this.",
+          "video_caption": "Letting a local pick every dish. Every drink. No menu. No guessing. This is the move.",
+          "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocTravel #VietnamStreetFood #VietnamTravel #TravelTips #TravelReels #StreetFoodTour"
+        },
+        "tiktok": {
+          "caption": "Stopped guessing, started following locals. Best decision in Phu Quoc. 5.0★ 97 reviews. #PhuQuoc #PhuQuocFood #VietnamStreetFood #StreetFoodTour #TravelTips"
+        },
+        "video_script": {
+          "hook": "POV: locals picked every dish.",
+          "scenes": [
+            "Busy street stall, steam rising from bowls",
+            "Local guide points at unmarked dish",
+            "Close-up: chopsticks lifting noodles",
+            "Group clinks local drinks together",
+            "Vendor smiles, slides plate forward",
+            "5.0★ rating card fills screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ652atFCNpzERuDwXbWc_sTQ",
+      "placeName": "Quán Ăn 93",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-22-RuDwXbWc_sTQ-0.jpg",
+        "out/media/2026-06-22-RuDwXbWc_sTQ-1.jpg",
+        "out/media/2026-06-22-RuDwXbWc_sTQ-2.jpg",
+        "out/media/2026-06-22-RuDwXbWc_sTQ-3.jpg",
+        "out/media/2026-06-22-RuDwXbWc_sTQ-4.jpg",
+        "out/media/2026-06-22-RuDwXbWc_sTQ-5.jpg",
+        "out/media/2026-06-22-RuDwXbWc_sTQ-6.jpg",
+        "out/media/2026-06-22-RuDwXbWc_sTQ-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-22-RuDwXbWc_sTQ.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you're wandering Đường Nguyễn Văn Trỗi and walk straight into Quán Ăn 93. No big sign. No tourist menu. Just a local bistro with 340 reviews and a 4.3-star track record. The kind of place regulars don't share. You almost kept walking. Don't. Save this for your Phu Quoc trip.",
+          "video_caption": "Ducking into Quán Ăn 93 off Đường Nguyễn Văn Trỗi. 340 reviews. Locals filling every table. This is what eating right in Phu Quoc actually looks like. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Walked past Quán Ăn 93 twice. Went in on the third pass. 4.3 stars, 340 reviews, zero tourist theatrics. Comment your favorite Phu Quoc dish.",
+          "video_caption": "Quán Ăn 93 on Đường Nguyễn Văn Trỗi. Packed with locals. 4.3 stars. Just eat here.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #LocalEats"
+        },
+        "tiktok": {
+          "caption": "Almost missed Quán Ăn 93. 340 reviews of locals being right. Don't walk past this one. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Walked past 3 times. Don't be me.",
+          "scenes": [
+            "Street-level shot: 93/185 Đường Nguyễn Văn Trỗi sign",
+            "Push through entrance, locals seated inside",
+            "Close-up: steaming bowls hitting the table",
+            "Pan across packed dining room, no tourists",
+            "Hand lifts chopsticks, first bite reaction"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJT6Xejc2NpzERdkK-4arbWEI",
+      "placeName": "Nhà Xưa 68",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-22-RdkK-4arbWEI-0.jpg",
+        "out/media/2026-06-22-RdkK-4arbWEI-1.jpg",
+        "out/media/2026-06-22-RdkK-4arbWEI-2.jpg",
+        "out/media/2026-06-22-RdkK-4arbWEI-3.jpg",
+        "out/media/2026-06-22-RdkK-4arbWEI-4.jpg",
+        "out/media/2026-06-22-RdkK-4arbWEI-5.jpg",
+        "out/media/2026-06-22-RdkK-4arbWEI-6.jpg",
+        "out/media/2026-06-22-RdkK-4arbWEI-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "625 reviews. 4.4 stars. And most tourists walk straight past Nhà Xưa 68.\n\nThis local restaurant on Lý Thường Kiệt is pulling serious numbers for a reason. Real food, real portions, real Phu Quoc flavors without the resort markup.\n\nIf a place with 625 reviews still feels off the tourist radar, you go. Simple.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "625 people rated Nhà Xưa 68 and it still isn't on most tourist itineraries. Watch what lands on the table here. Phu Quoc local dining, no filter.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "625 reviews. 4.4 stars. Still under the radar.\n\nNhà Xưa 68 on Lý Thường Kiệt is the local spot your itinerary is missing. Save this.",
+          "video_caption": "Walked into Nhà Xưa 68 with 625 reviews backing it up. The food did not disappoint. Tag your travel buddy.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "625 reviews and still flying under the radar. Nhà Xưa 68 hits different. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "625 reviews. Still unknown.",
+          "scenes": [
+            "Exterior shot: 68 Lý Thường Kiệt sign",
+            "Walk through entrance, local crowd visible",
+            "Dishes arriving at the table, close up",
+            "Fork/chopsticks digging in, steam rising",
+            "Cut to Google review count on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ7fpDGamNpzERBaF8duO9WKY",
+      "placeName": "Bánh Mì & You",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-22-RBaF8duO9WKY-0.jpg",
+        "out/media/2026-06-22-RBaF8duO9WKY-1.jpg",
+        "out/media/2026-06-22-RBaF8duO9WKY-2.jpg",
+        "out/media/2026-06-22-RBaF8duO9WKY-3.jpg",
+        "out/media/2026-06-22-RBaF8duO9WKY-4.jpg",
+        "out/media/2026-06-22-RBaF8duO9WKY-5.jpg",
+        "out/media/2026-06-22-RBaF8duO9WKY-6.jpg",
+        "out/media/2026-06-22-RBaF8duO9WKY-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-22-RBaF8duO9WKY.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you're in Cửa Lấp and you find a bánh mì spot with 4.8 stars and 675 reviews. You almost walked past it. Don't be that person.\n\nBánh Mì & You is the real deal. Not the tourist strip. Not overpriced. Just a sandwich that earns its rating every single day.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "675 people rated this 4.8 stars. Watch why Bánh Mì & You in Cửa Lấp keeps earning it. One bite and you'll get it.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #BanhMi #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+        },
+        "instagram": {
+          "caption": "POV: you almost walked past a 4.8-star bánh mì spot in Cửa Lấp.\nBánh Mì & You. 675 reviews. Go.\n\nTag your travel buddy.",
+          "video_caption": "675 reviews. 4.8 stars. Bánh Mì & You in Cửa Lấp hits different. Don't sleep on this one.",
+          "hashtags": "#PhuQuocFood #PhuQuocTips #BanhMi #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VietnamFood #FoodInVietnam"
+        },
+        "tiktok": {
+          "caption": "Almost missed the best bánh mì in Phu Quoc. 4.8 stars, 675 reviews. Bánh Mì & You, Cửa Lấp. #PhuQuoc #PhuQuocFood #BanhMi #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "You almost walked past this.",
+          "scenes": [
+            "Street-level shot of Bánh Mì & You storefront",
+            "Hands unwrapping a fresh bánh mì",
+            "Close-up: fillings, crispy baguette, steam rising",
+            "First bite reaction, no words needed",
+            "Phone screen shows 4.8 stars, 675 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}
