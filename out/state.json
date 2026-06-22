@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ7fpDGamNpzERBaF8duO9WKY",
+    "ChIJT6Xejc2NpzERdkK-4arbWEI",
+    "ChIJ652atFCNpzERuDwXbWc_sTQ",
+    "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
+    "ChIJg25lxluMpzERrx21QiH3gaI",
+    "ChIJj9eeH0-XpzERR3O-7B0rxFo",
+    "ChIJv-9uPmUfCDER6NeYGQTjw3g",
+    "ChIJReCCyQsfCDEREcf_dOKY-wA",
+    "ChIJVRCAbGGNpzERkJ7P7jN-dls",
+    "ChIJ-0XGzouOpzERbbOfSGDmmuU",
+    "ChIJLa_VvluMpzERVdeTFM021V4",
+    "ChIJyQi3u2GMpzERVXgllKB2V_A",
     "ChIJLUwZPQCNpzERZrGj0TvOFHI",
     "ChIJ2fu7BmGNpzERyc_w8wahNio",
     "ChIJhwi1TFqTpzERiZQmfO7PxUY",
@@ -187,21 +199,189 @@
     "ChIJ_3mcEp-NpzERP0uTjkMlQ30",
     "ChIJYVpQmqSJpzERQ2jruG6WqKE",
     "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
-    "ChIJkX-ZsFiTpzER9TM2r77QY5g",
-    "ChIJey6dXQCNpzERP3w5WxacNrw",
-    "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
-    "ChIJAz1J0-mNpzERyQ40GMjmouI",
-    "ChIJ06-yPMWNpzERvRqJgvDuNe8",
-    "ChIJw9DS5DofCDERIiLSz3fmVKY",
-    "ChIJyUtXhYCPpzERS0pgKYm7hu4",
-    "ChIJCxSJFRGPpzERvq1ZTl4QO8c",
-    "ChIJ_9CmnfSNpzERsmmH4TLwHy4",
-    "ChIJI5DMg7mNpzER_AUE58P5avM",
-    "ChIJMy-NusSNpzERrIESZrdhmz0",
-    "ChIJl1AwDfuNpzERAZBzVul_WO8",
-    "ChIJ3ZgwWLONpzERIM11I5sYgVs"
+    "ChIJkX-ZsFiTpzER9TM2r77QY5g"
   ],
   "history": [
+    {
+      "date": "2026-06-22",
+      "placeId": "ChIJ7fpDGamNpzERBaF8duO9WKY",
+      "placeName": "Bánh Mì & You",
+      "results": {
+        "facebookVideo": {
+          "id": "1376371307694099"
+        },
+        "instagramReel": {
+          "id": "18011680688883670"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "placeId": "ChIJT6Xejc2NpzERdkK-4arbWEI",
+      "placeName": "Nhà Xưa 68",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110329951313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17867274450629488"
+        }
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "placeId": "ChIJ652atFCNpzERuDwXbWc_sTQ",
+      "placeName": "Quán Ăn 93",
+      "results": {
+        "facebookVideo": {
+          "id": "1026567446378961"
+        },
+        "instagramReel": {
+          "id": "18104576558008842"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "placeId": "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
+      "placeName": "Phu Quoc Street Food Tour - Eat with Locals, Drink with Locals",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110329075313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18096388499222135"
+        }
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "placeId": "ChIJg25lxluMpzERrx21QiH3gaI",
+      "placeName": "Blue Monkey Bar",
+      "results": {
+        "facebookVideo": {
+          "id": "1008655768527096"
+        },
+        "instagramReel": {
+          "id": "18038138840803615"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "placeId": "ChIJj9eeH0-XpzERR3O-7B0rxFo",
+      "placeName": "CÁI MÂM BISTRO",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110328055313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17912908527418903"
+        }
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "placeId": "ChIJv-9uPmUfCDER6NeYGQTjw3g",
+      "placeName": "Grand World Food Court",
+      "results": {
+        "facebookVideo": {
+          "id": "1846898809619960"
+        },
+        "instagramReel": {
+          "id": "18033040793810376"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "placeId": "ChIJReCCyQsfCDEREcf_dOKY-wA",
+      "placeName": "The Beach Bistro",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110326999313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18067885766441907"
+        }
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "placeId": "ChIJVRCAbGGNpzERkJ7P7jN-dls",
+      "placeName": "The Home Pizza Tran Hung Dao",
+      "results": {
+        "facebookVideo": {
+          "id": "1715292579663505"
+        },
+        "instagramReel": {
+          "id": "18073012196687940"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "placeId": "ChIJ-0XGzouOpzERbbOfSGDmmuU",
+      "placeName": "Tiên Sơn Đỉnh",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110326015313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18324682639258505"
+        }
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
+      "placeName": "Jerry's Jungle Tours",
+      "results": {
+        "facebookVideo": {
+          "id": "1573105564428957"
+        },
+        "instagramReel": {
+          "id": "18076090415313570"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "placeId": "ChIJyQi3u2GMpzERVXgllKB2V_A",
+      "placeName": "RED RIVER TOURS",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110325043313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17934308172291293"
+        }
+      }
+    },
     {
       "date": "2026-06-21",
       "placeId": "ChIJLUwZPQCNpzERZrGj0TvOFHI",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "17938590036054366"
-        }
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "placeId": "ChIJey6dXQCNpzERP3w5WxacNrw",
-      "placeName": "Rosso Sky Bar & Lounge | Night Club",
-      "results": {
-        "facebookVideo": {
-          "id": "36073722795576713"
-        },
-        "instagramReel": {
-          "error": "Unexpected end of JSON input"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "placeId": "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
-      "placeName": "Aloha Beach Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107282929313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17882163420437289"
-        }
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "placeId": "ChIJAz1J0-mNpzERyQ40GMjmouI",
-      "placeName": "The Cheeky Traveller English Pub & Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1002118109208993"
-        },
-        "instagramReel": {
-          "id": "18095115341267510"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "placeId": "ChIJ06-yPMWNpzERvRqJgvDuNe8",
-      "placeName": "Origin 1982 - Speakeasy bar in The last old house (1982)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107282065313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18596593903060987"
-        }
-      }
-    },
-    {
-      "date": "2026-06-05",
-      "placeId": "ChIJw9DS5DofCDERIiLSz3fmVKY",
-      "placeName": "Cầu Ánh Sáng (Bridge of Light)",
-      "results": {
-        "facebookVideo": {
-          "id": "4215384758721991"
-        },
-        "instagramReel": {
-          "id": "18090691607176581"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-05",
-      "placeId": "ChIJyUtXhYCPpzERS0pgKYm7hu4",
-      "placeName": "Khu du lịch Suối Tranh",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107004655313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18102594995083280"
-        }
-      }
-    },
-    {
-      "date": "2026-06-05",
-      "placeId": "ChIJCxSJFRGPpzERvq1ZTl4QO8c",
-      "placeName": "Fairy Waterfall",
-      "results": {
-        "facebookVideo": {
-          "id": "2157567898354506"
-        },
-        "instagramReel": {
-          "id": "18083237111185368"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-05",
-      "placeId": "ChIJ_9CmnfSNpzERsmmH4TLwHy4",
-      "placeName": "ZEN Spa & Nail (2)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107003521313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17939474355249184"
-        }
-      }
-    },
-    {
-      "date": "2026-06-05",
-      "placeId": "ChIJI5DMg7mNpzER_AUE58P5avM",
-      "placeName": "Serenity Spa",
-      "results": {
-        "facebookVideo": {
-          "id": "803611972687193"
-        },
-        "instagramReel": {
-          "id": "17914432722405653"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-05",
-      "placeId": "ChIJMy-NusSNpzERrIESZrdhmz0",
-      "placeName": "Relax Spa massage , waxing and nail",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107002579313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18085769648122450"
-        }
-      }
-    },
-    {
-      "date": "2026-06-05",
-      "placeId": "ChIJl1AwDfuNpzERAZBzVul_WO8",
-      "placeName": "Massage DuBai Luxury Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "853377447849259"
-        },
-        "instagramReel": {
-          "id": "18111542129506891"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-05",
-      "placeId": "ChIJ3ZgwWLONpzERIM11I5sYgVs",
-      "placeName": "Massage Phú Quốc - Nhiên Spa | 마사지 | 스파 | Spa Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107001721313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18113705635678034"
         }
       }
     }
