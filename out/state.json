@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJTdwiKNmVpzER1knXm_zr2zA",
+    "ChIJE6Jt3vuVpzERA6ErTfB79es",
+    "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
+    "ChIJrXaM1tmNpzERj7I5uw4cwro",
+    "ChIJo5M0X62NpzERgrGHtWo8nCQ",
+    "ChIJYQY76P2NpzERlul1IUfk3N8",
+    "ChIJ44y8R_uNpzERI0lt0GkPrNM",
+    "ChIJAWovfRONpzERI7y_gpk_6D0",
+    "ChIJo-0fmz6NpzERIEhHbz8e4T8",
+    "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
+    "ChIJI5WlJe2TpzERePcxr40c2U4",
+    "ChIJtePCImGLpzER70_qwXv_noQ",
     "ChIJ7fpDGamNpzERBaF8duO9WKY",
     "ChIJT6Xejc2NpzERdkK-4arbWEI",
     "ChIJ652atFCNpzERuDwXbWc_sTQ",
@@ -187,21 +199,189 @@
     "ChIJ2bp76JUfCDER2BAKZAkG66c",
     "ChIJbUZGsQEfCDERXgX4I2SUCsI",
     "ChIJb94_UYaMpzERLROoXapH5lI",
-    "ChIJn_OoioaMpzER6LmKuuTHasY",
-    "ChIJdQIPu76LpzERR-arMzuJz5I",
-    "ChIJaV6sC_KLpzERlAdjMI0q54s",
-    "ChIJCcDXjO2NpzERpuULcuYBz_U",
-    "ChIJqfezlgAfCDERaYwzQEp_Rkc",
-    "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
-    "ChIJe_vjTACNpzERrvGoA9qvlAU",
-    "ChIJO2yx-4eMpzER80b94-QiU6c",
-    "ChIJ00OuQxuTpzER-w6UBHVBLJo",
-    "ChIJ_3mcEp-NpzERP0uTjkMlQ30",
-    "ChIJYVpQmqSJpzERQ2jruG6WqKE",
-    "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
-    "ChIJkX-ZsFiTpzER9TM2r77QY5g"
+    "ChIJn_OoioaMpzER6LmKuuTHasY"
   ],
   "history": [
+    {
+      "date": "2026-06-23",
+      "placeId": "ChIJTdwiKNmVpzER1knXm_zr2zA",
+      "placeName": "Cafe Juliet & Pastries",
+      "results": {
+        "facebookVideo": {
+          "id": "1508855244353914"
+        },
+        "instagramReel": {
+          "id": "18125453143711059"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "placeId": "ChIJE6Jt3vuVpzERA6ErTfB79es",
+      "placeName": "The Juliet Coffee & Dessert - AMA71",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110522131313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18133939261599219"
+        }
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "placeId": "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
+      "placeName": "LOLO BAKERY & CAFE (로로베이커리)",
+      "results": {
+        "facebookVideo": {
+          "id": "1551780929907004"
+        },
+        "instagramReel": {
+          "id": "18468551527107990"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "placeId": "ChIJrXaM1tmNpzERj7I5uw4cwro",
+      "placeName": "할로망고 푸꾸옥. HALO MANGO Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110521093313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18102967490282271"
+        }
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "placeId": "ChIJo5M0X62NpzERgrGHtWo8nCQ",
+      "placeName": "MIX BAKERY COFFEE & TEA",
+      "results": {
+        "facebookVideo": {
+          "id": "2456675381423595"
+        },
+        "instagramReel": {
+          "id": "18086571428111889"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "placeId": "ChIJYQY76P2NpzERlul1IUfk3N8",
+      "placeName": "Bapaki Tea, Bakery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110520049313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18446318635190050"
+        }
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "placeId": "ChIJ44y8R_uNpzERI0lt0GkPrNM",
+      "placeName": "Tiệm Bánh Kem Phú Quốc - PP Bakery",
+      "results": {
+        "facebookVideo": {
+          "id": "2073298420290419"
+        },
+        "instagramReel": {
+          "id": "18108182398992061"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "placeId": "ChIJAWovfRONpzERI7y_gpk_6D0",
+      "placeName": "Devis Bakery Phu Quoc 데비스베이커리",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110519041313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17870652219684234"
+        }
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "placeId": "ChIJo-0fmz6NpzERIEhHbz8e4T8",
+      "placeName": "TUNG Cake and Tea - Thu Hiền Bakery",
+      "results": {
+        "facebookVideo": {
+          "id": "1744991086496975"
+        },
+        "instagramReel": {
+          "id": "17909777517424222"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "placeId": "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
+      "placeName": "The Cake Corner",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110518201313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18075723854472467"
+        }
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "placeId": "ChIJI5WlJe2TpzERePcxr40c2U4",
+      "placeName": "O BON PAIN-FRENCH BAKERY",
+      "results": {
+        "facebookVideo": {
+          "id": "1743331863683748"
+        },
+        "instagramReel": {
+          "id": "18118172725712086"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "placeId": "ChIJtePCImGLpzER70_qwXv_noQ",
+      "placeName": "Đảo Hải Sản | Seafood Restaurant · 해산물 · Рестораны Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110517463313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18004453967933317"
+        }
+      }
+    },
     {
       "date": "2026-06-22",
       "placeId": "ChIJ7fpDGamNpzERBaF8duO9WKY",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "17885182389568659"
-        }
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "placeId": "ChIJdQIPu76LpzERR-arMzuJz5I",
-      "placeName": "Eco Tour Thai Duong – Cua Can River Basket Boat Experience",
-      "results": {
-        "facebookVideo": {
-          "id": "2104620237065121"
-        },
-        "instagramReel": {
-          "id": "17972900670027290"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "placeId": "ChIJaV6sC_KLpzERlAdjMI0q54s",
-      "placeName": "Kayaking Dynasty",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107484859313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18083559887428183"
-        }
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "placeId": "ChIJCcDXjO2NpzERpuULcuYBz_U",
-      "placeName": "Thuê cano riêng -FISHING TOUR",
-      "results": {
-        "facebookVideo": {
-          "id": "1386274843339704"
-        },
-        "instagramReel": {
-          "id": "18375962566207402"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "placeId": "ChIJqfezlgAfCDERaYwzQEp_Rkc",
-      "placeName": "ALOHA88 - Kayak & Snorkeling club",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107483959313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18009171809729056"
-        }
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "placeId": "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
-      "placeName": "Istanbul Beach Club Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "926027377145736"
-        },
-        "instagramReel": {
-          "id": "18361657504224511"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "placeId": "ChIJe_vjTACNpzERrvGoA9qvlAU",
-      "placeName": "Mojito Beach Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107287369313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17894177691472126"
-        }
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "placeId": "ChIJO2yx-4eMpzER80b94-QiU6c",
-      "placeName": "HAPPY BEAR Live Music Bar & Bistro",
-      "results": {
-        "facebookVideo": {
-          "id": "1315262950721652"
-        },
-        "instagramReel": {
-          "id": "18102687890088282"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "placeId": "ChIJ00OuQxuTpzER-w6UBHVBLJo",
-      "placeName": "INK 360 Rooftop Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107286439313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18422977297131837"
-        }
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "placeId": "ChIJ_3mcEp-NpzERP0uTjkMlQ30",
-      "placeName": "Shisha Bar Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1570353957853838"
-        },
-        "instagramReel": {
-          "id": "18099529520142784"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "placeId": "ChIJYVpQmqSJpzERQ2jruG6WqKE",
-      "placeName": "Rory's Beach Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107285281313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18065224901448670"
-        }
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "placeId": "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
-      "placeName": "House No. 1",
-      "results": {
-        "facebookVideo": {
-          "id": "1361840305797809"
-        },
-        "instagramReel": {
-          "id": "17930126796312608"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-06",
-      "placeId": "ChIJkX-ZsFiTpzER9TM2r77QY5g",
-      "placeName": "Fu Bar - Regent Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107284183313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17938590036054366"
         }
       }
     }
