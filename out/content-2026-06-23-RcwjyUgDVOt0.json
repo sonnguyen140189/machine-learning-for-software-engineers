@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're at Bãi Trường and somehow stumble into a Korean-run bakery with a 4.9-star rating inside a resort complex. LOLO BAKERY & CAFE hits different. Fresh pastries, proper coffee, and the kind of cozy corner you didn't think you'd find on a beach trip. 1,537 reviews at 4.9. That's not luck, that's consistency. Save this for your Phu Quoc trip.",
+    "video_caption": "Walk inside LOLO BAKERY & CAFE at Sonasea and watch the pastry shelf clear out by 9am. 4.9 stars. 1,537 reviews. Now you know why.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocFood #BaiTruong #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "POV: found a 4.9-star Korean bakery hiding inside Sonasea resort on Bãi Trường. LOLO BAKERY & CAFE. 1,537 reviews don't lie. Tag your travel buddy.",
+    "video_caption": "Pastries disappearing fast at LOLO BAKERY & CAFE. 4.9 stars inside Sonasea, Bãi Trường. Go early.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #BaiTruong #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: 4.9-star Korean bakery inside a resort on Bãi Trường. LOLO BAKERY & CAFE is the real deal. #PhuQuoc #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: 4.9★ bakery. Beach resort.",
+    "scenes": [
+      "Exterior shot: Sonasea villa complex sign",
+      "Walk through resort path to LOLO storefront",
+      "Close-up: fresh pastries stacked on display shelf",
+      "Barista pulls espresso, steam rising",
+      "Guest biting into pastry, genuine reaction",
+      "Screen text: 1,537 reviews. 4.9 stars."
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

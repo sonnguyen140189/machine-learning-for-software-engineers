@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this bakery. Locals don't.\n\nDevis Bakery Phu Quoc 데비스베이커리 on Đường Trần Hưng Đạo is pulling a 4.9★ from 812 reviews. That's not luck. Fresh pastries, real coffee, the kind of morning spot that actually earns its rating.\n\nSkip the hotel breakfast. Come here first.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.9 stars. 812 reviews. One bakery on Đường Trần Hưng Đạo that most tourists never find. Devis Bakery Phu Quoc 데비스베이커리 is doing something right. Watch till the end.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Devis Bakery Phu Quoc 데비스베이커리. 4.9★, 812 reviews, zero hype.\n\nTag your travel buddy.",
+    "video_caption": "Walked past twice. Finally went in. 4.9 stars makes sense now. Devis Bakery Phu Quoc 데비스베이커리.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BakeryPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The bakery locals keep off tourist lists. 4.9★ on Đường Trần Hưng Đạo. Don't skip this. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post this bakery.",
+    "scenes": [
+      "Exterior shot: Devis Bakery signage on Đường Trần Hưng Đạo",
+      "Close-up: fresh pastries lined up in display case",
+      "Hands reaching for coffee cup, steam rising",
+      "Quick cut: Google rating 4.9★, 812 reviews on screen",
+      "Wide shot: cozy interior, morning light through windows"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

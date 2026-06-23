@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you ducked into a random alley off Đ. Trần Phú and found Đảo Hải Sản. 4.7 stars. 1,335 reviews. $15-30 a head for a full seafood spread. Fresh off the boat, grilled right in front of you. This is the kind of place you stumble into and immediately text everyone back home about. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the grill fire up at Đảo Hải Sản. Alley spot. 4.7 stars. $15-30 for a seafood feast in Phu Quoc. Your dinner plans just changed.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "Walked down a random alley. Found Đảo Hải Sản. 4.7★, 1,335 reviews, $15-30/head. Save this for your Phu Quoc trip.",
+    "video_caption": "A Phu Quoc alley. A live seafood grill. 4.7 stars. $15-30. Don't walk past Đảo Hải Sản.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Wrong alley. Right call. Đảo Hải Sản hit different. 4.7★, $15-30/head. #PhuQuoc #PhuQuocFood #VietnamEats #SeafoodLovers"
+  },
+  "video_script": {
+    "hook": "Took a wrong turn. Found this.",
+    "scenes": [
+      "Alley entrance, Hẻm 111 sign visible",
+      "Live seafood tanks, crabs and prawns moving",
+      "Chef places whole fish onto open grill",
+      "Flames rise, smoke curls into frame",
+      "Full table spread, $15-30 price text overlay",
+      "4.7★ review screen on phone, 1,335 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

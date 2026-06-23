@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you needed a break from beach bars and found Bapaki Tea, Bakery on Hùng Vương instead.\n\n4.8 stars. 154 reviews. A bakery that actually earns both.\n\nFresh bakes, proper tea, the kind of slow morning Phu Quoc doesn't advertise. No crowds. No hustle. Just you, a pastry, and a reset.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Fresh pastry coming out. Tea poured. Nobody rushing you. Bapaki Tea, Bakery on Hùng Vương is the slow morning Phu Quoc owes you. 4.8 stars. 154 reviews. Go find out why.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BakeryPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you skipped the resort breakfast. Smart move.\n\nBapaki Tea, Bakery. 4.8★, 154 reviews. Hùng Vương. Go before it fills up.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Pastry. Tea. No tourist crowd. Bapaki Tea, Bakery hits different at 8am. 4.8 stars on Hùng Vương. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #BakeryPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Skipped resort breakfast. Found Bapaki Tea, Bakery. 4.8 stars. No regrets. #PhuQuoc #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Skip the resort breakfast.",
+    "scenes": [
+      "Close-up: pastry pulled from display case",
+      "Tea poured into a clear glass cup",
+      "Empty seats, morning light coming in",
+      "Hand picks up pastry, first bite taken",
+      "Sign: Bapaki Tea, Bakery, Hùng Vương"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

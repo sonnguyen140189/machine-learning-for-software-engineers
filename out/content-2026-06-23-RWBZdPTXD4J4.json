@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered down Đường Phan Đình Phùng and found The Cake Corner. 4.9 stars. 62 reviews. A bakery that locals clearly keep coming back to. Skip the resort breakfast buffet, grab something fresh here, and start the day right. Khu 1, Phú Quốc. Save this for your Phu Quoc trip.",
+    "video_caption": "Fresh bakes at The Cake Corner, Đường Phan Đình Phùng. 4.9 stars from 62 locals who know. This is what skipping the hotel breakfast looks like. Worth every step of the detour.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocTips #VisitVietnam #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Walked past once. Turned back. The Cake Corner, 4.9★, 62 reviews. Đường Phan Đình Phùng, Phú Quốc. Save this.",
+    "video_caption": "4.9 stars at a Phu Quoc bakery most tourists walk right past. The Cake Corner earns it.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocCafe #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: stumbled onto a 4.9★ bakery in Phu Quoc nobody talks about. The Cake Corner delivering. #PhuQuoc #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found this bakery.",
+    "scenes": [
+      "Walk along Đường Phan Đình Phùng",
+      "Storefront of The Cake Corner appears",
+      "Close-up: fresh bakes on display",
+      "Hand picks up a pastry",
+      "4.9★ rating flashes on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Coffee, pastries, and a proper sit-down at MIX BAKERY COFFEE & TEA, all under $15. In Phu Quoc. Yes, that's the $$ bracket doing real work. 4.5 stars across 602 reviews means this isn't a fluke. It's the kind of cafe you block two hours for, not two minutes. Find it at 156 Đ. 30 Tháng 4, Phú Quốc. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the pastry case at MIX BAKERY COFFEE & TEA. 602 people rated it 4.5 stars. The bill stays under $15. That's Phu Quoc doing cafe culture right.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $15 for coffee and bakes at MIX BAKERY COFFEE & TEA. 4.5 stars. 602 reviews. Tag your travel buddy.",
+    "video_caption": "Pastries, a proper brew, 4.5 stars. MIX BAKERY COFFEE & TEA keeps the bill under $15.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CafeHopping"
+  },
+  "tiktok": {
+    "caption": "Under $15 at MIX BAKERY COFFEE & TEA, Phú Quốc. 4.5 stars. 602 reviews. Go. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Under $15. 4.5 stars. Phu Quoc.",
+    "scenes": [
+      "Pan across full pastry display case",
+      "Barista pours latte art close-up",
+      "Show table spread, bill visible under $15",
+      "Cut to Google review count: 602"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
