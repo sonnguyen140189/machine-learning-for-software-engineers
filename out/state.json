@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJe_vjTACNpzERrvGoA9qvlAU",
+    "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
+    "ChIJey6dXQCNpzERP3w5WxacNrw",
+    "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
+    "ChIJO2yx-4eMpzER80b94-QiU6c",
+    "ChIJAz1J0-mNpzERyQ40GMjmouI",
+    "ChIJVVVVVXQgCDER_KXFZ6RZQ8Q",
+    "ChIJ_0eqFMcfCDERGFRN2VvZDXg",
+    "ChIJUYfZHeSNpzER5-l8QW0lTcM",
+    "ChIJh878oruNpzER7b0NN-zrQpk",
+    "ChIJb5faY8qNpzERH4uW3FwoE5s",
+    "ChIJgfT9NoygKU8R8P0qLndf3k0",
     "ChIJTdwiKNmVpzER1knXm_zr2zA",
     "ChIJE6Jt3vuVpzERA6ErTfB79es",
     "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
@@ -187,21 +199,189 @@
     "ChIJcSDG-fqWpzERQkkxuLWDUyU",
     "ChIJQ4JcfECSpzER9dUT9AlYDJk",
     "ChIJLZPWxLiWpzERwrkgfIa1P8I",
-    "ChIJ0R95YniTpzER8HfwfZ2aMZI",
-    "ChIJsWqZg7gfCDERVA6dihKWpho",
-    "ChIJ4QSQI2yJpzERRmh6eVFXHdU",
-    "ChIJwaXLFgyJpzERsHSEodjscKQ",
-    "ChIJd8N-u3CPpzERe2DX-mg_nWE",
-    "ChIJ8zUfc5iXpzERSSpBZR01y2c",
-    "ChIJc-syEUyNpzERlXt7rXb3Hcg",
-    "ChIJvxdKNoKWpzERAWSyG5rABsg",
-    "ChIJH_PX_b6VpzERKTtTpGV5YXk",
-    "ChIJ2bp76JUfCDER2BAKZAkG66c",
-    "ChIJbUZGsQEfCDERXgX4I2SUCsI",
-    "ChIJb94_UYaMpzERLROoXapH5lI",
-    "ChIJn_OoioaMpzER6LmKuuTHasY"
+    "ChIJ0R95YniTpzER8HfwfZ2aMZI"
   ],
   "history": [
+    {
+      "date": "2026-06-24",
+      "placeId": "ChIJe_vjTACNpzERrvGoA9qvlAU",
+      "placeName": "Mojito Beach Bar",
+      "results": {
+        "facebookVideo": {
+          "id": "1695138551812776"
+        },
+        "instagramReel": {
+          "id": "18085550531440511"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "placeId": "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
+      "placeName": "House No. 1",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110676265313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17868933075558978"
+        }
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "placeId": "ChIJey6dXQCNpzERP3w5WxacNrw",
+      "placeName": "Rosso Sky Bar & Lounge | Night Club",
+      "results": {
+        "facebookVideo": {
+          "id": "1175463941415151"
+        },
+        "instagramReel": {
+          "id": "17893613670537690"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "placeId": "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
+      "placeName": "Aloha Beach Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110675173313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18109368184942803"
+        }
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "placeId": "ChIJO2yx-4eMpzER80b94-QiU6c",
+      "placeName": "HAPPY BEAR Live Music Bar & Bistro",
+      "results": {
+        "facebookVideo": {
+          "id": "2253945168765945"
+        },
+        "instagramReel": {
+          "id": "17931379674324610"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "placeId": "ChIJAz1J0-mNpzERyQ40GMjmouI",
+      "placeName": "The Cheeky Traveller English Pub & Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110674045313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18234578773313103"
+        }
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "placeId": "ChIJVVVVVXQgCDER_KXFZ6RZQ8Q",
+      "placeName": "Phu Quoc Bee Farm",
+      "results": {
+        "facebookVideo": {
+          "id": "2214665075776814"
+        },
+        "instagramReel": {
+          "id": "18048038282562338"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "placeId": "ChIJ_0eqFMcfCDERGFRN2VvZDXg",
+      "placeName": "Phố đi bộ - chợ đêm Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110673121313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18106968751984003"
+        }
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "placeId": "ChIJUYfZHeSNpzER5-l8QW0lTcM",
+      "placeName": "Liby Travel - Phu Quoc Island Tours",
+      "results": {
+        "facebookVideo": {
+          "id": "4235713806738723"
+        },
+        "instagramReel": {
+          "id": "18156805735420042"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "placeId": "ChIJh878oruNpzER7b0NN-zrQpk",
+      "placeName": "Ecodive Vietnam - Trung Tâm Lặn Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110672239313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18174775732416632"
+        }
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "placeId": "ChIJb5faY8qNpzERH4uW3FwoE5s",
+      "placeName": "Vietnam Explorer PADI Dive Center",
+      "results": {
+        "facebookVideo": {
+          "id": "2045776076008701"
+        },
+        "instagramReel": {
+          "id": "18164201227451090"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "placeId": "ChIJgfT9NoygKU8R8P0qLndf3k0",
+      "placeName": "Poseidon Diving School Phu Quoc Padi",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122110671315313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18211319695338540"
+        }
+      }
+    },
     {
       "date": "2026-06-23",
       "placeId": "ChIJTdwiKNmVpzER1knXm_zr2zA",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "17867314062626612"
-        }
-      }
-    },
-    {
-      "date": "2026-06-08",
-      "placeId": "ChIJsWqZg7gfCDERVA6dihKWpho",
-      "placeName": "Vinwonders Fountain",
-      "results": {
-        "facebookVideo": {
-          "id": "1686709125989177"
-        },
-        "instagramReel": {
-          "id": "18106987894768485"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-08",
-      "placeId": "ChIJ4QSQI2yJpzERRmh6eVFXHdU",
-      "placeName": "Duong Dong Lake",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107634127313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph /17841415599286595/media failed: {\"error\":{\"message\":\"An unknown error has occurred.\",\"type\":\"OAuthException\",\"code\":1,\"fbtrace_id\":\"AuV03ZdTRgxpNtNPac-GwNp\"}}"
-        }
-      }
-    },
-    {
-      "date": "2026-06-08",
-      "placeId": "ChIJwaXLFgyJpzERsHSEodjscKQ",
-      "placeName": "Khu du lịch sinh thái (Suối Đá Bàn)",
-      "results": {
-        "facebookVideo": {
-          "id": "2046739905952127"
-        },
-        "instagramReel": {
-          "id": "18231374428313674"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-08",
-      "placeId": "ChIJd8N-u3CPpzERe2DX-mg_nWE",
-      "placeName": "Suoi Tranh Waterfall",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107633125313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17891961084507674"
-        }
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "placeId": "ChIJ8zUfc5iXpzERSSpBZR01y2c",
-      "placeName": "Phu Quoc Prison History Museum",
-      "results": {
-        "facebookVideo": {
-          "id": "1642327386882311"
-        },
-        "instagramReel": {
-          "id": "18077154119404360"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "placeId": "ChIJc-syEUyNpzERlXt7rXb3Hcg",
-      "placeName": "Dinh Cau Lighthouse",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107488051313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18033653675805587"
-        }
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "placeId": "ChIJvxdKNoKWpzERAWSyG5rABsg",
-      "placeName": "Hon Thom Departure Terminal - Sun World Hon Thom Nature Park",
-      "results": {
-        "facebookVideo": {
-          "id": "26947461464864220"
-        },
-        "instagramReel": {
-          "id": "18076622234252228"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "placeId": "ChIJH_PX_b6VpzERKTtTpGV5YXk",
-      "placeName": "Sunset Town",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107487229313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17859067419646763"
-        }
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "placeId": "ChIJ2bp76JUfCDER2BAKZAkG66c",
-      "placeName": "Vinpearl Safari Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "888095834323141"
-        },
-        "instagramReel": {
-          "id": "17969161626060244"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "placeId": "ChIJbUZGsQEfCDERXgX4I2SUCsI",
-      "placeName": "Grand World Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107486449313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18089602775194951"
-        }
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "placeId": "ChIJb94_UYaMpzERLROoXapH5lI",
-      "placeName": "Dinh Bà Thủy Long Thánh Mẫu",
-      "results": {
-        "facebookVideo": {
-          "id": "2236900870415832"
-        },
-        "instagramReel": {
-          "id": "17892611364530697"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-07",
-      "placeId": "ChIJn_OoioaMpzER6LmKuuTHasY",
-      "placeName": "Dinh Cậu",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122107485591313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17885182389568659"
         }
       }
     }
