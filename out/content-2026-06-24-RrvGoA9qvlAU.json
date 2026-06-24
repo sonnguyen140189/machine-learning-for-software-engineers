@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes a bad travel day. Mojito Beach Bar on Đường Trần Hưng Đạo hits different when the sun drops and the breeze picks up. Sand underfoot, drink in hand, zero resort pretension. 4.4 stars from 86 real reviews. That number holds because the vibe is consistent. Not flashy. Just right. Save this for your Phu Quoc trip.",
+    "video_caption": "Sand bar. Cold drink. Sun going down over Phu Quoc. Mojito Beach Bar on Đường Trần Hưng Đạo is exactly what a beach bar should be. 4.4 stars. 86 reviews. The vibe speaks for itself.",
+    "first_comment": "#PhuQuoc #PhuQuocBeachBar #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocNightlife #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "This place fixes a bad travel day. Mojito Beach Bar. 4.4 stars. Sand, breeze, no pretension. Save this.",
+    "video_caption": "Sun drops. Drink arrives. Mojito Beach Bar delivers every time. 4.4 stars on Đường Trần Hưng Đạo.",
+    "hashtags": "#PhuQuocBeachBar #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc #BeachBar"
+  },
+  "tiktok": {
+    "caption": "The beach bar that actually delivers. Mojito Beach Bar, Phu Quoc. 4.4 stars. #PhuQuoc #PhuQuocTips #BeachBar #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This fixes a bad travel day.",
+    "scenes": [
+      "Wide shot: bar sign at golden hour",
+      "Feet in sand, drink sweating on table",
+      "Bartender shaking a mojito, close up",
+      "Crowd laughing, sun halfway down",
+      "Empty horizon, last light fading"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

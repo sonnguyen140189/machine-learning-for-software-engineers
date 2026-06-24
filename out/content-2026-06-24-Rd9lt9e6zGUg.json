@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 774 reviews. One bar on Đường Bạch Đằng that keeps delivering. House No. 1 in Khu 1 is the kind of place locals return to and tourists wish they found on day one. Drinks, vibes, and a crowd that knows what it's doing. Skip the resort bar tonight. Save this for your Phu Quoc trip.",
+    "video_caption": "Drinks hitting. Crowd buzzing. House No. 1 on Đường Bạch Đằng earns that 4.8 the hard way. This is what a real Phu Quoc night out looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBars #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 774 reviews. House No. 1 is earning every single one. Tag your travel buddy.",
+    "video_caption": "Bar full. Glasses clinking. 774 people rated this 4.8. House No. 1 doesn't miss.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars. 774 reviews. House No. 1 in Phu Quoc is not a fluke. #PhuQuoc #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★. 774 reviews. One bar.",
+    "scenes": [
+      "Exterior sign: House No. 1 lit up",
+      "Bartender pours, hands move fast",
+      "Packed crowd, glasses raised",
+      "Close-up: drink condensation, golden light",
+      "Wide shot: full bar energy, Đường Bạch Đằng"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

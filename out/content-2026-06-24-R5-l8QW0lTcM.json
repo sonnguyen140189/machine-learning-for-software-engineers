@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stopped guessing which tour company is legit and just booked. Liby Travel on Đường Trần Hưng Đạo is the one locals point you toward. 4.9 stars across 220 reviews. That's not luck. Island day trips, boat tours, transfers, they run it all. Save this for your Phu Quoc trip.",
+    "video_caption": "Watching the boats leave from the dock while your tour is already sorted. That's the Liby Travel effect. 4.9 stars. 220 reviews. Đường Trần Hưng Đạo. Book before it fills.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #PhuQuocTips #VisitVietnam #TravelTips #VietnamTravel #IslandTours"
+  },
+  "instagram": {
+    "caption": "POV: you found the 4.9-star tour agency locals actually use. Liby Travel, Đường Trần Hưng Đạo. 220 reviews deep. Tag your travel buddy.",
+    "video_caption": "Boat tour sorted. 4.9 stars. 220 reviews. Liby Travel on Đường Trần Hưng Đạo does the hard part for you.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #IslandTours #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: you stopped overthinking and booked. 4.9 stars. 220 reviews. Liby Travel, Phu Quoc. #PhuQuoc #PhuQuocTours #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you finally found the one.",
+    "scenes": [
+      "Pan: Đường Trần Hưng Đạo storefront",
+      "Close-up: 4.9-star review screen",
+      "Scroll: 220 Google reviews fast",
+      "Clip: boat departing island pier",
+      "Text overlay: book before it fills"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

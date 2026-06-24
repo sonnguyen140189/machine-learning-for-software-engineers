@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "971 reviews. Every single one is 5 stars. Vietnam Explorer PADI Dive Center in Phú Quốc isn't a fluke. This is the dive shop locals and expats keep sending people to. PADI certified, English-speaking instructors, and access to some of the clearest water around the island. First-time diver or already certified? They run both. Save this for your Phu Quoc trip.",
+    "video_caption": "5.0 stars across 971 reviews. Watch what happens when you get underwater at Phú Quốc with Vietnam Explorer PADI Dive Center. Coral, visibility, and zero crowds. This is what the rating is about.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #ScubaDivingVietnam #VisitVietnam #TravelTips #PhuQuocTips #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "971 reviews. Perfect 5.0. Vietnam Explorer PADI Dive Center earns it every single time. Tag your travel buddy.",
+    "video_caption": "Perfect 5.0 across 971 dives. Vietnam Explorer PADI Dive Center. Phú Quốc underwater is something else.",
+    "hashtags": "#PhuQuocDiving #PhuQuocTips #ScubaDivingVietnam #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "971 reviews. Zero below 5 stars. Vietnam Explorer PADI Dive Center in Phú Quốc is the real deal. #PhuQuoc #PhuQuocDiving #VietnamTravel #ScubaVietnam"
+  },
+  "video_script": {
+    "hook": "971 REVIEWS. ALL 5 STARS.",
+    "scenes": [
+      "Aerial: turquoise water off Phú Quốc coast",
+      "Diver gearing up at the dive center",
+      "Underwater: coral reef, clear visibility",
+      "Instructor giving thumbs-up to first-timer",
+      "School of fish filling the frame",
+      "Surfacing, big smile, mask pushed up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
