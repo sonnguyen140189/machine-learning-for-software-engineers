@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 864 reviews. On a street most tourists never walk down.\n\nPhở Hòa on Đường Trần Hưng Đạo is where locals in Phú Quốc actually eat pho. Not the resort version. The real bowl, the real broth, the real price.\n\nIf you're skipping this because it doesn't have an English menu out front, that's on you.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the broth hit the bowl. That color, that steam. Phở Hòa has 864 reviews and a 4.8 rating for exactly this reason. Find it on Đường Trần Hưng Đạo before the tourists do.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 864 reviews. Phở Hòa is the bowl Phu Quoc locals keep coming back to.\n\nĐường Trần Hưng Đạo. Go find it.\n\nTag your travel buddy.",
+    "video_caption": "Steam rising. Broth pouring. 864 people rated Phở Hòa 4.8 stars. Your move.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #Pho"
+  },
+  "tiktok": {
+    "caption": "864 reviews. 4.8 stars. Phở Hòa is the real bowl in Phu Quoc. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8 stars. 864 reviews.",
+    "scenes": [
+      "Exterior shot: Đường Trần Hưng Đạo streetfront",
+      "Close-up: broth ladled into bowl",
+      "Steam rising over full pho bowl",
+      "Locals eating at packed tables",
+      "Slow zoom on 4.8-star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
