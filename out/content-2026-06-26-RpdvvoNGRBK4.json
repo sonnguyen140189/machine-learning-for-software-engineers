@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you asked a local where they eat pho. They pointed here.\n\nPhở Vương Phú Quốc. 4.9 stars. 244 reviews. On a street most tourists never walk down.\n\nThis is not resort pho. This is the real bowl. Rich broth, fresh herbs, the kind of place that fills up before 8am.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "A local pointed down this street and said just go. Bowl arrives. One sip. You get it immediately. Phở Vương Phú Quốc. 4.9 stars and zero tourists in sight.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "A local pointed here. 4.9★ across 244 reviews. Phở Vương Phú Quốc earns every single one.\n\nTag your travel buddy.",
+    "video_caption": "Bowl lands on the table. Broth still steaming. This is why you ask locals, not the hotel. Phở Vương Phú Quốc.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #Pho"
+  },
+  "tiktok": {
+    "caption": "Asked a local for pho. They sent me here. 4.9★. No tourists. Just the real bowl. #PhuQuoc #PhuQuocFood #VietnamEats"
+  },
+  "video_script": {
+    "hook": "A local sent me here.",
+    "scenes": [
+      "Walk down quiet local street",
+      "Small shop, plastic stools, packed tables",
+      "Steaming bowl placed on table",
+      "Close-up: broth, herbs, fresh noodles",
+      "First spoonful, genuine reaction"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

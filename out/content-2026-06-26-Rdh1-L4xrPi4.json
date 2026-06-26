@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This bistro makes Phu Quoc feel like a different island.\n\nMộc Cuisine Phú Quốc on Đường Trần Hưng Đạo is the kind of place you sit down for one drink and stay two hours. 4.8 stars across 237 reviews. The vibe does most of the talking.\n\nWhen the rest of the strip feels loud, this is where you reset.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Plates arriving, low light, no rush. Mộc Cuisine Phú Quốc is 4.8 stars for a reason. Find it at 107 Đường Trần Hưng Đạo and block out the whole evening.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #VietnamFood #PhuQuocTips #TravelVietnam"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. Mộc Cuisine Phú Quốc, 4.8★, 237 reviews. Save this.",
+    "video_caption": "Slow plates. Warm light. Zero rush. Mộc Cuisine Phú Quốc hits different. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "The bistro that fixes Phu Quoc burnout. 4.8★, 237 reviews. Do not skip. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that fixes burnout.",
+    "scenes": [
+      "Push open the bistro door",
+      "Warm interior, soft lighting fills frame",
+      "Food plated, close-up on textures",
+      "Guest leans back, exhales slowly",
+      "Rating card: 4.8★, 237 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

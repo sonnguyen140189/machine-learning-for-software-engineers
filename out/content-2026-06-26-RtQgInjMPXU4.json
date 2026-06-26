@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you finally found the good Bún Quậy.\n\nBún quậy THIỆN MỸ on Đường Trần Hưng Đạo is where locals actually eat. 4.7 stars across 401 reviews. That's not luck, that's consistency.\n\nBún Quậy is Phu Quoc's own noodle dish. You won't find it like this back home. Order it, stir it, eat it fast.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Chopsticks hit the bowl. Broth steams. This is Bún quậy THIỆN MỸ, 401 reviews deep and still packed at lunch. Phu Quoc's local noodle dish, done right. Don't walk past this one.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BunQuay #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found the good Bún Quậy. 4.7★, 401 reviews. Bún quậy THIỆN MỸ is the real one.\n\nTag your travel buddy.",
+    "video_caption": "Bowl arrives. You stir it. One bite and you get why locals keep coming back. Bún quậy THIỆN MỸ, Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #BunQuay #PhuQuoc #VietnamTravel #TravelTips #TravelReels #FoodTok"
+  },
+  "tiktok": {
+    "caption": "Found the good Bún Quậy in Phu Quoc. 4.7★ 401 reviews. Don't skip this. #PhuQuoc #PhuQuocFood #BunQuay #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found the good Bún Quậy.",
+    "scenes": [
+      "Bowl lands on table, steam rising",
+      "Close-up: hand stirs noodles in broth",
+      "Pull back: packed local dining room",
+      "Tight shot: first spoonful lifted",
+      "Sign: Bún quậy THIỆN MỸ, street exterior"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

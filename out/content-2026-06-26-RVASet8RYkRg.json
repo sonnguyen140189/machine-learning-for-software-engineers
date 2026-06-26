@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're on Lý Thường Kiệt and every other tourist walks straight past Chè Nhà Jun-Chè Ngon Phú Quốc. Don't be them. 4.8 stars across 277 reviews. This chè spot in Khu Phố 5 is where locals actually line up for cold, sweet Vietnamese dessert soups done right. Bowls are loaded, prices are local, and the vibe is zero pretense. Save this for your Phu Quoc trip.",
+    "video_caption": "Spoon hits the bowl. Layers of taro, jelly, coconut milk. This is Chè Nhà Jun-Chè Ngon Phú Quốc, 4.8 stars, 277 reviews deep, and somehow most tourists never stop here.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #ChePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked straight past this. Big mistake. Chè Nhà Jun-Chè Ngon Phú Quốc, 4.8 stars, 277 reviews. Tag your travel buddy.",
+    "video_caption": "Locals are lining up. You're scrolling. Chè Nhà Jun-Chè Ngon Phú Quốc, 4.8 stars. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #ChePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Walked past it twice. Third time I stopped. Best decision in Phu Quoc. #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Walked past 3 times. Don't be me.",
+    "scenes": [
+      "Street sign: Lý Thường Kiệt, busy midday",
+      "Storefront of Chè Nhà Jun comes into frame",
+      "Locals seated, bowls already in hand",
+      "Close-up: chè layers poured over ice",
+      "Spoon lifts coconut milk, taro, jelly",
+      "Rating card: 4.8 stars, 277 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

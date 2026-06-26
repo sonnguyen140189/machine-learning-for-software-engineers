@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walk down Đ. 30 Tháng 4 looking for breakfast and land on Phở Lý Quốc Sư. 4.6 stars. 487 reviews. A bowl of pho that actually earns both. Locals eat here early. Tourists sleep through it. That gap is yours. Save this for your Phu Quoc trip.",
+    "video_caption": "Bowl hits the table at Phở Lý Quốc Sư. Steam rising, broth deep, locals already halfway done with theirs. 4.6 stars and 487 reviews say skip the hotel breakfast. They're right.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found the right pho spot. Phở Lý Quốc Sư. 4.6★, 487 reviews, locals eating early. Tag your travel buddy.",
+    "video_caption": "Skip the hotel breakfast. Phở Lý Quốc Sư is right there on Đ. 30 Tháng 4. 4.6 stars. Go early.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #Pho"
+  },
+  "tiktok": {
+    "caption": "Walked in not expecting much. Wrong. Phở Lý Quốc Sư delivers every time. #PhuQuoc #PhuQuocFood #VietnamEats #Pho"
+  },
+  "video_script": {
+    "hook": "POV: best pho in Phu Quoc",
+    "scenes": [
+      "Exterior shot: 65 Đ. 30 Tháng 4 storefront",
+      "Locals filling seats early morning",
+      "Bowl placed on table, steam rising",
+      "Close-up: rich broth, fresh herbs, noodles",
+      "Rating card: 4.6★ 487 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

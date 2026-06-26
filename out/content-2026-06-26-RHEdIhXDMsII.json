@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this place. Locals keep filling every seat.\n\nBún Quậy Kiến-Xây on Đường Trần Hưng Đạo is Phu Quoc's answer to seafood noodles done right. Bún Quậy is a regional dish you won't find on most resort menus. Springy rice noodles, fresh seafood, rich broth. 2,618 reviews from people who actually live here.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Slurping Bún Quậy at a packed local shop while tourists walk straight past. This is 71A Đường Trần Hưng Đạo and it has 2,618 reviews for a reason. Find it before the crowds do.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocNoodles #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals keep filling every seat. Tourists keep walking past.\n\nBún Quậy Kiến-Xây. 2,618 reviews. Find it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "The noodle shop locals don't need to post about. Bún Quậy Kiến-Xây, 4.2 stars, 2,618 reviews. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocNoodles #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The noodle shop Phu Quoc locals actually eat at. No resort. No tourists. Just Bún Quậy. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior shot: packed plastic chairs, local crowd",
+      "Close-up: springy noodles hitting the bowl",
+      "Ladle pouring rich seafood broth over noodles",
+      "Hands mixing the bowl at the table",
+      "Wide shot: full table, zero empty seats",
+      "Sign: Bún Quậy Kiến-Xây, 71A Đường Trần Hưng Đạo"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

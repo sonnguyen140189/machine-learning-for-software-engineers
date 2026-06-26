@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wander off the main strip and find Mì Tê Lý Thường Kiệt.\n\n4.6 stars. 161 reviews. Zero tourists in sight.\n\nArtisan noodles made the old way. The kind of bowl that makes you sit back and say nothing for a minute.\n\nStreet address: 58B Lý Thường Kiệt, Phú Quốc. Write it down.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watching the noodles go into the bowl at Mì Tê Lý Thường Kiệt. 4.6 stars and a line of locals. This is the one.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocEats #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you ditched the resort restaurant and found Mì Tê Lý Thường Kiệt.\n\n4.6★, 161 reviews, all locals. Save this.",
+    "video_caption": "Locals queuing. Noodles landing. Mì Tê Lý Thường Kiệt doing what it does. Don't walk past this one.",
+    "hashtags": "#PhuQuocFood #PhuQuocEats #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Found this by accident. Mì Tê Lý Thường Kiệt, 4.6★, 161 reviews. All locals. Do not skip. #PhuQuoc #PhuQuocFood #VietnamEats"
+  },
+  "video_script": {
+    "hook": "POV: you found the real bowl.",
+    "scenes": [
+      "Narrow street, 58B Lý Thường Kiệt sign",
+      "Locals filling every seat",
+      "Chef pulling fresh noodles by hand",
+      "Bowl lands on the table, steam rising",
+      "Close-up: 4.6★ review screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

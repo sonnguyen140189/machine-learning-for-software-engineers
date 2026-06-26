@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "754 reviews. 4.6 stars. Under $10 a bowl.\n\nPhở bò Nam Định on Đường Trần Hưng Đạo is where locals in Phú Quốc actually eat breakfast. Northern-style beef pho, clear broth, the real thing. Not the resort version.\n\nIf your Phu Quoc trip doesn't start with a bowl like this, you're doing it wrong.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the broth hit the bowl. Phở bò Nam Định, 108 Đường Trần Hưng Đạo. 754 reviews at 4.6 stars and it costs less than your airport coffee. Go early. Go hungry.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "754 reviews. 4.6 stars. Under $10.\n\nPhở bò Nam Định is the breakfast spot Phu Quoc locals actually show up for. Tag your travel buddy.",
+    "video_caption": "Steaming bowl. 4.6 stars. Under $10. Phở bò Nam Định is the move before beach day hits.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "754 reviews & under $10 a bowl. Phở bò Nam Định is Phu Quoc's real breakfast spot. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "754 reviews. Under $10.",
+    "scenes": [
+      "Close-up: ladle pours clear broth into bowl",
+      "Hands drop fresh herbs and chili in",
+      "Steam rising, chopsticks lift noodles",
+      "Wide shot: packed local tables, no tourists",
+      "Price board on wall, all under $10"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

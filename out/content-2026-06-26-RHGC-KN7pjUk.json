@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "516 reviews. 4.5 stars. Artisan dumplings in the middle of Phu Quoc.\n\nThường Lạc Artisan Dumplings is not the place you stumble into by accident. You go because someone told you. Now we're telling you.\n\nHandcrafted dumplings, Chinese-style, at 61 Đ. 30 Tháng 4. The 516 people who left a review? Most of them came back.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the dumplings land on the table at Thường Lạc Artisan Dumplings. 516 reviews backed this up. Your move.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "516 reviews. 4.5 stars. Artisan dumplings in Phu Quoc.\n\nThường Lạc at 61 Đ. 30 Tháng 4 earns every one.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Dumplings hit different when 516 people already vouched. Thường Lạc Artisan Dumplings, Phu Quoc. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #ChineseDumplings"
+  },
+  "tiktok": {
+    "caption": "516 reviews don't lie. Thường Lạc Artisan Dumplings hits hard. #PhuQuoc #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "516 reviews. 4.5 stars.",
+    "scenes": [
+      "Close-up: steam rising off dumplings",
+      "Hands fold dumpling skin, tight shot",
+      "Plate lands on wooden table",
+      "First bite, chopsticks lifting dumpling",
+      "Storefront sign: Thường Lạc"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
