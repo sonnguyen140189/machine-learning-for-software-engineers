@@ -1,0 +1,523 @@
+{
+  "stamp": "2026-06-27",
+  "items": [
+    {
+      "placeId": "ChIJ0R95YniTpzER8HfwfZ2aMZI",
+      "placeName": "Regent Phu Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-27-R8HfwfZ2aMZI-0.jpg",
+        "out/media/2026-06-27-R8HfwfZ2aMZI-1.jpg",
+        "out/media/2026-06-27-R8HfwfZ2aMZI-2.jpg",
+        "out/media/2026-06-27-R8HfwfZ2aMZI-3.jpg",
+        "out/media/2026-06-27-R8HfwfZ2aMZI-4.jpg",
+        "out/media/2026-06-27-R8HfwfZ2aMZI-5.jpg",
+        "out/media/2026-06-27-R8HfwfZ2aMZI-6.jpg",
+        "out/media/2026-06-27-R8HfwfZ2aMZI-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you pull up to Regent Phu Quoc and suddenly every other hotel feels like a bad decision.\n\n4.9 stars across 1,419 reviews. That number doesn't lie.\n\nSit inside the Marina Integrated Resort Complex on đường Bào Dương Tơ and you're in a different world from the busy tourist strips. The kind of place you book once and spend the next trip trying to justify booking again.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Walking into Regent Phu Quoc for the first time. 4.9 stars. 1,419 people already knew. You're just finding out now. đường Bào Dương Tơ, Phú Quốc. Add it to the list.",
+          "first_comment": "#PhuQuoc #PhuQuocHotels #RegentPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: you almost booked somewhere cheaper. Don't.\n\nRegent Phu Quoc. 4.9★, 1,419 reviews. Marina resort on đường Bào Dương Tơ.\n\nTag your travel buddy.",
+          "video_caption": "First steps inside Regent Phu Quoc. 4.9 stars tells the story. The lobby finishes it.",
+          "hashtags": "#PhuQuocHotels #PhuQuocResort #RegentPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "POV: you chose Regent Phu Quoc. 4.9★, 1,419 reviews. No notes. #PhuQuoc #PhuQuocHotels #TravelTips"
+        },
+        "video_script": {
+          "hook": "POV: best hotel decision you'll make",
+          "scenes": [
+            "Arrive at resort entrance, wide shot",
+            "Pan across marina water views",
+            "Slow walk through lobby interior",
+            "Close-up: 4.9 stars on screen",
+            "Guest POV stepping onto balcony"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJLZPWxLiWpzERwrkgfIa1P8I",
+      "placeName": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-27-RwrkgfIa1P8I-0.jpg",
+        "out/media/2026-06-27-RwrkgfIa1P8I-1.jpg",
+        "out/media/2026-06-27-RwrkgfIa1P8I-2.jpg",
+        "out/media/2026-06-27-RwrkgfIa1P8I-3.jpg",
+        "out/media/2026-06-27-RwrkgfIa1P8I-4.jpg",
+        "out/media/2026-06-27-RwrkgfIa1P8I-5.jpg",
+        "out/media/2026-06-27-RwrkgfIa1P8I-6.jpg",
+        "out/media/2026-06-27-RwrkgfIa1P8I-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-27-RwrkgfIa1P8I.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.7 stars. 3,402 reviews. At Bãi Khem, one of Phu Quoc's best-rated beaches.\n\nJW Marriott Phu Quoc Emerald Bay Resort & Spa is not a normal hotel. Three pools. Five restaurants. A full spa. All sitting on a private stretch of beach most tourists never reach.\n\nThe architecture alone is worth the visit. Book a table at one of the restaurants even if you're not staying.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Three pools, five restaurants, private beachfront at Bãi Khem. JW Marriott Phu Quoc Emerald Bay Resort & Spa earns that 4.7 stars every single day. This is what a resort is supposed to look like.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #LuxuryTravel #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "4.7 stars. 3,402 reviews. Bãi Khem beach. JW Marriott Phu Quoc delivers.\n\n3 pools. 5 restaurants. Full spa. Save this.",
+          "video_caption": "Private beach at Bãi Khem. Five restaurants. 4.7 stars from 3,402 guests. JW Marriott Phu Quoc Emerald Bay hits different.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "4.7 stars, 3,402 reviews, private beach at Bãi Khem. JW Marriott Phu Quoc is not playing. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.7★ from 3,402 guests.",
+          "scenes": [
+            "Aerial shot of Bãi Khem coastline",
+            "Pan across all three outdoor pools",
+            "Close-up of beachfront dining at sunset",
+            "Spa interior, candles, calm water feature",
+            "Resort architecture, wide establishing shot"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJhS_cnzseCDERAMqYy7efZBo",
+      "placeName": "Vinpearl Resort & Spa Phú Quốc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-27-RAMqYy7efZBo-0.jpg",
+        "out/media/2026-06-27-RAMqYy7efZBo-1.jpg",
+        "out/media/2026-06-27-RAMqYy7efZBo-2.jpg",
+        "out/media/2026-06-27-RAMqYy7efZBo-3.jpg",
+        "out/media/2026-06-27-RAMqYy7efZBo-4.jpg",
+        "out/media/2026-06-27-RAMqYy7efZBo-5.jpg",
+        "out/media/2026-06-27-RAMqYy7efZBo-6.jpg",
+        "out/media/2026-06-27-RAMqYy7efZBo-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "41,809 reviews. Average: 4.9 stars. That number doesn't happen by accident.\n\nVinpearl Resort & Spa Phú Quốc sits right on Bãi Dài, one of the longest beaches on the island. Golf course, water park, multiple restaurants, swim-up bars. It's a full week sorted without leaving the property.\n\nBook this when you want zero planning stress.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Beachfront. Water park. 4.9 stars across 41,809 stays. Watch what Vinpearl Resort & Spa Phú Quốc actually looks like when you walk in.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #VisitVietnam #VietnamTravel #TravelTips #PhuQuocHotel #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "41,809 reviews. 4.9 stars. Vinpearl Resort & Spa Phú Quốc earns it.\n\nBãi Dài beach, water park, golf. Zero planning stress.\n\nTag your travel buddy.",
+          "video_caption": "4.9 stars. 41,809 people weren't wrong. Vinpearl Resort & Spa Phú Quốc on Bãi Dài hits different in person.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "41,809 reviews. 4.9 stars. Vinpearl Resort & Spa Phú Quốc on Bãi Dài is built different. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.9 stars. 41,809 reviews.",
+          "scenes": [
+            "Aerial pan over Bãi Dài beachfront",
+            "Resort entrance, luggage rolling in",
+            "Water park slides, guests mid-drop",
+            "Golf course at golden hour",
+            "Swim-up bar, drinks being placed",
+            "Ocean view from resort room balcony"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJQ4JcfECSpzER9dUT9AlYDJk",
+      "placeName": "InterContinental Phu Quoc Long Beach Resort by IHG",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-27-R9dUT9AlYDJk-0.jpg",
+        "out/media/2026-06-27-R9dUT9AlYDJk-1.jpg",
+        "out/media/2026-06-27-R9dUT9AlYDJk-2.jpg",
+        "out/media/2026-06-27-R9dUT9AlYDJk-3.jpg",
+        "out/media/2026-06-27-R9dUT9AlYDJk-4.jpg",
+        "out/media/2026-06-27-R9dUT9AlYDJk-5.jpg",
+        "out/media/2026-06-27-R9dUT9AlYDJk-6.jpg",
+        "out/media/2026-06-27-R9dUT9AlYDJk-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-27-R9dUT9AlYDJk.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you take a wrong turn on Bãi Trường and end up at this.\n\nInterContinental Phu Quoc Long Beach Resort. Beachfront. Rooftop bar. Multiple pools. 4.8 stars across 6,770 reviews.\n\nThe kind of place that makes you extend your trip by two nights. Chic rooms, direct beach access, and a rooftop setup that hits different at golden hour.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Rooftop bar, beachfront pools, and 6,770 people rating it 4.8 stars. Walking into InterContinental Phu Quoc Long Beach Resort for the first time looks exactly like this.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Took a wrong turn on Bãi Trường. Found this.\n\nInterContinental Phu Quoc Long Beach Resort. 4.8★, 6,770 reviews. Rooftop bar included.\n\nTag your travel buddy.",
+          "video_caption": "Beachfront pools. Rooftop bar. 4.8 stars. InterContinental Phu Quoc Long Beach Resort just raised the bar.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #BaiTruong #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "Walked past 3 resorts on Bãi Trường. Stopped at this one. 4.8 stars, rooftop bar, beach access. #PhuQuoc #PhuQuocResort #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: you found the good resort.",
+          "scenes": [
+            "Aerial pan over Bãi Trường beachfront",
+            "Slow walk through open-air lobby",
+            "Drone reveal of pool facing the ocean",
+            "Rooftop bar crowd at golden hour",
+            "Room balcony with sea view shot"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJI6oge0mLpzERKUoKtQLR-oc",
+      "placeName": "Ocean Bay Resort & Spa Phu Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-27-RKUoKtQLR-oc-0.jpg",
+        "out/media/2026-06-27-RKUoKtQLR-oc-1.jpg",
+        "out/media/2026-06-27-RKUoKtQLR-oc-2.jpg",
+        "out/media/2026-06-27-RKUoKtQLR-oc-3.jpg",
+        "out/media/2026-06-27-RKUoKtQLR-oc-4.jpg",
+        "out/media/2026-06-27-RKUoKtQLR-oc-5.jpg",
+        "out/media/2026-06-27-RKUoKtQLR-oc-6.jpg",
+        "out/media/2026-06-27-RKUoKtQLR-oc-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you skipped the crowded south end and ended up at Ông Lang instead. Ocean Bay Resort & Spa Phu Quoc sits right on Đường Dinh Bà, away from the tourist strip. 4.7 stars across 3,072 reviews. That's not luck, that's consistency. Quieter beach, full spa, and that slow-morning resort energy most people fly to Phu Quoc to find. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch what Ông Lang actually looks like when the crowds stay south. Ocean Bay Resort & Spa Phu Quoc, 4.7 stars, 3,072 reviews. This is why you book the quieter side of the island.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #OngLang #VisitVietnam #PhuQuocTips #TravelTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "POV: you picked Ông Lang and everyone else stayed south. Ocean Bay Resort & Spa Phu Quoc. 4.7★, 3,072 reviews. Tag your travel buddy.",
+          "video_caption": "Skipped the tourist strip. Ended up here. Ocean Bay Resort & Spa Phu Quoc, Ông Lang. 4.7 stars says it all.",
+          "hashtags": "#PhuQuocResort #PhuQuocTips #OngLangBeach #VietnamTravel #TravelTips #TravelReels #PhuQuocHotel"
+        },
+        "tiktok": {
+          "caption": "POV: you booked the quiet side of Phu Quoc. Ocean Bay Resort & Spa, 4.7★, 3,072 reviews. Worth it. #PhuQuoc #PhuQuocResort #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: you skipped the south end.",
+          "scenes": [
+            "Aerial drone pull back from resort beach",
+            "Empty shoreline, Ông Lang, early morning",
+            "Resort pool with no crowds visible",
+            "Spa entrance, slow ambient reveal",
+            "Guest walking path lined with palms"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJxfXY0YeMpzERVIRnrvcuBKE",
+      "placeName": "Seashells Phu Quoc Hotel & Spa",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-27-RVIRnrvcuBKE-0.jpg",
+        "out/media/2026-06-27-RVIRnrvcuBKE-1.jpg",
+        "out/media/2026-06-27-RVIRnrvcuBKE-2.jpg",
+        "out/media/2026-06-27-RVIRnrvcuBKE-3.jpg",
+        "out/media/2026-06-27-RVIRnrvcuBKE-4.jpg",
+        "out/media/2026-06-27-RVIRnrvcuBKE-5.jpg",
+        "out/media/2026-06-27-RVIRnrvcuBKE-6.jpg",
+        "out/media/2026-06-27-RVIRnrvcuBKE-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-27-RVIRnrvcuBKE.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "2,804 reviews. 4.4 stars. And somehow Seashells Phu Quoc Hotel & Spa still flies under most tourists' radar.\n\nPrivate beach area. Free breakfast. Spa. Pool. All on 01 Võ Thị Sáu, steps from the action.\n\nThe rooms are sharp, the vibe is chic without feeling cold, and breakfast is already handled before you hit the beach.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch what 4.4 stars actually looks like at Seashells Phu Quoc Hotel & Spa. Private beach, spa, pool, free breakfast. This is the one.",
+          "first_comment": "#PhuQuoc #PhuQuocHotels #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "2,804 reviews. 4.4 stars. Private beach. Free breakfast. Seashells Phu Quoc Hotel & Spa delivers.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Pool. Spa. Private beach. Free breakfast. Seashells Phu Quoc Hotel & Spa earns every one of those 2,804 reviews.",
+          "hashtags": "#PhuQuocHotels #PhuQuocResort #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachHotel"
+        },
+        "tiktok": {
+          "caption": "2,804 reviews don't lie. Seashells Phu Quoc Hotel & Spa: private beach, spa, free breakfast. Book it. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "2,804 reviews. Still slept on.",
+          "scenes": [
+            "Pan across private beach at sunrise",
+            "Close-up: full breakfast spread laid out",
+            "Slow push into sparkling outdoor pool",
+            "Spa treatment room, candles lit",
+            "Wide shot: stylish room with natural light"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJDz3c2puNpzERnfsc7Mo0TOQ",
+      "placeName": "Dusit Princess Moonrise beach resort",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-27-Rnfsc7Mo0TOQ-0.jpg",
+        "out/media/2026-06-27-Rnfsc7Mo0TOQ-1.jpg",
+        "out/media/2026-06-27-Rnfsc7Mo0TOQ-2.jpg",
+        "out/media/2026-06-27-Rnfsc7Mo0TOQ-3.jpg",
+        "out/media/2026-06-27-Rnfsc7Mo0TOQ-4.jpg",
+        "out/media/2026-06-27-Rnfsc7Mo0TOQ-5.jpg",
+        "out/media/2026-06-27-Rnfsc7Mo0TOQ-6.jpg",
+        "out/media/2026-06-27-Rnfsc7Mo0TOQ-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists book the big resort strips. Locals point you here instead.\n\nDusit Princess Moonrise Beach Resort sits on Cửa Lấp, away from the crowded Tran Hung Dao hotel blocks. 4.7 stars across 2,427 reviews. That number holds up.\n\nBeachfront access, full resort facilities, and a quieter stretch of sand than you'll find near the main drag. Book it before the algorithm catches up.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Pan across the beach at Cửa Lấp. Zero crowds. That's Dusit Princess Moonrise Resort behind you. 4.7 stars, 2,427 reviews, and half the tourists haven't figured it out yet. Don't sleep on this one.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Tourists skip this resort. 4.7 stars say that's a mistake.\n\nDusit Princess Moonrise, Cửa Lấp. Quieter beach, serious reviews. Save this.",
+          "video_caption": "Beachfront at Cửa Lấp with almost no one around. Dusit Princess Moonrise Resort. 4.7 stars. Go.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "The resort tourists keep skipping in Phu Quoc. 4.7 stars at Cửa Lấp. Don't. #PhuQuoc #PhuQuocResort #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Tourists keep skipping this resort.",
+          "scenes": [
+            "Drone pull-back over quiet Cửa Lấp beachfront",
+            "Walk through resort entrance, wide shot",
+            "Close-up: 4.7 stars on screen, 2,427 reviews",
+            "Slow pan of near-empty beach at golden hour",
+            "Guest relaxing poolside, no crowds behind them"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJGeOzddMfCDERWqFBHDihXo0",
+      "placeName": "Wyndham Grand Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-27-RWqFBHDihXo0-0.jpg",
+        "out/media/2026-06-27-RWqFBHDihXo0-1.jpg",
+        "out/media/2026-06-27-RWqFBHDihXo0-2.jpg",
+        "out/media/2026-06-27-RWqFBHDihXo0-3.jpg",
+        "out/media/2026-06-27-RWqFBHDihXo0-4.jpg",
+        "out/media/2026-06-27-RWqFBHDihXo0-5.jpg",
+        "out/media/2026-06-27-RWqFBHDihXo0-6.jpg",
+        "out/media/2026-06-27-RWqFBHDihXo0-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-27-RWqFBHDihXo0.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "28,937 reviews. 4.9 stars. At a resort with 1,399 rooms.\n\nWyndham Grand Phu Quoc sits right on Bãi Dài, one of the longest stretches of beach on the island. Full water park, multiple restaurants, bars, and suites that actually look like the photos.\n\nThis is the benchmark other Phu Quoc resorts get compared to. Save this for your Phu Quoc trip.",
+          "video_caption": "Water park, beachfront suites, 4.9 stars across nearly 29,000 reviews. Wyndham Grand Phu Quoc on Bãi Dài is not subtle about what it is. Walk the grounds once and you'll get it.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "28,937 reviews. 4.9 stars. One resort on Bãi Dài.\n\nWyndham Grand Phu Quoc sets the bar. Tag your travel buddy.",
+          "video_caption": "Water park, beachfront, 4.9 stars. Wyndham Grand Phu Quoc on Bãi Dài earns every review.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #BaiDai #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.9 stars. 28,937 reviews. Wyndham Grand on Bãi Dài hits different. #PhuQuoc #PhuQuocResort #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "28,937 reviews. 4.9 stars.",
+          "scenes": [
+            "Aerial shot of Bãi Dài beachfront",
+            "Zoom into resort entrance and lobby",
+            "Water park slides in full motion",
+            "Ocean-view suite, wide shot",
+            "Beach bar at golden hour",
+            "Guest walking shoreline at dusk"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJcSDG-fqWpzERQkkxuLWDUyU",
+      "placeName": "Premier Village Phu Quoc Resort",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-27-RQkkxuLWDUyU-0.jpg",
+        "out/media/2026-06-27-RQkkxuLWDUyU-1.jpg",
+        "out/media/2026-06-27-RQkkxuLWDUyU-2.jpg",
+        "out/media/2026-06-27-RQkkxuLWDUyU-3.jpg",
+        "out/media/2026-06-27-RQkkxuLWDUyU-4.jpg",
+        "out/media/2026-06-27-RQkkxuLWDUyU-5.jpg",
+        "out/media/2026-06-27-RQkkxuLWDUyU-6.jpg",
+        "out/media/2026-06-27-RQkkxuLWDUyU-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "7,097 reviews. 4.8 stars. Premier Village Phu Quoc Resort keeps showing up at the top for a reason. Private pool villas, direct beach access, and a resort layout that actually gives you space. Not a crowd. Book early, this one fills fast. Save this for your Phu Quoc trip.",
+          "video_caption": "4.8 stars across 7,097 reviews. Watch what Premier Village Phu Quoc Resort actually looks like when you walk through the gates. This is the full picture.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "7,097 reviews. 4.8 stars. Premier Village Phu Quoc Resort earns it. Tag your travel buddy.",
+          "video_caption": "Walk through Premier Village Phu Quoc Resort. 4.8 stars. 7,097 people agree.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "7,097 reviews and still 4.8 stars. Premier Village Phu Quoc Resort is no accident. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "7,097 reviews. 4.8 stars.",
+          "scenes": [
+            "Aerial shot of resort beachfront",
+            "Gate opening, first walkthrough",
+            "Private pool villa reveal",
+            "Direct beach access, wide shot",
+            "Close-up: 4.8 star rating on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJR8uGGm2TpzERCyP0dgpgLX0",
+      "placeName": "Sailing Club Signature Resort Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-27-RCyP0dgpgLX0-0.jpg",
+        "out/media/2026-06-27-RCyP0dgpgLX0-1.jpg",
+        "out/media/2026-06-27-RCyP0dgpgLX0-2.jpg",
+        "out/media/2026-06-27-RCyP0dgpgLX0-3.jpg",
+        "out/media/2026-06-27-RCyP0dgpgLX0-4.jpg",
+        "out/media/2026-06-27-RCyP0dgpgLX0-5.jpg",
+        "out/media/2026-06-27-RCyP0dgpgLX0-6.jpg",
+        "out/media/2026-06-27-RCyP0dgpgLX0-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-27-RCyP0dgpgLX0.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you booked a resort on Đường Bào and had no idea what was waiting for you.\n\nSailing Club Signature Resort Phu Quoc. 4.9 stars. 4,584 reviews. That number doesn't lie.\n\nThe kind of place where you check in for two nights and start rescheduling your flight home. Beachfront. Polished. Genuinely hard to leave.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "4,584 people gave this resort 4.9 stars. Walking through Sailing Club Signature Resort Phu Quoc, it's obvious why. Watch till the end.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: you had no idea this resort was waiting for you on Đường Bào.\n\nSailing Club Signature Resort Phu Quoc. 4.9★ across 4,584 reviews. Tag your travel buddy.",
+          "video_caption": "4,584 reviews. 4.9 stars. Sailing Club Signature Resort Phu Quoc just raised the bar.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "POV: you booked this and didn't know what you were walking into. 4.9★ hits different. #PhuQuoc #PhuQuocResort #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: best resort in Phu Quoc.",
+          "scenes": [
+            "Slow pan across resort entrance at golden hour",
+            "Feet walking poolside toward the beach",
+            "Close shot: 4.9★ rating on phone screen",
+            "Wide shot: beachfront view from the resort",
+            "Guest reactions, smiles, candid moments"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJQUSIY6yNpzERAxVW7b7Opt0",
+      "placeName": "Bãi Trường",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-27-RAxVW7b7Opt0-0.jpg",
+        "out/media/2026-06-27-RAxVW7b7Opt0-1.jpg",
+        "out/media/2026-06-27-RAxVW7b7Opt0-2.jpg",
+        "out/media/2026-06-27-RAxVW7b7Opt0-3.jpg",
+        "out/media/2026-06-27-RAxVW7b7Opt0-4.jpg",
+        "out/media/2026-06-27-RAxVW7b7Opt0-5.jpg",
+        "out/media/2026-06-27-RAxVW7b7Opt0-6.jpg",
+        "out/media/2026-06-27-RAxVW7b7Opt0-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This beach fixes burnout.\n\nBãi Trường stretches for miles along Đường Trần Hưng Đạo. Soft sand, warm water, and enough space that you won't feel like you're on a crowded resort beach. The sunset here hits differently when you've had a long travel day.\n\n4.3 stars across 729 reviews. People keep coming back.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Walking Bãi Trường at golden hour. Miles of shoreline, barely anyone in frame. This is the Phu Quoc most tourists rush past on the way to their resort pool. 4.3 stars. 729 reviews. Draw your own conclusions.",
+          "first_comment": "#PhuQuoc #PhuQuocBeach #BaiTruong #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "This beach fixes burnout. Bãi Trường at golden hour is the reset you actually came to Vietnam for.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Miles of shoreline. Barely a crowd. Bãi Trường at sunset does something to you. 4.3 stars. 729 reviews.",
+          "hashtags": "#PhuQuocBeaches #PhuQuocTips #BaiTruong #VietnamTravel #TravelTips #TravelReels #BeachVibes"
+        },
+        "tiktok": {
+          "caption": "The beach that fixes burnout. Bãi Trường at golden hour hits hard. #PhuQuoc #PhuQuocBeach #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "This beach fixes burnout.",
+          "scenes": [
+            "Wide shot: empty shoreline stretching to horizon",
+            "Feet walking on wet sand at low tide",
+            "Camera pans to golden sunset over water",
+            "Close-up: waves rolling in, soft focus",
+            "Pull back: lone figure sitting on the beach"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJXQcO2BeLpzERuYoEmJFjuuM",
+      "placeName": "Ong Lang beach",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-27-RuYoEmJFjuuM-0.jpg",
+        "out/media/2026-06-27-RuYoEmJFjuuM-1.jpg",
+        "out/media/2026-06-27-RuYoEmJFjuuM-2.jpg",
+        "out/media/2026-06-27-RuYoEmJFjuuM-3.jpg",
+        "out/media/2026-06-27-RuYoEmJFjuuM-4.jpg",
+        "out/media/2026-06-27-RuYoEmJFjuuM-5.jpg",
+        "out/media/2026-06-27-RuYoEmJFjuuM-6.jpg",
+        "out/media/2026-06-27-RuYoEmJFjuuM-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-27-RuYoEmJFjuuM.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you skip the main beach strip and end up at Ong Lang. Quieter. Rockier. Way less crowded. The kind of beach where you actually put your phone down. 4.1 stars across 731 reviews and most tourists drive straight past it. North Phu Quoc beaches hit different. Save this for your Phu Quoc trip.",
+          "video_caption": "Waves coming in at Ong Lang beach while the main strips are packed. This is north Phu Quoc. Fewer sunbeds, more breathing room. 731 people rated it 4.1 stars and it still flies under the radar.",
+          "first_comment": "#PhuQuoc #PhuQuocBeach #OngLang #VisitVietnam #TravelTips #PhuQuocTips #VietnamBeach"
+        },
+        "instagram": {
+          "caption": "POV: you took the road north and found Ong Lang. Rockier, quieter, no crowds. 4.1★ 731 reviews. Tag your travel buddy.",
+          "video_caption": "Walked past the resort strip. Ended up at Ong Lang. Big difference. #PhuQuoc #OngLang",
+          "hashtags": "#PhuQuocBeach #OngLang #PhuQuocTips #NorthPhuQuoc #VietnamTravel #TravelTips #TravelReels #BeachVibes"
+        },
+        "tiktok": {
+          "caption": "Took the wrong turn and found this beach in Phu Quoc. No regrets. #PhuQuoc #OngLang #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: you found Ong Lang.",
+          "scenes": [
+            "Drone pull-back over rocky shoreline",
+            "Empty beach, one person walking",
+            "Waves breaking on large boulders",
+            "Pan along tree-lined coast, no resort towers",
+            "Close-up: bare feet on wet sand"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

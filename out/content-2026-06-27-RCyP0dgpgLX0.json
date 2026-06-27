@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you booked a resort on Đường Bào and had no idea what was waiting for you.\n\nSailing Club Signature Resort Phu Quoc. 4.9 stars. 4,584 reviews. That number doesn't lie.\n\nThe kind of place where you check in for two nights and start rescheduling your flight home. Beachfront. Polished. Genuinely hard to leave.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4,584 people gave this resort 4.9 stars. Walking through Sailing Club Signature Resort Phu Quoc, it's obvious why. Watch till the end.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you had no idea this resort was waiting for you on Đường Bào.\n\nSailing Club Signature Resort Phu Quoc. 4.9★ across 4,584 reviews. Tag your travel buddy.",
+    "video_caption": "4,584 reviews. 4.9 stars. Sailing Club Signature Resort Phu Quoc just raised the bar.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: you booked this and didn't know what you were walking into. 4.9★ hits different. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: best resort in Phu Quoc.",
+    "scenes": [
+      "Slow pan across resort entrance at golden hour",
+      "Feet walking poolside toward the beach",
+      "Close shot: 4.9★ rating on phone screen",
+      "Wide shot: beachfront view from the resort",
+      "Guest reactions, smiles, candid moments"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
