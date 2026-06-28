@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ2_A_qiGNpzERECnKPGDMbqc",
+    "ChIJY6klvwiLpzERbXSkUvWfTOs",
+    "ChIJK0z_dgCNpzERiSVWSPMxaoc",
+    "ChIJZ92iGQCLpzER_8noAX_Wcvs",
+    "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
+    "ChIJBWE7axyNpzER5e0d8AjEDJA",
+    "ChIJ017u9rKNpzERuFNuG_u0HJk",
+    "ChIJdQIPu76LpzERR-arMzuJz5I",
+    "ChIJt7t-rLAfCDER9qvpDQ-ks6M",
+    "ChIJaV6sC_KLpzERlAdjMI0q54s",
+    "ChIJqfezlgAfCDERaYwzQEp_Rkc",
+    "ChIJCcDXjO2NpzERpuULcuYBz_U",
     "ChIJXQcO2BeLpzERuYoEmJFjuuM",
     "ChIJQUSIY6yNpzERAxVW7b7Opt0",
     "ChIJR8uGGm2TpzERCyP0dgpgLX0",
@@ -187,21 +199,189 @@
     "ChIJ1aeQ29SNpzERQ6q22sUKYRc",
     "ChIJpW9hndiNpzERaocRFppy0S4",
     "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
-    "ChIJx4kkhiiNpzERH47LIVsqJps",
-    "ChIJKzlafMuLpzERtBF-FredP28",
-    "ChIJH7qQ4niLpzERauDuEKEMXVk",
-    "ChIJBZASQZ6NpzERfkHFOYJvawM",
-    "ChIJyaYp1AWNpzERDrMiNPAJATE",
-    "ChIJkcMAuZCNpzERRQmhoqfUVYk",
-    "ChIJ0cqxY2ySpzERo9J49pxmTgY",
-    "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
-    "ChIJjUvOA0-LpzERxo73OaJMLZo",
-    "ChIJyVg7uFmMpzER8oO_9EVvcbg",
-    "ChIJy5uCwXCXpzERQSR2-hAgnuo",
-    "ChIJn6kim_SXpzERd6rlRMQmpZc",
-    "ChIJh0oTEUaLpzERgI8_SI_bkLg"
+    "ChIJx4kkhiiNpzERH47LIVsqJps"
   ],
   "history": [
+    {
+      "date": "2026-06-28",
+      "placeId": "ChIJ2_A_qiGNpzERECnKPGDMbqc",
+      "placeName": "Nhà Hàng Chay NẤM (Vegan Restaurant)",
+      "results": {
+        "facebookVideo": {
+          "id": "1045904261109577"
+        },
+        "instagramReel": {
+          "id": "18074894609323854"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "placeId": "ChIJY6klvwiLpzERbXSkUvWfTOs",
+      "placeName": "Bếp Chay Nhà An | VEGETARIAN BISTRO",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122111348595313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17907060360265910"
+        }
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "placeId": "ChIJK0z_dgCNpzERiSVWSPMxaoc",
+      "placeName": "Chill Bar Đồi Trăng",
+      "results": {
+        "facebookVideo": {
+          "id": "1012023411809480"
+        },
+        "instagramReel": {
+          "id": "18008257586740867"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "placeId": "ChIJZ92iGQCLpzER_8noAX_Wcvs",
+      "placeName": "Seana coffee & More",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122111347839313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17896569774472432"
+        }
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "placeId": "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
+      "placeName": "58 CAFÉ",
+      "results": {
+        "facebookVideo": {
+          "id": "4600944556794395"
+        },
+        "instagramReel": {
+          "id": "18113220656484729"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "placeId": "ChIJBWE7axyNpzER5e0d8AjEDJA",
+      "placeName": "AROMA Cafe Bistro Bar Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122111346843313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18083475473407166"
+        }
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "placeId": "ChIJ017u9rKNpzERuFNuG_u0HJk",
+      "placeName": "CAFE GREEN(카페그린) DUONG DONG , 망고빙수",
+      "results": {
+        "facebookVideo": {
+          "id": "1702962240856245"
+        },
+        "instagramReel": {
+          "id": "17925349854362413"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "placeId": "ChIJdQIPu76LpzERR-arMzuJz5I",
+      "placeName": "Eco Tour Thai Duong – Cua Can River Basket Boat Experience",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122111345979313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18103225628162599"
+        }
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "placeId": "ChIJt7t-rLAfCDER9qvpDQ-ks6M",
+      "placeName": "Ngoc Hien Treasure",
+      "results": {
+        "facebookVideo": {
+          "id": "1533744571872016"
+        },
+        "instagramReel": {
+          "id": "17967493110095313"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "placeId": "ChIJaV6sC_KLpzERlAdjMI0q54s",
+      "placeName": "Kayaking Dynasty",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122111345151313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18112098730898817"
+        }
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "placeId": "ChIJqfezlgAfCDERaYwzQEp_Rkc",
+      "placeName": "ALOHA88 - Kayak & Snorkeling club",
+      "results": {
+        "facebookVideo": {
+          "id": "1720438368984443"
+        },
+        "instagramReel": {
+          "id": "18001275473771414"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "placeId": "ChIJCcDXjO2NpzERpuULcuYBz_U",
+      "placeName": "Thuê cano riêng -FISHING TOUR",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122111344281313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18272686909295834"
+        }
+      }
+    },
     {
       "date": "2026-06-27",
       "placeId": "ChIJXQcO2BeLpzERuYoEmJFjuuM",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18355316380211085"
-        }
-      }
-    },
-    {
-      "date": "2026-06-12",
-      "placeId": "ChIJKzlafMuLpzERtBF-FredP28",
-      "placeName": "Hoa Đảo Viên Coffee - Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "994689856791221"
-        },
-        "instagramReel": {
-          "id": "17893153065524371"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-12",
-      "placeId": "ChIJH7qQ4niLpzERauDuEKEMXVk",
-      "placeName": "HD cafe",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122108474985313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18312623431263387"
-        }
-      }
-    },
-    {
-      "date": "2026-06-12",
-      "placeId": "ChIJBZASQZ6NpzERfkHFOYJvawM",
-      "placeName": "Tarapaca Cafe",
-      "results": {
-        "facebookVideo": {
-          "id": "4066469743643734"
-        },
-        "instagramReel": {
-          "id": "18068511695700887"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-12",
-      "placeId": "ChIJyaYp1AWNpzERDrMiNPAJATE",
-      "placeName": "Quán cháo gà rẫy Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122108474175313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18099065663519223"
-        }
-      }
-    },
-    {
-      "date": "2026-06-11",
-      "placeId": "ChIJkcMAuZCNpzERRQmhoqfUVYk",
-      "placeName": "Salinda Resort Phu Quoc Island",
-      "results": {
-        "facebookVideo": {
-          "id": "2261927731281306"
-        },
-        "instagramReel": {
-          "id": "17936938086252564"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-11",
-      "placeId": "ChIJ0cqxY2ySpzERo9J49pxmTgY",
-      "placeName": "Pullman Phu Quoc Beach Resort",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122108203611313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18207501523340342"
-        }
-      }
-    },
-    {
-      "date": "2026-06-11",
-      "placeId": "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
-      "placeName": "Meliá Vinpearl Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1582262890209062"
-        },
-        "instagramReel": {
-          "id": "18135915049491863"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-11",
-      "placeId": "ChIJjUvOA0-LpzERxo73OaJMLZo",
-      "placeName": "Mövenpick Villas & Residences Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122108202681313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17926928937124273"
-        }
-      }
-    },
-    {
-      "date": "2026-06-11",
-      "placeId": "ChIJyVg7uFmMpzER8oO_9EVvcbg",
-      "placeName": "La Veranda Resort Phu Quoc - MGallery Collection",
-      "results": {
-        "facebookVideo": {
-          "id": "2197374871016180"
-        },
-        "instagramReel": {
-          "id": "18179851060401802"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-11",
-      "placeId": "ChIJy5uCwXCXpzERQSR2-hAgnuo",
-      "placeName": "New World Phu Quoc Resort",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122108201721313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18077376785261318"
-        }
-      }
-    },
-    {
-      "date": "2026-06-11",
-      "placeId": "ChIJn6kim_SXpzERd6rlRMQmpZc",
-      "placeName": "Premier Residences Phu Quoc Emerald Bay Managed by Accor",
-      "results": {
-        "facebookVideo": {
-          "id": "1036320408956228"
-        },
-        "instagramReel": {
-          "id": "18471390370102711"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-11",
-      "placeId": "ChIJh0oTEUaLpzERgI8_SI_bkLg",
-      "placeName": "Tiệm Cà Phê Đồng Giao",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122108200929313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17996067323969447"
         }
       }
     }
