@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 1,732 reviews. At a café in Phu Quoc.\n\nCafe Green(카페그린) on 1 Đường Trần Hưng Đạo is not flying under the radar, and there's a reason for that. The mango bingsu (망고빙수) here is the move. Shaved ice, fresh mango, done right in the middle of Dương Đông.\n\nIf your Phu Quoc itinerary doesn't have a café break built in, fix that. Save this for your Phu Quoc trip.",
+    "video_caption": "Mango bingsu landing on the table at Cafe Green(카페그린), Dương Đông. 4.9 stars from 1,732 people, and one bite in, you get it. This is the afternoon reset your Phu Quoc trip needs.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocFood #VisitVietnam #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 1,732 reviews. One café in Dương Đông.\n\nCafe Green(카페그린) and the mango bingsu. That's the post.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Mango bingsu at Cafe Green(카페그린). 1,732 people rated this 4.9. Watch why.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #DuongDong #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.9 stars, 1,732 reviews. The mango bingsu at Cafe Green(카페그린) in Dương Đông hits different. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9★ 1,732 reviews. This café.",
+    "scenes": [
+      "Exterior shot: Cafe Green(카페그린) sign, Dương Đông street",
+      "Close-up: mango bingsu arriving on table",
+      "Slow pour of mango sauce over shaved ice",
+      "First spoonful, steam rising in background",
+      "Wide shot: busy café, full tables"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

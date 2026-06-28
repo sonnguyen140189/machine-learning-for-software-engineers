@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc that doesn't feel touristy. Kayaking Dynasty puts you on the water, away from the crowds, moving at your own pace. No tour buses. No queues. Just open water and quiet. 4.5 stars from 51 paddlers who came back calmer than they arrived. Save this for your Phu Quoc trip.",
+    "video_caption": "Paddle out. Leave the resort noise behind. Kayaking Dynasty is the reset button Phu Quoc keeps quiet about. 4.5 stars, 51 reviews, and most tourists never find it.",
+    "first_comment": "#PhuQuoc #PhuQuocActivities #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. Kayaking Dynasty. Open water, zero crowds. 4.5★ Tag your travel buddy.",
+    "video_caption": "Arms in the water. Crowds gone. Kayaking Dynasty is your Phu Quoc reset. 4.5★, 51 reviews.",
+    "hashtags": "#PhuQuocActivities #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #KayakingVietnam #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "This is the reset Phu Quoc doesn't advertise. Kayaking Dynasty. 4.5★ #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "Phu Quoc fixes burnout.",
+    "scenes": [
+      "Wide shot: kayaks lined up at water's edge",
+      "Paddler pushes off from shore",
+      "POV shot: open water, no crowds ahead",
+      "Aerial pull-back showing isolation",
+      "Close-up: hands on paddle, calm water"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

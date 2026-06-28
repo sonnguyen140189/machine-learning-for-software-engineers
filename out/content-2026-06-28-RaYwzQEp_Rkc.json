@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 289 reviews. ALOHA88 - Kayak & Snorkeling club is not a fluke.\n\nPhu Quoc's water is clear enough to snorkel without a dive cert. Kayak out at your own pace, drop in, done. No crowds, no lecture, no upsell.\n\n289 people gave it a perfect score. That number doesn't happen by accident.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the water here. Phu Quoc snorkeling at ALOHA88 - Kayak & Snorkeling club. 289 reviews, every single one a 5-star. Grab a kayak, paddle out, jump in.",
+    "first_comment": "#PhuQuoc #PhuQuocWaterSports #SnorkelingPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 289 reviews. ALOHA88 - Kayak & Snorkeling club is the real deal.\n\nPaddle out. Drop in. Repeat.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "289 five-star reviews. ALOHA88 - Kayak & Snorkeling club. Kayak out, snorkel in, zero complaints.",
+    "hashtags": "#PhuQuocWaterSports #SnorkelingPhuQuoc #PhuQuocTips #KayakingVietnam #VietnamTravel #TravelTips #TravelReels"
+  },
+  "tiktok": {
+    "caption": "5.0 stars. 289 reviews. ALOHA88 kayak & snorkel in Phu Quoc. No fluke. #PhuQuoc #PhuQuocTips #SnorkelingPhuQuoc #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5.0 STARS. 289 REVIEWS.",
+    "scenes": [
+      "Aerial shot: turquoise water, kayaks launching",
+      "Paddler reaches snorkel spot, drops anchor",
+      "Underwater: fish, coral, clear viz",
+      "Surfacing, smile, thumbs up",
+      "Review count scrolling: 289 x 5 stars"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

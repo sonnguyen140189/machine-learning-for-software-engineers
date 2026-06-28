@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 106 reviews. At an amusement park in Rạch Vẹm, Phú Quốc.\n\nNgoc Hien Treasure is not the park tourists default to. It sits north, away from the main drag, and locals rate it nearly perfect.\n\n106 people gave it 4.9. That number is hard to fake.\n\nIf you're traveling with kids, or just want a day that isn't another beach bar, this is your move.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Rides, animals, and a 4.9 rating at Ngoc Hien Treasure in Rạch Vẹm. This park is pulling near-perfect scores and most tourists drive straight past it. Watch till the end.",
+    "first_comment": "#PhuQuoc #PhuQuocAttractions #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #FamilyTravel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 106 reviews. Amusement park in Rạch Vẹm, Phú Quốc.\n\nNgoc Hien Treasure. Most tourists never make it north. Their loss.\n\nTag your travel buddy.",
+    "video_caption": "106 reviews. 4.9 stars. Ngoc Hien Treasure is the Phu Quoc park nobody talks about. Go north.",
+    "hashtags": "#PhuQuocAttractions #PhuQuocTips #PhuQuocVietnam #VietnamTravel #TravelTips #TravelReels #FamilyTravelVietnam #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "4.9 stars in Rạch Vẹm and tourists keep skipping it. Ngoc Hien Treasure, Phu Quoc. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "4.9 stars. 106 reviews.",
+    "scenes": [
+      "Drone pull back over Rạch Vẹm coastline",
+      "Park entrance sign zooms into frame",
+      "Kids on rides, wide smiles, fast cuts",
+      "Crowd shot: locals, not tourists",
+      "Google rating card held up to camera"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

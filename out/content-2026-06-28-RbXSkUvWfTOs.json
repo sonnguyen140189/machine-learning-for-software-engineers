@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 339 reviews. At a vegetarian bistro in Phu Quoc.\n\nBếp Chay Nhà An on Đường Trần Hưng Đạo is quietly pulling numbers that most meat restaurants here can't touch. Plant-based done right, no compromise on flavor. Locals know. The review count proves it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "339 people rated this vegetarian spot in Phu Quoc 4.9 stars. Watch what comes out of that kitchen. Bếp Chay Nhà An is not what you expect, and that's exactly the point.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 339 reviews. Vegetarian bistro in Phu Quoc.\n\nBếp Chay Nhà An is the plant-based spot nobody warns you about. Tag your travel buddy.",
+    "video_caption": "This is what 339 five-star reviews looks like on a plate. Bếp Chay Nhà An, Phu Quoc. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamTravel #VegetarianTravel #TravelTips #TravelReels #PhuQuocTips #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "4.9 stars in Phu Quoc and it's fully vegetarian. Bếp Chay Nhà An hits different. #PhuQuoc #PhuQuocFood #VietnamTravel #VegetarianTravel"
+  },
+  "video_script": {
+    "hook": "4.9★. 339 reviews. Vegetarian.",
+    "scenes": [
+      "Pan across steaming bowls on table",
+      "Close-up: chopsticks lifting noodles",
+      "Wide shot: cozy bistro interior, locals eating",
+      "Cut to: plates arriving from kitchen",
+      "Zoom in: 4.9-star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

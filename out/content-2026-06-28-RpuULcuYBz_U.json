@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists rent the group boats. Locals rent a private one.\n\nThuê cano riêng -FISHING TOUR on Trần Hương Đạo runs private fishing charters out of Phu Quoc with a perfect 5.0 rating across every review. No strangers on your boat. No fixed schedule. Just you, the crew, and open water.\n\nThis is how people who actually live here spend a day off.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Private cano. Open water. Zero crowds. Thuê cano riêng -FISHING TOUR runs the private fishing charters tourists walk straight past. 5.0 stars. Every single review. Book it before the algorithm finds it for everyone.",
+    "first_comment": "#PhuQuoc #PhuQuocFishing #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't rent the group boats. They go private.\n\nThuê cano riêng -FISHING TOUR. 5.0 stars. Your boat, your schedule.\n\nTag your travel buddy.",
+    "video_caption": "Private fishing charter. 5.0 stars. No crowds, no strangers. This is the Phu Quoc move tourists miss.",
+    "hashtags": "#PhuQuocFishing #PhuQuocTips #PhuQuocActivities #VietnamTravel #TravelTips #TravelReels #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Skip the tourist group boats. Go private. 5.0 stars every review. #PhuQuoc #PhuQuocFishing #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't take group boats.",
+    "scenes": [
+      "Private cano cutting through open water",
+      "Fishing lines cast off the back deck",
+      "Crew pulling in the catch",
+      "Empty horizon, no other boats in sight",
+      "Close-up: 5.0 stars on the booking screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
