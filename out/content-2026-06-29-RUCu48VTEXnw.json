@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this one on Đường Trần Hưng Đạo. 4.8 stars from 159 reviews and somehow still not on every feed. The Waterfront Restaurant sits right in Khu 1, Phú Quốc, and the people eating here are not the resort crowd. Real food. Real setting. No performance. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into The Waterfront Restaurant on Đường Trần Hưng Đạo, Khu 1. 159 people rated this 4.8 stars and the tables are still half empty. Watch what lands on the plate.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about The Waterfront Restaurant. 4.8 stars. 159 reviews. Still flying under the radar on Đường Trần Hưng Đạo. Tag your travel buddy.",
+    "video_caption": "4.8 stars and zero hype. The Waterfront Restaurant, Khu 1, Phú Quốc. This is what the right table looks like.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats"
+  },
+  "tiktok": {
+    "caption": "4.8 stars and tourists keep walking past it. The Waterfront Restaurant, Phú Quốc. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Street view: 66G Đường Trần Hưng Đạo sign",
+      "Push through entrance, tables filling up",
+      "Close-up: food arriving at the table",
+      "Wide shot: local diners, not tourist crowd",
+      "Rating card: 4.8★ 159 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

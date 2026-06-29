@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 642 reviews. On a street full of tourist traps.\n\nBuổi Sáng 부이상 on Đường Trần Hưng Đạo keeps pulling real numbers because the food is real. Vietnamese breakfast and beyond, done the way locals expect it. No gimmicks.\n\nThis is the kind of spot you walk past, then regret. Don't walk past it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Steam rising off a bowl at Buổi Sáng 부이상. 642 people rated this 4.8 stars on Đường Trần Hưng Đạo and they weren't wrong. Watch what lands on the table.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 642 reviews. Buổi Sáng 부이상 earns every one.\n\nReal Vietnamese food on Đường Trần Hưng Đạo. Save this.",
+    "video_caption": "642 reviews at 4.8 stars. Buổi Sáng 부이상 is not a coincidence. It's just good.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 642 reviews. Buổi Sáng 부이상 delivers every time. #PhuQuoc #PhuQuocFood #VietnamEats"
+  },
+  "video_script": {
+    "hook": "4.8 stars. 642 reviews.",
+    "scenes": [
+      "Exterior shot: busy Đường Trần Hưng Đạo",
+      "Push through door into Buổi Sáng 부이상",
+      "Close-up: steaming bowl hits the table",
+      "Pan across packed dining room",
+      "Chopsticks lift first bite, slow motion"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc that doesn't feel touristy. Sunset Bay Restaurant delivers exactly that. Watch the sky shift colors over the water, cold drink in hand, nowhere else to be. 4.8 stars from 99 reviews means the regulars keep coming back. So will you. Save this for your Phu Quoc trip.",
+    "video_caption": "The sky turns orange. Your drink stays cold. Sunset Bay Restaurant is where the evening actually starts. 4.8 stars. Go see why.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #SunsetPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. 4.8 stars, 99 reviews. Sunset Bay Restaurant does evenings right. Tag your travel buddy.",
+    "video_caption": "Sky on fire. Drink in hand. Sunset Bay Restaurant. 4.8 stars. This is the move.",
+    "hashtags": "#PhuQuocRestaurants #SunsetPhuQuoc #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "This place fixes a bad travel day. Sunset Bay Restaurant, Phu Quoc. 4.8 stars. #PhuQuoc #PhuQuocTips #VietnamTravel #SunsetVibes"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: golden sky over water",
+      "Close-up: condensation on cold glass",
+      "Pan across empty terrace at golden hour",
+      "Cut to: food arriving at table",
+      "Slow zoom: sun touching the horizon"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "stamp": "2026-06-29",
+  "items": [
+    {
+      "placeId": "ChIJ04EPezKNpzERUCu48VTEXnw",
+      "placeName": "The Waterfront Restaurant",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-29-RUCu48VTEXnw-0.jpg",
+        "out/media/2026-06-29-RUCu48VTEXnw-1.jpg",
+        "out/media/2026-06-29-RUCu48VTEXnw-2.jpg",
+        "out/media/2026-06-29-RUCu48VTEXnw-3.jpg",
+        "out/media/2026-06-29-RUCu48VTEXnw-4.jpg",
+        "out/media/2026-06-29-RUCu48VTEXnw-5.jpg",
+        "out/media/2026-06-29-RUCu48VTEXnw-6.jpg",
+        "out/media/2026-06-29-RUCu48VTEXnw-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this one on Đường Trần Hưng Đạo. 4.8 stars from 159 reviews and somehow still not on every feed. The Waterfront Restaurant sits right in Khu 1, Phú Quốc, and the people eating here are not the resort crowd. Real food. Real setting. No performance. Save this for your Phu Quoc trip.",
+          "video_caption": "Walking into The Waterfront Restaurant on Đường Trần Hưng Đạo, Khu 1. 159 people rated this 4.8 stars and the tables are still half empty. Watch what lands on the plate.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about The Waterfront Restaurant. 4.8 stars. 159 reviews. Still flying under the radar on Đường Trần Hưng Đạo. Tag your travel buddy.",
+          "video_caption": "4.8 stars and zero hype. The Waterfront Restaurant, Khu 1, Phú Quốc. This is what the right table looks like.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats"
+        },
+        "tiktok": {
+          "caption": "4.8 stars and tourists keep walking past it. The Waterfront Restaurant, Phú Quốc. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Locals don't post about this.",
+          "scenes": [
+            "Street view: 66G Đường Trần Hưng Đạo sign",
+            "Push through entrance, tables filling up",
+            "Close-up: food arriving at the table",
+            "Wide shot: local diners, not tourist crowd",
+            "Rating card: 4.8★ 159 reviews on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
+      "placeName": "FUSION Treats",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-29-RdA_J9w9GuiM-0.jpg",
+        "out/media/2026-06-29-RdA_J9w9GuiM-1.jpg",
+        "out/media/2026-06-29-RdA_J9w9GuiM-2.jpg",
+        "out/media/2026-06-29-RdA_J9w9GuiM-3.jpg",
+        "out/media/2026-06-29-RdA_J9w9GuiM-4.jpg",
+        "out/media/2026-06-29-RdA_J9w9GuiM-5.jpg",
+        "out/media/2026-06-29-RdA_J9w9GuiM-6.jpg",
+        "out/media/2026-06-29-RdA_J9w9GuiM-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-29-RdA_J9w9GuiM.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.9 stars. 1,642 reviews. FUSION Treats in Phú Quốc is not flying under the radar anymore. This fusion restaurant on Đường Dinh Bà keeps pulling in crowds for a reason. When a place holds a 4.9 across that many real reviews, you stop questioning it and just go. Add it to the list before everyone else does. Save this for your Phu Quoc trip.",
+          "video_caption": "1,642 people reviewed FUSION Treats and nearly all of them gave it 5 stars. Watch what the fuss is about. Đường Dinh Bà, Phú Quốc. Go.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.9 stars. 1,642 reviews. FUSION Treats earns it. Đường Dinh Bà, Phú Quốc. Save this before your trip.",
+          "video_caption": "1,642 reviews later and it still holds 4.9. FUSION Treats is the real deal. Tag your travel buddy.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+        },
+        "tiktok": {
+          "caption": "4.9 stars across 1,642 reviews. FUSION Treats in Phú Quốc is not a fluke. Go. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.9★ across 1,642 reviews.",
+          "scenes": [
+            "Exterior shot of FUSION Treats sign",
+            "Camera pans the busy dining area",
+            "Close-up of dishes hitting the table",
+            "Cut to packed crowd, happy faces",
+            "Screen shows 4.9★ review count"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJF33R8xCLpzERFtTAVV7G-14",
+      "placeName": "Camia Restaurant",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-29-RFtTAVV7G-14-0.jpg",
+        "out/media/2026-06-29-RFtTAVV7G-14-1.jpg",
+        "out/media/2026-06-29-RFtTAVV7G-14-2.jpg",
+        "out/media/2026-06-29-RFtTAVV7G-14-3.jpg",
+        "out/media/2026-06-29-RFtTAVV7G-14-4.jpg",
+        "out/media/2026-06-29-RFtTAVV7G-14-5.jpg",
+        "out/media/2026-06-29-RFtTAVV7G-14-6.jpg",
+        "out/media/2026-06-29-RFtTAVV7G-14-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.8 stars. 2,421 reviews. Right on the beach at Ông Lang. Camia Restaurant keeps showing up for a reason. Fewer crowds than the south end of the island, tables practically on the sand, and a rating that holds across thousands of real visits. If you're staying near Ông Lang, this is your dinner. Save this for your Phu Quoc trip.",
+          "video_caption": "Waves behind you, food in front of you. Camia Restaurant at Ông Lang beach is pulling 4.8 stars from 2,421 reviews and the tables are right on the sand. Worth every step off the main strip.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #OngLang #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "4.8 stars. 2,421 reviews. Beach tables at Ông Lang. Camia Restaurant earns it. Save this for your Phu Quoc trip.",
+          "video_caption": "Sand under your feet, 4.8 stars overhead. Camia Restaurant at Ông Lang is the beach dinner you'll regret skipping.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #OngLangBeach #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocBeaches"
+        },
+        "tiktok": {
+          "caption": "4.8 stars, 2,421 reviews, tables on the sand at Ông Lang. Camia Restaurant just won dinner. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.8★ from 2,421 reviews.",
+          "scenes": [
+            "Aerial: Ông Lang beach, quiet shoreline",
+            "Walk along Le Thuc Nha Street toward restaurant",
+            "Close-up: tables set directly on sand",
+            "Food arrives, ocean visible behind plate",
+            "Guest reacts, smiles, waves in background"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ92MYQACNpzERK6dM8g8-pG0",
+      "placeName": "Restaurant Bukhara halal",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-29-RK6dM8g8-pG0-0.jpg",
+        "out/media/2026-06-29-RK6dM8g8-pG0-1.jpg",
+        "out/media/2026-06-29-RK6dM8g8-pG0-2.jpg",
+        "out/media/2026-06-29-RK6dM8g8-pG0-3.jpg",
+        "out/media/2026-06-29-RK6dM8g8-pG0-4.jpg",
+        "out/media/2026-06-29-RK6dM8g8-pG0-5.jpg",
+        "out/media/2026-06-29-RK6dM8g8-pG0-6.jpg",
+        "out/media/2026-06-29-RK6dM8g8-pG0-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-29-RK6dM8g8-pG0.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you're Muslim, it's lunch, and Phu Quoc just delivered. Restaurant Bukhara halal on 35 Đường Trần Hưng Đạo is sitting at 4.9 stars across 514 reviews. That number is rare. Halal options on this island are limited, so when one hits this hard, you bookmark it. Save this for your Phu Quoc trip.",
+          "video_caption": "514 reviews. 4.9 stars. A halal restaurant on Phu Quoc that actually delivers. Restaurant Bukhara halal, right on Đường Trần Hưng Đạo. If you're traveling halal in Vietnam, this is the one.",
+          "first_comment": "#PhuQuoc #HalalTravel #HalalFood #VisitVietnam #PhuQuocRestaurants #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "POV: halal food in Phu Quoc, 4.9 stars, 514 reviews. Restaurant Bukhara halal on Đường Trần Hưng Đạo. Save this.",
+          "video_caption": "4.9 stars. 514 reviews. Halal done right in Phu Quoc. Restaurant Bukhara halal. Tag your travel buddy.",
+          "hashtags": "#PhuQuocFood #HalalTravel #HalalFood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "Halal food in Phu Quoc hitting 4.9 stars. Restaurant Bukhara halal is the answer. #PhuQuoc #HalalTravel #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Halal in Phu Quoc. 4.9 stars.",
+          "scenes": [
+            "Exterior shot, 35 Đường Trần Hưng Đạo sign",
+            "Close-up: halal menu pages turning",
+            "Food arriving on the table, steam rising",
+            "Review screen: 4.9 stars, 514 reviews",
+            "Diner takes first bite, nods approval"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJq31LD1-MpzERdIuwa2Bg2ok",
+      "placeName": "Sunset Beach Bar & Restaurant",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-29-RdIuwa2Bg2ok-0.jpg",
+        "out/media/2026-06-29-RdIuwa2Bg2ok-1.jpg",
+        "out/media/2026-06-29-RdIuwa2Bg2ok-2.jpg",
+        "out/media/2026-06-29-RdIuwa2Bg2ok-3.jpg",
+        "out/media/2026-06-29-RdIuwa2Bg2ok-4.jpg",
+        "out/media/2026-06-29-RdIuwa2Bg2ok-5.jpg",
+        "out/media/2026-06-29-RdIuwa2Bg2ok-6.jpg",
+        "out/media/2026-06-29-RdIuwa2Bg2ok-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you stop scrolling Đường Trần Hưng Đạo and walk into Sunset Beach Bar & Restaurant. Cold drink in hand. Sun dropping fast. 2,170 reviews told you it was worth it. They were right. $15-30 per person for drinks and food with that view. Save this for your Phu Quoc trip.",
+          "video_caption": "Sun hits the water. Drink hits the table. Sunset Beach Bar & Restaurant on Đường Trần Hưng Đạo delivers exactly what the name promises. 4.3 stars. 2,170 people agree.",
+          "first_comment": "#PhuQuoc #PhuQuocSunset #PhuQuocBars #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "POV: you found the sunset bar everyone keeps going back to. Sunset Beach Bar & Restaurant. 4.3★, 2,170 reviews. Tag your travel buddy.",
+          "video_caption": "Drink in hand. Sun going down. Sunset Beach Bar & Restaurant does not miss. $15-30 per person.",
+          "hashtags": "#PhuQuocSunset #PhuQuocBars #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+        },
+        "tiktok": {
+          "caption": "POV: you picked the right bar for sunset in Phu Quoc. 4.3★ and 2,170 reviews later. #PhuQuoc #PhuQuocSunset #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: right bar. Right sunset.",
+          "scenes": [
+            "Walk up to beachfront entrance",
+            "Bartender slides drink across counter",
+            "Wide shot: sun low over water",
+            "Close-up: condensation on cold glass",
+            "Crowd settling in, golden light on faces"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJw58lTZeNpzERBCwsZlG8gwA",
+      "placeName": "Sunset Sanato Beach Club",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-29-RBCwsZlG8gwA-0.jpg",
+        "out/media/2026-06-29-RBCwsZlG8gwA-1.jpg",
+        "out/media/2026-06-29-RBCwsZlG8gwA-2.jpg",
+        "out/media/2026-06-29-RBCwsZlG8gwA-3.jpg",
+        "out/media/2026-06-29-RBCwsZlG8gwA-4.jpg",
+        "out/media/2026-06-29-RBCwsZlG8gwA-5.jpg",
+        "out/media/2026-06-29-RBCwsZlG8gwA-6.jpg",
+        "out/media/2026-06-29-RBCwsZlG8gwA-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-29-RBCwsZlG8gwA.mp4",
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes a bad travel day.\n\nSunset Sanato Beach Club hits different at golden hour. Cold drink in hand, feet in the sand, sun dropping into the sea. No rush. No itinerary.\n\n4.0 stars across 2,648 reviews. $15-30 a person. Worth every cent.\n\nOn Đường Bào, west coast. Get there 30 mins before sunset. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the sky turn orange over Sunset Sanato Beach Club. Bar drinks, beach chairs, west-coast light. $15-30 a person and you're here for the night.",
+          "first_comment": "#PhuQuoc #PhuQuocBeach #SunsetBeach #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "This place fixes a bad travel day. Sunset Sanato Beach Club, west coast Phu Quoc. 4.0★, 2,648 reviews. Tag your travel buddy.",
+          "video_caption": "Sun drops. Drink rises. Sunset Sanato Beach Club doing exactly what it promises.",
+          "hashtags": "#PhuQuocBeach #PhuQuocBar #PhuQuocTips #SunsetBeach #VietnamTravel #TravelTips #TravelReels #BeachBar"
+        },
+        "tiktok": {
+          "caption": "Phu Quoc sunset that actually delivers. Sunset Sanato Beach Club, west coast. ~$20/person. Go before dark. #PhuQuoc #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "This fixes a bad travel day.",
+          "scenes": [
+            "Wide shot: beach club from the shoreline",
+            "Bartender pours cold drink, close-up",
+            "Guests in chairs, sun low on horizon",
+            "Sky shifts orange and pink",
+            "Price text on screen: $15-30/person"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJbXLMfgD1pzERmtqb5J1sjF8",
+      "placeName": "Sunset Bay Restaurant",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-29-Rmtqb5J1sjF8-0.jpg",
+        "out/media/2026-06-29-Rmtqb5J1sjF8-1.jpg",
+        "out/media/2026-06-29-Rmtqb5J1sjF8-2.jpg",
+        "out/media/2026-06-29-Rmtqb5J1sjF8-3.jpg",
+        "out/media/2026-06-29-Rmtqb5J1sjF8-4.jpg",
+        "out/media/2026-06-29-Rmtqb5J1sjF8-5.jpg",
+        "out/media/2026-06-29-Rmtqb5J1sjF8-6.jpg",
+        "out/media/2026-06-29-Rmtqb5J1sjF8-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "Phu Quoc that doesn't feel touristy. Sunset Bay Restaurant delivers exactly that. Watch the sky shift colors over the water, cold drink in hand, nowhere else to be. 4.8 stars from 99 reviews means the regulars keep coming back. So will you. Save this for your Phu Quoc trip.",
+          "video_caption": "The sky turns orange. Your drink stays cold. Sunset Bay Restaurant is where the evening actually starts. 4.8 stars. Go see why.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #SunsetPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "Phu Quoc that doesn't feel touristy. 4.8 stars, 99 reviews. Sunset Bay Restaurant does evenings right. Tag your travel buddy.",
+          "video_caption": "Sky on fire. Drink in hand. Sunset Bay Restaurant. 4.8 stars. This is the move.",
+          "hashtags": "#PhuQuocRestaurants #SunsetPhuQuoc #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "This place fixes a bad travel day. Sunset Bay Restaurant, Phu Quoc. 4.8 stars. #PhuQuoc #PhuQuocTips #VietnamTravel #SunsetVibes"
+        },
+        "video_script": {
+          "hook": "This place fixes burnout.",
+          "scenes": [
+            "Wide shot: golden sky over water",
+            "Close-up: condensation on cold glass",
+            "Pan across empty terrace at golden hour",
+            "Cut to: food arriving at table",
+            "Slow zoom: sun touching the horizon"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJWVlt372NpzERCmun5wdEL9o",
+      "placeName": "Buổi Sáng 부이상 Vietnamese restaurant",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-29-RCmun5wdEL9o-0.jpg",
+        "out/media/2026-06-29-RCmun5wdEL9o-1.jpg",
+        "out/media/2026-06-29-RCmun5wdEL9o-2.jpg",
+        "out/media/2026-06-29-RCmun5wdEL9o-3.jpg",
+        "out/media/2026-06-29-RCmun5wdEL9o-4.jpg",
+        "out/media/2026-06-29-RCmun5wdEL9o-5.jpg",
+        "out/media/2026-06-29-RCmun5wdEL9o-6.jpg",
+        "out/media/2026-06-29-RCmun5wdEL9o-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-29-RCmun5wdEL9o.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.8 stars. 642 reviews. On a street full of tourist traps.\n\nBuổi Sáng 부이상 on Đường Trần Hưng Đạo keeps pulling real numbers because the food is real. Vietnamese breakfast and beyond, done the way locals expect it. No gimmicks.\n\nThis is the kind of spot you walk past, then regret. Don't walk past it.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Steam rising off a bowl at Buổi Sáng 부이상. 642 people rated this 4.8 stars on Đường Trần Hưng Đạo and they weren't wrong. Watch what lands on the table.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.8 stars. 642 reviews. Buổi Sáng 부이상 earns every one.\n\nReal Vietnamese food on Đường Trần Hưng Đạo. Save this.",
+          "video_caption": "642 reviews at 4.8 stars. Buổi Sáng 부이상 is not a coincidence. It's just good.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.8 stars, 642 reviews. Buổi Sáng 부이상 delivers every time. #PhuQuoc #PhuQuocFood #VietnamEats"
+        },
+        "video_script": {
+          "hook": "4.8 stars. 642 reviews.",
+          "scenes": [
+            "Exterior shot: busy Đường Trần Hưng Đạo",
+            "Push through door into Buổi Sáng 부이상",
+            "Close-up: steaming bowl hits the table",
+            "Pan across packed dining room",
+            "Chopsticks lift first bite, slow motion"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJx5BojoeMpzERinPblTbH9Fs",
+      "placeName": "Phở Nam Định",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-29-RinPblTbH9Fs-0.jpg",
+        "out/media/2026-06-29-RinPblTbH9Fs-1.jpg",
+        "out/media/2026-06-29-RinPblTbH9Fs-2.jpg",
+        "out/media/2026-06-29-RinPblTbH9Fs-3.jpg",
+        "out/media/2026-06-29-RinPblTbH9Fs-4.jpg",
+        "out/media/2026-06-29-RinPblTbH9Fs-5.jpg",
+        "out/media/2026-06-29-RinPblTbH9Fs-6.jpg",
+        "out/media/2026-06-29-RinPblTbH9Fs-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.4 stars. 220 reviews. A pho spot on Đường Nguyễn Trãi that locals keep going back to. Phở Nam Định serves the real deal, slow-cooked broth, proper herbs, and none of the tourist markup. Show up early. Bowls go fast. Save this for your Phu Quoc trip.",
+          "video_caption": "Hot broth poured right in front of you. Phở Nam Định at 8 Đường Nguyễn Trãi is 4.4 stars for a reason. This is the bowl you actually want in Phu Quoc.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.4 stars. 220 reviews. Phở Nam Định delivers the real broth. Show up early. Tag your travel buddy.",
+          "video_caption": "Steaming bowl lands on the table. Phở Nam Định. 220 reviews don't lie.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #Pho"
+        },
+        "tiktok": {
+          "caption": "220 reviews on a pho spot in Phu Quoc. Phở Nam Định hits different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.4 stars. 220 reviews.",
+          "scenes": [
+            "Close-up: broth poured into bowl",
+            "Steam rising, fresh herbs added",
+            "Chopsticks lift noodles, slow pull",
+            "Packed local tables, no tourists",
+            "Street sign: Đường Nguyễn Trãi"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJn6kim_SXpzERd6rlRMQmpZc",
+      "placeName": "Premier Residences Phu Quoc Emerald Bay Managed by Accor",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-29-Rd6rlRMQmpZc-0.jpg",
+        "out/media/2026-06-29-Rd6rlRMQmpZc-1.jpg",
+        "out/media/2026-06-29-Rd6rlRMQmpZc-2.jpg",
+        "out/media/2026-06-29-Rd6rlRMQmpZc-3.jpg",
+        "out/media/2026-06-29-Rd6rlRMQmpZc-4.jpg",
+        "out/media/2026-06-29-Rd6rlRMQmpZc-5.jpg",
+        "out/media/2026-06-29-Rd6rlRMQmpZc-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-29-Rd6rlRMQmpZc.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "9,088 reviews. 4.8 stars. Bãi Khem beach at your feet.\n\nPremier Residences Phu Quoc Emerald Bay Managed by Accor is not a fluke. Five restaurants, a spa, a fitness center, free breakfast every morning, and one of the cleanest stretches of sand on the island right outside your door.\n\nThis is Phu Quoc doing luxury without apology.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the sun hit Bãi Khem from the resort side. 9,088 guests rated this 4.8 stars. The breakfast spread alone tells you why. Premier Residences Phu Quoc Emerald Bay, delivering every time.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "9,088 reviews. 4.8 stars. Bãi Khem beach included.\n\nPremier Residences Phu Quoc Emerald Bay. Free breakfast, spa, 5 restaurants. Tag your travel buddy.",
+          "video_caption": "Bãi Khem at sunrise, 4.8 stars, free breakfast waiting. Premier Residences Phu Quoc Emerald Bay lives up to the number.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #BaiKhem #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "9,088 people rated this 4.8 stars on Bãi Khem beach. Free breakfast included. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "9,088 reviews. 4.8 stars.",
+          "scenes": [
+            "Drone pull back from Bãi Khem shoreline",
+            "Resort facade at golden hour",
+            "Free breakfast buffet, wide spread shot",
+            "Spa treatment room, hands pouring oil",
+            "Guest walking toward beachfront at sunrise"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJy5uCwXCXpzERQSR2-hAgnuo",
+      "placeName": "New World Phu Quoc Resort",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-06-29-RQSR2-hAgnuo-0.jpg",
+        "out/media/2026-06-29-RQSR2-hAgnuo-1.jpg",
+        "out/media/2026-06-29-RQSR2-hAgnuo-2.jpg",
+        "out/media/2026-06-29-RQSR2-hAgnuo-3.jpg",
+        "out/media/2026-06-29-RQSR2-hAgnuo-4.jpg",
+        "out/media/2026-06-29-RQSR2-hAgnuo-5.jpg",
+        "out/media/2026-06-29-RQSR2-hAgnuo-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you picked the resort on Khem Beach and everyone asks which one it is.\n\nNew World Phu Quoc Resort. 4.7 stars across 5,287 reviews. That's not luck, that's consistency.\n\nKhem Beach is quieter than the main strip. The resort sits right on it. You do the math.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Walk-through of New World Phu Quoc Resort on Khem Beach. 5,287 people rated it 4.7 stars. Watch why. Drop a comment if this is on your list.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #KhemBeach #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "POV: picked the resort everyone keeps asking about.\n\nNew World Phu Quoc Resort. Khem Beach. 4.7★, 5,287 reviews. Save this.",
+          "video_caption": "Khem Beach resort walk-through. 4.7 stars. 5,287 reviews. This is why. #PhuQuoc #PhuQuocResort",
+          "hashtags": "#PhuQuocResort #KhemBeach #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "POV: this is the resort they keep asking you about in Phu Quoc 👀 #PhuQuoc #PhuQuocResort #KhemBeach #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: picked the right resort.",
+          "scenes": [
+            "Drone pull-back over Khem Beach shoreline",
+            "Resort entrance gate, guests walking in",
+            "Pool deck facing the ocean, wide shot",
+            "Close-up: 4.7★ rating on screen, 5,287 reviews",
+            "Beach chairs at dusk, Khem Beach empty stretch"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJyVg7uFmMpzER8oO_9EVvcbg",
+      "placeName": "La Veranda Resort Phu Quoc - MGallery Collection",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-06-29-R8oO_9EVvcbg-0.jpg",
+        "out/media/2026-06-29-R8oO_9EVvcbg-2.jpg",
+        "out/media/2026-06-29-R8oO_9EVvcbg-3.jpg",
+        "out/media/2026-06-29-R8oO_9EVvcbg-4.jpg",
+        "out/media/2026-06-29-R8oO_9EVvcbg-5.jpg",
+        "out/media/2026-06-29-R8oO_9EVvcbg-6.jpg",
+        "out/media/2026-06-29-R8oO_9EVvcbg-7.jpg"
+      ],
+      "videoPath": "out/media/2026-06-29-R8oO_9EVvcbg.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.6 stars. 1,040 reviews. On Đường Trần Hưng Đạo, steps from the water.\n\nLa Veranda Resort Phu Quoc - MGallery Collection gives you kayaks at sunrise, yoga on the beach, Mediterranean food, and a full spa. Colonial-style property that actually earns every review.\n\nThis is the move if you want Phu Quoc without the chaos. Save this for your Phu Quoc trip.",
+          "video_caption": "Kayak out at 7am. Spa by noon. Mediterranean dinner as the sun drops. La Veranda Resort Phu Quoc - MGallery Collection is doing everything right on Đường Trần Hưng Đạo. 4.6 stars from 1,040 guests says it all.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.6 stars. 1,040 reviews. Kayaks, yoga, spa, Mediterranean dining. La Veranda Resort Phu Quoc - MGallery Collection delivers.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Paddling out from the beach at La Veranda Resort Phu Quoc - MGallery Collection. 1,040 guests rated it 4.6. The water does the rest.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #MGallery"
+        },
+        "tiktok": {
+          "caption": "4.6 stars. 1,040 reviews. Kayaks, spa, beach yoga. La Veranda Resort is not playing. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.6★ · 1,040 reviews · Phu Quoc",
+          "scenes": [
+            "Aerial pan: colonial facade at golden hour",
+            "Guest paddling kayak off beach at sunrise",
+            "Yoga class on sand, waves behind instructor",
+            "Spa treatment room, soft light, stone bowls",
+            "Mediterranean plates arriving at beach table",
+            "Review count + star rating on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

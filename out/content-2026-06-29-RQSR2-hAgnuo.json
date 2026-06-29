@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you picked the resort on Khem Beach and everyone asks which one it is.\n\nNew World Phu Quoc Resort. 4.7 stars across 5,287 reviews. That's not luck, that's consistency.\n\nKhem Beach is quieter than the main strip. The resort sits right on it. You do the math.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walk-through of New World Phu Quoc Resort on Khem Beach. 5,287 people rated it 4.7 stars. Watch why. Drop a comment if this is on your list.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #KhemBeach #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: picked the resort everyone keeps asking about.\n\nNew World Phu Quoc Resort. Khem Beach. 4.7★, 5,287 reviews. Save this.",
+    "video_caption": "Khem Beach resort walk-through. 4.7 stars. 5,287 reviews. This is why. #PhuQuoc #PhuQuocResort",
+    "hashtags": "#PhuQuocResort #KhemBeach #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: this is the resort they keep asking you about in Phu Quoc 👀 #PhuQuoc #PhuQuocResort #KhemBeach #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: picked the right resort.",
+    "scenes": [
+      "Drone pull-back over Khem Beach shoreline",
+      "Resort entrance gate, guests walking in",
+      "Pool deck facing the ocean, wide shot",
+      "Close-up: 4.7★ rating on screen, 5,287 reviews",
+      "Beach chairs at dusk, Khem Beach empty stretch"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
