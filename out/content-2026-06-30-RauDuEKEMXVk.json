@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars. 317 reviews. HD cafe keeps delivering.\n\nLocals and visitors keep coming back to this spot in Khu 1, Phú Quốc. Solid coffee, consistent quality, and a vibe that earns repeat visits.\n\nNot the flashiest café on the island. Just one that does the job right, every single time.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "317 people rated HD cafe 4.5 stars. Watch why they keep coming back. Coffee in hand, Khu 1, Phú Quốc. This is your next morning stop.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocFood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "317 reviews. 4.5 stars. HD cafe earns it every time.\n\nKhu 1, Phú Quốc. Your morning is sorted.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.5 stars, 317 reviews. HD cafe, Phú Quốc. See what the locals already know.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "317 reviews, 4.5 stars. HD cafe in Phú Quốc just built different. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "317 reviews. 4.5 stars.",
+    "scenes": [
+      "Exterior shot of HD cafe sign",
+      "Coffee being poured, close up",
+      "Cup placed on table, steam rising",
+      "Wide shot of café interior, customers seated",
+      "Review count on screen: 317 at 4.5★"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

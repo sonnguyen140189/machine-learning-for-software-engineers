@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking Đường Trần Hưng Đạo and almost miss the staircase up to Zyzu Kafé. Don't. 4.4 stars across 333 reviews on a coffee shop in Duong Dong. That's not luck. Order, find a seat, stop rushing. Phu Quoc at this pace hits different. Save this for your Phu Quoc trip.",
+    "video_caption": "Climbed the stairs. Found Zyzu Kafé waiting at the top. 333 people rated this 4.4 stars and most tourists walk straight past the entrance. Your coffee break just got an upgrade.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #DuongDong #VisitVietnam #TravelTips #PhuQuocTips #VietnamCoffee"
+  },
+  "instagram": {
+    "caption": "Walked past the staircase twice. Third time, looked up. Zyzu Kafé, 4.4★, 333 reviews. Phu Quoc delivered. Tag your travel buddy.",
+    "video_caption": "Stairs off Đường Trần Hưng Đạo. One coffee shop most tourists skip. 333 reviews say that's a mistake.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #DuongDong #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Almost walked past Zyzu Kafé three times. 4.4 stars said go back. #PhuQuoc #PhuQuocCafe #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you almost missed this.",
+    "scenes": [
+      "Street-level shot of staircase entrance on Đường Trần Hưng Đạo",
+      "Feet climbing the stairs, handheld shaky cam",
+      "First reveal of Zyzu Kafé space at the top",
+      "Close-up: coffee being set on the table",
+      "Wide shot: guest settled in, Duong Dong outside the window"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

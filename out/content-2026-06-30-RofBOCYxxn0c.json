@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $15 for a bowl of phở in Phu Quoc. Served the old Hanoi way, carried on shoulder poles right to your table. Phở gánh Hà Nội on 8B Hùng Vương keeps it traditional: rich broth, fresh herbs, zero tourist markup. 4.2 stars across 194 reviews. That number holds up. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the phở arrive on a gánh, shoulder poles and all. This is how Hanoi used to do it. 8B Hùng Vương, Phu Quoc. Under $15 a bowl. 194 reviews don't lie.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $15. Phở served on shoulder poles. Phở gánh Hà Nội brings old Hanoi to Phu Quoc. 4.2★, 194 reviews. Save this.",
+    "video_caption": "Shoulder poles. Hot broth. $15. Phở gánh Hà Nội is the real deal on 8B Hùng Vương.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #PhoVietnam"
+  },
+  "tiktok": {
+    "caption": "Under $15 phở served on shoulder poles in Phu Quoc. Old Hanoi style. 4.2★ #PhuQuoc #PhuQuocFood #PhoVietnam #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Under $15 phở. Phu Quoc.",
+    "scenes": [
+      "Vendor lifts gánh shoulder poles",
+      "Hot broth poured into bowl",
+      "Fresh herbs piled on top",
+      "Steam rising, close-up shot",
+      "Bowls lined up, busy table"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
