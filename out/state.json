@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJj3KLVmuNpzERRcxS6PIioiI",
+    "ChIJh-NscYeMpzER9zBF1Ddrbo0",
+    "ChIJ44_c7DiLpzERBpIsx0wB0T4",
+    "ChIJh_DUIYeNpzERDqbaRMxPgTY",
+    "ChIJl1AwDfuNpzERAZBzVul_WO8",
+    "ChIJMy-NusSNpzERrIESZrdhmz0",
+    "ChIJY5fODACNpzER4vgSD0OdNQA",
+    "ChIJpf9tnKuNpzER0VlJpD19I5s",
+    "ChIJI5DMg7mNpzER_AUE58P5avM",
+    "ChIJ_9CmnfSNpzERsmmH4TLwHy4",
+    "ChIJ3ZgwWLONpzERIM11I5sYgVs",
+    "ChIJzwU_1waNpzERJApCT6UMoDk",
     "ChIJh0oTEUaLpzERgI8_SI_bkLg",
     "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
     "ChIJx4kkhiiNpzERH47LIVsqJps",
@@ -187,21 +199,189 @@
     "ChIJPcc3oAyNpzERK8YEXaGsonw",
     "ChIJXWMScYiMpzERFW5SXq8DfXs",
     "ChIJiamiNwCNpzERGZfl84R9I3k",
-    "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
-    "ChIJlSRlw5KNpzER9K0k_h7wn_A",
-    "ChIJMemrMgSNpzERRHKLDaKlO9k",
-    "ChIJZQn9bDAfCDERZjwRggL8Ecc",
-    "ChIJl8UfBQGNpzERWCMLl5afNZA",
-    "ChIJh_O6fQOTpzER59owkekSGzg",
-    "ChIJwWU1ZCcfCDEReUYA7CbOibg",
-    "ChIJv4cK9HiNpzER-Vx6JuZH1Sw",
-    "ChIJAUdyovyNpzER8QPEJgQFxbs",
-    "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
-    "ChIJTZlTGwCNpzERcOusT0_hYo4",
-    "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
-    "ChIJFxJfXGiNpzER5oQGw5O9TkU"
+    "ChIJA4C4QwaNpzERJ7MA3oUHL5E"
   ],
   "history": [
+    {
+      "date": "2026-07-01",
+      "placeId": "ChIJj3KLVmuNpzERRcxS6PIioiI",
+      "placeName": "RASOI INDIAN PURE VEGETARIAN RESTAURANT",
+      "results": {
+        "facebookVideo": {
+          "id": "1351456399701130"
+        },
+        "instagramReel": {
+          "id": "18059838314737386"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "placeId": "ChIJh-NscYeMpzER9zBF1Ddrbo0",
+      "placeName": "Khánh Ly Vegetarian Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122111889885313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17951763494999668"
+        }
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "placeId": "ChIJ44_c7DiLpzERBpIsx0wB0T4",
+      "placeName": "Flavor of life Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "2052471092006355"
+        },
+        "instagramReel": {
+          "id": "18005849051933369"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "placeId": "ChIJh_DUIYeNpzERDqbaRMxPgTY",
+      "placeName": "Hải sản Động Tôm Hùm - Lobster Cave seafood",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122111888925313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17875204623513508"
+        }
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "placeId": "ChIJl1AwDfuNpzERAZBzVul_WO8",
+      "placeName": "Massage DuBai Luxury Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1943451879681060"
+        },
+        "instagramReel": {
+          "id": "18017322764854202"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "placeId": "ChIJMy-NusSNpzERrIESZrdhmz0",
+      "placeName": "Relax Spa massage , waxing and nail",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122111887941313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18085559906561421"
+        }
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "placeId": "ChIJY5fODACNpzER4vgSD0OdNQA",
+      "placeName": "LUNA SPA- Body Massage, Foot Massage, Shampoo, Gội Đầu Dưỡng Sinh)(마사지, 발 마사지, 샴푸, 按摩, 洗頭,)",
+      "results": {
+        "facebookVideo": {
+          "id": "1314689677529908"
+        },
+        "instagramReel": {
+          "id": "18344620042169840"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "placeId": "ChIJpf9tnKuNpzER0VlJpD19I5s",
+      "placeName": "MiDu Foot & Body Massage Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122111887071313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18100114001148422"
+        }
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "placeId": "ChIJI5DMg7mNpzER_AUE58P5avM",
+      "placeName": "Serenity Spa",
+      "results": {
+        "facebookVideo": {
+          "id": "1566592915194257"
+        },
+        "instagramReel": {
+          "id": "17940833184253394"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "placeId": "ChIJ_9CmnfSNpzERsmmH4TLwHy4",
+      "placeName": "ZEN Spa & Nail (2)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122111886219313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18113933120486862"
+        }
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "placeId": "ChIJ3ZgwWLONpzERIM11I5sYgVs",
+      "placeName": "Massage Phú Quốc - Nhiên Spa | 마사지 | 스파 | Spa Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1342478328017779"
+        },
+        "instagramReel": {
+          "id": "17896081881473228"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "placeId": "ChIJzwU_1waNpzERJApCT6UMoDk",
+      "placeName": "ZEN Spa & Nail",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122111885373313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18158287183465497"
+        }
+      }
+    },
     {
       "date": "2026-06-30",
       "placeId": "ChIJh0oTEUaLpzERgI8_SI_bkLg",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18444053242187873"
-        }
-      }
-    },
-    {
-      "date": "2026-06-15",
-      "placeId": "ChIJlSRlw5KNpzER9K0k_h7wn_A",
-      "placeName": "Nhà hàng Thì Là Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1004574348753192"
-        },
-        "instagramReel": {
-          "id": "18432061459122416"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-15",
-      "placeId": "ChIJMemrMgSNpzERRHKLDaKlO9k",
-      "placeName": "Aigue-Marine French Bistro by Hidden Gem",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122109027747313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18119408299780490"
-        }
-      }
-    },
-    {
-      "date": "2026-06-15",
-      "placeId": "ChIJZQn9bDAfCDERZjwRggL8Ecc",
-      "placeName": "Nautilus Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1028517442951497"
-        },
-        "instagramReel": {
-          "id": "18085734578628331"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-15",
-      "placeId": "ChIJl8UfBQGNpzERWCMLl5afNZA",
-      "placeName": "Bombay Indian Restaurant Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122109026259313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18084760883545747"
-        }
-      }
-    },
-    {
-      "date": "2026-06-14",
-      "placeId": "ChIJh_O6fQOTpzER59owkekSGzg",
-      "placeName": "Mr Seafood",
-      "results": {
-        "facebookVideo": {
-          "id": "2094821291457310"
-        },
-        "instagramReel": {
-          "id": "18068769074389442"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-14",
-      "placeId": "ChIJwWU1ZCcfCDEReUYA7CbOibg",
-      "placeName": "Welcome To Nha Hang Quoc Thien",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122108841633313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18356676535240877"
-        }
-      }
-    },
-    {
-      "date": "2026-06-14",
-      "placeId": "ChIJv4cK9HiNpzER-Vx6JuZH1Sw",
-      "placeName": "Nhà hàng Vịnh Xanh Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "36224925410484343"
-        },
-        "instagramReel": {
-          "id": "18221247778320890"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-14",
-      "placeId": "ChIJAUdyovyNpzER8QPEJgQFxbs",
-      "placeName": "Crab Island | Taste of Seafood | 해산물의 맛",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122108840775313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17975935284048330"
-        }
-      }
-    },
-    {
-      "date": "2026-06-14",
-      "placeId": "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
-      "placeName": "Nhà hàng hải sản Xưa và Nay",
-      "results": {
-        "facebookVideo": {
-          "id": "1332717965494877"
-        },
-        "instagramReel": {
-          "id": "18112124899902140"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-14",
-      "placeId": "ChIJTZlTGwCNpzERcOusT0_hYo4",
-      "placeName": "SORI Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122108839959313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18053533598760291"
-        }
-      }
-    },
-    {
-      "date": "2026-06-14",
-      "placeId": "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
-      "placeName": "NINH KITCHEN - VIETNAMESE CUISINE",
-      "results": {
-        "facebookVideo": {
-          "id": "1674940410265738"
-        },
-        "instagramReel": {
-          "id": "18275065402294996"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-14",
-      "placeId": "ChIJFxJfXGiNpzER5oQGw5O9TkU",
-      "placeName": "Nhà hàng hải sản Thuận Kiều 2 - Fresh Seafood & Vietnamese Cuisine",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122108839119313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17969478216063855"
         }
       }
     }
