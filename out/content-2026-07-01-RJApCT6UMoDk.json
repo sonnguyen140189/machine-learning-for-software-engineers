@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Their loss.\n\nZEN Spa & Nail sits at 4.7 stars across 446 reviews and barely shows up on the resort spa radar. That gap is where you win. Book a session, decompress, get your nails done before the next beach day. No hotel markup. No waiting list drama.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "446 reviews. 4.7 stars. Almost zero tourists inside. ZEN Spa & Nail on Đường Trần Hưng Đạo is where locals actually go to reset in Phu Quoc. Walk in. Thank us later.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about ZEN Spa & Nail. 4.7 stars, 446 reviews, zero tourist crowd.\n\nTag your travel buddy.",
+    "video_caption": "Nails done, muscles loose, wallet still intact. ZEN Spa & Nail earns that 4.7 for a reason.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaPhuQuoc #VisitVietnam #VietnamSpa"
+  },
+  "tiktok": {
+    "caption": "The spa tourists keep skipping in Phu Quoc. 4.7 stars says that's a mistake. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this spa.",
+    "scenes": [
+      "Street-level exterior shot, 91/3 Đường Trần Hưng Đạo sign visible",
+      "Push through the door, reveal calm interior",
+      "Close-up: nail station, tools laid out clean",
+      "Treatment room, low lighting, towels folded",
+      "Phone screen showing 4.7 stars, 446 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk past this place every day. Big mistake. RASOI INDIAN PURE VEGETARIAN RESTAURANT on 97 Đường Trần Hưng Đạo is pulling a 4.8 from 1,241 reviews and most beach-goers have no idea it exists. 100% vegetarian. Zero compromise on flavor. If you're skipping meat this trip, or just want something that isn't seafood and rice, this is your spot. Save this for your Phu Quoc trip.",
+    "video_caption": "1,241 people rated this 4.8 stars. It's a pure vegetarian Indian restaurant in the middle of Duong Dong. Watch the thali land on that table and tell me you're not immediately hungry.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this. 4.8 stars. 1,241 reviews. Pure vegetarian Indian food in Duong Dong. Don't sleep on RASOI INDIAN PURE VEGETARIAN RESTAURANT. Save this.",
+    "video_caption": "Pure vegetarian. 4.8 stars. Right on 97 Đường Trần Hưng Đạo. Phu Quoc eats different when you find RASOI.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #IndianFoodAbroad"
+  },
+  "tiktok": {
+    "caption": "4.8 stars and tourists walk past it daily. RASOI pure veg Indian in Phu Quoc is no joke. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists keep skipping this.",
+    "scenes": [
+      "Zoom in on restaurant sign: RASOI",
+      "Show busy dining room, locals eating",
+      "Close-up: colorful curry dishes arriving",
+      "Hands scooping dal, roti on the side",
+      "Screen text: 4.8 stars, 1,241 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

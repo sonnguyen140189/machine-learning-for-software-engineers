@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're in Phu Quoc craving something light and you stumble onto Khánh Ly Vegetarian Restaurant. Full vegan meal. Under $10 a person. 407 people have already figured this out. Sit down, order everything, feel zero guilt. 35 Đường Nguyễn Trãi is the address. Save this for your Phu Quoc trip.",
+    "video_caption": "Walked in not knowing what to expect. Plates kept coming. Every single one under $10 total. Khánh Ly Vegetarian Restaurant on Đường Nguyễn Trãi is doing something right. 4.2 stars and 407 reviews back that up.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found the vegan spot locals actually go to in Phu Quoc. Under $10. 407 reviews. Khánh Ly Vegetarian Restaurant hits. Tag your travel buddy.",
+    "video_caption": "Full vegan plates. Under $10 total. Khánh Ly Vegetarian Restaurant just solved lunch in Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #VeganVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: found a full vegan meal in Phu Quoc for under $10 👀 Khánh Ly Vegetarian Restaurant, 407 reviews, don't sleep on it #PhuQuoc #PhuQuocFood #VeganTravel"
+  },
+  "video_script": {
+    "hook": "Under $10. Full vegan. Phu Quoc.",
+    "scenes": [
+      "Exterior shot: 35 Đường Nguyễn Trãi signage",
+      "Hands carrying loaded tray to table",
+      "Close-up: colorful plant-based dishes laid out",
+      "Cut to receipt or menu showing low prices",
+      "Wide shot: locals and tourists eating together"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
