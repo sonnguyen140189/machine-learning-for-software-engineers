@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're in Phu Quoc craving something that isn't seafood for the 5th day straight. You find Nhà hàng Chay Minh Tâm on Đ. 30 Tháng 4. 4.6 stars, 262 reviews, and every plate is 100% vegan. Locals eat here regularly. The menu is long, the portions are real, and nothing feels like a compromise. Save this for your Phu Quoc trip.",
+    "video_caption": "Plates arriving at Nhà hàng Chay Minh Tâm. Full vegan menu, 4.6 stars, 262 reviews. This is what eating well in Phu Quoc actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #VeganTravel #VisitVietnam #TravelTips #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "POV: day 5 in Phu Quoc, you finally found Nhà hàng Chay Minh Tâm. 4.6 stars. All vegan. No regrets.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Full vegan menu. 262 reviews. Nhà hàng Chay Minh Tâm is the Phu Quoc meal you didn't know you needed.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VeganVietnam #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VeganTravel"
+  },
+  "tiktok": {
+    "caption": "Skipped the seafood. Found Nhà hàng Chay Minh Tâm. 4.6 stars, all vegan. Phu Quoc delivered. #PhuQuoc #PhuQuocFood #VeganTravel #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: found the vegan spot.",
+    "scenes": [
+      "Walk up to Nhà hàng Chay Minh Tâm entrance",
+      "Pan across full menu board",
+      "Close-up: colorful vegan plates landing on table",
+      "Fork into dish, steam rising",
+      "Show 4.6-star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

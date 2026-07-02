@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "2,636 reviews. 4.7 stars. A 100% vegetarian Indian restaurant on Trần Hưng Đạo. Maharaja Lounge is not flying under the radar anymore. Authentic curries, fresh paneer, real spice. Zero meat. Zero compromise. If you're veg and worried about eating well in Phu Quoc, this is your answer. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the curry land on the table at Maharaja Lounge. 100% veg. Full flavor. 4.7 stars from 2,636 people on Trần Hưng Đạo. Phu Quoc eats well tonight.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFoodVietnam #TravelTips #PhuQuocRestaurants #VisitVietnam"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 2,636 reviews. 100% veg Indian food in Phu Quoc. Maharaja Lounge hits. Tag your travel buddy.",
+    "video_caption": "Curries, paneer, zero meat. Maharaja Lounge on Trần Hưng Đạo is the veg win Phu Quoc needed.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianTravel #IndianFoodVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.7 stars and fully vegetarian in Phu Quoc. Maharaja Lounge is the real deal. #PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFood"
+  },
+  "video_script": {
+    "hook": "4.7★ vegetarian Indian. Phu Quoc.",
+    "scenes": [
+      "Exterior shot, Trần Hưng Đạo signage",
+      "Menu pages, paneer and curry close-ups",
+      "Steaming dish lands on table",
+      "First spoonful, steam rising",
+      "Rating overlay: 4.7★ 2,636 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

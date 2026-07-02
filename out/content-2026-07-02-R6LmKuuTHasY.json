@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes something you didn't know was broken.\n\nDinh Cậu is a small shrine to the sea goddess, sitting right at the edge of the harbor. Blue-and-white lighthouse behind it. Fishing boats in front. Locals come here at sunrise and sunset to pray, light incense, and just breathe.\n\nIt costs nothing to visit. It takes 20 minutes. It feels completely different from the rest of Phu Quoc.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Incense smoke drifting over the harbor at golden hour. Fishing boats bobbing. A lighthouse you almost walk past. Dinh Cậu hits different when the crowds clear. Go before 7am or right at sunset.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel #PhuQuocSunset"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. At all.\n\nDinh Cậu. Sea goddess shrine. Harbor views. Free to visit. Go at sunrise.\n\nSave this.",
+    "video_caption": "Incense at the harbor. Lighthouse. Fishing boats. Dinh Cậu at sunrise hits different. 4.5 stars, 3,497 reviews.",
+    "hashtags": "#PhuQuoc #PhuQuocTemple #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #PhuQuocSunset"
+  },
+  "tiktok": {
+    "caption": "The most peaceful 20 mins in Phu Quoc. Dinh Cậu at sunrise. Free. Go. #PhuQuoc #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that fixes burnout.",
+    "scenes": [
+      "Slow pan across harbor at dawn",
+      "Close-up: incense smoke rising",
+      "Blue-white lighthouse comes into frame",
+      "Locals praying at the shrine",
+      "Wide shot: boats, sea, Dinh Cậu"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

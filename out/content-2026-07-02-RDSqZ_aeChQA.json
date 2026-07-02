@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 47 reviews. Zero compromises.\n\nLam Vegan - Tiệm Chay Lam inside Grand World Phú Quốc is holding a perfect rating, and the reviews back it up every single time. Plant-based done right in the middle of one of Phu Quoc's busiest districts. No filler dishes, no tourist shortcuts.\n\nIf you're vegan, vegetarian, or just eating cleaner on this trip, this is your spot.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "A perfect 5.0 inside Grand World Phú Quốc. Watch what lands on the table at Lam Vegan - Tiệm Chay Lam. Plant-based plates that make you forget you're in a theme park district. 47 reviewers gave zero stars away.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #GrandWorldPhuQuoc"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 47 reviews. Not one star missing.\n\nLam Vegan - Tiệm Chay Lam, Grand World Phú Quốc. Plant-based, zero shortcuts.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Perfect 5.0 and it's vegan. Lam Vegan - Tiệm Chay Lam inside Grand World Phú Quốc. 47 reviews. No cracks in that rating.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #VeganVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocRestaurants"
+  },
+  "tiktok": {
+    "caption": "5.0 stars at Lam Vegan - Tiệm Chay Lam in Grand World Phú Quốc. 47 reviews. Still perfect. #PhuQuoc #PhuQuocFood #VeganVietnam #TravelTips"
+  },
+  "video_script": {
+    "hook": "5.0 STARS. 47 REVIEWS.",
+    "scenes": [
+      "Exterior shot, Grand World Phú Quốc sign",
+      "Push into Lam Vegan - Tiệm Chay Lam entrance",
+      "Hands placing colorful vegan plates on table",
+      "Close-up: vibrant dish textures, steam rising",
+      "Phone screen showing 5.0 rating, 47 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

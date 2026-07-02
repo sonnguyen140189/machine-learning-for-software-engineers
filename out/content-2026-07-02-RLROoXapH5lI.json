@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you took a wrong turn on Võ Thị Sáu and found this.\n\nDinh Bà Thủy Long Thánh Mẫu is one of those places most tourists walk straight past. A working temple in the middle of Khu 1, 4.5 stars from 282 reviews, and almost nobody from the resort crowd knows it exists.\n\nThe incense, the colour, the quiet. Completely different side of Phu Quoc.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Smoke rising, offerings lined up, locals praying mid-morning. Dinh Bà Thủy Long Thánh Mẫu on Võ Thị Sáu is the real Phu Quoc most visitors never see. 4.5 stars. Zero tourist crowds. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #CultureTravel"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn. Found Dinh Bà Thủy Long Thánh Mẫu.\n\n4.5★, 282 reviews, zero resort crowds. Save this.",
+    "video_caption": "Incense, colour, and locals mid-prayer. The Phu Quoc side no travel blog covers.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #CultureVietnam #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Wrong turn. Best find of the trip. Dinh Bà Thủy Long Thánh Mẫu, Phu Quoc. #PhuQuoc #VietnamTravel #PhuQuocTips #CultureVietnam"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Found this.",
+    "scenes": [
+      "Approach temple gate from street level",
+      "Slow pan across incense smoke rising",
+      "Close-up of colourful offerings on altar",
+      "Locals praying, no tourists in frame",
+      "Wide shot of full temple facade"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

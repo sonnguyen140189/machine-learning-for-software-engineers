@@ -1,0 +1,521 @@
+{
+  "stamp": "2026-07-02",
+  "items": [
+    {
+      "placeId": "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
+      "placeName": "NINH KITCHEN - VIETNAMESE CUISINE",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-02-RLAWS1d-uWFA-0.jpg",
+        "out/media/2026-07-02-RLAWS1d-uWFA-1.jpg",
+        "out/media/2026-07-02-RLAWS1d-uWFA-2.jpg",
+        "out/media/2026-07-02-RLAWS1d-uWFA-3.jpg",
+        "out/media/2026-07-02-RLAWS1d-uWFA-4.jpg",
+        "out/media/2026-07-02-RLAWS1d-uWFA-5.jpg",
+        "out/media/2026-07-02-RLAWS1d-uWFA-6.jpg",
+        "out/media/2026-07-02-RLAWS1d-uWFA-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this one. Ninh Kitchen - Vietnamese Cuisine on Lê Lợi street is pulling a 4.8 from 233 reviews and most visitors never find it. Real Vietnamese cooking, off the main drag, no performance for the cameras. This is the kind of place locals actually return to. Add it to your list before everyone else does. Save this for your Phu Quoc trip.",
+          "video_caption": "Fork hits the bowl and you already know this is the real deal. Ninh Kitchen - Vietnamese Cuisine, 10 Lê Lợi, Phú Quốc. 4.8 stars, 233 reviews, and somehow still under the radar. Go find it.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about Ninh Kitchen - Vietnamese Cuisine. 4.8 stars, 233 reviews, zero hype. That's the one you want. Tag your travel buddy.",
+          "video_caption": "Steam rising, chopsticks ready. Ninh Kitchen - Vietnamese Cuisine is the 4.8-star spot Phu Quoc tourists keep missing.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VisitVietnam #VietnamFood"
+        },
+        "tiktok": {
+          "caption": "The 4.8-star Vietnamese spot tourists keep skipping in Phu Quoc. Ninh Kitchen - Vietnamese Cuisine. Go. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't post about this.",
+          "scenes": [
+            "Street-level shot: 10 Lê Lợi signage",
+            "Hands placing steaming bowl on table",
+            "Close-up: broth surface, fresh herbs added",
+            "Quick cut: chopsticks lifting noodles",
+            "Screen text: 4.8★ from 233 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJMSfrfEqNpzER9_6_sLzv_nk",
+      "placeName": "Maharaja Lounge - Authentic Indian 100% Veg Restaurant",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-02-R9_6_sLzv_nk-0.jpg",
+        "out/media/2026-07-02-R9_6_sLzv_nk-1.jpg",
+        "out/media/2026-07-02-R9_6_sLzv_nk-2.jpg",
+        "out/media/2026-07-02-R9_6_sLzv_nk-3.jpg",
+        "out/media/2026-07-02-R9_6_sLzv_nk-4.jpg",
+        "out/media/2026-07-02-R9_6_sLzv_nk-5.jpg",
+        "out/media/2026-07-02-R9_6_sLzv_nk-6.jpg",
+        "out/media/2026-07-02-R9_6_sLzv_nk-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-02-R9_6_sLzv_nk.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "2,636 reviews. 4.7 stars. A 100% vegetarian Indian restaurant on Trần Hưng Đạo. Maharaja Lounge is not flying under the radar anymore. Authentic curries, fresh paneer, real spice. Zero meat. Zero compromise. If you're veg and worried about eating well in Phu Quoc, this is your answer. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the curry land on the table at Maharaja Lounge. 100% veg. Full flavor. 4.7 stars from 2,636 people on Trần Hưng Đạo. Phu Quoc eats well tonight.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFoodVietnam #TravelTips #PhuQuocRestaurants #VisitVietnam"
+        },
+        "instagram": {
+          "caption": "4.7 stars. 2,636 reviews. 100% veg Indian food in Phu Quoc. Maharaja Lounge hits. Tag your travel buddy.",
+          "video_caption": "Curries, paneer, zero meat. Maharaja Lounge on Trần Hưng Đạo is the veg win Phu Quoc needed.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianTravel #IndianFoodVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "4.7 stars and fully vegetarian in Phu Quoc. Maharaja Lounge is the real deal. #PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFood"
+        },
+        "video_script": {
+          "hook": "4.7★ vegetarian Indian. Phu Quoc.",
+          "scenes": [
+            "Exterior shot, Trần Hưng Đạo signage",
+            "Menu pages, paneer and curry close-ups",
+            "Steaming dish lands on table",
+            "First spoonful, steam rising",
+            "Rating overlay: 4.7★ 2,636 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJlehMyBUfCDERDSqZ_aeChQA",
+      "placeName": "Lam Vegan - Tiệm Chay Lam",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-02-RDSqZ_aeChQA-0.jpg",
+        "out/media/2026-07-02-RDSqZ_aeChQA-1.jpg",
+        "out/media/2026-07-02-RDSqZ_aeChQA-2.jpg",
+        "out/media/2026-07-02-RDSqZ_aeChQA-3.jpg",
+        "out/media/2026-07-02-RDSqZ_aeChQA-4.jpg",
+        "out/media/2026-07-02-RDSqZ_aeChQA-5.jpg",
+        "out/media/2026-07-02-RDSqZ_aeChQA-6.jpg",
+        "out/media/2026-07-02-RDSqZ_aeChQA-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "5.0 stars. 47 reviews. Zero compromises.\n\nLam Vegan - Tiệm Chay Lam inside Grand World Phú Quốc is holding a perfect rating, and the reviews back it up every single time. Plant-based done right in the middle of one of Phu Quoc's busiest districts. No filler dishes, no tourist shortcuts.\n\nIf you're vegan, vegetarian, or just eating cleaner on this trip, this is your spot.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "A perfect 5.0 inside Grand World Phú Quốc. Watch what lands on the table at Lam Vegan - Tiệm Chay Lam. Plant-based plates that make you forget you're in a theme park district. 47 reviewers gave zero stars away.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #GrandWorldPhuQuoc"
+        },
+        "instagram": {
+          "caption": "5.0 stars. 47 reviews. Not one star missing.\n\nLam Vegan - Tiệm Chay Lam, Grand World Phú Quốc. Plant-based, zero shortcuts.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Perfect 5.0 and it's vegan. Lam Vegan - Tiệm Chay Lam inside Grand World Phú Quốc. 47 reviews. No cracks in that rating.",
+          "hashtags": "#PhuQuocFood #PhuQuocTips #VeganVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocRestaurants"
+        },
+        "tiktok": {
+          "caption": "5.0 stars at Lam Vegan - Tiệm Chay Lam in Grand World Phú Quốc. 47 reviews. Still perfect. #PhuQuoc #PhuQuocFood #VeganVietnam #TravelTips"
+        },
+        "video_script": {
+          "hook": "5.0 STARS. 47 REVIEWS.",
+          "scenes": [
+            "Exterior shot, Grand World Phú Quốc sign",
+            "Push into Lam Vegan - Tiệm Chay Lam entrance",
+            "Hands placing colorful vegan plates on table",
+            "Close-up: vibrant dish textures, steam rising",
+            "Phone screen showing 5.0 rating, 47 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJYREw3iyNpzER4MEeLlm9Ju4",
+      "placeName": "Nhà hàng Chay Minh Tâm",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-02-R4MEeLlm9Ju4-0.jpg",
+        "out/media/2026-07-02-R4MEeLlm9Ju4-1.jpg",
+        "out/media/2026-07-02-R4MEeLlm9Ju4-2.jpg",
+        "out/media/2026-07-02-R4MEeLlm9Ju4-3.jpg",
+        "out/media/2026-07-02-R4MEeLlm9Ju4-4.jpg",
+        "out/media/2026-07-02-R4MEeLlm9Ju4-5.jpg",
+        "out/media/2026-07-02-R4MEeLlm9Ju4-6.jpg",
+        "out/media/2026-07-02-R4MEeLlm9Ju4-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-02-R4MEeLlm9Ju4.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you're in Phu Quoc craving something that isn't seafood for the 5th day straight. You find Nhà hàng Chay Minh Tâm on Đ. 30 Tháng 4. 4.6 stars, 262 reviews, and every plate is 100% vegan. Locals eat here regularly. The menu is long, the portions are real, and nothing feels like a compromise. Save this for your Phu Quoc trip.",
+          "video_caption": "Plates arriving at Nhà hàng Chay Minh Tâm. Full vegan menu, 4.6 stars, 262 reviews. This is what eating well in Phu Quoc actually looks like.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #VeganTravel #VisitVietnam #TravelTips #PhuQuocRestaurants"
+        },
+        "instagram": {
+          "caption": "POV: day 5 in Phu Quoc, you finally found Nhà hàng Chay Minh Tâm. 4.6 stars. All vegan. No regrets.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Full vegan menu. 262 reviews. Nhà hàng Chay Minh Tâm is the Phu Quoc meal you didn't know you needed.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VeganVietnam #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VeganTravel"
+        },
+        "tiktok": {
+          "caption": "Skipped the seafood. Found Nhà hàng Chay Minh Tâm. 4.6 stars, all vegan. Phu Quoc delivered. #PhuQuoc #PhuQuocFood #VeganTravel #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: found the vegan spot.",
+          "scenes": [
+            "Walk up to Nhà hàng Chay Minh Tâm entrance",
+            "Pan across full menu board",
+            "Close-up: colorful vegan plates landing on table",
+            "Fork into dish, steam rising",
+            "Show 4.6-star rating on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ5eqLUm2NpzERURd3wi62JoM",
+      "placeName": "Cơm chay tự chọn Bồ Đề Chay",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-02-RURd3wi62JoM-0.jpg",
+        "out/media/2026-07-02-RURd3wi62JoM-1.jpg",
+        "out/media/2026-07-02-RURd3wi62JoM-2.jpg",
+        "out/media/2026-07-02-RURd3wi62JoM-3.jpg",
+        "out/media/2026-07-02-RURd3wi62JoM-4.jpg",
+        "out/media/2026-07-02-RURd3wi62JoM-5.jpg",
+        "out/media/2026-07-02-RURd3wi62JoM-6.jpg",
+        "out/media/2026-07-02-RURd3wi62JoM-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this place. Locals fill it daily. Cơm chay tự chọn Bồ Đề Chay on Đ. 30 Tháng 4 is a pick-your-own Vietnamese vegetarian spread, under $10 a head, rated 4.7 stars by 232 people who clearly know something. Grab a tray, point at what looks good, and eat like a Phu Quoc local. Save this for your Phu Quoc trip.",
+          "video_caption": "Tray in hand, pointing at dishes, spending under $10. This is how Phu Quoc locals actually eat lunch. Cơm chay tự chọn Bồ Đề Chay and it is worth every cent.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianVietnam #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Locals fill this place daily. Tourists walk right past. Cơm chay tự chọn Bồ Đề Chay, 4.7 stars, under $10. Tag your travel buddy.",
+          "video_caption": "Pick your dishes. Pay under $10. Leave very full. Cơm chay tự chọn Bồ Đề Chay is the Phu Quoc lunch spot locals aren't sharing.",
+          "hashtags": "#PhuQuocFood #PhuQuocTips #VegetarianVietnam #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #FoodTok"
+        },
+        "tiktok": {
+          "caption": "Phu Quoc vegetarian lunch under $10 and locals ONLY 👀 Cơm chay tự chọn Bồ Đề Chay hits different #PhuQuoc #PhuQuocFood #VietnamTravel #FoodTok #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't share this spot.",
+          "scenes": [
+            "Exterior shot, busy local crowd entering",
+            "Tray sliding along the counter",
+            "Close-up: 6 dishes piled on tray",
+            "Cashier hands back change under $10",
+            "First bite, reaction shot"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJi-z2ewCNpzER4P73e0T61VE",
+      "placeName": "CƠM CHAY HIỀN ĐỨC",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-02-R4P73e0T61VE-0.jpg",
+        "out/media/2026-07-02-R4P73e0T61VE-1.jpg",
+        "out/media/2026-07-02-R4P73e0T61VE-2.jpg",
+        "out/media/2026-07-02-R4P73e0T61VE-3.jpg",
+        "out/media/2026-07-02-R4P73e0T61VE-4.jpg",
+        "out/media/2026-07-02-R4P73e0T61VE-5.jpg",
+        "out/media/2026-07-02-R4P73e0T61VE-6.jpg",
+        "out/media/2026-07-02-R4P73e0T61VE-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-02-R4P73e0T61VE.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you're on Trần Hưng Đạo and every restaurant looks the same. Then you spot CƠM CHAY HIỀN ĐỨC. Vegetarian food in Phu Quoc that actually makes you forget meat exists. 4.9 stars. Only 47 people know about it. Order the com chay set, find a seat, and go quiet for a minute. Save this for your Phu Quoc trip.",
+          "video_caption": "Walked straight past it twice. CƠM CHAY HIỀN ĐỨC on Trần Hưng Đạo is serving 4.9-star vegetarian plates that stop you mid-bite. Don't sleep on this one.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianVietnam #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: you almost walked past CƠM CHAY HIỀN ĐỨC. 4.9 stars. Vegetarian plates that hit hard. Don't be me. Tag your travel buddy.",
+          "video_caption": "4.9-star vegetarian spot on Trần Hưng Đạo. CƠM CHAY HIỀN ĐỨC is the one locals aren't loud about yet.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VegetarianTravel"
+        },
+        "tiktok": {
+          "caption": "Almost missed this 4.9-star vegetarian spot in Phu Quoc. CƠM CHAY HIỀN ĐỨC hits different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: almost walked past this",
+          "scenes": [
+            "Pan down Trần Hưng Đạo, busy street",
+            "Stop at CƠM CHAY HIỀN ĐỨC storefront",
+            "Hands carrying a full vegetarian tray",
+            "Close-up: rice, tofu, braised greens",
+            "First bite reaction, eyes widen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJl8UfBQGNpzERWCMLl5afNZA",
+      "placeName": "Bombay Indian Restaurant Phu Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-02-RWCMLl5afNZA-0.jpg",
+        "out/media/2026-07-02-RWCMLl5afNZA-1.jpg",
+        "out/media/2026-07-02-RWCMLl5afNZA-2.jpg",
+        "out/media/2026-07-02-RWCMLl5afNZA-3.jpg",
+        "out/media/2026-07-02-RWCMLl5afNZA-4.jpg",
+        "out/media/2026-07-02-RWCMLl5afNZA-5.jpg",
+        "out/media/2026-07-02-RWCMLl5afNZA-6.jpg",
+        "out/media/2026-07-02-RWCMLl5afNZA-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.9 stars. 629 reviews. At an Indian restaurant on a Vietnamese island.\n\nBombay Indian Restaurant Phu Quoc on 07 Lê Lợi is not an accident. That rating holds because the food earns it, every single service.\n\nCurries, naan, the works. On Phu Quoc. And the crowd keeps showing up.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "629 people rated this 4.9 stars. Watch what lands on the table at Bombay Indian Restaurant Phu Quoc on Lê Lợi and you'll stop being surprised.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #IndianFoodVietnam #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.9 stars. 629 reviews. Indian food on a Vietnamese island.\n\nBombay Indian Restaurant Phu Quoc is not skippable. Tag your travel buddy.",
+          "video_caption": "629 reviews at 4.9 stars. The plates arriving at Bombay Indian Restaurant Phu Quoc explain everything.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #IndianFoodVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "4.9 stars. 629 reviews. Indian food in Phu Quoc. Bombay Indian Restaurant delivers. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.9★ 629 reviews. In Phu Quoc.",
+          "scenes": [
+            "Exterior shot: 07 Lê Lợi signage",
+            "Close-up: steaming curry hitting the table",
+            "Hands tearing fresh naan bread",
+            "Wide: packed dining room, all tables full",
+            "Screen: 4.9★ Google rating zoomed in"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJdzmotOqNpzER3SFTNOAxFC4",
+      "placeName": "Krishna Garden Pure Veg Indian Restaurant",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-02-R3SFTNOAxFC4-0.jpg",
+        "out/media/2026-07-02-R3SFTNOAxFC4-1.jpg",
+        "out/media/2026-07-02-R3SFTNOAxFC4-2.jpg",
+        "out/media/2026-07-02-R3SFTNOAxFC4-3.jpg",
+        "out/media/2026-07-02-R3SFTNOAxFC4-4.jpg",
+        "out/media/2026-07-02-R3SFTNOAxFC4-5.jpg",
+        "out/media/2026-07-02-R3SFTNOAxFC4-6.jpg",
+        "out/media/2026-07-02-R3SFTNOAxFC4-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-02-R3SFTNOAxFC4.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "794 reviews. 4.7 stars. And it's a pure veg Indian restaurant in Phu Quoc.\n\nKrishna Garden on Đường Trần Hưng Đạo is the kind of place that surprises you. Fresh vegetarian Indian food, a menu that actually travels well if you're missing home, and a rating that holds up across hundreds of honest opinions.\n\nWhether you're Indian, vegan, or just done with seafood for a day, this one delivers.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the food land at the table. Krishna Garden, pure veg Indian on Đường Trần Hưng Đạo. 4.7 stars across 794 reviews and somehow not on every tourist list yet. Your stomach will thank you.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #IndianFoodVietnam #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "794 reviews. 4.7 stars. Pure veg Indian in Phu Quoc.\n\nKrishna Garden on Đường Trần Hưng Đạo hits different when you need a break from seafood. Tag your travel buddy.",
+          "video_caption": "Pure veg Indian. Phu Quoc. 4.7 stars. Krishna Garden is real and it's on Đường Trần Hưng Đạo.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #IndianFoodVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "4.7 stars, 794 reviews, pure veg Indian in Phu Quoc. Krishna Garden is the real deal. #PhuQuoc #PhuQuocFood #IndianFoodVietnam #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.7★ 794 reviews. Pure veg. Phu Quoc.",
+          "scenes": [
+            "Pan across full table of Indian dishes",
+            "Close-up: dal, roti, curry steaming",
+            "Exterior shot: Krishna Garden sign",
+            "Street view: Đường Trần Hưng Đạo busy midday",
+            "Diner's first bite reaction, no words"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJTZlTGwCNpzERcOusT0_hYo4",
+      "placeName": "SORI Restaurant",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-02-RcOusT0_hYo4-0.jpg",
+        "out/media/2026-07-02-RcOusT0_hYo4-1.jpg",
+        "out/media/2026-07-02-RcOusT0_hYo4-2.jpg",
+        "out/media/2026-07-02-RcOusT0_hYo4-3.jpg",
+        "out/media/2026-07-02-RcOusT0_hYo4-4.jpg",
+        "out/media/2026-07-02-RcOusT0_hYo4-5.jpg",
+        "out/media/2026-07-02-RcOusT0_hYo4-6.jpg",
+        "out/media/2026-07-02-RcOusT0_hYo4-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.7 stars. 219 reviews. SORI Restaurant is earning it one plate at a time.\n\nNot every spot in Phu Quoc holds that rating with real volume behind it. SORI does.\n\n219 people took the time to leave a review. That's not luck. That's consistency.\n\nAdd it to your list before it gets crowded.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Plates landing, forks moving, 219 reviews backing every bite. SORI Restaurant in Phu Quoc is the one your feed kept hiding from you. Watch till the end.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+        },
+        "instagram": {
+          "caption": "4.7 stars. 219 reviews. SORI Restaurant earns every one.\n\nThis is the rating that actually means something. Save this for your Phu Quoc trip.",
+          "video_caption": "219 reviews at 4.7 stars. SORI Restaurant is not flying under the radar for long. Go now.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.7 stars. 219 reviews. SORI Restaurant is the real deal in Phu Quoc. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.7★ · 219 reviews · SORI",
+          "scenes": [
+            "Exterior shot, sign comes into focus",
+            "Dishes arriving at the table",
+            "Close-up on plating and texture",
+            "Diner reacts, nods approval",
+            "Rating graphic animates on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJn_OoioaMpzER6LmKuuTHasY",
+      "placeName": "Dinh Cậu",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-02-R6LmKuuTHasY-0.jpg",
+        "out/media/2026-07-02-R6LmKuuTHasY-1.jpg",
+        "out/media/2026-07-02-R6LmKuuTHasY-2.jpg",
+        "out/media/2026-07-02-R6LmKuuTHasY-3.jpg",
+        "out/media/2026-07-02-R6LmKuuTHasY-4.jpg",
+        "out/media/2026-07-02-R6LmKuuTHasY-5.jpg",
+        "out/media/2026-07-02-R6LmKuuTHasY-6.jpg",
+        "out/media/2026-07-02-R6LmKuuTHasY-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-02-R6LmKuuTHasY.mp4",
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes something you didn't know was broken.\n\nDinh Cậu is a small shrine to the sea goddess, sitting right at the edge of the harbor. Blue-and-white lighthouse behind it. Fishing boats in front. Locals come here at sunrise and sunset to pray, light incense, and just breathe.\n\nIt costs nothing to visit. It takes 20 minutes. It feels completely different from the rest of Phu Quoc.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Incense smoke drifting over the harbor at golden hour. Fishing boats bobbing. A lighthouse you almost walk past. Dinh Cậu hits different when the crowds clear. Go before 7am or right at sunset.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel #PhuQuocSunset"
+        },
+        "instagram": {
+          "caption": "Phu Quoc that doesn't feel touristy. At all.\n\nDinh Cậu. Sea goddess shrine. Harbor views. Free to visit. Go at sunrise.\n\nSave this.",
+          "video_caption": "Incense at the harbor. Lighthouse. Fishing boats. Dinh Cậu at sunrise hits different. 4.5 stars, 3,497 reviews.",
+          "hashtags": "#PhuQuoc #PhuQuocTemple #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #PhuQuocSunset"
+        },
+        "tiktok": {
+          "caption": "The most peaceful 20 mins in Phu Quoc. Dinh Cậu at sunrise. Free. Go. #PhuQuoc #VietnamTravel #PhuQuocTips"
+        },
+        "video_script": {
+          "hook": "Phu Quoc that fixes burnout.",
+          "scenes": [
+            "Slow pan across harbor at dawn",
+            "Close-up: incense smoke rising",
+            "Blue-white lighthouse comes into frame",
+            "Locals praying at the shrine",
+            "Wide shot: boats, sea, Dinh Cậu"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJb94_UYaMpzERLROoXapH5lI",
+      "placeName": "Dinh Bà Thủy Long Thánh Mẫu",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-02-RLROoXapH5lI-0.jpg",
+        "out/media/2026-07-02-RLROoXapH5lI-1.jpg",
+        "out/media/2026-07-02-RLROoXapH5lI-2.jpg",
+        "out/media/2026-07-02-RLROoXapH5lI-3.jpg",
+        "out/media/2026-07-02-RLROoXapH5lI-4.jpg",
+        "out/media/2026-07-02-RLROoXapH5lI-5.jpg",
+        "out/media/2026-07-02-RLROoXapH5lI-6.jpg",
+        "out/media/2026-07-02-RLROoXapH5lI-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you took a wrong turn on Võ Thị Sáu and found this.\n\nDinh Bà Thủy Long Thánh Mẫu is one of those places most tourists walk straight past. A working temple in the middle of Khu 1, 4.5 stars from 282 reviews, and almost nobody from the resort crowd knows it exists.\n\nThe incense, the colour, the quiet. Completely different side of Phu Quoc.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Smoke rising, offerings lined up, locals praying mid-morning. Dinh Bà Thủy Long Thánh Mẫu on Võ Thị Sáu is the real Phu Quoc most visitors never see. 4.5 stars. Zero tourist crowds. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #CultureTravel"
+        },
+        "instagram": {
+          "caption": "Took a wrong turn. Found Dinh Bà Thủy Long Thánh Mẫu.\n\n4.5★, 282 reviews, zero resort crowds. Save this.",
+          "video_caption": "Incense, colour, and locals mid-prayer. The Phu Quoc side no travel blog covers.",
+          "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #CultureVietnam #VisitVietnam"
+        },
+        "tiktok": {
+          "caption": "Wrong turn. Best find of the trip. Dinh Bà Thủy Long Thánh Mẫu, Phu Quoc. #PhuQuoc #VietnamTravel #PhuQuocTips #CultureVietnam"
+        },
+        "video_script": {
+          "hook": "Wrong turn. Found this.",
+          "scenes": [
+            "Approach temple gate from street level",
+            "Slow pan across incense smoke rising",
+            "Close-up of colourful offerings on altar",
+            "Locals praying, no tourists in frame",
+            "Wide shot of full temple facade"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJbUZGsQEfCDERXgX4I2SUCsI",
+      "placeName": "Grand World Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-02-RXgX4I2SUCsI-0.jpg",
+        "out/media/2026-07-02-RXgX4I2SUCsI-1.jpg",
+        "out/media/2026-07-02-RXgX4I2SUCsI-2.jpg",
+        "out/media/2026-07-02-RXgX4I2SUCsI-3.jpg",
+        "out/media/2026-07-02-RXgX4I2SUCsI-4.jpg",
+        "out/media/2026-07-02-RXgX4I2SUCsI-5.jpg",
+        "out/media/2026-07-02-RXgX4I2SUCsI-6.jpg",
+        "out/media/2026-07-02-RXgX4I2SUCsI-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-02-RXgX4I2SUCsI.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "13,636 reviews. 4.5 stars. Grand World Phu Quoc keeps delivering. This massive entertainment complex at Bãi Dài is where the island turns up the volume. Canal streets, live performances, night markets, restaurants, and lights that go hard after dark. One ticket in, zero excuses for a boring night. Save this for your Phu Quoc trip.",
+          "video_caption": "Walking through Grand World Phu Quoc at night and the place does not stop. Canal boats, fire shows, street food, crowds that actually have energy. 13,636 people reviewed this for a reason.",
+          "first_comment": "#PhuQuoc #GrandWorld #PhuQuocNightlife #VisitVietnam #TravelTips #PhuQuocTips #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "13,636 reviews. 4.5 stars. Grand World Phu Quoc hits different at night. Canal streets, live shows, zero dull moments. Tag your travel buddy.",
+          "video_caption": "Night mode: ON. Grand World Phu Quoc after dark is a whole different island.",
+          "hashtags": "#PhuQuocNightlife #PhuQuocTips #GrandWorldPhuQuoc #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "13,636 reviews on this place and now I get why. Grand World Phu Quoc slaps after dark. #PhuQuoc #PhuQuocNightlife #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "13,636 reviews. See why.",
+          "scenes": [
+            "Aerial wide shot of Grand World lit up at night",
+            "Walk along glowing canal with boats passing",
+            "Close-up of street food stalls, steam rising",
+            "Live performance crowd reacting on main stage",
+            "Slow pan of neon-lit bridge reflection on water"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

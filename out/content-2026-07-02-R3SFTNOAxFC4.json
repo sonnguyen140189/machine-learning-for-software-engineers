@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "794 reviews. 4.7 stars. And it's a pure veg Indian restaurant in Phu Quoc.\n\nKrishna Garden on Đường Trần Hưng Đạo is the kind of place that surprises you. Fresh vegetarian Indian food, a menu that actually travels well if you're missing home, and a rating that holds up across hundreds of honest opinions.\n\nWhether you're Indian, vegan, or just done with seafood for a day, this one delivers.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the food land at the table. Krishna Garden, pure veg Indian on Đường Trần Hưng Đạo. 4.7 stars across 794 reviews and somehow not on every tourist list yet. Your stomach will thank you.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #IndianFoodVietnam #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "794 reviews. 4.7 stars. Pure veg Indian in Phu Quoc.\n\nKrishna Garden on Đường Trần Hưng Đạo hits different when you need a break from seafood. Tag your travel buddy.",
+    "video_caption": "Pure veg Indian. Phu Quoc. 4.7 stars. Krishna Garden is real and it's on Đường Trần Hưng Đạo.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #IndianFoodVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.7 stars, 794 reviews, pure veg Indian in Phu Quoc. Krishna Garden is the real deal. #PhuQuoc #PhuQuocFood #IndianFoodVietnam #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.7★ 794 reviews. Pure veg. Phu Quoc.",
+    "scenes": [
+      "Pan across full table of Indian dishes",
+      "Close-up: dal, roti, curry steaming",
+      "Exterior shot: Krishna Garden sign",
+      "Street view: Đường Trần Hưng Đạo busy midday",
+      "Diner's first bite reaction, no words"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
