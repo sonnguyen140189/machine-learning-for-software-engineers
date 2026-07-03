@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this one. Quán cháo gà rẫy Phú Quốc on Nguyễn Trung Trực serves free-range chicken congee the way locals actually eat it. No English menu. No tourist markup. Just a bowl of something that genuinely hits. 4.7 stars across 36 reviews, and most of those reviewers live here. Find it at 113 Nguyễn Trung Trực before the crowds do. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the congee get ladled out, thick and steaming, at Quán cháo gà rẫy Phú Quốc. This is what 113 Nguyễn Trung Trực looks like at breakfast. Locals only, until now.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #ThingsToDoPhuQuoc #VisitVietnam #VietnamFood #LocalEats #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Quán cháo gà rẫy Phú Quốc. 4.7 stars, 36 real reviews. Bowl of free-range chicken congee, no tourist menu in sight. Save this.",
+    "video_caption": "Thick congee. Free-range chicken. Zero tourists. Quán cháo gà rẫy Phú Quốc is the breakfast spot locals kept quiet.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocEats #VietnamTravel #TravelTips #TravelReels #LocalEats #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "The congee spot locals kept off the internet. 4.7 stars. Go before it gets crowded. #PhuQuoc #PhuQuocFood #VietnamEats #LocalEats"
+  },
+  "video_script": {
+    "hook": "Locals kept this one quiet.",
+    "scenes": [
+      "Exterior shot: simple shophouse, locals eating",
+      "Close-up: congee ladled into bowl, steam rising",
+      "Shredded free-range chicken laid on top",
+      "Hands wrapping around warm bowl, first spoonful",
+      "Street sign: 113 Nguyễn Trung Trực on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

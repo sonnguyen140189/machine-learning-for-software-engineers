@@ -1,0 +1,523 @@
+{
+  "stamp": "2026-07-03",
+  "items": [
+    {
+      "placeId": "ChIJjUvOA0-LpzERxo73OaJMLZo",
+      "placeName": "Mövenpick Villas & Residences Phu Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-03-Rxo73OaJMLZo-0.jpg",
+        "out/media/2026-07-03-Rxo73OaJMLZo-1.jpg",
+        "out/media/2026-07-03-Rxo73OaJMLZo-2.jpg",
+        "out/media/2026-07-03-Rxo73OaJMLZo-3.jpg",
+        "out/media/2026-07-03-Rxo73OaJMLZo-4.jpg",
+        "out/media/2026-07-03-Rxo73OaJMLZo-5.jpg",
+        "out/media/2026-07-03-Rxo73OaJMLZo-6.jpg",
+        "out/media/2026-07-03-Rxo73OaJMLZo-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists flock to Long Beach. Savvy travelers book Ông Lang.\n\nMövenpick Villas & Residences Phú Quốc sits on the quieter west coast, away from the party strips. 4.7 stars across 2,529 reviews. That's not luck, that's consistency.\n\nVillas. Residences. A beach that doesn't feel like a bus tour stop.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the difference between Phu Quoc's crowded south and this. Ông Lang beach, Mövenpick Villas & Residences Phú Quốc. Quieter water, fewer footprints. 4.7 stars from 2,529 guests. The west coast delivers.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #OngLang #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "Tourists skip Ông Lang. That's exactly why you shouldn't.\n\nMövenpick Villas & Residences Phú Quốc. 4.7★, 2,529 reviews. Tag your travel buddy.",
+          "video_caption": "Quieter beach. Fewer crowds. Mövenpick Villas & Residences Phú Quốc on the west coast hits different.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #OngLangBeach #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "The Phu Quoc beach tourists keep skipping. Mövenpick Villas & Residences Phú Quốc, Ông Lang. 4.7★ for a reason. #PhuQuoc #PhuQuocHotel #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Tourists keep missing this beach.",
+          "scenes": [
+            "Aerial pan over Ông Lang coastline",
+            "Villa exterior, lush greenery framing entrance",
+            "Empty beach stretch in front of resort",
+            "Pool shot, calm water, no crowds",
+            "Close-up: 4.7★ review screen on phone"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ2bp76JUfCDER2BAKZAkG66c",
+      "placeName": "Vinpearl Safari Phú Quốc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-03-R2BAKZAkG66c-0.jpg",
+        "out/media/2026-07-03-R2BAKZAkG66c-1.jpg",
+        "out/media/2026-07-03-R2BAKZAkG66c-2.jpg",
+        "out/media/2026-07-03-R2BAKZAkG66c-3.jpg",
+        "out/media/2026-07-03-R2BAKZAkG66c-4.jpg",
+        "out/media/2026-07-03-R2BAKZAkG66c-5.jpg",
+        "out/media/2026-07-03-R2BAKZAkG66c-6.jpg",
+        "out/media/2026-07-03-R2BAKZAkG66c-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-03-R2BAKZAkG66c.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "25,973 reviews. 4.6 stars. And it's an open zoo where animals roam free.\n\nVinpearl Safari Phú Quốc is the largest open-air wildlife park in Vietnam. Rare native species, exotic animals, and a conservation mission you can actually see in action.\n\nNot a typical cage-and-walkway zoo. You ride through. Animals are close.\n\nBãi Dài, Phú Quốc. Worth a full day.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Riding through an open safari in the middle of Phu Quoc. Animals on both sides. No cages. Vinpearl Safari Phú Quốc has 25,973 reviews for a reason, see it before the crowds arrive.",
+          "first_comment": "#PhuQuoc #VinpearlSafari #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel #TravelTips"
+        },
+        "instagram": {
+          "caption": "25,973 reviews. 4.6 stars. Open safari in Phu Quoc.\n\nVinpearl Safari Phú Quốc. Animals roam free. You ride through. Full day activity.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "No cages. Animals on both sides. Vinpearl Safari Phú Quốc hits different. 4.6 stars, 25k reviews. Tag your travel buddy.",
+          "hashtags": "#PhuQuocTips #PhuQuocAttractions #VinpearlSafari #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocVietnam #WildlifePark"
+        },
+        "tiktok": {
+          "caption": "Open safari in Phu Quoc. Animals roam free. 25,973 reviews don't lie. #PhuQuoc #VinpearlSafari #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "25,973 reviews. Open safari.",
+          "scenes": [
+            "Aerial shot: vast open park, Bãi Dài coastline behind",
+            "Safari vehicle enters animal zone",
+            "Giraffes walk past the vehicle window",
+            "Rare native species in open enclosures",
+            "Crowd reacts, phones out, faces lit up",
+            "Text overlay: Vinpearl Safari Phú Quốc, 4.6★"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJH_PX_b6VpzERKTtTpGV5YXk",
+      "placeName": "Sunset Town",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-03-RKTtTpGV5YXk-0.jpg",
+        "out/media/2026-07-03-RKTtTpGV5YXk-1.jpg",
+        "out/media/2026-07-03-RKTtTpGV5YXk-2.jpg",
+        "out/media/2026-07-03-RKTtTpGV5YXk-3.jpg",
+        "out/media/2026-07-03-RKTtTpGV5YXk-4.jpg",
+        "out/media/2026-07-03-RKTtTpGV5YXk-5.jpg",
+        "out/media/2026-07-03-RKTtTpGV5YXk-6.jpg",
+        "out/media/2026-07-03-RKTtTpGV5YXk-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk right past the good spots in Sunset Town. The crowds cluster near the main strip. The locals drift toward the side alleys, the quiet corners, the spots where the light actually hits right at golden hour. 4.6 stars across 4,456 reviews means people keep coming back. Find your angle before everyone else does. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the sky change color over Sunset Town while the crowd is still at the beach. This is what you came to Phu Quoc for. 4.6 stars. 4,456 reviews. Now you know where to be.",
+          "first_comment": "#PhuQuoc #SunsetTown #PhuQuocAttractions #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Tourists keep walking past the best spots in Sunset Town. 4.6★, 4,456 reviews. Go at golden hour. Tag your travel buddy.",
+          "video_caption": "Golden hour at Sunset Town hits different when you know where to stand. 4.6 stars don't lie.",
+          "hashtags": "#PhuQuocTips #PhuQuocAttractions #SunsetTownPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Tourists skip the best part of Sunset Town. Don't be them. #PhuQuoc #SunsetTown #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Tourists keep missing this.",
+          "scenes": [
+            "Wide shot: Sunset Town skyline at dusk",
+            "Crowd moves past side alley entrance",
+            "Camera turns down the quieter path",
+            "Golden light floods an open viewpoint",
+            "Close-up: sky turning deep orange"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJc-syEUyNpzERlXt7rXb3Hcg",
+      "placeName": "Dinh Cau Lighthouse",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-03-RlXt7rXb3Hcg-0.jpg",
+        "out/media/2026-07-03-RlXt7rXb3Hcg-1.jpg",
+        "out/media/2026-07-03-RlXt7rXb3Hcg-2.jpg",
+        "out/media/2026-07-03-RlXt7rXb3Hcg-3.jpg",
+        "out/media/2026-07-03-RlXt7rXb3Hcg-4.jpg",
+        "out/media/2026-07-03-RlXt7rXb3Hcg-5.jpg",
+        "out/media/2026-07-03-RlXt7rXb3Hcg-6.jpg",
+        "out/media/2026-07-03-RlXt7rXb3Hcg-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-03-RlXt7rXb3Hcg.mp4",
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes the noise in your head.\n\nDinh Cậu Lighthouse sits right at the rock edge of Dương Đông town. Sunrise here hits different. Salt air, fishing boats heading out, zero tour groups at 6am.\n\n4.4 stars across 113 reviews and it costs nothing to visit. Just show up early.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Fishing boats cutting through the mist. A lighthouse above the rocks. 6am at Dinh Cậu and you've got it almost to yourself. This is the Phu Quoc most visitors sleep through.",
+          "first_comment": "#PhuQuoc #PhuQuocLighthouse #PhuQuocTips #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "This place fixes the noise in your head. Dinh Cậu Lighthouse, 6am, fishing boats, no crowd. Free entry.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Rocks. Salt air. Fishing boats at dawn. Dinh Cậu Lighthouse is free and most tourists miss the best hour.",
+          "hashtags": "#PhuQuocTips #PhuQuocLighthouse #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #PhuQuocAttractions"
+        },
+        "tiktok": {
+          "caption": "The Phu Quoc morning most tourists sleep through. Dinh Cậu Lighthouse, free, 6am. Go. #PhuQuoc #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "This fixes burnout.",
+          "scenes": [
+            "Wide shot: lighthouse on dark rocks at dawn",
+            "Fishing boats moving through morning mist",
+            "Slow pan up the Dinh Cậu tower",
+            "Empty viewpoint, one person standing",
+            "Sun breaking over the South China Sea"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJvxdKNoKWpzERAWSyG5rABsg",
+      "placeName": "Hon Thom Departure Terminal - Sun World Hon Thom Nature Park",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-03-RAWSyG5rABsg-0.jpg",
+        "out/media/2026-07-03-RAWSyG5rABsg-1.jpg",
+        "out/media/2026-07-03-RAWSyG5rABsg-2.jpg",
+        "out/media/2026-07-03-RAWSyG5rABsg-3.jpg",
+        "out/media/2026-07-03-RAWSyG5rABsg-4.jpg",
+        "out/media/2026-07-03-RAWSyG5rABsg-5.jpg",
+        "out/media/2026-07-03-RAWSyG5rABsg-6.jpg",
+        "out/media/2026-07-03-RAWSyG5rABsg-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "19,221 reviews. 4.5 stars. And most tourists still don't know what they're walking into.\n\nHon Thom Departure Terminal at Bãi Đất Đỏ is where you board the longest non-stop cable car over water in the world, straight to an island water park. The terminal itself is built like Ancient Rome, part shopping hub, part spectacle.\n\nThe cable car ride alone is worth the trip. Save this for your Phu Quoc trip.",
+          "video_caption": "Step inside Hon Thom Departure Terminal at Bãi Đất Đỏ. Roman columns, souvenir shops, and a cable car that flies you over open ocean to a full island water park. 19,221 people rated this 4.5 stars. See why.",
+          "first_comment": "#PhuQuoc #PhuQuocCablecar #HonThom #SunWorldHonThom #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "19,221 reviews. 4.5 stars. This cable car terminal looks like Ancient Rome.\n\nBoard at Bãi Đất Đỏ, fly over open ocean, land at a full island water park. Save this for your Phu Quoc trip.",
+          "video_caption": "Roman arches. Open ocean below. Island water park ahead. Hon Thom cable car hits different. Tag your travel buddy.",
+          "hashtags": "#PhuQuocCablecar #HonThom #PhuQuocTips #SunWorldHonThom #VietnamTravel #TravelTips #TravelReels #PhuQuocAttractions"
+        },
+        "tiktok": {
+          "caption": "19,221 reviews for THIS terminal in Phu Quoc. Roman-style, ocean cable car, island water park. Don't skip it. #PhuQuoc #HonThom #SunWorldHonThom #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "19,221 reviews. 4.5 stars.",
+          "scenes": [
+            "Wide shot: Roman columns at terminal entrance",
+            "Pan across shopping hub interior",
+            "Cable car cabin doors closing",
+            "Aerial view: cabin flying over open ocean",
+            "Island water park slides visible below",
+            "Crowd cheering on arrival platform"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJwaXLFgyJpzERsHSEodjscKQ",
+      "placeName": "Khu du lịch sinh thái (Suối Đá Bàn)",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-03-RsHSEodjscKQ-0.jpg",
+        "out/media/2026-07-03-RsHSEodjscKQ-1.jpg",
+        "out/media/2026-07-03-RsHSEodjscKQ-2.jpg",
+        "out/media/2026-07-03-RsHSEodjscKQ-3.jpg",
+        "out/media/2026-07-03-RsHSEodjscKQ-4.jpg",
+        "out/media/2026-07-03-RsHSEodjscKQ-5.jpg",
+        "out/media/2026-07-03-RsHSEodjscKQ-6.jpg",
+        "out/media/2026-07-03-RsHSEodjscKQ-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-03-RsHSEodjscKQ.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "484 reviews. 4.1 stars. And most tourists scroll right past Suối Đá Bàn.\n\nThis eco-tourism zone sits in the interior of Phu Quoc, where flat granite boulders split a cool freshwater stream into natural pools. No beach clubs. No cocktail menus. Just rocks, water, and trees.\n\nIf your Phu Quoc trip is all sand and sunsets, this is the reset button.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the water move through the granite at Suối Đá Bàn. Flat rocks, fresh pools, zero crowds. This is the other side of Phu Quoc.",
+          "first_comment": "#PhuQuoc #PhuQuocNature #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "484 reviews and it's still this quiet. Suối Đá Bàn, Phu Quoc's freshwater rock pools.\n\nTag your travel buddy.",
+          "video_caption": "Granite boulders. Cold freshwater. 4.1 stars and barely anyone here. Suối Đá Bàn hits different.",
+          "hashtags": "#PhuQuocNature #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "484 people rated this and it's still empty. Suối Đá Bàn is Phu Quoc's freshwater secret. #PhuQuoc #PhuQuocNature #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "484 reviews. Still no crowd.",
+          "scenes": [
+            "Drone pull back over granite stream",
+            "Feet stepping across flat wet boulders",
+            "Water rushing between rock formations",
+            "Wide shot: dense jungle canopy above",
+            "Person sitting on boulder, pools below"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJMemrMgSNpzERRHKLDaKlO9k",
+      "placeName": "Aigue-Marine French Bistro by Hidden Gem",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-03-RRHKLDaKlO9k-0.jpg",
+        "out/media/2026-07-03-RRHKLDaKlO9k-1.jpg",
+        "out/media/2026-07-03-RRHKLDaKlO9k-2.jpg",
+        "out/media/2026-07-03-RRHKLDaKlO9k-3.jpg",
+        "out/media/2026-07-03-RRHKLDaKlO9k-4.jpg",
+        "out/media/2026-07-03-RRHKLDaKlO9k-5.jpg",
+        "out/media/2026-07-03-RRHKLDaKlO9k-6.jpg",
+        "out/media/2026-07-03-RRHKLDaKlO9k-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this. A French bistro on Đường Trần Hưng Đạo that the resort crowd never finds. Aigue-Marine French Bistro by Hidden Gem. 4.8 stars across 305 reviews. That kind of consistency doesn't lie. Proper French cooking on a Vietnamese island. Save this for your Phu Quoc trip.",
+          "video_caption": "Fork hits the plate at Aigue-Marine French Bistro. 4.8 stars. 305 reviews. The bistro on Đường Trần Hưng Đạo that tourists keep skipping. Don't skip it. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #FoodInVietnam"
+        },
+        "instagram": {
+          "caption": "Tourists keep walking past this French bistro. 4.8 stars, 305 reviews, Đường Trần Hưng Đạo. Save this for your Phu Quoc trip.",
+          "video_caption": "A French bistro in Phu Quoc. 4.8 stars. The tourists never find it. You just did.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodieVietnam"
+        },
+        "tiktok": {
+          "caption": "A French bistro in Phu Quoc tourists keep missing. 4.8 stars says don't. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Tourists keep walking past this.",
+          "scenes": [
+            "Exterior shot: bistro frontage on Đường Trần Hưng Đạo",
+            "Push through the door, warm interior revealed",
+            "Close-up: plated French dish hits the table",
+            "Cut to Google review screen: 4.8, 305 reviews",
+            "Two-shot: guests eating, relaxed atmosphere"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJg1ksqtqNpzER3W4HrVMz7hE",
+      "placeName": "Tram Tram’s Banh Mi",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-03-R3W4HrVMz7hE-0.jpg",
+        "out/media/2026-07-03-R3W4HrVMz7hE-1.jpg",
+        "out/media/2026-07-03-R3W4HrVMz7hE-2.jpg",
+        "out/media/2026-07-03-R3W4HrVMz7hE-3.jpg",
+        "out/media/2026-07-03-R3W4HrVMz7hE-4.jpg",
+        "out/media/2026-07-03-R3W4HrVMz7hE-5.jpg",
+        "out/media/2026-07-03-R3W4HrVMz7hE-6.jpg",
+        "out/media/2026-07-03-R3W4HrVMz7hE-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-03-R3W4HrVMz7hE.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Locals don't. Tram Tram's Bánh Mì has 501 reviews and a 4.5★ rating for a reason. Crispy bread, loaded fillings, fast service. This is the bánh mì stop on Phu Quoc that the resort crowd never finds. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch how fast they build this bánh mì. Tram Tram's Bánh Mì on Đường Trần Hưng Đạo. 4.5 stars, 501 reviews, zero tourists in the queue. This is the move.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #BanhMi #VisitVietnam #TravelTips #PhuQuocTips #VietnamStreetFood"
+        },
+        "instagram": {
+          "caption": "Locals don't mention Tram Tram's Bánh Mì. 4.5★, 501 reviews, no tourist queue. Đường Trần Hưng Đạo. Save this.",
+          "video_caption": "Bánh mì built in 60 seconds flat. Tram Tram's Bánh Mì, Phu Quoc. The spot locals keep off the tourist maps.",
+          "hashtags": "#PhuQuocFood #PhuQuocTips #BanhMi #VietnamTravel #TravelTips #TravelReels #PhuQuocEats"
+        },
+        "tiktok": {
+          "caption": "The bánh mì spot locals are keeping quiet on Phu Quoc. 4.5★ & 501 reviews. #PhuQuoc #BanhMi #VietnamFood #PhuQuocFood #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals keep this one quiet.",
+          "scenes": [
+            "Street-level shot of Đường Trần Hưng Đạo sign",
+            "Hands slicing crispy bánh mì loaf",
+            "Fillings loaded fast, close-up",
+            "Finished bánh mì wrapped, handed over",
+            "Locals eating, no tourist faces in frame"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJIxst3A-NpzERxKcvb8CHI2Y",
+      "placeName": "Tween's Kitchen - Main Street Branch",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-03-RxKcvb8CHI2Y-0.jpg",
+        "out/media/2026-07-03-RxKcvb8CHI2Y-1.jpg",
+        "out/media/2026-07-03-RxKcvb8CHI2Y-2.jpg",
+        "out/media/2026-07-03-RxKcvb8CHI2Y-3.jpg",
+        "out/media/2026-07-03-RxKcvb8CHI2Y-4.jpg",
+        "out/media/2026-07-03-RxKcvb8CHI2Y-5.jpg",
+        "out/media/2026-07-03-RxKcvb8CHI2Y-6.jpg",
+        "out/media/2026-07-03-RxKcvb8CHI2Y-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.7 stars. 750 reviews. And most tourists walk straight past it.\n\nTween's Kitchen on Đường Trần Hưng Đạo is the kind of Vietnamese restaurant that locals keep quietly rating five stars while the resort crowds queue elsewhere. Solid $15-30 per person. Real food, real flavors, real Phu Quoc.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the plates land at Tween's Kitchen and you'll understand the 750 reviews. Vietnamese food done right on Đường Trần Hưng Đạo. Budget $15-30 and come hungry.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.7 stars. 750 reviews. Still not on most tourist itineraries.\n\nTween's Kitchen, Đường Trần Hưng Đạo. $15-30 a head. Go.",
+          "video_caption": "750 people rated this place 4.7 stars. Tween's Kitchen delivers. Tag your travel buddy.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodieTravel"
+        },
+        "tiktok": {
+          "caption": "4.7 stars, 750 reviews, $15-30 a head. Tween's Kitchen hits. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.7★. 750 reviews. Walk in.",
+          "scenes": [
+            "Exterior shot: Đường Trần Hưng Đạo signage",
+            "Door opens, busy dining room revealed",
+            "Dishes arriving at a table, steam rising",
+            "Close-up: vibrant Vietnamese plates",
+            "Receipt or menu showing $15-30 range"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJhW2pjhiLpzERiG9nCVbYLxM",
+      "placeName": "The Beauty Bar",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-03-RiG9nCVbYLxM-0.jpg",
+        "out/media/2026-07-03-RiG9nCVbYLxM-1.jpg",
+        "out/media/2026-07-03-RiG9nCVbYLxM-2.jpg",
+        "out/media/2026-07-03-RiG9nCVbYLxM-3.jpg",
+        "out/media/2026-07-03-RiG9nCVbYLxM-4.jpg",
+        "out/media/2026-07-03-RiG9nCVbYLxM-5.jpg",
+        "out/media/2026-07-03-RiG9nCVbYLxM-6.jpg",
+        "out/media/2026-07-03-RiG9nCVbYLxM-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-03-RiG9nCVbYLxM.mp4",
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes burnout. The Beauty Bar in Ông Lang sits far enough from the crowds that you actually exhale. 4.8 stars across 484 reviews. That number holds because the vibe holds. Grab a drink, watch the light change, feel your shoulders drop. Ông Lang is the quieter side of Phu Quoc, and The Beauty Bar is the reason to stay there. Save this for your Phu Quoc trip.",
+          "video_caption": "Drinks arriving. Sun dropping. Nobody rushing you. The Beauty Bar in Ông Lang is exactly what the busy part of Phu Quoc is not. 4.8 stars. 484 reviews. Go see why.",
+          "first_comment": "#PhuQuoc #PhuQuocBars #OngLang #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "This place fixes burnout. The Beauty Bar, Ông Lang. 4.8★ from 484 reviews. Quieter side of Phu Quoc. Save this.",
+          "video_caption": "Sun down. Volume down. The Beauty Bar in Ông Lang hits different. 4.8★, 484 reviews.",
+          "hashtags": "#PhuQuocBars #PhuQuocTips #OngLangBeach #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "The burnout bar you didn't know you needed. Ông Lang, Phu Quoc. 4.8★ #PhuQuoc #PhuQuocBars #OngLang #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "This place fixes burnout.",
+          "scenes": [
+            "Wide shot: empty beachside terrace, golden hour",
+            "Bartender pours drink in slow motion",
+            "Guest stares at horizon, shoulders relaxed",
+            "Close-up: condensation on cold glass",
+            "Text overlay: 4.8★ from 484 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJyaYp1AWNpzERDrMiNPAJATE",
+      "placeName": "Quán cháo gà rẫy Phú Quốc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-03-RDrMiNPAJATE-0.jpg",
+        "out/media/2026-07-03-RDrMiNPAJATE-1.jpg",
+        "out/media/2026-07-03-RDrMiNPAJATE-2.jpg",
+        "out/media/2026-07-03-RDrMiNPAJATE-3.jpg",
+        "out/media/2026-07-03-RDrMiNPAJATE-4.jpg",
+        "out/media/2026-07-03-RDrMiNPAJATE-5.jpg",
+        "out/media/2026-07-03-RDrMiNPAJATE-6.jpg",
+        "out/media/2026-07-03-RDrMiNPAJATE-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this one. Quán cháo gà rẫy Phú Quốc on Nguyễn Trung Trực serves free-range chicken congee the way locals actually eat it. No English menu. No tourist markup. Just a bowl of something that genuinely hits. 4.7 stars across 36 reviews, and most of those reviewers live here. Find it at 113 Nguyễn Trung Trực before the crowds do. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the congee get ladled out, thick and steaming, at Quán cháo gà rẫy Phú Quốc. This is what 113 Nguyễn Trung Trực looks like at breakfast. Locals only, until now.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #ThingsToDoPhuQuoc #VisitVietnam #VietnamFood #LocalEats #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about Quán cháo gà rẫy Phú Quốc. 4.7 stars, 36 real reviews. Bowl of free-range chicken congee, no tourist menu in sight. Save this.",
+          "video_caption": "Thick congee. Free-range chicken. Zero tourists. Quán cháo gà rẫy Phú Quốc is the breakfast spot locals kept quiet.",
+          "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocEats #VietnamTravel #TravelTips #TravelReels #LocalEats #VietnamFood"
+        },
+        "tiktok": {
+          "caption": "The congee spot locals kept off the internet. 4.7 stars. Go before it gets crowded. #PhuQuoc #PhuQuocFood #VietnamEats #LocalEats"
+        },
+        "video_script": {
+          "hook": "Locals kept this one quiet.",
+          "scenes": [
+            "Exterior shot: simple shophouse, locals eating",
+            "Close-up: congee ladled into bowl, steam rising",
+            "Shredded free-range chicken laid on top",
+            "Hands wrapping around warm bowl, first spoonful",
+            "Street sign: 113 Nguyễn Trung Trực on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJbd7_NgGNpzERqXUHaQ6Y6K4",
+      "placeName": "Blue seafood restaurant (블루씨푸드)",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-03-RqXUHaQ6Y6K4-0.jpg",
+        "out/media/2026-07-03-RqXUHaQ6Y6K4-1.jpg",
+        "out/media/2026-07-03-RqXUHaQ6Y6K4-2.jpg",
+        "out/media/2026-07-03-RqXUHaQ6Y6K4-3.jpg",
+        "out/media/2026-07-03-RqXUHaQ6Y6K4-4.jpg",
+        "out/media/2026-07-03-RqXUHaQ6Y6K4-5.jpg",
+        "out/media/2026-07-03-RqXUHaQ6Y6K4-6.jpg",
+        "out/media/2026-07-03-RqXUHaQ6Y6K4-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-03-RqXUHaQ6Y6K4.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this place on Đường Nguyễn Trãi. Their loss. Blue Seafood Restaurant (블루씨푸드) is pulling 4.7 stars across 967 reviews and the locals who eat here aren't rushing to tell you about it. Fresh seafood, Khu 1 location, zero resort markup. This is where you actually eat in Phu Quoc. Save this for your Phu Quoc trip.",
+          "video_caption": "Fresh seafood hitting the table at Blue Seafood Restaurant (블루씨푸드) on Đường Nguyễn Trãi. 4.7 stars. 967 reviews. Locals keep this one quiet for a reason.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #SeafoodPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about Blue Seafood (블루씨푸드). 4.7 stars, 967 reviews, Đường Nguyễn Trãi. Now you know. Save this.",
+          "video_caption": "967 reviews. 4.7 stars. Tourists walk straight past Blue Seafood (블루씨푸드) every single day.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurant #SeafoodPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "Locals eat here and say nothing. Blue Seafood (블루씨푸드) Đường Nguyễn Trãi. 4.7★ 967 reviews. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Locals keep this one quiet.",
+          "scenes": [
+            "Walk along Đường Nguyễn Trãi, pass the sign",
+            "Close-up: fresh seafood display at the counter",
+            "Dishes arriving at a packed local table",
+            "Pull back: busy dining room, zero tourists",
+            "Screen: 4.7 stars, 967 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. A French bistro on Đường Trần Hưng Đạo that the resort crowd never finds. Aigue-Marine French Bistro by Hidden Gem. 4.8 stars across 305 reviews. That kind of consistency doesn't lie. Proper French cooking on a Vietnamese island. Save this for your Phu Quoc trip.",
+    "video_caption": "Fork hits the plate at Aigue-Marine French Bistro. 4.8 stars. 305 reviews. The bistro on Đường Trần Hưng Đạo that tourists keep skipping. Don't skip it. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #FoodInVietnam"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this French bistro. 4.8 stars, 305 reviews, Đường Trần Hưng Đạo. Save this for your Phu Quoc trip.",
+    "video_caption": "A French bistro in Phu Quoc. 4.8 stars. The tourists never find it. You just did.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodieVietnam"
+  },
+  "tiktok": {
+    "caption": "A French bistro in Phu Quoc tourists keep missing. 4.8 stars says don't. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior shot: bistro frontage on Đường Trần Hưng Đạo",
+      "Push through the door, warm interior revealed",
+      "Close-up: plated French dish hits the table",
+      "Cut to Google review screen: 4.8, 305 reviews",
+      "Two-shot: guests eating, relaxed atmosphere"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "25,973 reviews. 4.6 stars. And it's an open zoo where animals roam free.\n\nVinpearl Safari Phú Quốc is the largest open-air wildlife park in Vietnam. Rare native species, exotic animals, and a conservation mission you can actually see in action.\n\nNot a typical cage-and-walkway zoo. You ride through. Animals are close.\n\nBãi Dài, Phú Quốc. Worth a full day.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Riding through an open safari in the middle of Phu Quoc. Animals on both sides. No cages. Vinpearl Safari Phú Quốc has 25,973 reviews for a reason, see it before the crowds arrive.",
+    "first_comment": "#PhuQuoc #VinpearlSafari #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "25,973 reviews. 4.6 stars. Open safari in Phu Quoc.\n\nVinpearl Safari Phú Quốc. Animals roam free. You ride through. Full day activity.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "No cages. Animals on both sides. Vinpearl Safari Phú Quốc hits different. 4.6 stars, 25k reviews. Tag your travel buddy.",
+    "hashtags": "#PhuQuocTips #PhuQuocAttractions #VinpearlSafari #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocVietnam #WildlifePark"
+  },
+  "tiktok": {
+    "caption": "Open safari in Phu Quoc. Animals roam free. 25,973 reviews don't lie. #PhuQuoc #VinpearlSafari #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "25,973 reviews. Open safari.",
+    "scenes": [
+      "Aerial shot: vast open park, Bãi Dài coastline behind",
+      "Safari vehicle enters animal zone",
+      "Giraffes walk past the vehicle window",
+      "Rare native species in open enclosures",
+      "Crowd reacts, phones out, faces lit up",
+      "Text overlay: Vinpearl Safari Phú Quốc, 4.6★"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

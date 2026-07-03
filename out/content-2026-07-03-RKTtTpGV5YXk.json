@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk right past the good spots in Sunset Town. The crowds cluster near the main strip. The locals drift toward the side alleys, the quiet corners, the spots where the light actually hits right at golden hour. 4.6 stars across 4,456 reviews means people keep coming back. Find your angle before everyone else does. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the sky change color over Sunset Town while the crowd is still at the beach. This is what you came to Phu Quoc for. 4.6 stars. 4,456 reviews. Now you know where to be.",
+    "first_comment": "#PhuQuoc #SunsetTown #PhuQuocAttractions #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past the best spots in Sunset Town. 4.6★, 4,456 reviews. Go at golden hour. Tag your travel buddy.",
+    "video_caption": "Golden hour at Sunset Town hits different when you know where to stand. 4.6 stars don't lie.",
+    "hashtags": "#PhuQuocTips #PhuQuocAttractions #SunsetTownPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Tourists skip the best part of Sunset Town. Don't be them. #PhuQuoc #SunsetTown #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep missing this.",
+    "scenes": [
+      "Wide shot: Sunset Town skyline at dusk",
+      "Crowd moves past side alley entrance",
+      "Camera turns down the quieter path",
+      "Golden light floods an open viewpoint",
+      "Close-up: sky turning deep orange"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

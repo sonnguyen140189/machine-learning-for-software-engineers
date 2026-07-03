@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists flock to Long Beach. Savvy travelers book Ông Lang.\n\nMövenpick Villas & Residences Phú Quốc sits on the quieter west coast, away from the party strips. 4.7 stars across 2,529 reviews. That's not luck, that's consistency.\n\nVillas. Residences. A beach that doesn't feel like a bus tour stop.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the difference between Phu Quoc's crowded south and this. Ông Lang beach, Mövenpick Villas & Residences Phú Quốc. Quieter water, fewer footprints. 4.7 stars from 2,529 guests. The west coast delivers.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #OngLang #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists skip Ông Lang. That's exactly why you shouldn't.\n\nMövenpick Villas & Residences Phú Quốc. 4.7★, 2,529 reviews. Tag your travel buddy.",
+    "video_caption": "Quieter beach. Fewer crowds. Mövenpick Villas & Residences Phú Quốc on the west coast hits different.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #OngLangBeach #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc beach tourists keep skipping. Mövenpick Villas & Residences Phú Quốc, Ông Lang. 4.7★ for a reason. #PhuQuoc #PhuQuocHotel #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists keep missing this beach.",
+    "scenes": [
+      "Aerial pan over Ông Lang coastline",
+      "Villa exterior, lush greenery framing entrance",
+      "Empty beach stretch in front of resort",
+      "Pool shot, calm water, no crowds",
+      "Close-up: 4.7★ review screen on phone"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

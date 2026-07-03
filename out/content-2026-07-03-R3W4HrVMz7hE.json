@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Locals don't. Tram Tram's Bánh Mì has 501 reviews and a 4.5★ rating for a reason. Crispy bread, loaded fillings, fast service. This is the bánh mì stop on Phu Quoc that the resort crowd never finds. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch how fast they build this bánh mì. Tram Tram's Bánh Mì on Đường Trần Hưng Đạo. 4.5 stars, 501 reviews, zero tourists in the queue. This is the move.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BanhMi #VisitVietnam #TravelTips #PhuQuocTips #VietnamStreetFood"
+  },
+  "instagram": {
+    "caption": "Locals don't mention Tram Tram's Bánh Mì. 4.5★, 501 reviews, no tourist queue. Đường Trần Hưng Đạo. Save this.",
+    "video_caption": "Bánh mì built in 60 seconds flat. Tram Tram's Bánh Mì, Phu Quoc. The spot locals keep off the tourist maps.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #BanhMi #VietnamTravel #TravelTips #TravelReels #PhuQuocEats"
+  },
+  "tiktok": {
+    "caption": "The bánh mì spot locals are keeping quiet on Phu Quoc. 4.5★ & 501 reviews. #PhuQuoc #BanhMi #VietnamFood #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals keep this one quiet.",
+    "scenes": [
+      "Street-level shot of Đường Trần Hưng Đạo sign",
+      "Hands slicing crispy bánh mì loaf",
+      "Fillings loaded fast, close-up",
+      "Finished bánh mì wrapped, handed over",
+      "Locals eating, no tourist faces in frame"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
