@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you take a wrong turn in Phu Quoc and find Hộ Quốc Temple.\n\nTiered pagodas climbing the hillside. Incense smoke drifting through the trees. 1,328 people rated it 4.7 stars and somehow it still feels like a genuine discovery.\n\nMost tourists skip it for the beach. Don't be most tourists.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Climbing the steps of Hộ Quốc Temple while the rest of the island sleeps in. 4.7 stars. 1,328 reviews. Zero crowds in this clip. Some places in Phu Quoc just stop you cold.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #PhuQuocTravel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn. Found Hộ Quốc Temple. 4.7 stars, 1,328 reviews deep.\n\nSkip it and regret it. Tag your travel buddy.",
+    "video_caption": "Stepped inside Hộ Quốc Temple and forgot Phu Quoc had beaches. 4.7 stars. Go.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTravel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Wrong turn. Right place. Hộ Quốc Temple hit different. 4.7⭐ 1,328 reviews #PhuQuoc #PhuQuocTemple #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Found THIS.",
+    "scenes": [
+      "Boots on the stone path, gate ahead",
+      "Pan up tiled pagoda roof layers",
+      "Incense smoke curling past red lanterns",
+      "Wide shot: hillside temple, no crowds",
+      "Close-up: 4.7 stars on phone screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

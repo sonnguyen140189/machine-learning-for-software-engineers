@@ -1,0 +1,522 @@
+{
+  "stamp": "2026-07-04",
+  "items": [
+    {
+      "placeId": "ChIJszMWeMWNpzERVX7Za7lyBuw",
+      "placeName": "La Place coffee and eatery Phu Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-04-RVX7Za7lyBuw-0.jpg",
+        "out/media/2026-07-04-RVX7Za7lyBuw-1.jpg",
+        "out/media/2026-07-04-RVX7Za7lyBuw-2.jpg",
+        "out/media/2026-07-04-RVX7Za7lyBuw-3.jpg",
+        "out/media/2026-07-04-RVX7Za7lyBuw-4.jpg",
+        "out/media/2026-07-04-RVX7Za7lyBuw-5.jpg",
+        "out/media/2026-07-04-RVX7Za7lyBuw-6.jpg",
+        "out/media/2026-07-04-RVX7Za7lyBuw-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you're walking Đường Trần Hưng Đạo and you almost walk past La Place coffee and eatery Phu Quoc. Don't be that person. 4.7 stars across 490 reviews. That's not luck, that's consistency. Good coffee, real food, the kind of spot that earns a second visit before you've finished the first. Save this for your Phu Quoc trip.",
+          "video_caption": "Coffee hits the table at La Place coffee and eatery Phu Quoc. 4.7 stars. 490 people weren't wrong. Đường Trần Hưng Đạo just became your new morning stop.",
+          "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocFood #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips"
+        },
+        "instagram": {
+          "caption": "Walked past. Doubled back. Worth it. La Place coffee and eatery Phu Quoc, 4.7★ across 490 reviews. Tag your travel buddy.",
+          "video_caption": "4.7 stars. 490 reviews. La Place coffee and eatery Phu Quoc earns every one.",
+          "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocEats #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "Almost skipped this cafe. Big mistake. La Place Phu Quoc, 4.7★ 490 reviews. #PhuQuoc #PhuQuocFood #PhuQuocCafe #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Walked past 3 times. Don't be me.",
+          "scenes": [
+            "Exterior shot: La Place signage on Đường Trần Hưng Đạo",
+            "Push through the door, reveal interior",
+            "Close-up: coffee cup lands on table",
+            "Cut to food plate arriving",
+            "Slow pan across 4.7★ rating on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJW0SI6z2NpzERKixqsVMmIkI",
+      "placeName": "Bagels 'n Eggs",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-04-RKixqsVMmIkI-0.jpg",
+        "out/media/2026-07-04-RKixqsVMmIkI-1.jpg",
+        "out/media/2026-07-04-RKixqsVMmIkI-2.jpg",
+        "out/media/2026-07-04-RKixqsVMmIkI-3.jpg",
+        "out/media/2026-07-04-RKixqsVMmIkI-4.jpg",
+        "out/media/2026-07-04-RKixqsVMmIkI-5.jpg",
+        "out/media/2026-07-04-RKixqsVMmIkI-6.jpg",
+        "out/media/2026-07-04-RKixqsVMmIkI-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-04-RKixqsVMmIkI.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Their loss. Bagels 'n Eggs is pulling a 4.8 from 643 reviews and the breakfast crowd here is mostly locals and long-stay expats. Not the resort buffet crowd. Fresh bagels in Phu Quoc. Eggs done right. No tourist markup. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the breakfast line fill up at Bagels 'n Eggs. 4.8 stars. 643 reviews. The resort crowd has no idea this street even exists. Đường Trần Hưng Đạo is where Phu Quoc actually eats.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Locals aren't posting this breakfast spot. 4.8 stars, 643 reviews, and zero resort tourists inside. Bagels 'n Eggs on Đường Trần Hưng Đạo. Save this.",
+          "video_caption": "643 reviews. The breakfast spot Phu Quoc keeps to itself. Bagels 'n Eggs. Go before the tourists figure it out.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam"
+        },
+        "tiktok": {
+          "caption": "The breakfast spot Phu Quoc keeps secret. 4.8 stars. 643 reviews. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Locals don't post this spot.",
+          "scenes": [
+            "Slow pan down Đường Trần Hưng Đạo at dawn",
+            "Exterior of Bagels 'n Eggs, small sign visible",
+            "Hands slicing a fresh bagel, steam rising",
+            "Plate landing on table: eggs, bagel, coffee",
+            "Tight shot: 4.8 stars on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJZczOcTKNpzERDrdWOGSuTvA",
+      "placeName": "Bơ restaurant & coffee",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-04-RDrdWOGSuTvA-0.jpg",
+        "out/media/2026-07-04-RDrdWOGSuTvA-1.jpg",
+        "out/media/2026-07-04-RDrdWOGSuTvA-2.jpg",
+        "out/media/2026-07-04-RDrdWOGSuTvA-3.jpg",
+        "out/media/2026-07-04-RDrdWOGSuTvA-4.jpg",
+        "out/media/2026-07-04-RDrdWOGSuTvA-5.jpg",
+        "out/media/2026-07-04-RDrdWOGSuTvA-6.jpg",
+        "out/media/2026-07-04-RDrdWOGSuTvA-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Under $10 a person. At a 4.8-star restaurant. On Trần Hưng Đạo road.\n\nBơ restaurant & coffee is doing something most spots on this island aren't. Real food, real coffee, real prices. 746 reviews back that up.\n\nIf you're staying anywhere near Phú Quốc town, this is your breakfast and lunch sorted. No guessing, no overpaying.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "746 people rated this place 4.8 stars. The bill? Under $10. Bơ restaurant & coffee on Trần Hưng Đạo is the move. Full stop.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Under $10 a person. 4.8 stars. 746 reviews. Bơ restaurant & coffee just solved your Phu Quoc food budget. Save this.",
+          "video_caption": "4.8 stars and your bill stays under $10. Bơ restaurant & coffee on Trần Hưng Đạo. Go.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.8 stars. Under $10. This is Bơ restaurant & coffee in Phu Quoc. #PhuQuoc #PhuQuocFood #TravelTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Under $10. 4.8 stars. Phu Quoc.",
+          "scenes": [
+            "Zoom in on storefront sign: Bơ restaurant & coffee",
+            "Table fills with plates and drinks",
+            "Close-up: coffee poured, steam rising",
+            "Reviewer count animates to 746",
+            "Bill slides into frame, total under $10"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJa_lVMmeNpzERHonO5t2IKRg",
+      "placeName": "Sugar Fusion Bakery",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-04-RHonO5t2IKRg-0.jpg",
+        "out/media/2026-07-04-RHonO5t2IKRg-1.jpg",
+        "out/media/2026-07-04-RHonO5t2IKRg-2.jpg",
+        "out/media/2026-07-04-RHonO5t2IKRg-3.jpg",
+        "out/media/2026-07-04-RHonO5t2IKRg-4.jpg",
+        "out/media/2026-07-04-RHonO5t2IKRg-5.jpg",
+        "out/media/2026-07-04-RHonO5t2IKRg-6.jpg",
+        "out/media/2026-07-04-RHonO5t2IKRg-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-04-RHonO5t2IKRg.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you walked down Trần Hưng Đạo looking for coffee and found a bakery with 4.7 stars you'd never heard of.\n\nSugar Fusion Bakery at 39 Đường Trần Hưng Đạo is the kind of spot that makes you stop mid-stride. Fresh bakes, real effort, 264 reviews deep.\n\nNot every great find in Phu Quoc is on the beach. Save this for your Phu Quoc trip.",
+          "video_caption": "4.7 stars. 264 reviews. One bakery on Trần Hưng Đạo that most tourists scroll right past. Sugar Fusion Bakery earns every single one of those stars. Go find it.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+        },
+        "instagram": {
+          "caption": "Walked past this. Almost kept going. Don't be me.\n\nSugar Fusion Bakery. 4.7 stars. 264 reviews. Worth the detour.\n\nTag your travel buddy.",
+          "video_caption": "4.7 stars on Trần Hưng Đạo and most tourists have no idea it exists. Sugar Fusion Bakery. Now you know.",
+          "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocCafe #VietnamTravel #TravelTips #TravelReels #PhuQuocBakery #VisitVietnam #VietnamFood"
+        },
+        "tiktok": {
+          "caption": "Walked past 3 times. Finally went in. Sugar Fusion Bakery hits different. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Walked past this 3 times.",
+          "scenes": [
+            "Exterior shot: 39 Đường Trần Hưng Đạo storefront",
+            "Push through the door, first look inside",
+            "Close-up: baked goods on display counter",
+            "Hand picks up item, steam or texture visible",
+            "First bite reaction, no words needed",
+            "Hold up phone showing 4.7 stars, 264 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJt4DYpuyLpzERm18CccVtFaM",
+      "placeName": "On The Rock Restaurant & Beach Bar",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-04-Rm18CccVtFaM-0.jpg",
+        "out/media/2026-07-04-Rm18CccVtFaM-1.jpg",
+        "out/media/2026-07-04-Rm18CccVtFaM-2.jpg",
+        "out/media/2026-07-04-Rm18CccVtFaM-3.jpg",
+        "out/media/2026-07-04-Rm18CccVtFaM-4.jpg",
+        "out/media/2026-07-04-Rm18CccVtFaM-5.jpg",
+        "out/media/2026-07-04-Rm18CccVtFaM-6.jpg",
+        "out/media/2026-07-04-Rm18CccVtFaM-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you take a wrong turn down Hẻm 8 Đường Lê Thúc Nha and end up eating seafood on actual rocks above the water. On The Rock Restaurant & Beach Bar at Mango Bay does not look like much from the road. Then you see the view. 4.3 stars across 453 reviews. Sit on the lower decks when the tide is in. Save this for your Phu Quoc trip.",
+          "video_caption": "Plates arriving on a rock ledge above the ocean. Waves underneath. Real ones. On The Rock Restaurant & Beach Bar, Mango Bay. Do not walk past this one.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamFood #IslandEats"
+        },
+        "instagram": {
+          "caption": "Took a wrong turn. Found On The Rock Restaurant & Beach Bar. Seafood. Rocks. Ocean literally below your feet. 4.3★ / 453 reviews. Tag your travel buddy.",
+          "video_caption": "Waves under the table. Not a metaphor. On The Rock Restaurant & Beach Bar, Mango Bay, Phu Quoc.",
+          "hashtags": "#PhuQuocRestaurants #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SeafoodViews"
+        },
+        "tiktok": {
+          "caption": "Took a wrong turn. Ended up here. On The Rock Restaurant & Beach Bar, Mango Bay. Worth every second. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Took a wrong turn. Found this.",
+          "scenes": [
+            "Narrow alley entrance, Hẻm 8, handheld walk-in shot",
+            "Reveal: ocean view opens up below rock ledge",
+            "Low angle: waves crashing under dining deck",
+            "Close-up: seafood plate lands on table, water behind",
+            "Wide shot: full deck, guests, Mango Bay coastline"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJEXpOynGNpzER-yD5vqjo9-E",
+      "placeName": "BUM Coffee",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-04-R-yD5vqjo9-E-0.jpg",
+        "out/media/2026-07-04-R-yD5vqjo9-E-1.jpg",
+        "out/media/2026-07-04-R-yD5vqjo9-E-2.jpg",
+        "out/media/2026-07-04-R-yD5vqjo9-E-3.jpg",
+        "out/media/2026-07-04-R-yD5vqjo9-E-4.jpg",
+        "out/media/2026-07-04-R-yD5vqjo9-E-5.jpg",
+        "out/media/2026-07-04-R-yD5vqjo9-E-6.jpg",
+        "out/media/2026-07-04-R-yD5vqjo9-E-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-04-R-yD5vqjo9-E.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "5.0 stars. 48 reviews. Zero complaints.\n\nBUM Coffee at 139 Đoàn Thị Điểm is pulling a perfect rating and it's not an accident. 48 people left reviews and every single one rounded up to five. That almost never happens.\n\nIf you're building a Phu Quoc café crawl, this one earns its spot on the list.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the pour. Watch the score. BUM Coffee is sitting at a perfect 5.0 and 48 reviewers didn't argue. 139 Đoàn Thị Điểm. Go find out why.",
+          "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocTips #VisitVietnam #VietnamCoffee"
+        },
+        "instagram": {
+          "caption": "5.0 stars. 48 reviews. Not one person gave it less.\n\nBUM Coffee, 139 Đoàn Thị Điểm. Add it to the list.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "48 reviews. Perfect score. BUM Coffee is not messing around. 📍 139 Đoàn Thị Điểm, Phu Quoc.",
+          "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CoffeeReels"
+        },
+        "tiktok": {
+          "caption": "5.0 stars. 48 reviews. Zero dips. BUM Coffee hits different. 📍 Phu Quoc #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelReels"
+        },
+        "video_script": {
+          "hook": "5.0 stars. 48 reviews.",
+          "scenes": [
+            "Exterior shot: café sign at 139 Đoàn Thị Điểm",
+            "Close-up: coffee being poured slowly",
+            "Wide shot: seating area, customers settled in",
+            "Phone screen: 5.0 rating, 48 reviews visible",
+            "Final sip, cup set down on table"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJXWMScYiMpzERFW5SXq8DfXs",
+      "placeName": "Saigonese Eatery",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-04-RFW5SXq8DfXs-0.jpg",
+        "out/media/2026-07-04-RFW5SXq8DfXs-1.jpg",
+        "out/media/2026-07-04-RFW5SXq8DfXs-2.jpg",
+        "out/media/2026-07-04-RFW5SXq8DfXs-3.jpg",
+        "out/media/2026-07-04-RFW5SXq8DfXs-4.jpg",
+        "out/media/2026-07-04-RFW5SXq8DfXs-5.jpg",
+        "out/media/2026-07-04-RFW5SXq8DfXs-6.jpg",
+        "out/media/2026-07-04-RFW5SXq8DfXs-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. 4.6 stars. 2,107 reviews. Still no line out the door. Saigonese Eatery does Asian fusion the way Phu Quoc actually eats. $15-30 a head. Solid value for what lands on the table. Save this for your Phu Quoc trip.",
+          "video_caption": "Asian fusion at $15-30 a head and 2,107 people rated it 4.6 stars. Saigonese Eatery on Đường Trần Hưng Đạo. Walk in, order everything, thank yourself later.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Tourists keep walking past Saigonese Eatery. 4.6 stars, 2,107 reviews, still no queue. $15-30. Tag your travel buddy.",
+          "video_caption": "4.6 stars. 2,107 reviews. Zero hype on the street. Saigonese Eatery is doing the work quietly.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #AsianFusion"
+        },
+        "tiktok": {
+          "caption": "2,107 reviews and still flies under the radar. Saigonese Eatery, Phu Quoc. $15-30. Go. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Tourists keep skipping this.",
+          "scenes": [
+            "Pan down Đường Trần Hưng Đạo storefront",
+            "Dishes hitting the table fast",
+            "Close-up: plating, steam rising",
+            "Phone shows 4.6 stars, 2,107 reviews",
+            "Bill arrives, camera on the total"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
+      "placeName": "The Spice House Restaurant at Cassia Cottage Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-04-RJ7MA3oUHL5E-0.jpg",
+        "out/media/2026-07-04-RJ7MA3oUHL5E-1.jpg",
+        "out/media/2026-07-04-RJ7MA3oUHL5E-2.jpg",
+        "out/media/2026-07-04-RJ7MA3oUHL5E-3.jpg",
+        "out/media/2026-07-04-RJ7MA3oUHL5E-4.jpg",
+        "out/media/2026-07-04-RJ7MA3oUHL5E-5.jpg",
+        "out/media/2026-07-04-RJ7MA3oUHL5E-6.jpg",
+        "out/media/2026-07-04-RJ7MA3oUHL5E-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-04-RJ7MA3oUHL5E.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.7 stars. 702 reviews. At a resort restaurant on Đường Trần Hưng Đạo. That number matters because resort dining in Phu Quoc usually coasts on location. The Spice House Restaurant at Cassia Cottage Phu Quốc earns it. 702 people bothered to leave a review. Most don't. Put this one on the list. Save this for your Phu Quoc trip.",
+          "video_caption": "702 reviews on a resort restaurant and the rating is still 4.7. Watch what The Spice House Restaurant at Cassia Cottage Phu Quốc is actually serving. This is not hotel food.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocFood #VietnamFood #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "4.7 stars. 702 reviews. Resort dining that actually delivers. The Spice House at Cassia Cottage Phu Quốc. Save this for your trip.",
+          "video_caption": "702 people rated this resort restaurant 4.7 stars. The Spice House at Cassia Cottage Phu Quốc. Watch why.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodTok"
+        },
+        "tiktok": {
+          "caption": "4.7 stars, 702 reviews. Resort dining in Phu Quoc that earns it. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.7★ · 702 reviews.",
+          "scenes": [
+            "Exterior shot of Cassia Cottage entrance",
+            "Pan across full dining room, guests eating",
+            "Close-up: dishes arriving at table",
+            "Cut to: Google review score on screen",
+            "Slow zoom on plated food, steam rising"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJj0CLlcuTpzERosWOlPYPO2k",
+      "placeName": "Sora & Umi",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-04-RosWOlPYPO2k-0.jpg",
+        "out/media/2026-07-04-RosWOlPYPO2k-1.jpg",
+        "out/media/2026-07-04-RosWOlPYPO2k-2.jpg",
+        "out/media/2026-07-04-RosWOlPYPO2k-3.jpg",
+        "out/media/2026-07-04-RosWOlPYPO2k-4.jpg",
+        "out/media/2026-07-04-RosWOlPYPO2k-5.jpg",
+        "out/media/2026-07-04-RosWOlPYPO2k-6.jpg",
+        "out/media/2026-07-04-RosWOlPYPO2k-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "Some restaurants feel like a reset button. Sora & Umi at InterContinental's Bãi Trường resort is one of them. Asian cuisine, long-beach views, and a vibe that makes you forget you had a flight this morning. 4.6 stars across 199 reviews. That's not luck. Save this for your Phu Quoc trip.",
+          "video_caption": "Chopsticks down, beach in front, zero stress. This is Sora & Umi at InterContinental Bãi Trường. Asian flavors, 4.6 stars, and a dining room that earns every one of them.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocResort #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "This place fixes burnout. Sora & Umi, InterContinental Bãi Trường. 4.6★, 199 reviews. Save this.",
+          "video_caption": "Beach views. Asian cuisine. 4.6 stars. Sora & Umi hits different at Bãi Trường.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #PhuQuocResort #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "The reset dinner you need in Phu Quoc. Sora & Umi, Bãi Trường. 4.6★ #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "This place fixes burnout.",
+          "scenes": [
+            "Wide shot: beach stretching beyond restaurant",
+            "Close-up: Asian dishes arriving at table",
+            "Slow pan across the dining room interior",
+            "Shot of 4.6★ rating on screen overlay",
+            "Guest exhales, leans back, smiles"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJHfkAZ4WVpzERmME-KkMKRrI",
+      "placeName": "Lotus Home & Cafe",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-04-RmME-KkMKRrI-0.jpg",
+        "out/media/2026-07-04-RmME-KkMKRrI-1.jpg",
+        "out/media/2026-07-04-RmME-KkMKRrI-2.jpg",
+        "out/media/2026-07-04-RmME-KkMKRrI-3.jpg",
+        "out/media/2026-07-04-RmME-KkMKRrI-4.jpg",
+        "out/media/2026-07-04-RmME-KkMKRrI-5.jpg",
+        "out/media/2026-07-04-RmME-KkMKRrI-6.jpg",
+        "out/media/2026-07-04-RmME-KkMKRrI-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-04-RmME-KkMKRrI.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.8 stars. 1,147 reviews. At a café inside Sunset Town. Lotus Home & Cafe at 69 Positano, Phú Quốc is pulling numbers that most restaurants in the country would kill for. That rating doesn't happen by accident. Find it, sit down, order something. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the vibe at Lotus Home & Cafe, 69 Positano, Sunset Town. 1,147 people rated it 4.8 stars. The camera doesn't lie. Neither do the reviews.",
+          "first_comment": "#PhuQuoc #PhuQuocCafe #SunsetTownPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.8 stars. 1,147 reviews. Lotus Home & Cafe, Sunset Town. This café earns it. Tag your travel buddy.",
+          "video_caption": "1,147 people rated this 4.8 stars. Lotus Home & Cafe in Sunset Town. Go see why.",
+          "hashtags": "#PhuQuocCafe #PhuQuocFood #SunsetTownPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "4.8 stars, 1,147 reviews. Lotus Home & Cafe in Sunset Town might be Phu Quoc's most consistent café. #PhuQuoc #PhuQuocCafe #SunsetTown #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.8★ 1,147 reviews. One café.",
+          "scenes": [
+            "Exterior shot: 69 Positano signage",
+            "Pan across seating area, natural light",
+            "Close-up: drinks or food on table",
+            "Cut to: Google review score on screen",
+            "Wide shot: crowd or calm atmosphere"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJCzimRUaRpzER1jlvynsq6ko",
+      "placeName": "Hộ Quốc Temple",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-04-R1jlvynsq6ko-0.jpg",
+        "out/media/2026-07-04-R1jlvynsq6ko-1.jpg",
+        "out/media/2026-07-04-R1jlvynsq6ko-2.jpg",
+        "out/media/2026-07-04-R1jlvynsq6ko-3.jpg",
+        "out/media/2026-07-04-R1jlvynsq6ko-4.jpg",
+        "out/media/2026-07-04-R1jlvynsq6ko-5.jpg",
+        "out/media/2026-07-04-R1jlvynsq6ko-6.jpg",
+        "out/media/2026-07-04-R1jlvynsq6ko-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you take a wrong turn in Phu Quoc and find Hộ Quốc Temple.\n\nTiered pagodas climbing the hillside. Incense smoke drifting through the trees. 1,328 people rated it 4.7 stars and somehow it still feels like a genuine discovery.\n\nMost tourists skip it for the beach. Don't be most tourists.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Climbing the steps of Hộ Quốc Temple while the rest of the island sleeps in. 4.7 stars. 1,328 reviews. Zero crowds in this clip. Some places in Phu Quoc just stop you cold.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #PhuQuocTravel #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "Took a wrong turn. Found Hộ Quốc Temple. 4.7 stars, 1,328 reviews deep.\n\nSkip it and regret it. Tag your travel buddy.",
+          "video_caption": "Stepped inside Hộ Quốc Temple and forgot Phu Quoc had beaches. 4.7 stars. Go.",
+          "hashtags": "#PhuQuocTemple #PhuQuocTravel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #ThingsToDoPhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Wrong turn. Right place. Hộ Quốc Temple hit different. 4.7⭐ 1,328 reviews #PhuQuoc #PhuQuocTemple #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Wrong turn. Found THIS.",
+          "scenes": [
+            "Boots on the stone path, gate ahead",
+            "Pan up tiled pagoda roof layers",
+            "Incense smoke curling past red lanterns",
+            "Wide shot: hillside temple, no crowds",
+            "Close-up: 4.7 stars on phone screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJgQRYpz-MpzER_PdUT7NFsIM",
+      "placeName": "Su Muon Pagoda",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-04-R_PdUT7NFsIM-0.jpg",
+        "out/media/2026-07-04-R_PdUT7NFsIM-1.jpg",
+        "out/media/2026-07-04-R_PdUT7NFsIM-2.jpg",
+        "out/media/2026-07-04-R_PdUT7NFsIM-3.jpg",
+        "out/media/2026-07-04-R_PdUT7NFsIM-4.jpg",
+        "out/media/2026-07-04-R_PdUT7NFsIM-5.jpg",
+        "out/media/2026-07-04-R_PdUT7NFsIM-6.jpg",
+        "out/media/2026-07-04-R_PdUT7NFsIM-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-04-R_PdUT7NFsIM.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this. Su Muon Pagoda sits quietly on Phu Quoc while most visitors are still arguing over beach chairs. 4.4 stars. 508 reviews. Almost zero foreigners. The incense, the silence, the monks going about their day. This is the side of the island that doesn't make the resort brochures. Add it to your itinerary. Save this for your Phu Quoc trip.",
+          "video_caption": "Step inside Su Muon Pagoda and the noise of Phu Quoc just stops. 508 people rated this 4.4 stars. Almost none of them were tourists. This is what the island actually feels like away from the beach bars.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "Locals don't post about Su Muon Pagoda. 4.4★, 508 reviews, zero tourist crowds. Save this for your Phu Quoc trip.",
+          "video_caption": "Su Muon Pagoda. 4.4★. Almost no tourists. The real Phu Quoc is in here.",
+          "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #HiddenPhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Nobody talks about Su Muon Pagoda. 4.4★ and 508 reviews later, it still has zero tourist crowds. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+        },
+        "video_script": {
+          "hook": "Tourists keep walking past this.",
+          "scenes": [
+            "Exterior gate of Su Muon Pagoda, slow push-in",
+            "Incense smoke rising at the altar",
+            "Monk walking across the courtyard",
+            "Close-up of prayer offerings and candles",
+            "Wide shot, empty courtyard, total stillness"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

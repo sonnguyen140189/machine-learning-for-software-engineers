@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. Su Muon Pagoda sits quietly on Phu Quoc while most visitors are still arguing over beach chairs. 4.4 stars. 508 reviews. Almost zero foreigners. The incense, the silence, the monks going about their day. This is the side of the island that doesn't make the resort brochures. Add it to your itinerary. Save this for your Phu Quoc trip.",
+    "video_caption": "Step inside Su Muon Pagoda and the noise of Phu Quoc just stops. 508 people rated this 4.4 stars. Almost none of them were tourists. This is what the island actually feels like away from the beach bars.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Su Muon Pagoda. 4.4★, 508 reviews, zero tourist crowds. Save this for your Phu Quoc trip.",
+    "video_caption": "Su Muon Pagoda. 4.4★. Almost no tourists. The real Phu Quoc is in here.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #HiddenPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Nobody talks about Su Muon Pagoda. 4.4★ and 508 reviews later, it still has zero tourist crowds. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior gate of Su Muon Pagoda, slow push-in",
+      "Incense smoke rising at the altar",
+      "Monk walking across the courtyard",
+      "Close-up of prayer offerings and candles",
+      "Wide shot, empty courtyard, total stillness"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

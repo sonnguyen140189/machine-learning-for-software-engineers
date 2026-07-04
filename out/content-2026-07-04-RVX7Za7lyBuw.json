@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking Đường Trần Hưng Đạo and you almost walk past La Place coffee and eatery Phu Quoc. Don't be that person. 4.7 stars across 490 reviews. That's not luck, that's consistency. Good coffee, real food, the kind of spot that earns a second visit before you've finished the first. Save this for your Phu Quoc trip.",
+    "video_caption": "Coffee hits the table at La Place coffee and eatery Phu Quoc. 4.7 stars. 490 people weren't wrong. Đường Trần Hưng Đạo just became your new morning stop.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocFood #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked past. Doubled back. Worth it. La Place coffee and eatery Phu Quoc, 4.7★ across 490 reviews. Tag your travel buddy.",
+    "video_caption": "4.7 stars. 490 reviews. La Place coffee and eatery Phu Quoc earns every one.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocEats #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Almost skipped this cafe. Big mistake. La Place Phu Quoc, 4.7★ 490 reviews. #PhuQuoc #PhuQuocFood #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Walked past 3 times. Don't be me.",
+    "scenes": [
+      "Exterior shot: La Place signage on Đường Trần Hưng Đạo",
+      "Push through the door, reveal interior",
+      "Close-up: coffee cup lands on table",
+      "Cut to food plate arriving",
+      "Slow pan across 4.7★ rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
