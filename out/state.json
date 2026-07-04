@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJgQRYpz-MpzER_PdUT7NFsIM",
+    "ChIJCzimRUaRpzER1jlvynsq6ko",
+    "ChIJHfkAZ4WVpzERmME-KkMKRrI",
+    "ChIJj0CLlcuTpzERosWOlPYPO2k",
+    "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
+    "ChIJXWMScYiMpzERFW5SXq8DfXs",
+    "ChIJEXpOynGNpzER-yD5vqjo9-E",
+    "ChIJt4DYpuyLpzERm18CccVtFaM",
+    "ChIJa_lVMmeNpzERHonO5t2IKRg",
+    "ChIJZczOcTKNpzERDrdWOGSuTvA",
+    "ChIJW0SI6z2NpzERKixqsVMmIkI",
+    "ChIJszMWeMWNpzERVX7Za7lyBuw",
     "ChIJbd7_NgGNpzERqXUHaQ6Y6K4",
     "ChIJyaYp1AWNpzERDrMiNPAJATE",
     "ChIJhW2pjhiLpzERiG9nCVbYLxM",
@@ -187,21 +199,189 @@
     "ChIJ9T54ktqNpzERu6dsX5pZXx4",
     "ChIJMTK8cRSLpzER_q7VsEitfig",
     "ChIJbdRC8WqSpzERtGShQM46Sx8",
-    "ChIJFywM4byNpzERTsKVgNJw3vc",
-    "ChIJGetZgyyNpzERfgkTRwWcE74",
-    "ChIJJdya9E71pzERTu4abOIfjls",
-    "ChIJBz09gZgfCDERzAyxFBp-iDM",
-    "ChIJq-YgJcuNpzER37aiRi5HfVo",
-    "ChIJO-aIpaKNpzERkCLeSERC9yE",
-    "ChIJHaad39SNpzERxyH_xEG63Kg",
-    "ChIJQz9pjguLpzERt20ZmhsgK9Y",
-    "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
-    "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
-    "ChIJoXjKmgSNpzERianh5FZP7WE",
-    "ChIJB4_swjiNpzER0vsGaMBGTxg",
-    "ChIJuV0Hp8KNpzER0WP9kmtfxoo"
+    "ChIJFywM4byNpzERTsKVgNJw3vc"
   ],
   "history": [
+    {
+      "date": "2026-07-04",
+      "placeId": "ChIJgQRYpz-MpzER_PdUT7NFsIM",
+      "placeName": "Su Muon Pagoda",
+      "results": {
+        "facebookVideo": {
+          "id": "1546386323942816"
+        },
+        "instagramReel": {
+          "id": "18012870890861248"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "placeId": "ChIJCzimRUaRpzER1jlvynsq6ko",
+      "placeName": "Hộ Quốc Temple",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122112290967313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18147225028518190"
+        }
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "placeId": "ChIJHfkAZ4WVpzERmME-KkMKRrI",
+      "placeName": "Lotus Home & Cafe",
+      "results": {
+        "facebookVideo": {
+          "id": "1139765625408412"
+        },
+        "instagramReel": {
+          "id": "18133917958582943"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "placeId": "ChIJj0CLlcuTpzERosWOlPYPO2k",
+      "placeName": "Sora & Umi",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122112290211313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18103902467036045"
+        }
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "placeId": "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
+      "placeName": "The Spice House Restaurant at Cassia Cottage Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1742952583801792"
+        },
+        "instagramReel": {
+          "id": "17975556177107082"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "placeId": "ChIJXWMScYiMpzERFW5SXq8DfXs",
+      "placeName": "Saigonese Eatery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122112289467313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18461505670119001"
+        }
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "placeId": "ChIJEXpOynGNpzER-yD5vqjo9-E",
+      "placeName": "BUM Coffee",
+      "results": {
+        "facebookVideo": {
+          "id": "1306296707951300"
+        },
+        "instagramReel": {
+          "id": "18085922705637935"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "placeId": "ChIJt4DYpuyLpzERm18CccVtFaM",
+      "placeName": "On The Rock Restaurant & Beach Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122112288777313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18109688120060092"
+        }
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "placeId": "ChIJa_lVMmeNpzERHonO5t2IKRg",
+      "placeName": "Sugar Fusion Bakery",
+      "results": {
+        "facebookVideo": {
+          "id": "1540682811174950"
+        },
+        "instagramReel": {
+          "id": "18130706008715884"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "placeId": "ChIJZczOcTKNpzERDrdWOGSuTvA",
+      "placeName": "Bơ restaurant & coffee",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122112288033313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17916295644409345"
+        }
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "placeId": "ChIJW0SI6z2NpzERKixqsVMmIkI",
+      "placeName": "Bagels 'n Eggs",
+      "results": {
+        "facebookVideo": {
+          "id": "1904975046857457"
+        },
+        "instagramReel": {
+          "id": "17883756897667409"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "placeId": "ChIJszMWeMWNpzERVX7Za7lyBuw",
+      "placeName": "La Place coffee and eatery Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122112287295313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18041507957797751"
+        }
+      }
+    },
     {
       "date": "2026-07-03",
       "placeId": "ChIJbd7_NgGNpzERqXUHaQ6Y6K4",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18039244754799051"
-        }
-      }
-    },
-    {
-      "date": "2026-06-18",
-      "placeId": "ChIJGetZgyyNpzERfgkTRwWcE74",
-      "placeName": "Bãi biển Lumera Beach",
-      "results": {
-        "facebookVideo": {
-          "id": "1039430405185141"
-        },
-        "instagramReel": {
-          "id": "18039029606805010"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-18",
-      "placeId": "ChIJJdya9E71pzERTu4abOIfjls",
-      "placeName": "Milana Beach Resort & Spa Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122109590637313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18105322571002864"
-        }
-      }
-    },
-    {
-      "date": "2026-06-18",
-      "placeId": "ChIJBz09gZgfCDERzAyxFBp-iDM",
-      "placeName": "Bai Dai beach",
-      "results": {
-        "facebookVideo": {
-          "id": "1287244706501973"
-        },
-        "instagramReel": {
-          "id": "18050110010539550"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-18",
-      "placeId": "ChIJq-YgJcuNpzER37aiRi5HfVo",
-      "placeName": "Phu Quoc Beach",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122109589857313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17970773988115957"
-        }
-      }
-    },
-    {
-      "date": "2026-06-17",
-      "placeId": "ChIJO-aIpaKNpzERkCLeSERC9yE",
-      "placeName": "Vietnam Active - PADI 5 Star Diving Center Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1772614154107019"
-        },
-        "instagramReel": {
-          "id": "18186266023383987"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-17",
-      "placeId": "ChIJHaad39SNpzERxyH_xEG63Kg",
-      "placeName": "Pacific Boat",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122109365043313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18046704470581926"
-        }
-      }
-    },
-    {
-      "date": "2026-06-17",
-      "placeId": "ChIJQz9pjguLpzERt20ZmhsgK9Y",
-      "placeName": "Flipper diving club",
-      "results": {
-        "facebookVideo": {
-          "id": "976630068606805"
-        },
-        "instagramReel": {
-          "id": "17969227935089907"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-17",
-      "placeId": "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
-      "placeName": "Phil Hai Diving Club",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122109364083313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17943729657037580"
-        }
-      }
-    },
-    {
-      "date": "2026-06-17",
-      "placeId": "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
-      "placeName": "Phu Quoc Local Guide - Snorkeling and Scuba Diving",
-      "results": {
-        "facebookVideo": {
-          "id": "27634637026222020"
-        },
-        "instagramReel": {
-          "id": "18177085855370352"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-17",
-      "placeId": "ChIJoXjKmgSNpzERianh5FZP7WE",
-      "placeName": "Kimie's Tours - Snorkeling, diving, & hiking",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122109363177313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18090297509202623"
-        }
-      }
-    },
-    {
-      "date": "2026-06-17",
-      "placeId": "ChIJB4_swjiNpzER0vsGaMBGTxg",
-      "placeName": "Onbird Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "994718563534554"
-        },
-        "instagramReel": {
-          "id": "18071308553495444"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-17",
-      "placeId": "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
-      "placeName": "Into The Blue - Phu Quoc Snorkeling Boat Trip",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122109362505313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18127153852714210"
         }
       }
     }
