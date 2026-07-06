@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the big boat companies. Locals point you to Alley 91 Đường Trần Hưng Đạo.\n\nKimie's Tours runs snorkeling, diving, and hiking trips out of Phú Quốc with a 5.0-star rating across 260 reviews. That's a perfect score. Not rounded up.\n\nSmall operation. Real guides. The kind of trip you actually talk about after.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "260 reviews. 5.0 stars. Zero gimmicks. Kimie's Tours in Phú Quốc is the snorkeling and diving agency the big resorts don't mention. Here's what a day on the water actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #SnorkelingPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't mention this tour agency. 260 reviews, 5.0 stars, Alley 91 Đường Trần Hưng Đạo.\n\nSnorkeling, diving, hiking. No fluff. Tag your travel buddy.",
+    "video_caption": "Perfect 5.0 stars. 260 reviews. Kimie's Tours is the Phu Quoc agency tourists keep walking past. Don't.",
+    "hashtags": "#PhuQuocTours #SnorkelingPhuQuoc #PhuQuocTips #DivingVietnam #VietnamTravel #TravelTips #TravelReels"
+  },
+  "tiktok": {
+    "caption": "The tour agency at Alley 91 that hits 5.0 stars across 260 reviews. Don't sleep on Kimie's Tours 🤿 #PhuQuoc #PhuQuocTours #SnorkelingPhuQuoc #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Zoom in: alley 91 sign on Đường Trần Hưng Đạo",
+      "Hands pulling on snorkel gear dockside",
+      "Underwater shot: coral reef close-up",
+      "Phone screen showing 5.0 stars, 260 reviews",
+      "Hiker cresting a jungle ridge, Phú Quốc below"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you finally find a Vietnamese restaurant on Đường Trần Hưng Đạo that locals actually rate.\n\nthì là is sitting at 4.7 stars across 765 reviews. That number doesn't lie.\n\nTraditional Vietnamese food done right, no tourist markup, no gimmicks. Just solid cooking on one of Phu Quoc's busiest streets.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "765 people reviewed thì là and gave it 4.7 stars. Watch what lands on the table and you'll understand why. Đường Trần Hưng Đạo just got interesting.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you stop at thì là on Đường Trần Hưng Đạo. 4.7 stars, 765 reviews. Worth every minute.\n\nTag your travel buddy.",
+    "video_caption": "4.7 stars. 765 reviews. thì là earns it on the plate. Don't walk past this one.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamesFood"
+  },
+  "tiktok": {
+    "caption": "POV: you find thì là on Đường Trần Hưng Đạo. 4.7★, 765 reviews. Phu Quoc delivers again. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: locals eat here nightly.",
+    "scenes": [
+      "Walk up to thì là street sign",
+      "Door opens, busy local dining room",
+      "Bowls hit the table, steam rising",
+      "Close-up: fresh herbs, vibrant broth",
+      "Rating card: 4.7★ 765 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

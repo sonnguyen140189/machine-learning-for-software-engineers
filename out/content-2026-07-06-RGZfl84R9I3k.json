@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 119 reviews. One dish on the menu that matters.\n\nCua 350 at 38 Đ. 30 Tháng 4 is where locals go for crab noodle soup done right. Bowl arrives loaded. Broth is rich, crabmeat is real, price won't hurt.\n\nMost tourists eat at the resort. The ones who find this place talk about it for weeks.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the crab go in. That broth color tells you everything. Cua 350 on Đ. 30 Tháng 4, 4.9 stars and 119 people aren't exaggerating. This bowl is the move.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #CrabNoodleSoup #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 119 reviews. One crab noodle soup that earns every single one.\n\nCua 350, Đ. 30 Tháng 4. Go hungry.\n\nTag your travel buddy.",
+    "video_caption": "Crab noodle soup so good it has a 4.9 on 119 reviews. Cua 350 is the bowl Phu Quoc locals keep ordering.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamFood #TravelTips #VietnamTravel #TravelReels #PhuQuocTips #BunCua"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 119 reviews. This crab noodle soup at Cua 350 is the real deal. #PhuQuoc #PhuQuocFood #VietnamFood #FoodTok #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9 STARS. 119 REVIEWS.",
+    "scenes": [
+      "Exterior shot: sign reads Cua 350",
+      "Ladle pours deep orange broth into bowl",
+      "Crab claw placed on top, steam rising",
+      "Close-up: noodles pulled with chopsticks",
+      "Packed local tables, no tourists in sight",
+      "Text overlay: 38 Đ. 30 Tháng 4, Phú Quốc"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

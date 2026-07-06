@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this bakery. Locals on Đ. 30 Tháng 4 don't want you to find it. THU HIỀN BAKERY sits quietly in Khu 1 with a 4.6-star rating and 81 reviews from people who live here, not people on resort packages. Fresh baked goods, local prices, zero tourist markup. This is the real Phu Quoc morning routine. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what locals grab from THU HIỀN BAKERY before the tourists wake up. Khu 1, Phú Quốc. 4.6 stars. This is breakfast done right.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocTips #VisitVietnam #VietnamTravel #TravelTips #LocalEats"
+  },
+  "instagram": {
+    "caption": "Locals don't post about THU HIỀN BAKERY. 4.6 stars, 81 real reviews, zero tourist markup. Your Phu Quoc morning sorted. Save this.",
+    "video_caption": "Fresh bread, local crowd, 4.6 stars. THU HIỀN BAKERY hits different at 7am.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocEats #VietnamTravel #TravelTips #TravelReels #LocalEats #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Locals only bakery in Phú Quốc. 4.6 stars, 81 reviews. THU HIỀN BAKERY is your real breakfast stop. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Street-level shot: Đ. 30 Tháng 4 at dawn",
+      "Pan to THU HIỀN BAKERY shopfront",
+      "Local customers picking fresh baked items",
+      "Close-up: golden bread, pastries on display",
+      "Google rating 4.6 stars text overlay"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

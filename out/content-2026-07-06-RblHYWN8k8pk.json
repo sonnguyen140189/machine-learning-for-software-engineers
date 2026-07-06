@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "574 reviews. 4.5 stars. This bowl of pho at Pho Sai Gon on Phu Quoc is not flying under the radar. Locals rate it. Tourists who find it come back twice. Sit down, order fast, watch the kitchen move. Find it at 31 Đ. 30 Tháng 4, Khu 1. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the pho land on the table at Pho Sai Gon. 574 reviews don't lie. Hot broth, fresh herbs, the real deal on Phu Quoc. 31 Đ. 30 Tháng 4, Khu 1.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "574 reviews. 4.5 stars. Pho Sai Gon delivers every time. Real broth, no tourist markup. Save this for your Phu Quoc trip.",
+    "video_caption": "Hot bowl hits the table. 574 people rated Pho Sai Gon 4.5 stars. Now you know where to eat in Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "574 reviews. 4.5 stars. Pho Sai Gon on Phu Quoc is the move. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "574 reviews. 4.5 stars.",
+    "scenes": [
+      "Close-up: steaming pho bowl arrives",
+      "Hands pull apart fresh herbs",
+      "Ladle pours rich broth over noodles",
+      "Packed tables, locals eating fast",
+      "Sign: Pho Sai Gon, 31 Đ. 30 Tháng 4"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
