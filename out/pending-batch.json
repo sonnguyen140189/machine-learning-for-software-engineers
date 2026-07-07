@@ -1,519 +1,519 @@
 {
-  "stamp": "2026-07-06",
+  "stamp": "2026-07-07",
   "items": [
+    {
+      "placeId": "ChIJvc4-RWUgCDERx4AJFW81Tg4",
+      "placeName": "Phu Quoc National Park",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-07-Rx4AJFW81Tg4-0.jpg",
+        "out/media/2026-07-07-Rx4AJFW81Tg4-1.jpg",
+        "out/media/2026-07-07-Rx4AJFW81Tg4-2.jpg",
+        "out/media/2026-07-07-Rx4AJFW81Tg4-3.jpg",
+        "out/media/2026-07-07-Rx4AJFW81Tg4-4.jpg",
+        "out/media/2026-07-07-Rx4AJFW81Tg4-5.jpg",
+        "out/media/2026-07-07-Rx4AJFW81Tg4-6.jpg",
+        "out/media/2026-07-07-Rx4AJFW81Tg4-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "1,097 reviews. 4.2 stars. And most tourists never leave the beach to see it.\n\nPhu Quoc National Park is a UNESCO Biosphere Reserve covering the majority of the island. Evergreen forest, rare wildlife, and oceanic species found nowhere else on earth.\n\nMost visitors spend zero hours here. Don't be that person.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Dense forest canopy, rare birds overhead, zero sun loungers in sight. This is the side of Phu Quoc that 1,097 people rated 4.2 stars, and the beach crowd walks straight past. Share with someone planning Vietnam.",
+          "first_comment": "#PhuQuoc #PhuQuocNationalPark #VisitVietnam #TravelTips #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "1,097 reviews. 4.2 stars. Most tourists never leave the beach to find it.\n\nPhu Quoc National Park. UNESCO Biosphere Reserve. Go.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Evergreen forest. Rare wildlife. Zero crowds. Phu Quoc National Park hits different when you leave the resort behind.",
+          "hashtags": "#PhuQuocNationalPark #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #NatureVietnam #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.2 stars, 1,097 reviews, and the beach crowd walks straight past it. #PhuQuoc #PhuQuocNationalPark #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "1,097 reviews. They all saw this.",
+          "scenes": [
+            "Drone pull-back over dense forest canopy",
+            "Boots stepping onto a shaded forest trail",
+            "Close-up: rare bird perched on a branch",
+            "Wide shot: zero other tourists on the path",
+            "Text overlay: UNESCO Biosphere Reserve"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ4b-mBReLpzERO-pqk4mlARM",
+      "placeName": "Tree House Phu Quoc Restaurant and Coffee",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-07-RO-pqk4mlARM-0.jpg",
+        "out/media/2026-07-07-RO-pqk4mlARM-1.jpg",
+        "out/media/2026-07-07-RO-pqk4mlARM-2.jpg",
+        "out/media/2026-07-07-RO-pqk4mlARM-3.jpg",
+        "out/media/2026-07-07-RO-pqk4mlARM-4.jpg",
+        "out/media/2026-07-07-RO-pqk4mlARM-5.jpg",
+        "out/media/2026-07-07-RO-pqk4mlARM-6.jpg",
+        "out/media/2026-07-07-RO-pqk4mlARM-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-07-RO-pqk4mlARM.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this place in Ông Lang. 4.7 stars. 1,165 reviews. A treehouse restaurant that actually sits in the trees. Tree House Phu Quoc Restaurant and Coffee is on the quieter west coast, away from the resort strip. $15-30 a person for a full meal up in the canopy. Not on most itineraries. Should be on yours. Save this for your Phu Quoc trip.",
+          "video_caption": "Climbing up to your table at Tree House Phu Quoc Restaurant and Coffee. West coast, Ông Lang, away from the crowds. 4.7 stars and barely on the tourist radar. Your lunch spot just got an upgrade.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #OngLang #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamFood"
+        },
+        "instagram": {
+          "caption": "Tourists keep walking past this in Ông Lang. 4.7 stars, 1,165 reviews, tables literally in the trees. Tree House Phu Quoc. Tag your travel buddy.",
+          "video_caption": "Your table is up in the canopy. Tree House Phu Quoc, Ông Lang. 4.7 stars and most tourists never find it.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #OngLang #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Tourists walk straight past this. 4.7 stars in the trees, Ông Lang, Phu Quoc. Add it. #PhuQuoc #PhuQuocFood #OngLang #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Tourists keep walking past this.",
+          "scenes": [
+            "Approach through tree canopy path",
+            "Reveal wooden treehouse structure",
+            "Pan up to tables set among branches",
+            "Close-up: food arriving at treetop table",
+            "Wide shot: Ông Lang, no crowds in sight"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJh4tQxoeMpzERnVXCmClthfI",
+      "placeName": "Huong Bien Restaurant - Vietnamese Cuisine & Seafood",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-07-RnVXCmClthfI-0.jpg",
+        "out/media/2026-07-07-RnVXCmClthfI-1.jpg",
+        "out/media/2026-07-07-RnVXCmClthfI-2.jpg",
+        "out/media/2026-07-07-RnVXCmClthfI-3.jpg",
+        "out/media/2026-07-07-RnVXCmClthfI-4.jpg",
+        "out/media/2026-07-07-RnVXCmClthfI-5.jpg",
+        "out/media/2026-07-07-RnVXCmClthfI-6.jpg",
+        "out/media/2026-07-07-RnVXCmClthfI-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "778 reviews. 4.7 stars. And it sits right on 1 Võ Thị Sáu in Phú Quốc.\n\nHuong Bien Restaurant is the kind of Vietnamese seafood spot that earns that rating one bowl at a time. Fresh catch, local recipes, no resort markup.\n\nIf you're skipping the hotel restaurant tonight, this is where the number points you.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Fresh seafood hitting the table at Huong Bien Restaurant. 778 people rated this 4.7 stars and the plates tell you exactly why. Skip the resort. Eat here.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "778 reviews. 4.7 stars. Huong Bien Restaurant earns every one.\n\nFresh Vietnamese seafood at 1 Võ Thị Sáu, Phú Quốc. No fluff. Just the food.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "4.7 stars from 778 diners. Huong Bien Restaurant, Phú Quốc. Watch the plates land. Tag your travel buddy.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SeafoodVietnam"
+        },
+        "tiktok": {
+          "caption": "778 reviews don't lie. Huong Bien Restaurant, Phú Quốc. Fresh seafood, zero resort tax. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "778 reviews. 4.7 stars.",
+          "scenes": [
+            "Exterior shot: 1 Võ Thị Sáu sign visible",
+            "Whole fresh fish arriving at table",
+            "Close-up: chopsticks lift first bite",
+            "Pan across full seafood spread",
+            "Cut to review score on screen: 4.7"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ9avQtSSNpzERrhWZcMK8lbI",
+      "placeName": "Bò Tơ Quán Đảo Phú Quốc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-07-RrhWZcMK8lbI-0.jpg",
+        "out/media/2026-07-07-RrhWZcMK8lbI-1.jpg",
+        "out/media/2026-07-07-RrhWZcMK8lbI-2.jpg",
+        "out/media/2026-07-07-RrhWZcMK8lbI-3.jpg",
+        "out/media/2026-07-07-RrhWZcMK8lbI-4.jpg",
+        "out/media/2026-07-07-RrhWZcMK8lbI-5.jpg",
+        "out/media/2026-07-07-RrhWZcMK8lbI-6.jpg",
+        "out/media/2026-07-07-RrhWZcMK8lbI-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-07-RrhWZcMK8lbI.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.7 stars. 2,332 reviews. At a beef restaurant on Phú Quốc.\n\nBò Tơ Quán Đảo Phú Quốc on Đường Trần Hưng Đạo is pulling numbers most restaurants in Southeast Asia would kill for. Young beef, done right, priced at $15-30 a person. That's a serious meal without a serious bill.\n\nIf you're skipping this because you came to an island for seafood, rethink that. Save this for your Phu Quoc trip.",
+          "video_caption": "Over 2,300 people rated this place 4.7 stars. Watch what lands on the table at Bò Tơ Quán Đảo Phú Quốc. $15-30 a head. Zero complaints.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.7★ from 2,332 reviews. At a beef spot on Phu Quoc.\n\nBò Tơ Quán Đảo Phú Quốc, $15-30/person. Tag your travel buddy.",
+          "video_caption": "2,332 people can't be wrong. Bò Tơ Quán Đảo Phú Quốc hits different. $15-30 a head.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+        },
+        "tiktok": {
+          "caption": "4.7★ and 2,332 reviews on Phu Quoc. Bò Tơ Quán Đảo Phú Quốc. $15-30/person. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.7★ · 2,332 reviews.",
+          "scenes": [
+            "Street sign: Đường Trần Hưng Đạo, busy midday",
+            "Walk through entrance, busy dining room",
+            "Plates of young beef arriving at table",
+            "Close-up: sizzling beef, fresh herbs, dipping sauce",
+            "Bill arrives, reveal the total"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJvXeYrq6NpzER68wVOXl4Edg",
+      "placeName": "MEDITERRAN Greek & Italian Restaurant (pizza, pasta & souvlaki)",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-07-R68wVOXl4Edg-0.jpg",
+        "out/media/2026-07-07-R68wVOXl4Edg-1.jpg",
+        "out/media/2026-07-07-R68wVOXl4Edg-2.jpg",
+        "out/media/2026-07-07-R68wVOXl4Edg-3.jpg",
+        "out/media/2026-07-07-R68wVOXl4Edg-4.jpg",
+        "out/media/2026-07-07-R68wVOXl4Edg-5.jpg",
+        "out/media/2026-07-07-R68wVOXl4Edg-6.jpg",
+        "out/media/2026-07-07-R68wVOXl4Edg-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.8 stars. 977 reviews. On an island full of seafood spots.\n\nMEDITERRAN is doing something right. Pizza, pasta, and souvlaki on Đường Trần Hưng Đạo, and the crowd keeps coming back. When a Greek-Italian restaurant outranks most places in Phu Quoc, you pay attention.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Wood-fired crust, souvlaki skewers, and a rating of 4.8 across 977 reviews. MEDITERRAN on Đường Trần Hưng Đạo is not what you expect to find in Phu Quoc. Go anyway.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.8 stars. 977 reviews. Greek and Italian in Phu Quoc.\n\nMEDITERRAN delivers. Tag your travel buddy.",
+          "video_caption": "Souvlaki skewers hitting the grill in Phu Quoc. 977 people rated this 4.8. MEDITERRAN earns it.",
+          "hashtags": "#PhuQuocRestaurants #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+        },
+        "tiktok": {
+          "caption": "4.8 stars, 977 reviews, Greek food in Phu Quoc. MEDITERRAN is the one. #PhuQuoc #PhuQuocFood #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.8★ across 977 reviews.",
+          "scenes": [
+            "Close-up: pizza sliding out of oven",
+            "Souvlaki skewers on the grill, smoke rising",
+            "Pasta plated, fork twirling into frame",
+            "Wide shot: busy tables, warm lighting",
+            "Sign: MEDITERRAN, Đường Trần Hưng Đạo"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ9aynZwqTpzERWnZQfpFyViY",
+      "placeName": "SEN Restaurant",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-07-RWnZQfpFyViY-0.jpg",
+        "out/media/2026-07-07-RWnZQfpFyViY-1.jpg",
+        "out/media/2026-07-07-RWnZQfpFyViY-2.jpg",
+        "out/media/2026-07-07-RWnZQfpFyViY-3.jpg",
+        "out/media/2026-07-07-RWnZQfpFyViY-4.jpg",
+        "out/media/2026-07-07-RWnZQfpFyViY-5.jpg",
+        "out/media/2026-07-07-RWnZQfpFyViY-6.jpg",
+        "out/media/2026-07-07-RWnZQfpFyViY-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-07-RWnZQfpFyViY.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.7 stars. 3,944 reviews. At a resort seafood restaurant in Phu Quoc.\n\nSEN Restaurant inside Sonasea Villas & Resort on Đường Bào is pulling numbers that most standalone spots never hit. Fresh seafood, resort-level setting, and a rating that doesn't lie.\n\nIf you're staying near Đường Bào or just passing through, this one earns the detour.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Nearly 4,000 people rated SEN Restaurant 4.7 stars. Watch what lands on the table. Seafood this fresh inside a resort on Đường Bào, Phu Quoc. The reviews make sense the second you sit down.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.7 stars across 3,944 reviews. SEN Restaurant at Sonasea earns every one.\n\nFresh seafood, resort setting, Đường Bào. Save this.",
+          "video_caption": "3,944 reviews. 4.7 stars. SEN Restaurant at Sonasea just delivered. Phu Quoc seafood at this level hits different.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SeafoodLovers"
+        },
+        "tiktok": {
+          "caption": "3,944 reviews can't be wrong. SEN Restaurant at Sonasea, Phu Quoc. Go. #PhuQuoc #PhuQuocFood #PhuQuocTips"
+        },
+        "video_script": {
+          "hook": "3,944 reviews. 4.7 stars.",
+          "scenes": [
+            "Aerial pull into Sonasea resort grounds",
+            "Walk through entrance toward SEN Restaurant",
+            "Server places whole fresh seafood on table",
+            "Close-up: shell cracking, steam rising",
+            "Wide shot: full table spread, water in background",
+            "Rating graphic: 4.7★ 3,944 reviews fades in"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJwSdWbnOSpzERcscE5r9ek2c",
+      "placeName": "Ricordo Restaurant",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-07-RcscE5r9ek2c-0.jpg",
+        "out/media/2026-07-07-RcscE5r9ek2c-1.jpg",
+        "out/media/2026-07-07-RcscE5r9ek2c-2.jpg",
+        "out/media/2026-07-07-RcscE5r9ek2c-3.jpg",
+        "out/media/2026-07-07-RcscE5r9ek2c-4.jpg",
+        "out/media/2026-07-07-RcscE5r9ek2c-5.jpg",
+        "out/media/2026-07-07-RcscE5r9ek2c-6.jpg",
+        "out/media/2026-07-07-RcscE5r9ek2c-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "5,831 reviews. 4.8 stars. At an Italian restaurant in Phu Quoc.\n\nRicordo Restaurant inside Mojo Boutique Hotel is doing numbers that most places in Europe can't touch. Fresh pasta, proper wood-fired flavor, cold wine, and zero tourist-trap energy.\n\nIf you're staying near Sonasea or just passing through Đường Bào, this one is worth a detour.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the plates land at Ricordo. 4.8 stars across 5,831 reviews. Italian food in Phu Quoc that actually delivers. Inside Mojo Boutique Hotel, Sonasea area.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #ItalianFood #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "5,831 reviews. 4.8 stars. Italian food in Phu Quoc.\n\nRicordo Restaurant at Mojo Boutique Hotel is not a fluke.\n\nTag your travel buddy.",
+          "video_caption": "Plates arriving at Ricordo. 4.8 stars. 5,831 people already know. Now you do.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #ItalianFoodVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "4.8 stars. 5,831 reviews. Italian food in Phu Quoc hits different. #PhuQuoc #PhuQuocFood #ItalianFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "5,831 reviews. 4.8 stars.",
+          "scenes": [
+            "Exterior shot: Mojo Boutique Hotel entrance",
+            "Pan across a full dining room",
+            "Close-up: pasta plated, steam rising",
+            "Pour shot: wine hitting glass",
+            "Rating graphic: 4.8 stars, 5,831 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJU7w5JACLpzERVi8kHyjAe-0",
+      "placeName": "Dina Restaurant",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-07-RVi8kHyjAe-0-0.jpg",
+        "out/media/2026-07-07-RVi8kHyjAe-0-1.jpg",
+        "out/media/2026-07-07-RVi8kHyjAe-0-2.jpg",
+        "out/media/2026-07-07-RVi8kHyjAe-0-3.jpg",
+        "out/media/2026-07-07-RVi8kHyjAe-0-4.jpg",
+        "out/media/2026-07-07-RVi8kHyjAe-0-5.jpg",
+        "out/media/2026-07-07-RVi8kHyjAe-0-6.jpg",
+        "out/media/2026-07-07-RVi8kHyjAe-0-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-07-RVi8kHyjAe-0.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you take a wrong turn on Đường Dinh Bà and stumble into the only restaurant in Ông Lang with a perfect 5.0 star rating.\n\nDina Restaurant. 235 reviews. Zero complaints.\n\nÔng Lang is already off the main drag. Dina is the reason locals point you toward it. Small spot. Big reputation.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "235 people gave this place 5 stars. Watch what lands on the table and you'll understand why. Dina Restaurant, Ông Lang, Phu Quoc.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: random street in Ông Lang. 5.0 stars. 235 reviews. Dina Restaurant delivers.\n\nTag your travel buddy.",
+          "video_caption": "5.0 stars. 235 reviews. Watch the food hit the table at Dina Restaurant, Ông Lang.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #OngLang #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "POV: wrong turn. Perfect 5-star dinner. Dina Restaurant in Ông Lang, Phu Quoc. #PhuQuoc #PhuQuocFood #TravelTips"
+        },
+        "video_script": {
+          "hook": "POV: 5.0 stars. Wrong turn.",
+          "scenes": [
+            "Slow pan down Đường Dinh Bà",
+            "Dina Restaurant sign comes into frame",
+            "Busy tables, food arriving",
+            "Close-up: plates land on table",
+            "Pull back to full dining scene"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
     {
       "placeId": "ChIJiamiNwCNpzERGZfl84R9I3k",
       "placeName": "Cua 350 – Crab Noodle Soup Phu Quoc",
       "mode": "photo",
       "photoPaths": [
-        "out/media/2026-07-06-RGZfl84R9I3k-0.jpg",
-        "out/media/2026-07-06-RGZfl84R9I3k-1.jpg",
-        "out/media/2026-07-06-RGZfl84R9I3k-2.jpg",
-        "out/media/2026-07-06-RGZfl84R9I3k-3.jpg",
-        "out/media/2026-07-06-RGZfl84R9I3k-4.jpg",
-        "out/media/2026-07-06-RGZfl84R9I3k-5.jpg",
-        "out/media/2026-07-06-RGZfl84R9I3k-6.jpg",
-        "out/media/2026-07-06-RGZfl84R9I3k-7.jpg"
+        "out/media/2026-07-07-RGZfl84R9I3k-0.jpg",
+        "out/media/2026-07-07-RGZfl84R9I3k-1.jpg",
+        "out/media/2026-07-07-RGZfl84R9I3k-2.jpg",
+        "out/media/2026-07-07-RGZfl84R9I3k-3.jpg",
+        "out/media/2026-07-07-RGZfl84R9I3k-4.jpg",
+        "out/media/2026-07-07-RGZfl84R9I3k-5.jpg",
+        "out/media/2026-07-07-RGZfl84R9I3k-6.jpg",
+        "out/media/2026-07-07-RGZfl84R9I3k-7.jpg"
       ],
       "videoPath": null,
       "content": {
         "hookArchetype": "NUMBER_REVEAL",
         "facebook": {
-          "caption": "4.9 stars. 119 reviews. One dish on the menu that matters.\n\nCua 350 at 38 Đ. 30 Tháng 4 is where locals go for crab noodle soup done right. Bowl arrives loaded. Broth is rich, crabmeat is real, price won't hurt.\n\nMost tourists eat at the resort. The ones who find this place talk about it for weeks.\n\nSave this for your Phu Quoc trip.",
-          "video_caption": "Watch the crab go in. That broth color tells you everything. Cua 350 on Đ. 30 Tháng 4, 4.9 stars and 119 people aren't exaggerating. This bowl is the move.",
-          "first_comment": "#PhuQuoc #PhuQuocFood #CrabNoodleSoup #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+          "caption": "4.9 stars. 119 reviews. One dish on every table.\n\nCua 350 is a no-frills bistro on Đ. 30 Tháng 4 that locals keep going back to for one reason: the crab noodle soup hits every time. Thick broth, fresh crab, bowls that disappear fast.\n\nNo fancy signage. No tourist menus. Just a 4.9 you have to earn.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the broth pour. That color alone tells you everything. Cua 350 is pulling 4.9 stars in Phu Quoc and the crab noodle soup is why. Find it at 38 Đ. 30 Tháng 4.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
         },
         "instagram": {
-          "caption": "4.9 stars. 119 reviews. One crab noodle soup that earns every single one.\n\nCua 350, Đ. 30 Tháng 4. Go hungry.\n\nTag your travel buddy.",
-          "video_caption": "Crab noodle soup so good it has a 4.9 on 119 reviews. Cua 350 is the bowl Phu Quoc locals keep ordering.",
-          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamFood #TravelTips #VietnamTravel #TravelReels #PhuQuocTips #BunCua"
+          "caption": "4.9 stars. 119 reviews. Crab noodle soup that earns every one.\n\nCua 350, Đ. 30 Tháng 4. Add it to the list.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Locals keep coming back. 4.9 stars at Cua 350 and the crab noodle soup does all the talking.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodTravelAsia"
         },
         "tiktok": {
-          "caption": "4.9 stars. 119 reviews. This crab noodle soup at Cua 350 is the real deal. #PhuQuoc #PhuQuocFood #VietnamFood #FoodTok #TravelTips"
+          "caption": "4.9 stars in Phu Quoc. The crab noodle soup at Cua 350 is the reason. #PhuQuoc #PhuQuocFood #VietnamTravel"
         },
         "video_script": {
           "hook": "4.9 STARS. 119 REVIEWS.",
           "scenes": [
-            "Exterior shot: sign reads Cua 350",
-            "Ladle pours deep orange broth into bowl",
-            "Crab claw placed on top, steam rising",
-            "Close-up: noodles pulled with chopsticks",
-            "Packed local tables, no tourists in sight",
-            "Text overlay: 38 Đ. 30 Tháng 4, Phú Quốc"
+            "Close-up: steaming bowl lands on table",
+            "Ladle scoops thick amber broth",
+            "Whole crab pieces piled on noodles",
+            "Pull back: packed local bistro, no tourists",
+            "Zoom in: 4.9-star rating on phone screen"
           ],
           "cta": "Save this for your Phu Quoc trip."
         }
       }
     },
     {
-      "placeId": "ChIJlSRlw5KNpzER9K0k_h7wn_A",
-      "placeName": "thì là",
+      "placeId": "ChIJd8N-u3CPpzERe2DX-mg_nWE",
+      "placeName": "Suoi Tranh Waterfall",
       "mode": "video",
       "photoPaths": [
-        "out/media/2026-07-06-R9K0k_h7wn_A-0.jpg",
-        "out/media/2026-07-06-R9K0k_h7wn_A-1.jpg",
-        "out/media/2026-07-06-R9K0k_h7wn_A-2.jpg",
-        "out/media/2026-07-06-R9K0k_h7wn_A-3.jpg",
-        "out/media/2026-07-06-R9K0k_h7wn_A-4.jpg",
-        "out/media/2026-07-06-R9K0k_h7wn_A-5.jpg",
-        "out/media/2026-07-06-R9K0k_h7wn_A-6.jpg",
-        "out/media/2026-07-06-R9K0k_h7wn_A-7.jpg"
+        "out/media/2026-07-07-Re2DX-mg_nWE-0.jpg",
+        "out/media/2026-07-07-Re2DX-mg_nWE-1.jpg",
+        "out/media/2026-07-07-Re2DX-mg_nWE-2.jpg",
+        "out/media/2026-07-07-Re2DX-mg_nWE-3.jpg",
+        "out/media/2026-07-07-Re2DX-mg_nWE-4.jpg",
+        "out/media/2026-07-07-Re2DX-mg_nWE-5.jpg",
+        "out/media/2026-07-07-Re2DX-mg_nWE-6.jpg",
+        "out/media/2026-07-07-Re2DX-mg_nWE-7.jpg"
       ],
-      "videoPath": "out/media/2026-07-06-R9K0k_h7wn_A.mp4",
-      "content": {
-        "hookArchetype": "POV_REVEAL",
-        "facebook": {
-          "caption": "POV: you finally find a Vietnamese restaurant on Đường Trần Hưng Đạo that locals actually rate.\n\nthì là is sitting at 4.7 stars across 765 reviews. That number doesn't lie.\n\nTraditional Vietnamese food done right, no tourist markup, no gimmicks. Just solid cooking on one of Phu Quoc's busiest streets.\n\nSave this for your Phu Quoc trip.",
-          "video_caption": "765 people reviewed thì là and gave it 4.7 stars. Watch what lands on the table and you'll understand why. Đường Trần Hưng Đạo just got interesting.",
-          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
-        },
-        "instagram": {
-          "caption": "POV: you stop at thì là on Đường Trần Hưng Đạo. 4.7 stars, 765 reviews. Worth every minute.\n\nTag your travel buddy.",
-          "video_caption": "4.7 stars. 765 reviews. thì là earns it on the plate. Don't walk past this one.",
-          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamesFood"
-        },
-        "tiktok": {
-          "caption": "POV: you find thì là on Đường Trần Hưng Đạo. 4.7★, 765 reviews. Phu Quoc delivers again. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
-        },
-        "video_script": {
-          "hook": "POV: locals eat here nightly.",
-          "scenes": [
-            "Walk up to thì là street sign",
-            "Door opens, busy local dining room",
-            "Bowls hit the table, steam rising",
-            "Close-up: fresh herbs, vibrant broth",
-            "Rating card: 4.7★ 765 reviews"
-          ],
-          "cta": "Save this for your Phu Quoc trip."
-        }
-      }
-    },
-    {
-      "placeId": "ChIJP-wbXH2MpzERblHYWN8k8pk",
-      "placeName": "Pho Sai Gon",
-      "mode": "photo",
-      "photoPaths": [
-        "out/media/2026-07-06-RblHYWN8k8pk-0.jpg",
-        "out/media/2026-07-06-RblHYWN8k8pk-1.jpg",
-        "out/media/2026-07-06-RblHYWN8k8pk-2.jpg",
-        "out/media/2026-07-06-RblHYWN8k8pk-3.jpg",
-        "out/media/2026-07-06-RblHYWN8k8pk-4.jpg",
-        "out/media/2026-07-06-RblHYWN8k8pk-5.jpg",
-        "out/media/2026-07-06-RblHYWN8k8pk-6.jpg",
-        "out/media/2026-07-06-RblHYWN8k8pk-7.jpg"
-      ],
-      "videoPath": null,
+      "videoPath": "out/media/2026-07-07-Re2DX-mg_nWE.mp4",
       "content": {
         "hookArchetype": "NUMBER_REVEAL",
         "facebook": {
-          "caption": "574 reviews. 4.5 stars. This bowl of pho at Pho Sai Gon on Phu Quoc is not flying under the radar. Locals rate it. Tourists who find it come back twice. Sit down, order fast, watch the kitchen move. Find it at 31 Đ. 30 Tháng 4, Khu 1. Save this for your Phu Quoc trip.",
-          "video_caption": "Watch the pho land on the table at Pho Sai Gon. 574 reviews don't lie. Hot broth, fresh herbs, the real deal on Phu Quoc. 31 Đ. 30 Tháng 4, Khu 1.",
-          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+          "caption": "547 reviews. 4 stars. And most tourists still drive straight past Suoi Tranh Waterfall.\n\nThis is one of Phu Quoc's few freshwater spots worth the detour. Trails, natural pools, and actual shade, something the beaches can't give you on a 35°C afternoon.\n\nCoordinates are on the map. Go early. Crowds build by midday.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Walking into Suoi Tranh Waterfall while everyone else is melting on the beach. 547 people rated this 4 stars. Now you know why. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocNature #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #TravelTips"
         },
         "instagram": {
-          "caption": "574 reviews. 4.5 stars. Pho Sai Gon delivers every time. Real broth, no tourist markup. Save this for your Phu Quoc trip.",
-          "video_caption": "Hot bowl hits the table. 574 people rated Pho Sai Gon 4.5 stars. Now you know where to eat in Phu Quoc.",
-          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+          "caption": "547 reviews. 4 stars. Still not on most tourist maps.\nSuoi Tranh Waterfall is your Phu Quoc cooldown. Save this.",
+          "video_caption": "Freshwater, real trails, actual shade. Suoi Tranh Waterfall hits different at 35°C.",
+          "hashtags": "#PhuQuocNature #PhuQuocTips #PhuQuocWaterfall #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
         },
         "tiktok": {
-          "caption": "574 reviews. 4.5 stars. Pho Sai Gon on Phu Quoc is the move. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+          "caption": "547 people rated this 4 stars and tourists STILL skip it. Suoi Tranh Waterfall, Phu Quoc. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
         },
         "video_script": {
-          "hook": "574 reviews. 4.5 stars.",
+          "hook": "547 reviews. Still empty.",
           "scenes": [
-            "Close-up: steaming pho bowl arrives",
-            "Hands pull apart fresh herbs",
-            "Ladle pours rich broth over noodles",
-            "Packed tables, locals eating fast",
-            "Sign: Pho Sai Gon, 31 Đ. 30 Tháng 4"
+            "Drone shot: jungle canopy, trail entrance",
+            "Feet stepping onto mossy rocks",
+            "Water cascading into natural pool",
+            "Visitor wading in, relief on face",
+            "Wide shot: lush green, no crowds"
           ],
           "cta": "Save this for your Phu Quoc trip."
         }
       }
     },
     {
-      "placeId": "ChIJbWwp_zj1pzERg-_J_57c0UA",
-      "placeName": "Green Bay Phu Quoc Resort & Spa",
-      "mode": "video",
-      "photoPaths": [
-        "out/media/2026-07-06-Rg-_J_57c0UA-0.jpg",
-        "out/media/2026-07-06-Rg-_J_57c0UA-1.jpg",
-        "out/media/2026-07-06-Rg-_J_57c0UA-2.jpg",
-        "out/media/2026-07-06-Rg-_J_57c0UA-3.jpg",
-        "out/media/2026-07-06-Rg-_J_57c0UA-4.jpg",
-        "out/media/2026-07-06-Rg-_J_57c0UA-5.jpg",
-        "out/media/2026-07-06-Rg-_J_57c0UA-6.jpg",
-        "out/media/2026-07-06-Rg-_J_57c0UA-7.jpg"
-      ],
-      "videoPath": "out/media/2026-07-06-Rg-_J_57c0UA.mp4",
-      "content": {
-        "hookArchetype": "EMOTIONAL_HIT",
-        "facebook": {
-          "caption": "This place fixes burnout. Green Bay Phu Quoc Resort & Spa sits right on the beach, bungalows steps from the water, open-air restaurants where the breeze does the work. 4.8 stars across 961 reviews. Not luck. Consistency. Two restaurants, a full spa, beachfront villas. Phu Quoc at its quietest and most restorative. Save this for your Phu Quoc trip.",
-          "video_caption": "Beachfront bungalow doors open straight to the sand. Green Bay Phu Quoc Resort & Spa, 4.8 stars, 961 reviews. Dinner at an open-air restaurant with the ocean right there. This is what recovery looks like. Tag your travel buddy.",
-          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
-        },
-        "instagram": {
-          "caption": "This place fixes burnout. Beachfront bungalows, spa, open-air dinners. Green Bay Phu Quoc Resort & Spa, 4.8★, 961 reviews. Save this.",
-          "video_caption": "Bungalow. Beach. Spa. 4.8 stars. Green Bay Phu Quoc Resort & Spa delivers every time. Tag your travel buddy.",
-          "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachResort"
-        },
-        "tiktok": {
-          "caption": "Burnout cure found. Beachfront bungalows + spa + 4.8★ #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
-        },
-        "video_script": {
-          "hook": "This place fixes burnout.",
-          "scenes": [
-            "Bungalow door opens to white sand beach",
-            "Aerial pull-back of beachfront villas",
-            "Spa room, dim light, stone bath",
-            "Open-air restaurant, waves in background",
-            "Guest walking barefoot to the water at dusk"
-          ],
-          "cta": "Save this for your Phu Quoc trip."
-        }
-      }
-    },
-    {
-      "placeId": "ChIJ4YZT316MpzERCRfSDHQgbtk",
-      "placeName": "Cassia Cottage Resort & Spa Phu Quoc",
+      "placeId": "ChIJCxSJFRGPpzERvq1ZTl4QO8c",
+      "placeName": "Fairy Waterfall",
       "mode": "photo",
       "photoPaths": [
-        "out/media/2026-07-06-RCRfSDHQgbtk-0.jpg",
-        "out/media/2026-07-06-RCRfSDHQgbtk-1.jpg",
-        "out/media/2026-07-06-RCRfSDHQgbtk-2.jpg",
-        "out/media/2026-07-06-RCRfSDHQgbtk-3.jpg",
-        "out/media/2026-07-06-RCRfSDHQgbtk-4.jpg",
-        "out/media/2026-07-06-RCRfSDHQgbtk-5.jpg",
-        "out/media/2026-07-06-RCRfSDHQgbtk-6.jpg",
-        "out/media/2026-07-06-RCRfSDHQgbtk-7.jpg"
-      ],
-      "videoPath": null,
-      "content": {
-        "hookArchetype": "EMOTIONAL_HIT",
-        "facebook": {
-          "caption": "This place fixes burnout. Cassia Cottage Resort & Spa sits on a private beach on Đường Trần Hưng Đạo, and it delivers exactly what that sounds like. Outdoor pools. A beach bar. A restaurant that doesn't ask you to leave. 4.6 stars across 1,390 reviews backs it up. Book a few nights and actually slow down. Save this for your Phu Quoc trip.",
-          "video_caption": "Private beach. Beach bar. Outdoor pool. Cassia Cottage Resort & Spa on Đường Trần Hưng Đạo is 4.6 stars for a reason. Tag your travel buddy who needs this.",
-          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
-        },
-        "instagram": {
-          "caption": "This place fixes burnout. Private beach, outdoor pools, beach bar. Cassia Cottage Resort & Spa, 4.6★ across 1,390 reviews. Save this.",
-          "video_caption": "Pool. Private beach. Beach bar. Cassia Cottage delivers. 4.6★, 1,390 reviews. Tag who you're bringing.",
-          "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachResort"
-        },
-        "tiktok": {
-          "caption": "Private beach + beach bar + outdoor pool. Cassia Cottage Resort is 4.6★ for a reason. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
-        },
-        "video_script": {
-          "hook": "This place fixes burnout.",
-          "scenes": [
-            "Aerial shot of private beach at golden hour",
-            "Close-up: cold drink lands on beach bar counter",
-            "Wide pan across outdoor pool, no crowds",
-            "Guest walks from pool directly to beach",
-            "Restaurant table, food arrives, ocean behind"
-          ],
-          "cta": "Save this for your Phu Quoc trip."
-        }
-      }
-    },
-    {
-      "placeId": "ChIJSTGCnBuLpzERx2KCLdVFKIk",
-      "placeName": "Mövenpick Resort Waverly Phu Quoc",
-      "mode": "video",
-      "photoPaths": [
-        "out/media/2026-07-06-Rx2KCLdVFKIk-0.jpg",
-        "out/media/2026-07-06-Rx2KCLdVFKIk-1.jpg",
-        "out/media/2026-07-06-Rx2KCLdVFKIk-2.jpg",
-        "out/media/2026-07-06-Rx2KCLdVFKIk-3.jpg",
-        "out/media/2026-07-06-Rx2KCLdVFKIk-4.jpg",
-        "out/media/2026-07-06-Rx2KCLdVFKIk-5.jpg",
-        "out/media/2026-07-06-Rx2KCLdVFKIk-6.jpg",
-        "out/media/2026-07-06-Rx2KCLdVFKIk-7.jpg"
-      ],
-      "videoPath": "out/media/2026-07-06-Rx2KCLdVFKIk.mp4",
-      "content": {
-        "hookArchetype": "NUMBER_REVEAL",
-        "facebook": {
-          "caption": "4.7 stars. 4,963 reviews. And somehow Mövenpick Resort Waverly Phú Quốc still flies under the radar.\n\nBeachfront access at Ong Lang. Two restaurants, a full spa, and a pool that actually has space. Not the overdeveloped south coast crowds. Quieter side of the island, serious resort quality.\n\nThis is the Phu Quoc upgrade most visitors don't book in time. Save this for your Phu Quoc trip.",
-          "video_caption": "Pool. Spa. Private beach stretch at Ong Lang. Mövenpick Resort Waverly Phú Quốc earns every one of its 4,963 reviews, and the quieter north shore makes it hit differently. Tag your travel buddy.",
-          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
-        },
-        "instagram": {
-          "caption": "4,963 reviews. 4.7 stars. Mövenpick Resort Waverly Phú Quốc delivers.\n\nBeachfront, spa, 2 restaurants. Ong Lang side, so no south-coast chaos. Save this for your Phu Quoc trip.",
-          "video_caption": "Beachfront pool at Ong Lang. This is what 4.7 stars actually looks like at Mövenpick Resort Waverly Phú Quốc.",
-          "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
-        },
-        "tiktok": {
-          "caption": "4,963 reviews and somehow still not overrun. Mövenpick Resort Waverly Phú Quốc, Ong Lang beach side. #PhuQuoc #PhuQuocResort #VietnamTravel"
-        },
-        "video_script": {
-          "hook": "4,963 reviews. Worth it?",
-          "scenes": [
-            "Drone pulls back over Ong Lang beachfront",
-            "Pool deck, barely anyone in frame",
-            "Restaurant interior, chic low lighting",
-            "Spa treatment room door opens slowly",
-            "Guest walks private beach stretch at sunset"
-          ],
-          "cta": "Save this for your Phu Quoc trip."
-        }
-      }
-    },
-    {
-      "placeId": "ChIJP5q2Xn2MpzERflLoidf2YAg",
-      "placeName": "THU HIỀN BAKERY",
-      "mode": "photo",
-      "photoPaths": [
-        "out/media/2026-07-06-RflLoidf2YAg-0.jpg",
-        "out/media/2026-07-06-RflLoidf2YAg-1.jpg",
-        "out/media/2026-07-06-RflLoidf2YAg-2.jpg",
-        "out/media/2026-07-06-RflLoidf2YAg-3.jpg",
-        "out/media/2026-07-06-RflLoidf2YAg-4.jpg",
-        "out/media/2026-07-06-RflLoidf2YAg-5.jpg",
-        "out/media/2026-07-06-RflLoidf2YAg-6.jpg",
-        "out/media/2026-07-06-RflLoidf2YAg-7.jpg"
-      ],
-      "videoPath": null,
-      "content": {
-        "hookArchetype": "LOCALS_DONT_TELL",
-        "facebook": {
-          "caption": "Tourists keep walking past this bakery. Locals on Đ. 30 Tháng 4 don't want you to find it. THU HIỀN BAKERY sits quietly in Khu 1 with a 4.6-star rating and 81 reviews from people who live here, not people on resort packages. Fresh baked goods, local prices, zero tourist markup. This is the real Phu Quoc morning routine. Save this for your Phu Quoc trip.",
-          "video_caption": "Watch what locals grab from THU HIỀN BAKERY before the tourists wake up. Khu 1, Phú Quốc. 4.6 stars. This is breakfast done right.",
-          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocTips #VisitVietnam #VietnamTravel #TravelTips #LocalEats"
-        },
-        "instagram": {
-          "caption": "Locals don't post about THU HIỀN BAKERY. 4.6 stars, 81 real reviews, zero tourist markup. Your Phu Quoc morning sorted. Save this.",
-          "video_caption": "Fresh bread, local crowd, 4.6 stars. THU HIỀN BAKERY hits different at 7am.",
-          "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocEats #VietnamTravel #TravelTips #TravelReels #LocalEats #PhuQuoc"
-        },
-        "tiktok": {
-          "caption": "Locals only bakery in Phú Quốc. 4.6 stars, 81 reviews. THU HIỀN BAKERY is your real breakfast stop. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
-        },
-        "video_script": {
-          "hook": "Locals don't post about this.",
-          "scenes": [
-            "Street-level shot: Đ. 30 Tháng 4 at dawn",
-            "Pan to THU HIỀN BAKERY shopfront",
-            "Local customers picking fresh baked items",
-            "Close-up: golden bread, pastries on display",
-            "Google rating 4.6 stars text overlay"
-          ],
-          "cta": "Save this for your Phu Quoc trip."
-        }
-      }
-    },
-    {
-      "placeId": "ChIJz-FucgSNpzERjZlTcooFwcY",
-      "placeName": "LAN CHI BAKERY",
-      "mode": "video",
-      "photoPaths": [
-        "out/media/2026-07-06-RjZlTcooFwcY-0.jpg",
-        "out/media/2026-07-06-RjZlTcooFwcY-1.jpg",
-        "out/media/2026-07-06-RjZlTcooFwcY-2.jpg",
-        "out/media/2026-07-06-RjZlTcooFwcY-3.jpg",
-        "out/media/2026-07-06-RjZlTcooFwcY-4.jpg",
-        "out/media/2026-07-06-RjZlTcooFwcY-5.jpg",
-        "out/media/2026-07-06-RjZlTcooFwcY-6.jpg",
-        "out/media/2026-07-06-RjZlTcooFwcY-7.jpg"
-      ],
-      "videoPath": "out/media/2026-07-06-RjZlTcooFwcY.mp4",
-      "content": {
-        "hookArchetype": "LOCALS_DONT_TELL",
-        "facebook": {
-          "caption": "Tourists keep walking past this bakery. Locals on Hùng Vương know better. Lan Chi Bakery is the kind of spot that fills up before most resorts serve breakfast. No English menu board. No tourist markup. Just fresh baked goods and a line that tells you everything. Find it at 8E-8F Hùng Vương, Phú Quốc. Save this for your Phu Quoc trip.",
-          "video_caption": "Fresh out the oven, 8E-8F Hùng Vương. Lan Chi Bakery gets busy fast. This is what the locals on Hùng Vương grab before work. No frills, no resort prices, just the real thing. Tag your travel buddy.",
-          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocTips #VisitVietnam #VietnamTravel"
-        },
-        "instagram": {
-          "caption": "Tourists keep walking past Lan Chi Bakery. Locals don't. 8E-8F Hùng Vương, Phú Quốc. Save this.",
-          "video_caption": "Locals grab from Lan Chi Bakery before tourists even wake up. Hùng Vương, Phú Quốc.",
-          "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocBakery #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
-        },
-        "tiktok": {
-          "caption": "The bakery locals don't post about. Hùng Vương, Phú Quốc. Go early. #PhuQuoc #PhuQuocFood #PhuQuocTips"
-        },
-        "video_script": {
-          "hook": "Locals don't post this bakery.",
-          "scenes": [
-            "Exterior shot: 8E-8F Hùng Vương storefront",
-            "Locals queuing, no tourists in sight",
-            "Hands picking fresh baked items from tray",
-            "Close-up: golden crust, steam rising",
-            "Street view: busy Hùng Vương morning traffic"
-          ],
-          "cta": "Save this for your Phu Quoc trip."
-        }
-      }
-    },
-    {
-      "placeId": "ChIJY51jukWNpzERBnJIibco67U",
-      "placeName": "AM PM - Specialty Coffee and Wine bar",
-      "mode": "photo",
-      "photoPaths": [
-        "out/media/2026-07-06-RBnJIibco67U-0.jpg",
-        "out/media/2026-07-06-RBnJIibco67U-1.jpg",
-        "out/media/2026-07-06-RBnJIibco67U-2.jpg",
-        "out/media/2026-07-06-RBnJIibco67U-3.jpg",
-        "out/media/2026-07-06-RBnJIibco67U-4.jpg",
-        "out/media/2026-07-06-RBnJIibco67U-5.jpg",
-        "out/media/2026-07-06-RBnJIibco67U-6.jpg",
-        "out/media/2026-07-06-RBnJIibco67U-7.jpg"
+        "out/media/2026-07-07-Rvq1ZTl4QO8c-0.jpg",
+        "out/media/2026-07-07-Rvq1ZTl4QO8c-1.jpg",
+        "out/media/2026-07-07-Rvq1ZTl4QO8c-2.jpg",
+        "out/media/2026-07-07-Rvq1ZTl4QO8c-3.jpg",
+        "out/media/2026-07-07-Rvq1ZTl4QO8c-4.jpg",
+        "out/media/2026-07-07-Rvq1ZTl4QO8c-5.jpg",
+        "out/media/2026-07-07-Rvq1ZTl4QO8c-6.jpg",
+        "out/media/2026-07-07-Rvq1ZTl4QO8c-7.jpg"
       ],
       "videoPath": null,
       "content": {
         "hookArchetype": "POV_REVEAL",
         "facebook": {
-          "caption": "POV: you're walking Đường Trần Hưng Đạo and spot a coffee bar that does specialty brews AND wine. Same place. Same menu. AM PM delivers both, and the 4.8-star rating from 160 reviews backs it up. Morning cold brew or evening glass, this spot works either way. Save this for your Phu Quoc trip.",
-          "video_caption": "Specialty coffee at sunrise. Wine by sunset. AM PM on Đường Trần Hưng Đạo pulls off both, and 160 reviewers gave it 4.8 stars. Watch this one.",
-          "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocTips #VisitVietnam #TravelTips"
+          "caption": "POV: you took the wrong road in Phu Quoc and found a waterfall. Fairy Waterfall is one of those spots most tourists drive straight past. 4.2 stars, 198 reviews, and somehow still quiet when you show up. Bring water shoes. The rocks are slippery. Worth every step. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the moment the trail opens up at Fairy Waterfall. Cool water, real jungle, zero resort energy. This is Phu Quoc off the beach.",
+          "first_comment": "#PhuQuoc #PhuQuocWaterfall #PhuQuocNature #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #VietnamTravel"
         },
         "instagram": {
-          "caption": "POV: one café. Morning espresso. Evening wine. AM PM rated 4.8★ across 160 reviews. Tag your travel buddy.",
-          "video_caption": "Coffee bar to wine bar without moving seats. AM PM on Đường Trần Hưng Đạo. 4.8 stars. Go.",
-          "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CoffeeShop"
+          "caption": "Took a wrong turn. Found this. Fairy Waterfall, Phu Quoc. 4.2 stars and somehow never crowded. Wear grip shoes. Tag your travel buddy.",
+          "video_caption": "Cool water. Real jungle. No crowds. Fairy Waterfall is the Phu Quoc detour you didn't plan for.",
+          "hashtags": "#PhuQuocNature #PhuQuocWaterfall #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #ThingsToDoPhuQuoc"
         },
         "tiktok": {
-          "caption": "Same spot. Morning coffee. Night wine. AM PM Phu Quoc rated 4.8★ #PhuQuoc #PhuQuocTips #CoffeeLovers #VietnamTravel"
+          "caption": "Wrong turn in Phu Quoc. Ended up here. No regrets. #PhuQuoc #PhuQuocWaterfall #VietnamTravel #TravelTips #PhuQuocNature"
         },
         "video_script": {
-          "hook": "Coffee bar OR wine bar?",
+          "hook": "Took a wrong turn. Found this.",
           "scenes": [
-            "Exterior shot of AM PM storefront",
-            "Barista pulling espresso shot",
-            "Close-up of specialty coffee served",
-            "Same counter, wine glasses lined up",
-            "Guest sipping wine, evening light"
+            "Drone pulls back over dense jungle canopy",
+            "Boots crunch down a narrow dirt trail",
+            "Waterfall fills the frame, rocks glistening",
+            "Hand touches the falling water, close-up",
+            "Wide shot, empty pool, no other tourists"
           ],
           "cta": "Save this for your Phu Quoc trip."
         }
       }
     },
     {
-      "placeId": "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
-      "placeName": "Into The Blue - Phu Quoc Snorkeling Boat Trip",
+      "placeId": "ChIJyUtXhYCPpzERS0pgKYm7hu4",
+      "placeName": "Khu du lịch Suối Tranh",
       "mode": "video",
       "photoPaths": [
-        "out/media/2026-07-06-R0WP9kmtfxoo-0.jpg",
-        "out/media/2026-07-06-R0WP9kmtfxoo-1.jpg",
-        "out/media/2026-07-06-R0WP9kmtfxoo-2.jpg",
-        "out/media/2026-07-06-R0WP9kmtfxoo-3.jpg",
-        "out/media/2026-07-06-R0WP9kmtfxoo-4.jpg",
-        "out/media/2026-07-06-R0WP9kmtfxoo-5.jpg",
-        "out/media/2026-07-06-R0WP9kmtfxoo-6.jpg",
-        "out/media/2026-07-06-R0WP9kmtfxoo-7.jpg"
+        "out/media/2026-07-07-RS0pgKYm7hu4-0.jpg",
+        "out/media/2026-07-07-RS0pgKYm7hu4-1.jpg",
+        "out/media/2026-07-07-RS0pgKYm7hu4-2.jpg",
+        "out/media/2026-07-07-RS0pgKYm7hu4-3.jpg",
+        "out/media/2026-07-07-RS0pgKYm7hu4-4.jpg",
+        "out/media/2026-07-07-RS0pgKYm7hu4-5.jpg",
+        "out/media/2026-07-07-RS0pgKYm7hu4-6.jpg",
+        "out/media/2026-07-07-RS0pgKYm7hu4-7.jpg"
       ],
-      "videoPath": "out/media/2026-07-06-R0WP9kmtfxoo.mp4",
-      "content": {
-        "hookArchetype": "NUMBER_REVEAL",
-        "facebook": {
-          "caption": "530 reviews. Every single one gives it 5 stars.\n\nInto The Blue on Đường Trần Hưng Đạo is the snorkeling boat trip that keeps showing up in every Phu Quoc itinerary for a reason. Crystal water, coral, and a crew that actually knows where the fish are.\n\nNo price data on hand, but 530 five-star ratings say book it before it sells out.\n\nSave this for your Phu Quoc trip.",
-          "video_caption": "Jumping off a boat into Phu Quoc's clearest water. Into The Blue has a perfect 5.0 from 530 reviews. Book this one early.",
-          "first_comment": "#PhuQuoc #PhuQuocSnorkeling #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
-        },
-        "instagram": {
-          "caption": "530 reviews. Perfect 5.0. Into The Blue delivers.\n\nBest snorkeling boat trip in Phu Quoc, full stop. Tag your travel buddy.",
-          "video_caption": "Boat drops anchor. Mask on. Go. Into The Blue, Phu Quoc. 5.0 stars, 530 reviews.",
-          "hashtags": "#PhuQuocSnorkeling #PhuQuocOcean #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocActivities"
-        },
-        "tiktok": {
-          "caption": "530 reviews. Perfect 5.0. Into The Blue might be Phu Quoc's best kept boat trip. #PhuQuoc #PhuQuocSnorkeling #VietnamTravel"
-        },
-        "video_script": {
-          "hook": "530 reviews. All 5 stars.",
-          "scenes": [
-            "Boat leaves dock at sunrise",
-            "Crew pulls on snorkel gear",
-            "Diver jumps into blue water",
-            "Underwater coral close-up shot",
-            "Fish swarm around the camera",
-            "Guests back on deck, smiling"
-          ],
-          "cta": "Save this for your Phu Quoc trip."
-        }
-      }
-    },
-    {
-      "placeId": "ChIJB4_swjiNpzER0vsGaMBGTxg",
-      "placeName": "Onbird Phu Quoc",
-      "mode": "photo",
-      "photoPaths": [
-        "out/media/2026-07-06-R0vsGaMBGTxg-0.jpg",
-        "out/media/2026-07-06-R0vsGaMBGTxg-1.jpg",
-        "out/media/2026-07-06-R0vsGaMBGTxg-2.jpg",
-        "out/media/2026-07-06-R0vsGaMBGTxg-3.jpg",
-        "out/media/2026-07-06-R0vsGaMBGTxg-4.jpg",
-        "out/media/2026-07-06-R0vsGaMBGTxg-5.jpg",
-        "out/media/2026-07-06-R0vsGaMBGTxg-6.jpg",
-        "out/media/2026-07-06-R0vsGaMBGTxg-7.jpg"
-      ],
-      "videoPath": null,
-      "content": {
-        "hookArchetype": "NUMBER_REVEAL",
-        "facebook": {
-          "caption": "1,490 reviews. Every single one a 5-star. That's not luck, that's Onbird Phu Quoc. This tour agency in Cửa Lấp runs boat trips, snorkeling, and island-hopping that locals actually rate. No inflated packages. No herding tourists onto crowded decks. Just a crew that shows up and delivers. Save this for your Phu Quoc trip.",
-          "video_caption": "Watch the crew prep the boat at Cửa Lấp. 1,490 five-star reviews loading. Onbird Phu Quoc is the tour operator you book before everything else on the island.",
-          "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
-        },
-        "instagram": {
-          "caption": "1,490 reviews. All 5 stars. Onbird Phu Quoc is the tour agency that actually earns it. Tag your travel buddy.",
-          "video_caption": "Boat departs. 1,490 five-star trips later, Onbird Phu Quoc still hasn't missed.",
-          "hashtags": "#PhuQuocTours #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
-        },
-        "tiktok": {
-          "caption": "1,490 reviews. Zero less than 5 stars. Onbird Phu Quoc is the move. #PhuQuoc #PhuQuocTours #VietnamTravel"
-        },
-        "video_script": {
-          "hook": "1,490 reviews. ALL 5 stars.",
-          "scenes": [
-            "Boat hull at Cửa Lấp dock, crew boarding",
-            "Zoom in: phone showing 5.0 star rating",
-            "Drone pull-back over open water departure",
-            "Snorkeling gear handed off to guests",
-            "Guests reacting on deck, island backdrop"
-          ],
-          "cta": "Save this for your Phu Quoc trip."
-        }
-      }
-    },
-    {
-      "placeId": "ChIJoXjKmgSNpzERianh5FZP7WE",
-      "placeName": "Kimie's Tours - Snorkeling, diving, & hiking",
-      "mode": "video",
-      "photoPaths": [
-        "out/media/2026-07-06-Rianh5FZP7WE-0.jpg",
-        "out/media/2026-07-06-Rianh5FZP7WE-1.jpg",
-        "out/media/2026-07-06-Rianh5FZP7WE-2.jpg",
-        "out/media/2026-07-06-Rianh5FZP7WE-3.jpg",
-        "out/media/2026-07-06-Rianh5FZP7WE-4.jpg",
-        "out/media/2026-07-06-Rianh5FZP7WE-5.jpg",
-        "out/media/2026-07-06-Rianh5FZP7WE-6.jpg",
-        "out/media/2026-07-06-Rianh5FZP7WE-7.jpg"
-      ],
-      "videoPath": "out/media/2026-07-06-Rianh5FZP7WE.mp4",
+      "videoPath": "out/media/2026-07-07-RS0pgKYm7hu4.mp4",
       "content": {
         "hookArchetype": "LOCALS_DONT_TELL",
         "facebook": {
-          "caption": "Tourists book the big boat companies. Locals point you to Alley 91 Đường Trần Hưng Đạo.\n\nKimie's Tours runs snorkeling, diving, and hiking trips out of Phú Quốc with a 5.0-star rating across 260 reviews. That's a perfect score. Not rounded up.\n\nSmall operation. Real guides. The kind of trip you actually talk about after.\n\nSave this for your Phu Quoc trip.",
-          "video_caption": "260 reviews. 5.0 stars. Zero gimmicks. Kimie's Tours in Phú Quốc is the snorkeling and diving agency the big resorts don't mention. Here's what a day on the water actually looks like.",
-          "first_comment": "#PhuQuoc #PhuQuocTours #SnorkelingPhuQuoc #VisitVietnam #TravelTips"
+          "caption": "Tourists keep walking past this. Khu du lịch Suối Tranh is a proper jungle hike in the middle of Phu Quoc. Waterfalls, forest trails, and almost no one from the resort strip. 4.3 stars from 213 reviews and still somehow off the radar. Pack water shoes. The rocks get slippery. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the waterfall at Khu du lịch Suối Tranh hit different when you're the only one there. Forest trail, cool water, zero resort crowds. This is the Phu Quoc most tourists never find.",
+          "first_comment": "#PhuQuoc #PhuQuocHiking #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #TravelTips"
         },
         "instagram": {
-          "caption": "Locals don't mention this tour agency. 260 reviews, 5.0 stars, Alley 91 Đường Trần Hưng Đạo.\n\nSnorkeling, diving, hiking. No fluff. Tag your travel buddy.",
-          "video_caption": "Perfect 5.0 stars. 260 reviews. Kimie's Tours is the Phu Quoc agency tourists keep walking past. Don't.",
-          "hashtags": "#PhuQuocTours #SnorkelingPhuQuoc #PhuQuocTips #DivingVietnam #VietnamTravel #TravelTips #TravelReels"
+          "caption": "Tourists keep walking past Khu du lịch Suối Tranh. Jungle trails, waterfalls, 4.3★. Bring water shoes. Tag your travel buddy.",
+          "video_caption": "Waterfall mid-jungle. No resort crowd. Khu du lịch Suối Tranh delivers. 4.3★ and still off the radar.",
+          "hashtags": "#PhuQuocHiking #PhuQuocNature #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocWaterfall"
         },
         "tiktok": {
-          "caption": "The tour agency at Alley 91 that hits 5.0 stars across 260 reviews. Don't sleep on Kimie's Tours 🤿 #PhuQuoc #PhuQuocTours #SnorkelingPhuQuoc #VietnamTravel #TravelTips"
+          "caption": "The hike Phu Quoc tourists keep skipping. Waterfalls, jungle, zero crowds. Khu du lịch Suối Tranh 🌿 #PhuQuoc #PhuQuocHiking #VietnamTravel #TravelTips"
         },
         "video_script": {
-          "hook": "Locals don't post about this.",
+          "hook": "Tourists keep skipping this hike.",
           "scenes": [
-            "Zoom in: alley 91 sign on Đường Trần Hưng Đạo",
-            "Hands pulling on snorkel gear dockside",
-            "Underwater shot: coral reef close-up",
-            "Phone screen showing 5.0 stars, 260 reviews",
-            "Hiker cresting a jungle ridge, Phú Quốc below"
+            "Drone pull-back over jungle canopy",
+            "Boots stepping onto mossy trail",
+            "Creek crossing on wet rocks",
+            "Waterfall cascading into pool",
+            "Empty trail, no crowds in sight",
+            "4.3★ rating card fades in"
           ],
           "cta": "Save this for your Phu Quoc trip."
         }

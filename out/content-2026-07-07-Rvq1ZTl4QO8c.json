@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you took the wrong road in Phu Quoc and found a waterfall. Fairy Waterfall is one of those spots most tourists drive straight past. 4.2 stars, 198 reviews, and somehow still quiet when you show up. Bring water shoes. The rocks are slippery. Worth every step. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the moment the trail opens up at Fairy Waterfall. Cool water, real jungle, zero resort energy. This is Phu Quoc off the beach.",
+    "first_comment": "#PhuQuoc #PhuQuocWaterfall #PhuQuocNature #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn. Found this. Fairy Waterfall, Phu Quoc. 4.2 stars and somehow never crowded. Wear grip shoes. Tag your travel buddy.",
+    "video_caption": "Cool water. Real jungle. No crowds. Fairy Waterfall is the Phu Quoc detour you didn't plan for.",
+    "hashtags": "#PhuQuocNature #PhuQuocWaterfall #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Wrong turn in Phu Quoc. Ended up here. No regrets. #PhuQuoc #PhuQuocWaterfall #VietnamTravel #TravelTips #PhuQuocNature"
+  },
+  "video_script": {
+    "hook": "Took a wrong turn. Found this.",
+    "scenes": [
+      "Drone pulls back over dense jungle canopy",
+      "Boots crunch down a narrow dirt trail",
+      "Waterfall fills the frame, rocks glistening",
+      "Hand touches the falling water, close-up",
+      "Wide shot, empty pool, no other tourists"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

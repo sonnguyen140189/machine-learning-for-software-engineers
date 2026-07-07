@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 2,332 reviews. At a beef restaurant on Phú Quốc.\n\nBò Tơ Quán Đảo Phú Quốc on Đường Trần Hưng Đạo is pulling numbers most restaurants in Southeast Asia would kill for. Young beef, done right, priced at $15-30 a person. That's a serious meal without a serious bill.\n\nIf you're skipping this because you came to an island for seafood, rethink that. Save this for your Phu Quoc trip.",
+    "video_caption": "Over 2,300 people rated this place 4.7 stars. Watch what lands on the table at Bò Tơ Quán Đảo Phú Quốc. $15-30 a head. Zero complaints.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7★ from 2,332 reviews. At a beef spot on Phu Quoc.\n\nBò Tơ Quán Đảo Phú Quốc, $15-30/person. Tag your travel buddy.",
+    "video_caption": "2,332 people can't be wrong. Bò Tơ Quán Đảo Phú Quốc hits different. $15-30 a head.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "4.7★ and 2,332 reviews on Phu Quoc. Bò Tơ Quán Đảo Phú Quốc. $15-30/person. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.7★ · 2,332 reviews.",
+    "scenes": [
+      "Street sign: Đường Trần Hưng Đạo, busy midday",
+      "Walk through entrance, busy dining room",
+      "Plates of young beef arriving at table",
+      "Close-up: sizzling beef, fresh herbs, dipping sauce",
+      "Bill arrives, reveal the total"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

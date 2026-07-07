@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 3,944 reviews. At a resort seafood restaurant in Phu Quoc.\n\nSEN Restaurant inside Sonasea Villas & Resort on Đường Bào is pulling numbers that most standalone spots never hit. Fresh seafood, resort-level setting, and a rating that doesn't lie.\n\nIf you're staying near Đường Bào or just passing through, this one earns the detour.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Nearly 4,000 people rated SEN Restaurant 4.7 stars. Watch what lands on the table. Seafood this fresh inside a resort on Đường Bào, Phu Quoc. The reviews make sense the second you sit down.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars across 3,944 reviews. SEN Restaurant at Sonasea earns every one.\n\nFresh seafood, resort setting, Đường Bào. Save this.",
+    "video_caption": "3,944 reviews. 4.7 stars. SEN Restaurant at Sonasea just delivered. Phu Quoc seafood at this level hits different.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SeafoodLovers"
+  },
+  "tiktok": {
+    "caption": "3,944 reviews can't be wrong. SEN Restaurant at Sonasea, Phu Quoc. Go. #PhuQuoc #PhuQuocFood #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "3,944 reviews. 4.7 stars.",
+    "scenes": [
+      "Aerial pull into Sonasea resort grounds",
+      "Walk through entrance toward SEN Restaurant",
+      "Server places whole fresh seafood on table",
+      "Close-up: shell cracking, steam rising",
+      "Wide shot: full table spread, water in background",
+      "Rating graphic: 4.7★ 3,944 reviews fades in"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

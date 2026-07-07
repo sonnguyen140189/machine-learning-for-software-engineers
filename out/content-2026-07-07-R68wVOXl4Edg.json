@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 977 reviews. On an island full of seafood spots.\n\nMEDITERRAN is doing something right. Pizza, pasta, and souvlaki on Đường Trần Hưng Đạo, and the crowd keeps coming back. When a Greek-Italian restaurant outranks most places in Phu Quoc, you pay attention.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Wood-fired crust, souvlaki skewers, and a rating of 4.8 across 977 reviews. MEDITERRAN on Đường Trần Hưng Đạo is not what you expect to find in Phu Quoc. Go anyway.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 977 reviews. Greek and Italian in Phu Quoc.\n\nMEDITERRAN delivers. Tag your travel buddy.",
+    "video_caption": "Souvlaki skewers hitting the grill in Phu Quoc. 977 people rated this 4.8. MEDITERRAN earns it.",
+    "hashtags": "#PhuQuocRestaurants #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 977 reviews, Greek food in Phu Quoc. MEDITERRAN is the one. #PhuQuoc #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★ across 977 reviews.",
+    "scenes": [
+      "Close-up: pizza sliding out of oven",
+      "Souvlaki skewers on the grill, smoke rising",
+      "Pasta plated, fork twirling into frame",
+      "Wide shot: busy tables, warm lighting",
+      "Sign: MEDITERRAN, Đường Trần Hưng Đạo"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

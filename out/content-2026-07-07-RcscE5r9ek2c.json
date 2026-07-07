@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5,831 reviews. 4.8 stars. At an Italian restaurant in Phu Quoc.\n\nRicordo Restaurant inside Mojo Boutique Hotel is doing numbers that most places in Europe can't touch. Fresh pasta, proper wood-fired flavor, cold wine, and zero tourist-trap energy.\n\nIf you're staying near Sonasea or just passing through Đường Bào, this one is worth a detour.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the plates land at Ricordo. 4.8 stars across 5,831 reviews. Italian food in Phu Quoc that actually delivers. Inside Mojo Boutique Hotel, Sonasea area.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ItalianFood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "5,831 reviews. 4.8 stars. Italian food in Phu Quoc.\n\nRicordo Restaurant at Mojo Boutique Hotel is not a fluke.\n\nTag your travel buddy.",
+    "video_caption": "Plates arriving at Ricordo. 4.8 stars. 5,831 people already know. Now you do.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #ItalianFoodVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.8 stars. 5,831 reviews. Italian food in Phu Quoc hits different. #PhuQuoc #PhuQuocFood #ItalianFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5,831 reviews. 4.8 stars.",
+    "scenes": [
+      "Exterior shot: Mojo Boutique Hotel entrance",
+      "Pan across a full dining room",
+      "Close-up: pasta plated, steam rising",
+      "Pour shot: wine hitting glass",
+      "Rating graphic: 4.8 stars, 5,831 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

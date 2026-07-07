@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you take a wrong turn on Đường Dinh Bà and stumble into the only restaurant in Ông Lang with a perfect 5.0 star rating.\n\nDina Restaurant. 235 reviews. Zero complaints.\n\nÔng Lang is already off the main drag. Dina is the reason locals point you toward it. Small spot. Big reputation.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "235 people gave this place 5 stars. Watch what lands on the table and you'll understand why. Dina Restaurant, Ông Lang, Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: random street in Ông Lang. 5.0 stars. 235 reviews. Dina Restaurant delivers.\n\nTag your travel buddy.",
+    "video_caption": "5.0 stars. 235 reviews. Watch the food hit the table at Dina Restaurant, Ông Lang.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #OngLang #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: wrong turn. Perfect 5-star dinner. Dina Restaurant in Ông Lang, Phu Quoc. #PhuQuoc #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: 5.0 stars. Wrong turn.",
+    "scenes": [
+      "Slow pan down Đường Dinh Bà",
+      "Dina Restaurant sign comes into frame",
+      "Busy tables, food arriving",
+      "Close-up: plates land on table",
+      "Pull back to full dining scene"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
