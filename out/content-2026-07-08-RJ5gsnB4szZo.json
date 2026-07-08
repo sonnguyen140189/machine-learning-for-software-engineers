@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past Nhà hàng hải sản Xưa và Nay. Their loss. This seafood spot on Đường Trần Hưng Đạo pulls a 4.5★ from 193 reviews and keeps its prices at $15-30 a head. Fresh catch, no beach-club markup, no tourist-trap energy. Just solid Phu Quoc seafood done right. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the grill at Nhà hàng hải sản Xưa và Nay do its thing. $15-30 a head. 4.5 stars. 193 people already know. Now you do too. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals eat here. Tourists walk past. Nhà hàng hải sản Xưa và Nay. 4.5★, $15-30, real Phu Quoc seafood. Save this.",
+    "video_caption": "Fresh seafood hitting the grill. $15-30 a head. 193 reviews say go. Nhà hàng hải sản Xưa và Nay.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SeafoodVietnam"
+  },
+  "tiktok": {
+    "caption": "Locals eat here. Tourists never stop. Nhà hàng hải sản Xưa và Nay. $15-30. 4.5★. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior shot: busy local crowd outside",
+      "Close-up: fresh seafood on ice display",
+      "Grill flames, smoke rising fast",
+      "Plates landing on packed table",
+      "Price board visible on wall"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
