@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stopped googling and just booked the dive.\n\nPhu Quoc Local Guide at 94 Nguyễn Trung Trực is what serious snorkelers and first-time divers are finding. 4.9 stars across 66 reviews. That score doesn't happen by accident.\n\nLocal guides. Real reef access. Not the crowded boat tour your hotel is pushing.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Mask on. Fins in the water. The reef at Phú Quốc looks nothing like the brochure, in the best way. 4.9 stars. 66 divers don't lie. Book the local guide, not the resort package.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #SnorkelingPhuQuoc #VisitVietnam #TravelTips #ScubaDiving #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: you picked the local dive guide over the resort boat. 4.9 stars, 66 reviews. Worth every second underwater. Tag your travel buddy.",
+    "video_caption": "Fins hit the water. Reef opens up. This is why you book local. 4.9★ at 94 Nguyễn Trung Trực.",
+    "hashtags": "#PhuQuocDiving #SnorkelingPhuQuoc #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #ScubaDiving #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Skipped the resort boat tour. Found this instead. 4.9 stars at 94 Nguyễn Trung Trực. #PhuQuoc #PhuQuocDiving #SnorkelingPhuQuoc #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you booked the local dive.",
+    "scenes": [
+      "Storefront at 94 Nguyễn Trung Trực, morning light",
+      "Gear laid out, guide explaining the route",
+      "Boat cutting through blue-green water",
+      "Mask goes on, camera follows under",
+      "Coral reef, fish swarm the lens",
+      "Surfacing, huge grin, thumbs up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

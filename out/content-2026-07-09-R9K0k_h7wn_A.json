@@ -1,0 +1,26 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking Đường Trần Hưng Đạo and you almost miss thì là.\n\n4.7 stars. 778 reviews. A Vietnamese restaurant locals actually keep coming back to.\n\nThe name means dill. The food backs it up.\n\nKhu 1, Phu Quoc. Add it before someone else tells you about it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "778 people rated thì là 4.7 stars and somehow it still flies under the radar. Watch what lands on the table and tell me this isn't your next dinner stop in Phu Quoc."
+  },
+  "instagram": {
+    "caption": "POV: you almost walked past thì là on Đường Trần Hưng Đạo.\n\n4.7★, 778 reviews. Don't skip it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.7 stars. 778 reviews. thì là in Khu 1 hits different. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VisitVietnam #VietnamTravel #TravelReels #TravelTips"
+  },
+  "tiktok": {
+    "caption": "almost walked past thì là. big mistake. 4.7★ Vietnamese food in Phu Quoc 🇻🇳 #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: almost missed this spot.",
+    "scenes": [
+      "Exterior sign of thì là on Trần Hưng Đạo",
+      "Push through the door, inside reveal",
+      "Dishes arriving at the table, close-up",
+      "Fork lifts first bite, steam visible",
+      "Cut to Google review screen: 4.7★ 778 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

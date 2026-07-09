@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "530 reviews. Every single one, 5 stars. Into The Blue on Đường Trần Hưng Đạo isn't playing around. Phu Quoc's waters are already some of the clearest in Southeast Asia. This boat trip puts you directly in them. Coral, fish, open ocean. No fluff, no tourist trap energy. Just the reef doing its thing. Book early, this one sells out fast for a reason. Save this for your Phu Quoc trip.",
+    "video_caption": "Jumping off the boat into Phu Quoc's reef. Into The Blue has 530 reviews and a perfect 5.0. Watch what you actually see underwater. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocSnorkeling #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTrip #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "530 reviews. Perfect 5.0. Into The Blue delivers every time. Phu Quoc's reef, open water, zero disappointments. Save this.",
+    "video_caption": "Mask on. Drop in. Into The Blue hits different. 5.0 stars, 530 reviews. Phu Quoc underwater.",
+    "hashtags": "#PhuQuocSnorkeling #PhuQuocOcean #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #WaterSports"
+  },
+  "tiktok": {
+    "caption": "530 reviews. Perfect 5 stars. Into The Blue Phu Quoc is no joke. #PhuQuoc #PhuQuocSnorkeling #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "530 reviews. 5.0 stars. Zero misses.",
+    "scenes": [
+      "Boat leaving Đường Trần Hưng Đạo dock",
+      "Clear turquoise water approaching reef",
+      "Snorkeler drops off the side of boat",
+      "Underwater shot: coral and tropical fish",
+      "Group surfacing, laughing, sun behind them"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the big resort boats. Locals point you here.\n\nKimie's Tours runs snorkeling, diving, and hiking out of a tiny alley off Đường Trần Hưng Đạo. 260 reviews. Every single one a 5-star. That ratio doesn't happen by accident.\n\nSmall groups. People who actually know these waters. The kind of trip you describe for years.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Snorkeling, diving, hiking. One alley in Phú Quốc. 5.0 stars across 260 reviews. Kimie's Tours is what happens when a local operation just refuses to cut corners. Book before it gets crowded.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #SnorkelingPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this alley. Don't be them.\n\nKimie's Tours. 5.0★, 260 reviews. Snorkeling, diving, hiking. Tag your travel buddy.",
+    "video_caption": "5.0 stars. 260 reviews. Small alley, big reputation. Kimie's Tours delivers every time.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #SnorkelingPhuQuoc #DivingVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The tour agency locals actually use in Phu Quoc. 5.0★ 260 reviews. No shortcuts. #PhuQuoc #PhuQuocTours #VisitVietnam"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Pan down narrow alley off Đường Trần Hưng Đạo",
+      "Close-up: hand-painted Kimie's Tours sign",
+      "Underwater shot: coral, fish, clear water",
+      "Hiker reaching a ridge viewpoint",
+      "Phone screen: 260 reviews, 5.0 stars"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

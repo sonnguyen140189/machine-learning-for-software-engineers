@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 270 reviews. And it sits right on Bãi Dài, one of the longest stretches of beach on the island. Vinpearl Phú Quốc is not a quiet secret. It's a resort that keeps delivering. Private beach access, full resort amenities, and that north-island calm that the south never has. If you're planning Phu Quoc and want the full package, this is the benchmark. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking the beach at Vinpearl Phú Quốc and it goes on forever. Bãi Dài does not disappoint. 4.7 stars across 270 reviews and you can see exactly why. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #VisitVietnam #VietnamTravel #TravelTips #PhuQuocTips #VietnamResort"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 270 reviews. Vinpearl Phú Quốc on Bãi Dài. The north-island calm hits different. Save this.",
+    "video_caption": "Bãi Dài beach from Vinpearl Phú Quốc. This is what 4.7 stars looks like in real life.",
+    "hashtags": "#PhuQuocResort #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamResort #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "4.7 stars on Bãi Dài. Vinpearl Phú Quốc delivers every time. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.7★ across 270 reviews.",
+    "scenes": [
+      "Aerial pan over Bãi Dài coastline",
+      "Resort entrance, wide gate reveal",
+      "Infinity pool facing the ocean",
+      "Feet in sand, private beach stretch",
+      "Sun dropping behind the north headland"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
