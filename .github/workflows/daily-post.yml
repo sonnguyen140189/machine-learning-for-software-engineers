@@ -54,6 +54,28 @@ jobs:
           PHASE: generate
         run: node src/orchestrator.js
 
+      - name: Prune media older than 3 days (keep the Pages site small)
+        run: |
+          # GitHub Pages redeploys the ENTIRE tree on every push. Committing
+          # every day's media without ever deleting it bloated out/media to
+          # ~2.8 GB / 5,895 files across 57 days. At that size Pages takes
+          # >10 min to deploy, so the "wait for Pages" gate below timed out
+          # (HTTP 404) and the post phase never ran. The bot only needs the
+          # last couple of days of media to be servable, so prune the rest.
+          CUTOFF=$(date -u -d '3 days ago' +%Y-%m-%d)
+          echo "Pruning out/media + out/content dated before $CUTOFF"
+          removed=0
+          for f in out/media/*.jpg out/media/*.mp4 out/content-*.json; do
+            [ -e "$f" ] || continue
+            d=$(echo "$f" | grep -oE '[0-9]{4}-[0-9]{2}-[0-9]{2}' | head -1)
+            [ -z "$d" ] && continue           # skip non-dated files (test.txt, etc.)
+            if [[ "$d" < "$CUTOFF" ]]; then
+              rm -f "$f"
+              removed=$((removed + 1))
+            fi
+          done
+          echo "Removed $removed stale files. Remaining in out/media: $(ls out/media/ | wc -l)"
+
       - name: Commit + push media so Pages serves it
         run: |
           git config user.name "phuquoc-review-bot"
