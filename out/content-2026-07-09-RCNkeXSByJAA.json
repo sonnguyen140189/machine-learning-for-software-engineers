@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this pho spot. Locals sit down. Big difference.\n\nPhở Bắc Bình Nam Định cơ sở 5 on Đường Bạch Đằng is not on any resort map. Northern-style pho, proper broth, fast service. The kind of place that fills up with regulars before 8am.\n\n4.6 stars. 36 reviews. All locals.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Bowl hits the table in under 3 minutes. Northern pho, Phu Quoc prices, zero tourists in sight. Phở Bắc Bình Nam Định cơ sở 5 on Đường Bạch Đằng is doing something right.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocEats #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't share this pho spot. Now you know.\n\nPhở Bắc Bình Nam Định cơ sở 5, Đường Bạch Đằng. 4.6 stars, regulars only. Save this.",
+    "video_caption": "Steaming bowl, empty tourist tables, full local ones. Phở Bắc Bình Nam Định cơ sở 5 hits different at 7am.",
+    "hashtags": "#PhuQuocFood #PhuQuocEats #PhuQuocTips #PhuQuocRestaurant #VietnamTravel #TravelTips #TravelReels #FoodReels"
+  },
+  "tiktok": {
+    "caption": "The pho spot locals actually eat at in Phu Quoc. No tourists. No resort markup. #PhuQuoc #PhuQuocFood #VietnamFood #Pho"
+  },
+  "video_script": {
+    "hook": "Locals don't post this pho.",
+    "scenes": [
+      "Exterior shot: small shophouse, Đường Bạch Đằng",
+      "Close-up: clear northern broth poured into bowl",
+      "Hands adding herbs and fresh noodles",
+      "Pan to packed tables of local diners",
+      "Spoon lifts broth, steam rising to camera"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

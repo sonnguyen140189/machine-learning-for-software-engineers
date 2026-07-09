@@ -1,25 +1,26 @@
 {
   "hookArchetype": "POV_REVEAL",
   "facebook": {
-    "caption": "POV: you're walking Đường Trần Hưng Đạo and you almost miss thì là.\n\n4.7 stars. 778 reviews. A Vietnamese restaurant locals actually keep coming back to.\n\nThe name means dill. The food backs it up.\n\nKhu 1, Phu Quoc. Add it before someone else tells you about it.\n\nSave this for your Phu Quoc trip.",
-    "video_caption": "778 people rated thì là 4.7 stars and somehow it still flies under the radar. Watch what lands on the table and tell me this isn't your next dinner stop in Phu Quoc."
+    "caption": "POV: you walked down Trần Hưng Đạo and stopped at thì là. 4.7 stars. 778 reviews. A local Vietnamese spot that earns every single one. Real food, real flavors, none of the tourist markup. This is the kind of place you stumble into and then tell everyone about. Save this for your Phu Quoc trip.",
+    "video_caption": "Fork hits the bowl. Steam rises. This is thì là on Trần Hưng Đạo, and 778 people gave it 4.7 stars for a reason. Your Phu Quoc food list just got an upgrade.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
   },
   "instagram": {
-    "caption": "POV: you almost walked past thì là on Đường Trần Hưng Đạo.\n\n4.7★, 778 reviews. Don't skip it.\n\nSave this for your Phu Quoc trip.",
-    "video_caption": "4.7 stars. 778 reviews. thì là in Khu 1 hits different. Tag your travel buddy.",
-    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VisitVietnam #VietnamTravel #TravelReels #TravelTips"
+    "caption": "POV: you found thì là. 4.7★ across 778 reviews. Vietnamese food done right on Trần Hưng Đạo. Tag your travel buddy.",
+    "video_caption": "778 reviews. 4.7 stars. thì là just made your Phu Quoc food list.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodReels"
   },
   "tiktok": {
-    "caption": "almost walked past thì là. big mistake. 4.7★ Vietnamese food in Phu Quoc 🇻🇳 #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+    "caption": "POV: you found thì là in Phu Quoc. 4.7★, 778 reviews, zero hype needed. #PhuQuoc #PhuQuocFood #VietnamTravel"
   },
   "video_script": {
-    "hook": "POV: almost missed this spot.",
+    "hook": "POV: you found thì là.",
     "scenes": [
-      "Exterior sign of thì là on Trần Hưng Đạo",
-      "Push through the door, inside reveal",
-      "Dishes arriving at the table, close-up",
-      "Fork lifts first bite, steam visible",
-      "Cut to Google review screen: 4.7★ 778 reviews"
+      "Exterior shot: sign reads thì là",
+      "Walk through entrance, locals eating",
+      "Close-up: steaming Vietnamese dishes",
+      "Chopsticks lift noodles from bowl",
+      "Google review overlay: 4.7★, 778 reviews"
     ],
     "cta": "Save this for your Phu Quoc trip."
   }

@@ -1,26 +1,27 @@
 {
   "hookArchetype": "NUMBER_REVEAL",
   "facebook": {
-    "caption": "1,491 reviews. Every single one is 5 stars. That's not luck, that's Onbird Phu Quoc. This tour agency at Cửa Lấp runs boat trips and island tours that actually deliver. No filler stops. No rushed itineraries. Just the Phu Quoc most tourists never reach. If you're booking one tour on this island, let the reviews do the talking. Save this for your Phu Quoc trip.",
-    "video_caption": "Watch the boat pull away from Cửa Lấp. That's the moment 1,491 people gave 5 stars to. Onbird Phu Quoc takes you past the crowded spots to the real island.",
-    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+    "caption": "1,491 reviews. Every single one a 5-star. That's not luck, that's a track record.\n\nOnbird Phu Quoc runs boat tours, snorkeling trips, and island-hopping routes around Phu Quoc that actually deliver. No bait-and-switch, no overcrowded barges. Guides who know the water.\n\nIf you're planning any time on the ocean here, this is the operator locals and expats keep recommending.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the crew prep the boat at sunrise. This is what a 5.0-star tour operation looks like before the tourists even arrive. Onbird Phu Quoc. 1,491 reviews. Zero below 5 stars.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #IslandHoppingPhuQuoc #VisitVietnam #TravelTips"
   },
   "instagram": {
-    "caption": "1,491 reviews. Perfect 5.0 stars. Onbird Phu Quoc earns every one. Book the tour before it sells out.",
-    "video_caption": "Boat leaving Cửa Lấp. 5.0 stars from 1,491 people. Onbird Phu Quoc is why.",
-    "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #IslandTours"
+    "caption": "1,491 reviews. Perfect 5.0 stars. Every single one.\n\nOnbird Phu Quoc is the boat tour operator that keeps showing up in every traveler's rec list. Book before you land.\n\nTag your travel buddy.",
+    "video_caption": "Boat. Crew. Open water. 1,491 people rated this 5 stars. Onbird Phu Quoc earns it every trip.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #IslandHoppingPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
   },
   "tiktok": {
-    "caption": "1,491 reviews. All 5 stars. Onbird Phu Quoc is the real deal. #PhuQuoc #PhuQuocTours #VietnamTravel"
+    "caption": "1,491 reviews. Perfect 5.0 stars. Onbird Phu Quoc is the boat tour you actually want. #PhuQuoc #PhuQuocTours #VietnamTravel"
   },
   "video_script": {
-    "hook": "1,491 reviews. All 5 stars.",
+    "hook": "1,491 reviews. 5.0 stars. Every one.",
     "scenes": [
-      "Aerial shot: boat departing Cửa Lấp dock",
-      "Close-up: phone showing 5.0 star rating",
-      "Wide shot: open water, no tourist crowds",
-      "Crew loading gear, guests boarding",
-      "Underwater or shoreline payoff moment"
+      "Crew loading gear onto boat at dawn",
+      "Aerial shot of turquoise water below",
+      "Snorkelers dropping into clear reef",
+      "Close-up: coral and fish underwater",
+      "Group laughing on deck, open ocean behind",
+      "Google review screen: 5.0, 1,491 reviews"
     ],
     "cta": "Save this for your Phu Quoc trip."
   }

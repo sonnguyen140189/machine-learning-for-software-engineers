@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists skip this. Locals know better.\n\nBasket boat spinning on open water. Kayak cutting through mangroves. This is Phu Quoc that the resort brochures don't show you.\n\nDynasty Phu Quoc runs both tours out of ấp 2, Phú Quốc. Rated 4.9 stars across 352 reviews. That number doesn't lie.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Basket boat. Open water. Zero crowds. Dynasty Phu Quoc is running the tours the big operators don't want you to find. 4.9 stars, 352 reviews. Book it.",
+    "first_comment": "#PhuQuoc #PhuQuocActivities #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists skip this. Locals don't.\n\nBasket boat + kayak tours at ấp 2, Phú Quốc. 4.9 stars, 352 reviews. Tag your travel buddy.",
+    "video_caption": "Spinning on a basket boat in Phu Quoc. No crowds. Just water. Dynasty Phu Quoc delivers.",
+    "hashtags": "#PhuQuocActivities #PhuQuocTips #PhuQuocKayak #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc tour tourists walk past every day. 4.9 stars. 352 reviews. Go. #PhuQuoc #PhuQuocActivities #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Basket boat spinning on open water",
+      "Paddle hits the surface, water sprays",
+      "Kayak glides into mangrove channel",
+      "Close-up: 4.9 stars on phone screen",
+      "Wide shot: zero other tourists visible"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
