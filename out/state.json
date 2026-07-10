@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJO-aIpaKNpzERkCLeSERC9yE",
+    "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
+    "ChIJQz9pjguLpzERt20ZmhsgK9Y",
+    "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
+    "ChIJ0RkpBlGMpzERkVVsqpEZ5C0",
+    "ChIJbWwp_zj1pzERg-_J_57c0UA",
+    "ChIJZ9RuXLwfCDEREl1ID-Nkj30",
+    "ChIJOfBhADWLpzEROjM637w_lcg",
+    "ChIJEUkRcwCTpzEREkP4pNOORIE",
+    "ChIJFWslYgCNpzERgLUvblBUfB0",
+    "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
+    "ChIJgw37s0-XpzERx2gWzxP5Qfg",
     "ChIJoXjKmgSNpzERianh5FZP7WE",
     "ChIJEYK7sD6LpzERgAa_oy1mPEg",
     "ChIJB4_swjiNpzER0vsGaMBGTxg",
@@ -187,21 +199,189 @@
     "ChIJg25lxluMpzERrx21QiH3gaI",
     "ChIJj9eeH0-XpzERR3O-7B0rxFo",
     "ChIJv-9uPmUfCDER6NeYGQTjw3g",
-    "ChIJReCCyQsfCDEREcf_dOKY-wA",
-    "ChIJVRCAbGGNpzERkJ7P7jN-dls",
-    "ChIJ-0XGzouOpzERbbOfSGDmmuU",
-    "ChIJLa_VvluMpzERVdeTFM021V4",
-    "ChIJyQi3u2GMpzERVXgllKB2V_A",
-    "ChIJLUwZPQCNpzERZrGj0TvOFHI",
-    "ChIJ2fu7BmGNpzERyc_w8wahNio",
-    "ChIJhwi1TFqTpzERiZQmfO7PxUY",
-    "ChIJZWGJPeONpzERce--tYenego",
-    "ChIJ2SBPKCONpzER36aEkpOGpyk",
-    "ChIJNzL9GqEfCDERTQfv5j5Deik",
-    "ChIJjwG2SAAfCDERd7JcFN0UNTw",
-    "ChIJgwI3D_8fCDERzTBdqPmUa9M"
+    "ChIJReCCyQsfCDEREcf_dOKY-wA"
   ],
   "history": [
+    {
+      "date": "2026-07-10",
+      "placeId": "ChIJO-aIpaKNpzERkCLeSERC9yE",
+      "placeName": "Vietnam Active - PADI 5 Star Diving Center Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "2130885638308935"
+        },
+        "instagramReel": {
+          "id": "18059124725581529"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "placeId": "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
+      "placeName": "Phil Hai Diving Club",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113226613313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18146629099515647"
+        }
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "placeId": "ChIJQz9pjguLpzERt20ZmhsgK9Y",
+      "placeName": "Flipper diving club",
+      "results": {
+        "facebookVideo": {
+          "id": "1684541339480728"
+        },
+        "instagramReel": {
+          "id": "18073930829338931"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "placeId": "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
+      "placeName": "Vinpearl Wonderworld Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113225737313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18122232202743548"
+        }
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "placeId": "ChIJ0RkpBlGMpzERkVVsqpEZ5C0",
+      "placeName": "M Village",
+      "results": {
+        "facebookVideo": {
+          "id": "952267711197592"
+        },
+        "instagramReel": {
+          "id": "18474979570096581"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "placeId": "ChIJbWwp_zj1pzERg-_J_57c0UA",
+      "placeName": "Green Bay Phu Quoc Resort & Spa",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113224885313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18079848569673919"
+        }
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "placeId": "ChIJZ9RuXLwfCDEREl1ID-Nkj30",
+      "placeName": "Crowne Plaza Phu Quoc Starbay by IHG",
+      "results": {
+        "facebookVideo": {
+          "id": "27584235051207103"
+        },
+        "instagramReel": {
+          "id": "18131065726589010"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "placeId": "ChIJOfBhADWLpzEROjM637w_lcg",
+      "placeName": "Grand Ocean Bay Resort Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113224087313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17978725530048679"
+        }
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "placeId": "ChIJEUkRcwCTpzEREkP4pNOORIE",
+      "placeName": "Soul Boutique Hotel Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1595089542193037"
+        },
+        "instagramReel": {
+          "id": "18161293549456874"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "placeId": "ChIJFWslYgCNpzERgLUvblBUfB0",
+      "placeName": "WorldHotels Long Beach Resort Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113223337313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18083797610553777"
+        }
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "placeId": "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
+      "placeName": "Phu Quoc Local Guide - Snorkeling and Scuba Diving",
+      "results": {
+        "facebookVideo": {
+          "id": "1559911312257290"
+        },
+        "instagramReel": {
+          "id": "18097008121985436"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "placeId": "ChIJgw37s0-XpzERx2gWzxP5Qfg",
+      "placeName": "VEGAYACHTS - Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113222377313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18605956687009750"
+        }
+      }
+    },
     {
       "date": "2026-07-09",
       "placeId": "ChIJoXjKmgSNpzERianh5FZP7WE",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18067885766441907"
-        }
-      }
-    },
-    {
-      "date": "2026-06-22",
-      "placeId": "ChIJVRCAbGGNpzERkJ7P7jN-dls",
-      "placeName": "The Home Pizza Tran Hung Dao",
-      "results": {
-        "facebookVideo": {
-          "id": "1715292579663505"
-        },
-        "instagramReel": {
-          "id": "18073012196687940"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-22",
-      "placeId": "ChIJ-0XGzouOpzERbbOfSGDmmuU",
-      "placeName": "Tiên Sơn Đỉnh",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110326015313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18324682639258505"
-        }
-      }
-    },
-    {
-      "date": "2026-06-22",
-      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
-      "placeName": "Jerry's Jungle Tours",
-      "results": {
-        "facebookVideo": {
-          "id": "1573105564428957"
-        },
-        "instagramReel": {
-          "id": "18076090415313570"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-22",
-      "placeId": "ChIJyQi3u2GMpzERVXgllKB2V_A",
-      "placeName": "RED RIVER TOURS",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110325043313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17934308172291293"
-        }
-      }
-    },
-    {
-      "date": "2026-06-21",
-      "placeId": "ChIJLUwZPQCNpzERZrGj0TvOFHI",
-      "placeName": "Layla Mermaid Tours - Premium 4 Island Snorkeling & Beach BBQ Escape",
-      "results": {
-        "facebookVideo": {
-          "id": "1780478080032785"
-        },
-        "instagramReel": {
-          "id": "18100870190153501"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-21",
-      "placeId": "ChIJ2fu7BmGNpzERyc_w8wahNio",
-      "placeName": "GRACE'S TOUR PHÚ QUỐC- SIM CARD- MONEY EXCHANGE- ENGLISH SPEAKER- DIVING",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110171419313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17994329660968649"
-        }
-      }
-    },
-    {
-      "date": "2026-06-21",
-      "placeId": "ChIJhwi1TFqTpzERiZQmfO7PxUY",
-      "placeName": "Rooty Trip Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1455428209604853"
-        },
-        "instagramReel": {
-          "id": "18447371344139760"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-21",
-      "placeId": "ChIJZWGJPeONpzERce--tYenego",
-      "placeName": "Алиса гид по Фукуоку",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110170675313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17882096265444573"
-        }
-      }
-    },
-    {
-      "date": "2026-06-21",
-      "placeId": "ChIJ2SBPKCONpzER36aEkpOGpyk",
-      "placeName": "Nice Tours Phu Quoc - Tailor Made Travel",
-      "results": {
-        "facebookVideo": {
-          "id": "1714638559687894"
-        },
-        "instagramReel": {
-          "id": "17864431887594583"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-21",
-      "placeId": "ChIJNzL9GqEfCDERTQfv5j5Deik",
-      "placeName": "Vinpearl Land Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110170003313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18104544410047119"
-        }
-      }
-    },
-    {
-      "date": "2026-06-21",
-      "placeId": "ChIJjwG2SAAfCDERd7JcFN0UNTw",
-      "placeName": "Vinpearl Resort Phu Quoc lobby",
-      "results": {
-        "facebookVideo": {
-          "id": "1490683102803491"
-        },
-        "instagramReel": {
-          "id": "18109852519942046"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-21",
-      "placeId": "ChIJgwI3D_8fCDERzTBdqPmUa9M",
-      "placeName": "VinWonders Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110169247313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18134477299505531"
         }
       }
     }
