@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,455 reviews. Every single one is 5 stars. That's not luck. VEGAYACHTS in Sunset Town, An Thới delivers sunset cruises on Phu Quoc's southern waters that people actually come back to write about. Golden hour on the open water, away from the beach crowds. This is the one locals point tourists toward when they ask what they'll regret skipping. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the sun drop below the South China Sea from the deck of a VEGAYACHTS cruise. 1,455 five-star reviews. Zero one-stars. The water does the rest.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #SunsetCruise #VisitVietnam #TravelTips #PhuQuocActivities #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "1,455 reviews. 5.0 stars. Not one person left disappointed. VEGAYACHTS, Sunset Town. Tag your travel buddy.",
+    "video_caption": "Deck. Golden hour. Open water. VEGAYACHTS has 1,455 five-star reviews for a reason.",
+    "hashtags": "#PhuQuocTours #PhuQuocSunset #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SunsetCruise #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "1,455 reviews. All 5 stars. VEGAYACHTS in Phu Quoc is not messing around. #PhuQuoc #SunsetCruise #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "1,455 reviews. All 5 stars.",
+    "scenes": [
+      "Yacht leaving Sunset Town dock",
+      "Crew prepares drinks on deck",
+      "Wide shot: open South China Sea",
+      "Sun hitting the horizon, warm light",
+      "Faces of passengers watching the drop",
+      "Screen text: VEGAYACHTS, An Thới"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

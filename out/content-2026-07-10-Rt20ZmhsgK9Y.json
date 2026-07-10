@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 406 divers reviewed it. Flipper Diving Club at Búng Gội, Phú Quốc is the kind of place that earns that rating dive after dive. Coral reefs, clear water, and a crew that actually knows what they're doing. First dive or fiftieth, this is the spot. Save this for your Phu Quoc trip.",
+    "video_caption": "Mask on. Giant stride. That first second underwater at Flipper Diving Club tells you exactly why it's rated 4.9 stars by 406 people. Phu Quoc hits different from below the surface.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #ScubaDivingPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 406 reviews. Flipper Diving Club earns every one. Book before Phu Quoc gets busier. Tag your dive buddy.",
+    "video_caption": "406 divers gave it 4.9 stars. Flipper Diving Club, Búng Gội. Go find out why.",
+    "hashtags": "#PhuQuocDiving #PhuQuocTips #ScubaDivingPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocActivities"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 406 dives worth of reviews. Flipper Diving Club is doing something right. #PhuQuoc #PhuQuocDiving #ScubaDiving #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9★ from 406 divers.",
+    "scenes": [
+      "Diver gears up on the dock",
+      "Giant stride entry, splash hits camera",
+      "Coral reef fills the frame",
+      "Fish school parts around diver",
+      "Diver surfaces, thumbs up",
+      "Rating card fades in: 4.9★ 406 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

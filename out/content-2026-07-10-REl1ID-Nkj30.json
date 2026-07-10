@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 3,921 reviews. Crowne Plaza Phu Quoc Starbay by IHG keeps delivering.\n\nBeachfront position on Bãi Dài. Two restaurants on-site. A full spa. Outdoor pool facing the ocean. Sleek rooms that actually match the photos.\n\nThis is the kind of property where you check in and immediately stop researching alternatives.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walk the beachfront, hit the pool, eat twice without leaving the resort. Crowne Plaza Phu Quoc Starbay by IHG earns that 4.8 for a reason. Full resort day incoming.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #BaiDai #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 3,921 reviews. Crowne Plaza Phu Quoc Starbay by IHG on Bãi Dài.\n\nPool, spa, 2 restaurants. Zero excuses to leave.\n\nTag your travel buddy.",
+    "video_caption": "Beachfront pool. Spa day. Dinner without leaving. Crowne Plaza Phu Quoc Starbay by IHG hits different on Bãi Dài.",
+    "hashtags": "#PhuQuocHotels #PhuQuocResort #BaiDai #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #LuxuryHotel"
+  },
+  "tiktok": {
+    "caption": "3,921 people rated this 4.8 stars on Bãi Dài. Crowne Plaza Phu Quoc Starbay does not miss. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8★ from 3,921 reviews.",
+    "scenes": [
+      "Drone pull-back: hotel meets Bãi Dài beach",
+      "Slow pan across outdoor infinity pool",
+      "Spa treatment room, candles lit",
+      "Restaurant plating, oceanfront table",
+      "Sleek room reveal, balcony door opens",
+      "Guest walking shoreline at golden hour"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
