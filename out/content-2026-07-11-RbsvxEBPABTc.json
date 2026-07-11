@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you land in Phu Quoc and realize you need dong before anything else. Skip the airport rip-off rates. EXMoney Phu Quoc Night Market at 10 Đường Nguyễn Trãi is rated 4.9 stars by 42 people who already made this mistake so you don't have to. Night market location means you sort your cash and start spending it in the same five minutes. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into Phu Quoc with no dong is a bad start. 4.9 stars, night market location, no detour required. Exchange here first, thank yourself later.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #PhuQuocNightMarket #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTravel"
+  },
+  "instagram": {
+    "caption": "POV: you almost exchanged at the airport. Don't. EXMoney at Đường Nguyễn Trãi, 4.9 stars. Save this for your Phu Quoc trip.",
+    "video_caption": "First stop after landing: not the resort. 4.9-star currency exchange inside the night market. Sort your dong, then eat.",
+    "hashtags": "#PhuQuocTips #PhuQuocNightMarket #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Skip the airport exchange. 4.9 stars at Đường Nguyễn Trãi night market. Your wallet will thank you. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Don't exchange at the airport.",
+    "scenes": [
+      "Aerial shot: Phu Quoc airport arrivals",
+      "Cut to: crowded airport exchange counter",
+      "Walk along 10 Đường Nguyễn Trãi at night",
+      "Close-up: 4.9-star sign at EXMoney booth",
+      "Hands counting fresh Vietnamese dong",
+      "Wide shot: night market buzzing behind"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk past this place every single day on Đường Trần Hưng Đạo. Their loss.\n\nRajwadi Zaikah Indian Restaurant is pulling a 4.7★ from 229 reviews and the expat crowd already knows. Proper curries, real spice levels, zero resort markup. On an island where seafood gets repetitive fast, this is the reset button your stomach needs.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Butter chicken in Phu Quoc. 4.7 stars. 229 people vouching. Walk into Rajwadi Zaikah on Đường Trần Hưng Đạo and order like you mean it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #IndianFoodVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Rajwadi Zaikah. 4.7★ from 229 reviews says that's a mistake.\n\nTag your travel buddy.",
+    "video_caption": "229 reviews. 4.7 stars. Phu Quoc's Indian spot most tourists completely miss.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #IndianFoodVietnam #VietnamTravel #TravelTips #TravelReels #FoodieTravel"
+  },
+  "tiktok": {
+    "caption": "Walked past this 3 times. Finally went in. Rajwadi Zaikah = 4.7★ for a reason. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists keep skipping this.",
+    "scenes": [
+      "Street-level exterior shot, Đường Trần Hưng Đạo",
+      "Door opens, warm interior revealed",
+      "Hands pulling apart fresh naan bread",
+      "Rich curry poured into bowl, steam rising",
+      "Phone screen showing 4.7★, 229 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

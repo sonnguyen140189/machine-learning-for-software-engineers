@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 151 reviews. A 100% pure veg Indian restaurant inside Sunset Town, Phu Quoc.\n\nMaharaja Lounge sits right beside Starbucks near the Kiss Bridge in An Thới. Authentic curries, no meat, no compromise. The kind of place vegetarian travelers usually can't find on this island.\n\nIf you're Indian, veg, or just craving real dal and roti after a week of seafood, this is your spot.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Steaming curry, fresh roti, zero meat. Maharaja Lounge in Sunset Town is pulling 4.9 stars for a reason. Pure veg Indian food in Phu Quoc actually exists, and it's right next to the Kiss Bridge.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #IndianFoodVietnam #VegetarianTravel #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 151 reviews. Pure veg Indian food in Phu Quoc.\n\nMaharaja Lounge, Sunset Town. Next to Starbucks, beside the Kiss Bridge. Save this.",
+    "video_caption": "Real dal. Fresh roti. 4.9 stars. Maharaja Lounge is the veg Indian spot Phu Quoc was missing.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #IndianFoodVietnam #VegetarianTravel #VietnamTravel #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.9 stars pure veg Indian food in Phu Quoc? Maharaja Lounge delivers. #PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFood"
+  },
+  "video_script": {
+    "hook": "4.9 stars. Pure veg. Phu Quoc.",
+    "scenes": [
+      "Exterior shot: Sunset Town sign, Starbucks visible beside",
+      "Close-up: steaming bowl of dal or curry",
+      "Hands tearing fresh roti, steam rising",
+      "Wide shot: restaurant interior, diners eating",
+      "Phone screen showing 4.9 star rating, 151 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

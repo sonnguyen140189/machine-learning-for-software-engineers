@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you took a wrong turn on Đường Nguyễn Du and found a 4.8-star BBQ spot nobody in your hotel mentioned. Song Gia Food Phu Quoc sits at 62a, quiet street, smoke rolling, coals already hot. Thirty reviews, all glowing. Order, sit, eat. That's the whole plan. Save this for your Phu Quoc trip.",
+    "video_caption": "Smoke, coals, a street most tourists skip. Song Gia Food Phu Quoc on Đường Nguyễn Du is pulling a 4.8 with barely 30 reviews. That ratio means something. Watch the grill and decide.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked past twice. Then smelled the smoke. Song Gia Food Phu Quoc, 4.8 stars, 30 reviews, Đường Nguyễn Du. Tag your travel buddy.",
+    "video_caption": "Coals lit. Smoke up. 4.8 stars on a quiet street. Song Gia Food Phu Quoc earns it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BBQLovers"
+  },
+  "tiktok": {
+    "caption": "POV: found a 4.8-star BBQ spot by accident on Đường Nguyễn Du 🔥 #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Walked past twice. Don't be me.",
+    "scenes": [
+      "Street-level shot: 62a Đường Nguyễn Du sign",
+      "Smoke rising from hot coals, close-up",
+      "Skewers hitting the grill, sizzle sound",
+      "Food plated, steam rising, table setting",
+      "Google rating 4.8 shown on phone screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

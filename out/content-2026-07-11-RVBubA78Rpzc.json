@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you follow the smoke, the noise, and the smell of grilled seafood down Đường Trần Hưng Đạo at night. That's how you find Chợ đêm Phú Quốc. Rows of street food, local vendors, fresh catches cooked in front of you. 4.2 stars from 371 people who made the same wrong turn into the right place. Go hungry. Go late. Save this for your Phu Quoc trip.",
+    "video_caption": "Grill smoke rising. Vendors shouting. Seafood straight off the boat at Chợ đêm Phú Quốc. This is what Phu Quoc nights actually look like, not the resort bar version.",
+    "first_comment": "#PhuQuoc #PhuQuocNightMarket #PhuQuocFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "POV: you follow the smoke down Đường Trần Hưng Đạo and end up at Chợ đêm Phú Quốc. 4.2★, 371 reviews. Go hungry. Tag your travel buddy.",
+    "video_caption": "Grills on, crowd in. Chợ đêm Phú Quốc hits different after dark. This is the real Phu Quoc night out.",
+    "hashtags": "#PhuQuocFood #PhuQuocNightMarket #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #StreetFoodAsia #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Walked toward the smoke. Ended up at Chợ đêm Phú Quốc. Best decision of the trip. #PhuQuoc #PhuQuocFood #VietnamStreetFood #NightMarket"
+  },
+  "video_script": {
+    "hook": "Walked toward the smoke.",
+    "scenes": [
+      "Overhead shot: packed night market crowd",
+      "Vendor flips seafood on open grill",
+      "Close-up: prawns, squid, clams plated",
+      "Traveler takes first bite, reacts",
+      "Wide shot: Đường Trần Hưng Đạo lit up at night"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

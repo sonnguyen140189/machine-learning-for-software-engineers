@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this one. A pure veg Indian restaurant in Phu Quoc, sitting quietly near Cầu Bà Phong, pulling a 4.8-star rating from the people who actually found it. No meat on the menu. No tourists at the tables. Just solid, consistent Indian food on an island where that should not be possible. If you're vegetarian and heading to Phu Quoc, save this now. You'll thank yourself later.",
+    "video_caption": "Pure veg Indian food in Phu Quoc. 4.8 stars. Almost nobody knows it's here. Watch this before you book your meals.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFoodVietnam #TravelTips #PhuQuocRestaurants #VisitVietnam"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this. Pure veg Indian food in Phu Quoc, 4.8 stars, almost no one knows it exists. Save this for your trip.",
+    "video_caption": "4.8 stars. Pure veg. Hidden in plain sight near Cầu Bà Phong. Phu Quoc delivered.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianTravel #IndianFoodVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Pure veg Indian restaurant in Phu Quoc nobody talks about. 4.8 stars. Go find it. #PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior shot near Cầu Bà Phong, quiet street",
+      "Sign: Desi Indian Restaurant, Pure Veg",
+      "Camera pans full menu board",
+      "Close-up: steaming curry hits the table",
+      "Reviewer rating: 4.8 stars, 55 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
