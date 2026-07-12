@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you ducked into Hẻm 111 and found Đảo Hải Sản.\n\n4.7 stars. 1,379 reviews. $15-30 a person for fresh seafood in Phu Quoc. Do the math.\n\nThis place is tucked into a side street off Đ. Trần Phú. Easy to walk past. Don't.\n\nOrder big. The bill still won't hurt.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the tank-to-table process at Đảo Hải Sản. Pick your seafood live, watch it land on your plate minutes later. $15-30 a head. 4.7 stars from 1,379 people. Hẻm 111 Đ. Trần Phú, Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #SeafoodPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: wrong alley, right restaurant. Đảo Hải Sản. 4.7★, 1,379 reviews, $15-30/head.\n\nTag your travel buddy.",
+    "video_caption": "Live tanks. Fresh plates. Hẻm 111, Phu Quoc. Đảo Hải Sản hits every time.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #SeafoodPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Walked down the wrong alley. Found Đảo Hải Sản. 4.7★ seafood for $15-30. Phu Quoc wins again. #PhuQuoc #PhuQuocFood #SeafoodLovers #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Wrong alley. Best meal.",
+    "scenes": [
+      "Zoom into Hẻm 111 street sign",
+      "Walk through narrow alley entrance",
+      "Reveal live seafood tanks up close",
+      "Chef grabs fresh catch from tank",
+      "Steaming plates hit the table",
+      "Wide shot: packed local crowd dining"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

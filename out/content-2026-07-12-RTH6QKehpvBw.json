@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "3,822 reviews. 4.8 stars. On the main strip in Phu Quoc.\n\nFIONA SPA on Đường Trần Hưng Đạo is not flying under the radar. It's just that good. Thousands of tourists rated it near-perfect and kept quiet about it.\n\nBook ahead. It fills up fast.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the therapist work. Shoulders drop in the first 60 seconds. Fiona Spa on Đường Trần Hưng Đạo, Phú Quốc. 4.8 stars across 3,822 reviews. Your body already knows it needs this.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "3,822 reviews. 4.8 stars. Fiona Spa delivers every single time.\n\nDon't sleep on Đường Trần Hưng Đạo. Tag your travel buddy.",
+    "video_caption": "Hands on your back. Tension gone in minutes. Fiona Spa, Phú Quốc. 4.8 stars. Book before it's full.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocVietnam #SpaDay"
+  },
+  "tiktok": {
+    "caption": "3,822 people rated this 4.8 stars. Fiona Spa, Phú Quốc. Your turn. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★ across 3,822 reviews.",
+    "scenes": [
+      "Exterior shot: Fiona Spa sign, busy Đường Trần Hưng Đạo",
+      "Close-up: reception desk, soft lighting, calm staff",
+      "Hands pour warm oil, slow motion",
+      "Wide shot: therapist working on full back massage",
+      "Review screen: 4.8 stars, 3,822 ratings zoomed in",
+      "Guest walks out relaxed, street behind them"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

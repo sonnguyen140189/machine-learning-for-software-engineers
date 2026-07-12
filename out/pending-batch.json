@@ -1,0 +1,525 @@
+{
+  "stamp": "2026-07-12",
+  "items": [
+    {
+      "placeId": "ChIJxyir2P0fCDERr4lf9WU--CQ",
+      "placeName": "Mai Hương Beachfront",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-12-Rr4lf9WU--CQ-0.jpg",
+        "out/media/2026-07-12-Rr4lf9WU--CQ-1.jpg",
+        "out/media/2026-07-12-Rr4lf9WU--CQ-2.jpg",
+        "out/media/2026-07-12-Rr4lf9WU--CQ-3.jpg",
+        "out/media/2026-07-12-Rr4lf9WU--CQ-4.jpg",
+        "out/media/2026-07-12-Rr4lf9WU--CQ-5.jpg",
+        "out/media/2026-07-12-Rr4lf9WU--CQ-6.jpg",
+        "out/media/2026-07-12-Rr4lf9WU--CQ-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.9 stars. 2,947 reviews. At a beachfront restaurant in Phu Quoc.\n\nMai Hương Beachfront sits right on the Grand World waterfront at Quãng Trường Biển, and the numbers don't lie. Nearly 3,000 people rated it almost perfectly. That doesn't happen by accident.\n\nAdd this to your Phu Quoc restaurant list before the crowds catch on.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Waves behind you. Food in front of you. 4.9 stars from 2,947 people at Mai Hương Beachfront, Grand World Phu Quoc. This is what the waterfront dining scene actually looks like here.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #GrandWorldPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "4.9★ from 2,947 reviews. Mai Hương Beachfront is not an accident.\n\nQuãng Trường Biển, Grand World. Put it on your list.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "2,947 people gave this 4.9 stars. Mai Hương Beachfront delivers. Tag your travel buddy.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #GrandWorldPhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.9★ from 2,947 reviews at Mai Hương Beachfront, Phu Quoc. That rating is rare. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.9★. 2,947 reviews.",
+          "scenes": [
+            "Aerial pan: Grand World waterfront at dusk",
+            "Cut to: restaurant entrance, guests arriving",
+            "Close-up: dishes landing on beachfront table",
+            "Wide shot: diners, ocean in background",
+            "Text overlay: 4.9★ from 2,947 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJtePCImGLpzER70_qwXv_noQ",
+      "placeName": "Đảo Hải Sản | Seafood Restaurant · 해산물 · Рестораны Phú Quốc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-12-R70_qwXv_noQ-0.jpg",
+        "out/media/2026-07-12-R70_qwXv_noQ-1.jpg",
+        "out/media/2026-07-12-R70_qwXv_noQ-2.jpg",
+        "out/media/2026-07-12-R70_qwXv_noQ-3.jpg",
+        "out/media/2026-07-12-R70_qwXv_noQ-4.jpg",
+        "out/media/2026-07-12-R70_qwXv_noQ-5.jpg",
+        "out/media/2026-07-12-R70_qwXv_noQ-6.jpg",
+        "out/media/2026-07-12-R70_qwXv_noQ-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-12-R70_qwXv_noQ.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you ducked into Hẻm 111 and found Đảo Hải Sản.\n\n4.7 stars. 1,379 reviews. $15-30 a person for fresh seafood in Phu Quoc. Do the math.\n\nThis place is tucked into a side street off Đ. Trần Phú. Easy to walk past. Don't.\n\nOrder big. The bill still won't hurt.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the tank-to-table process at Đảo Hải Sản. Pick your seafood live, watch it land on your plate minutes later. $15-30 a head. 4.7 stars from 1,379 people. Hẻm 111 Đ. Trần Phú, Phu Quoc.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #SeafoodPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: wrong alley, right restaurant. Đảo Hải Sản. 4.7★, 1,379 reviews, $15-30/head.\n\nTag your travel buddy.",
+          "video_caption": "Live tanks. Fresh plates. Hẻm 111, Phu Quoc. Đảo Hải Sản hits every time.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #SeafoodPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "Walked down the wrong alley. Found Đảo Hải Sản. 4.7★ seafood for $15-30. Phu Quoc wins again. #PhuQuoc #PhuQuocFood #SeafoodLovers #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Wrong alley. Best meal.",
+          "scenes": [
+            "Zoom into Hẻm 111 street sign",
+            "Walk through narrow alley entrance",
+            "Reveal live seafood tanks up close",
+            "Chef grabs fresh catch from tank",
+            "Steaming plates hit the table",
+            "Wide shot: packed local crowd dining"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJLUwZPQCNpzERZrGj0TvOFHI",
+      "placeName": "Layla Mermaid Tours - Premium 4 Island Snorkeling & Beach BBQ Escape",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-12-RZrGj0TvOFHI-0.jpg",
+        "out/media/2026-07-12-RZrGj0TvOFHI-1.jpg",
+        "out/media/2026-07-12-RZrGj0TvOFHI-2.jpg",
+        "out/media/2026-07-12-RZrGj0TvOFHI-3.jpg",
+        "out/media/2026-07-12-RZrGj0TvOFHI-4.jpg",
+        "out/media/2026-07-12-RZrGj0TvOFHI-5.jpg",
+        "out/media/2026-07-12-RZrGj0TvOFHI-6.jpg",
+        "out/media/2026-07-12-RZrGj0TvOFHI-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you booked a snorkel tour and accidentally got the best day of your trip.\n\nLayla Mermaid Tours runs a 4-island escape out of Đường Trần Hưng Đạo, and the 5.0★ from 192 reviews is not a fluke. Snorkeling, beach BBQ, four islands in one day. That's a full itinerary handled.\n\nIf you're only doing one sea day in Phu Quoc, this is the one to lock in.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Four islands. One boat. A beach BBQ you didn't see coming. Layla Mermaid Tours is hitting 5.0★ across 192 reviews for a reason. Watch this before you book anything else.",
+          "first_comment": "#PhuQuoc #PhuQuocIsland #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #SnorkelingTour #IslandHopping"
+        },
+        "instagram": {
+          "caption": "POV: one boat tour just became the highlight of your whole trip.\n\nLayla Mermaid Tours. 4 islands. Beach BBQ. 5.0★, 192 reviews. Tag your travel buddy.",
+          "video_caption": "4 islands, 1 day, beach BBQ included. Layla Mermaid Tours is carrying a perfect 5.0★. Book this before someone else does.",
+          "hashtags": "#PhuQuocTours #PhuQuocIsland #IslandHoppingVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #SnorkelingVietnam"
+        },
+        "tiktok": {
+          "caption": "POV: you picked the right tour on day one. 4 islands + beach BBQ + 5.0★ = no notes. #PhuQuoc #IslandHopping #VietnamTravel #PhuQuocTips"
+        },
+        "video_script": {
+          "hook": "POV: best day of your trip.",
+          "scenes": [
+            "Boat leaving dock at sunrise",
+            "Snorkel gear on, drop into reef",
+            "Coral and fish, close-up underwater",
+            "Beach BBQ spread laid out on sand",
+            "Four island stops, wide aerial shot",
+            "Guests cheering on the boat deck"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJhwi1TFqTpzERiZQmfO7PxUY",
+      "placeName": "Rooty Trip Phú Quốc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-12-RiZQmfO7PxUY-0.jpg",
+        "out/media/2026-07-12-RiZQmfO7PxUY-1.jpg",
+        "out/media/2026-07-12-RiZQmfO7PxUY-2.jpg",
+        "out/media/2026-07-12-RiZQmfO7PxUY-3.jpg",
+        "out/media/2026-07-12-RiZQmfO7PxUY-4.jpg",
+        "out/media/2026-07-12-RiZQmfO7PxUY-5.jpg",
+        "out/media/2026-07-12-RiZQmfO7PxUY-6.jpg",
+        "out/media/2026-07-12-RiZQmfO7PxUY-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-12-RiZQmfO7PxUY.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.8 stars. 1,029 reviews. One tour agency on Đường Trần Hưng Đạo that keeps showing up.\n\nRooty Trip Phú Quốc is what happens when locals actually run the tours. No cookie-cutter boat trips. No oversized groups. Just people who know this island and show you the parts worth seeing.\n\nIf you're planning tours for your Phu Quoc trip, this one earns its rating. Save this for your Phu Quoc trip.",
+          "video_caption": "1,029 people rated this tour agency 4.8 stars. Watch what they're actually booking at Rooty Trip Phú Quốc on Đường Trần Hưng Đạo. This is how you do Phu Quoc right.",
+          "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTravel #VietnamTours"
+        },
+        "instagram": {
+          "caption": "4.8 stars. 1,029 reviews. Rooty Trip Phú Quốc keeps earning it.\n\nLocal-run tours. No giant crowds. Save this for your Phu Quoc trip.",
+          "video_caption": "1,029 reviews. 4.8 stars. Rooty Trip Phú Quốc on Đường Trần Hưng Đạo. Book before it fills up.",
+          "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.8 stars. 1,029 reviews. Rooty Trip Phú Quốc delivers. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.8★ / 1,029 reviews. One agency.",
+          "scenes": [
+            "Pan across 191 Đường Trần Hưng Đạo storefront",
+            "Staff pointing out tour map to couple",
+            "Boat leaving dock at sunrise",
+            "Group snorkeling clear Phu Quoc water",
+            "Close-up: phone screen showing 4.8-star review"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJZWGJPeONpzERce--tYenego",
+      "placeName": "Алиса гид по Фукуоку",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-12-Rce--tYenego-1.jpg",
+        "out/media/2026-07-12-Rce--tYenego-2.jpg",
+        "out/media/2026-07-12-Rce--tYenego-3.jpg",
+        "out/media/2026-07-12-Rce--tYenego-4.jpg",
+        "out/media/2026-07-12-Rce--tYenego-5.jpg",
+        "out/media/2026-07-12-Rce--tYenego-6.jpg",
+        "out/media/2026-07-12-Rce--tYenego-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you land in Phu Quoc with zero plan and find a local guide who actually knows the island. Алиса гид по Фукуоку on Đường Trần Hưng Đạo is the move. 4.8 stars across 126 reviews. That score means repeat clients. Skip the guesswork on day one. Save this for your Phu Quoc trip.",
+          "video_caption": "Walked into a travel agency expecting generic tours. Left with a day-by-day itinerary built around what I actually wanted. Алиса гид по Фукуоку, 105 Đường Trần Hưng Đạo. 4.8 stars. 126 people agree.",
+          "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #PhuQuocGuide"
+        },
+        "instagram": {
+          "caption": "POV: your Phu Quoc itinerary is sorted before you even unpack. Алиса гид по Фукуоку. 4.8★, 126 reviews. Tag your travel buddy.",
+          "video_caption": "4.8 stars. 126 reviews. One agency that actually plans around you. Алиса гид по Фукуоку on Đường Trần Hưng Đạo.",
+          "hashtags": "#PhuQuocTips #PhuQuocGuide #VietnamTravel #TravelTips #PhuQuoc #TravelReels #VisitVietnam #PhuQuocIsland"
+        },
+        "tiktok": {
+          "caption": "POV: found a 4.8★ guide service before your Phu Quoc trip even starts. Game changer. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "POV: Phu Quoc. Zero plan.",
+          "scenes": [
+            "Arrive at 105 Đường Trần Hưng Đạo storefront",
+            "Agent maps out custom day-by-day route",
+            "Close-up: 4.8★ review screen, 126 reviews",
+            "Traveler walks out, itinerary in hand",
+            "Cut to: real spots on the island, no tourist traps"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ2SBPKCONpzER36aEkpOGpyk",
+      "placeName": "Nice Tours Phu Quoc - Tailor Made Travel",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-12-R36aEkpOGpyk-0.jpg",
+        "out/media/2026-07-12-R36aEkpOGpyk-1.jpg",
+        "out/media/2026-07-12-R36aEkpOGpyk-2.jpg",
+        "out/media/2026-07-12-R36aEkpOGpyk-3.jpg",
+        "out/media/2026-07-12-R36aEkpOGpyk-4.jpg",
+        "out/media/2026-07-12-R36aEkpOGpyk-5.jpg",
+        "out/media/2026-07-12-R36aEkpOGpyk-6.jpg",
+        "out/media/2026-07-12-R36aEkpOGpyk-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-12-R36aEkpOGpyk.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "5.0 stars. 187 reviews. Zero exceptions.\n\nNice Tours Phu Quoc - Tailor Made Travel on Tran Hung Dao is the operator locals actually recommend when friends visit. No cookie-cutter group tours. They build the itinerary around you.\n\nSkip the resort desk. Skip the generic day trip. This is the contact you want before you land.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch what happens when your Phu Quoc itinerary is actually built for YOU. Nice Tours Phu Quoc - Tailor Made Travel. 5.0 stars, 187 reviews, zero bad ones. Book before you arrive.",
+          "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #PhuQuocTravel #VietnamTravel #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "5.0 stars. 187 reviews. Not one below perfect.\n\nNice Tours Phu Quoc - Tailor Made Travel builds trips around you, not a bus schedule. Save this.",
+          "video_caption": "187 five-star reviews and they still build every trip from scratch. Nice Tours Phu Quoc. Tag your travel buddy.",
+          "hashtags": "#PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocTours #VisitVietnam #VietnamTours"
+        },
+        "tiktok": {
+          "caption": "5.0 stars across 187 reviews. Nice Tours Phu Quoc builds your trip, your way. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels"
+        },
+        "video_script": {
+          "hook": "5.0 ★, 187 reviews.",
+          "scenes": [
+            "Pan: 127 Tran Hung Dao storefront",
+            "Close-up: phone screen, 5-star reviews scrolling",
+            "Staff mapping a custom island route",
+            "Cut to: boat, beach, jungle, all in one day",
+            "Zoom out: happy tourists boarding transport"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ4YZT316MpzERCRfSDHQgbtk",
+      "placeName": "Cassia Cottage Resort & Spa Phu Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-12-RCRfSDHQgbtk-0.jpg",
+        "out/media/2026-07-12-RCRfSDHQgbtk-1.jpg",
+        "out/media/2026-07-12-RCRfSDHQgbtk-2.jpg",
+        "out/media/2026-07-12-RCRfSDHQgbtk-3.jpg",
+        "out/media/2026-07-12-RCRfSDHQgbtk-4.jpg",
+        "out/media/2026-07-12-RCRfSDHQgbtk-5.jpg",
+        "out/media/2026-07-12-RCRfSDHQgbtk-6.jpg",
+        "out/media/2026-07-12-RCRfSDHQgbtk-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes burnout. Cassia Cottage Resort & Spa Phu Quoc sits right on a private beach, with a beach bar, outdoor pools, and a restaurant that means you never have to leave. 4.6 stars across 1,391 reviews. That kind of consistency takes real work. Save this for your Phu Quoc trip.",
+          "video_caption": "Private beach. Beach bar. Pools. Cassia Cottage Resort & Spa Phu Quoc earns its 4.6 stars the hard way. Watch the water from your lounger and do absolutely nothing. Ideal.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "This place fixes burnout. Private beach. Beach bar. Pools. Cassia Cottage Resort & Spa Phu Quoc, 4.6★ from 1,391 guests. Save this.",
+          "video_caption": "Beach bar steps from your lounger. Cassia Cottage Resort & Spa Phu Quoc earns 4.6 stars for a reason. Tag your travel buddy.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachResort"
+        },
+        "tiktok": {
+          "caption": "When the beach bar is 10 steps away. Cassia Cottage Resort & Spa Phu Quoc. 4.6★. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelReels"
+        },
+        "video_script": {
+          "hook": "This place fixes burnout.",
+          "scenes": [
+            "Drone pulls back over private beach",
+            "Turquoise pool, no one in it yet",
+            "Beach bar, cold drinks lined up",
+            "Guest on lounger, waves behind them",
+            "Restaurant table set at golden hour"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJcdSi1ayNpzERvyJ8tt9HvWs",
+      "placeName": "West Life Bungalow Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-12-RvyJ8tt9HvWs-0.jpg",
+        "out/media/2026-07-12-RvyJ8tt9HvWs-1.jpg",
+        "out/media/2026-07-12-RvyJ8tt9HvWs-2.jpg",
+        "out/media/2026-07-12-RvyJ8tt9HvWs-3.jpg",
+        "out/media/2026-07-12-RvyJ8tt9HvWs-4.jpg",
+        "out/media/2026-07-12-RvyJ8tt9HvWs-5.jpg",
+        "out/media/2026-07-12-RvyJ8tt9HvWs-6.jpg",
+        "out/media/2026-07-12-RvyJ8tt9HvWs-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-12-RvyJ8tt9HvWs.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.9 stars. 168 reviews. West Life Bungalow Phu Quoc is not flying under the radar anymore. Located right on Đường Trần Hưng Đạo, this place consistently pulls near-perfect scores from real travelers. Not a resort. Not a chain. Just a bungalow stay that keeps delivering. Book before the prices catch up to the rating. Save this for your Phu Quoc trip.",
+          "video_caption": "168 reviewers gave this place 4.9 stars. Walking through West Life Bungalow Phu Quoc and you'll see exactly why. Đường Trần Hưng Đạo, Phu Quoc. Go.",
+          "first_comment": "#PhuQuoc #PhuQuocHotels #VisitVietnam #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "4.9 stars. 168 reviews. West Life Bungalow Phu Quoc keeps earning it. Tag your travel buddy.",
+          "video_caption": "168 people rated this 4.9. West Life Bungalow Phu Quoc. Đường Trần Hưng Đạo. See it for yourself.",
+          "hashtags": "#PhuQuocHotels #PhuQuocTips #PhuQuocAccommodation #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.9 stars, 168 reviews. West Life Bungalow Phu Quoc is the real deal. #PhuQuoc #PhuQuocHotels #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.9★ 168 reviews. Phu Quoc.",
+          "scenes": [
+            "Slow pan across bungalow exterior",
+            "Close-up: 4.9 star review screen",
+            "Walk through entrance pathway",
+            "Guest relaxing in open-air space",
+            "Sign: Đường Trần Hưng Đạo address"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJiyzaO4CNpzERTH6QKehpvBw",
+      "placeName": "FIONA SPA",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-12-RTH6QKehpvBw-0.jpg",
+        "out/media/2026-07-12-RTH6QKehpvBw-1.jpg",
+        "out/media/2026-07-12-RTH6QKehpvBw-2.jpg",
+        "out/media/2026-07-12-RTH6QKehpvBw-3.jpg",
+        "out/media/2026-07-12-RTH6QKehpvBw-4.jpg",
+        "out/media/2026-07-12-RTH6QKehpvBw-5.jpg",
+        "out/media/2026-07-12-RTH6QKehpvBw-6.jpg",
+        "out/media/2026-07-12-RTH6QKehpvBw-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "3,822 reviews. 4.8 stars. On the main strip in Phu Quoc.\n\nFIONA SPA on Đường Trần Hưng Đạo is not flying under the radar. It's just that good. Thousands of tourists rated it near-perfect and kept quiet about it.\n\nBook ahead. It fills up fast.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the therapist work. Shoulders drop in the first 60 seconds. Fiona Spa on Đường Trần Hưng Đạo, Phú Quốc. 4.8 stars across 3,822 reviews. Your body already knows it needs this.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "3,822 reviews. 4.8 stars. Fiona Spa delivers every single time.\n\nDon't sleep on Đường Trần Hưng Đạo. Tag your travel buddy.",
+          "video_caption": "Hands on your back. Tension gone in minutes. Fiona Spa, Phú Quốc. 4.8 stars. Book before it's full.",
+          "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocVietnam #SpaDay"
+        },
+        "tiktok": {
+          "caption": "3,822 people rated this 4.8 stars. Fiona Spa, Phú Quốc. Your turn. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.8★ across 3,822 reviews.",
+          "scenes": [
+            "Exterior shot: Fiona Spa sign, busy Đường Trần Hưng Đạo",
+            "Close-up: reception desk, soft lighting, calm staff",
+            "Hands pour warm oil, slow motion",
+            "Wide shot: therapist working on full back massage",
+            "Review screen: 4.8 stars, 3,822 ratings zoomed in",
+            "Guest walks out relaxed, street behind them"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJCT7IJHeNpzERsmyKSQegiig",
+      "placeName": "YUJU SPA Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-12-RsmyKSQegiig-0.jpg",
+        "out/media/2026-07-12-RsmyKSQegiig-1.jpg",
+        "out/media/2026-07-12-RsmyKSQegiig-2.jpg",
+        "out/media/2026-07-12-RsmyKSQegiig-3.jpg",
+        "out/media/2026-07-12-RsmyKSQegiig-4.jpg",
+        "out/media/2026-07-12-RsmyKSQegiig-5.jpg",
+        "out/media/2026-07-12-RsmyKSQegiig-6.jpg",
+        "out/media/2026-07-12-RsmyKSQegiig-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-12-RsmyKSQegiig.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.9 stars. 5,866 reviews. On a massage spa in Phu Quoc.\n\nYUJU SPA Phu Quoc on Đường Trần Hưng Đạo is not flying under the radar. Nearly 6,000 people rated it and almost all of them gave it five stars. That kind of consistency is rare anywhere, let alone on a beach island.\n\nBook ahead. This one fills up fast.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Hands working out every knot from a full day of beaches and scooter rides. This is YUJU SPA Phu Quoc. 4.9 stars across 5,866 reviews. Your body will thank you for not skipping this.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "4.9 stars. 5,866 reviews. YUJU SPA Phu Quoc earns every one.\n\nBook ahead. Save this for your Phu Quoc trip.",
+          "video_caption": "5,866 people rated this spa and barely anyone gave it less than 5 stars. YUJU SPA Phu Quoc. Go.",
+          "hashtags": "#PhuQuocSpa #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocVietnam #SpaDay"
+        },
+        "tiktok": {
+          "caption": "4.9 stars. 5,866 reviews. YUJU SPA Phu Quoc is built different. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "5,866 reviews. 4.9 stars.",
+          "scenes": [
+            "Exterior shot: YUJU SPA signage on Đường Trần Hưng Đạo",
+            "Rating graphic animates on screen: 4.9★ 5,866 reviews",
+            "Therapist prepares treatment table, oils ready",
+            "Guest face-down, shoulders visibly relaxing",
+            "Close-up: hands pressing deep into tired muscles",
+            "Guest exits, calm face, golden-hour light outside"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJPXLuTs2NpzERES05dJcH7Jc",
+      "placeName": "푸꾸옥 티라운지 엔 문스파(t-lounge & moon spa ) 카카오톡",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-12-RES05dJcH7Jc-0.jpg",
+        "out/media/2026-07-12-RES05dJcH7Jc-1.jpg",
+        "out/media/2026-07-12-RES05dJcH7Jc-2.jpg",
+        "out/media/2026-07-12-RES05dJcH7Jc-3.jpg",
+        "out/media/2026-07-12-RES05dJcH7Jc-4.jpg",
+        "out/media/2026-07-12-RES05dJcH7Jc-5.jpg",
+        "out/media/2026-07-12-RES05dJcH7Jc-6.jpg",
+        "out/media/2026-07-12-RES05dJcH7Jc-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "5.0 stars. 5,692 reviews. Not one person left disappointed.\n\nT-Lounge & Moon Spa on Đường Trần Hưng Đạo is the spa Phu Quoc visitors keep coming back to. Perfect score across thousands of reviews is not luck. That is consistency.\n\nBook before your trip fills up. Save this for your Phu Quoc trip.",
+          "video_caption": "5,692 people gave this spa a perfect 5.0. Watch what they keep coming back for. T-Lounge & Moon Spa, Đường Trần Hưng Đạo, Phu Quoc.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "5,692 reviews. Perfect 5.0 stars. T-Lounge & Moon Spa delivers every time. Save this for your Phu Quoc trip.",
+          "video_caption": "A perfect 5.0 from 5,692 people. This is what it looks like inside. Tag your travel buddy.",
+          "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+        },
+        "tiktok": {
+          "caption": "5,692 reviews. Perfect 5.0 stars. No notes. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "5,692 reviews. Perfect 5.0.",
+          "scenes": [
+            "Exterior sign: T-Lounge & Moon Spa",
+            "Pan across reception area",
+            "Therapist prepping treatment room",
+            "Close-up: hands during massage",
+            "Guest relaxing post-treatment",
+            "Google review wall: 5.0 stars"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJw0auYQCNpzER8BCjNBsmIBs",
+      "placeName": "LUA SPA",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-12-R8BCjNBsmIBs-0.jpg",
+        "out/media/2026-07-12-R8BCjNBsmIBs-1.jpg",
+        "out/media/2026-07-12-R8BCjNBsmIBs-2.jpg",
+        "out/media/2026-07-12-R8BCjNBsmIBs-3.jpg",
+        "out/media/2026-07-12-R8BCjNBsmIBs-4.jpg",
+        "out/media/2026-07-12-R8BCjNBsmIBs-5.jpg",
+        "out/media/2026-07-12-R8BCjNBsmIBs-6.jpg",
+        "out/media/2026-07-12-R8BCjNBsmIBs-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-12-R8BCjNBsmIBs.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Locals don't. LUA SPA sits at 4.8 stars across 2,028 reviews and somehow stays off every resort concierge list. Book a session after a long beach day. Your legs will thank you. Save this for your Phu Quoc trip.",
+          "video_caption": "Hands working out every knot from a full Phu Quoc beach day. LUA SPA on Đường Trần Hưng Đạo. 4.8 stars, 2,028 reviews, zero hype. This is what recovery looks like.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "Tourists walk past. Locals book ahead. LUA SPA, 4.8★ across 2,028 reviews. Tag your travel buddy.",
+          "video_caption": "4.8 stars. 2,028 reviews. Still not on the tourist trail. LUA SPA delivers.",
+          "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocThailand #VietnamTravel #TravelTips #TravelReels #SpaTreatment"
+        },
+        "tiktok": {
+          "caption": "Locals keep booking this spa. Tourists keep missing it. LUA SPA, Phu Quoc. 4.8★ 2,028 reviews. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't post about this.",
+          "scenes": [
+            "Exterior shot: Đường Trần Hưng Đạo shopfront",
+            "Therapist hands prep warm oil",
+            "Close-up: candle flicker, dim ambient light",
+            "Full-body massage in progress",
+            "Screen text: 4.8★ across 2,028 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

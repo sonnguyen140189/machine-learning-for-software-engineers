@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 168 reviews. West Life Bungalow Phu Quoc is not flying under the radar anymore. Located right on Đường Trần Hưng Đạo, this place consistently pulls near-perfect scores from real travelers. Not a resort. Not a chain. Just a bungalow stay that keeps delivering. Book before the prices catch up to the rating. Save this for your Phu Quoc trip.",
+    "video_caption": "168 reviewers gave this place 4.9 stars. Walking through West Life Bungalow Phu Quoc and you'll see exactly why. Đường Trần Hưng Đạo, Phu Quoc. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 168 reviews. West Life Bungalow Phu Quoc keeps earning it. Tag your travel buddy.",
+    "video_caption": "168 people rated this 4.9. West Life Bungalow Phu Quoc. Đường Trần Hưng Đạo. See it for yourself.",
+    "hashtags": "#PhuQuocHotels #PhuQuocTips #PhuQuocAccommodation #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.9 stars, 168 reviews. West Life Bungalow Phu Quoc is the real deal. #PhuQuoc #PhuQuocHotels #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9★ 168 reviews. Phu Quoc.",
+    "scenes": [
+      "Slow pan across bungalow exterior",
+      "Close-up: 4.9 star review screen",
+      "Walk through entrance pathway",
+      "Guest relaxing in open-air space",
+      "Sign: Đường Trần Hưng Đạo address"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

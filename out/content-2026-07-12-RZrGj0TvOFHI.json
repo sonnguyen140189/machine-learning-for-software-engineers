@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you booked a snorkel tour and accidentally got the best day of your trip.\n\nLayla Mermaid Tours runs a 4-island escape out of Đường Trần Hưng Đạo, and the 5.0★ from 192 reviews is not a fluke. Snorkeling, beach BBQ, four islands in one day. That's a full itinerary handled.\n\nIf you're only doing one sea day in Phu Quoc, this is the one to lock in.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Four islands. One boat. A beach BBQ you didn't see coming. Layla Mermaid Tours is hitting 5.0★ across 192 reviews for a reason. Watch this before you book anything else.",
+    "first_comment": "#PhuQuoc #PhuQuocIsland #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #SnorkelingTour #IslandHopping"
+  },
+  "instagram": {
+    "caption": "POV: one boat tour just became the highlight of your whole trip.\n\nLayla Mermaid Tours. 4 islands. Beach BBQ. 5.0★, 192 reviews. Tag your travel buddy.",
+    "video_caption": "4 islands, 1 day, beach BBQ included. Layla Mermaid Tours is carrying a perfect 5.0★. Book this before someone else does.",
+    "hashtags": "#PhuQuocTours #PhuQuocIsland #IslandHoppingVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #SnorkelingVietnam"
+  },
+  "tiktok": {
+    "caption": "POV: you picked the right tour on day one. 4 islands + beach BBQ + 5.0★ = no notes. #PhuQuoc #IslandHopping #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: best day of your trip.",
+    "scenes": [
+      "Boat leaving dock at sunrise",
+      "Snorkel gear on, drop into reef",
+      "Coral and fish, close-up underwater",
+      "Beach BBQ spread laid out on sand",
+      "Four island stops, wide aerial shot",
+      "Guests cheering on the boat deck"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
