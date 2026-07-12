@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJw0auYQCNpzER8BCjNBsmIBs",
+    "ChIJPXLuTs2NpzERES05dJcH7Jc",
+    "ChIJCT7IJHeNpzERsmyKSQegiig",
+    "ChIJiyzaO4CNpzERTH6QKehpvBw",
+    "ChIJcdSi1ayNpzERvyJ8tt9HvWs",
+    "ChIJ4YZT316MpzERCRfSDHQgbtk",
+    "ChIJ2SBPKCONpzER36aEkpOGpyk",
+    "ChIJZWGJPeONpzERce--tYenego",
+    "ChIJhwi1TFqTpzERiZQmfO7PxUY",
+    "ChIJLUwZPQCNpzERZrGj0TvOFHI",
+    "ChIJtePCImGLpzER70_qwXv_noQ",
+    "ChIJxyir2P0fCDERr4lf9WU--CQ",
     "ChIJR4_RrzuVpzERTNZI9HaezLk",
     "ChIJlVd-PKCNpzER4kuW6-aFtAc",
     "ChIJG95PVOeNpzERkFIrScFenIo",
@@ -187,21 +199,189 @@
     "ChIJO2yx-4eMpzER80b94-QiU6c",
     "ChIJAz1J0-mNpzERyQ40GMjmouI",
     "ChIJVVVVVXQgCDER_KXFZ6RZQ8Q",
-    "ChIJ_0eqFMcfCDERGFRN2VvZDXg",
-    "ChIJUYfZHeSNpzER5-l8QW0lTcM",
-    "ChIJh878oruNpzER7b0NN-zrQpk",
-    "ChIJb5faY8qNpzERH4uW3FwoE5s",
-    "ChIJgfT9NoygKU8R8P0qLndf3k0",
-    "ChIJTdwiKNmVpzER1knXm_zr2zA",
-    "ChIJE6Jt3vuVpzERA6ErTfB79es",
-    "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
-    "ChIJrXaM1tmNpzERj7I5uw4cwro",
-    "ChIJo5M0X62NpzERgrGHtWo8nCQ",
-    "ChIJYQY76P2NpzERlul1IUfk3N8",
-    "ChIJ44y8R_uNpzERI0lt0GkPrNM",
-    "ChIJAWovfRONpzERI7y_gpk_6D0"
+    "ChIJ_0eqFMcfCDERGFRN2VvZDXg"
   ],
   "history": [
+    {
+      "date": "2026-07-12",
+      "placeId": "ChIJw0auYQCNpzER8BCjNBsmIBs",
+      "placeName": "LUA SPA",
+      "results": {
+        "facebookVideo": {
+          "id": "1356996963049519"
+        },
+        "instagramReel": {
+          "id": "18100983944181854"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "placeId": "ChIJPXLuTs2NpzERES05dJcH7Jc",
+      "placeName": "푸꾸옥 티라운지 엔 문스파(t-lounge & moon spa ) 카카오톡",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113616607313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18109988926954220"
+        }
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "placeId": "ChIJCT7IJHeNpzERsmyKSQegiig",
+      "placeName": "YUJU SPA Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "2154485625504471"
+        },
+        "instagramReel": {
+          "id": "17890236927580403"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "placeId": "ChIJiyzaO4CNpzERTH6QKehpvBw",
+      "placeName": "FIONA SPA",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113615809313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17957519856152682"
+        }
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "placeId": "ChIJcdSi1ayNpzERvyJ8tt9HvWs",
+      "placeName": "West Life Bungalow Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1034084426245965"
+        },
+        "instagramReel": {
+          "id": "18107379263323767"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "placeId": "ChIJ4YZT316MpzERCRfSDHQgbtk",
+      "placeName": "Cassia Cottage Resort & Spa Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113614813313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17898313902476876"
+        }
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "placeId": "ChIJ2SBPKCONpzER36aEkpOGpyk",
+      "placeName": "Nice Tours Phu Quoc - Tailor Made Travel",
+      "results": {
+        "facebookVideo": {
+          "id": "1345584564413407"
+        },
+        "instagramReel": {
+          "id": "18090390542565434"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "placeId": "ChIJZWGJPeONpzERce--tYenego",
+      "placeName": "Алиса гид по Фукуоку",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113614075313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17952932954999206"
+        }
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "placeId": "ChIJhwi1TFqTpzERiZQmfO7PxUY",
+      "placeName": "Rooty Trip Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1412801267536882"
+        },
+        "instagramReel": {
+          "id": "18080513528262027"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "placeId": "ChIJLUwZPQCNpzERZrGj0TvOFHI",
+      "placeName": "Layla Mermaid Tours - Premium 4 Island Snorkeling & Beach BBQ Escape",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113613301313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18421407430179025"
+        }
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "placeId": "ChIJtePCImGLpzER70_qwXv_noQ",
+      "placeName": "Đảo Hải Sản | Seafood Restaurant · 해산물 · Рестораны Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1574960274164288"
+        },
+        "instagramReel": {
+          "id": "18049089320584041"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "placeId": "ChIJxyir2P0fCDERr4lf9WU--CQ",
+      "placeName": "Mai Hương Beachfront",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113612515313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18071202782686874"
+        }
+      }
+    },
     {
       "date": "2026-07-11",
       "placeId": "ChIJR4_RrzuVpzERTNZI9HaezLk",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18106968751984003"
-        }
-      }
-    },
-    {
-      "date": "2026-06-24",
-      "placeId": "ChIJUYfZHeSNpzER5-l8QW0lTcM",
-      "placeName": "Liby Travel - Phu Quoc Island Tours",
-      "results": {
-        "facebookVideo": {
-          "id": "4235713806738723"
-        },
-        "instagramReel": {
-          "id": "18156805735420042"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-24",
-      "placeId": "ChIJh878oruNpzER7b0NN-zrQpk",
-      "placeName": "Ecodive Vietnam - Trung Tâm Lặn Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110672239313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18174775732416632"
-        }
-      }
-    },
-    {
-      "date": "2026-06-24",
-      "placeId": "ChIJb5faY8qNpzERH4uW3FwoE5s",
-      "placeName": "Vietnam Explorer PADI Dive Center",
-      "results": {
-        "facebookVideo": {
-          "id": "2045776076008701"
-        },
-        "instagramReel": {
-          "id": "18164201227451090"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-24",
-      "placeId": "ChIJgfT9NoygKU8R8P0qLndf3k0",
-      "placeName": "Poseidon Diving School Phu Quoc Padi",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110671315313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18211319695338540"
-        }
-      }
-    },
-    {
-      "date": "2026-06-23",
-      "placeId": "ChIJTdwiKNmVpzER1knXm_zr2zA",
-      "placeName": "Cafe Juliet & Pastries",
-      "results": {
-        "facebookVideo": {
-          "id": "1508855244353914"
-        },
-        "instagramReel": {
-          "id": "18125453143711059"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-23",
-      "placeId": "ChIJE6Jt3vuVpzERA6ErTfB79es",
-      "placeName": "The Juliet Coffee & Dessert - AMA71",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110522131313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18133939261599219"
-        }
-      }
-    },
-    {
-      "date": "2026-06-23",
-      "placeId": "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
-      "placeName": "LOLO BAKERY & CAFE (로로베이커리)",
-      "results": {
-        "facebookVideo": {
-          "id": "1551780929907004"
-        },
-        "instagramReel": {
-          "id": "18468551527107990"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-23",
-      "placeId": "ChIJrXaM1tmNpzERj7I5uw4cwro",
-      "placeName": "할로망고 푸꾸옥. HALO MANGO Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110521093313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18102967490282271"
-        }
-      }
-    },
-    {
-      "date": "2026-06-23",
-      "placeId": "ChIJo5M0X62NpzERgrGHtWo8nCQ",
-      "placeName": "MIX BAKERY COFFEE & TEA",
-      "results": {
-        "facebookVideo": {
-          "id": "2456675381423595"
-        },
-        "instagramReel": {
-          "id": "18086571428111889"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-23",
-      "placeId": "ChIJYQY76P2NpzERlul1IUfk3N8",
-      "placeName": "Bapaki Tea, Bakery",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110520049313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18446318635190050"
-        }
-      }
-    },
-    {
-      "date": "2026-06-23",
-      "placeId": "ChIJ44y8R_uNpzERI0lt0GkPrNM",
-      "placeName": "Tiệm Bánh Kem Phú Quốc - PP Bakery",
-      "results": {
-        "facebookVideo": {
-          "id": "2073298420290419"
-        },
-        "instagramReel": {
-          "id": "18108182398992061"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-23",
-      "placeId": "ChIJAWovfRONpzERI7y_gpk_6D0",
-      "placeName": "Devis Bakery Phu Quoc 데비스베이커리",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110519041313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17870652219684234"
         }
       }
     }
