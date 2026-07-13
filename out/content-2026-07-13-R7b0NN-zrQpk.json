@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 64 divers reviewed it. Zero complaints.\n\nEcodive Vietnam - Trung Tâm Lặn Phú Quốc on Đ. 30 Tháng 4 is what happens when a dive center actually cares. Whether you're a first-timer or PADI certified, these instructors know Phu Quoc's reefs better than anyone.\n\nThe underwater world here is worth the plunge. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what 4.9 stars looks like underwater. Ecodive Vietnam - Trung Tâm Lặn Phú Quốc is putting divers in the water and delivering every time. Book before it fills up.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 64 reviews. Phu Quoc's dive scene just got serious.\n\nEcodive Vietnam - Trung Tâm Lặn Phú Quốc. Tag your dive buddy.",
+    "video_caption": "Gear up. Drop in. Ecodive Vietnam - Trung Tâm Lặn Phú Quốc has a 4.9 rating for a reason.",
+    "hashtags": "#PhuQuocDiving #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #ScubaDiving"
+  },
+  "tiktok": {
+    "caption": "4.9 stars and 64 divers agree. Ecodive Vietnam - Trung Tâm Lặn Phú Quốc is it. #PhuQuoc #PhuQuocDiving #ScubaDiving #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9 STARS. 64 DIVERS.",
+    "scenes": [
+      "Zoom in on 4.9-star rating on screen",
+      "Diver gearing up at the dock",
+      "Underwater shot: coral reef, fish swirl",
+      "Instructor gives OK signal to student",
+      "Surface shot: smiling diver removes mask"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

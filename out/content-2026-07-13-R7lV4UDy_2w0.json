@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "6,090 reviews. 4.3 stars. Chuồn Chuồn Bistro & Bar keeps showing up for a reason.\n\nSit-down meals on Trần Hưng Đạo for $15-30 a head. Cold drinks, solid food, and a crowd that keeps coming back.\n\nIf your Phu Quoc itinerary still has a dinner slot open, this one fills it well.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Plates landing, drinks pouring, Chuồn Chuồn Bistro & Bar doing its thing on Trần Hưng Đạo. Over 6,000 people rated this place. Watch why.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+  },
+  "instagram": {
+    "caption": "6,090 reviews. 4.3 stars. Chuồn Chuồn Bistro & Bar earns it.\n$15-30 a head on Trần Hưng Đạo. Tag your travel buddy.",
+    "video_caption": "Dinner for two under $30. Chuồn Chuồn Bistro & Bar, Phu Quoc. 6K+ reviews back this up.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "6,090 reviews on this Phu Quoc bistro. $15-30 a head. Chuồn Chuồn Bistro & Bar delivering. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "6,090 reviews. One bistro.",
+    "scenes": [
+      "Exterior shot, Chuồn Chuồn Bistro & Bar sign",
+      "Pan across busy tables, full crowd",
+      "Close-up: food plates hitting the table",
+      "Pour shot: cold drink, condensation on glass",
+      "Quick cut: bill arrives, under $30"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
