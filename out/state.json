@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJq6qqEz8eCDER7vOnb6Q6Ol8",
+    "ChIJ44qAJhSLpzERXmrw41RYzJA",
+    "ChIJSTGCnBuLpzERx2KCLdVFKIk",
+    "ChIJAQAAAECKpzERzt6bVEvLa-M",
+    "ChIJsY399WOMpzER7lV4UDy_2w0",
+    "ChIJ7fpDGamNpzERBaF8duO9WKY",
+    "ChIJLa_VvluMpzERVdeTFM021V4",
+    "ChIJ2fu7BmGNpzERyc_w8wahNio",
+    "ChIJUYfZHeSNpzER5-l8QW0lTcM",
+    "ChIJh878oruNpzER7b0NN-zrQpk",
+    "ChIJb5faY8qNpzERH4uW3FwoE5s",
+    "ChIJgfT9NoygKU8R8P0qLndf3k0",
     "ChIJw0auYQCNpzER8BCjNBsmIBs",
     "ChIJPXLuTs2NpzERES05dJcH7Jc",
     "ChIJCT7IJHeNpzERsmyKSQegiig",
@@ -187,21 +199,189 @@
     "ChIJ_3mcEp-NpzERP0uTjkMlQ30",
     "ChIJ00OuQxuTpzER-w6UBHVBLJo",
     "ChIJYVpQmqSJpzERQ2jruG6WqKE",
-    "ChIJkX-ZsFiTpzER9TM2r77QY5g",
-    "ChIJ06-yPMWNpzERvRqJgvDuNe8",
-    "ChIJH-WAVaWLpzERJRuwKuP5GqU",
-    "ChIJjcDo2LeXpzERfPLV_OmthvM",
-    "ChIJqWvgD-yNpzERS66-PApwcs0",
-    "ChIJe_vjTACNpzERrvGoA9qvlAU",
-    "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
-    "ChIJey6dXQCNpzERP3w5WxacNrw",
-    "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
-    "ChIJO2yx-4eMpzER80b94-QiU6c",
-    "ChIJAz1J0-mNpzERyQ40GMjmouI",
-    "ChIJVVVVVXQgCDER_KXFZ6RZQ8Q",
-    "ChIJ_0eqFMcfCDERGFRN2VvZDXg"
+    "ChIJkX-ZsFiTpzER9TM2r77QY5g"
   ],
   "history": [
+    {
+      "date": "2026-07-13",
+      "placeId": "ChIJq6qqEz8eCDER7vOnb6Q6Ol8",
+      "placeName": "Radisson Blu Resort, Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1891573965135821"
+        },
+        "instagramReel": {
+          "id": "18026583653834075"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "placeId": "ChIJ44qAJhSLpzERXmrw41RYzJA",
+      "placeName": "Camia Resort & Spa",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113742589313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18106713095105563"
+        }
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "placeId": "ChIJSTGCnBuLpzERx2KCLdVFKIk",
+      "placeName": "Mövenpick Resort Waverly Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1027076416602660"
+        },
+        "instagramReel": {
+          "id": "17916960714204137"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "placeId": "ChIJAQAAAECKpzERzt6bVEvLa-M",
+      "placeName": "Chen Sea Resort & Spa Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113741683313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18095021714618527"
+        }
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "placeId": "ChIJsY399WOMpzER7lV4UDy_2w0",
+      "placeName": "Chuồn Chuồn Bistro & Bar",
+      "results": {
+        "facebookVideo": {
+          "id": "1593907948861508"
+        },
+        "instagramReel": {
+          "id": "18048630764569211"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "placeId": "ChIJ7fpDGamNpzERBaF8duO9WKY",
+      "placeName": "Bánh Mì & You",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113740675313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18129641923628327"
+        }
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
+      "placeName": "Jerry's Jungle Tours",
+      "results": {
+        "facebookVideo": {
+          "id": "2120234201905541"
+        },
+        "instagramReel": {
+          "id": "18112313845839650"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "placeId": "ChIJ2fu7BmGNpzERyc_w8wahNio",
+      "placeName": "GRACE'S TOUR PHÚ QUỐC- SIM CARD- MONEY EXCHANGE- ENGLISH SPEAKER- DIVING",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113739613313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18049233632790648"
+        }
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "placeId": "ChIJUYfZHeSNpzER5-l8QW0lTcM",
+      "placeName": "Liby Travel - Phu Quoc Island Tours",
+      "results": {
+        "facebookVideo": {
+          "id": "1074682048557567"
+        },
+        "instagramReel": {
+          "id": "18162517351411983"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "placeId": "ChIJh878oruNpzER7b0NN-zrQpk",
+      "placeName": "Ecodive Vietnam - Trung Tâm Lặn Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113738653313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18087820265411218"
+        }
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "placeId": "ChIJb5faY8qNpzERH4uW3FwoE5s",
+      "placeName": "Vietnam Explorer PADI Dive Center",
+      "results": {
+        "facebookVideo": {
+          "id": "1065351682842274"
+        },
+        "instagramReel": {
+          "id": "18126671302646969"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "placeId": "ChIJgfT9NoygKU8R8P0qLndf3k0",
+      "placeName": "Poseidon Diving School Phu Quoc Padi",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113737645313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18026272550849560"
+        }
+      }
+    },
     {
       "date": "2026-07-12",
       "placeId": "ChIJw0auYQCNpzER8BCjNBsmIBs",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18119685004773479"
-        }
-      }
-    },
-    {
-      "date": "2026-06-25",
-      "placeId": "ChIJ06-yPMWNpzERvRqJgvDuNe8",
-      "placeName": "Origin 1982 - Speakeasy bar in The last old house (1982)",
-      "results": {
-        "facebookVideo": {
-          "id": "2023624151618754"
-        },
-        "instagramReel": {
-          "id": "18108064459984978"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-25",
-      "placeId": "ChIJH-WAVaWLpzERJRuwKuP5GqU",
-      "placeName": "The Islander",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110836777313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17894631339503318"
-        }
-      }
-    },
-    {
-      "date": "2026-06-25",
-      "placeId": "ChIJjcDo2LeXpzERfPLV_OmthvM",
-      "placeName": "Roma Restaurant & Coffee",
-      "results": {
-        "facebookVideo": {
-          "id": "1030345909342987"
-        },
-        "instagramReel": {
-          "id": "18093643181070373"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-25",
-      "placeId": "ChIJqWvgD-yNpzERS66-PApwcs0",
-      "placeName": "Bún Quậy Bạch Đằng",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110835925313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17975538642106363"
-        }
-      }
-    },
-    {
-      "date": "2026-06-24",
-      "placeId": "ChIJe_vjTACNpzERrvGoA9qvlAU",
-      "placeName": "Mojito Beach Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1695138551812776"
-        },
-        "instagramReel": {
-          "id": "18085550531440511"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-24",
-      "placeId": "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
-      "placeName": "House No. 1",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110676265313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17868933075558978"
-        }
-      }
-    },
-    {
-      "date": "2026-06-24",
-      "placeId": "ChIJey6dXQCNpzERP3w5WxacNrw",
-      "placeName": "Rosso Sky Bar & Lounge | Night Club",
-      "results": {
-        "facebookVideo": {
-          "id": "1175463941415151"
-        },
-        "instagramReel": {
-          "id": "17893613670537690"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-24",
-      "placeId": "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
-      "placeName": "Aloha Beach Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110675173313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18109368184942803"
-        }
-      }
-    },
-    {
-      "date": "2026-06-24",
-      "placeId": "ChIJO2yx-4eMpzER80b94-QiU6c",
-      "placeName": "HAPPY BEAR Live Music Bar & Bistro",
-      "results": {
-        "facebookVideo": {
-          "id": "2253945168765945"
-        },
-        "instagramReel": {
-          "id": "17931379674324610"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-24",
-      "placeId": "ChIJAz1J0-mNpzERyQ40GMjmouI",
-      "placeName": "The Cheeky Traveller English Pub & Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110674045313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18234578773313103"
-        }
-      }
-    },
-    {
-      "date": "2026-06-24",
-      "placeId": "ChIJVVVVVXQgCDER_KXFZ6RZQ8Q",
-      "placeName": "Phu Quoc Bee Farm",
-      "results": {
-        "facebookVideo": {
-          "id": "2214665075776814"
-        },
-        "instagramReel": {
-          "id": "18048038282562338"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-24",
-      "placeId": "ChIJ_0eqFMcfCDERGFRN2VvZDXg",
-      "placeName": "Phố đi bộ - chợ đêm Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110673121313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18106968751984003"
         }
       }
     }
