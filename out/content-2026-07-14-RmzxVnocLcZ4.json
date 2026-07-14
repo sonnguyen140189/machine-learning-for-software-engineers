@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "332 reviews. 4.5 stars. And somehow this café stays under the radar in Phú Quốc.\n\nBuddy Ice Cream & Cafe on Đường Bạch Đằng is the kind of spot locals keep coming back to. Ice cream, coffee, chill vibe. No resort markup, no tourist trap pricing.\n\nNext time you're near the waterfront, stop in. You'll see why 332 people rated it this high.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Scoop in hand, 4.5 stars on the board. Buddy Ice Cream & Cafe on Đường Bạch Đằng earns every one of them. Cold, quick, local. This is your afternoon sorted.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocFood #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "332 reviews. 4.5 stars. Buddy Ice Cream & Cafe is not a fluke.\n\nĐường Bạch Đằng, Phú Quốc. Go.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.5 stars, 332 people agree. Buddy Ice Cream & Cafe hits different on a hot Phu Quoc afternoon.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocIceCream"
+  },
+  "tiktok": {
+    "caption": "332 reviews don't lie. Buddy Ice Cream & Cafe, Phú Quốc. Add it to the list. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "332 reviews. 4.5 stars.",
+    "scenes": [
+      "Pan across storefront on Đường Bạch Đằng",
+      "Close-up: ice cream scoop being served",
+      "Shot of coffee being poured",
+      "Customers seated, relaxed afternoon vibe",
+      "Slow zoom on 4.5-star review screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

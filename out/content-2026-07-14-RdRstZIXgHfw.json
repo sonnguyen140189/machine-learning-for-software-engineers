@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 73 reviews. Zero exceptions.\n\nNala Spa sits inside chợ đêm Phú Quốc, and somehow every single person who walked in left a perfect score. That's not luck. That's consistency.\n\nRight at Kiot 40, 42 Đ. Lê Lợi, it's the kind of spot you walk past thinking it's too casual, then your friend drags you in, and suddenly you get it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Hands working. Music low. chợ đêm Phú Quốc buzzing outside. This is Nala Spa, and 73 people gave it a perfect score. Watch what they were raving about.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #NightMarketPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 73 reviews. Perfect score.\n\nNala Spa at chợ đêm Phú Quốc doesn't miss. Tag your travel buddy.",
+    "video_caption": "73 people. 5 stars. Not one exception. Nala Spa inside chợ đêm Phú Quốc hits different.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocNightMarket #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "5.0 stars. 73 reviews. Inside chợ đêm Phú Quốc. Nala Spa is a cheat code. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "5.0★ 73 reviews. ZERO complaints.",
+    "scenes": [
+      "Exterior shot: Kiot 40 sign, night market crowd behind",
+      "Door opens, warm light spills out",
+      "Hands applying oil, slow close-up",
+      "Cut to Google review screen: 5.0 stars",
+      "Guest exhales, eyes close, full relaxation"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

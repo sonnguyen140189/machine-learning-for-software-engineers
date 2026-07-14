@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars. Right on Bãi Dài. Vinpearl Land Phú Quốc keeps delivering for families and couples who want resort-level comfort without driving into the main town crowd. Private beach access, multiple pools, and everything on-site. Fewer reviews than the big city hotels, which means shorter queues and a calmer vibe. Worth bookmarking before it blows up. Save this for your Phu Quoc trip.",
+    "video_caption": "Pools, beach, and 4.5 stars at Vinpearl Land Phú Quốc. Watch what Bãi Dài looks like from a resort that actually delivers. This is what a quieter Phu Quoc looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #BaiDai #VisitVietnam #PhuQuocTips #VietnamTravel #IslandResort"
+  },
+  "instagram": {
+    "caption": "4.5★ on Bãi Dài. Vinpearl Land Phú Quốc. Pools, beach, and zero city-strip chaos. Tag your travel buddy.",
+    "video_caption": "Bãi Dài resort life at Vinpearl Land Phú Quốc. 4.5 stars. Fewer crowds. More beach.",
+    "hashtags": "#PhuQuocResort #PhuQuocBeaches #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "4.5★ resort on Bãi Dài with way fewer crowds than you'd expect. Vinpearl Land Phú Quốc hits different. #PhuQuoc #PhuQuocResort #VietnamTravel #BaiDai"
+  },
+  "video_script": {
+    "hook": "4.5★ on Bãi Dài. For real.",
+    "scenes": [
+      "Drone pull-back over Bãi Dài coastline",
+      "Resort pool fill frame, guests relaxing",
+      "Walk from pool gate onto private beach",
+      "Slow pan along beachfront, calm water",
+      "Close-up: 4.5★ rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this one. GÓC CÀ PHÊ - Phú Quốc Riverside Coffee, Tea & Books sits right on the water with books on the shelves and zero crowds. Coffee, tea, a river view, and a chair you won't want to leave. 4.7 stars from 81 reviews and most visitors still haven't heard of it. Save this for your Phu Quoc trip.",
+    "video_caption": "River running past your table. Books within reach. Coffee in hand. GÓC CÀ PHÊ - Phú Quốc Riverside Coffee, Tea & Books is the slow morning Phu Quoc doesn't advertise. 4.7 stars. Still quiet.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this riverside café. GÓC CÀ PHÊ - Phú Quốc Riverside Coffee, Tea & Books. 4.7★, books, zero crowds. Save this.",
+    "video_caption": "River view. Good coffee. Nobody here. GÓC CÀ PHÊ - Phú Quốc Riverside Coffee, Tea & Books deserves more noise than it gets.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CafeHopping"
+  },
+  "tiktok": {
+    "caption": "The riverside café Phu Quoc visitors keep skipping. Big mistake. #PhuQuoc #PhuQuocCafe #VietnamTravel #CafeHopping"
+  },
+  "video_script": {
+    "hook": "Tourists keep skipping this café.",
+    "scenes": [
+      "Pan across river from café terrace",
+      "Close-up: coffee cup, open book on table",
+      "Empty chairs, water rippling behind them",
+      "Shelf of books, warm interior light",
+      "Wide shot: façade at GÓC CÀ PHÊ sign"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
