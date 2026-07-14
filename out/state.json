@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJK6PXziqyU2gREZvk_pErVag",
+    "ChIJ_QHQ2eWNpzER0VcwkboktMU",
+    "ChIJtXjS0ZiNpzERdRstZIXgHfw",
+    "ChIJNzL9GqEfCDERTQfv5j5Deik",
+    "ChIJjwG2SAAfCDERd7JcFN0UNTw",
+    "ChIJgwI3D_8fCDERzTBdqPmUa9M",
+    "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
+    "ChIJo5M0X62NpzERgrGHtWo8nCQ",
+    "ChIJfQAdSg2NpzEREkgYHVPn5dE",
+    "ChIJpW9hndiNpzERaocRFppy0S4",
+    "ChIJW-GcxKSNpzERmzxVnocLcZ4",
+    "ChIJi4uGpxKNpzERP7b_sLCQiqY",
     "ChIJq6qqEz8eCDER7vOnb6Q6Ol8",
     "ChIJ44qAJhSLpzERXmrw41RYzJA",
     "ChIJSTGCnBuLpzERx2KCLdVFKIk",
@@ -187,21 +199,189 @@
     "ChIJc9uFHgCNpzERe-wLYlkuV_Q",
     "ChIJGXZel_ONpzERtQgInjMPXU4",
     "ChIJjwOhDFuNpzERHGC-KN7pjUk",
-    "ChIJOwIiCSmNpzER1ISpdLmLcEg",
-    "ChIJS797XwCNpzERpdvvoNGRBK4",
-    "ChIJR1rvyAmNpzERHEdIhXDMsII",
-    "ChIJQf0ZjIeNpzERtMMtf7OdVyg",
-    "ChIJ67MzfTqNpzERl5vEmwYkACQ",
-    "ChIJt-QpkieNpzEROHxvKTl08as",
-    "ChIJccUCppGNpzERY4DpGOmVA7o",
-    "ChIJ-RvbtGiNpzER2H1IufKqjGc",
-    "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
-    "ChIJ_3mcEp-NpzERP0uTjkMlQ30",
-    "ChIJ00OuQxuTpzER-w6UBHVBLJo",
-    "ChIJYVpQmqSJpzERQ2jruG6WqKE",
-    "ChIJkX-ZsFiTpzER9TM2r77QY5g"
+    "ChIJOwIiCSmNpzER1ISpdLmLcEg"
   ],
   "history": [
+    {
+      "date": "2026-07-14",
+      "placeId": "ChIJK6PXziqyU2gREZvk_pErVag",
+      "placeName": "Dgold Spa - body massage, foot massage, shampoo, nail",
+      "results": {
+        "facebookVideo": {
+          "id": "989374164097032"
+        },
+        "instagramReel": {
+          "error": "IG container 18139018657519977: Error: Media upload has failed with error code 2207077"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "placeId": "ChIJ_QHQ2eWNpzER0VcwkboktMU",
+      "placeName": "Golden Foot Massage Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113943727313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18098024174603471"
+        }
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "placeId": "ChIJtXjS0ZiNpzERdRstZIXgHfw",
+      "placeName": "Nala Spa - chợ đêm Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1623344929406170"
+        },
+        "instagramReel": {
+          "id": "18149714308456229"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "placeId": "ChIJNzL9GqEfCDERTQfv5j5Deik",
+      "placeName": "Vinpearl Land Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113942875313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17875953885653916"
+        }
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "placeId": "ChIJjwG2SAAfCDERd7JcFN0UNTw",
+      "placeName": "Vinpearl Resort Phu Quoc lobby",
+      "results": {
+        "facebookVideo": {
+          "id": "1935864187818934"
+        },
+        "instagramReel": {
+          "id": "18369959515239737"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "placeId": "ChIJgwI3D_8fCDERzTBdqPmUa9M",
+      "placeName": "VinWonders Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113941999313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18067698371460870"
+        }
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "placeId": "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
+      "placeName": "Ham Ninh fishing town",
+      "results": {
+        "facebookVideo": {
+          "id": "4352525788411067"
+        },
+        "instagramReel": {
+          "id": "18104417993111738"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "placeId": "ChIJo5M0X62NpzERgrGHtWo8nCQ",
+      "placeName": "MIX BAKERY COFFEE & TEA",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113941075313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18096894785580047"
+        }
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "placeId": "ChIJfQAdSg2NpzEREkgYHVPn5dE",
+      "placeName": "Hi Coffee - 11 Trần Hưng Đạo - Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1632499414518899"
+        },
+        "instagramReel": {
+          "id": "17884140981671054"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "placeId": "ChIJpW9hndiNpzERaocRFppy0S4",
+      "placeName": "MR. VIET COFFEE OUTLET IN PHU QUOC",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113940133313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17924102397380556"
+        }
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "placeId": "ChIJW-GcxKSNpzERmzxVnocLcZ4",
+      "placeName": "Buddy Ice Cream & Cafe",
+      "results": {
+        "facebookVideo": {
+          "id": "1014974921239951"
+        },
+        "instagramReel": {
+          "id": "18118483612877327"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "placeId": "ChIJi4uGpxKNpzERP7b_sLCQiqY",
+      "placeName": "GÓC CÀ PHÊ - Phú Quốc Riverside Coffee, Tea & Books",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122113939281313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17869963749563384"
+        }
+      }
+    },
     {
       "date": "2026-07-13",
       "placeId": "ChIJq6qqEz8eCDER7vOnb6Q6Ol8",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "17947813722016910"
-        }
-      }
-    },
-    {
-      "date": "2026-06-26",
-      "placeId": "ChIJS797XwCNpzERpdvvoNGRBK4",
-      "placeName": "Phở Vương Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "995855056576461"
-        },
-        "instagramReel": {
-          "id": "18107897603054008"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-26",
-      "placeId": "ChIJR1rvyAmNpzERHEdIhXDMsII",
-      "placeName": "Bún Quậy Kiến-Xây | Local PhuQuoc Seafood Noodles",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122111014323313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17877714081487004"
-        }
-      }
-    },
-    {
-      "date": "2026-06-26",
-      "placeId": "ChIJQf0ZjIeNpzERtMMtf7OdVyg",
-      "placeName": "Mì Tê Lý Thường Kiệt - Artisan Noodles",
-      "results": {
-        "facebookVideo": {
-          "id": "1495865745613810"
-        },
-        "instagramReel": {
-          "id": "17886841365596104"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-26",
-      "placeId": "ChIJ67MzfTqNpzERl5vEmwYkACQ",
-      "placeName": "Phở Lý Quốc Sư",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122111013435313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18106889509974395"
-        }
-      }
-    },
-    {
-      "date": "2026-06-25",
-      "placeId": "ChIJt-QpkieNpzEROHxvKTl08as",
-      "placeName": "Xóm Mới Garden Phú Quốc 씀모이가든 푸꾸옥 맛집",
-      "results": {
-        "facebookVideo": {
-          "id": "1692723558607812"
-        },
-        "instagramReel": {
-          "id": "18171493678423423"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-25",
-      "placeId": "ChIJccUCppGNpzERY4DpGOmVA7o",
-      "placeName": "Phở Hòa",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110840017313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18381411595205913"
-        }
-      }
-    },
-    {
-      "date": "2026-06-25",
-      "placeId": "ChIJ-RvbtGiNpzER2H1IufKqjGc",
-      "placeName": "Ocean Night Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1320069306396844"
-        },
-        "instagramReel": {
-          "id": "18067130672429565"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-25",
-      "placeId": "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
-      "placeName": "Istanbul Beach Club Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110839303313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18081703244658169"
-        }
-      }
-    },
-    {
-      "date": "2026-06-25",
-      "placeId": "ChIJ_3mcEp-NpzERP0uTjkMlQ30",
-      "placeName": "Shisha Bar Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1762763231809051"
-        },
-        "instagramReel": {
-          "id": "18108441361829571"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-25",
-      "placeId": "ChIJ00OuQxuTpzER-w6UBHVBLJo",
-      "placeName": "INK 360 Rooftop Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110838427313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18057677186720503"
-        }
-      }
-    },
-    {
-      "date": "2026-06-25",
-      "placeId": "ChIJYVpQmqSJpzERQ2jruG6WqKE",
-      "placeName": "Rory's Beach Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1056130963516531"
-        },
-        "instagramReel": {
-          "id": "17957606913153656"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-25",
-      "placeId": "ChIJkX-ZsFiTpzER9TM2r77QY5g",
-      "placeName": "Fu Bar - Regent Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122110837629313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18119685004773479"
         }
       }
     }
