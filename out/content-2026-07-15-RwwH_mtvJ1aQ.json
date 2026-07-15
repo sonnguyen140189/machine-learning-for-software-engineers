@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Beach club dining for $15-30 a head. At Bãi Khem.\n\nIstanbul Beach Club Phu Quoc sits on one of the island's best beaches and 3,575 people rated it 4.8 stars. The price tag makes zero sense in the best way.\n\nLunch with your feet near the sand, cold drinks, solid food. No resort markup guilt.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Sand, sea, and a $20 meal at a 4.8-star beach club. Istanbul Beach Club Phu Quoc at Bãi Khem is doing something the other spots aren't. 3,575 reviews back it up.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel #BaiKhem"
+  },
+  "instagram": {
+    "caption": "$15-30 at a 4.8-star beach club on Bãi Khem. Istanbul Beach Club Phu Quoc. 3,575 reviews. Go.\n\nTag your travel buddy.",
+    "video_caption": "4.8 stars. Beach club. Under $30. Istanbul Beach Club Phu Quoc is the cheat code for Bãi Khem.",
+    "hashtags": "#PhuQuocFood #PhuQuocBeaches #PhuQuocTips #BaiKhem #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Beach club meal for $20 on Bãi Khem?? Istanbul Beach Club Phu Quoc has 3,575 reviews at 4.8★ for a reason. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "$20 beach club. 4.8 stars. Really.",
+    "scenes": [
+      "Aerial pan over Bãi Khem shoreline",
+      "Walk-up shot of beach club entrance",
+      "Table set with food, ocean in background",
+      "Close-up of menu price page",
+      "Crowd of happy diners, sunshine"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

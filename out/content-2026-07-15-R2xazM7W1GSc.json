@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10 a person. At a beach bar. In Phu Quoc.\n\nThom Beach Bar is pulling 4.5 stars across 362 reviews and your wallet barely notices. Cold drinks, sand underfoot, ocean in front of you. No resort markup. No dress code.\n\nThis is the kind of spot you stay two hours longer than planned.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Sand, cold drink, $10 out the door. Thom Beach Bar delivers 4.5 stars without the price tag that usually comes with it. 362 people already know. Now you do.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #PhuQuocBars #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Under $10. Beach bar. 4.5 stars. Thom Beach Bar is the move.\n\nTag your travel buddy.",
+    "video_caption": "Cold drink in hand, sand underfoot, under $10. Thom Beach Bar hits different.",
+    "hashtags": "#PhuQuocBars #PhuQuocBeach #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachBar"
+  },
+  "tiktok": {
+    "caption": "Beach bar in Phu Quoc under $10?? Thom Beach Bar is real and it slaps. #PhuQuoc #PhuQuocTips #VietnamTravel #BeachBar"
+  },
+  "video_script": {
+    "hook": "Beach bar. Under $10. 4.5 stars.",
+    "scenes": [
+      "Wide shot: beach bar exterior, sand foreground",
+      "Rack of cold drinks, condensation visible",
+      "Slow pan across ocean view from bar",
+      "Close-up: bill on table, under $10 shown",
+      "Crowd of locals and tourists, relaxed vibe"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

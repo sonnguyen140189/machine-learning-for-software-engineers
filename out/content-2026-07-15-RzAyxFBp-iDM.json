@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past Bãi Dài. That's exactly why you should stop.\n\nNo beach clubs. No hawkers every 10 meters. Just wide open sand and water that actually looks like the photos.\n\nThis is the north end of Phu Quoc most package tours never reach. Go early, go on a weekday, and you'll have stretches of it to yourself.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch how empty this beach is at 8am. Bãi Dài, Phu Quoc. No crowds, no vendors, just this. Your move.",
+    "first_comment": "#PhuQuoc #PhuQuocBeaches #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #BeachVietnam #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Bãi Dài. So we will.\n\nNorth Phu Quoc, no crowds, wide open sand. Go early.\n\nTag your travel buddy.",
+    "video_caption": "Empty beach. North Phu Quoc. 8am. Bãi Dài delivers every time.",
+    "hashtags": "#PhuQuocBeaches #PhuQuocTips #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland #BeachVietnam #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "The beach tourists skip in Phu Quoc. Bãi Dài, north end. Go early. #PhuQuoc #PhuQuocBeaches #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep skipping this beach.",
+    "scenes": [
+      "Drone pull-back over empty shoreline",
+      "Bare feet hit wet sand, no one around",
+      "Pan across clear water, no boats",
+      "Wide shot: zero beach chairs in frame",
+      "Close-up of calm waves at golden hour"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
