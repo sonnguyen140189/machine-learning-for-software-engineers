@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk right past this. Quốc Mẫu Hall sits inside Thiền viện Trúc Lâm Hộ Quốc, and most visitors never make it beyond the main gate. Incense smoke, carved stone, and almost zero crowds. This is the Phu Quoc that doesn't show up in the resort brochures. Rated 4.6 stars by the people who actually found it. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking through Thiền viện Trúc Lâm Hộ Quốc and finding Quốc Mẫu Hall. Incense rising, no tour groups, total quiet. This is what gets skipped when you stay on the beach strip.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #VietnamTemple #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Quốc Mẫu Hall. 4.6 stars. Zero crowds. Find it inside Thiền viện Trúc Lâm Hộ Quốc. Tag your travel buddy.",
+    "video_caption": "Incense, carved stone, and silence. Quốc Mẫu Hall inside Thiền viện Trúc Lâm Hộ Quốc hits different when you're the only one there.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocVietnam #VietnamTravel #TravelTips #TravelReels #VisitVietnam #BuddhismTravel"
+  },
+  "tiktok": {
+    "caption": "The temple inside Thiền viện Trúc Lâm Hộ Quốc tourists keep skipping. Don't. #PhuQuoc #PhuQuocTips #VietnamTravel #VisitVietnam #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Drone pulls back over Thiền viện Trúc Lâm Hộ Quốc",
+      "Slow walk through main temple gate",
+      "Close-up: incense smoke curling upward",
+      "Wide shot of Quốc Mẫu Hall facade",
+      "Empty courtyard, no other visitors"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

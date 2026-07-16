@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. Hung Nhi Son Pagoda sits quietly in Phu Quoc while everyone races to the beaches. Dragon sculptures. Incense smoke drifting through the courtyard. Zero crowds. This is the side of the island most visitors never see. Add it to your itinerary if you want something real. Save this for your Phu Quoc trip.",
+    "video_caption": "Incense rising. Dragon gates. A Phu Quoc pagoda most tourists never find. Hung Nhi Son is worth the detour.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #PhuQuocTravel #TravelTips #VietnamTemple #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Hung Nhi Son Pagoda. Dragon gates, incense smoke, zero tourists. Save this for your Phu Quoc trip.",
+    "video_caption": "A Phu Quoc pagoda the resort crowds never reach. Hung Nhi Son hits different.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTravel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamTemple #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc pagoda tourists walk straight past. Go find it. #PhuQuoc #PhuQuocTips #VietnamTravel #HiddenPhuQuoc #TempleVibes"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Drone pulls back from temple gate",
+      "Close-up: incense smoke curling upward",
+      "Pan across dragon sculptures on roof",
+      "Empty courtyard, slow wide shot",
+      "Visitor walks through ornate entrance"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

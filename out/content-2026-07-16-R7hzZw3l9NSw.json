@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this on Đường Trần Hưng Đạo. Sùng Hưng Cổ Tự is one of Phu Quoc's oldest Chinese Buddhist temples and most visitors never step inside. Incense smoke, red lanterns, quiet courtyards. Zero entry fee. 4.4 stars from locals who actually know the island. Give it 20 minutes. Save this for your Phu Quoc trip.",
+    "video_caption": "Red lanterns. Incense smoke rising. A 100-year-old courtyard right off the main road. Sùng Hưng Cổ Tự costs nothing and most tourists never look up long enough to notice it.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #CultureTravel"
+  },
+  "instagram": {
+    "caption": "Tourists walk straight past Sùng Hưng Cổ Tự. Free entry. 4.4 stars. Take the 20 minutes.",
+    "video_caption": "Incense, red lanterns, empty courtyard. Right on the main road. Nobody stops. You should.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #CultureTravel #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Free temple on the main road and tourists keep walking past it 😮 #PhuQuoc #PhuQuocTips #VietnamTravel #TempleOfTikTok"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Wide shot: ornate temple gate on busy street",
+      "Push through gate into smoky courtyard",
+      "Close-up: red lanterns swaying overhead",
+      "Tilt up: incense coils hanging from ceiling",
+      "Slow pan: golden altar, zero crowds"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

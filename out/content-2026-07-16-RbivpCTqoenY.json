@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "47,054 reviews. One small island. One ancient pagoda.\n\nTran Quoc Pagoda sits on West Lake in Hanoi and it earns every one of those 4.4 stars. Multiple shrines, lotus-lined walkways, centuries of history in one compact stop. Come early. The morning light hits different and the crowds haven't arrived yet.\n\nSave this for your Vietnam trip.",
+    "video_caption": "Watch the mist lift off West Lake as Tran Quoc Pagoda comes into view. Shrines stacked on a tiny island. 47,054 people rated this. Now you see why.",
+    "first_comment": "#PhuQuoc #VisitVietnam #VietnamTravel #HanoiTemple #TravelTips #BuddhistTemple #VietnamTips"
+  },
+  "instagram": {
+    "caption": "47,054 reviews. 4.4 stars. Tran Quoc Pagoda delivers every time.\n\nAncient island temple on West Lake, Hanoi. Go at sunrise.\n\nSave this for your Vietnam trip.",
+    "video_caption": "Sunrise. West Lake. An island pagoda with 47K reviews behind it. Tran Quoc Pagoda, Hanoi. Tag your travel buddy.",
+    "hashtags": "#PhuQuocTips #VietnamTravel #TravelTips #HanoiTemple #VietnamTemple #TravelReels #VisitVietnam #ThingsToDo"
+  },
+  "tiktok": {
+    "caption": "47,054 reviews on one island temple in Hanoi. Tran Quoc Pagoda at sunrise hits different. #VietnamTravel #HanoiTemple #TravelTips #VisitVietnam"
+  },
+  "video_script": {
+    "hook": "47,054 reviews. One island.",
+    "scenes": [
+      "Aerial push toward pagoda on West Lake",
+      "Walk the lotus-lined bridge entrance",
+      "Pan across layered shrine towers",
+      "Close-up: incense smoke rising at dawn",
+      "Wide shot: mist on water, zero crowds"
+    ],
+    "cta": "Save this for your Vietnam trip."
+  }
+}

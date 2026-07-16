@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Chùa Hùng Long sits on Phu Quoc away from the beach crowds, and the silence hits different. Incense smoke, dragon sculptures, zero tour groups. If you need one hour of stillness on your trip, this is it. 4.5 stars from people who found their way here. Save this for your Phu Quoc trip.",
+    "video_caption": "Step inside Chùa Hùng Long and the noise of Phu Quoc just stops. Dragon gates, golden shrines, incense curling upward. One of those places you feel before you understand it.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #PhuQuocTips #VietnamTemple #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Chùa Hùng Long, Phu Quoc. Zero crowds, 4.5 stars. Tag your travel buddy.",
+    "video_caption": "Dragon gates. Incense smoke. Total silence. Chùa Hùng Long is the reset button Phu Quoc didn't tell you about.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #BuddhismTravel"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc has a temple that fixes burnout. Chùa Hùng Long. Go quiet for an hour. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: dragon gate entrance",
+      "Slow pan up golden shrine",
+      "Close-up: incense smoke rising",
+      "Empty courtyard, nobody in frame",
+      "Hands pressed together, eyes closed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

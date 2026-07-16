@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this. Locals don't. Dinh Bà Lớn Tướng Lê Kim Định is a working temple on Phu Quoc that most visitors never find. Incense, offerings, quiet. Real island life, not the resort version. 4.5 stars from 261 reviews and zero tour buses in sight. Save this for your Phu Quoc trip.",
+    "video_caption": "Smoke rising, bells ringing, nobody else around. Dinh Bà Lớn Tướng Lê Kim Định is what Phu Quoc looks like when the tourists aren't watching. 4.5 stars. 261 reviews. Worth every step off the main road.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post this. Dinh Bà Lớn Tướng Lê Kim Định. 4.5★, 261 reviews, zero tour buses. Tag your travel buddy.",
+    "video_caption": "Incense smoke. Quiet courtyard. No crowds. This Phu Quoc temple is the real thing.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #VisitVietnam #TravelReels #CultureTravel"
+  },
+  "tiktok": {
+    "caption": "Tourists walk past this every day. Don't be them. Dinh Bà Lớn Tướng Lê Kim Định hits different. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Gate of Dinh Bà Lớn, wide shot",
+      "Incense smoke curling upward",
+      "Offerings laid on altar, close-up",
+      "Empty courtyard, slow pan",
+      "Rating card: 4.5★ 261 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
