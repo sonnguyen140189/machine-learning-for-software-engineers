@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJbdRC8WqSpzERtGShQM46Sx8",
+    "ChIJMTK8cRSLpzER_q7VsEitfig",
+    "ChIJFywM4byNpzERTsKVgNJw3vc",
+    "ChIJGetZgyyNpzERfgkTRwWcE74",
+    "ChIJI6oge0mLpzERKUoKtQLR-oc",
+    "ChIJXQcO2BeLpzERuYoEmJFjuuM",
+    "ChIJQUSIY6yNpzERAxVW7b7Opt0",
+    "ChIJO2yx-4eMpzER80b94-QiU6c",
+    "ChIJVRCAbGGNpzERkJ7P7jN-dls",
+    "ChIJj9eeH0-XpzERR3O-7B0rxFo",
+    "ChIJReCCyQsfCDEREcf_dOKY-wA",
+    "ChIJJeO4-wC9pzERVxdRrkipKaw",
     "ChIJv6Lq7g_aCTERiYzE3phvZS4",
     "ChIJr7enHa-rNTERbivpCTqoenY",
     "ChIJ_fS2ExSLpzERfs3RvFN0_ts",
@@ -187,21 +199,189 @@
     "ChIJWVlt372NpzERCmun5wdEL9o",
     "ChIJbXLMfgD1pzERmtqb5J1sjF8",
     "ChIJw58lTZeNpzERBCwsZlG8gwA",
-    "ChIJq31LD1-MpzERdIuwa2Bg2ok",
-    "ChIJ92MYQACNpzERK6dM8g8-pG0",
-    "ChIJF33R8xCLpzERFtTAVV7G-14",
-    "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
-    "ChIJ04EPezKNpzERUCu48VTEXnw",
-    "ChIJ2_A_qiGNpzERECnKPGDMbqc",
-    "ChIJY6klvwiLpzERbXSkUvWfTOs",
-    "ChIJK0z_dgCNpzERiSVWSPMxaoc",
-    "ChIJZ92iGQCLpzER_8noAX_Wcvs",
-    "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
-    "ChIJBWE7axyNpzER5e0d8AjEDJA",
-    "ChIJ017u9rKNpzERuFNuG_u0HJk",
-    "ChIJdQIPu76LpzERR-arMzuJz5I"
+    "ChIJq31LD1-MpzERdIuwa2Bg2ok"
   ],
   "history": [
+    {
+      "date": "2026-07-17",
+      "placeId": "ChIJbdRC8WqSpzERtGShQM46Sx8",
+      "placeName": "Thanh Kieu Beach Resort",
+      "results": {
+        "facebookVideo": {
+          "id": "1561355752193176"
+        },
+        "instagramReel": {
+          "id": "18055778828781196"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "placeId": "ChIJMTK8cRSLpzER_q7VsEitfig",
+      "placeName": "Phu Quoc Eco Beach Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122114499045313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17886372300604752"
+        }
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "placeId": "ChIJFywM4byNpzERTsKVgNJw3vc",
+      "placeName": "Free Beach Resort Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "2111597489791505"
+        },
+        "instagramReel": {
+          "id": "18346714870173636"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "placeId": "ChIJGetZgyyNpzERfgkTRwWcE74",
+      "placeName": "Bãi biển Lumera Beach",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122114498139313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18100804235179730"
+        }
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "placeId": "ChIJI6oge0mLpzERKUoKtQLR-oc",
+      "placeName": "Ocean Bay Resort & Spa Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1578786200345075"
+        },
+        "instagramReel": {
+          "id": "17986637582840871"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "placeId": "ChIJXQcO2BeLpzERuYoEmJFjuuM",
+      "placeName": "Ong Lang beach",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122114497281313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18082303058216148"
+        }
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "placeId": "ChIJQUSIY6yNpzERAxVW7b7Opt0",
+      "placeName": "Bãi Trường",
+      "results": {
+        "facebookVideo": {
+          "id": "953684004409107"
+        },
+        "instagramReel": {
+          "id": "17992312527005932"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "placeId": "ChIJO2yx-4eMpzER80b94-QiU6c",
+      "placeName": "HAPPY BEAR Live Music Bar & Bistro",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122114496267313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18083650664199643"
+        }
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "placeId": "ChIJVRCAbGGNpzERkJ7P7jN-dls",
+      "placeName": "The Home Pizza Tran Hung Dao",
+      "results": {
+        "facebookVideo": {
+          "id": "1925164881513061"
+        },
+        "instagramReel": {
+          "id": "18012728849870469"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "placeId": "ChIJj9eeH0-XpzERR3O-7B0rxFo",
+      "placeName": "CÁI MÂM BISTRO",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122114495235313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17922927222399592"
+        }
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "placeId": "ChIJReCCyQsfCDEREcf_dOKY-wA",
+      "placeName": "The Beach Bistro",
+      "results": {
+        "facebookVideo": {
+          "id": "4532635863642847"
+        },
+        "instagramReel": {
+          "id": "18069722555425192"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "placeId": "ChIJJeO4-wC9pzERVxdRrkipKaw",
+      "placeName": "Aquatopia Water Park",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122114494113313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18123043771683299"
+        }
+      }
+    },
     {
       "date": "2026-07-16",
       "placeId": "ChIJv6Lq7g_aCTERiYzE3phvZS4",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "17867568273690490"
-        }
-      }
-    },
-    {
-      "date": "2026-06-29",
-      "placeId": "ChIJ92MYQACNpzERK6dM8g8-pG0",
-      "placeName": "Restaurant Bukhara halal",
-      "results": {
-        "facebookVideo": {
-          "id": "1694299831688186"
-        },
-        "instagramReel": {
-          "id": "17996549402987611"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-29",
-      "placeId": "ChIJF33R8xCLpzERFtTAVV7G-14",
-      "placeName": "Camia Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122111513025313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18431623741127668"
-        }
-      }
-    },
-    {
-      "date": "2026-06-29",
-      "placeId": "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
-      "placeName": "FUSION Treats",
-      "results": {
-        "facebookVideo": {
-          "id": "986425530942444"
-        },
-        "instagramReel": {
-          "id": "18612929608006969"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-29",
-      "placeId": "ChIJ04EPezKNpzERUCu48VTEXnw",
-      "placeName": "The Waterfront Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122111512197313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17970988899078716"
-        }
-      }
-    },
-    {
-      "date": "2026-06-28",
-      "placeId": "ChIJ2_A_qiGNpzERECnKPGDMbqc",
-      "placeName": "Nhà Hàng Chay NẤM (Vegan Restaurant)",
-      "results": {
-        "facebookVideo": {
-          "id": "1045904261109577"
-        },
-        "instagramReel": {
-          "id": "18074894609323854"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-28",
-      "placeId": "ChIJY6klvwiLpzERbXSkUvWfTOs",
-      "placeName": "Bếp Chay Nhà An | VEGETARIAN BISTRO",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122111348595313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17907060360265910"
-        }
-      }
-    },
-    {
-      "date": "2026-06-28",
-      "placeId": "ChIJK0z_dgCNpzERiSVWSPMxaoc",
-      "placeName": "Chill Bar Đồi Trăng",
-      "results": {
-        "facebookVideo": {
-          "id": "1012023411809480"
-        },
-        "instagramReel": {
-          "id": "18008257586740867"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-28",
-      "placeId": "ChIJZ92iGQCLpzER_8noAX_Wcvs",
-      "placeName": "Seana coffee & More",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122111347839313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17896569774472432"
-        }
-      }
-    },
-    {
-      "date": "2026-06-28",
-      "placeId": "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
-      "placeName": "58 CAFÉ",
-      "results": {
-        "facebookVideo": {
-          "id": "4600944556794395"
-        },
-        "instagramReel": {
-          "id": "18113220656484729"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-28",
-      "placeId": "ChIJBWE7axyNpzER5e0d8AjEDJA",
-      "placeName": "AROMA Cafe Bistro Bar Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122111346843313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18083475473407166"
-        }
-      }
-    },
-    {
-      "date": "2026-06-28",
-      "placeId": "ChIJ017u9rKNpzERuFNuG_u0HJk",
-      "placeName": "CAFE GREEN(카페그린) DUONG DONG , 망고빙수",
-      "results": {
-        "facebookVideo": {
-          "id": "1702962240856245"
-        },
-        "instagramReel": {
-          "id": "17925349854362413"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-06-28",
-      "placeId": "ChIJdQIPu76LpzERR-arMzuJz5I",
-      "placeName": "Eco Tour Thai Duong – Cua Can River Basket Boat Experience",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122111345979313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18103225628162599"
         }
       }
     }
