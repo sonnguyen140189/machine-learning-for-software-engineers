@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you took the road north and ended up at Ong Lang beach instead of the crowd. 737 people rated it 4.1 stars. Most tourists never make it this far. Fewer beach chairs. More actual sand. The kind of afternoon you don't plan, you just find. Save this for your Phu Quoc trip.",
+    "video_caption": "Driving north past the resorts, then this appears. Ong Lang beach, 4.1 stars, 737 reviews, and almost nobody on it. This is what Phu Quoc looked like before the crowds figured it out.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #VisitVietnam #TravelTips #PhuQuocTips #VietnamBeach #PhuQuocIsland"
+  },
+  "instagram": {
+    "caption": "Took the road north. Found Ong Lang beach. 737 reviews, almost no one here. Don't walk past this one. Save for your Phu Quoc trip.",
+    "video_caption": "Sand, no crowds, 4.1 stars. Ong Lang beach hits different when you just stumble onto it.",
+    "hashtags": "#PhuQuocBeaches #OngLangBeach #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland #VietnamBeach"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn north. Found Ong Lang beach. No crowds, real sand. Don't be me and almost miss it. #PhuQuoc #PhuQuocBeach #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Took a wrong turn. Found this.",
+    "scenes": [
+      "Ride north past resort signs",
+      "Gravel path opens to beach",
+      "Wide empty shoreline, few people",
+      "Feet in shallow clear water",
+      "Pan across soft sand, no chairs"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

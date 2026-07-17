@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.6 stars. 550 reviews. Right on Bãi Dài. The Beach Bistro earns it every time. Sit close to the water, order what the regulars order, and you'll get it. Not every restaurant on the north end of Phu Quoc pulls numbers like that. Save this for your Phu Quoc trip.",
+    "video_caption": "Sand underfoot, sea in front, food hitting the table at The Beach Bistro on Bãi Dài. 550 people rated this 4.6 stars. Watch why.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #BaiDai #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocFood #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.6 stars. 550 reviews. Bãi Dài. The Beach Bistro delivers. Tag your travel buddy.",
+    "video_caption": "Waves, plates, 4.6 stars. The Beach Bistro on Bãi Dài is worth the drive north.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #BaiDai #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.6 stars. 550 reviews. Bãi Dài. The Beach Bistro is doing something right. #PhuQuoc #PhuQuocFood #BaiDai #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.6★. 550 reviews. Bãi Dài.",
+    "scenes": [
+      "Aerial pull back from shoreline",
+      "Feet on sand, table in frame",
+      "Plates arriving, steam rising",
+      "Close-up: fork hits food",
+      "Wide shot: sea view from seat",
+      "Review count on screen: 550"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

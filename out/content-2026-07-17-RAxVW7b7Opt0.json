@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This beach fixes burnout.\n\nBãi Trường runs for miles along Đường Trần Hưng Đạo. Wide sand, warm water, and enough space that you actually stop checking your phone.\n\n4.3 stars across 741 reviews. The people have spoken.\n\nSkip the resort pool. Walk down here instead.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Feet in the sand at Bãi Trường. Miles of coastline, barely anyone in frame. This is the one locals keep coming back to. 4.3★ from 741 people and somehow still this calm.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #VisitVietnam #VietnamTravel #TravelTips #PhuQuocTips #IslandLife"
+  },
+  "instagram": {
+    "caption": "This beach fixes burnout. Bãi Trường, Phu Quoc. 4.3★, 741 reviews, and still this quiet.\n\nSave this for your trip.",
+    "video_caption": "Miles of open sand. Zero crowds. Bãi Trường hits different when you just need to switch off.",
+    "hashtags": "#PhuQuocBeaches #PhuQuocTips #BaiTruong #VietnamTravel #TravelTips #TravelReels #BeachVibes #PhuQuoc #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "The beach that actually helps you decompress. Bãi Trường does not miss. #PhuQuoc #PhuQuocBeaches #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This beach fixes burnout.",
+    "scenes": [
+      "Wide shot: empty shoreline stretching out",
+      "Slow pan across calm turquoise water",
+      "Bare feet hitting wet sand, walking",
+      "Pull back revealing miles of open beach",
+      "Close-up: waves folding onto shore"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
