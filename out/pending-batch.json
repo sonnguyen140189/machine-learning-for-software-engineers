@@ -1,0 +1,521 @@
+{
+  "stamp": "2026-07-18",
+  "items": [
+    {
+      "placeId": "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
+      "placeName": "Aloha Beach Bar",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-18-RTG_Ze_CHtp0-0.jpg",
+        "out/media/2026-07-18-RTG_Ze_CHtp0-1.jpg",
+        "out/media/2026-07-18-RTG_Ze_CHtp0-2.jpg",
+        "out/media/2026-07-18-RTG_Ze_CHtp0-3.jpg",
+        "out/media/2026-07-18-RTG_Ze_CHtp0-4.jpg",
+        "out/media/2026-07-18-RTG_Ze_CHtp0-5.jpg",
+        "out/media/2026-07-18-RTG_Ze_CHtp0-6.jpg",
+        "out/media/2026-07-18-RTG_Ze_CHtp0-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Fresh seafood on Đường Trần Hưng Đạo for $15-30 a person. That's it. That's the post.\n\nAloha Beach Bar pulls 4.7 stars across 2,072 reviews and the prices still haven't caught up to the hype. Grilled fish, cold drinks, beach bar atmosphere. Nothing overcomplicated.\n\nIf you're staying anywhere near the main strip, this one is walking distance. Save this for your Phu Quoc trip.",
+          "video_caption": "2,072 people rated this place 4.7 stars. The bill still comes in under $30. Watch what you get at Aloha Beach Bar on Đường Trần Hưng Đạo before the crowds figure it out.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocSeafood #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "$15-30 for fresh seafood. 4.7 stars. 2,072 reviews. Aloha Beach Bar on Đường Trần Hưng Đạo is doing something right.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Under $30 a head at a 4.7-star seafood bar in Phu Quoc. Aloha Beach Bar. Go.",
+          "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocTips #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #FoodTravel"
+        },
+        "tiktok": {
+          "caption": "4.7 stars, 2,072 reviews, under $30 a head. Aloha Beach Bar in Phu Quoc is not a drill. #PhuQuoc #PhuQuocFood #SeafoodLovers #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "$30 seafood dinner in Phu Quoc??",
+          "scenes": [
+            "Exterior shot: Aloha Beach Bar sign on Đường Trần Hưng Đạo",
+            "Pan across full table of grilled seafood dishes",
+            "Close-up: fresh fish, shells, cold drink condensation",
+            "Phone screen showing 4.7 stars, 2,072 reviews",
+            "Final bill close-up: under $30"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJG0ygU8-NpzERXtcRcF0Av7k",
+      "placeName": "Ngoc Hien Pearl Farm",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-18-RXtcRcF0Av7k-0.jpg",
+        "out/media/2026-07-18-RXtcRcF0Av7k-1.jpg",
+        "out/media/2026-07-18-RXtcRcF0Av7k-2.jpg",
+        "out/media/2026-07-18-RXtcRcF0Av7k-3.jpg",
+        "out/media/2026-07-18-RXtcRcF0Av7k-4.jpg",
+        "out/media/2026-07-18-RXtcRcF0Av7k-5.jpg",
+        "out/media/2026-07-18-RXtcRcF0Av7k-6.jpg",
+        "out/media/2026-07-18-RXtcRcF0Av7k-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-18-RXtcRcF0Av7k.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "3,706 reviews on a pearl farm. Phu Quoc doesn't play around.\n\nNgọc Hiền Pearl Farm on Đường Trần Hưng Đạo is where you see exactly how Phu Quoc's famous pearls go from oyster to necklace. Watch the full process, browse the jewelry, and actually understand what you're buying.\n\n4.2 stars across thousands of visitors. Worth the stop.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch a pearl get pulled straight from the oyster. Ngọc Hiền Pearl Farm makes the whole process visible, start to finish. 3,706 reviews back it up.",
+          "first_comment": "#PhuQuoc #PhuQuocPearls #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "3,706 reviews on a pearl farm. Phu Quoc serious.\n\nNgọc Hiền Pearl Farm, 4.2 stars. See the full oyster-to-jewelry process before you buy. Tag your travel buddy.",
+          "video_caption": "Pearl pulled from a live oyster. This is Ngọc Hiền Pearl Farm and 3,706 people rated it 4.2 stars.",
+          "hashtags": "#PhuQuocPearls #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocJewelry #VisitVietnam #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "3,706 reviews on a pearl farm in Phu Quoc. Ngọc Hiền hits different when you watch the full process. #PhuQuoc #PhuQuocPearls #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "3,706 reviews. One pearl farm.",
+          "scenes": [
+            "Close-up: oyster pried open on table",
+            "Pearl lifted out, held to camera",
+            "Worker sorting pearls by size",
+            "Glass cases of finished jewelry",
+            "Visitor holding necklace up to light"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJHalrczGMpzER22lEwxlew40",
+      "placeName": "Quoc An Pearl",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-18-R22lEwxlew40-0.jpg",
+        "out/media/2026-07-18-R22lEwxlew40-1.jpg",
+        "out/media/2026-07-18-R22lEwxlew40-2.jpg",
+        "out/media/2026-07-18-R22lEwxlew40-3.jpg",
+        "out/media/2026-07-18-R22lEwxlew40-4.jpg",
+        "out/media/2026-07-18-R22lEwxlew40-5.jpg",
+        "out/media/2026-07-18-R22lEwxlew40-6.jpg",
+        "out/media/2026-07-18-R22lEwxlew40-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "1,123 reviews. 4.1 stars. For a jewelry store in Phu Quoc.\n\nQuoc An Pearl sits in Khu phố Suối Mây and it pulls serious numbers for a reason. Phu Quoc pearl farming is the real deal, and this is one of the spots locals and repeat visitors actually rate. If you're buying pearl jewelry in Vietnam, this is worth a stop.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Over a thousand reviews for a jewelry store in Phu Quoc. Watch what makes Quoc An Pearl stand out in Khu phố Suối Mây. Pearl shopping just got serious.",
+          "first_comment": "#PhuQuoc #PhuQuocPearls #PhuQuocShopping #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "1,123 reviews. 4.1 stars. For a jewelry store.\n\nQuoc An Pearl in Khu phố Suối Mây is not random. Tag your travel buddy.",
+          "video_caption": "A Phu Quoc pearl store with 1,123 reviews. Quoc An Pearl earns every one.",
+          "hashtags": "#PhuQuocPearls #PhuQuocShopping #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "1,123 reviews for a pearl store in Phu Quoc. Quoc An Pearl is not a tourist trap. #PhuQuoc #PhuQuocPearls #PhuQuocShopping #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "1,123 reviews. One pearl store.",
+          "scenes": [
+            "Exterior shot, Khu phố Suối Mây signage visible",
+            "Close-up: pearl necklaces arranged in display case",
+            "Hands picking up and inspecting a pearl bracelet",
+            "Wide shot: customers browsing inside the store",
+            "Zoom in on 4.1-star rating on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJD6wtS1eMpzER4kblLDZp36s",
+      "placeName": "Long Beach Pearl",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-18-R4kblLDZp36s-0.jpg",
+        "out/media/2026-07-18-R4kblLDZp36s-1.jpg",
+        "out/media/2026-07-18-R4kblLDZp36s-2.jpg",
+        "out/media/2026-07-18-R4kblLDZp36s-3.jpg",
+        "out/media/2026-07-18-R4kblLDZp36s-4.jpg",
+        "out/media/2026-07-18-R4kblLDZp36s-5.jpg",
+        "out/media/2026-07-18-R4kblLDZp36s-6.jpg",
+        "out/media/2026-07-18-R4kblLDZp36s-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-18-R4kblLDZp36s.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this shop on Đường Trần Hưng Đạo. Big mistake.\n\nLong Beach Pearl specializes in Phu Quoc pearl jewelry, one of the island's most legitimate souvenirs. Real cultured pearls, not the airport knockoffs. 4.0 stars across 252 reviews says people who stopped in didn't regret it.\n\nIf you're buying pearls anywhere in Phu Quoc, start here first so you know what fair looks like.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Pearls laid out on the counter at Long Beach Pearl. Staff walk you through grades, sizes, real vs. fake. 252 reviews later, this spot on Đường Trần Hưng Đạo is still flying under the radar.",
+          "first_comment": "#PhuQuoc #PhuQuocShopping #VisitVietnam #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Tourists skip this pearl shop every single day. Don't.\n\nLong Beach Pearl, Đường Trần Hưng Đạo. 4.0★, 252 reviews. Know what real looks like before you buy.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Pearl shopping in Phu Quoc hits different when you actually know what you're holding. Long Beach Pearl shows you the difference.",
+          "hashtags": "#PhuQuocShopping #PhuQuocTips #PhuQuocPearls #VietnamTravel #TravelTips #TravelReels #ShoppingInVietnam"
+        },
+        "tiktok": {
+          "caption": "Most tourists buy fake pearls in Phu Quoc. This shop on Đường Trần Hưng Đạo changes that. #PhuQuoc #PhuQuocShopping #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Locals don't post this shop.",
+          "scenes": [
+            "Pan across pearl display counter",
+            "Close-up: grading pearls by size and luster",
+            "Staff points out real vs. imitation pearl",
+            "Customer holds necklace up to light",
+            "Storefront shot: 124 Đường Trần Hưng Đạo"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJVVVVVXQgCDER_KXFZ6RZQ8Q",
+      "placeName": "Phu Quoc Bee Farm",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-18-R_KXFZ6RZQ8Q-0.jpg",
+        "out/media/2026-07-18-R_KXFZ6RZQ8Q-1.jpg",
+        "out/media/2026-07-18-R_KXFZ6RZQ8Q-2.jpg",
+        "out/media/2026-07-18-R_KXFZ6RZQ8Q-3.jpg",
+        "out/media/2026-07-18-R_KXFZ6RZQ8Q-4.jpg",
+        "out/media/2026-07-18-R_KXFZ6RZQ8Q-5.jpg",
+        "out/media/2026-07-18-R_KXFZ6RZQ8Q-6.jpg",
+        "out/media/2026-07-18-R_KXFZ6RZQ8Q-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "Phu Quoc doesn't feel touristy here. Phu Quoc Bee Farm slows everything down. Watch the bees work, taste honey straight from the comb, and remember what it feels like to just stop. 4.8 stars across 770 reviews. That's not luck. That's a place doing something right. Add this to your itinerary before the beach days blur together. Save this for your Phu Quoc trip.",
+          "video_caption": "Honey straight off the comb at Phu Quoc Bee Farm. 4.8 stars, 770 people can't oversell this. Your resort schedule needs this gap in it.",
+          "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #PhuQuocAttractions"
+        },
+        "instagram": {
+          "caption": "This place fixes the resort blur. Phu Quoc Bee Farm. 4.8★, 770 reviews. Save this for your Phu Quoc trip.",
+          "video_caption": "Tasting honey off the comb. 4.8★ farm in Phu Quoc. You'll want this in your itinerary.",
+          "hashtags": "#PhuQuocTips #PhuQuocAttractions #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #VietnamTips"
+        },
+        "tiktok": {
+          "caption": "When the beaches start blurring together, go here. Phu Quoc Bee Farm. 4.8★ for a reason. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Phu Quoc that doesn't feel touristy.",
+          "scenes": [
+            "Aerial pan over farm, bees visible",
+            "Close-up: honeycomb dripping slow",
+            "Hand pulling comb from hive frame",
+            "Visitor tastes honey, genuine reaction",
+            "Wide shot: quiet farm, no crowds"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ017u9rKNpzERuFNuG_u0HJk",
+      "placeName": "CAFE GREEN(카페그린) DUONG DONG , 망고빙수",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-18-RuFNuG_u0HJk-0.jpg",
+        "out/media/2026-07-18-RuFNuG_u0HJk-1.jpg",
+        "out/media/2026-07-18-RuFNuG_u0HJk-2.jpg",
+        "out/media/2026-07-18-RuFNuG_u0HJk-3.jpg",
+        "out/media/2026-07-18-RuFNuG_u0HJk-4.jpg",
+        "out/media/2026-07-18-RuFNuG_u0HJk-5.jpg",
+        "out/media/2026-07-18-RuFNuG_u0HJk-6.jpg",
+        "out/media/2026-07-18-RuFNuG_u0HJk-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-18-RuFNuG_u0HJk.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.9 stars. 1,769 reviews. For a café in Phu Quoc.\n\nCafe Green (카페그린) on Trần Hưng Đạo is earning that rating one mango bingsu at a time. The 망고빙수 is the move here. Shaved ice, fresh mango, and a bill that won't hurt.\n\nRight in Dương Đông, easy to find, hard to leave.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch this mango bingsu land on the table at Cafe Green in Dương Đông. 4.9 stars across 1,769 reviews. One spoonful and you'll understand why.",
+          "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocFood #VisitVietnam #TravelTips #DuongDong #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "4.9 stars. 1,769 reviews. One café in Phu Quoc.\n\nCafe Green's 망고빙수 is the reason. Tag your travel buddy.",
+          "video_caption": "Mango bingsu hitting different at Cafe Green, Dương Đông. 4.9 stars don't lie.",
+          "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #DuongDong #VietnamTravel #TravelTips #TravelReels #CafeGreen"
+        },
+        "tiktok": {
+          "caption": "4.9 stars. 1,769 reviews. The 망고빙수 at Cafe Green in Dương Đông is the reason. #PhuQuoc #PhuQuocFood #CafeGreen #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.9 stars. 1,769 reviews.",
+          "scenes": [
+            "Exterior of Cafe Green, Trần Hưng Đạo",
+            "Staff preparing shaved ice base",
+            "Fresh mango slices layered on top",
+            "Full 망고빙수 placed on table",
+            "First spoonful close-up"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJBWE7axyNpzER5e0d8AjEDJA",
+      "placeName": "AROMA Cafe Bistro Bar Phu Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-18-R5e0d8AjEDJA-0.jpg",
+        "out/media/2026-07-18-R5e0d8AjEDJA-1.jpg",
+        "out/media/2026-07-18-R5e0d8AjEDJA-2.jpg",
+        "out/media/2026-07-18-R5e0d8AjEDJA-3.jpg",
+        "out/media/2026-07-18-R5e0d8AjEDJA-4.jpg",
+        "out/media/2026-07-18-R5e0d8AjEDJA-5.jpg",
+        "out/media/2026-07-18-R5e0d8AjEDJA-6.jpg",
+        "out/media/2026-07-18-R5e0d8AjEDJA-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this one. AROMA Cafe Bistro Bar Phu Quoc sits inside Happy Bear Hostel on 179 30/4 Street, and most visitors never even slow down. 4.9 stars across 468 reviews. That number doesn't lie. Order something, find a seat, and you'll understand why regulars keep it quiet. Save this for your Phu Quoc trip.",
+          "video_caption": "468 people rated this cafe 4.9 stars and almost nobody outside the hostel crowd knows it exists. AROMA Cafe Bistro Bar inside Happy Bear Hostel. Go find it on 30/4 Street.",
+          "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocTips #VisitVietnam #TravelTips #CoffeeVietnam #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "Locals don't post about AROMA Cafe Bistro Bar. 4.9 stars. 468 reviews. Inside Happy Bear Hostel on 30/4 Street. Tag your travel buddy.",
+          "video_caption": "4.9 stars and tourists keep walking past it. AROMA Cafe Bistro Bar, Phu Quoc. Now you know.",
+          "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CoffeeShopVibes"
+        },
+        "tiktok": {
+          "caption": "4.9 stars and nobody talks about it. AROMA Cafe inside Happy Bear Hostel, Phu Quoc. #PhuQuoc #PhuQuocTips #VietnamTravel #CafeHopping"
+        },
+        "video_script": {
+          "hook": "Locals keep this cafe quiet.",
+          "scenes": [
+            "Exterior shot: hostel entrance on 30/4 Street",
+            "Push through door, cafe comes into view",
+            "Close-up: coffee cup hitting the counter",
+            "Wide shot: relaxed seating, low tourist traffic",
+            "Screen fills with: 4.9 stars. 468 reviews."
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
+      "placeName": "58 CAFÉ",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-18-RDYsRxEN2Jmo-0.jpg",
+        "out/media/2026-07-18-RDYsRxEN2Jmo-1.jpg",
+        "out/media/2026-07-18-RDYsRxEN2Jmo-2.jpg",
+        "out/media/2026-07-18-RDYsRxEN2Jmo-3.jpg",
+        "out/media/2026-07-18-RDYsRxEN2Jmo-4.jpg",
+        "out/media/2026-07-18-RDYsRxEN2Jmo-5.jpg",
+        "out/media/2026-07-18-RDYsRxEN2Jmo-6.jpg",
+        "out/media/2026-07-18-RDYsRxEN2Jmo-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-18-RDYsRxEN2Jmo.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you wander down Hoàng Văn Thụ and stumble on 58 CAFÉ before the tourist crowd figures it out.\n\n4.6 stars. 127 reviews. The kind of coffee shop that makes you rebook your flight home.\n\nSit down. Order something. Let the morning slow down.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Walked down a quiet street in Phu Quoc and found 58 CAFÉ. 4.6 stars, 127 reviews, and almost no line. Your morning just got better.",
+          "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: you find 58 CAFÉ before everyone else does. 4.6★, 127 reviews, Hoàng Văn Thụ. Save this for your Phu Quoc trip.",
+          "video_caption": "Quiet street. Great coffee. 58 CAFÉ on Hoàng Văn Thụ hits different at 8am. Tag your travel buddy.",
+          "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeInVietnam"
+        },
+        "tiktok": {
+          "caption": "Found 58 CAFÉ on Hoàng Văn Thụ. 4.6 stars. Barely anyone inside. This is the move. #PhuQuoc #PhuQuocCafe #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Walked past once. Don't be me.",
+          "scenes": [
+            "Slow walk down Hoàng Văn Thụ",
+            "Exterior of 58 CAFÉ comes into frame",
+            "Hand wraps around a coffee cup",
+            "Empty seats, morning light inside",
+            "Close-up: 4.6 stars on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJK0z_dgCNpzERiSVWSPMxaoc",
+      "placeName": "Chill Bar Đồi Trăng",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-18-RiSVWSPMxaoc-0.jpg",
+        "out/media/2026-07-18-RiSVWSPMxaoc-1.jpg",
+        "out/media/2026-07-18-RiSVWSPMxaoc-2.jpg",
+        "out/media/2026-07-18-RiSVWSPMxaoc-3.jpg",
+        "out/media/2026-07-18-RiSVWSPMxaoc-4.jpg",
+        "out/media/2026-07-18-RiSVWSPMxaoc-5.jpg",
+        "out/media/2026-07-18-RiSVWSPMxaoc-6.jpg",
+        "out/media/2026-07-18-RiSVWSPMxaoc-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you take a wrong turn on Đ. 30 Tháng 4 and end up at Chill Bar Đồi Trăng. 4.7 stars. 159 reviews. Nobody in your tour group has heard of it. Order something cold. Sit down. You're not leaving soon. Save this for your Phu Quoc trip.",
+          "video_caption": "Wrong turn. Right place. Chill Bar Đồi Trăng on Đ. 30 Tháng 4 has 4.7 stars and 159 reviews. Your group chat doesn't know about this one yet.",
+          "first_comment": "#PhuQuoc #PhuQuocBars #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Took a wrong turn. Found Chill Bar Đồi Trăng. 4.7★, 159 reviews, zero crowds. Tag your travel buddy.",
+          "video_caption": "4.7 stars on Đ. 30 Tháng 4. Walked past it twice. Don't be me.",
+          "hashtags": "#PhuQuocBars #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Wrong turn in Phu Quoc. Ended up at Chill Bar Đồi Trăng. 4.7★ and nobody talking about it. #PhuQuoc #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Walked past this 3 times.",
+          "scenes": [
+            "Street-level approach on Đ. 30 Tháng 4",
+            "Slow pan up to Chill Bar Đồi Trăng sign",
+            "POV walking inside, empty seats visible",
+            "Close-up: cold drink hits the table",
+            "Lean back, chill, wide smile to camera"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJLZPWxLiWpzERwrkgfIa1P8I",
+      "placeName": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-18-RwrkgfIa1P8I-0.jpg",
+        "out/media/2026-07-18-RwrkgfIa1P8I-1.jpg",
+        "out/media/2026-07-18-RwrkgfIa1P8I-2.jpg",
+        "out/media/2026-07-18-RwrkgfIa1P8I-3.jpg",
+        "out/media/2026-07-18-RwrkgfIa1P8I-4.jpg",
+        "out/media/2026-07-18-RwrkgfIa1P8I-5.jpg",
+        "out/media/2026-07-18-RwrkgfIa1P8I-6.jpg",
+        "out/media/2026-07-18-RwrkgfIa1P8I-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-18-RwrkgfIa1P8I.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.7 stars. 3,426 reviews. This is what they're all talking about.\n\nJW Marriott Phu Quoc Emerald Bay sits right on Bãi Khem, one of the cleanest stretches of sand on the island. Three pools. Five restaurants. A full spa. The architecture alone stops people mid-walk.\n\nThis isn't just a hotel. It's the reason some people come to Phu Quoc at all.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Bãi Khem at sunrise, three pools waiting, five restaurants deciding your day. JW Marriott Phu Quoc Emerald Bay earns every one of its 3,426 reviews. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #JWMarriott #VisitVietnam #TravelTips #LuxuryTravel #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "4.7 stars. 3,426 reviews. Bãi Khem. JW Marriott Phu Quoc Emerald Bay is not a coincidence.\n\n3 pools. 5 restaurants. 1 spa. Save this.",
+          "video_caption": "Pools, beach, five restaurants. 3,426 people rated this 4.7 stars. JW Marriott Phu Quoc Emerald Bay delivers.",
+          "hashtags": "#PhuQuocResort #PhuQuocBeaches #PhuQuocTips #PhuQuocHotel #VietnamTravel #TravelTips #TravelReels #LuxuryResort"
+        },
+        "tiktok": {
+          "caption": "3,426 reviews. 4.7 stars. Bãi Khem beach. JW Marriott Phu Quoc earns it. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "3,426 reviews. 4.7 stars.",
+          "scenes": [
+            "Aerial pull-back over Bãi Khem shoreline",
+            "Slow pan across three resort pools",
+            "Chef plates dish at one of 5 restaurants",
+            "Spa treatment room, candles lit",
+            "Guest walks beachfront at golden hour"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ0R95YniTpzER8HfwfZ2aMZI",
+      "placeName": "Regent Phu Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-07-18-R8HfwfZ2aMZI-0.jpg",
+        "out/media/2026-07-18-R8HfwfZ2aMZI-1.jpg",
+        "out/media/2026-07-18-R8HfwfZ2aMZI-2.jpg",
+        "out/media/2026-07-18-R8HfwfZ2aMZI-3.jpg",
+        "out/media/2026-07-18-R8HfwfZ2aMZI-4.jpg",
+        "out/media/2026-07-18-R8HfwfZ2aMZI-5.jpg",
+        "out/media/2026-07-18-R8HfwfZ2aMZI-6.jpg",
+        "out/media/2026-07-18-R8HfwfZ2aMZI-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you pull up to Regent Phu Quoc and just stand there for a second.\n\n4.9 stars across 1,465 reviews. That number is almost unfair.\n\nSituated inside Marina Integrated Resort Complex on đường Bào Dương Tơ, this property sets a bar that most of Phu Quoc isn't trying to clear. The kind of place where check-in already feels like the highlight.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "First look at Regent Phu Quoc. 4.9 stars. 1,465 people gave it that rating. Watch the lobby walk-through and tell me they're wrong. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocHotels #LuxuryHotelsPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: you check into Regent Phu Quoc and forget what stress feels like.\n\n4.9★, 1,465 reviews. Save this.",
+          "video_caption": "Walking into Regent Phu Quoc. 4.9 stars. The lobby does the talking. Tag someone who needs this.",
+          "hashtags": "#PhuQuocHotels #PhuQuocResort #PhuQuocTips #LuxuryTravel #VietnamTravel #TravelReels #TravelTips"
+        },
+        "tiktok": {
+          "caption": "POV: first look at Regent Phu Quoc. 4.9★ from 1,465 guests. Yeah. #PhuQuoc #PhuQuocHotels #LuxuryTravel #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: you found the 4.9★ hotel",
+          "scenes": [
+            "Slow pull into resort entrance",
+            "Lobby reveal, wide shot panning",
+            "Close-up: reception desk detail",
+            "Room door opens, first look inside",
+            "Balcony view facing the marina"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJhS_cnzseCDERAMqYy7efZBo",
+      "placeName": "Vinpearl Resort & Spa Phú Quốc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-07-18-RAMqYy7efZBo-0.jpg",
+        "out/media/2026-07-18-RAMqYy7efZBo-1.jpg",
+        "out/media/2026-07-18-RAMqYy7efZBo-2.jpg",
+        "out/media/2026-07-18-RAMqYy7efZBo-3.jpg",
+        "out/media/2026-07-18-RAMqYy7efZBo-4.jpg",
+        "out/media/2026-07-18-RAMqYy7efZBo-5.jpg",
+        "out/media/2026-07-18-RAMqYy7efZBo-6.jpg",
+        "out/media/2026-07-18-RAMqYy7efZBo-7.jpg"
+      ],
+      "videoPath": "out/media/2026-07-18-RAMqYy7efZBo.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "42,399 reviews. 4.9 stars. Vinpearl Resort & Spa Phú Quốc keeps earning both.\n\nBeachfront on Bãi Dài. A water park on-site. Multiple restaurants and bars. Golf course. Spa. All in one resort that actually delivers on the photos.\n\nThis is the kind of place where you check in stressed and check out a different person. Save this for your Phu Quoc trip.",
+          "video_caption": "Bãi Dài from inside one of the best-rated resorts in Phu Quoc. 4.9 stars across 42,399 reviews. Watch what that looks like in real life.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #BaiDai"
+        },
+        "instagram": {
+          "caption": "42,399 reviews. 4.9 stars. Vinpearl Resort & Spa Phú Quốc keeps delivering.\n\nBãi Dài beachfront, water park, golf, spa. Save this.",
+          "video_caption": "Bãi Dài. 4.9 stars. 42,399 people weren't wrong about Vinpearl Resort & Spa Phú Quốc.",
+          "hashtags": "#PhuQuocResort #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocHotels"
+        },
+        "tiktok": {
+          "caption": "42,399 reviews. 4.9 stars. Vinpearl Resort & Spa Phú Quốc is doing something right. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.9★ across 42,399 reviews.",
+          "scenes": [
+            "Aerial shot over Bãi Dài coastline",
+            "Slow pan across beachfront pool at sunrise",
+            "Kids launching off water park slides",
+            "Close-up of plated food at resort restaurant",
+            "Sunset from the bar, golden light on water"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

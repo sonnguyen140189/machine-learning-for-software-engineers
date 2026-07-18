@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this one. AROMA Cafe Bistro Bar Phu Quoc sits inside Happy Bear Hostel on 179 30/4 Street, and most visitors never even slow down. 4.9 stars across 468 reviews. That number doesn't lie. Order something, find a seat, and you'll understand why regulars keep it quiet. Save this for your Phu Quoc trip.",
+    "video_caption": "468 people rated this cafe 4.9 stars and almost nobody outside the hostel crowd knows it exists. AROMA Cafe Bistro Bar inside Happy Bear Hostel. Go find it on 30/4 Street.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocTips #VisitVietnam #TravelTips #CoffeeVietnam #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Locals don't post about AROMA Cafe Bistro Bar. 4.9 stars. 468 reviews. Inside Happy Bear Hostel on 30/4 Street. Tag your travel buddy.",
+    "video_caption": "4.9 stars and tourists keep walking past it. AROMA Cafe Bistro Bar, Phu Quoc. Now you know.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CoffeeShopVibes"
+  },
+  "tiktok": {
+    "caption": "4.9 stars and nobody talks about it. AROMA Cafe inside Happy Bear Hostel, Phu Quoc. #PhuQuoc #PhuQuocTips #VietnamTravel #CafeHopping"
+  },
+  "video_script": {
+    "hook": "Locals keep this cafe quiet.",
+    "scenes": [
+      "Exterior shot: hostel entrance on 30/4 Street",
+      "Push through door, cafe comes into view",
+      "Close-up: coffee cup hitting the counter",
+      "Wide shot: relaxed seating, low tourist traffic",
+      "Screen fills with: 4.9 stars. 468 reviews."
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

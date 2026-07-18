@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc doesn't feel touristy here. Phu Quoc Bee Farm slows everything down. Watch the bees work, taste honey straight from the comb, and remember what it feels like to just stop. 4.8 stars across 770 reviews. That's not luck. That's a place doing something right. Add this to your itinerary before the beach days blur together. Save this for your Phu Quoc trip.",
+    "video_caption": "Honey straight off the comb at Phu Quoc Bee Farm. 4.8 stars, 770 people can't oversell this. Your resort schedule needs this gap in it.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #PhuQuocAttractions"
+  },
+  "instagram": {
+    "caption": "This place fixes the resort blur. Phu Quoc Bee Farm. 4.8★, 770 reviews. Save this for your Phu Quoc trip.",
+    "video_caption": "Tasting honey off the comb. 4.8★ farm in Phu Quoc. You'll want this in your itinerary.",
+    "hashtags": "#PhuQuocTips #PhuQuocAttractions #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #VietnamTips"
+  },
+  "tiktok": {
+    "caption": "When the beaches start blurring together, go here. Phu Quoc Bee Farm. 4.8★ for a reason. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that doesn't feel touristy.",
+    "scenes": [
+      "Aerial pan over farm, bees visible",
+      "Close-up: honeycomb dripping slow",
+      "Hand pulling comb from hive frame",
+      "Visitor tastes honey, genuine reaction",
+      "Wide shot: quiet farm, no crowds"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

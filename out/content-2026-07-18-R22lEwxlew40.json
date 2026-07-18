@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,123 reviews. 4.1 stars. For a jewelry store in Phu Quoc.\n\nQuoc An Pearl sits in Khu phố Suối Mây and it pulls serious numbers for a reason. Phu Quoc pearl farming is the real deal, and this is one of the spots locals and repeat visitors actually rate. If you're buying pearl jewelry in Vietnam, this is worth a stop.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Over a thousand reviews for a jewelry store in Phu Quoc. Watch what makes Quoc An Pearl stand out in Khu phố Suối Mây. Pearl shopping just got serious.",
+    "first_comment": "#PhuQuoc #PhuQuocPearls #PhuQuocShopping #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "1,123 reviews. 4.1 stars. For a jewelry store.\n\nQuoc An Pearl in Khu phố Suối Mây is not random. Tag your travel buddy.",
+    "video_caption": "A Phu Quoc pearl store with 1,123 reviews. Quoc An Pearl earns every one.",
+    "hashtags": "#PhuQuocPearls #PhuQuocShopping #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "1,123 reviews for a pearl store in Phu Quoc. Quoc An Pearl is not a tourist trap. #PhuQuoc #PhuQuocPearls #PhuQuocShopping #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "1,123 reviews. One pearl store.",
+    "scenes": [
+      "Exterior shot, Khu phố Suối Mây signage visible",
+      "Close-up: pearl necklaces arranged in display case",
+      "Hands picking up and inspecting a pearl bracelet",
+      "Wide shot: customers browsing inside the store",
+      "Zoom in on 4.1-star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
