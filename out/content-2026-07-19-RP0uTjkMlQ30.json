@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Some nights in Phu Quoc just hit different. Shisha Bar Phu Quoc on Đường Trần Hưng Đạo is one of those places where the playlist is right, the smoke curls slow, and nobody's rushing you out. 4.5 stars across 154 reviews. That's not luck. Pull up a seat, order a bowl, and let the evening do its thing. Save this for your Phu Quoc trip.",
+    "video_caption": "Shisha smoke, low lights, good music. Shisha Bar Phu Quoc earns that 4.5 rating fast. Đường Trần Hưng Đạo. Be here tonight.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBars #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Some Phu Quoc nights just need slow smoke and good vibes. Shisha Bar Phu Quoc delivers. 4.5★, 154 reviews. Tag your travel buddy.",
+    "video_caption": "Low lights. Shisha curling. Zero rush. Shisha Bar Phu Quoc hits the spot every time.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #NightlifePhuQuoc"
+  },
+  "tiktok": {
+    "caption": "This bar fixed my whole evening. Shisha Bar Phu Quoc, Đường Trần Hưng Đạo. 4.5★ for a reason. #PhuQuoc #PhuQuocNightlife #TravelTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc nights hit different here.",
+    "scenes": [
+      "Pan across dim-lit bar entrance",
+      "Close-up: shisha coal glowing orange",
+      "Slow pull of smoke rising into air",
+      "Wide shot: guests relaxed, drinks in hand",
+      "Cut to 4.5★ review screen on phone"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you took a wrong turn in Duong Bao and found Beach House - The Beach Club. 4.6 stars. 111 reviews. And somehow still feels like your own discovery. Sand under your feet, drink in hand, zero resort crowd energy. This is the Phu Quoc beach bar vibe people actually come here for. Save this for your Phu Quoc trip.",
+    "video_caption": "Wrong turn. Best decision. Beach House - The Beach Club in Duong Bao hits different when you find it yourself. 4.6 stars, cold drinks, real beach energy. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocBeachBar #PhuQuocTips #VisitVietnam #TravelTips #PhuQuocIsland #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn in Duong Bao. Found this. Beach House - The Beach Club, 4.6★, 111 reviews. Tag your travel buddy.",
+    "video_caption": "Wrong turn. Right place. Beach House - The Beach Club is exactly what a Phu Quoc beach bar should be.",
+    "hashtags": "#PhuQuocBeachBar #PhuQuocTips #PhuQuocIsland #VietnamTravel #TravelTips #TravelReels #PhuQuocVibes"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn in Phu Quoc and landed here. Beach House - The Beach Club, 4.6★. Worth it. #PhuQuoc #PhuQuocTips #BeachBar #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Found this.",
+    "scenes": [
+      "Approach sandy path to bar entrance",
+      "Pan across beach view from bar",
+      "Close-up of cold drink hitting the table",
+      "Wide shot of crowd-free beach vibe",
+      "Slow zoom on 4.6★ Google rating"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

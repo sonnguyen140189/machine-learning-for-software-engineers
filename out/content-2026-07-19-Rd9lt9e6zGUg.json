@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 777 reviews. One bar on Đường Bạch Đằng that keeps showing up. House No. 1 at 58 Đường Bạch Đằng, Phú Quốc pulls those numbers for a reason. Locals rate it. Repeat visitors swear by it. Not a fluke. Save this for your Phu Quoc trip.",
+    "video_caption": "777 people gave it 4.8 stars. Watch why House No. 1 on Đường Bạch Đằng keeps earning it. This bar is not hype. It delivers.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #PhuQuocNightlife #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 777 reviews. House No. 1 on Đường Bạch Đằng just keeps winning.\n\nTag your travel buddy.",
+    "video_caption": "777 reviews don't lie. House No. 1 is the bar Phu Quoc keeps coming back to.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars. 777 reviews. House No. 1 in Phú Quốc. Go. #PhuQuoc #PhuQuocBars #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8★ · 777 reviews · 1 bar",
+    "scenes": [
+      "Exterior shot: 58 Đường Bạch Đằng sign visible",
+      "Camera pushes through entrance door",
+      "Bartender sets drinks on counter",
+      "Crowd: mix of locals and travelers",
+      "Close-up: 4.8-star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
