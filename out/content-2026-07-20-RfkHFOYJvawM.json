@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walked Đường Trần Hưng Đạo looking for coffee and found the one locals actually return to. Tarapaca Cafe. 4.7 stars. 728 reviews. That's not luck, that's consistency. Order, sit down, slow the trip down for an hour. Save this for your Phu Quoc trip.",
+    "video_caption": "Coffee cup hits the table at Tarapaca Cafe and suddenly the whole itinerary can wait. 4.7 stars on 728 reviews. Đường Trần Hưng Đạo, Khu Phố 7. Go find it.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #VietnamCoffee #PhuQuocTips #TravelVietnam"
+  },
+  "instagram": {
+    "caption": "POV: you found the café locals keep coming back to. Tarapaca Cafe. 4.7★, 728 reviews. Tag your travel buddy.",
+    "video_caption": "728 reviews on a café in Phu Quoc. Watch what the hype is about. Tarapaca Cafe, Đường Trần Hưng Đạo.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CafeHopping"
+  },
+  "tiktok": {
+    "caption": "Walked past twice. Third time I went in. Tarapaca Cafe delivered. #PhuQuoc #PhuQuocCafe #VietnamTravel #CoffeeShop"
+  },
+  "video_script": {
+    "hook": "Walked past. Went back. Worth it.",
+    "scenes": [
+      "Exterior shot: 106A Đường Trần Hưng Đạo signage",
+      "Push through the door, reveal the interior",
+      "Barista pulls the order, hands it over",
+      "Close-up: coffee cup on table, steam rising",
+      "Cut to 4.7★ review screen, 728 count"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

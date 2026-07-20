@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "Walked down Hoàng Văn Thụ and almost missed it. Tiệm Cà Phê Đồng Giao sits at number 38, rated 4.9 stars, and barely anyone outside the neighborhood knows it exists. No tourist menus. No English signs out front. Just seriously good coffee and a vibe that makes you stay two hours longer than planned. Add this to your Phu Quoc list before the crowds catch on. Save this for your Phu Quoc trip.",
+    "video_caption": "Your camera pans down a quiet Phu Quoc street. You almost walk past number 38. Then the smell of fresh coffee stops you cold. Tiệm Cà Phê Đồng Giao. 4.9 stars. Barely on the map. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you almost walked past Tiệm Cà Phê Đồng Giao. 4.9 stars. Quiet street. Best decision you'll make in Phu Quoc. Save this.",
+    "video_caption": "38 Hoàng Văn Thụ. Easy to miss. Impossible to forget. Tiệm Cà Phê Đồng Giao hits 4.9 stars for a reason.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #CoffeePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Almost walked past this 4.9-star café in Phu Quoc. Don't be me. #PhuQuoc #PhuQuocCafe #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: you almost missed this.",
+    "scenes": [
+      "Slow pan down quiet Hoàng Văn Thụ street",
+      "Feet stop outside number 38",
+      "Push open the door, warm interior revealed",
+      "Close-up: fresh coffee poured into cup",
+      "Zoom in on 4.9-star rating on phone screen",
+      "Guest settles in, stays way too long"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

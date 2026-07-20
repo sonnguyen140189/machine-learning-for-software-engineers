@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stop scrolling resort maps and just walk to the water. Sonasea Public Beach Bãi Trường hits different when you realize it's free, open, and far less crowded than the hotel strips. Wide sand, calm water, and actual space to breathe. 4.4 stars from 116 real visitors. Save this for your Phu Quoc trip.",
+    "video_caption": "Bare feet on Bãi Trường sand. No wristband. No resort fee. Just walk in, drop your towel, and go. This is Sonasea Public Beach and it costs you nothing.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #BaiTruong #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Walked past the resort gates and found this. Sonasea Public Beach Bãi Trường. Free. Open. 4.4★. Tag your travel buddy.",
+    "video_caption": "No resort fee. No crowds. Just Bãi Trường doing its thing. Sonasea Public Beach is the move.",
+    "hashtags": "#PhuQuocBeaches #PhuQuocTips #BaiTruong #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #BeachVibes"
+  },
+  "tiktok": {
+    "caption": "Walked past the resort strip. Found Sonasea Public Beach Bãi Trường. Free access, real sand, zero crowds. #PhuQuoc #BaiTruong #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: free beach, no resort fee",
+    "scenes": [
+      "Walk past resort gate signs toward water",
+      "Wide empty sand stretches into frame",
+      "Feet hit the shoreline, calm waves",
+      "Pan along Bãi Trường beachfront",
+      "Towel dropped, no crowds in sight"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
