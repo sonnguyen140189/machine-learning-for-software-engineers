@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJif-3eKuNpzERQNn7TSJoUsA",
+    "ChIJ9T54ktqNpzERu6dsX5pZXx4",
+    "ChIJ07kLWwCTpzERMUTHN5TrzFY",
+    "ChIJw58lTZeNpzERBCwsZlG8gwA",
+    "ChIJZ92iGQCLpzER_8noAX_Wcvs",
+    "ChIJh0oTEUaLpzERgI8_SI_bkLg",
+    "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
+    "ChIJx4kkhiiNpzERH47LIVsqJps",
+    "ChIJKzlafMuLpzERtBF-FredP28",
+    "ChIJH7qQ4niLpzERauDuEKEMXVk",
+    "ChIJBZASQZ6NpzERfkHFOYJvawM",
+    "ChIJRQVFmFqNpzERu5Sg8_W6Zoo",
     "ChIJJ8PVWkiTpzER0g33shpEXCY",
     "ChIJ-zqn9WCMpzER2Ko070p2nyo",
     "ChIJD8-KD3uNpzERZVGLp2AdvPI",
@@ -187,21 +199,188 @@
     "ChIJdzmotOqNpzER3SFTNOAxFC4",
     "ChIJl8UfBQGNpzERWCMLl5afNZA",
     "ChIJi-z2ewCNpzER4P73e0T61VE",
-    "ChIJ5eqLUm2NpzERURd3wi62JoM",
-    "ChIJYREw3iyNpzER4MEeLlm9Ju4",
-    "ChIJlehMyBUfCDERDSqZ_aeChQA",
-    "ChIJMSfrfEqNpzER9_6_sLzv_nk",
-    "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
-    "ChIJj3KLVmuNpzERRcxS6PIioiI",
-    "ChIJh-NscYeMpzER9zBF1Ddrbo0",
-    "ChIJ44_c7DiLpzERBpIsx0wB0T4",
-    "ChIJh_DUIYeNpzERDqbaRMxPgTY",
-    "ChIJl1AwDfuNpzERAZBzVul_WO8",
-    "ChIJMy-NusSNpzERrIESZrdhmz0",
-    "ChIJY5fODACNpzER4vgSD0OdNQA",
-    "ChIJpf9tnKuNpzER0VlJpD19I5s"
+    "ChIJ5eqLUm2NpzERURd3wi62JoM"
   ],
   "history": [
+    {
+      "date": "2026-07-20",
+      "placeId": "ChIJif-3eKuNpzERQNn7TSJoUsA",
+      "placeName": "Vida Loca Resort & Sunset Beach Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1652833039137027"
+        },
+        "instagramReel": {
+          "id": "17900213316494541"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "placeId": "ChIJ9T54ktqNpzERu6dsX5pZXx4",
+      "placeName": "Tahiti Hotel",
+      "results": {
+        "facebook": {
+          "error": "Graph API /1133240739869014/photos failed: {\"error\":{\"message\":\"An unknown error has occurred.\",\"type\":\"OAuthException\",\"code\":1,\"fbtrace_id\":\"Ab68SGJ_kiDqZ3fZaLdMKuA\"}}"
+        },
+        "instagram": {
+          "id": "18109476110052428"
+        }
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "placeId": "ChIJ07kLWwCTpzERMUTHN5TrzFY",
+      "placeName": "Sonasea Public Beach Bai Truong",
+      "results": {
+        "facebookVideo": {
+          "id": "2266958740801109"
+        },
+        "instagramReel": {
+          "id": "18149441326504767"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "placeId": "ChIJw58lTZeNpzERBCwsZlG8gwA",
+      "placeName": "Sunset Sanato Beach Club",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122114959545313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18089700266113871"
+        }
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "placeId": "ChIJZ92iGQCLpzER_8noAX_Wcvs",
+      "placeName": "Seana coffee & More",
+      "results": {
+        "facebookVideo": {
+          "id": "893288703847777"
+        },
+        "instagramReel": {
+          "id": "18106764623043765"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "placeId": "ChIJh0oTEUaLpzERgI8_SI_bkLg",
+      "placeName": "Tiệm Cà Phê Đồng Giao",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122114958711313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18599760634053981"
+        }
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "placeId": "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
+      "placeName": "ANBA COFFEE",
+      "results": {
+        "facebookVideo": {
+          "id": "1783871769450049"
+        },
+        "instagramReel": {
+          "id": "18401722495093159"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "placeId": "ChIJx4kkhiiNpzERH47LIVsqJps",
+      "placeName": "Zyzu Kafé",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122114957805313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17969388420104343"
+        }
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "placeId": "ChIJKzlafMuLpzERtBF-FredP28",
+      "placeName": "Hoa Đảo Viên Coffee - Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "2410255906168652"
+        },
+        "instagramReel": {
+          "id": "17979012888111153"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "placeId": "ChIJH7qQ4niLpzERauDuEKEMXVk",
+      "placeName": "HD cafe",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122114957061313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18108042857096279"
+        }
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "placeId": "ChIJBZASQZ6NpzERfkHFOYJvawM",
+      "placeName": "Tarapaca Cafe",
+      "results": {
+        "facebookVideo": {
+          "id": "1012386854927701"
+        },
+        "instagramReel": {
+          "id": "18356745214214240"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "placeId": "ChIJRQVFmFqNpzERu5Sg8_W6Zoo",
+      "placeName": "Kingkong Mart",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122114956221313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18017763593883516"
+        }
+      }
+    },
     {
       "date": "2026-07-19",
       "placeId": "ChIJJ8PVWkiTpzER0g33shpEXCY",
@@ -3019,186 +3198,6 @@
         },
         "instagram": {
           "id": "18094856599993883"
-        }
-      }
-    },
-    {
-      "date": "2026-07-02",
-      "placeId": "ChIJYREw3iyNpzER4MEeLlm9Ju4",
-      "placeName": "Nhà hàng Chay Minh Tâm",
-      "results": {
-        "facebookVideo": {
-          "id": "889933140209085"
-        },
-        "instagramReel": {
-          "id": "17928780507353355"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-02",
-      "placeId": "ChIJlehMyBUfCDERDSqZ_aeChQA",
-      "placeName": "Lam Vegan - Tiệm Chay Lam",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112014901313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18095801651257848"
-        }
-      }
-    },
-    {
-      "date": "2026-07-02",
-      "placeId": "ChIJMSfrfEqNpzER9_6_sLzv_nk",
-      "placeName": "Maharaja Lounge - Authentic Indian 100% Veg Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1587604982929991"
-        },
-        "instagramReel": {
-          "id": "17997073298972991"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-02",
-      "placeId": "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
-      "placeName": "NINH KITCHEN - VIETNAMESE CUISINE",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112013881313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18363036181208131"
-        }
-      }
-    },
-    {
-      "date": "2026-07-01",
-      "placeId": "ChIJj3KLVmuNpzERRcxS6PIioiI",
-      "placeName": "RASOI INDIAN PURE VEGETARIAN RESTAURANT",
-      "results": {
-        "facebookVideo": {
-          "id": "1351456399701130"
-        },
-        "instagramReel": {
-          "id": "18059838314737386"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-01",
-      "placeId": "ChIJh-NscYeMpzER9zBF1Ddrbo0",
-      "placeName": "Khánh Ly Vegetarian Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122111889885313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17951763494999668"
-        }
-      }
-    },
-    {
-      "date": "2026-07-01",
-      "placeId": "ChIJ44_c7DiLpzERBpIsx0wB0T4",
-      "placeName": "Flavor of life Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "2052471092006355"
-        },
-        "instagramReel": {
-          "id": "18005849051933369"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-01",
-      "placeId": "ChIJh_DUIYeNpzERDqbaRMxPgTY",
-      "placeName": "Hải sản Động Tôm Hùm - Lobster Cave seafood",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122111888925313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17875204623513508"
-        }
-      }
-    },
-    {
-      "date": "2026-07-01",
-      "placeId": "ChIJl1AwDfuNpzERAZBzVul_WO8",
-      "placeName": "Massage DuBai Luxury Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1943451879681060"
-        },
-        "instagramReel": {
-          "id": "18017322764854202"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-01",
-      "placeId": "ChIJMy-NusSNpzERrIESZrdhmz0",
-      "placeName": "Relax Spa massage , waxing and nail",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122111887941313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18085559906561421"
-        }
-      }
-    },
-    {
-      "date": "2026-07-01",
-      "placeId": "ChIJY5fODACNpzER4vgSD0OdNQA",
-      "placeName": "LUNA SPA- Body Massage, Foot Massage, Shampoo, Gội Đầu Dưỡng Sinh)(마사지, 발 마사지, 샴푸, 按摩, 洗頭,)",
-      "results": {
-        "facebookVideo": {
-          "id": "1314689677529908"
-        },
-        "instagramReel": {
-          "id": "18344620042169840"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-01",
-      "placeId": "ChIJpf9tnKuNpzER0VlJpD19I5s",
-      "placeName": "MiDu Foot & Body Massage Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122111887071313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18100114001148422"
         }
       }
     }
