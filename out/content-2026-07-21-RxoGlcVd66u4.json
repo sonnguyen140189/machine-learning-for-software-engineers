@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes the whole day. Versailles - Beach Club Phú Quốc sits right on Đường Trần Hưng Đạo and it hits differently at golden hour. Sand under your feet. Cold drink in hand. 4.6 stars across 418 reviews. That's not luck, that's consistency. Whether you're coming off a long travel day or just need to reset, this is the spot. Save this for your Phu Quoc trip.",
+    "video_caption": "Shoes off. Drink ordered. The sun is dropping over Versailles - Beach Club Phú Quốc and nobody looks stressed anymore. 4.6 stars. 418 people agree. See you there.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #BeachBarPhuQuoc #VisitVietnam #TravelTips #PhuQuocRestaurant #VietnamBeach"
+  },
+  "instagram": {
+    "caption": "This place fixes the whole day. Versailles - Beach Club Phú Quốc. 4.6 stars. 418 reviews. Golden hour hits hard here. Tag your travel buddy.",
+    "video_caption": "Feet in the sand. Sun going down. Versailles - Beach Club Phú Quốc doing exactly what it promises. 4.6 stars.",
+    "hashtags": "#PhuQuocBeach #PhuQuocFood #BeachBarPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The burnout leaves when you get here. Versailles - Beach Club Phú Quốc, golden hour, no notes. #PhuQuoc #PhuQuocBeach #VietnamTravel #BeachBar"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: beach club at golden hour",
+      "Feet walking onto sand, shoes in hand",
+      "Bartender sliding a cold drink across bar",
+      "Sun hitting the water, guests relaxed",
+      "Close-up: 4.6 stars on phone screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

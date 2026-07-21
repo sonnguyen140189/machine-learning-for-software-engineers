@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "7,698 reviews. 4.8 stars. At a seafood restaurant in Phu Quoc.\n\nHải sản Động Tôm Hùm isn't flying under the radar. It's earning that rating one plate of lobster at a time. Budget $15-30 per person and you're walking away full, happy, and already planning your second visit.\n\nSit down, order the lobster, thank us later.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Lobster hitting the grill at Hải sản Động Tôm Hùm. 4.8 stars across 7,698 reviews. $15-30 a head. The numbers make sense the second your food arrives.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "7,698 reviews. 4.8★. Hải sản Động Tôm Hùm does NOT miss.\n\n$15-30/person for lobster in Phu Quoc. Save this.",
+    "video_caption": "Lobster, grill smoke, 4.8 stars. Hải sản Động Tôm Hùm earns every single one. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "7,698 people rated this 4.8★. Lobster for $15-30 in Phu Quoc. Hải sản Động Tôm Hùm 🦞 #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "7,698 reviews. 4.8 stars.",
+    "scenes": [
+      "Exterior shot: Hải sản Động Tôm Hùm sign",
+      "Live lobsters in tank, close-up",
+      "Lobster split and placed on hot grill",
+      "Flames rise, shells char and sizzle",
+      "Full table spread, $15-30 price text overlay",
+      "First bite reaction, close on face"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

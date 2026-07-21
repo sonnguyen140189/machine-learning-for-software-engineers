@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walked into Cung Điện Hải Vương not expecting much. You stayed two hours.\n\n4.7 stars across 4,271 reviews. That number matters. This is Phu Quoc's aquarium and it earns every star. Sharks overhead. Reef fish at eye level. Kids losing their minds.\n\nNot a beach day? This is your day sorted.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Sharks swimming above your head at Cung Điện Hải Vương. The tunnel alone is worth it. 4.7 stars, 4,271 reviews. Phu Quoc delivers on this one.",
+    "first_comment": "#PhuQuoc #PhuQuocAquarium #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked in expecting nothing. Stayed two hours. Cung Điện Hải Vương hits. 4.7★ / 4,271 reviews.\n\nTag your travel buddy.",
+    "video_caption": "Sharks above your head. Kids screaming. 4.7 stars. Cung Điện Hải Vương is not a skip.",
+    "hashtags": "#PhuQuocAquarium #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Walked in, stayed two hours. Cung Điện Hải Vương hits different. 4.7★ 4K reviews. #PhuQuoc #PhuQuocAquarium #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "I almost skipped this.",
+    "scenes": [
+      "Wide shot: aquarium entrance, crowds filing in",
+      "Slow pan: colourful reef fish fill the tank",
+      "Low angle: shark glides through tunnel overhead",
+      "Close-up: child's face, jaw dropped",
+      "Static shot: phone shows 4.7★, 4,271 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're Muslim, you're in Phu Quoc, and you just found a 4.9-star halal restaurant. That's Restaurant Bukhara Halal on 35 Đường Trần Hưng Đạo. 522 reviews. Still 4.9. That number holds up. Halal dining in Phu Quoc is rare. This one delivers. Save this for your Phu Quoc trip.",
+    "video_caption": "522 reviews. 4.9 stars. Halal kitchen confirmed. Restaurant Bukhara Halal on Đường Trần Hưng Đạo is the spot Muslim travelers have been asking about. Walk in, eat well, leave happy.",
+    "first_comment": "#PhuQuoc #HalalFood #HalalTravel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found halal dining in Phu Quoc. 4.9★ across 522 reviews. Restaurant Bukhara Halal, Đường Trần Hưng Đạo. Save this.",
+    "video_caption": "4.9 stars. 522 reviews. Halal confirmed. Restaurant Bukhara Halal is the one Muslim travelers need on their list.",
+    "hashtags": "#PhuQuocFood #HalalPhuQuoc #HalalVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "POV: halal dining in Phu Quoc hits different when it's 4.9 stars 👌 #PhuQuoc #HalalTravel #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Halal. 4.9★. Phu Quoc.",
+    "scenes": [
+      "Exterior shot: Restaurant Bukhara Halal signage",
+      "Camera pushes through front entrance",
+      "Close-up: halal certification displayed",
+      "Dishes arriving at the table",
+      "Fork lifts first bite, steam visible",
+      "Google review screen: 4.9, 522 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

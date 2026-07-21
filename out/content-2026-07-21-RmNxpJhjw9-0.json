@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you drove past the resort strip and ended up at Rak Rock Lobster in Cửa Lấp. 4.8 stars. 675 reviews. Fresh lobster pulled straight from the water. This is the Phu Quoc seafood meal you came for. Save this for your Phu Quoc trip.",
+    "video_caption": "Lobster cracking open. Butter dripping. Cửa Lấp waterfront behind you. Rak Rock Lobster is doing things the tourist strip isn't. 4.8 stars, 675 reviews. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found the lobster spot locals actually rate. Rak Rock Lobster, Cửa Lấp. 4.8★, 675 reviews. Tag your travel buddy.",
+    "video_caption": "Fresh lobster. Waterfront table. 4.8 stars. Rak Rock Lobster hits different when you skip the resort strip.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SeafoodLovers"
+  },
+  "tiktok": {
+    "caption": "Drove past the tourist strip. Found this. Rak Rock Lobster in Cửa Lấp. 4.8★ 675 reviews. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you found the lobster spot.",
+    "scenes": [
+      "Drone shot: Cửa Lấp waterfront approaching",
+      "Hands crack open a whole lobster",
+      "Butter sauce poured over the plate",
+      "Wide shot: open-air dining, water behind",
+      "Text overlay: 4.8★ across 675 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

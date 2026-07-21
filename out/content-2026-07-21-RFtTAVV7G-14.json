@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 2,445 reviews. On a quiet beach in Ông Lang. Camia Restaurant is not the place tourists stumble into. It's the place they come back to. Beachfront table, fresh seafood, Phú Quốc sunsets. No crowds, no gimmicks. Just the food doing the work. Save this for your Phu Quoc trip.",
+    "video_caption": "Waves behind you. Plate in front of you. 2,445 people gave this 4.8 stars and now you know why. Camia Restaurant, Ông Lang beach. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurant #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+  },
+  "instagram": {
+    "caption": "4.8★ across 2,445 reviews. Beachfront. Ông Lang. Camia Restaurant earns every single one. Tag your travel buddy.",
+    "video_caption": "Sand, seafood, 4.8 stars. Camia Restaurant in Ông Lang is the real deal. Don't walk past it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurant #PhuQuocBeaches #OngLang #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.8★ beachfront restaurant in Ông Lang. 2,445 reviews. Camia hits different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8★ across 2,445 reviews.",
+    "scenes": [
+      "Aerial or walk-up shot of beach entrance",
+      "Beachfront tables, waves visible behind",
+      "Close-up of fresh seafood arriving at table",
+      "Diner reacts, takes first bite",
+      "Golden hour light over Ông Lang beach"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

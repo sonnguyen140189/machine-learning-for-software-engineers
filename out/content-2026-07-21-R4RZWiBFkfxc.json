@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout.\n\nEco Lagoon on Phú Quốc isn't loud about itself. No neon signs. No pool party DJ. Just water, green, and actual quiet.\n\n4.9 stars across 177 reviews. That kind of rating doesn't happen by accident.\n\nIf your trip needs a reset, this is it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the lagoon go from gold to dark. Eco Lagoon earns its 4.9 stars frame by frame. Some places you book once. Some you plan your whole trip around.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Eco Lagoon. 4.9★, 177 reviews, zero noise.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Lagoon water at golden hour. No crowds. Just Eco Lagoon doing its thing at 4.9 stars.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Burnout? Eco Lagoon on Phu Quoc has a 4.9★ answer. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Drone glides over green lagoon",
+      "Still water reflects morning sky",
+      "Guest reads on overwater deck",
+      "Close-up: 4.9★ on booking screen",
+      "Sun drops behind tree line"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

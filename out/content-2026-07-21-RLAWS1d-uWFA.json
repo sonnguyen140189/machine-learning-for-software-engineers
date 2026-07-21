@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this one. NINH KITCHEN sits on Lê Lợi in Khu 1 and the locals already know. 4.8 stars, 258 reviews, almost zero foreign faces inside. That ratio tells you everything. Real Vietnamese home cooking, the kind resort restaurants can't fake. Find it before everyone else does. Save this for your Phu Quoc trip.",
+    "video_caption": "Chopsticks down, bowl empty, ordering a second round. NINH KITCHEN on Lê Lợi is what happens when 258 locals agree on one spot. This is the Phu Quoc meal you didn't book.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "Locals don't post about NINH KITCHEN. 4.8 stars, 258 reviews, still off the tourist map. Lê Lợi, Khu 1. Save this.",
+    "video_caption": "Bowl hits the table. Locals barely look up. NINH KITCHEN on Lê Lợi earns its 4.8 the hard way. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VietnameseCuisine"
+  },
+  "tiktok": {
+    "caption": "258 reviews, 4.8 stars, zero tourist menus. NINH KITCHEN, Lê Lợi, Phu Quoc. Go now. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Pan across busy local tables, no tourists",
+      "Close-up: steaming Vietnamese bowl lands",
+      "Hands reaching in, genuine reaction shot",
+      "Cut to storefront sign: NINH KITCHEN, Lê Lợi",
+      "Google review screen: 4.8, 258 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
