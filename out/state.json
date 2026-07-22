@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJw9DS5DofCDERIiLSz3fmVKY",
+    "ChIJdQIPu76LpzERR-arMzuJz5I",
+    "ChIJt7t-rLAfCDER9qvpDQ-ks6M",
+    "ChIJaV6sC_KLpzERlAdjMI0q54s",
+    "ChIJCcDXjO2NpzERpuULcuYBz_U",
+    "ChIJqfezlgAfCDERaYwzQEp_Rkc",
+    "ChIJGXZel_ONpzERtQgInjMPXU4",
+    "ChIJLS6KuYmLpzER6fHJ__iaMqw",
+    "ChIJY9wKiiCNpzERVASet8RYkRg",
+    "ChIJOwIiCSmNpzER1ISpdLmLcEg",
+    "ChIJl8UfBQGNpzERWCMLl5afNZA",
+    "ChIJSQvg5PCNpzERilomshpyO-w",
     "ChIJ-RvbtGiNpzER2H1IufKqjGc",
     "ChIJh6tNOEiNpzERxoGlcVd66u4",
     "ChIJs78WzrCNpzERsMQhq5rVxJU",
@@ -187,21 +199,189 @@
     "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
     "ChIJXWMScYiMpzERFW5SXq8DfXs",
     "ChIJEXpOynGNpzER-yD5vqjo9-E",
-    "ChIJt4DYpuyLpzERm18CccVtFaM",
-    "ChIJa_lVMmeNpzERHonO5t2IKRg",
-    "ChIJZczOcTKNpzERDrdWOGSuTvA",
-    "ChIJW0SI6z2NpzERKixqsVMmIkI",
-    "ChIJszMWeMWNpzERVX7Za7lyBuw",
-    "ChIJbd7_NgGNpzERqXUHaQ6Y6K4",
-    "ChIJyaYp1AWNpzERDrMiNPAJATE",
-    "ChIJhW2pjhiLpzERiG9nCVbYLxM",
-    "ChIJIxst3A-NpzERxKcvb8CHI2Y",
-    "ChIJg1ksqtqNpzER3W4HrVMz7hE",
-    "ChIJMemrMgSNpzERRHKLDaKlO9k",
-    "ChIJwaXLFgyJpzERsHSEodjscKQ",
-    "ChIJvxdKNoKWpzERAWSyG5rABsg"
+    "ChIJt4DYpuyLpzERm18CccVtFaM"
   ],
   "history": [
+    {
+      "date": "2026-07-22",
+      "placeId": "ChIJw9DS5DofCDERIiLSz3fmVKY",
+      "placeName": "Cầu Ánh Sáng (Bridge of Light)",
+      "results": {
+        "facebookVideo": {
+          "id": "1726625215278220"
+        },
+        "instagramReel": {
+          "id": "18056096000785401"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "placeId": "ChIJdQIPu76LpzERR-arMzuJz5I",
+      "placeName": "Eco Tour Thai Duong – Cua Can River Basket Boat Experience",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115321225313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18184609978398006"
+        }
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "placeId": "ChIJt7t-rLAfCDER9qvpDQ-ks6M",
+      "placeName": "Ngoc Hien Treasure",
+      "results": {
+        "facebookVideo": {
+          "id": "1706480027346422"
+        },
+        "instagramReel": {
+          "id": "18023428340846524"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "placeId": "ChIJaV6sC_KLpzERlAdjMI0q54s",
+      "placeName": "Kayaking Dynasty",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115320481313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18128183107649151"
+        }
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "placeId": "ChIJCcDXjO2NpzERpuULcuYBz_U",
+      "placeName": "Thuê cano riêng -FISHING TOUR",
+      "results": {
+        "facebookVideo": {
+          "id": "1751490296046392"
+        },
+        "instagramReel": {
+          "id": "18107953568021479"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "placeId": "ChIJqfezlgAfCDERaYwzQEp_Rkc",
+      "placeName": "ALOHA88 - Kayak & Snorkeling club",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115319557313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17929519167361696"
+        }
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "placeId": "ChIJGXZel_ONpzERtQgInjMPXU4",
+      "placeName": "Bún quậy THIỆN MỸ",
+      "results": {
+        "facebookVideo": {
+          "id": "1034310782912229"
+        },
+        "instagramReel": {
+          "id": "18149295691514556"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "placeId": "ChIJLS6KuYmLpzER6fHJ__iaMqw",
+      "placeName": "Peace Corner",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115318777313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18103915589155718"
+        }
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "placeId": "ChIJY9wKiiCNpzERVASet8RYkRg",
+      "placeName": "Chè Nhà Jun-Chè Ngon Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1354997709326659"
+        },
+        "instagramReel": {
+          "id": "18085493777403015"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "placeId": "ChIJOwIiCSmNpzER1ISpdLmLcEg",
+      "placeName": "Mì Tê - Artisan Noodles",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115318099313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18015908027712938"
+        }
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "placeId": "ChIJl8UfBQGNpzERWCMLl5afNZA",
+      "placeName": "Bombay Indian Restaurant Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "2174930606485621"
+        },
+        "instagramReel": {
+          "id": "17930158365127354"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "placeId": "ChIJSQvg5PCNpzERilomshpyO-w",
+      "placeName": "Là-Men Coffee & Brunch Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115317007313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17933866935348297"
+        }
+      }
+    },
     {
       "date": "2026-07-21",
       "placeId": "ChIJ-RvbtGiNpzER2H1IufKqjGc",
@@ -3018,186 +3198,6 @@
         },
         "instagram": {
           "id": "18109688120060092"
-        }
-      }
-    },
-    {
-      "date": "2026-07-04",
-      "placeId": "ChIJa_lVMmeNpzERHonO5t2IKRg",
-      "placeName": "Sugar Fusion Bakery",
-      "results": {
-        "facebookVideo": {
-          "id": "1540682811174950"
-        },
-        "instagramReel": {
-          "id": "18130706008715884"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-04",
-      "placeId": "ChIJZczOcTKNpzERDrdWOGSuTvA",
-      "placeName": "Bơ restaurant & coffee",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112288033313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17916295644409345"
-        }
-      }
-    },
-    {
-      "date": "2026-07-04",
-      "placeId": "ChIJW0SI6z2NpzERKixqsVMmIkI",
-      "placeName": "Bagels 'n Eggs",
-      "results": {
-        "facebookVideo": {
-          "id": "1904975046857457"
-        },
-        "instagramReel": {
-          "id": "17883756897667409"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-04",
-      "placeId": "ChIJszMWeMWNpzERVX7Za7lyBuw",
-      "placeName": "La Place coffee and eatery Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112287295313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18041507957797751"
-        }
-      }
-    },
-    {
-      "date": "2026-07-03",
-      "placeId": "ChIJbd7_NgGNpzERqXUHaQ6Y6K4",
-      "placeName": "Blue seafood restaurant (블루씨푸드)",
-      "results": {
-        "facebookVideo": {
-          "id": "1559233649059522"
-        },
-        "instagramReel": {
-          "id": "18476961901102951"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-03",
-      "placeId": "ChIJyaYp1AWNpzERDrMiNPAJATE",
-      "placeName": "Quán cháo gà rẫy Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112166089313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18128083654713341"
-        }
-      }
-    },
-    {
-      "date": "2026-07-03",
-      "placeId": "ChIJhW2pjhiLpzERiG9nCVbYLxM",
-      "placeName": "The Beauty Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "28257960387139760"
-        },
-        "instagramReel": {
-          "id": "18103774924921826"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-03",
-      "placeId": "ChIJIxst3A-NpzERxKcvb8CHI2Y",
-      "placeName": "Tween's Kitchen - Main Street Branch",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112165399313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17884519185606478"
-        }
-      }
-    },
-    {
-      "date": "2026-07-03",
-      "placeId": "ChIJg1ksqtqNpzER3W4HrVMz7hE",
-      "placeName": "Tram Tram’s Banh Mi",
-      "results": {
-        "facebookVideo": {
-          "id": "858969993953831"
-        },
-        "instagramReel": {
-          "id": "18125193841736976"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-03",
-      "placeId": "ChIJMemrMgSNpzERRHKLDaKlO9k",
-      "placeName": "Aigue-Marine French Bistro by Hidden Gem",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112164397313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17922293883389157"
-        }
-      }
-    },
-    {
-      "date": "2026-07-03",
-      "placeId": "ChIJwaXLFgyJpzERsHSEodjscKQ",
-      "placeName": "Khu du lịch sinh thái (Suối Đá Bàn)",
-      "results": {
-        "facebookVideo": {
-          "id": "1597363421909790"
-        },
-        "instagramReel": {
-          "id": "18139764892556125"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-03",
-      "placeId": "ChIJvxdKNoKWpzERAWSyG5rABsg",
-      "placeName": "Hon Thom Departure Terminal - Sun World Hon Thom Nature Park",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112163407313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17900475309467301"
         }
       }
     }
