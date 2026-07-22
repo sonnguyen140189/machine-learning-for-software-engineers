@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "916 reviews. 4.7 stars. On a noodle shop on Đường Trần Hưng Đạo.\n\nMì Tê - Artisan Noodles is not playing around. Locals keep coming back, tourists stumble in, and everyone leaves with a photo of the bowl. Phu Quoc has no shortage of food spots. This one earns its rating.\n\nFind it at 126 Đường Trần Hưng Đạo, Khu phố 7. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch this bowl land on the table. Mì Tê - Artisan Noodles. 4.7 stars across 916 reviews. The queue tells you everything you need to know before you even order.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocEats #ThingsToDoPhuQuoc #VisitVietnam #VietnamFood #TravelTips"
+  },
+  "instagram": {
+    "caption": "916 reviews. 4.7 stars. One noodle shop on Đường Trần Hưng Đạo.\n\nMì Tê - Artisan Noodles. Add it to the list.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "That bowl hitting the table at Mì Tê - Artisan Noodles. 4.7 stars. 916 people agree. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocEats #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocRestaurants"
+  },
+  "tiktok": {
+    "caption": "4.7 stars. 916 reviews. This noodle shop in Phu Quoc is not a coincidence. #PhuQuoc #PhuQuocFood #VietnamEats #TravelTips"
+  },
+  "video_script": {
+    "hook": "916 reviews. 4.7 stars.",
+    "scenes": [
+      "Exterior shot: 126 Đường Trần Hưng Đạo signage",
+      "Close-up: noodles being placed on table",
+      "Slow zoom into the bowl, steam rising",
+      "Cut to packed dining room, locals eating",
+      "Text overlay: 4.7★ across 916 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

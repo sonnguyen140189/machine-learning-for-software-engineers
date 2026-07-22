@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 289 reviews. Zero complaints.\n\nALOHA88 - Kayak & Snorkeling club is doing something right. Paddle out, drop your mask in, and see what Phu Quoc looks like from under the surface. No big-resort markup. Just the water, the gear, and a crew that actually cares.\n\nBook before your schedule fills up. Save this for your Phu Quoc trip.",
+    "video_caption": "Paddles hit the water at ALOHA88 - Kayak & Snorkeling club. 289 five-star reviews. Watch what happens when you put the mask on.",
+    "first_comment": "#PhuQuoc #PhuQuocActivities #SnorkelingPhuQuoc #KayakingPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 289 reviews. ALOHA88 - Kayak & Snorkeling club delivers every time. Tag your travel buddy.",
+    "video_caption": "Mask on. Paddle ready. ALOHA88 earns that perfect score every single trip.",
+    "hashtags": "#PhuQuocActivities #SnorkelingPhuQuoc #KayakingPhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "5.0 stars, 289 reviews, zero exaggeration. ALOHA88 is the real deal. #PhuQuoc #SnorkelingPhuQuoc #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5.0 STARS. 289 REVIEWS.",
+    "scenes": [
+      "Kayaks launching from shore",
+      "Mask going on, first dive under",
+      "Coral and fish filmed underwater",
+      "Crew handing out gear, smiling",
+      "Guests back on kayaks, laughing"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

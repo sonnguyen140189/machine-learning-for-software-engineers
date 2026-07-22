@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 658 reviews. On a beach island better known for seafood.\n\nBombay Indian Restaurant Phu Quoc is sitting at 07 Lê Lợi, Khu 1 and people keep coming back. Butter chicken, fresh naan, proper spice levels. Not watered down for tourists.\n\nIf you've been craving something different mid-trip, this is the answer.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the naan come out of that tandoor. Bombay Indian Restaurant Phu Quoc, 4.8 stars from 658 real reviews. This is what a great mid-trip reset looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #IndianFoodVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 658 reviews. Indian food in Phu Quoc hitting this hard.\n\nBombay Indian Restaurant, 07 Lê Lợi. Tag your travel buddy.",
+    "video_caption": "Tandoor on. Naan fresh. 4.8 stars at Bombay Indian Restaurant Phu Quoc. Different kind of dinner tonight.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #IndianFoodVietnam #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars & 658 reviews at an Indian spot in Phu Quoc. Not skipping this. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★. 658 reviews. In Phu Quoc.",
+    "scenes": [
+      "Exterior shot: restaurant sign at 07 Lê Lợi",
+      "Tandoor oven glowing, naan being pulled out",
+      "Butter chicken poured into bowl, steam rising",
+      "Close-up: fork tearing through fresh naan",
+      "Review count on screen: 658 reviews, 4.8 stars"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

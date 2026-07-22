@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk right past this. Cầu Ánh Sáng sits inside Grand World and most visitors never slow down long enough to notice it. Lit up at night, reflections on the water, almost no crowd if you time it right. Go after 8pm on a weekday. Completely different energy from the main strip. Save this for your Phu Quoc trip.",
+    "video_caption": "The lights hit the water and everyone else is still at the market. Cầu Ánh Sáng at night, Grand World, Phu Quoc. Go on a weekday. Thank us later.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #GrandWorldPhuQuoc #VisitVietnam #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this. Cầu Ánh Sáng after 8pm hits different. Weekdays only. Save this.",
+    "video_caption": "Lights. Water. Zero crowd. Cầu Ánh Sáng is the most skipped spot in Grand World. Not anymore.",
+    "hashtags": "#PhuQuocTips #PhuQuocNightlife #GrandWorldPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Everyone misses this at Grand World. Cầu Ánh Sáng after 8pm is a different world. #PhuQuoc #GrandWorldPhuQuoc #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Wide shot: bridge glowing at night",
+      "Slow pan across lit water reflections",
+      "Close up: light details on bridge rails",
+      "Empty walkway, peaceful atmosphere",
+      "Visitor pauses, takes it in slowly"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you find the chè spot locals actually queue for. Chè Nhà Jun-Chè Ngon Phú Quốc sits on Lý Thường Kiệt and the 4.8-star rating across 279 reviews tells you everything you need to know. Cold, layered, loaded with toppings. This is the dessert break your Phu Quoc itinerary is missing. Save this for your Phu Quoc trip.",
+    "video_caption": "Bowls of chè hitting the counter one after another. Locals lining up at Chè Nhà Jun-Chè Ngon Phú Quốc on Lý Thường Kiệt. 4.8 stars. 279 reviews. You'll see why in the first bite.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocEats #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found the chè queue locals don't share. Chè Nhà Jun-Chè Ngon Phú Quốc. 4.8 stars, 279 reviews. Tag your travel buddy.",
+    "video_caption": "Locals lining up. Bowls piled high. Chè Nhà Jun-Chè Ngon Phú Quốc is the real deal.",
+    "hashtags": "#PhuQuocFood #PhuQuocEats #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Walked past tourists, followed locals. Chè Nhà Jun-Chè Ngon Phú Quốc. 4.8 stars. Worth every minute of the queue. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals queue here. Tourists walk past.",
+    "scenes": [
+      "Exterior shot: busy street stall on Lý Thường Kiệt",
+      "Close-up: colorful chè layers in glass bowl",
+      "Hands adding toppings to fresh order",
+      "Local customers eating, smiling at table",
+      "Rating card: 4.8 stars, 279 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

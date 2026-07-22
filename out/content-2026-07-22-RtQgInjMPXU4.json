@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you finally found the good Bún Quậy.\n\nBún quậy THIỆN MỸ on Đường Trần Hưng Đạo is the real deal. 4.7 stars across 402 reviews. That score holds for a reason. This is Phu Quoc's signature noodle dish done right, not the watered-down tourist version.\n\nGo early. Locals fill this place fast.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Slurping Bún Quậy at Bún quậy THIỆN MỸ. 402 people rated this 4.7 stars. You can taste why in the first bowl. 103 Đường Trần Hưng Đạo. Don't walk past it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BunQuay #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found the good Bún Quậy. 4.7★, 402 reviews, locals packed in by 8am.\n\nBún quậy THIỆN MỸ. Remember the name.\n\nTag your travel buddy.",
+    "video_caption": "Bowl of Bún Quậy landing on the table. 4.7 stars. 402 reviews. Bún quậy THIỆN MỸ earns every one.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #BunQuay #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #FoodTok"
+  },
+  "tiktok": {
+    "caption": "POV: wrong turn, right noodle bowl. Bún quậy THIỆN MỸ. 4.7★ 402 reviews. #PhuQuoc #PhuQuocFood #BunQuay #VietnamFood"
+  },
+  "video_script": {
+    "hook": "POV: you found the good Bún Quậy.",
+    "scenes": [
+      "Street sign: Đường Trần Hưng Đạo, busy morning",
+      "Crowded tables, locals eating, no tourists",
+      "Bowl of Bún Quậy lands on table, steam rising",
+      "Close-up: noodles pulled apart, rich broth",
+      "4.7★ rating text appears on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

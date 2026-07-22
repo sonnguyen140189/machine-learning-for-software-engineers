@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 192 reviews. On a quiet street in Ông Lang that most tourists never reach.\n\nPeace Corner sits on Đường Dinh Bà, away from the main drag, which is exactly why the people who find it keep rating it that high.\n\nÔng Lang is the low-key side of Phu Quoc. If you're staying there or passing through, this spot belongs on your list.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walking down Đường Dinh Bà in Ông Lang and this is what you find. 4.9 stars, 192 reviews, zero hype. Peace Corner earns every one of those ratings. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #OngLang #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 192 reviews. Đường Dinh Bà, Ông Lang.\n\nPeace Corner is the Phu Quoc that doesn't feel touristy. Save this.",
+    "video_caption": "192 people rated this 4.9 stars. Peace Corner in Ông Lang. Go find out why.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #OngLang #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.9 stars in Ông Lang. Peace Corner on Đường Dinh Bà hits different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9 stars. 192 reviews.",
+    "scenes": [
+      "Aerial pan down Đường Dinh Bà",
+      "Arrive at Peace Corner signage",
+      "Close-up of food hitting the table",
+      "Wide shot of relaxed local crowd",
+      "Phone screen showing 4.9 rating"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

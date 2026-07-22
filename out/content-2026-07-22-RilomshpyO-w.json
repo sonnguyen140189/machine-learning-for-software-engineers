@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walked down Trần Hưng Đạo looking for coffee and found a 4.9-star brunch spot with 318 reviews. Là-Men Coffee & Brunch Phu Quoc is the kind of place locals quietly keep returning to. Good coffee. Solid brunch. Zero tourist-trap energy. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into Là-Men Coffee & Brunch Phu Quoc and suddenly the whole morning plan changes. 4.9 stars. 318 reviews. You'll see why in seconds.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #PhuQuocTips #VietnamCoffee"
+  },
+  "instagram": {
+    "caption": "POV: you found the 4.9-star brunch spot nobody warned you about. Là-Men Coffee & Brunch Phu Quoc. Tag your travel buddy.",
+    "video_caption": "4.9 stars. 318 reviews. Là-Men Coffee & Brunch Phu Quoc just changed my morning plans.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CafeHopping"
+  },
+  "tiktok": {
+    "caption": "POV: stumbled onto a 4.9-star brunch spot in Phu Quoc. Là-Men Coffee & Brunch is the one. #PhuQuoc #PhuQuocFood #VietnamTravel #CafeHopping"
+  },
+  "video_script": {
+    "hook": "POV: you found the 4.9-star café.",
+    "scenes": [
+      "Street-level shot: walking Trần Hưng Đạo",
+      "Slow push into Là-Men entrance",
+      "Close-up: coffee poured into cup",
+      "Overhead: brunch plate hits the table",
+      "Cut to: reviewer count, 318 x 4.9★"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
