@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wander into Sorrento and stumble on a 4.9-star restaurant most tourists walk straight past.\n\nRoma Restaurant & Coffee sits at 312-316 Sorrento, T.Trấn Hoàng Hôn, Phú Quốc. 337 reviews. Nearly perfect score. The kind of place locals have quietly kept at the top of their list.\n\nIf you're staying near Sunset Town, this one goes on the list. Save this for your Phu Quoc trip.",
+    "video_caption": "337 reviews. 4.9 stars. Cameras rolling inside Roma Restaurant & Coffee in Sorrento, Phú Quốc. Watch what lands on the table.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: 4.9 stars, 337 reviews, and zero hype online.\n\nRoma Restaurant & Coffee, Sorrento, Phú Quốc. Add it. Save this for your Phu Quoc trip.",
+    "video_caption": "Walked into Roma Restaurant & Coffee in Phú Quốc. 4.9 stars. Now I get it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats"
+  },
+  "tiktok": {
+    "caption": "POV: found a 4.9-star spot in Phú Quốc nobody talks about 👀 #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: 4.9★ no one talks about",
+    "scenes": [
+      "Walk up to 312 Sorrento entrance",
+      "Pan across the dining space",
+      "Close-up: food arriving at the table",
+      "Reaction shot, first bite",
+      "Show Google rating on phone screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you asked a local where they actually eat. They sent you to Kỳ Long Wok Hei.\n\n4.9 stars. 82 reviews. On a side street most tourists never turn down.\n\nThe wok hei is real here. That smoky, high-heat flavour you can't fake. Plates come out fast, portions are serious, and the crowd is almost entirely local.\n\nThis is the kind of place that makes you cancel your resort dinner reservation.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the wok. That flame, that smoke, that char. Kỳ Long Wok Hei on Mạc Thiên Tích is doing it right. 4.9 stars and locals keep coming back. Your move.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Asked a local. They said Kỳ Long Wok Hei. 4.9 stars, 82 reviews, zero tourists inside.\n\nTag your travel buddy.",
+    "video_caption": "Wok on fire. Smoke everywhere. This is why you eat where locals eat. Kỳ Long Wok Hei, Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodTok"
+  },
+  "tiktok": {
+    "caption": "Local told me to go here. 4.9 stars. I get it now. #PhuQuoc #PhuQuocFood #VietnamTravel #FoodTok"
+  },
+  "video_script": {
+    "hook": "A local sent me here.",
+    "scenes": [
+      "Exterior shot: Mạc Thiên Tích street sign",
+      "Wok bursts into flame over high heat",
+      "Smoke rises, chef tosses ingredients",
+      "Close-up: charred, glossy finished dish",
+      "Wide shot: full tables of local diners",
+      "Rating card: 4.9 stars, Kỳ Long Wok Hei"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

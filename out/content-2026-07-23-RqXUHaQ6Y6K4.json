@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this place. Locals at Blue seafood restaurant (블루씨푸드) on Đường Nguyễn Trãi are just fine with that. 4.7 stars across 1,000 reviews and it still flies under the radar. Fresh seafood, real Phu Quoc pricing, zero resort markup. This is the kind of spot you stumble onto and immediately stop telling people about. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the locals eat. Blue seafood restaurant (블루씨푸드) on Đường Nguyễn Trãi. 4.7 stars. 1,000 reviews. Still not on the tourist circuit. Go before that changes.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #SeafoodPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Blue seafood restaurant (블루씨푸드). 4.7 stars, 1,000 reviews, still off the tourist trail. Tag your travel buddy.",
+    "video_caption": "1,000 people rated this 4.7 stars. Tourists still walk right past it. Blue seafood restaurant (블루씨푸드), Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #SeafoodPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Locals eat here. Tourists walk past. 4.7★ seafood on Đường Nguyễn Trãi, Phu Quoc. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post this spot.",
+    "scenes": [
+      "Street-level sign: Blue seafood restaurant",
+      "Packed tables, mostly local crowd",
+      "Fresh seafood displayed at the counter",
+      "Close-up: steaming dish landing on table",
+      "Show the address: 34 Đường Nguyễn Trãi"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

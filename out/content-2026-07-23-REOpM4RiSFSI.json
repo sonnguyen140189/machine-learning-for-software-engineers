@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Fresh seafood for $15-30 a person. On Trần Hưng Đạo. In Phu Quoc.\n\nNhà hàng Nét Việt Phú Quốc pulls a 4.5★ across 190 reviews and the price tag still hasn't caught up with the quality. Grilled, steamed, sauced. Real Vietnamese seafood done right, not resort-priced.\n\nBook a table before dinner rush hits. Save this for your Phu Quoc trip.",
+    "video_caption": "4.5 stars. 190 reviews. Under $30 a head. Watch what lands on the table at Nhà hàng Nét Việt Phú Quốc and tell me this isn't the move.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "$15-30 for seafood this good. Nhà hàng Nét Việt Phú Quốc. 4.5★, 190 reviews. Save this for your Phu Quoc trip.",
+    "video_caption": "4.5 stars and still under $30 a head. Nhà hàng Nét Việt Phú Quốc is the seafood call on Trần Hưng Đạo.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "$30 max for fresh Phu Quoc seafood. 4.5★ across 190 reviews. Book Nhà hàng Nét Việt Phú Quốc now. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Under $30. Phu Quoc seafood.",
+    "scenes": [
+      "Exterior shot: busy Trần Hưng Đạo entrance",
+      "Wide table spread: grilled prawns, steamed clams",
+      "Close-up: sauce poured over fresh seafood",
+      "Chopsticks lifting first bite",
+      "Bill arrives, camera holds on total"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

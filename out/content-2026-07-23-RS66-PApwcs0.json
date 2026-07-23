@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 256 reviews. One bowl of Bún Quậy.\n\nBún Quậy Bạch Đằng on Đường Bạch Đằng is the kind of place locals go back to every week. The signature bún quậy, a Phu Quoc specialty you won't find back home, is why this spot keeps a near-perfect rating with zero marketing.\n\nIf you're skipping local noodle spots for resort restaurants, this is the mistake to fix first.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the noodles hit the bowl at Bún Quậy Bạch Đằng. 4.9 stars. 256 people didn't get it wrong. This is what Phu Quoc actually tastes like, and it's not on any resort menu.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BunQuay #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 256 reviews. One Phu Quoc noodle spot.\n\nBún Quậy Bạch Đằng is the answer. Tag your travel buddy.",
+    "video_caption": "Locals eating here weekly. 4.9 stars tells the full story. Don't leave Phu Quoc without a bowl.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #BunQuay #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VietnamFood #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "4.9 stars in Phu Quoc. The bún quậy spot locals actually rate. 📍 Bún Quậy Bạch Đằng #PhuQuoc #PhuQuocFood #VietnamFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9 stars. 256 reviews.",
+    "scenes": [
+      "Pan across storefront on Đường Bạch Đằng",
+      "Close-up: noodles dropped into broth",
+      "Steam rising from finished bowl",
+      "Locals eating, table full",
+      "Rating graphic: 4.9★ 256 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

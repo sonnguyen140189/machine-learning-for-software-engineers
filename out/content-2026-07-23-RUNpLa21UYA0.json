@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.6 stars. 801 reviews. This coffee shop on Đường Trần Hưng Đạo keeps delivering. Island Phu Quoc sits right on the main strip, easy to find, hard to leave. Order, sit, watch the street move. No fuss. Just good coffee where the locals actually return. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the cups hit the table at Island Phu Quoc. 801 people rated this place 4.6 stars on Đường Trần Hưng Đạo. Busy for a reason. Come see.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.6 stars. 801 reviews. Island Phu Quoc earns every one. Đường Trần Hưng Đạo, grab a seat. Tag your travel buddy.",
+    "video_caption": "801 ratings don't lie. Watch the vibe at Island Phu Quoc unfold in 30 seconds.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeShop"
+  },
+  "tiktok": {
+    "caption": "4.6 stars, 801 reviews. Island Phu Quoc hits different. #PhuQuoc #PhuQuocCafe #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.6★, 801 reviews.",
+    "scenes": [
+      "Exterior shot: busy Đường Trần Hưng Đạo",
+      "Door opens, camera walks inside",
+      "Barista pulls a drink, steam rising",
+      "Cup placed on table, close-up pour",
+      "Wide shot: customers, full tables"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
