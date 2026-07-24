@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the big resort strips. Locals point to Cửa Lấp. Dusit Princess Moonrise Beach Resort sits on a stretch most visitors scroll past on the map. 4.7 stars across 2,465 reviews. That number doesn't come from luck. Beachfront, full resort facilities, and a quieter pocket of Phu Quoc that the Tran Hung Dao crowd hasn't fully overrun yet. Save this for your Phu Quoc trip.",
+    "video_caption": "Panning down an empty resort beach at sunrise, waves hitting the shore while the rest of Phu Quoc is still asleep. This is Dusit Princess Moonrise. 4.7 stars. 2,465 people figured it out. Now you know.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals point to Cửa Lấp. Tourists miss it every time. Dusit Princess Moonrise. 4.7★, 2,465 reviews. Save this.",
+    "video_caption": "Empty beach. Full resort. 4.7 stars. Dusit Princess Moonrise is the Phu Quoc stay most visitors walk right past.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachResort"
+  },
+  "tiktok": {
+    "caption": "The resort Phu Quoc tourists keep skipping. 4.7 stars. Cửa Lấp. Look it up. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep skipping this resort.",
+    "scenes": [
+      "Aerial pull back over quiet beachfront",
+      "Resort entrance sign: Dusit Princess Moonrise",
+      "Empty beach chairs, waves rolling in",
+      "Close shot: 4.7 stars on phone screen",
+      "Guest walks into open-air lobby"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

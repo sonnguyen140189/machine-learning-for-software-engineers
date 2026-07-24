@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "29,348 reviews. 4.9 stars. At a beach resort with 1,399 rooms.\n\nWyndham Grand Phu Quoc sits right on Bãi Dài, one of the longest stretches of sand on the island. Water park, multiple dining spots, bars, and ocean access. All in one place.\n\nThis is the kind of resort that makes people forget they had a return flight booked.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Bãi Dài beach at your door. A water park on the grounds. 4.9 stars from nearly 30,000 guests. Wyndham Grand Phu Quoc delivers every single time. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "29,348 reviews. 4.9 stars. Wyndham Grand Phu Quoc on Bãi Dài earns every one.\n\nWater park, beachfront dining, 1,399 rooms. Save this.",
+    "video_caption": "Beach resort with 30K reviews and a 4.9. Wyndham Grand Phu Quoc is built different. Save it.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "29,348 reviews and a 4.9. Wyndham Grand Phu Quoc on Bãi Dài is not playing around. #PhuQuoc #PhuQuocHotel #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9★ from 29,348 guests.",
+    "scenes": [
+      "Aerial pull back over Bãi Dài beachfront",
+      "Slow pan across resort pool to ocean",
+      "Kids racing down water park slide",
+      "Close-up: food landing on table at beachside bar",
+      "Guest walking barefoot from room to sand",
+      "Sunset shot from balcony, waves in background"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

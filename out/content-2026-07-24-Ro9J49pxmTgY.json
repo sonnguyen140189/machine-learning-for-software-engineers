@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stop scrolling hotels and just book Pullman Phu Quoc Beach Resort. Private beach. Outdoor pool. A spa. Three bars. 4.8 stars across 6,143 reviews. This is not a gamble. One resort handles beach, drinks, and recovery all in one spot. No taxi hunting. No disappointing dinners. Just show up. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the morning light hit a private beach with zero strangers on it. This is Pullman Phu Quoc Beach Resort at 7am. 4.8 stars. 6,143 reviews. The pool is already calling. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #LuxuryTravel #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: private beach, 3 bars, a spa, 4.8 stars. You already booked it. Save for your Phu Quoc trip.",
+    "video_caption": "Pool at sunrise. Private beach by noon. Three bars by sunset. Pullman Phu Quoc Beach Resort does not miss.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #LuxuryTravel"
+  },
+  "tiktok": {
+    "caption": "POV: you find a 4.8-star private beach resort in Phu Quoc with 3 bars and a spa. Booking it immediately. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: private beach, 3 bars, 4.8★",
+    "scenes": [
+      "Drone pulls back over empty private beach at dawn",
+      "Slow pan across infinity pool, no crowds",
+      "Bartender sets down cocktail at beachfront bar",
+      "Spa room door opens, candles lit inside",
+      "Guest walks barefoot from pool to beach",
+      "Rating card: 4.8★ across 6,143 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

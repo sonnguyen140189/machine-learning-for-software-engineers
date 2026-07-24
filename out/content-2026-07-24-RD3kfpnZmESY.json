@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "7,609 reviews. 4.6 stars. And most tourists still walk past Sol by Meliá Phú Quốc for the bigger resort names.\n\nBright rooms, beach views, 3 restaurants, 2 bars, and a pool that actually gets sun all day. This is the move if you want polish without the chaos.\n\nBook it before the algorithm finds it for you.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Pool. Beach views. Two bars. Watch what 7,609 people already know about Sol by Meliá Phú Quốc, and why it keeps pulling 4.6 stars.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #VisitVietnam #TravelTips #PhuQuocResort"
+  },
+  "instagram": {
+    "caption": "7,609 reviews. 4.6 stars. Sol by Meliá Phú Quốc keeps delivering.\n\n3 restaurants, 2 bars, beach views, pool. Save this.",
+    "video_caption": "4.6 stars across 7,609 reviews. Sol by Meliá Phú Quốc up close. Pool, beach views, and 3 places to eat.",
+    "hashtags": "#PhuQuocHotels #PhuQuocResort #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VisitVietnam #HotelTour"
+  },
+  "tiktok": {
+    "caption": "7,609 reviews and still slept on. Sol by Meliá Phú Quốc hits different. #PhuQuoc #PhuQuocHotels #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "7,609 reviews. Still slept on.",
+    "scenes": [
+      "Drone pull-back: pool to beach horizon",
+      "Walk through bright lobby, natural light",
+      "Close-up: ocean view from room balcony",
+      "Bartender pours drink at rooftop bar",
+      "Plate lands at beachside restaurant table",
+      "Rating card: 4.6★ 7,609 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
