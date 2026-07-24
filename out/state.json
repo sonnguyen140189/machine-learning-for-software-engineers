@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJX5g8DI6NpzERD3kfpnZmESY",
+    "ChIJy5_OrWqKpzERGaQHR6TfBU0",
+    "ChIJGb4oNz2LpzERnlJX2YrpYTQ",
+    "ChIJkcMAuZCNpzERRQmhoqfUVYk",
+    "ChIJ0cqxY2ySpzERo9J49pxmTgY",
+    "ChIJy5uCwXCXpzERQSR2-hAgnuo",
+    "ChIJyVg7uFmMpzER8oO_9EVvcbg",
+    "ChIJQ4JcfECSpzER9dUT9AlYDJk",
+    "ChIJGeOzddMfCDERWqFBHDihXo0",
+    "ChIJcSDG-fqWpzERQkkxuLWDUyU",
+    "ChIJDz3c2puNpzERnfsc7Mo0TOQ",
+    "ChIJxfXY0YeMpzERVIRnrvcuBKE",
     "ChIJ2_A_qiGNpzERECnKPGDMbqc",
     "ChIJY6klvwiLpzERbXSkUvWfTOs",
     "ChIJM3vkNgCLpzERTVQY_pwHtWM",
@@ -187,21 +199,189 @@
     "ChIJv4cK9HiNpzER-Vx6JuZH1Sw",
     "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
     "ChIJAUdyovyNpzER8QPEJgQFxbs",
-    "ChIJ6ZS5Zl6MpzERb-qhkr9ofs4",
-    "ChIJf6ykc4iMpzER-X7O0fSCJSs",
-    "ChIJwzDHWDqNpzER2tLsMth7CLM",
-    "ChIJze_KNYiMpzERLa0Mfzg3-ZE",
-    "ChIJ17LlPYaNpzERY0rp_hDIF7E",
-    "ChIJyUtXhYCPpzERS0pgKYm7hu4",
-    "ChIJCxSJFRGPpzERvq1ZTl4QO8c",
-    "ChIJd8N-u3CPpzERe2DX-mg_nWE",
-    "ChIJiamiNwCNpzERGZfl84R9I3k",
-    "ChIJU7w5JACLpzERVi8kHyjAe-0",
-    "ChIJwSdWbnOSpzERcscE5r9ek2c",
-    "ChIJ9aynZwqTpzERWnZQfpFyViY",
-    "ChIJvXeYrq6NpzER68wVOXl4Edg"
+    "ChIJ6ZS5Zl6MpzERb-qhkr9ofs4"
   ],
   "history": [
+    {
+      "date": "2026-07-24",
+      "placeId": "ChIJX5g8DI6NpzERD3kfpnZmESY",
+      "placeName": "Sol by Meliá Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1722858675593250"
+        },
+        "instagramReel": {
+          "id": "18153722464501416"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "placeId": "ChIJy5_OrWqKpzERGaQHR6TfBU0",
+      "placeName": "Novotel Phu Quoc Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115730419313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18126038239674220"
+        }
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "placeId": "ChIJGb4oNz2LpzERnlJX2YrpYTQ",
+      "placeName": "Mango Bay Resort",
+      "results": {
+        "facebookVideo": {
+          "id": "2193381001454949"
+        },
+        "instagramReel": {
+          "id": "18461159146118140"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "placeId": "ChIJkcMAuZCNpzERRQmhoqfUVYk",
+      "placeName": "Salinda Resort Phu Quoc Island",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115729555313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18014707919726426"
+        }
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "placeId": "ChIJ0cqxY2ySpzERo9J49pxmTgY",
+      "placeName": "Pullman Phu Quoc Beach Resort",
+      "results": {
+        "facebookVideo": {
+          "id": "891091420242220"
+        },
+        "instagramReel": {
+          "id": "18611185561025183"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "placeId": "ChIJy5uCwXCXpzERQSR2-hAgnuo",
+      "placeName": "New World Phu Quoc Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115728787313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18382591867204880"
+        }
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "placeId": "ChIJyVg7uFmMpzER8oO_9EVvcbg",
+      "placeName": "La Veranda Resort Phu Quoc - MGallery Collection",
+      "results": {
+        "facebookVideo": {
+          "id": "2506242736561248"
+        },
+        "instagramReel": {
+          "id": "18145478512505430"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "placeId": "ChIJQ4JcfECSpzER9dUT9AlYDJk",
+      "placeName": "InterContinental Phu Quoc Long Beach Resort by IHG",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115727731313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18087597788394169"
+        }
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "placeId": "ChIJGeOzddMfCDERWqFBHDihXo0",
+      "placeName": "Wyndham Grand Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1950702998980888"
+        },
+        "instagramReel": {
+          "id": "18044125742801393"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "placeId": "ChIJcSDG-fqWpzERQkkxuLWDUyU",
+      "placeName": "Premier Village Phu Quoc Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115726855313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18122271401307177"
+        }
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "placeId": "ChIJDz3c2puNpzERnfsc7Mo0TOQ",
+      "placeName": "Dusit Princess Moonrise beach resort",
+      "results": {
+        "facebookVideo": {
+          "id": "1030430246549568"
+        },
+        "instagramReel": {
+          "id": "18081466781476098"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "placeId": "ChIJxfXY0YeMpzERVIRnrvcuBKE",
+      "placeName": "Seashells Phu Quoc Hotel & Spa",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115725973313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18108826544004222"
+        }
+      }
+    },
     {
       "date": "2026-07-23",
       "placeId": "ChIJ2_A_qiGNpzERECnKPGDMbqc",
@@ -3018,186 +3198,6 @@
         },
         "instagram": {
           "id": "18090992963575138"
-        }
-      }
-    },
-    {
-      "date": "2026-07-08",
-      "placeId": "ChIJf6ykc4iMpzER-X7O0fSCJSs",
-      "placeName": "Si’s Crab House",
-      "results": {
-        "facebookVideo": {
-          "id": "1344541921197209"
-        },
-        "instagramReel": {
-          "id": "18109774913054129"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-08",
-      "placeId": "ChIJwzDHWDqNpzER2tLsMth7CLM",
-      "placeName": "Bếp Biển",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112908385313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18126019636643630"
-        }
-      }
-    },
-    {
-      "date": "2026-07-08",
-      "placeId": "ChIJze_KNYiMpzERLa0Mfzg3-ZE",
-      "placeName": "Xin Chao seafood restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1725107905283624"
-        },
-        "instagramReel": {
-          "id": "17938606035071675"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-08",
-      "placeId": "ChIJ17LlPYaNpzERY0rp_hDIF7E",
-      "placeName": "MYLA SEAFOOD",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112907563313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18098443292038854"
-        }
-      }
-    },
-    {
-      "date": "2026-07-07",
-      "placeId": "ChIJyUtXhYCPpzERS0pgKYm7hu4",
-      "placeName": "Khu du lịch Suối Tranh",
-      "results": {
-        "facebookVideo": {
-          "id": "1076886724813280"
-        },
-        "instagramReel": {
-          "id": "17871198951552528"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-07",
-      "placeId": "ChIJCxSJFRGPpzERvq1ZTl4QO8c",
-      "placeName": "Fairy Waterfall",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112782943313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17936905560085964"
-        }
-      }
-    },
-    {
-      "date": "2026-07-07",
-      "placeId": "ChIJd8N-u3CPpzERe2DX-mg_nWE",
-      "placeName": "Suoi Tranh Waterfall",
-      "results": {
-        "facebookVideo": {
-          "id": "1664863688135330"
-        },
-        "instagramReel": {
-          "id": "18068562317440888"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-07",
-      "placeId": "ChIJiamiNwCNpzERGZfl84R9I3k",
-      "placeName": "Cua 350 – Crab Noodle Soup Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112782061313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AGLzgC2_7Y0beQN2_Yr-pVU\"}}"
-        }
-      }
-    },
-    {
-      "date": "2026-07-07",
-      "placeId": "ChIJU7w5JACLpzERVi8kHyjAe-0",
-      "placeName": "Dina Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1047920297805887"
-        },
-        "instagramReel": {
-          "id": "18087150929188850"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-07",
-      "placeId": "ChIJwSdWbnOSpzERcscE5r9ek2c",
-      "placeName": "Ricordo Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112780957313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17892763221558646"
-        }
-      }
-    },
-    {
-      "date": "2026-07-07",
-      "placeId": "ChIJ9aynZwqTpzERWnZQfpFyViY",
-      "placeName": "SEN Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1346570117439222"
-        },
-        "instagramReel": {
-          "id": "18029080136829697"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-07",
-      "placeId": "ChIJvXeYrq6NpzER68wVOXl4Edg",
-      "placeName": "MEDITERRAN Greek & Italian Restaurant (pizza, pasta & souvlaki)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112779943313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18087556772641919"
         }
       }
     }
