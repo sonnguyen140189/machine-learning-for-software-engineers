@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJXWMScYiMpzERFW5SXq8DfXs",
+    "ChIJt4DYpuyLpzERm18CccVtFaM",
+    "ChIJEXpOynGNpzER-yD5vqjo9-E",
+    "ChIJwaXLFgyJpzERsHSEodjscKQ",
+    "ChIJc-syEUyNpzERlXt7rXb3Hcg",
+    "ChIJH_PX_b6VpzERKTtTpGV5YXk",
+    "ChIJvxdKNoKWpzERAWSyG5rABsg",
+    "ChIJvc4-RWUgCDERx4AJFW81Tg4",
+    "ChIJbUZGsQEfCDERXgX4I2SUCsI",
+    "ChIJb94_UYaMpzERLROoXapH5lI",
+    "ChIJn_OoioaMpzER6LmKuuTHasY",
+    "ChIJ2bp76JUfCDER2BAKZAkG66c",
     "ChIJX5g8DI6NpzERD3kfpnZmESY",
     "ChIJy5_OrWqKpzERGaQHR6TfBU0",
     "ChIJGb4oNz2LpzERnlJX2YrpYTQ",
@@ -187,21 +199,189 @@
     "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
     "ChIJNctD3zAfCDERxIbcyPQYj68",
     "ChIJeaUPhUuNpzERsYgZr-tG9Hw",
-    "ChIJDZ6BeIiLpzER1VmMR746npc",
-    "ChIJP-wbXH2MpzERblHYWN8k8pk",
-    "ChIJNSypJNqLpzERfbjTQUivu1o",
-    "ChIJof5sBSiNpzERCNkeXSByJAA",
-    "ChIJlSRlw5KNpzER9K0k_h7wn_A",
-    "ChIJM1tia_GNpzERt45wgAnd_Tk",
-    "ChIJFxJfXGiNpzER5oQGw5O9TkU",
-    "ChIJMwe2gsuXpzERYM-EJba18Po",
-    "ChIJUVkYvMWNpzER68bYoIeQoq0",
-    "ChIJv4cK9HiNpzER-Vx6JuZH1Sw",
-    "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
-    "ChIJAUdyovyNpzER8QPEJgQFxbs",
-    "ChIJ6ZS5Zl6MpzERb-qhkr9ofs4"
+    "ChIJDZ6BeIiLpzER1VmMR746npc"
   ],
   "history": [
+    {
+      "date": "2026-07-25",
+      "placeId": "ChIJXWMScYiMpzERFW5SXq8DfXs",
+      "placeName": "Saigonese Eatery",
+      "results": {
+        "facebookVideo": {
+          "id": "4605990966315071"
+        },
+        "instagramReel": {
+          "id": "18472841308106530"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "placeId": "ChIJt4DYpuyLpzERm18CccVtFaM",
+      "placeName": "On The Rock Restaurant & Beach Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115848025313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18023184122726528"
+        }
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "placeId": "ChIJEXpOynGNpzER-yD5vqjo9-E",
+      "placeName": "BUM Coffee",
+      "results": {
+        "facebookVideo": {
+          "id": "2692567117830296"
+        },
+        "instagramReel": {
+          "id": "18023873927681771"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "placeId": "ChIJwaXLFgyJpzERsHSEodjscKQ",
+      "placeName": "Khu du lịch sinh thái (Suối Đá Bàn)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115846963313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17921332194180718"
+        }
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "placeId": "ChIJc-syEUyNpzERlXt7rXb3Hcg",
+      "placeName": "Dinh Cau Lighthouse",
+      "results": {
+        "facebookVideo": {
+          "id": "1370823041045930"
+        },
+        "instagramReel": {
+          "id": "18052607600785933"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "placeId": "ChIJH_PX_b6VpzERKTtTpGV5YXk",
+      "placeName": "Sunset Town",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115846045313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18099434080951309"
+        }
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "placeId": "ChIJvxdKNoKWpzERAWSyG5rABsg",
+      "placeName": "Sunworld Hon Thom Cable Car Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1414542204071521"
+        },
+        "instagramReel": {
+          "id": "18123691225687967"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "placeId": "ChIJvc4-RWUgCDERx4AJFW81Tg4",
+      "placeName": "Phu Quoc National Park",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115845259313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18055748729775130"
+        }
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "placeId": "ChIJbUZGsQEfCDERXgX4I2SUCsI",
+      "placeName": "Grand World Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1048088221025287"
+        },
+        "instagramReel": {
+          "id": "17918694417413316"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "placeId": "ChIJb94_UYaMpzERLROoXapH5lI",
+      "placeName": "Dinh Bà Thủy Long Thánh Mẫu",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115844329313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18109096435974335"
+        }
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "placeId": "ChIJn_OoioaMpzER6LmKuuTHasY",
+      "placeName": "Dinh Cậu",
+      "results": {
+        "facebookVideo": {
+          "id": "1058997839920111"
+        },
+        "instagramReel": {
+          "id": "18408234673158840"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "placeId": "ChIJ2bp76JUfCDER2BAKZAkG66c",
+      "placeName": "Vinpearl Safari Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122115843429313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18115520044896414"
+        }
+      }
+    },
     {
       "date": "2026-07-24",
       "placeId": "ChIJX5g8DI6NpzERD3kfpnZmESY",
@@ -3018,186 +3198,6 @@
         },
         "instagram": {
           "id": "18050301071557719"
-        }
-      }
-    },
-    {
-      "date": "2026-07-09",
-      "placeId": "ChIJP-wbXH2MpzERblHYWN8k8pk",
-      "placeName": "Pho Sai Gon",
-      "results": {
-        "facebookVideo": {
-          "id": "1811339640244226"
-        },
-        "instagramReel": {
-          "id": "18614627836042821"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-09",
-      "placeId": "ChIJNSypJNqLpzERfbjTQUivu1o",
-      "placeName": "Gecko's Phuquoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113173675313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18168697876438765"
-        }
-      }
-    },
-    {
-      "date": "2026-07-09",
-      "placeId": "ChIJof5sBSiNpzERCNkeXSByJAA",
-      "placeName": "Phở Bắc Bình Nam Định cơ sở 5",
-      "results": {
-        "facebookVideo": {
-          "id": "4411674652381548"
-        },
-        "instagramReel": {
-          "id": "18158541973467984"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-09",
-      "placeId": "ChIJlSRlw5KNpzER9K0k_h7wn_A",
-      "placeName": "thì là",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113172805313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18121438864627461"
-        }
-      }
-    },
-    {
-      "date": "2026-07-08",
-      "placeId": "ChIJM1tia_GNpzERt45wgAnd_Tk",
-      "placeName": "Lemon Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1447599607398297"
-        },
-        "instagramReel": {
-          "id": "18599030167002415"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-08",
-      "placeId": "ChIJFxJfXGiNpzER5oQGw5O9TkU",
-      "placeName": "Nhà hàng hải sản Thuận Kiều 2 - Fresh Seafood & Vietnamese Cuisine",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112912189313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18604916173023907"
-        }
-      }
-    },
-    {
-      "date": "2026-07-08",
-      "placeId": "ChIJMwe2gsuXpzERYM-EJba18Po",
-      "placeName": "Ann Seafood",
-      "results": {
-        "facebookVideo": {
-          "id": "4596193743946292"
-        },
-        "instagramReel": {
-          "id": "18070694612414218"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-08",
-      "placeId": "ChIJUVkYvMWNpzER68bYoIeQoq0",
-      "placeName": "Vựa hải sản nhà Su & Bee",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112911343313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17934473865091073"
-        }
-      }
-    },
-    {
-      "date": "2026-07-08",
-      "placeId": "ChIJv4cK9HiNpzER-Vx6JuZH1Sw",
-      "placeName": "Nhà hàng Vịnh Xanh Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1391742502824906"
-        },
-        "instagramReel": {
-          "id": "18370068862237191"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-08",
-      "placeId": "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
-      "placeName": "Nhà hàng hải sản Xưa và Nay",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112910437313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17889513090395571"
-        }
-      }
-    },
-    {
-      "date": "2026-07-08",
-      "placeId": "ChIJAUdyovyNpzER8QPEJgQFxbs",
-      "placeName": "Crab Island | Taste of Seafood | 해산물의 맛",
-      "results": {
-        "facebookVideo": {
-          "id": "1732138487915818"
-        },
-        "instagramReel": {
-          "id": "17896490634545047"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-08",
-      "placeId": "ChIJ6ZS5Zl6MpzERb-qhkr9ofs4",
-      "placeName": "Phuong Hoang Seafood Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122112909249313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18090992963575138"
         }
       }
     }
