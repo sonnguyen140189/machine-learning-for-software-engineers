@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "491 reviews. 4.1 stars. And most tourists drive straight past Suối Đá Bàn on their way to the beach.\n\nThis eco park is the real Phu Quoc. Flat granite boulders, natural rock pools, forest canopy, zero resort noise. The kind of place you stay two hours longer than you planned.\n\nIf your Phu Quoc itinerary is all beaches and bar streets, you're missing half the island.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Rock pools. Granite slabs. Forest air. Suối Đá Bàn has 491 reviews for a reason. Here's what actually waits inside this eco park most visitors skip.",
+    "first_comment": "#PhuQuoc #PhuQuocNature #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #EcoTravel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "491 reviews. 4.1 stars. Most tourists drive straight past Suối Đá Bàn.\n\nNatural rock pools, granite boulders, full forest canopy. No resort noise.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Granite slabs. Rock pools. Zero crowds. Suối Đá Bàn hits different when the beach bars get old.",
+    "hashtags": "#PhuQuocNature #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc #EcoTravel #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "491 people rated this and tourists still walk past it. Suối Đá Bàn is Phu Quoc's wildcard. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "491 reviews. Still empty.",
+    "scenes": [
+      "Aerial pull back over forest canopy",
+      "Feet stepping onto flat granite slab",
+      "Clear rock pool water flowing over stone",
+      "Wide shot: boulders stacked in stream",
+      "Visitor sitting alone on rocks, forest behind"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

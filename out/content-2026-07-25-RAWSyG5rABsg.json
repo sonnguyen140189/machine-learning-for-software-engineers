@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "19,279 reviews. 4.5 stars. And most tourists still haven't heard of Hòn Thơm.\n\nThe Sunworld Hon Thom Cable Car stretches over open ocean to reach an island water park. The cable car station is built to look like Ancient Rome. It sounds ridiculous. It works completely.\n\nBeaches on one side. Slides and pools on the other. One ticket covers both.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the ocean drop away beneath you as the cable car pulls you toward Hòn Thơm island. Ancient Rome architecture, water park, beach, all on one island. Phu Quoc delivers weird and wonderful in equal measure.",
+    "first_comment": "#PhuQuoc #PhuQuocIsland #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "19,279 reviews. 4.5 stars. Hòn Thơm is not a drill.\n\nCable car over open ocean. Ancient Rome station. Island water park on the other side. Tag your travel buddy.",
+    "video_caption": "Cable car. Open ocean. Ancient Rome vibes. Then a water park. Hòn Thơm hits different. #PhuQuoc #TravelReels",
+    "hashtags": "#PhuQuoc #PhuQuocIsland #PhuQuocTips #HonThom #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #PhuQuocAttractions"
+  },
+  "tiktok": {
+    "caption": "19k reviews on a cable car to an island water park built like Ancient Rome. Phu Quoc, what are you?? #PhuQuoc #HonThom #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "19,279 reviews. See why.",
+    "scenes": [
+      "Cable car cabin lifting over turquoise ocean",
+      "Full aerial shot: island shrinking below",
+      "Ancient Rome-style station facade revealed",
+      "Water slides dropping into pool, crowd cheering",
+      "Wide beach shot from island shore at Hòn Thơm"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

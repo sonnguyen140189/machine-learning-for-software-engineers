@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you took a wrong turn on Võ Thị Sáu and found this. Dinh Bà Thủy Long Thánh Mẫu sits at 44 Võ Thị Sáu, Khu 1, and most tourists walk right past it. 4.5 stars across 285 reviews. Incense smoke, bright lanterns, total calm. Five minutes from the beach crowds. Save this for your Phu Quoc trip.",
+    "video_caption": "Smoke rising, lanterns lit, locals praying. Dinh Bà Thủy Long Thánh Mẫu on a quiet Tuesday morning. 4.5 stars. 285 reviews. Zero tour buses. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Walked past twice. Don't be me. Dinh Bà Thủy Long Thánh Mẫu, 4.5★, 285 reviews, zero crowds. Save this.",
+    "video_caption": "Incense, lanterns, and silence. Dinh Bà Thủy Long Thánh Mẫu while everyone else is at the beach.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn in Phu Quoc. Found Dinh Bà Thủy Long Thánh Mẫu. 4.5★ and nobody else there. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: wrong turn. Perfect find.",
+    "scenes": [
+      "Approach ornate temple gate from street",
+      "Pan up: layered roofline, red lanterns",
+      "Close-up: incense sticks burning in urn",
+      "Wide shot: empty courtyard, one local praying",
+      "Slow push into doorway, interior altar lit"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

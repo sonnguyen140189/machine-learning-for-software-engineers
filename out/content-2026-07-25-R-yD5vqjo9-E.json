@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 49 reviews. Zero complaints.\n\nBUM Coffee on 139 Đoàn Thị Điểm is running a perfect score, and that doesn't happen by accident. A local café that earns every star, one cup at a time.\n\nIf you're staying in Phú Quốc and want coffee that actually delivers, this is the address. Skip the resort lobby brew.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the pour at BUM Coffee. 5.0 stars, 49 reviews, and a café that's not on most tourist maps. 139 Đoàn Thị Điểm. Add it to the list.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 49 reviews. BUM Coffee is perfect on paper, better in person.\n\n139 Đoàn Thị Điểm, Phú Quốc. Save this.",
+    "video_caption": "Pouring a perfect score. BUM Coffee, Phú Quốc. 5 stars, 49 reviews, no hype needed.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #CoffeePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "5.0 stars. 49 reviews. BUM Coffee in Phú Quốc is spotless. 139 Đoàn Thị Điểm. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5.0 stars. 49 reviews.",
+    "scenes": [
+      "Exterior shot: 139 Đoàn Thị Điểm signage",
+      "Barista pulling an espresso shot",
+      "Close-up: coffee lands on the counter",
+      "Pan across the café interior",
+      "Phone screen showing 5.0 star rating"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
