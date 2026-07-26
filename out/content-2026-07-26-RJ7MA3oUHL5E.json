@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 706 reviews. At a restaurant most tourists walk straight past.\n\nThe Spice House Restaurant at Cassia Cottage Phú Quốc sits on Đường Trần Hưng Đạo and quietly outranks places that spend ten times more on marketing.\n\n706 people didn't lie. Add it to the list before your trip fills up.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Plates arriving at The Spice House Restaurant at Cassia Cottage Phú Quốc. 706 reviews at 4.7 stars. Watch why the rating holds up. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #VietnamFood #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 706 reviews. The Spice House Restaurant at Cassia Cottage Phú Quốc is not a coincidence.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "706 reviews earning 4.7 stars at The Spice House Restaurant at Cassia Cottage Phú Quốc. Every plate tells you why.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats #VisitVietnam #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "706 reviews. 4.7 stars. The Spice House at Cassia Cottage Phú Quốc earns every one. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.7★ from 706 reviews.",
+    "scenes": [
+      "Exterior of Cassia Cottage, slow push in",
+      "Host seats guests at candlelit table",
+      "Chef plates a dish, steam rises",
+      "Close-up: fork cuts through main course",
+      "Wide shot: full table, satisfied diners",
+      "Screen: Google map pin on Đường Trần Hưng Đạo"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

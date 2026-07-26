@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walked Đường Trần Hưng Đạo looking for dinner and stumbled into thì là. 4.7 stars. 847 reviews. Zero regrets. This is the kind of Vietnamese restaurant that makes you cancel your resort dinner reservation. Real food, real portions, real Phu Quoc. Save this for your Phu Quoc trip.",
+    "video_caption": "847 people rated thì là 4.7 stars and somehow it still flies under the radar. Watch what lands on the table and tell me this isn't your next dinner stop on Đường Trần Hưng Đạo.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found thì là on Đường Trần Hưng Đạo. 4.7★, 847 reviews. Add it to your list now.",
+    "video_caption": "847 reviews don't lie. thì là just became your Phu Quoc dinner plan. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #PhúQuốc"
+  },
+  "tiktok": {
+    "caption": "Found thì là on Đường Trần Hưng Đạo. 4.7★ 847 reviews. Phu Quoc dinner sorted. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: best dinner in Phu Quoc",
+    "scenes": [
+      "Walk up to thì là storefront",
+      "Menu pages flipping, close-up",
+      "Dishes arriving at the table",
+      "Fork lifts first bite, steam rises",
+      "Screen shows: 4.7★, 847 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
