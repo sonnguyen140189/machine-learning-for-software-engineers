@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wander down Đường Trần Phú and stumble into HALO MANGO Phu Quoc. Fresh mango desserts. 4.9 stars across 305 reviews. This place is not an accident. It earns every single one. Số 122, Khu Phố 7, Dương Đông. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what happens when fresh Phu Quoc mango meets a 4.9-star dessert shop. HALO MANGO on Đường Trần Phú. Locals already know. Now you do too.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocDessert #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you find HALO MANGO Phu Quoc by accident. 4.9 stars, 305 reviews. Not an accident. Tag your travel buddy.",
+    "video_caption": "4.9 stars. 305 reviews. Fresh mango desserts on Đường Trần Phú. HALO MANGO hits different.",
+    "hashtags": "#PhuQuocFood #PhuQuocDessert #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "POV: wrong turn, right dessert. HALO MANGO Phu Quoc = 4.9 stars for a reason 🥭 #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you found the mango spot.",
+    "scenes": [
+      "Exterior shot, Số 122 Đường Trần Phú sign",
+      "Close-up: fresh mango sliced tableside",
+      "Dessert bowl assembled, slow pour",
+      "First spoonful, genuine reaction",
+      "4.9★ review screen on phone"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're on Đường Trần Hưng Đạo, sweaty, over-stimulated, and a French bakery appears out of nowhere.\n\nO BON PAIN-FRENCH BAKERY on Phú Quốc. 4.3 stars. 360 reviews. The croissants are real. The AC is real. The reset is real.\n\nWhen every other stop is fried seafood and cold beer, this place hits different. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the pastry case at O BON PAIN-FRENCH BAKERY. Croissants, loaves, proper café drinks. 4.3 stars from 360 people who found it. On Đường Trần Hưng Đạo, Phú Quốc. Worth the detour.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked past twice. Third time I went in. O BON PAIN-FRENCH BAKERY, Phú Quốc. 4.3★, 360 reviews. Tag your travel buddy.",
+    "video_caption": "French pastries. Phú Quốc. 4.3 stars. This is O BON PAIN-FRENCH BAKERY and it earns every one.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "French bakery on Phú Quốc. 360 people rated it 4.3★. O BON PAIN is real. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: French bakery. Phu Quoc.",
+    "scenes": [
+      "Exterior shot, 48 Đường Trần Hưng Đạo sign",
+      "Push through the door, cool interior",
+      "Close-up: croissants and loaves in the case",
+      "Hand picks up a pastry, steam rises",
+      "Customer eating, relaxed expression",
+      "End card: 4.3★ 360 reviews O BON PAIN"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

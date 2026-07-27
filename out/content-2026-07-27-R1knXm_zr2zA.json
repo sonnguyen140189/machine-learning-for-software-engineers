@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 132 reviews. Inside a Venice-style building in Sunset Town. Cafe Juliet & Pastries is not playing around. Most coffee shops in Phu Quoc can't touch this rating. Grab a pastry, grab a seat, and let the canal views do the rest. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the espresso pour at Cafe Juliet & Pastries. Venice architecture, Phu Quoc prices, 4.9 stars on 132 reviews. This one earns it.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #SunsetTownPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 132 reviews. Inside Sunset Town's Venice quarter. Cafe Juliet & Pastries is the real deal. Tag your travel buddy.",
+    "video_caption": "Pastries, espresso, canal-side vibes. Cafe Juliet & Pastries hits different at 4.9 stars.",
+    "hashtags": "#PhuQuocCafe #SunsetTownPhuQuoc #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CafeHopping"
+  },
+  "tiktok": {
+    "caption": "4.9 stars in Sunset Town. Cafe Juliet & Pastries just raised the bar. #PhuQuoc #PhuQuocCafe #SunsetTown #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9 STARS. 132 REVIEWS.",
+    "scenes": [
+      "Exterior shot: Venice arches, canal",
+      "Slow pan across pastry display case",
+      "Barista pulling espresso shot",
+      "Coffee placed on canal-view table",
+      "Rating graphic: 4.9 stars overlay"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

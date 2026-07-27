@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this coffee shop. SIM Coffee - A Story Of The Island on Nguyễn Trung Trực sits quiet while the resort cafés stay packed. 5.0 stars. Every single review. That ratio is rare anywhere, let alone Phu Quoc. Order something local, sit down, slow the trip down. Save this for your Phu Quoc trip.",
+    "video_caption": "Camera pans through a coffee shop locals actually choose over the resort cafés. SIM Coffee - A Story Of The Island. 5.0 stars across every review. Not busy. Not loud. Just right. 202c Nguyễn Trung Trực, Phú Quốc.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about SIM Coffee - A Story Of The Island. 5.0 stars. Every review. Go find it. Save this for your Phu Quoc trip.",
+    "video_caption": "5.0 stars. Zero hype. SIM Coffee - A Story Of The Island is the one the resort map leaves off.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #CoffeePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Locals kept this one quiet. SIM Coffee Phu Quoc. 5.0 stars. Every review. Go. #PhuQuoc #PhuQuocCafe #CoffeeTok #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior shot, quiet street, no crowds",
+      "Close-up: coffee cup on wooden table",
+      "Slow pan across interior, warm light",
+      "Phone screen shows 5.0-star rating",
+      "Guest takes first sip, no words"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

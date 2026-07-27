@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 2,757 reviews. At a coffee shop in Sunset Town.\n\nThe Juliet Coffee & Dessert - AMA71 is sitting inside Amalfi, Phú Quốc and people are rating it almost perfectly. That does not happen by accident.\n\nAdd this to your Sunset Town itinerary before everyone else does.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "2,757 people gave this coffee shop 4.9 stars. Watch why. The Juliet Coffee & Dessert - AMA71 inside Amalfi, Sunset Town. Your next stop.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #SunsetTownPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 2,757 reviews. One coffee shop in Sunset Town.\n\nThe Juliet Coffee & Dessert - AMA71 is not flying under the radar anymore. Tag your travel buddy.",
+    "video_caption": "2,757 reviews. 4.9 stars. The Juliet Coffee & Dessert - AMA71 earns every one.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #SunsetTownPhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeShop"
+  },
+  "tiktok": {
+    "caption": "4.9 stars from 2,757 people. This coffee shop in Sunset Town hits different. #PhuQuoc #PhuQuocCafe #SunsetTownPhuQuoc #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9 stars. 2,757 reviews.",
+    "scenes": [
+      "Aerial pan over Amalfi street",
+      "Push into cafe entrance, signage visible",
+      "Barista pours coffee in close-up",
+      "Dessert plating on marble counter",
+      "Wide shot: full cafe, guests seated"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
