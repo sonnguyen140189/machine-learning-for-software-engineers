@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJE6Jt3vuVpzERA6ErTfB79es",
+    "ChIJTdwiKNmVpzER1knXm_zr2zA",
+    "ChIJKTX4YwCLpzERhiLmMHLUihA",
+    "ChIJrXaM1tmNpzERj7I5uw4cwro",
+    "ChIJYQY76P2NpzERlul1IUfk3N8",
+    "ChIJAWovfRONpzERI7y_gpk_6D0",
+    "ChIJ44y8R_uNpzERI0lt0GkPrNM",
+    "ChIJo-0fmz6NpzERIEhHbz8e4T8",
+    "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
+    "ChIJZaB-ewCNpzERPBRid0eSO98",
+    "ChIJI5WlJe2TpzERePcxr40c2U4",
+    "ChIJa_lVMmeNpzERHonO5t2IKRg",
     "ChIJ9aynZwqTpzERWnZQfpFyViY",
     "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
     "ChIJ17LlPYaNpzERY0rp_hDIF7E",
@@ -187,21 +199,189 @@
     "ChIJf3chCACNpzER9HKozVLUOpA",
     "ChIJE0W_Mu-NpzER4e-2jmhYJYI",
     "ChIJjRr6GAKNpzERbsvxEBPABTc",
-    "ChIJc0P1PxmNpzERVBubA78Rpzc",
-    "ChIJfcl6s46NpzERvFpgYpkmGe0",
-    "ChIJbYvoSyqNpzER-Damlo13tio",
-    "ChIJixiLeACNpzER0bDJkqmR1Ac",
-    "ChIJt4XvJwCNpzERDsy4DogoAGY",
-    "ChIJO-aIpaKNpzERkCLeSERC9yE",
-    "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
-    "ChIJQz9pjguLpzERt20ZmhsgK9Y",
-    "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
-    "ChIJ0RkpBlGMpzERkVVsqpEZ5C0",
-    "ChIJbWwp_zj1pzERg-_J_57c0UA",
-    "ChIJZ9RuXLwfCDEREl1ID-Nkj30",
-    "ChIJOfBhADWLpzEROjM637w_lcg"
+    "ChIJc0P1PxmNpzERVBubA78Rpzc"
   ],
   "history": [
+    {
+      "date": "2026-07-27",
+      "placeId": "ChIJE6Jt3vuVpzERA6ErTfB79es",
+      "placeName": "The Juliet Coffee & Dessert - AMA71",
+      "results": {
+        "facebookVideo": {
+          "id": "1711312440132930"
+        },
+        "instagramReel": {
+          "id": "18045176600653428"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "placeId": "ChIJTdwiKNmVpzER1knXm_zr2zA",
+      "placeName": "Cafe Juliet & Pastries",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116080963313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18068030510473438"
+        }
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "placeId": "ChIJKTX4YwCLpzERhiLmMHLUihA",
+      "placeName": "SIM Coffee - A Story Of The Island",
+      "results": {
+        "facebookVideo": {
+          "id": "1010677371790606"
+        },
+        "instagramReel": {
+          "id": "18080133968297863"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "placeId": "ChIJrXaM1tmNpzERj7I5uw4cwro",
+      "placeName": "할로망고 푸꾸옥. HALO MANGO Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116080051313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18018593360856024"
+        }
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "placeId": "ChIJYQY76P2NpzERlul1IUfk3N8",
+      "placeName": "Bapaki Tea, Bakery",
+      "results": {
+        "facebookVideo": {
+          "id": "1562267835275750"
+        },
+        "instagramReel": {
+          "id": "18150977602500832"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "placeId": "ChIJAWovfRONpzERI7y_gpk_6D0",
+      "placeName": "Devis Bakery Phu Quoc 데비스베이커리",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116079037313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AMP2IDq1SYBdN-iYkaGX73A\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "placeId": "ChIJ44y8R_uNpzERI0lt0GkPrNM",
+      "placeName": "Tiệm Bánh Kem Phú Quốc - PP Bakery",
+      "results": {
+        "facebookVideo": {
+          "id": "943824745384345"
+        },
+        "instagramReel": {
+          "id": "18109999417800543"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "placeId": "ChIJo-0fmz6NpzERIEhHbz8e4T8",
+      "placeName": "TUNG Cake and Tea - Thu Hiền Bakery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116078119313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18115859732486789"
+        }
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "placeId": "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
+      "placeName": "The Cake Corner",
+      "results": {
+        "facebookVideo": {
+          "id": "3988173184810032"
+        },
+        "instagramReel": {
+          "id": "18117133963909072"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "placeId": "ChIJZaB-ewCNpzERPBRid0eSO98",
+      "placeName": "Nị Bakery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116077291313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18141373453527555"
+        }
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "placeId": "ChIJI5WlJe2TpzERePcxr40c2U4",
+      "placeName": "O BON PAIN-FRENCH BAKERY",
+      "results": {
+        "facebookVideo": {
+          "id": "1691487832114483"
+        },
+        "instagramReel": {
+          "id": "17885406576447054"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "placeId": "ChIJa_lVMmeNpzERHonO5t2IKRg",
+      "placeName": "Sugar Fusion Bakery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116076421313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18330480661258748"
+        }
+      }
+    },
     {
       "date": "2026-07-26",
       "placeId": "ChIJ9aynZwqTpzERWnZQfpFyViY",
@@ -3018,186 +3198,6 @@
         },
         "instagram": {
           "id": "18093088013617953"
-        }
-      }
-    },
-    {
-      "date": "2026-07-11",
-      "placeId": "ChIJfcl6s46NpzERvFpgYpkmGe0",
-      "placeName": "Chợ Dương Đông Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "27450407467958542"
-        },
-        "instagramReel": {
-          "id": "18171494107430706"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-11",
-      "placeId": "ChIJbYvoSyqNpzER-Damlo13tio",
-      "placeName": "PHU QUOC CENTRE",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113435449313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18062340956720931"
-        }
-      }
-    },
-    {
-      "date": "2026-07-11",
-      "placeId": "ChIJixiLeACNpzER0bDJkqmR1Ac",
-      "placeName": "LOCA - Night Market",
-      "results": {
-        "facebookVideo": {
-          "id": "1474414194440583"
-        },
-        "instagramReel": {
-          "id": "18480782059102248"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-11",
-      "placeId": "ChIJt4XvJwCNpzERDsy4DogoAGY",
-      "placeName": "Song Gia Food Phu quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113434759313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18136388776571557"
-        }
-      }
-    },
-    {
-      "date": "2026-07-10",
-      "placeId": "ChIJO-aIpaKNpzERkCLeSERC9yE",
-      "placeName": "Vietnam Active - PADI 5 Star Diving Center Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "2130885638308935"
-        },
-        "instagramReel": {
-          "id": "18059124725581529"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-10",
-      "placeId": "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
-      "placeName": "Phil Hai Diving Club",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113226613313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18146629099515647"
-        }
-      }
-    },
-    {
-      "date": "2026-07-10",
-      "placeId": "ChIJQz9pjguLpzERt20ZmhsgK9Y",
-      "placeName": "Flipper diving club",
-      "results": {
-        "facebookVideo": {
-          "id": "1684541339480728"
-        },
-        "instagramReel": {
-          "id": "18073930829338931"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-10",
-      "placeId": "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
-      "placeName": "Vinpearl Wonderworld Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113225737313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18122232202743548"
-        }
-      }
-    },
-    {
-      "date": "2026-07-10",
-      "placeId": "ChIJ0RkpBlGMpzERkVVsqpEZ5C0",
-      "placeName": "M Village",
-      "results": {
-        "facebookVideo": {
-          "id": "952267711197592"
-        },
-        "instagramReel": {
-          "id": "18474979570096581"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-10",
-      "placeId": "ChIJbWwp_zj1pzERg-_J_57c0UA",
-      "placeName": "Green Bay Phu Quoc Resort & Spa",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113224885313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18079848569673919"
-        }
-      }
-    },
-    {
-      "date": "2026-07-10",
-      "placeId": "ChIJZ9RuXLwfCDEREl1ID-Nkj30",
-      "placeName": "Crowne Plaza Phu Quoc Starbay by IHG",
-      "results": {
-        "facebookVideo": {
-          "id": "27584235051207103"
-        },
-        "instagramReel": {
-          "id": "18131065726589010"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-10",
-      "placeId": "ChIJOfBhADWLpzEROjM637w_lcg",
-      "placeName": "Grand Ocean Bay Resort Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113224087313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17978725530048679"
         }
       }
     }
