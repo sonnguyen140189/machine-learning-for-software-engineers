@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walked past every tourist restaurant on Đường Nguyễn Trãi and found Khánh Ly Vegetarian Restaurant at number 35. Under $10 a head. 408 people rated it 4.2 stars. Full plant-based menu in Phu Quoc. This place exists and most visitors never find it. Save this for your Phu Quoc trip.",
+    "video_caption": "Plate after plate. All plant-based. All under $10. Khánh Ly Vegetarian Restaurant at 35 Đường Nguyễn Trãi is doing something most Phu Quoc spots aren't. Watch till the end.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #VeganTravel #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Walked past three pho spots and found this. Khánh Ly, 35 Đường Nguyễn Trãi. Under $10. 4.2 stars. Tag your travel buddy.",
+    "video_caption": "Full vegan menu. Under $10. Right on Đường Nguyễn Trãi. Khánh Ly is the Phu Quoc find most tourists miss.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VeganVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "POV: found the vegan spot in Phu Quoc nobody talks about. Under $10. 4.2 stars. #PhuQuoc #PhuQuocFood #VeganTravel #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: found the vegan spot.",
+    "scenes": [
+      "Walk up to 35 Đường Nguyễn Trãi exterior",
+      "Menu board, prices all under $10",
+      "Dishes arriving at the table",
+      "Close-up of plant-based plates",
+      "Google Maps pin, 4.2 stars, 408 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

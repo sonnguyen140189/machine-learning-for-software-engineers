@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "2,676 reviews. 4.7 stars. 100% vegetarian Indian food on Phú Quốc island.\n\nMaharaja Lounge on 107 Đường Trần Hưng Đạo is the kind of place that earns that rating one curry at a time. No meat on the menu. Zero compromises on flavor.\n\nIf you've been craving a break from seafood, this is your spot.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch this plate land on the table. Full Indian spread, 100% veg, right here on Phú Quốc. Maharaja Lounge hits different when you've eaten grilled fish four days straight.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFoodAbroad #VisitVietnam #TravelTips #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 2,676 reviews. 100% vegetarian Indian food in Phu Quoc.\n\nMaharaja Lounge delivers. Tag your travel buddy.",
+    "video_caption": "Curry on Phú Quốc. 4.7 stars. No meat. No compromise. Maharaja Lounge.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianTravel #IndianFoodAbroad #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.7 stars & 2,676 reviews at this 100% veg Indian spot on Phú Quốc. Maharaja Lounge is no joke. #PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFood"
+  },
+  "video_script": {
+    "hook": "4.7★ 2,676 reviews.",
+    "scenes": [
+      "Exterior shot: 107 Đường Trần Hưng Đạo sign",
+      "Menu pages flipping, veg dishes close-up",
+      "Curry poured into bowl, steam rising",
+      "Bread basket hitting the table",
+      "Full spread overhead shot",
+      "Reviewer rating on screen: 4.7★"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

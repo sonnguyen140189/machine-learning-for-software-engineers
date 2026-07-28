@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 684 reviews. On Bãi Trường, one of Phu Quoc's longest beaches. Soul Boutique Hotel keeps showing up for a reason. Boutique scale means actual service, not a number in a queue. Book it before the crowds figure this one out. Save this for your Phu Quoc trip.",
+    "video_caption": "684 people rated this 4.8 stars and they're not wrong. Soul Boutique Hotel sits right on Bãi Trường. Watch the check-in, the rooms, the beach steps away. This is what a boutique stay actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #BaiTruong #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 684 reviews. Bãi Trường beachfront. Soul Boutique Hotel is the answer. Tag your travel buddy.",
+    "video_caption": "Steps from Bãi Trường. 4.8 stars. 684 people already know. Soul Boutique Hotel, Phu Quoc.",
+    "hashtags": "#PhuQuocHotels #BaiTruong #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocBeaches #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 684 reviews, right on Bãi Trường. Soul Boutique Hotel hits different. #PhuQuoc #PhuQuocHotels #BaiTruong #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8★ 684 reviews. Phu Quoc.",
+    "scenes": [
+      "Aerial pan over Bãi Trường beach",
+      "Hotel exterior, pull focus to entrance",
+      "Room reveal, walk toward balcony view",
+      "Beach access, feet hit the sand",
+      "Close-up: 4.8 star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

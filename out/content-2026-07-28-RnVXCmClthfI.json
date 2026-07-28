@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "781 reviews. 4.7 stars. And it's sitting right on Võ Thị Sáu street in Phú Quốc. Huong Bien Restaurant delivers fresh Vietnamese seafood done properly. Local crowd, real portions, no tourist markup vibe. If you're eating seafood in Phu Quoc and skipping this spot, you're doing it wrong. Save this for your Phu Quoc trip.",
+    "video_caption": "Fresh seafood hitting the table at Huong Bien Restaurant. 781 people rated this 4.7 stars and honestly, watch the footage and you'll see why. 1 Võ Thị Sáu, go find it.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "781 reviews. 4.7 stars. Huong Bien Restaurant is not a fluke. Fresh Vietnamese seafood, real crowd, Phú Quốc prices. Tag your travel buddy.",
+    "video_caption": "Plates landing at Huong Bien Restaurant. 4.7 stars from 781 people. Phu Quoc seafood at its most legit.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "781 reviews, 4.7 stars. Huong Bien Restaurant in Phú Quốc is not missing. #PhuQuoc #PhuQuocFood #VietnamTravel #SeafoodLovers"
+  },
+  "video_script": {
+    "hook": "781 reviews. 4.7 stars.",
+    "scenes": [
+      "Exterior shot, 1 Võ Thị Sáu sign visible",
+      "Busy tables, local and tourist crowd",
+      "Fresh seafood arriving on table",
+      "Close-up, grilled prawns and dipping sauce",
+      "Reaction shot, first bite"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
