@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Fresh seafood in Phu Quoc for $15-30 a person? At a place with 1,870 reviews and 4.5 stars? That's Phuong Hoang Seafood Restaurant on Đường Trần Hưng Đạo. Local crowd, real portions, no resort markup. This is the seafood dinner you actually came to Vietnam for. Save this for your Phu Quoc trip.",
+    "video_caption": "Plates of grilled seafood landing on the table at Phuong Hoang Seafood Restaurant. 4.5 stars. 1,870 reviews. $15-30 a head. Watch till the end. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocSeafood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "$15-30 for a full seafood spread. 4.5★ and 1,870 reviews back it up. Phuong Hoang Seafood Restaurant delivers. Save this.",
+    "video_caption": "Seafood hitting the table. Phuong Hoang. $15-30 a person. 1,870 people rated this 4.5 stars.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Seafood dinner in Phu Quoc. $15-30. 4.5 stars. 1,870 reviews. Phuong Hoang. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "$30 seafood feast. Phu Quoc.",
+    "scenes": [
+      "Exterior shot: busy local restaurant front",
+      "Menu close-up: fresh catch options listed",
+      "Grilled prawns plated and steaming",
+      "Crab cracked open at the table",
+      "Bill arrives: total under $30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

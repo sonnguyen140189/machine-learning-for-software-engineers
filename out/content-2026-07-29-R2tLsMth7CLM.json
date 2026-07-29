@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking Đường Trần Hưng Đạo and you finally stop at Bếp Biển.\n\n4.8 stars. 1,384 reviews. The kind of seafood spot that earns that rating one table at a time.\n\nFresh catch. Real locals. No performance for tourists.\n\nThis is the one you bookmark before you land in Phu Quoc.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Plates landing, shells cracking, 1,384 people already knew about Bếp Biển. Now you do too. 4.8 stars on Đường Trần Hưng Đạo. Get here.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "POV: you finally sit down at Bếp Biển. 4.8★ across 1,384 reviews. This is why you came to Phu Quoc.\n\nTag your travel buddy.",
+    "video_caption": "Shells cracking. Steam rising. Bếp Biển doing what 1,384 reviewers already told you it would.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Walked past twice. Went in on night three. Bếp Biển. Don't be me. #PhuQuoc #PhuQuocFood #VietnamEats #SeafoodTok"
+  },
+  "video_script": {
+    "hook": "Walked past this 3 times.",
+    "scenes": [
+      "Exterior shot: busy tables, warm lights",
+      "Close-up: fresh seafood on ice display",
+      "Hands cracking open a grilled crab",
+      "Steam rising from a clay pot dish",
+      "Wide shot: packed local crowd eating"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

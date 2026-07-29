@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 3,287 reviews. At a seafood spot most tourists never find.\n\nAnn Seafood sits right on Bãi Khem, one of Phu Quoc's cleanest stretches of sand. Locals rate it. Repeat visitors swear by it. The kind of place that earns those numbers plate by plate.\n\nAdd this to your Phu Quoc itinerary before the crowds catch on.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "3,287 people reviewed Ann Seafood and gave it 4.8 stars. Watch the plates land at Bãi Khem and you'll understand why.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocFood #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.8★ from 3,287 reviews. Ann Seafood at Bãi Khem hits different.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Fresh seafood. 4.8 stars. Bãi Khem right outside the door. Ann Seafood earns every review.",
+    "hashtags": "#PhuQuocSeafood #PhuQuocFood #BaiKhem #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8★ from 3,287 reviews. Ann Seafood at Bãi Khem lives up to every single one. #PhuQuoc #PhuQuocSeafood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★. 3,287 reviews. Phu Quoc.",
+    "scenes": [
+      "Aerial shot of Bãi Khem shoreline",
+      "Walking into Ann Seafood entrance",
+      "Fresh catch displayed on ice",
+      "Plates hitting the table fast",
+      "Close-up: grilled seafood steaming"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
