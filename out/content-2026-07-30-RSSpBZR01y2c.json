@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "9,703 reviews. Most tourists still walk past this place.\n\nPhu Quoc Prison History Museum is one of the most important sites on the island. French colonial-era prison. Used to hold Vietnamese POWs during the war. Mannequins recreate the torture methods used inside these walls.\n\nIt is not comfortable. That is the point.\n\nFree or low-cost entry. 1-2 hours is enough. Go before the midday heat hits.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walking through cells built to break people. Phu Quoc Prison History Museum. 9,703 ratings and still off most tourist itineraries. Add it to your list.",
+    "first_comment": "#PhuQuoc #PhuQuocHistory #ThingsToDoPhuQuoc #VisitVietnam #VietnamHistory #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "9,703 reviews. Most tourists skip this entirely.\n\nPhu Quoc Prison. Colonial-era. War POWs. Real history, not curated. Go early.\n\nShare with someone planning Vietnam.",
+    "video_caption": "Inside Phu Quoc Prison. 9,703 people rated it. Still one of the least-visited stops on the island.",
+    "hashtags": "#PhuQuocHistory #ThingsToDoPhuQuoc #VietnamHistory #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #HistoryTravel"
+  },
+  "tiktok": {
+    "caption": "9,703 reviews and tourists still walk past it. Phu Quoc Prison is the most important hour you'll spend on this island. #PhuQuoc #VietnamHistory #TravelTips"
+  },
+  "video_script": {
+    "hook": "9,703 reviews. Still ignored.",
+    "scenes": [
+      "Exterior gate, sign in full frame",
+      "Narrow cell corridor, low light",
+      "Close-up: mannequin in barbed wire",
+      "Wide shot: open courtyard, watchtower",
+      "Visitor reading info panel, slow pan"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
