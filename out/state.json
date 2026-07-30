@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ8zUfc5iXpzERSSpBZR01y2c",
+    "ChIJjR83W0yNpzERUdxmKf-6ozw",
+    "ChIJP5q2Xn2MpzERflLoidf2YAg",
+    "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
+    "ChIJv4cK9HiNpzER-Vx6JuZH1Sw",
+    "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
+    "ChIJhwi1TFqTpzERiZQmfO7PxUY",
+    "ChIJHaad39SNpzERxyH_xEG63Kg",
+    "ChIJoXjKmgSNpzERianh5FZP7WE",
+    "ChIJB4_swjiNpzER0vsGaMBGTxg",
+    "ChIJEYK7sD6LpzERgAa_oy1mPEg",
+    "ChIJD6aTKogfCDERjiqIipRTAT8",
     "ChIJ67MzfTqNpzERl5vEmwYkACQ",
     "ChIJFxJfXGiNpzER5oQGw5O9TkU",
     "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
@@ -187,21 +199,189 @@
     "ChIJjwG2SAAfCDERd7JcFN0UNTw",
     "ChIJgwI3D_8fCDERzTBdqPmUa9M",
     "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
-    "ChIJo5M0X62NpzERgrGHtWo8nCQ",
-    "ChIJfQAdSg2NpzEREkgYHVPn5dE",
-    "ChIJpW9hndiNpzERaocRFppy0S4",
-    "ChIJW-GcxKSNpzERmzxVnocLcZ4",
-    "ChIJi4uGpxKNpzERP7b_sLCQiqY",
-    "ChIJq6qqEz8eCDER7vOnb6Q6Ol8",
-    "ChIJ44qAJhSLpzERXmrw41RYzJA",
-    "ChIJSTGCnBuLpzERx2KCLdVFKIk",
-    "ChIJAQAAAECKpzERzt6bVEvLa-M",
-    "ChIJsY399WOMpzER7lV4UDy_2w0",
-    "ChIJ7fpDGamNpzERBaF8duO9WKY",
-    "ChIJLa_VvluMpzERVdeTFM021V4",
-    "ChIJ2fu7BmGNpzERyc_w8wahNio"
+    "ChIJo5M0X62NpzERgrGHtWo8nCQ"
   ],
   "history": [
+    {
+      "date": "2026-07-30",
+      "placeId": "ChIJ8zUfc5iXpzERSSpBZR01y2c",
+      "placeName": "Phu Quoc Prison History Museum",
+      "results": {
+        "facebookVideo": {
+          "id": "2332662517571391"
+        },
+        "instagramReel": {
+          "id": "18105029117144313"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "placeId": "ChIJjR83W0yNpzERUdxmKf-6ozw",
+      "placeName": "NONÊ Kitchen & Bar Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116552689313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18192880798378626"
+        }
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "placeId": "ChIJP5q2Xn2MpzERflLoidf2YAg",
+      "placeName": "THU HIỀN BAKERY",
+      "results": {
+        "facebookVideo": {
+          "id": "1076879121517405"
+        },
+        "instagramReel": {
+          "id": "17876787039522913"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "placeId": "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
+      "placeName": "LOLO BAKERY & CAFE (로로베이커리)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116551597313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18120211639856214"
+        }
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "placeId": "ChIJv4cK9HiNpzER-Vx6JuZH1Sw",
+      "placeName": "Nhà hàng Vịnh Xanh Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1034865242460429"
+        },
+        "instagramReel": {
+          "id": "18102314705336104"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "placeId": "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
+      "placeName": "Phu Quoc Local Guide - Snorkeling and Scuba Diving",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116550607313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18608294554044507"
+        }
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "placeId": "ChIJhwi1TFqTpzERiZQmfO7PxUY",
+      "placeName": "Rooty Trip Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "2507497156431490"
+        },
+        "instagramReel": {
+          "id": "18136494931596355"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "placeId": "ChIJHaad39SNpzERxyH_xEG63Kg",
+      "placeName": "Pacific Boat",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116549827313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18183593131410122"
+        }
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "placeId": "ChIJoXjKmgSNpzERianh5FZP7WE",
+      "placeName": "Kimie's Tours - Snorkeling, diving, & hiking",
+      "results": {
+        "facebookVideo": {
+          "id": "1776605276685837"
+        },
+        "instagramReel": {
+          "id": "18159591415430971"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "placeId": "ChIJB4_swjiNpzER0vsGaMBGTxg",
+      "placeName": "Onbird Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116549029313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17983080192027146"
+        }
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "placeId": "ChIJEYK7sD6LpzERgAa_oy1mPEg",
+      "placeName": "Basket Boat Tour & Kayak Tour (Dynasty Phu Quoc)",
+      "results": {
+        "facebookVideo": {
+          "id": "904090622196512"
+        },
+        "instagramReel": {
+          "id": "18110185553066807"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "placeId": "ChIJD6aTKogfCDERjiqIipRTAT8",
+      "placeName": "Công Viên Nước - Vinpearl Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116546911313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17941420047084784"
+        }
+      }
+    },
     {
       "date": "2026-07-29",
       "placeId": "ChIJ67MzfTqNpzERl5vEmwYkACQ",
@@ -3018,186 +3198,6 @@
         },
         "instagram": {
           "id": "18096894785580047"
-        }
-      }
-    },
-    {
-      "date": "2026-07-14",
-      "placeId": "ChIJfQAdSg2NpzEREkgYHVPn5dE",
-      "placeName": "Hi Coffee - 11 Trần Hưng Đạo - Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1632499414518899"
-        },
-        "instagramReel": {
-          "id": "17884140981671054"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-14",
-      "placeId": "ChIJpW9hndiNpzERaocRFppy0S4",
-      "placeName": "MR. VIET COFFEE OUTLET IN PHU QUOC",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113940133313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17924102397380556"
-        }
-      }
-    },
-    {
-      "date": "2026-07-14",
-      "placeId": "ChIJW-GcxKSNpzERmzxVnocLcZ4",
-      "placeName": "Buddy Ice Cream & Cafe",
-      "results": {
-        "facebookVideo": {
-          "id": "1014974921239951"
-        },
-        "instagramReel": {
-          "id": "18118483612877327"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-14",
-      "placeId": "ChIJi4uGpxKNpzERP7b_sLCQiqY",
-      "placeName": "GÓC CÀ PHÊ - Phú Quốc Riverside Coffee, Tea & Books",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113939281313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17869963749563384"
-        }
-      }
-    },
-    {
-      "date": "2026-07-13",
-      "placeId": "ChIJq6qqEz8eCDER7vOnb6Q6Ol8",
-      "placeName": "Radisson Blu Resort, Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1891573965135821"
-        },
-        "instagramReel": {
-          "id": "18026583653834075"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-13",
-      "placeId": "ChIJ44qAJhSLpzERXmrw41RYzJA",
-      "placeName": "Camia Resort & Spa",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113742589313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18106713095105563"
-        }
-      }
-    },
-    {
-      "date": "2026-07-13",
-      "placeId": "ChIJSTGCnBuLpzERx2KCLdVFKIk",
-      "placeName": "Mövenpick Resort Waverly Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1027076416602660"
-        },
-        "instagramReel": {
-          "id": "17916960714204137"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-13",
-      "placeId": "ChIJAQAAAECKpzERzt6bVEvLa-M",
-      "placeName": "Chen Sea Resort & Spa Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113741683313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18095021714618527"
-        }
-      }
-    },
-    {
-      "date": "2026-07-13",
-      "placeId": "ChIJsY399WOMpzER7lV4UDy_2w0",
-      "placeName": "Chuồn Chuồn Bistro & Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1593907948861508"
-        },
-        "instagramReel": {
-          "id": "18048630764569211"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-13",
-      "placeId": "ChIJ7fpDGamNpzERBaF8duO9WKY",
-      "placeName": "Bánh Mì & You",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113740675313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18129641923628327"
-        }
-      }
-    },
-    {
-      "date": "2026-07-13",
-      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
-      "placeName": "Jerry's Jungle Tours",
-      "results": {
-        "facebookVideo": {
-          "id": "2120234201905541"
-        },
-        "instagramReel": {
-          "id": "18112313845839650"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-13",
-      "placeId": "ChIJ2fu7BmGNpzERyc_w8wahNio",
-      "placeName": "GRACE'S TOUR PHÚ QUỐC- SIM CARD- MONEY EXCHANGE- ENGLISH SPEAKER- DIVING",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113739613313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18049233632790648"
         }
       }
     }
