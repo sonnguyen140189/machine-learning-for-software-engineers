@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists head to the night market. Locals shop here.\n\nChợ Dương Đông Phú Quốc is where Phu Quoc actually buys its fish, its produce, its breakfast. No performance. No tourist markup. Just the real supply chain of the island, loud and alive before 8am.\n\n4.3 stars across 406 reviews. Go early. Bring cash.\n\nShare with someone planning Vietnam.",
+    "video_caption": "Vendors stacking fresh catch at 6am. No English menus. No staged photos. This is Chợ Dương Đông Phú Quốc and it's where Phu Quoc's restaurants actually source their food.",
+    "first_comment": "#PhuQuoc #PhuQuocMarket #PhuQuocFood #VisitVietnam #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals shop here. Tourists don't know it yet.\n\nChợ Dương Đông Phú Quốc. 4.3★, 406 reviews. Go before 8am.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Fresh fish, morning chaos, zero tourist tax. Chợ Dương Đông Phú Quốc hits different at sunrise.",
+    "hashtags": "#PhuQuocFood #PhuQuocMarket #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "Where Phu Quoc actually eats. Skip the tourist market. Go here instead. #PhuQuoc #PhuQuocFood #VietnamTravel #MarketFinds"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Aerial: packed market stalls at dawn",
+      "Close-up: whole fresh fish on ice",
+      "Vendor scooping shrimp into bags",
+      "Locals haggling, no eye contact with camera",
+      "Steam rising from hot food stalls",
+      "Sign: Chợ Dương Đông Phú Quốc"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
