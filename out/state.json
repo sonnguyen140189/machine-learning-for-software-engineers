@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJjRr6GAKNpzERbsvxEBPABTc",
+    "ChIJc0P1PxmNpzERVBubA78Rpzc",
+    "ChIJfcl6s46NpzERvFpgYpkmGe0",
+    "ChIJbYvoSyqNpzER-Damlo13tio",
+    "ChIJixiLeACNpzER0bDJkqmR1Ac",
+    "ChIJeaUPhUuNpzERsYgZr-tG9Hw",
+    "ChIJ2fu7BmGNpzERyc_w8wahNio",
+    "ChIJDxCXXTSXpzERXI7z0X_H_Ow",
+    "ChIJZWGJPeONpzERce--tYenego",
+    "ChIJ2SBPKCONpzER36aEkpOGpyk",
+    "ChIJgw37s0-XpzERx2gWzxP5Qfg",
+    "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
     "ChIJ8zUfc5iXpzERSSpBZR01y2c",
     "ChIJjR83W0yNpzERUdxmKf-6ozw",
     "ChIJP5q2Xn2MpzERflLoidf2YAg",
@@ -187,21 +199,189 @@
     "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
     "ChIJBzbuPzwkCDER2xazM7W1GSc",
     "ChIJG0omSAeNpzERTWnB_Eaa4c8",
-    "ChIJT6Xejc2NpzERdkK-4arbWEI",
-    "ChIJ652atFCNpzERuDwXbWc_sTQ",
-    "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
-    "ChIJH58ibXKSpzERN59OMqttOUY",
-    "ChIJZeQC8fyNpzERl2rhcR8MCzE",
-    "ChIJK6PXziqyU2gREZvk_pErVag",
-    "ChIJ_QHQ2eWNpzER0VcwkboktMU",
-    "ChIJtXjS0ZiNpzERdRstZIXgHfw",
-    "ChIJNzL9GqEfCDERTQfv5j5Deik",
-    "ChIJjwG2SAAfCDERd7JcFN0UNTw",
-    "ChIJgwI3D_8fCDERzTBdqPmUa9M",
-    "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
-    "ChIJo5M0X62NpzERgrGHtWo8nCQ"
+    "ChIJT6Xejc2NpzERdkK-4arbWEI"
   ],
   "history": [
+    {
+      "date": "2026-07-31",
+      "placeId": "ChIJjRr6GAKNpzERbsvxEBPABTc",
+      "placeName": "EXMoney Phu Quoc Night Market | Currency Exchange",
+      "results": {
+        "facebookVideo": {
+          "id": "805757365896792"
+        },
+        "instagramReel": {
+          "id": "18109116407087319"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "placeId": "ChIJc0P1PxmNpzERVBubA78Rpzc",
+      "placeName": "PHU QUOC NIGHT MARKET & LOCAL FOOD",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116672797313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17974809786084151"
+        }
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "placeId": "ChIJfcl6s46NpzERvFpgYpkmGe0",
+      "placeName": "Chợ Dương Đông Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1407187804609062"
+        },
+        "instagramReel": {
+          "id": "18145386745541929"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "placeId": "ChIJbYvoSyqNpzER-Damlo13tio",
+      "placeName": "PHU QUOC CENTRE",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116671777313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17862137298659490"
+        }
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "placeId": "ChIJixiLeACNpzER0bDJkqmR1Ac",
+      "placeName": "LOCA - Night Market",
+      "results": {
+        "facebookVideo": {
+          "id": "2075084656551064"
+        },
+        "instagramReel": {
+          "id": "17940096108290780"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "placeId": "ChIJeaUPhUuNpzERsYgZr-tG9Hw",
+      "placeName": "Chợ đêm Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116670697313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18045794108649293"
+        }
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "placeId": "ChIJ2fu7BmGNpzERyc_w8wahNio",
+      "placeName": "GRACE'S TOUR PHÚ QUỐC- SIM CARD- MONEY EXCHANGE- ENGLISH SPEAKER- DIVING",
+      "results": {
+        "facebookVideo": {
+          "id": "1769098614428556"
+        },
+        "instagramReel": {
+          "id": "18101749790336240"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "placeId": "ChIJDxCXXTSXpzERXI7z0X_H_Ow",
+      "placeName": "Catamaran VN Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116669875313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18125291935672835"
+        }
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "placeId": "ChIJZWGJPeONpzERce--tYenego",
+      "placeName": "Алиса гид по Фукуоку",
+      "results": {
+        "facebookVideo": {
+          "id": "951801040653520"
+        },
+        "instagramReel": {
+          "id": "17872137408627186"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "placeId": "ChIJ2SBPKCONpzER36aEkpOGpyk",
+      "placeName": "Nice Tours Phu Quoc - Tailor Made Travel",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116668771313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18126490186675027"
+        }
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "placeId": "ChIJgw37s0-XpzERx2gWzxP5Qfg",
+      "placeName": "VEGAYACHTS - Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "903520892812130"
+        },
+        "instagramReel": {
+          "id": "18095074973457045"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "placeId": "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
+      "placeName": "Into The Blue - Phu Quoc Snorkeling Boat Trip",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116667721313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18072495674402919"
+        }
+      }
+    },
     {
       "date": "2026-07-30",
       "placeId": "ChIJ8zUfc5iXpzERSSpBZR01y2c",
@@ -3018,186 +3198,6 @@
         },
         "instagram": {
           "id": "17899218384538307"
-        }
-      }
-    },
-    {
-      "date": "2026-07-15",
-      "placeId": "ChIJ652atFCNpzERuDwXbWc_sTQ",
-      "placeName": "Quán Ăn 93",
-      "results": {
-        "facebookVideo": {
-          "id": "2759285497790985"
-        },
-        "instagramReel": {
-          "id": "18002292935961746"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-15",
-      "placeId": "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
-      "placeName": "Phu Quoc Street Food Tour - Eat with Locals, Drink with Locals",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114125449313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph /17841415599286595/media failed: {\"error\":{\"message\":\"Only photo or video can be accepted as media type.\",\"type\":\"OAuthException\",\"code\":9004,\"error_subcode\":2207052,\"is_transient\":false,\"error_user_title\":\"Media download has failed. The media URI doesn't meet our requirements.\",\"error_user_msg\":\"The media could not be fetched from this URI: https://sonnguyen140189.github.io/machine-learning-for-software-engineers/out/media/2026-07-15-RBPnWDk-EEcc-5.jpg.Please check the limitations section in our development document for more information: https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/media#creating\",\"fbtrace_id\":\"ARjn3iNliZRXjtP8rxRHvRA\"}}"
-        }
-      }
-    },
-    {
-      "date": "2026-07-15",
-      "placeId": "ChIJH58ibXKSpzERN59OMqttOUY",
-      "placeName": "Best Western Premier Sonasea Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1567968614691413"
-        },
-        "instagramReel": {
-          "id": "18024448835894029"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-15",
-      "placeId": "ChIJZeQC8fyNpzERl2rhcR8MCzE",
-      "placeName": "Antinho Green Travel",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114124465313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18463176955114783"
-        }
-      }
-    },
-    {
-      "date": "2026-07-14",
-      "placeId": "ChIJK6PXziqyU2gREZvk_pErVag",
-      "placeName": "Dgold Spa - body massage, foot massage, shampoo, nail",
-      "results": {
-        "facebookVideo": {
-          "id": "989374164097032"
-        },
-        "instagramReel": {
-          "error": "IG container 18139018657519977: Error: Media upload has failed with error code 2207077"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-14",
-      "placeId": "ChIJ_QHQ2eWNpzER0VcwkboktMU",
-      "placeName": "Golden Foot Massage Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113943727313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18098024174603471"
-        }
-      }
-    },
-    {
-      "date": "2026-07-14",
-      "placeId": "ChIJtXjS0ZiNpzERdRstZIXgHfw",
-      "placeName": "Nala Spa - chợ đêm Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1623344929406170"
-        },
-        "instagramReel": {
-          "id": "18149714308456229"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-14",
-      "placeId": "ChIJNzL9GqEfCDERTQfv5j5Deik",
-      "placeName": "Vinpearl Land Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113942875313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17875953885653916"
-        }
-      }
-    },
-    {
-      "date": "2026-07-14",
-      "placeId": "ChIJjwG2SAAfCDERd7JcFN0UNTw",
-      "placeName": "Vinpearl Resort Phu Quoc lobby",
-      "results": {
-        "facebookVideo": {
-          "id": "1935864187818934"
-        },
-        "instagramReel": {
-          "id": "18369959515239737"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-14",
-      "placeId": "ChIJgwI3D_8fCDERzTBdqPmUa9M",
-      "placeName": "VinWonders Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113941999313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18067698371460870"
-        }
-      }
-    },
-    {
-      "date": "2026-07-14",
-      "placeId": "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
-      "placeName": "Ham Ninh fishing town",
-      "results": {
-        "facebookVideo": {
-          "id": "4352525788411067"
-        },
-        "instagramReel": {
-          "id": "18104417993111738"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-14",
-      "placeId": "ChIJo5M0X62NpzERgrGHtWo8nCQ",
-      "placeName": "MIX BAKERY COFFEE & TEA",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122113941075313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18096894785580047"
         }
       }
     }
