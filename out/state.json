@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJo5M0X62NpzERgrGHtWo8nCQ",
+    "ChIJ44qAJhSLpzERXmrw41RYzJA",
+    "ChIJH58ibXKSpzERN59OMqttOUY",
+    "ChIJqRVKTQCNpzERsx1uOscL2Fo",
+    "ChIJ5eqLUm2NpzERURd3wi62JoM",
+    "ChIJlVd-PKCNpzER4kuW6-aFtAc",
+    "ChIJdzmotOqNpzER3SFTNOAxFC4",
+    "ChIJi-z2ewCNpzER4P73e0T61VE",
+    "ChIJG95PVOeNpzERkFIrScFenIo",
+    "ChIJYREw3iyNpzER4MEeLlm9Ju4",
+    "ChIJOS1SBvaNpzER_8gRpU5tGKI",
+    "ChIJf3chCACNpzER9HKozVLUOpA",
     "ChIJjRr6GAKNpzERbsvxEBPABTc",
     "ChIJc0P1PxmNpzERVBubA78Rpzc",
     "ChIJfcl6s46NpzERvFpgYpkmGe0",
@@ -187,21 +199,189 @@
     "ChIJq2ddr5WRpzERGEYb5TieBgs",
     "ChIJL3-4s1GMpzER_eOIkH6lzQU",
     "ChIJGwH_ahaMpzERJpuLzwfyyNQ",
-    "ChIJl1Ayn9aNpzERF5-boB6Ec3c",
-    "ChIJR0Eq5IeMpzER7hzZw3l9NSw",
-    "ChIJfVqVdoeMpzERX-ZG1WyAvMA",
-    "ChIJcUfuO36MpzER-YtnHO2vDD0",
-    "ChIJi0veCZmLpzER_TFGrkrELl8",
-    "ChIJi-IOoMAhCDERa4OjwqccyHM",
-    "ChIJJdya9E71pzERTu4abOIfjls",
-    "ChIJBz09gZgfCDERzAyxFBp-iDM",
-    "ChIJq-YgJcuNpzER37aiRi5HfVo",
-    "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
-    "ChIJBzbuPzwkCDER2xazM7W1GSc",
-    "ChIJG0omSAeNpzERTWnB_Eaa4c8",
-    "ChIJT6Xejc2NpzERdkK-4arbWEI"
+    "ChIJl1Ayn9aNpzERF5-boB6Ec3c"
   ],
   "history": [
+    {
+      "date": "2026-08-01",
+      "placeId": "ChIJo5M0X62NpzERgrGHtWo8nCQ",
+      "placeName": "MIX BAKERY COFFEE & TEA",
+      "results": {
+        "facebookVideo": {
+          "id": "2106218376985649"
+        },
+        "instagramReel": {
+          "id": "18093378620296743"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "placeId": "ChIJ44qAJhSLpzERXmrw41RYzJA",
+      "placeName": "Camia Resort & Spa",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116799259313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18119823145869668"
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "placeId": "ChIJH58ibXKSpzERN59OMqttOUY",
+      "placeName": "Best Western Premier Sonasea Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1583284566639843"
+        },
+        "instagramReel": {
+          "id": "18482743405098078"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "placeId": "ChIJqRVKTQCNpzERsx1uOscL2Fo",
+      "placeName": "Gujarat Indian Restaurant Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116798203313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18123972631792064"
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "placeId": "ChIJ5eqLUm2NpzERURd3wi62JoM",
+      "placeName": "Cơm chay tự chọn Bồ Đề Chay",
+      "results": {
+        "facebookVideo": {
+          "id": "1740577987092173"
+        },
+        "instagramReel": {
+          "id": "18360686782246614"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "placeId": "ChIJlVd-PKCNpzER4kuW6-aFtAc",
+      "placeName": "Rajwadi Zaikah Indian Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116797309313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17877585054622629"
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "placeId": "ChIJdzmotOqNpzER3SFTNOAxFC4",
+      "placeName": "Krishna Garden Pure Veg Indian Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "4022704638032789"
+        },
+        "instagramReel": {
+          "id": "18075848186398173"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "placeId": "ChIJi-z2ewCNpzER4P73e0T61VE",
+      "placeName": "CƠM CHAY HIỀN ĐỨC",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116796349313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18046243037802111"
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "placeId": "ChIJG95PVOeNpzERkFIrScFenIo",
+      "placeName": "Sen River Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "1042755951815453"
+        },
+        "instagramReel": {
+          "id": "18421929373194385"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "placeId": "ChIJYREw3iyNpzER4MEeLlm9Ju4",
+      "placeName": "Nhà hàng Chay Minh Tâm",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116795461313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18095807654524467"
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "placeId": "ChIJOS1SBvaNpzER_8gRpU5tGKI",
+      "placeName": "Nora’s Cafe - Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "1366536805662142"
+        },
+        "instagramReel": {
+          "id": "18112482772767515"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "placeId": "ChIJf3chCACNpzER9HKozVLUOpA",
+      "placeName": "Desi Indian Restaurant (Pure Veg)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122116794489313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18096933992008527"
+        }
+      }
+    },
     {
       "date": "2026-07-31",
       "placeId": "ChIJjRr6GAKNpzERbsvxEBPABTc",
@@ -3018,186 +3198,6 @@
         },
         "instagram": {
           "id": "18109330153958100"
-        }
-      }
-    },
-    {
-      "date": "2026-07-16",
-      "placeId": "ChIJR0Eq5IeMpzER7hzZw3l9NSw",
-      "placeName": "Sùng Hưng Cổ Tự",
-      "results": {
-        "facebookVideo": {
-          "id": "1578575246975467"
-        },
-        "instagramReel": {
-          "id": "18331931506284076"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-16",
-      "placeId": "ChIJfVqVdoeMpzERX-ZG1WyAvMA",
-      "placeName": "Cao Dai Temple of Phu-Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114280081313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18128166301628758"
-        }
-      }
-    },
-    {
-      "date": "2026-07-16",
-      "placeId": "ChIJcUfuO36MpzER-YtnHO2vDD0",
-      "placeName": "Hung Quoc Tu Pagoda",
-      "results": {
-        "facebookVideo": {
-          "id": "1345847930392640"
-        },
-        "instagramReel": {
-          "id": "18119770573842197"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-16",
-      "placeId": "ChIJi0veCZmLpzER_TFGrkrELl8",
-      "placeName": "Hung Nhi Son Pagoda",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114279241313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17876848971618801"
-        }
-      }
-    },
-    {
-      "date": "2026-07-15",
-      "placeId": "ChIJi-IOoMAhCDERa4OjwqccyHM",
-      "placeName": "Mussel Beach grooves",
-      "results": {
-        "facebookVideo": {
-          "id": "1339088911685621"
-        },
-        "instagramReel": {
-          "id": "18359438215210461"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-15",
-      "placeId": "ChIJJdya9E71pzERTu4abOIfjls",
-      "placeName": "Milana Beach Resort & Spa Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114129193313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18094413650357608"
-        }
-      }
-    },
-    {
-      "date": "2026-07-15",
-      "placeId": "ChIJBz09gZgfCDERzAyxFBp-iDM",
-      "placeName": "Bai Dai beach",
-      "results": {
-        "facebookVideo": {
-          "id": "2483991555439425"
-        },
-        "instagramReel": {
-          "id": "18107336036092405"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-15",
-      "placeId": "ChIJq-YgJcuNpzER37aiRi5HfVo",
-      "placeName": "Phu Quoc Beach",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114128497313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18161903428461763"
-        }
-      }
-    },
-    {
-      "date": "2026-07-15",
-      "placeId": "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
-      "placeName": "Istanbul Beach Club Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1974276216555320"
-        },
-        "instagramReel": {
-          "id": "18093308624566838"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-15",
-      "placeId": "ChIJBzbuPzwkCDER2xazM7W1GSc",
-      "placeName": "Thom Beach Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114127357313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18057747236750517"
-        }
-      }
-    },
-    {
-      "date": "2026-07-15",
-      "placeId": "ChIJG0omSAeNpzERTWnB_Eaa4c8",
-      "placeName": "Bếp An Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "2484056105401258"
-        },
-        "instagramReel": {
-          "id": "18598371637017632"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-15",
-      "placeId": "ChIJT6Xejc2NpzERdkK-4arbWEI",
-      "placeName": "Nhà Xưa 68",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114126343313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17899218384538307"
         }
       }
     }
