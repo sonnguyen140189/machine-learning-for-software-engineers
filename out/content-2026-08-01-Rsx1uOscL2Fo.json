@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 532 reviews. On a beach island in Vietnam. Gujarat Indian Restaurant Phu Quoc delivers the real thing on Đường Trần Hưng Đạo. Butter chicken, fresh naan, proper spice levels. No watered-down tourist versions here. If you're craving a break from seafood, this is your spot. Save this for your Phu Quoc trip.",
+    "video_caption": "Steaming curry. Charred naan straight from the tandoor. 532 people rated Gujarat Indian Restaurant Phu Quoc 4.7 stars and they were not wrong. Find it on Đường Trần Hưng Đạo.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #IndianFoodVietnam #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocRestaurants #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 532 reviews. Indian food on a Vietnamese island. Gujarat Indian Restaurant Phu Quoc earns every one. Tag your travel buddy.",
+    "video_caption": "Naan hits the table. Curry poured fresh. 532 reviews say Gujarat Indian Restaurant Phu Quoc is worth every bite.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #IndianFoodVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.7 stars, 532 reviews, Indian food in Phu Quoc. Gujarat Indian Restaurant does not miss. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.7★. 532 reviews. Phu Quoc.",
+    "scenes": [
+      "Close-up: naan pulled from tandoor",
+      "Pour shot: butter chicken over rice",
+      "Wide: busy dining room, locals and tourists",
+      "Zoom in: 4.7 star rating on screen",
+      "Exterior: sign at Đường Trần Hưng Đạo"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

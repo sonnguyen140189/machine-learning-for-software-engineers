@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this one. A pure veg Indian restaurant on Phu Quoc, 4.8 stars, and barely anyone from the resort crowd knows it exists. Desi Indian Restaurant sits near Cầu Bà Phong in Cửa Lấp, off the path most visitors never take. If you're Indian, vegetarian, or just done with seafood for three days straight, this is the fix. Save this for your Phu Quoc trip.",
+    "video_caption": "Pure veg Indian food. On Phu Quoc. 4.8 stars. Desi Indian Restaurant near Cầu Bà Phong is the one the resort menus don't want you finding. Worth the detour.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFoodAbroad #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this. Pure veg Indian. 4.8 stars. Phu Quoc. Desi Indian Restaurant near Cầu Bà Phong is the real one. Save this.",
+    "video_caption": "Done with seafood? Pure veg Indian on Phu Quoc hits different. Desi Indian Restaurant. 4.8 stars. Go find it.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #VegetarianTravel #IndianFoodAbroad #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Pure veg Indian food on Phu Quoc and it's rated 4.8. Desi Indian Restaurant near Cầu Bà Phong. Don't sleep on this. #PhuQuoc #PhuQuocFood #VegetarianTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep missing this.",
+    "scenes": [
+      "Pan across restaurant exterior near Cầu Bà Phong",
+      "Close-up: steaming curry lands on table",
+      "Cut to fresh bread, vibrant dal, plated thali",
+      "Reviewer rating 4.8 stars shown on screen",
+      "Owner or staff smiling, serving a dish"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

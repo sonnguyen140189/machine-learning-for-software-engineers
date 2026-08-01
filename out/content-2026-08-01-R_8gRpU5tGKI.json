@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 1,125 reviews. Nora's Cafe - Restaurant in Cửa Lấp is not a fluke.\n\nThis is the kind of local spot that earns that rating one plate at a time. Sitting just off Hem Chua Ong, away from the main tourist drag, the regulars keep coming back. The numbers tell you why.\n\nAdd this to your Phu Quoc itinerary before the crowds figure it out.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "1,125 people reviewed Nora's Cafe - Restaurant in Cửa Lấp. They averaged 4.7 stars. Watch what keeps them coming back.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 1,125 reviews. Nora's Cafe - Restaurant in Cửa Lấp earns every one.\n\nOff the main strip. Real regulars. Save this for your Phu Quoc trip.",
+    "video_caption": "1,125 reviews at 4.7 stars. Nora's Cafe - Restaurant, Cửa Lấp. The locals already know.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #CuaLap #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.7 stars. 1,125 reviews. Nora's Cafe - Restaurant in Cửa Lấp is the real deal. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.7★, 1,125 reviews.",
+    "scenes": [
+      "Approach down Hem Chua Ong lane",
+      "Exterior sign: Nora's Cafe framed",
+      "Packed tables, regulars eating",
+      "Close-up: food arriving at table",
+      "Phone screen: 4.7 stars, 1,125 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
