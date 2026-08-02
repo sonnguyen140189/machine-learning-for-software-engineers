@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you took a wrong turn in the jungle and found a waterfall instead.\n\nFairy Waterfall sits in the north of Phu Quoc, away from the beach crowds. 4.3 stars across 210 reviews. Not massive. Not loud. Just cold fresh water, green canopy overhead, and zero beach vendors.\n\nWear shoes you can get wet. Go early. The light through the trees before 9am is worth the drive alone.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Cold water. No crowds. Just jungle sounds and a waterfall earning 4.3 stars from 210 people who made the same detour. Fairy Waterfall, Phu Quoc. Worth every muddy step.",
+    "first_comment": "#PhuQuoc #PhuQuocWaterfall #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn in Phu Quoc jungle. Found this. 4.3★, 210 reviews, zero beach vendors.\n\nFairy Waterfall. Go early. Tag your travel buddy.",
+    "video_caption": "Cold water hits different after a jungle hike. Fairy Waterfall, Phu Quoc. 4.3★ and worth every muddy step.",
+    "hashtags": "#PhuQuocWaterfall #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocAdventure #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn. Found a waterfall. Zero regrets. #PhuQuoc #PhuQuocWaterfall #VietnamTravel #TravelTips #TravelReels"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Found a waterfall.",
+    "scenes": [
+      "Muddy jungle path, feet stepping through roots",
+      "Canopy opens, waterfall comes into frame",
+      "Hand touching cold rushing water",
+      "Wide shot, green walls, mist rising",
+      "Solo traveler standing under the falls"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "563 reviews. 4.0 stars. Suoi Tranh Waterfall keeps getting people back.\n\nMost visitors pass through Phu Quoc without leaving the beach strip. This one makes you walk into the jungle, hear the water before you see it, and actually feel like you went somewhere.\n\nSuối Tranh is on TL47 in Suối Mây. Easy to reach, easy to underestimate.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Water crashing through jungle in the middle of Phu Quoc. 563 people reviewed Suối Tranh and it still feels like no one talks about it. Add this to the itinerary.",
+    "first_comment": "#PhuQuoc #PhuQuocWaterfall #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "563 reviews. Phu Quoc has a waterfall. Suối Tranh, jungle trail, zero beach crowds.\n\nTag your travel buddy.",
+    "video_caption": "Jungle waterfall in the middle of Phu Quoc. Suối Tranh hits different after a beach day.",
+    "hashtags": "#PhuQuocWaterfall #PhuQuocNature #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc has a waterfall and most tourists never find it. Suối Tranh, 563 reviews, worth the detour. #PhuQuoc #PhuQuocWaterfall #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "563 reviews. Phu Quoc waterfall.",
+    "scenes": [
+      "Drone pull back over jungle canopy",
+      "Boots hitting dirt trail through trees",
+      "Sound of water growing louder",
+      "First reveal shot of Suối Tranh falls",
+      "Slow pan across rocks and rushing water",
+      "Sign: Suối Tranh, TL47, Suối Mây"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

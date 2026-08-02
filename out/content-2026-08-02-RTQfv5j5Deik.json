@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars. Bãi Dài beachfront. 151 reviews say the same thing. Vinpearl Land Phú Quốc is not a small deal. Full resort complex, water park, rides, and a beach that most day-trippers never reach. Pack light. Stay longer. Save this for your Phu Quoc trip.",
+    "video_caption": "Rides, waves, and a 4.5-star resort all on one strip of Bãi Dài. Vinpearl Land Phú Quốc on camera. Watch till the end.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #VinpearlPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.5 stars. 151 reviews. Bãi Dài beachfront. Vinpearl Land Phú Quốc delivers. Save this for your Phu Quoc trip.",
+    "video_caption": "Water park plus private beach. Vinpearl Land Phú Quốc. 4.5 stars. Bãi Dài. Go.",
+    "hashtags": "#PhuQuocResort #PhuQuocBeaches #VinpearlPhuQuoc #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.5 stars on Bãi Dài. Resort, water park, beach. Vinpearl Land Phú Quốc. #PhuQuoc #VinpearlPhuQuoc #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.5★ BEACHFRONT. 151 REVIEWS.",
+    "scenes": [
+      "Drone pull back over Bãi Dài coastline",
+      "Gate entrance, guests walking in",
+      "Water park slides, riders descending",
+      "Beach chairs lined up, calm water",
+      "Resort pool at golden hour"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

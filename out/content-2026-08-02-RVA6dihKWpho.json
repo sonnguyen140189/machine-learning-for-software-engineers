@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "813 reviews. 4.6 stars. And most tourists walk straight past it.\n\nVinwonders Fountain in Phu Quoc is the kind of spectacle that stops you mid-step. Water, light, and sound synced together in a way that genuinely earns those ratings.\n\nGo at night. The difference is not small.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Water and light moving in sync. 813 people rated this 4.6 stars at Vinwonders Fountain, Phu Quoc. Watch it at night and you'll understand why.",
+    "first_comment": "#PhuQuoc #PhuQuocThingsToDo #VinwondersPhuQuoc #VisitVietnam #TravelTips #PhuQuocTravel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "813 reviews. 4.6 stars. Vinwonders Fountain hits different after dark.\n\nTag your travel buddy.",
+    "video_caption": "Lights. Water. 813 people said 4.6 stars. Vinwonders Fountain earns it at night.",
+    "hashtags": "#PhuQuocThingsToDo #VinwondersPhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocTravel #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "813 reviews. 4.6 stars. Vinwonders Fountain at night is unreal. #PhuQuoc #VinwondersPhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "813 reviews. 4.6 stars.",
+    "scenes": [
+      "Wide shot: fountain plaza at dusk",
+      "Close up: water jets syncing to music",
+      "Crowd reaction, faces lit by color",
+      "Overhead angle: full fountain pattern",
+      "Night mode: lights reflecting on water"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

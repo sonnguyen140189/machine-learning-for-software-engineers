@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. Khu du lịch Suối Tranh sits inside Phu Quoc's jungle, and most visitors never make it here. Waterfall trails, river pools, and almost zero crowds. 4.3 stars across 213 reviews and it still flies under the radar. Skip the beach for one morning. This is worth it. Save this for your Phu Quoc trip.",
+    "video_caption": "Jungle trails, river pools, and nobody around. Khu du lịch Suối Tranh is the Phu Quoc hike most tourists completely miss. 4.3 stars. 213 reviews. Still quiet. Go before that changes.",
+    "first_comment": "#PhuQuoc #PhuQuocNature #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocHiking #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this trail. Khu du lịch Suối Tranh. 4.3★, 213 reviews, still no crowds. Tag your travel buddy.",
+    "video_caption": "Jungle. Waterfalls. Zero tourists. Khu du lịch Suối Tranh hits different on a quiet morning.",
+    "hashtags": "#PhuQuocNature #PhuQuocHiking #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc hike nobody talks about. Khu du lịch Suối Tranh. Jungle trails, river pools, no crowds. #PhuQuoc #PhuQuocHiking #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Drone pulls back over dense jungle canopy",
+      "Trail entrance sign: Khu du lịch Suối Tranh",
+      "Feet stepping over roots on dirt path",
+      "Waterfall crashing into clear rock pool",
+      "Wide shot: empty trail, no other visitors",
+      "Hand skimming river water, slow motion"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
