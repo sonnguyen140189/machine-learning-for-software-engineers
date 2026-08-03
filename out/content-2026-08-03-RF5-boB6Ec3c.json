@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes the noise in your head. Chùa Hưng Sơn sits quietly in Khu Phố 7, Phú Quốc, and most tourists drive straight past it. 4.8 stars. Almost no crowds. Incense in the air, orange rooftops, complete stillness. Bring no agenda. Stay as long as you want. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what happens when you step inside Chùa Hưng Sơn. The city noise just stops. Orange rooftops, soft incense smoke, zero tour groups. This is the Phu Quoc most visitors never find.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #PhuQuocTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes the noise in your head. Chùa Hưng Sơn, Phú Quốc. 4.8★, almost no crowds. Save this.",
+    "video_caption": "Orange rooftops. Incense smoke. No tour buses. Chùa Hưng Sơn is the quiet Phu Quoc actually delivers.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTravel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CultureTravel"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc spot that actually resets you. Chùa Hưng Sơn. No crowds. 4.8★. #PhuQuoc #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place resets you.",
+    "scenes": [
+      "Exterior gate, wide shot, morning light",
+      "Slow push through incense smoke",
+      "Close-up: orange roof tiles, clear sky",
+      "Empty courtyard, lone visitor walking",
+      "Hands pressed together at the altar"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

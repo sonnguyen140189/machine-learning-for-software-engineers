@@ -1,0 +1,522 @@
+{
+  "stamp": "2026-08-03",
+  "items": [
+    {
+      "placeId": "ChIJCzimRUaRpzER1jlvynsq6ko",
+      "placeName": "Hộ Quốc Temple",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-03-R1jlvynsq6ko-0.jpg",
+        "out/media/2026-08-03-R1jlvynsq6ko-1.jpg",
+        "out/media/2026-08-03-R1jlvynsq6ko-2.jpg",
+        "out/media/2026-08-03-R1jlvynsq6ko-3.jpg",
+        "out/media/2026-08-03-R1jlvynsq6ko-4.jpg",
+        "out/media/2026-08-03-R1jlvynsq6ko-5.jpg",
+        "out/media/2026-08-03-R1jlvynsq6ko-6.jpg",
+        "out/media/2026-08-03-R1jlvynsq6ko-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you take a random road in Phu Quoc and end up here.\n\nHộ Quốc Temple sits on the hillside like it belongs to a different century. Red gates, incense smoke, ocean somewhere behind you. 4.7 stars across 1,378 reviews and most tourists drive straight past.\n\nBring water. Wear covered shoulders. Go early before the heat wins.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Walking through the gates of Hộ Quốc Temple at golden hour. Incense smoke, red lanterns, and 1,378 people gave it 4.7 stars. Most visitors never stop here. Don't be one of them.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #PhuQuocTips #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "POV: wrong turn. Found Hộ Quốc Temple. 4.7★, 1,378 reviews, zero crowds.\n\nCovered shoulders. Go early. Save this.",
+          "video_caption": "Red gates. Incense smoke. Ocean behind you. Hộ Quốc Temple hits different when you stumble onto it.",
+          "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #HiddenPhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Took a wrong turn in Phu Quoc. Found Hộ Quốc Temple. 4.7★ and nobody here. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Wrong turn. Found this.",
+          "scenes": [
+            "Drone pull-back reveals temple on hillside",
+            "Push through red entrance gates",
+            "Close-up: incense smoke curling upward",
+            "Wide shot: tiered rooftops, ocean backdrop",
+            "Visitor pausing, looking up at main hall"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJgQRYpz-MpzER_PdUT7NFsIM",
+      "placeName": "Su Muon Pagoda",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-03-R_PdUT7NFsIM-0.jpg",
+        "out/media/2026-08-03-R_PdUT7NFsIM-1.jpg",
+        "out/media/2026-08-03-R_PdUT7NFsIM-2.jpg",
+        "out/media/2026-08-03-R_PdUT7NFsIM-3.jpg",
+        "out/media/2026-08-03-R_PdUT7NFsIM-4.jpg",
+        "out/media/2026-08-03-R_PdUT7NFsIM-5.jpg",
+        "out/media/2026-08-03-R_PdUT7NFsIM-6.jpg",
+        "out/media/2026-08-03-R_PdUT7NFsIM-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-03-R_PdUT7NFsIM.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this. Su Muon Pagoda sits off the main drag and almost nobody on a resort itinerary finds it. 4.4 stars across 510 reviews from people who actually made the detour. Incense, quiet courtyards, zero tour buses. This is Phu Quoc before the beach crowds wake up. Save this for your Phu Quoc trip.",
+          "video_caption": "Step inside Su Muon Pagoda while the rest of Phu Quoc is still at the pool. 510 reviews. Barely a tourist in sight. This is what the island looks like when you go off-script.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #PhuQuocTips #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "Locals don't post about Su Muon Pagoda. 4.4 stars. 510 reviews. Zero tour buses. Save this for your Phu Quoc trip.",
+          "video_caption": "Off-script Phu Quoc. Su Muon Pagoda. 510 reviews and still no crowds.",
+          "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #HiddenPhuQuoc"
+        },
+        "tiktok": {
+          "caption": "The Phu Quoc temple tourists keep skipping. Big mistake. #PhuQuoc #PhuQuocTips #VietnamTravel #TempleOfVietnam"
+        },
+        "video_script": {
+          "hook": "Tourists keep skipping this.",
+          "scenes": [
+            "Exterior gate of Su Muon Pagoda, no crowds",
+            "Slow pan across incense smoke rising",
+            "Close-up of ornate roof detail",
+            "Empty courtyard, golden morning light",
+            "Rating card: 4.4 stars, 510 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJi0veCZmLpzER_TFGrkrELl8",
+      "placeName": "Hung Nhi Son Pagoda",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-03-R_TFGrkrELl8-0.jpg",
+        "out/media/2026-08-03-R_TFGrkrELl8-1.jpg",
+        "out/media/2026-08-03-R_TFGrkrELl8-2.jpg",
+        "out/media/2026-08-03-R_TFGrkrELl8-3.jpg",
+        "out/media/2026-08-03-R_TFGrkrELl8-4.jpg",
+        "out/media/2026-08-03-R_TFGrkrELl8-5.jpg",
+        "out/media/2026-08-03-R_TFGrkrELl8-6.jpg",
+        "out/media/2026-08-03-R_TFGrkrELl8-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this. Hung Nhi Son Pagoda sits quietly on Phu Quoc while the crowds chase beaches and night markets. 4.6 stars. 59 reviews. Almost no foreign visitors. Incense smoke, dragon carvings, total silence in the middle of the day. This is the Phu Quoc most people never see. Save this for your Phu Quoc trip.",
+          "video_caption": "Dragon gates, burning incense, zero tour groups. Hung Nhi Son Pagoda is one of Phu Quoc's least-visited temples and it looks like this. 4.6 stars and almost nobody knows it exists.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about Hung Nhi Son Pagoda. 4.6 stars, 59 reviews, zero tour buses. Go early. Tag your travel buddy.",
+          "video_caption": "Incense, silence, dragon carvings. Hung Nhi Son Pagoda is the Phu Quoc spot tourists walk straight past.",
+          "hashtags": "#PhuQuoc #PhuQuocTemple #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #VisitVietnam"
+        },
+        "tiktok": {
+          "caption": "The Phu Quoc temple tourists never find. Go before they do. #PhuQuoc #PhuQuocTemple #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Tourists keep walking past this.",
+          "scenes": [
+            "Pan up ornate dragon gate entrance",
+            "Close-up of incense smoke rising",
+            "Wide shot of empty courtyard midday",
+            "Slow tilt across carved temple facade",
+            "Cut to 4.6 stars text on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJcUfuO36MpzER-YtnHO2vDD0",
+      "placeName": "Hung Quoc Tu Pagoda",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-03-R-YtnHO2vDD0-0.jpg",
+        "out/media/2026-08-03-R-YtnHO2vDD0-1.jpg",
+        "out/media/2026-08-03-R-YtnHO2vDD0-2.jpg",
+        "out/media/2026-08-03-R-YtnHO2vDD0-3.jpg",
+        "out/media/2026-08-03-R-YtnHO2vDD0-4.jpg",
+        "out/media/2026-08-03-R-YtnHO2vDD0-5.jpg",
+        "out/media/2026-08-03-R-YtnHO2vDD0-6.jpg",
+        "out/media/2026-08-03-R-YtnHO2vDD0-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-03-R-YtnHO2vDD0.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this. Hung Quoc Tu Pagoda sits quietly on Nguyễn Trung Trực while most visitors head to the beach. Dragon details on every surface. Incense smoke drifting through open courtyards. Zero tour groups. Phu Quoc has a slower side and this is it. 4.5 stars from the people who actually stopped. Save this for your Phu Quoc trip.",
+          "video_caption": "Step inside Hung Quoc Tu Pagoda and the beach noise disappears. Carved dragons, burning incense, empty courtyards. This is the Phu Quoc most people never see.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips"
+        },
+        "instagram": {
+          "caption": "Tourists keep walking past this. Hung Quoc Tu Pagoda, 4.5 stars, almost always empty. Save this for your trip.",
+          "video_caption": "Dragons, incense, zero crowds. Hung Quoc Tu Pagoda is the Phu Quoc pause you didn't plan for.",
+          "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #HiddenPhuQuoc"
+        },
+        "tiktok": {
+          "caption": "The pagoda tourists walk straight past in Phu Quoc. 4.5 stars. Never crowded. #PhuQuoc #VietnamTravel #PhuQuocTips"
+        },
+        "video_script": {
+          "hook": "Tourists keep walking past this.",
+          "scenes": [
+            "Exterior gate reveal, slow push in",
+            "Dragon carvings, tight close-up pan",
+            "Incense smoke rising, wide courtyard shot",
+            "Empty prayer hall, natural light only",
+            "Hands placing offering, ground-level angle"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJfVqVdoeMpzERX-ZG1WyAvMA",
+      "placeName": "Cao Dai Temple of Phu-Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-03-RX-ZG1WyAvMA-0.jpg",
+        "out/media/2026-08-03-RX-ZG1WyAvMA-1.jpg",
+        "out/media/2026-08-03-RX-ZG1WyAvMA-2.jpg",
+        "out/media/2026-08-03-RX-ZG1WyAvMA-3.jpg",
+        "out/media/2026-08-03-RX-ZG1WyAvMA-4.jpg",
+        "out/media/2026-08-03-RX-ZG1WyAvMA-5.jpg",
+        "out/media/2026-08-03-RX-ZG1WyAvMA-6.jpg",
+        "out/media/2026-08-03-RX-ZG1WyAvMA-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight to the beach. Locals know about this place.\n\nThe Cao Dai Temple on Đường Nguyễn Trãi is one of Phu Quoc's most visually striking buildings and most visitors never step inside. Bright colors, intricate detail, total quiet. A 10-minute stop that completely resets your day.\n\nNo entry fee. No crowds. Just show up respectfully dressed.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Color everywhere. Zero tourists. The Cao Dai Temple on Phu Quoc is the most photogenic 10-minute detour on the island. Dress respectfully and walk straight in.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #PhuQuocTips #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "Tourists keep walking past this.\n\nCao Dai Temple, Phu Quoc. Free entry. Zero crowds. 10 minutes from the main strip.\n\nTag your travel buddy.",
+          "video_caption": "Stepped inside. Completely empty. Cao Dai Temple is Phu Quoc's most overlooked stop.",
+          "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #CaoDai"
+        },
+        "tiktok": {
+          "caption": "No one talks about this Phu Quoc temple. Free entry, zero crowds, full color. #PhuQuoc #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Tourists keep walking past this.",
+          "scenes": [
+            "Exterior shot, full temple facade",
+            "Slow pan up the colorful columns",
+            "Empty interior, natural light flooding in",
+            "Close-up of symbolic eye motif",
+            "Wide shot, visitor standing alone inside"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJR0Eq5IeMpzER7hzZw3l9NSw",
+      "placeName": "Sùng Hưng Cổ Tự",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-03-R7hzZw3l9NSw-0.jpg",
+        "out/media/2026-08-03-R7hzZw3l9NSw-1.jpg",
+        "out/media/2026-08-03-R7hzZw3l9NSw-2.jpg",
+        "out/media/2026-08-03-R7hzZw3l9NSw-3.jpg",
+        "out/media/2026-08-03-R7hzZw3l9NSw-4.jpg",
+        "out/media/2026-08-03-R7hzZw3l9NSw-5.jpg",
+        "out/media/2026-08-03-R7hzZw3l9NSw-6.jpg",
+        "out/media/2026-08-03-R7hzZw3l9NSw-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-03-R7hzZw3l9NSw.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this. Sùng Hưng Cổ Tự sits right on Đường Trần Hưng Đạo and almost nobody stops. One of Phu Quoc's oldest Chinese-Buddhist temples. Dragon pillars, incense smoke, total quiet. Free to enter. Takes 20 minutes. Feels like a different island. Save this for your Phu Quoc trip.",
+          "video_caption": "Step inside Sùng Hưng Cổ Tự while everyone else heads to the beach. Incense, dragon carvings, zero crowds. This is Phu Quoc at its most local.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "Tourists walk straight past this temple. Sùng Hưng Cổ Tự, free entry, zero crowds. Tag your travel buddy.",
+          "video_caption": "Dragon pillars. Incense clouds. Nobody else here. Sùng Hưng Cổ Tự hits different.",
+          "hashtags": "#PhuQuocTemple #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #CultureTravel"
+        },
+        "tiktok": {
+          "caption": "Walked past 3 times before going in. Don't be me. Sùng Hưng Cổ Tự is free and totally worth it. #PhuQuoc #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Locals don't post about this.",
+          "scenes": [
+            "Wide shot: temple gate on busy street",
+            "Push through entrance, noise fades",
+            "Tilt up dragon-wrapped pillars",
+            "Close-up: incense sticks burning",
+            "Empty courtyard, slow pan left"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJl1Ayn9aNpzERF5-boB6Ec3c",
+      "placeName": "Chùa Hưng Sơn. Phú Quốc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-03-RF5-boB6Ec3c-0.jpg",
+        "out/media/2026-08-03-RF5-boB6Ec3c-1.jpg",
+        "out/media/2026-08-03-RF5-boB6Ec3c-2.jpg",
+        "out/media/2026-08-03-RF5-boB6Ec3c-3.jpg",
+        "out/media/2026-08-03-RF5-boB6Ec3c-4.jpg",
+        "out/media/2026-08-03-RF5-boB6Ec3c-5.jpg",
+        "out/media/2026-08-03-RF5-boB6Ec3c-6.jpg",
+        "out/media/2026-08-03-RF5-boB6Ec3c-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes the noise in your head. Chùa Hưng Sơn sits quietly in Khu Phố 7, Phú Quốc, and most tourists drive straight past it. 4.8 stars. Almost no crowds. Incense in the air, orange rooftops, complete stillness. Bring no agenda. Stay as long as you want. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch what happens when you step inside Chùa Hưng Sơn. The city noise just stops. Orange rooftops, soft incense smoke, zero tour groups. This is the Phu Quoc most visitors never find.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #PhuQuocTravel #TravelTips"
+        },
+        "instagram": {
+          "caption": "This place fixes the noise in your head. Chùa Hưng Sơn, Phú Quốc. 4.8★, almost no crowds. Save this.",
+          "video_caption": "Orange rooftops. Incense smoke. No tour buses. Chùa Hưng Sơn is the quiet Phu Quoc actually delivers.",
+          "hashtags": "#PhuQuocTemple #PhuQuocTravel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CultureTravel"
+        },
+        "tiktok": {
+          "caption": "The Phu Quoc spot that actually resets you. Chùa Hưng Sơn. No crowds. 4.8★. #PhuQuoc #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "This place resets you.",
+          "scenes": [
+            "Exterior gate, wide shot, morning light",
+            "Slow push through incense smoke",
+            "Close-up: orange roof tiles, clear sky",
+            "Empty courtyard, lone visitor walking",
+            "Hands pressed together at the altar"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJGwH_ahaMpzERJpuLzwfyyNQ",
+      "placeName": "Chùa Hùng Long - Đảo Phú Quốc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-03-RJpuLzwfyyNQ-0.jpg",
+        "out/media/2026-08-03-RJpuLzwfyyNQ-1.jpg",
+        "out/media/2026-08-03-RJpuLzwfyyNQ-2.jpg",
+        "out/media/2026-08-03-RJpuLzwfyyNQ-3.jpg",
+        "out/media/2026-08-03-RJpuLzwfyyNQ-4.jpg",
+        "out/media/2026-08-03-RJpuLzwfyyNQ-5.jpg",
+        "out/media/2026-08-03-RJpuLzwfyyNQ-6.jpg",
+        "out/media/2026-08-03-RJpuLzwfyyNQ-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-03-RJpuLzwfyyNQ.mp4",
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes burnout. Chùa Hùng Long sits on the edge of Phu Quoc, far from the beach bars and resort noise. 4.5 stars. 104 reviews. Almost no tourists. Walk in, slow down, breathe. The incense, the silence, the sea wind. Some places just reset you. Save this for your Phu Quoc trip.",
+          "video_caption": "Stepping inside Chùa Hùng Long and the noise just stops. No crowds, no vendors. Just incense smoke, golden light, and the sound of wind off the water. This is the Phu Quoc most people never find.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #ThingsToDoPhuQuoc #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "This place fixes burnout. Chùa Hùng Long, 4.5 stars, almost no tourists. Save this for your Phu Quoc trip.",
+          "video_caption": "Walked into Chùa Hùng Long and felt the trip shift. Quiet, golden, zero crowds. Phu Quoc needed this.",
+          "hashtags": "#PhuQuocTemple #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VisitVietnam #SpiritualTravel"
+        },
+        "tiktok": {
+          "caption": "The Phu Quoc nobody posts about. Chùa Hùng Long will reset you. 🙏 #PhuQuoc #VietnamTravel #PhuQuocTips #TravelTips"
+        },
+        "video_script": {
+          "hook": "This place fixes burnout.",
+          "scenes": [
+            "Approach gate along quiet TL47 road",
+            "Pan up to full temple facade",
+            "Close-up: incense smoke curling upward",
+            "Wide shot: empty courtyard, sea in background",
+            "Slow walk through golden interior light",
+            "Final frame: stillness, no crowd in sight"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJL3-4s1GMpzER_eOIkH6lzQU",
+      "placeName": "Guan Di Temple",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-03-R_eOIkH6lzQU-0.jpg",
+        "out/media/2026-08-03-R_eOIkH6lzQU-1.jpg",
+        "out/media/2026-08-03-R_eOIkH6lzQU-2.jpg",
+        "out/media/2026-08-03-R_eOIkH6lzQU-3.jpg",
+        "out/media/2026-08-03-R_eOIkH6lzQU-4.jpg",
+        "out/media/2026-08-03-R_eOIkH6lzQU-5.jpg",
+        "out/media/2026-08-03-R_eOIkH6lzQU-6.jpg",
+        "out/media/2026-08-03-R_eOIkH6lzQU-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this. Guan Di Temple on Đường Trần Hưng Đạo is one of Phu Quoc's oldest Chinese temples, and most visitors never find it. Red lanterns, incense smoke, carved wooden altars. Zero crowds. The kind of place that makes you stop scrolling and actually be somewhere. Save this for your Phu Quoc trip.",
+          "video_caption": "Incense curling up past red lanterns. Nobody else here. Guan Di Temple is sitting right off Đường Trần Hưng Đạo and the tourist trail completely skips it. Don't be that person who only sees the resorts.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #ThingsToDoPhuQuoc #VisitVietnam #VietnamCulture #PhuQuocTips #TravelVietnam"
+        },
+        "instagram": {
+          "caption": "Tourists keep walking past Guan Di Temple. Red lanterns. Incense smoke. Zero crowds. Tag your travel buddy.",
+          "video_caption": "Red lanterns. Carved altars. Nobody else here. Guan Di Temple, Phu Quoc.",
+          "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocCulture #VietnamTravel #TravelTips #TravelReels #CultureTravel #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "The temple tourists never find in Phu Quoc. Guan Di Temple. Go. #PhuQuoc #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Locals don't post about this.",
+          "scenes": [
+            "Slow push through temple gate entrance",
+            "Incense sticks burning on altar close-up",
+            "Red lanterns swaying overhead, wide shot",
+            "Carved wooden deity panels, slow pan",
+            "Empty courtyard, no tourists in frame"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJq2ddr5WRpzERGEYb5TieBgs",
+      "placeName": "Quốc Mẫu Hall",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-03-RGEYb5TieBgs-0.jpg",
+        "out/media/2026-08-03-RGEYb5TieBgs-1.jpg",
+        "out/media/2026-08-03-RGEYb5TieBgs-2.jpg",
+        "out/media/2026-08-03-RGEYb5TieBgs-3.jpg",
+        "out/media/2026-08-03-RGEYb5TieBgs-4.jpg",
+        "out/media/2026-08-03-RGEYb5TieBgs-5.jpg",
+        "out/media/2026-08-03-RGEYb5TieBgs-6.jpg",
+        "out/media/2026-08-03-RGEYb5TieBgs-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-03-RGEYb5TieBgs.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this. Locals stop here every time.\n\nQuốc Mẫu Hall sits inside Thiền viện Trúc Lâm Hộ Quốc, one of the most visually striking temple complexes on the island. Most visitors photograph the main gate and leave. Get deeper in and this hall stops you cold.\n\nIncense smoke, total silence, zero crowds. Phu Quoc has a side that isn't beaches and bars. This is it.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Step inside Quốc Mẫu Hall at Thiền viện Trúc Lâm Hộ Quốc. Incense curling, silence everywhere, not another tourist in sight. This is the Phu Quoc most people never find.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "Tourists keep walking past Quốc Mẫu Hall. Don't be one of them.\n\nDeep inside Thiền viện Trúc Lâm Hộ Quốc. Zero crowds. Pure calm.\n\nTag your travel buddy.",
+          "video_caption": "Inside Quốc Mẫu Hall. Incense smoke, silence, no tour groups. Phu Quoc hits different here.",
+          "hashtags": "#PhuQuocTemple #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "The hall tourists never find in Phu Quoc. Pure silence. Zero crowds. #PhuQuoc #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Tourists keep walking past this.",
+          "scenes": [
+            "Approach gate of Thiền viện Trúc Lâm Hộ Quốc",
+            "Pan across empty courtyard, no crowds",
+            "Push through doors into Quốc Mẫu Hall",
+            "Close-up: incense smoke rising slowly",
+            "Wide shot: ornate altar, total stillness"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJoeqegKKWpzER3bN1bSxK1n4",
+      "placeName": "Chùa Sùng Đức",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-03-R3bN1bSxK1n4-0.jpg",
+        "out/media/2026-08-03-R3bN1bSxK1n4-1.jpg",
+        "out/media/2026-08-03-R3bN1bSxK1n4-2.jpg",
+        "out/media/2026-08-03-R3bN1bSxK1n4-3.jpg",
+        "out/media/2026-08-03-R3bN1bSxK1n4-4.jpg",
+        "out/media/2026-08-03-R3bN1bSxK1n4-5.jpg",
+        "out/media/2026-08-03-R3bN1bSxK1n4-6.jpg",
+        "out/media/2026-08-03-R3bN1bSxK1n4-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past Chùa Sùng Đức. Their loss. While the crowds hit the cable car and night market, this place is completely calm. Incense smoke, ornate altars, zero tour groups. 4.4 stars across 113 reviews and most visitors are locals. That ratio tells you everything. Add it to your Phu Quoc itinerary for a real change of pace. Save this for your Phu Quoc trip.",
+          "video_caption": "Stepping inside Chùa Sùng Đức while the rest of Phu Quoc is packed with tourists. Incense burning, locals praying, nobody else from your hotel. This is the side of the island that doesn't make the brochure.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "Tourists keep walking past Chùa Sùng Đức. Big mistake. 4.4 stars, 113 reviews, mostly locals. Comment your favorite Phu Quoc spot.",
+          "video_caption": "Zero tour groups. Just incense, altars, and quiet. Chùa Sùng Đức hits different when you're the only traveler there.",
+          "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #HiddenPhuQuoc"
+        },
+        "tiktok": {
+          "caption": "The Phu Quoc temple tourists walk straight past. Chùa Sùng Đức. Go. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+        },
+        "video_script": {
+          "hook": "Tourists keep walking past this.",
+          "scenes": [
+            "Exterior gate, wide shot, no crowds",
+            "Close-up: incense sticks burning",
+            "Ornate altar, slow pan left to right",
+            "Locals praying, respectful distance shot",
+            "Courtyard, visitor walks through alone"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ_fS2ExSLpzERfs3RvFN0_ts",
+      "placeName": "Dinh Bà Lớn Tướng Lê Kim Định",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-03-Rfs3RvFN0_ts-0.jpg",
+        "out/media/2026-08-03-Rfs3RvFN0_ts-1.jpg",
+        "out/media/2026-08-03-Rfs3RvFN0_ts-2.jpg",
+        "out/media/2026-08-03-Rfs3RvFN0_ts-3.jpg",
+        "out/media/2026-08-03-Rfs3RvFN0_ts-4.jpg",
+        "out/media/2026-08-03-Rfs3RvFN0_ts-5.jpg",
+        "out/media/2026-08-03-Rfs3RvFN0_ts-6.jpg",
+        "out/media/2026-08-03-Rfs3RvFN0_ts-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-03-Rfs3RvFN0_ts.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this. Dinh Bà Lớn Tướng Lê Kim Định sits on Đường Dinh Bà and most visitors never find it. A traditional Vietnamese temple dedicated to a local general, rated 4.5 stars across 261 reviews, almost entirely from locals. The incense, the quiet, the architecture. Zero tour groups. This is the Phu Quoc the resorts don't show you. Save this for your Phu Quoc trip.",
+          "video_caption": "Incense smoke rising. Locals bowing at Dinh Bà Lớn Tướng Lê Kim Định. 261 reviews and tourists still walk straight past it. This is Phu Quoc off the tourist trail.",
+          "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about Dinh Bà Lớn Tướng Lê Kim Định. 4.5 stars, 261 reviews, zero tourists. Add it to your Phu Quoc list.",
+          "video_caption": "Real Phu Quoc. Incense, silence, and a 4.5-star temple most visitors never find.",
+          "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #PhuQuocHiddenSpots"
+        },
+        "tiktok": {
+          "caption": "The temple in Phu Quoc tourists keep missing. 4.5⭐ 261 reviews. #PhuQuoc #VietnamTravel #PhuQuocTips #TempleOfVietnam"
+        },
+        "video_script": {
+          "hook": "Locals don't post about this temple.",
+          "scenes": [
+            "Slow push into ornate temple gate",
+            "Incense smoke curling toward roof",
+            "Locals kneeling, offering prayers",
+            "Close-up of carved wooden details",
+            "Wide shot, empty courtyard, no tourists"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

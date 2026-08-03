@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past Chùa Sùng Đức. Their loss. While the crowds hit the cable car and night market, this place is completely calm. Incense smoke, ornate altars, zero tour groups. 4.4 stars across 113 reviews and most visitors are locals. That ratio tells you everything. Add it to your Phu Quoc itinerary for a real change of pace. Save this for your Phu Quoc trip.",
+    "video_caption": "Stepping inside Chùa Sùng Đức while the rest of Phu Quoc is packed with tourists. Incense burning, locals praying, nobody else from your hotel. This is the side of the island that doesn't make the brochure.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Chùa Sùng Đức. Big mistake. 4.4 stars, 113 reviews, mostly locals. Comment your favorite Phu Quoc spot.",
+    "video_caption": "Zero tour groups. Just incense, altars, and quiet. Chùa Sùng Đức hits different when you're the only traveler there.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #HiddenPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc temple tourists walk straight past. Chùa Sùng Đức. Go. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior gate, wide shot, no crowds",
+      "Close-up: incense sticks burning",
+      "Ornate altar, slow pan left to right",
+      "Locals praying, respectful distance shot",
+      "Courtyard, visitor walks through alone"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

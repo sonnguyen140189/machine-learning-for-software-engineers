@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. Su Muon Pagoda sits off the main drag and almost nobody on a resort itinerary finds it. 4.4 stars across 510 reviews from people who actually made the detour. Incense, quiet courtyards, zero tour buses. This is Phu Quoc before the beach crowds wake up. Save this for your Phu Quoc trip.",
+    "video_caption": "Step inside Su Muon Pagoda while the rest of Phu Quoc is still at the pool. 510 reviews. Barely a tourist in sight. This is what the island looks like when you go off-script.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #PhuQuocTips #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Su Muon Pagoda. 4.4 stars. 510 reviews. Zero tour buses. Save this for your Phu Quoc trip.",
+    "video_caption": "Off-script Phu Quoc. Su Muon Pagoda. 510 reviews and still no crowds.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #HiddenPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc temple tourists keep skipping. Big mistake. #PhuQuoc #PhuQuocTips #VietnamTravel #TempleOfVietnam"
+  },
+  "video_script": {
+    "hook": "Tourists keep skipping this.",
+    "scenes": [
+      "Exterior gate of Su Muon Pagoda, no crowds",
+      "Slow pan across incense smoke rising",
+      "Close-up of ornate roof detail",
+      "Empty courtyard, golden morning light",
+      "Rating card: 4.4 stars, 510 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

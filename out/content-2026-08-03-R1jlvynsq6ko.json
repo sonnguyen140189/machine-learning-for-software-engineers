@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you take a random road in Phu Quoc and end up here.\n\nHộ Quốc Temple sits on the hillside like it belongs to a different century. Red gates, incense smoke, ocean somewhere behind you. 4.7 stars across 1,378 reviews and most tourists drive straight past.\n\nBring water. Wear covered shoulders. Go early before the heat wins.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walking through the gates of Hộ Quốc Temple at golden hour. Incense smoke, red lanterns, and 1,378 people gave it 4.7 stars. Most visitors never stop here. Don't be one of them.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #PhuQuocTips #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "POV: wrong turn. Found Hộ Quốc Temple. 4.7★, 1,378 reviews, zero crowds.\n\nCovered shoulders. Go early. Save this.",
+    "video_caption": "Red gates. Incense smoke. Ocean behind you. Hộ Quốc Temple hits different when you stumble onto it.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #HiddenPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn in Phu Quoc. Found Hộ Quốc Temple. 4.7★ and nobody here. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Found this.",
+    "scenes": [
+      "Drone pull-back reveals temple on hillside",
+      "Push through red entrance gates",
+      "Close-up: incense smoke curling upward",
+      "Wide shot: tiered rooftops, ocean backdrop",
+      "Visitor pausing, looking up at main hall"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

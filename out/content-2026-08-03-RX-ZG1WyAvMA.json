@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight to the beach. Locals know about this place.\n\nThe Cao Dai Temple on Đường Nguyễn Trãi is one of Phu Quoc's most visually striking buildings and most visitors never step inside. Bright colors, intricate detail, total quiet. A 10-minute stop that completely resets your day.\n\nNo entry fee. No crowds. Just show up respectfully dressed.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Color everywhere. Zero tourists. The Cao Dai Temple on Phu Quoc is the most photogenic 10-minute detour on the island. Dress respectfully and walk straight in.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #PhuQuocTips #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this.\n\nCao Dai Temple, Phu Quoc. Free entry. Zero crowds. 10 minutes from the main strip.\n\nTag your travel buddy.",
+    "video_caption": "Stepped inside. Completely empty. Cao Dai Temple is Phu Quoc's most overlooked stop.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #CaoDai"
+  },
+  "tiktok": {
+    "caption": "No one talks about this Phu Quoc temple. Free entry, zero crowds, full color. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior shot, full temple facade",
+      "Slow pan up the colorful columns",
+      "Empty interior, natural light flooding in",
+      "Close-up of symbolic eye motif",
+      "Wide shot, visitor standing alone inside"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
