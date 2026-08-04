@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Locals don't post about Bãi Dài. That's the whole point.\n\nWhile the crowds pile onto the main strips, this beach sits mostly empty. Long stretch of sand. Clear water. Zero beach clubs fighting for your attention.\n\nIf your Phu Quoc trip is starting to feel like every other resort town, Bãi Dài is the reset button.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Wide open sand, almost no one in sight. This is Bãi Dài on a regular afternoon. No vendors, no crowds, just the beach doing its thing. Worth the drive north.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Bãi Dài. That's exactly why you should go.\n\nEmpty sand. Clear water. No resort crowds.\n\nTag your travel buddy.",
+    "video_caption": "Almost no one here. Bãi Dài beach, north Phu Quoc. Drive past the resorts and keep going.",
+    "hashtags": "#PhuQuocBeaches #PhuQuocTips #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "The beach locals aren't telling tourists about. Bãi Dài, Phu Quoc. Go now before everyone finds it. #PhuQuoc #PhuQuocBeach #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post this beach.",
+    "scenes": [
+      "Drone pull back: empty shoreline, Bãi Dài",
+      "Walk along wet sand, no crowds visible",
+      "Water close-up: clear, calm, gentle waves",
+      "Pan left: zero beach clubs, just treeline",
+      "Tourist looks back at camera, grins"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

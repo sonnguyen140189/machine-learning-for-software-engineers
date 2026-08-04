@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout.\n\nBãi biển Lumera Beach sits right on Trần Hưng Đạo and somehow still feels like you left the crowds behind. Soft sand, calm water, the kind of afternoon that makes you stop checking your phone.\n\n4.5 stars from 98 reviews. Not the most-talked-about beach on the island. That's exactly why you go.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the water at Bãi biển Lumera Beach and try to stay stressed. Spoiler: you can't. 4.5 stars, Trần Hưng Đạo, Phu Quoc. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #PhuQuocTips #VisitVietnam #VietnamTravel #BeachVibes #TravelTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. Bãi biển Lumera Beach. 4.5★. Come slow, leave late.\n\nSave this for your trip.",
+    "video_caption": "Sand, calm water, zero agenda. Bãi biển Lumera Beach hits different. Tag your travel buddy.",
+    "hashtags": "#PhuQuocBeaches #PhuQuocTips #LumeraBeach #VietnamTravel #TravelTips #TravelReels #BeachPhuQuoc #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "The beach that actually slows you down. Bãi biển Lumera Beach, Phu Quoc. 4.5★ #PhuQuoc #PhuQuocBeach #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that fixes burnout.",
+    "scenes": [
+      "Aerial drift over Lumera shoreline",
+      "Bare feet hit wet sand, slow motion",
+      "Wide shot: empty beach, soft light",
+      "Close up: calm waves rolling in",
+      "Guest sits back, phone face-down"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

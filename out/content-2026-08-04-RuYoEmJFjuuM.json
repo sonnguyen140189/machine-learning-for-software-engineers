@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "Walked past the resort strip. Found Ong Lang beach instead. Smaller crowds. Wilder coastline. The kind of sand that still has footprints from maybe three people. 4.1 stars across 740 reviews and it still flies under the radar. If you're staying on the west coast of Phu Quoc, this is the one you detour for. Save this for your Phu Quoc trip.",
+    "video_caption": "Camera pans down an empty stretch of Ong Lang beach. No rows of sunbeds. No hawkers. Just dark sand, tree shade, and water so clear you can count the rocks. This is what the west coast actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocBeaches #OngLangBeach #VisitVietnam #TravelTips #PhuQuocTravel #VietnamBeach"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn past the resorts. Found Ong Lang beach. Don't be me, go on purpose. Tag your travel buddy.",
+    "video_caption": "No sunbeds. No hawkers. Just Ong Lang beach doing its thing. West Phu Quoc, remember this name.",
+    "hashtags": "#PhuQuocBeaches #OngLangBeach #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocTravel"
+  },
+  "tiktok": {
+    "caption": "POV: you skip the resort beach and find Ong Lang instead. 4.1 stars, barely crowded. #PhuQuoc #OngLangBeach #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: you found Ong Lang beach",
+    "scenes": [
+      "Boots hit the sandy trail entrance",
+      "Wide shot: near-empty shoreline",
+      "Close-up: clear water over dark rocks",
+      "Pan left: zero sunbed rows in sight",
+      "Slow zoom on lone hammock in tree shade"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

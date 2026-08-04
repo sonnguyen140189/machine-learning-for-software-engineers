@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists scroll past this one. Rustic bungalows, private beach, outdoor pool, and a spa at Milana Beach Resort & Spa Phú Quốc. No mega-resort crowds. No marble lobbies. Just sand, shade, and 4.2 stars across 812 reviews from people who actually stayed. This is the kind of place repeat visitors keep quiet about. Save this for your Phu Quoc trip.",
+    "video_caption": "Private beach. Rustic bungalows. Zero crowds. Milana Beach Resort & Spa Phú Quốc is sitting right there while everyone queues at the big resorts. 4.2 stars. 812 reviews. Tag your travel buddy who needs this.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocBeaches #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Milana Beach Resort & Spa Phú Quốc. Private beach. Rustic bungalows. Spa. 4.2★ across 812 reviews. Save this.",
+    "video_caption": "Bungalows on a private beach in Phu Quoc. 812 people rated it 4.2★. Most tourists never find it.",
+    "hashtags": "#PhuQuocResort #PhuQuocBeaches #PhuQuocHotel #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc resort tourists keep missing. Private beach, bungalows, spa. 4.2★. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Drone pull-back over private beach",
+      "Walk through rustic bungalow interior",
+      "Pool with zero guests at midday",
+      "Spa treatment room door opens",
+      "Beachside dining table at golden hour"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

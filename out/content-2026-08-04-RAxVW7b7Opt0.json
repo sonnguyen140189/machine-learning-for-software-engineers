@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This beach fixes burnout. Bãi Trường runs for miles along Đường Trần Hưng Đạo and somehow never feels crowded. Sand that actually stays warm at sunset. Water that shifts from green to deep blue depending on the light. 4.4 stars across 751 reviews and it still surprises people. No hustle, no hawkers chasing you down. Just the kind of slow afternoon Phu Quoc does better than anywhere. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the light hit Bãi Trường at golden hour. Miles of sand, barely anyone on it. 4.4 stars and 751 people still undersell it. This is the version of Phu Quoc you actually came for.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #BaiTruong #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "This beach fixes burnout. Bãi Trường, golden hour, almost no one around. 4.4★ across 751 reviews. Save this.",
+    "video_caption": "Miles of warm sand. Barely a crowd. Bãi Trường at sunset hits different. Go before everyone figures it out.",
+    "hashtags": "#PhuQuocBeach #BaiTruong #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "Bãi Trường at sunset will reset your nervous system. Miles of sand, barely a soul. #PhuQuoc #PhuQuocBeach #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This beach fixes burnout.",
+    "scenes": [
+      "Aerial pan: endless sand, sparse crowd",
+      "Feet walking on warm golden sand",
+      "Water close-up: green fading to deep blue",
+      "Sun dropping behind the horizon line",
+      "Empty shoreline, long shadow shot"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

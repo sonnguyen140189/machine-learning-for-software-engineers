@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "196 reviews. 4.2 stars. And this beach is sitting right on Đường Trần Hưng Đạo.\n\nNot buried on the south end. Not a 40-minute scooter ride. Central Phu Quoc, walkable from your hotel.\n\nSand, water, and zero excuses not to show up. Save this for your Phu Quoc trip.",
+    "video_caption": "Feet in the sand at Phu Quoc Beach. Central location, 4.2 stars, 196 reviews backing it up. This is where your morning starts.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #VisitVietnam #PhuQuocTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "196 reviews. 4.2 stars. Right on Đường Trần Hưng Đạo.\n\nCentral Phu Quoc beach. No long ride needed.\n\nSave this for your trip.",
+    "video_caption": "Waves hitting Phu Quoc Beach. 4.2 stars. Dead center on the island. Your itinerary needs this.",
+    "hashtags": "#PhuQuocBeach #PhuQuocTravel #PhuQuocTips #VisitVietnam #VietnamTravel #TravelTips #TravelReels"
+  },
+  "tiktok": {
+    "caption": "196 reviews on this beach and it's walking distance from the main strip. No excuses. #PhuQuoc #PhuQuocBeach #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "196 reviews. 4.2 stars.",
+    "scenes": [
+      "Aerial pan over beach at Đường Trần Hưng Đạo",
+      "Close shot: waves rolling onto sand",
+      "Wide shot: beachfront, no crowd, clear water",
+      "Text overlay: '4.2 stars, 196 reviews'",
+      "POV walk from street to shoreline"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

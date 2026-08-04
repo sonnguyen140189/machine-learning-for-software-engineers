@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc that doesn't feel touristy. M Hotel Phu Quoc sits right on 46 Đường Trần Hưng Đạo, close enough to the action but calm enough to actually sleep. 4.6 stars across 585 reviews says the comfort is real. Some hotels promise rest. This one delivers it. Save this for your Phu Quoc trip.",
+    "video_caption": "Checking into M Hotel Phu Quoc and the vibe hits immediately. 4.6 stars, 585 reviews, Đường Trần Hưng Đạo address putting you right where you need to be. This is what a proper Phu Quoc base looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. M Hotel Phu Quoc, 4.6★ from 585 guests. Rest is the whole point. Tag your travel buddy.",
+    "video_caption": "Walking into M Hotel Phu Quoc. 4.6 stars. 585 guests rated it. Your Phu Quoc base, sorted.",
+    "hashtags": "#PhuQuocHotels #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc that actually lets you decompress. M Hotel Phu Quoc, 4.6★, 585 reviews. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Phu Quoc. No tourist chaos.",
+    "scenes": [
+      "Exterior shot, Đường Trần Hưng Đạo frontage",
+      "Lobby walk-through, calm atmosphere",
+      "Room reveal, natural light hitting the bed",
+      "Close-up: 4.6★ review screen on phone",
+      "Window view toward the street below"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: You took the road to Ông Lang and found this.\n\nPhu Quoc Eco Beach Resort sits right on the beach at Ấp Ông Lang. Open-air restaurant, outdoor pool, spa, gym. 4.6 stars across 901 reviews.\n\nWhile everyone crowds the south, this end of the island stays quiet. That's the point.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walked into Phu Quoc Eco Beach Resort and the beach just opens up in front of you. Pool. Spa. Open-air dining. 4.6 stars. Ông Lang delivers.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #OngLang #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: You picked Ấp Ông Lang over the crowded south.\n\nPhu Quoc Eco Beach Resort. Beachfront. Pool. Spa. 4.6★ / 901 reviews.\n\nSave this.",
+    "video_caption": "Beach right there. Pool behind you. That's Phu Quoc Eco Beach Resort at Ấp Ông Lang. 4.6 stars. Still quiet.",
+    "hashtags": "#PhuQuocResort #PhuQuocBeaches #OngLangBeach #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "POV: skipped the crowds and found this at Ấp Ông Lang 🌊 Phu Quoc Eco Beach Resort, 4.6★ #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: You found the quiet side.",
+    "scenes": [
+      "Drone pulls back from shoreline at Ấp Ông Lang",
+      "Walk through open-air restaurant to beach",
+      "Pool with ocean visible beyond the edge",
+      "Spa treatment room, slow pan",
+      "Guest sitting beachfront, no crowd in sight",
+      "Text overlay: 4.6★ across 901 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
