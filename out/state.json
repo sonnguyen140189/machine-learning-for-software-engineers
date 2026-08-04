@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJMTK8cRSLpzER_q7VsEitfig",
+    "ChIJFywM4byNpzERTsKVgNJw3vc",
+    "ChIJGetZgyyNpzERfgkTRwWcE74",
+    "ChIJI6oge0mLpzERKUoKtQLR-oc",
+    "ChIJJdya9E71pzERTu4abOIfjls",
+    "ChIJBz09gZgfCDERzAyxFBp-iDM",
+    "ChIJXQcO2BeLpzERuYoEmJFjuuM",
+    "ChIJq-YgJcuNpzER37aiRi5HfVo",
+    "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
+    "ChIJQUSIY6yNpzERAxVW7b7Opt0",
+    "ChIJedBNQceNpzERHaWnMm2hIAk",
+    "ChIJAQAAAECKpzERzt6bVEvLa-M",
     "ChIJ_fS2ExSLpzERfs3RvFN0_ts",
     "ChIJoeqegKKWpzER3bN1bSxK1n4",
     "ChIJq2ddr5WRpzERGEYb5TieBgs",
@@ -187,21 +199,189 @@
     "ChIJ00OuQxuTpzER-w6UBHVBLJo",
     "ChIJe_vjTACNpzERrvGoA9qvlAU",
     "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
-    "ChIJq31LD1-MpzERdIuwa2Bg2ok",
-    "ChIJ_3mcEp-NpzERP0uTjkMlQ30",
-    "ChIJey6dXQCNpzERP3w5WxacNrw",
-    "ChIJAz1J0-mNpzERyQ40GMjmouI",
-    "ChIJ06-yPMWNpzERvRqJgvDuNe8",
-    "ChIJhS_cnzseCDERAMqYy7efZBo",
-    "ChIJ0R95YniTpzER8HfwfZ2aMZI",
-    "ChIJLZPWxLiWpzERwrkgfIa1P8I",
-    "ChIJK0z_dgCNpzERiSVWSPMxaoc",
-    "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
-    "ChIJBWE7axyNpzER5e0d8AjEDJA",
-    "ChIJ017u9rKNpzERuFNuG_u0HJk",
-    "ChIJVVVVVXQgCDER_KXFZ6RZQ8Q"
+    "ChIJq31LD1-MpzERdIuwa2Bg2ok"
   ],
   "history": [
+    {
+      "date": "2026-08-04",
+      "placeId": "ChIJMTK8cRSLpzER_q7VsEitfig",
+      "placeName": "Phu Quoc Eco Beach Resort",
+      "results": {
+        "facebookVideo": {
+          "id": "2325150178289807"
+        },
+        "instagramReel": {
+          "id": "18124237993686036"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "placeId": "ChIJFywM4byNpzERTsKVgNJw3vc",
+      "placeName": "Free Beach Resort Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117257533313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17898489273551059"
+        }
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "placeId": "ChIJGetZgyyNpzERfgkTRwWcE74",
+      "placeName": "Bãi biển Lumera Beach",
+      "results": {
+        "facebookVideo": {
+          "id": "1797909288318526"
+        },
+        "instagramReel": {
+          "id": "18361488910240285"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "placeId": "ChIJI6oge0mLpzERKUoKtQLR-oc",
+      "placeName": "Ocean Bay Resort & Spa Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117256765313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18088997330558718"
+        }
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "placeId": "ChIJJdya9E71pzERTu4abOIfjls",
+      "placeName": "Milana Beach Resort & Spa Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "2048577786032210"
+        },
+        "instagramReel": {
+          "id": "18073719719697726"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "placeId": "ChIJBz09gZgfCDERzAyxFBp-iDM",
+      "placeName": "Bai Dai beach",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117255829313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18094397876373913"
+        }
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "placeId": "ChIJXQcO2BeLpzERuYoEmJFjuuM",
+      "placeName": "Ong Lang beach",
+      "results": {
+        "facebookVideo": {
+          "id": "1260733070450208"
+        },
+        "instagramReel": {
+          "id": "17891061558668506"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "placeId": "ChIJq-YgJcuNpzER37aiRi5HfVo",
+      "placeName": "Phu Quoc Beach",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117254923313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18111694324964857"
+        }
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "placeId": "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
+      "placeName": "Istanbul Beach Club",
+      "results": {
+        "facebookVideo": {
+          "id": "1047228781563059"
+        },
+        "instagramReel": {
+          "id": "18119728426880417"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "placeId": "ChIJQUSIY6yNpzERAxVW7b7Opt0",
+      "placeName": "Bãi Trường",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117253777313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18101080769240298"
+        }
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "placeId": "ChIJedBNQceNpzERHaWnMm2hIAk",
+      "placeName": "M Hotel Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1750788799265840"
+        },
+        "instagramReel": {
+          "id": "17903149818519834"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "placeId": "ChIJAQAAAECKpzERzt6bVEvLa-M",
+      "placeName": "Chen Sea Resort & Spa Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117252865313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18098393681255397"
+        }
+      }
+    },
     {
       "date": "2026-08-03",
       "placeId": "ChIJ_fS2ExSLpzERfs3RvFN0_ts",
@@ -3018,186 +3198,6 @@
         },
         "instagram": {
           "id": "18101619476139378"
-        }
-      }
-    },
-    {
-      "date": "2026-07-19",
-      "placeId": "ChIJ_3mcEp-NpzERP0uTjkMlQ30",
-      "placeName": "Shisha Bar Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1593712482369374"
-        },
-        "instagramReel": {
-          "id": "18109844602768189"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-19",
-      "placeId": "ChIJey6dXQCNpzERP3w5WxacNrw",
-      "placeName": "Rosso Sky Bar & Lounge | Night Club",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114828187313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18420775846150149"
-        }
-      }
-    },
-    {
-      "date": "2026-07-19",
-      "placeId": "ChIJAz1J0-mNpzERyQ40GMjmouI",
-      "placeName": "The Cheeky Traveller English Pub & Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1538683663963981"
-        },
-        "instagramReel": {
-          "id": "18014597585860192"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-19",
-      "placeId": "ChIJ06-yPMWNpzERvRqJgvDuNe8",
-      "placeName": "Origin 1982 - Speakeasy bar in The last old house (1982)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114827215313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17877619203502254"
-        }
-      }
-    },
-    {
-      "date": "2026-07-18",
-      "placeId": "ChIJhS_cnzseCDERAMqYy7efZBo",
-      "placeName": "Vinpearl Resort & Spa Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "3950670965068437"
-        },
-        "instagramReel": {
-          "id": "17899463274533155"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-18",
-      "placeId": "ChIJ0R95YniTpzER8HfwfZ2aMZI",
-      "placeName": "Regent Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114608077313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17934245505343869"
-        }
-      }
-    },
-    {
-      "date": "2026-07-18",
-      "placeId": "ChIJLZPWxLiWpzERwrkgfIa1P8I",
-      "placeName": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
-      "results": {
-        "facebookVideo": {
-          "id": "1726806241806207"
-        },
-        "instagramReel": {
-          "id": "18057374792785305"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-18",
-      "placeId": "ChIJK0z_dgCNpzERiSVWSPMxaoc",
-      "placeName": "Chill Bar Đồi Trăng",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114607321313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17987342643008981"
-        }
-      }
-    },
-    {
-      "date": "2026-07-18",
-      "placeId": "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
-      "placeName": "58 CAFÉ",
-      "results": {
-        "facebookVideo": {
-          "id": "1055429550161268"
-        },
-        "instagramReel": {
-          "id": "18068818940435375"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-18",
-      "placeId": "ChIJBWE7axyNpzER5e0d8AjEDJA",
-      "placeName": "AROMA Cafe Bistro Bar Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114606439313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18079167248290859"
-        }
-      }
-    },
-    {
-      "date": "2026-07-18",
-      "placeId": "ChIJ017u9rKNpzERuFNuG_u0HJk",
-      "placeName": "CAFE GREEN(카페그린) DUONG DONG , 망고빙수",
-      "results": {
-        "facebookVideo": {
-          "id": "28163406049933996"
-        },
-        "instagramReel": {
-          "id": "17870317953631292"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-18",
-      "placeId": "ChIJVVVVVXQgCDER_KXFZ6RZQ8Q",
-      "placeName": "Phu Quoc Bee Farm",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114605473313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17949532638210675"
         }
       }
     }
