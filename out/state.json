@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJd4s74SiNpzERSsU3_x_0EsI",
+    "ChIJ3ZgwWLONpzERIM11I5sYgVs",
+    "ChIJw0auYQCNpzER8BCjNBsmIBs",
+    "ChIJjXUjGRmNpzERbpTPg0YpR3g",
+    "ChIJqx54JIyNpzERfmx8wXohQ4U",
+    "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
+    "ChIJiyzaO4CNpzERTH6QKehpvBw",
+    "ChIJK6PXziqyU2gREZvk_pErVag",
+    "ChIJcQI2WEyNpzERiZfbiTwGiHU",
+    "ChIJ_QHQ2eWNpzER0VcwkboktMU",
+    "ChIJyQi3u2GMpzERVXgllKB2V_A",
+    "ChIJLa_VvluMpzERVdeTFM021V4",
     "ChIJMTK8cRSLpzER_q7VsEitfig",
     "ChIJFywM4byNpzERTsKVgNJw3vc",
     "ChIJGetZgyyNpzERfgkTRwWcE74",
@@ -187,21 +199,189 @@
     "ChIJZ92iGQCLpzER_8noAX_Wcvs",
     "ChIJh0oTEUaLpzERgI8_SI_bkLg",
     "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
-    "ChIJx4kkhiiNpzERH47LIVsqJps",
-    "ChIJKzlafMuLpzERtBF-FredP28",
-    "ChIJH7qQ4niLpzERauDuEKEMXVk",
-    "ChIJBZASQZ6NpzERfkHFOYJvawM",
-    "ChIJRQVFmFqNpzERu5Sg8_W6Zoo",
-    "ChIJJ8PVWkiTpzER0g33shpEXCY",
-    "ChIJ-zqn9WCMpzER2Ko070p2nyo",
-    "ChIJD8-KD3uNpzERZVGLp2AdvPI",
-    "ChIJ1aeQ29SNpzERQ6q22sUKYRc",
-    "ChIJ00OuQxuTpzER-w6UBHVBLJo",
-    "ChIJe_vjTACNpzERrvGoA9qvlAU",
-    "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
-    "ChIJq31LD1-MpzERdIuwa2Bg2ok"
+    "ChIJx4kkhiiNpzERH47LIVsqJps"
   ],
   "history": [
+    {
+      "date": "2026-08-05",
+      "placeId": "ChIJd4s74SiNpzERSsU3_x_0EsI",
+      "placeName": "JOY spa ( Massage _ Waxing _ Nail _Shampoo )",
+      "results": {
+        "facebookVideo": {
+          "id": "1911209966213510"
+        },
+        "instagramReel": {
+          "id": "18077970014504107"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "placeId": "ChIJ3ZgwWLONpzERIM11I5sYgVs",
+      "placeName": "Massage Phú Quốc - Nhiên Spa | 마사지 | 스파 | Spa Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117412351313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18145819957531271"
+        }
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "placeId": "ChIJw0auYQCNpzER8BCjNBsmIBs",
+      "placeName": "LUA SPA",
+      "results": {
+        "facebookVideo": {
+          "id": "2301665783984927"
+        },
+        "instagramReel": {
+          "id": "18102769781524610"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "placeId": "ChIJjXUjGRmNpzERbpTPg0YpR3g",
+      "placeName": "Miss Tiên Spa-Body & Foot Massage",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117411181313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18088473758208487"
+        }
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "placeId": "ChIJqx54JIyNpzERfmx8wXohQ4U",
+      "placeName": "Little WIN SPA 2 - MASSAGE (전신 마사지, 풋 마사지)",
+      "results": {
+        "facebookVideo": {
+          "id": "2004518376850690"
+        },
+        "instagramReel": {
+          "id": "17923537308401233"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "placeId": "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
+      "placeName": "Phu Quoc Day Spa - 푸꾸옥 스파 마사지 - 富国岛的水疗按摩",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117410233313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17889910542599929"
+        }
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "placeId": "ChIJiyzaO4CNpzERTH6QKehpvBw",
+      "placeName": "FIONA SPA",
+      "results": {
+        "facebookVideo": {
+          "id": "1036768162444825"
+        },
+        "instagramReel": {
+          "id": "18124910803685489"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "placeId": "ChIJK6PXziqyU2gREZvk_pErVag",
+      "placeName": "Dgold Spa - body massage, foot massage, shampoo, nail",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117409099313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17895569922568454"
+        }
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "placeId": "ChIJcQI2WEyNpzERiZfbiTwGiHU",
+      "placeName": "Hello Spa - Massage & Nail",
+      "results": {
+        "facebookVideo": {
+          "id": "1397679162238273"
+        },
+        "instagramReel": {
+          "id": "18098133041196817"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "placeId": "ChIJ_QHQ2eWNpzER0VcwkboktMU",
+      "placeName": "Golden Foot Massage Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117408067313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17907036825283055"
+        }
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "placeId": "ChIJyQi3u2GMpzERVXgllKB2V_A",
+      "placeName": "RED RIVER TOURS",
+      "results": {
+        "facebookVideo": {
+          "id": "2272899556809572"
+        },
+        "instagramReel": {
+          "id": "18101615728960963"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
+      "placeName": "Jerry's Jungle Tours",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117407089313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17874501033689039"
+        }
+      }
+    },
     {
       "date": "2026-08-04",
       "placeId": "ChIJMTK8cRSLpzER_q7VsEitfig",
@@ -3018,186 +3198,6 @@
         },
         "instagram": {
           "id": "17969388420104343"
-        }
-      }
-    },
-    {
-      "date": "2026-07-20",
-      "placeId": "ChIJKzlafMuLpzERtBF-FredP28",
-      "placeName": "Hoa Đảo Viên Coffee - Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "2410255906168652"
-        },
-        "instagramReel": {
-          "id": "17979012888111153"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-20",
-      "placeId": "ChIJH7qQ4niLpzERauDuEKEMXVk",
-      "placeName": "HD cafe",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114957061313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18108042857096279"
-        }
-      }
-    },
-    {
-      "date": "2026-07-20",
-      "placeId": "ChIJBZASQZ6NpzERfkHFOYJvawM",
-      "placeName": "Tarapaca Cafe",
-      "results": {
-        "facebookVideo": {
-          "id": "1012386854927701"
-        },
-        "instagramReel": {
-          "id": "18356745214214240"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-20",
-      "placeId": "ChIJRQVFmFqNpzERu5Sg8_W6Zoo",
-      "placeName": "Kingkong Mart",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114956221313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18017763593883516"
-        }
-      }
-    },
-    {
-      "date": "2026-07-19",
-      "placeId": "ChIJJ8PVWkiTpzER0g33shpEXCY",
-      "placeName": "Beach House - The Beach Club",
-      "results": {
-        "facebookVideo": {
-          "id": "1058438326633065"
-        },
-        "instagramReel": {
-          "id": "17975967330066243"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-19",
-      "placeId": "ChIJ-zqn9WCMpzER2Ko070p2nyo",
-      "placeName": "The Rabbit Hole Irish Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114831625313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17986110120010412"
-        }
-      }
-    },
-    {
-      "date": "2026-07-19",
-      "placeId": "ChIJD8-KD3uNpzERZVGLp2AdvPI",
-      "placeName": "Sip & Heal Beach Bar Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1327061915798648"
-        },
-        "instagramReel": {
-          "id": "18113687143820827"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-19",
-      "placeId": "ChIJ1aeQ29SNpzERQ6q22sUKYRc",
-      "placeName": "OCSEN Beach Bar & Club",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114830767313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18601171360014353"
-        }
-      }
-    },
-    {
-      "date": "2026-07-19",
-      "placeId": "ChIJ00OuQxuTpzER-w6UBHVBLJo",
-      "placeName": "INK 360 Rooftop Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1319328670368636"
-        },
-        "instagramReel": {
-          "id": "18052123358782877"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-19",
-      "placeId": "ChIJe_vjTACNpzERrvGoA9qvlAU",
-      "placeName": "Mojito Beach Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114829873313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17953575635999749"
-        }
-      }
-    },
-    {
-      "date": "2026-07-19",
-      "placeId": "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
-      "placeName": "House No. 1",
-      "results": {
-        "facebookVideo": {
-          "id": "2110230763226847"
-        },
-        "instagramReel": {
-          "id": "17970727736924955"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-19",
-      "placeId": "ChIJq31LD1-MpzERdIuwa2Bg2ok",
-      "placeName": "Sunset Beach Bar & Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122114829003313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18101619476139378"
         }
       }
     }
