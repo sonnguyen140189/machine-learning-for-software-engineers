@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes Phu Quoc overload. 4.8 stars across 295 reviews, and Massage Phú Quốc - Nhiên Spa earns every one. Beach days are great until your shoulders aren't. Walk in, let the staff sort you out, walk out feeling like a different person. Quiet, professional, no tourist-trap energy. Save this for your Phu Quoc trip.",
+    "video_caption": "Hands working out 3 days of sand, sun, and scooter rides. Massage Phú Quốc - Nhiên Spa at 43A Mạc Thiên Tích. 4.8 stars. 295 reviews. Your body will thank you.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #SpaVietnam #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. Massage Phú Quốc - Nhiên Spa, 4.8★, 295 reviews. Tag your travel buddy.",
+    "video_caption": "4.8 stars. 295 reviews. Nhiên Spa fixes what the beach broke. Book before you regret it.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #SpaDay"
+  },
+  "tiktok": {
+    "caption": "Your body after 3 beach days needs this. Massage Phú Quốc - Nhiên Spa. 4.8★ 295 reviews. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc broke your body.",
+    "scenes": [
+      "Exterior sign: Nhiên Spa, street view",
+      "Guest stepping through front door",
+      "Therapist preparing warm towels",
+      "Hands pressing along shoulder blades",
+      "Guest face-down, visibly relaxed",
+      "Exit shot: guest smiling, street behind"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

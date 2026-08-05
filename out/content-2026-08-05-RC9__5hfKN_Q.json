@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Their loss. Phu Quoc Day Spa sits at 100/3 and pulls 4.7 stars across 1,440 reviews. That number doesn't happen without consistency. Book same-day, walk in relaxed, walk out fixed. Save this for your Phu Quoc trip.",
+    "video_caption": "Hands working out three days of beach knots. This is Phu Quoc Day Spa on Đường Trần Hưng Đạo. 4.7 stars, 1,440 reviews, and tourists keep walking past it. Don't.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about this spa. 4.7★ across 1,440 reviews on Đường Trần Hưng Đạo. Tag your travel buddy.",
+    "video_caption": "1,440 people rated this place 4.7★. Tourists keep walking past. You now know where it is.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Tourists walk past. Locals book it. 4.7★ spa on Đường Trần Hưng Đạo 👇 #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Street-level shot: 100/3 Đường Trần Hưng Đạo entrance",
+      "Hands pressing into shoulder blades",
+      "Rating card: 4.7★ 1,440 reviews slides in",
+      "Client face, eyes closed, visibly de-stressed",
+      "Walking out onto sunny Phu Quoc street"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

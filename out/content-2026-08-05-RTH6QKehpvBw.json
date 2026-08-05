@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "3,863 reviews. 4.8 stars. And somehow still flying under the radar.\n\nFIONA SPA on Đường Trần Hưng Đạo is what happens when a spa actually earns its reputation. Tourists walk past chasing the big resort names. Locals keep coming back here.\n\nBook a slot before your beach day. You'll thank yourself after.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Hands working out every knot from a full day on the sand. This is FIONA SPA, 4.8 stars across 3,863 reviews, and the line outside tells you everything you need to know.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "3,863 reviews. 4.8 stars. FIONA SPA delivers every time.\n\nBook before your beach day. Tag your travel buddy.",
+    "video_caption": "Post-beach, every muscle wrecked. FIONA SPA fixed that. 4.8 stars, 3,863 reviews. Real.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars. 3,863 reviews. Phu Quoc's most underrated spa. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "3,863 reviews. 4.8 stars.",
+    "scenes": [
+      "Exterior shot: FIONA SPA sign on Đường Trần Hưng Đạo",
+      "Receptionist greets guests at front desk",
+      "Therapist begins shoulder massage, close-up",
+      "Slow pan across treatment room lighting",
+      "Guest exits, visibly relaxed, smiling"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

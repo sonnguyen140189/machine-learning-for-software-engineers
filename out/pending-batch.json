@@ -1,0 +1,525 @@
+{
+  "stamp": "2026-08-05",
+  "items": [
+    {
+      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
+      "placeName": "Jerry's Jungle Tours",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-05-RVdeTFM021V4-0.jpg",
+        "out/media/2026-08-05-RVdeTFM021V4-1.jpg",
+        "out/media/2026-08-05-RVdeTFM021V4-2.jpg",
+        "out/media/2026-08-05-RVdeTFM021V4-3.jpg",
+        "out/media/2026-08-05-RVdeTFM021V4-4.jpg",
+        "out/media/2026-08-05-RVdeTFM021V4-5.jpg",
+        "out/media/2026-08-05-RVdeTFM021V4-6.jpg",
+        "out/media/2026-08-05-RVdeTFM021V4-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.4 stars in Cửa Lấp, Phú Quốc. 69 reviews from people who actually did the jungle. Jerry's Jungle Tours runs guided trips into the parts of the island most visitors never reach. No big-bus energy. Just small groups, local knowledge, and real jungle. Book before your schedule fills up with beach bars. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the canopy close in around you. Jerry's Jungle Tours, Cửa Lấp. 4.4 stars, 69 reviews, zero resort-tour vibes. This is the Phu Quoc most people fly home without seeing.",
+          "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #ExploreVietnam"
+        },
+        "instagram": {
+          "caption": "4.4 stars. 69 reviews. The jungle side of Phu Quoc most tourists skip. Jerry's Jungle Tours, Cửa Lấp. Tag your travel buddy.",
+          "video_caption": "Into the jungle. 4.4-star tours at Cửa Lấp. Not on most itineraries. Should be on yours.",
+          "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocVietnam #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #VisitVietnam"
+        },
+        "tiktok": {
+          "caption": "4.4 stars and Phu Quoc jungle trails most tourists never find. Jerry's Jungle Tours delivers. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.4 stars. Real jungle. Phu Quoc.",
+          "scenes": [
+            "Drone rises over dense jungle canopy",
+            "Guide leads group down narrow trail",
+            "Close-up: boots hitting muddy jungle floor",
+            "Group pauses at jungle viewpoint",
+            "Sign: Jerry's Jungle Tours, Cửa Lấp"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJyQi3u2GMpzERVXgllKB2V_A",
+      "placeName": "RED RIVER TOURS",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-05-RVXgllKB2V_A-0.jpg",
+        "out/media/2026-08-05-RVXgllKB2V_A-1.jpg",
+        "out/media/2026-08-05-RVXgllKB2V_A-2.jpg",
+        "out/media/2026-08-05-RVXgllKB2V_A-3.jpg",
+        "out/media/2026-08-05-RVXgllKB2V_A-4.jpg",
+        "out/media/2026-08-05-RVXgllKB2V_A-5.jpg",
+        "out/media/2026-08-05-RVXgllKB2V_A-6.jpg",
+        "out/media/2026-08-05-RVXgllKB2V_A-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-05-RVXgllKB2V_A.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists book the big resort tours. Locals point you here instead. Red River Tours on Đường Trần Hưng Đạo is the agency repeat visitors quietly come back to. 4.1 stars across 362 reviews. Small outfit, real itineraries, fewer crowds. Skip the hotel desk upsell. Save this for your Phu Quoc trip.",
+          "video_caption": "Walking into Red River Tours on Đường Trần Hưng Đạo. 362 reviews. Not the flashy resort desk. Just the agency regulars keep recommending. Here's why.",
+          "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTravel #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "Tourists skip this. Regulars don't. Red River Tours, 362 reviews, 4.1 stars. Real itineraries, no resort markup. Tag your travel buddy.",
+          "video_caption": "The tour agency locals recommend. Not the hotel desk. Red River Tours. 362 reviews don't lie.",
+          "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #IslandTours"
+        },
+        "tiktok": {
+          "caption": "Not the resort tour desk. This is where regulars book. Red River Tours, Phu Quoc. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Tourists keep walking past this.",
+          "scenes": [
+            "Exterior shot: 379 Đường Trần Hưng Đạo storefront",
+            "Close-up: review screen showing 4.1 stars, 362 reviews",
+            "Staff reviewing tour map with a traveler",
+            "Cut to: boat tour, snorkel gear, island coastline",
+            "Text overlay: skip the hotel desk"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ_QHQ2eWNpzER0VcwkboktMU",
+      "placeName": "Golden Foot Massage Phú Quốc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-05-R0VcwkboktMU-0.jpg",
+        "out/media/2026-08-05-R0VcwkboktMU-1.jpg",
+        "out/media/2026-08-05-R0VcwkboktMU-2.jpg",
+        "out/media/2026-08-05-R0VcwkboktMU-3.jpg",
+        "out/media/2026-08-05-R0VcwkboktMU-4.jpg",
+        "out/media/2026-08-05-R0VcwkboktMU-5.jpg",
+        "out/media/2026-08-05-R0VcwkboktMU-6.jpg",
+        "out/media/2026-08-05-R0VcwkboktMU-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Locals? They book it twice a week.\n\nGolden Foot Massage Phú Quốc is sitting on a 4.9★ rating from 461 reviews and somehow still flies under the radar. Foot massage, full body, the works. Right on the main strip, zero resort markup.\n\nYour legs after a beach day will thank you. Save this for your Phu Quoc trip.",
+          "video_caption": "Feet hit the mat. Music drops. The next 60 minutes? Pure reset. Golden Foot Massage Phú Quốc, Đường Trần Hưng Đạo. 4.9 stars. Most tourists never stop here.",
+          "first_comment": "#PhuQuoc #PhuQuocMassage #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Tourists walk past this every day. 4.9★, 461 reviews. Golden Foot Massage Phú Quốc delivers.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "60 minutes. 4.9 stars. Zero resort crowds. Golden Foot Massage Phú Quốc on Đường Trần Hưng Đạo.",
+          "hashtags": "#PhuQuocMassage #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+        },
+        "tiktok": {
+          "caption": "4.9 stars on the main strip and tourists still walk past it daily 😤 Golden Foot Massage Phú Quốc #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't tell you about this.",
+          "scenes": [
+            "Exterior shot, Đường Trần Hưng Đạo signage",
+            "Door opens, calm interior revealed",
+            "Feet lowered into warm soak basin",
+            "Therapist works pressure points, close-up",
+            "Rating card: 4.9★ 461 reviews on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJcQI2WEyNpzERiZfbiTwGiHU",
+      "placeName": "Hello Spa - Massage & Nail",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-05-RiZfbiTwGiHU-0.jpg",
+        "out/media/2026-08-05-RiZfbiTwGiHU-1.jpg",
+        "out/media/2026-08-05-RiZfbiTwGiHU-2.jpg",
+        "out/media/2026-08-05-RiZfbiTwGiHU-3.jpg",
+        "out/media/2026-08-05-RiZfbiTwGiHU-4.jpg",
+        "out/media/2026-08-05-RiZfbiTwGiHU-5.jpg",
+        "out/media/2026-08-05-RiZfbiTwGiHU-6.jpg",
+        "out/media/2026-08-05-RiZfbiTwGiHU-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-05-RiZfbiTwGiHU.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "5.0 stars. 132 reviews. Zero complaints.\n\nHello Spa - Massage & Nail sits right at chợ đêm Phú Quốc, so you can book a massage after dinner and walk back to your hotel in 10 minutes. Full five stars across 132 reviews is rare anywhere. In a busy night-market strip, it's almost unheard of.\n\nBook ahead. This one fills up fast. Save this for your Phu Quoc trip.",
+          "video_caption": "Hands working out every knot after a long beach day. This is Hello Spa - Massage & Nail at chợ đêm Phú Quốc. 5.0 stars from 132 people. Your body will thank you.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #PhuQuocNightMarket #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "5.0 stars. 132 reviews. Not one person left disappointed.\n\nHello Spa - Massage & Nail, chợ đêm Phú Quốc. Book ahead.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "132 reviews. Perfect score. Hello Spa - Massage & Nail is right at chợ đêm Phú Quốc. Go after dinner. Thank yourself later.",
+          "hashtags": "#PhuQuocSpa #PhuQuocNightMarket #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "5.0 stars from 132 people at chợ đêm Phú Quốc. This spa slot books out fast. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "5.0 stars. 132 reviews.",
+          "scenes": [
+            "Close-up: phone screen showing 5.0 rating",
+            "Wide shot: busy chợ đêm Phú Quốc at night",
+            "Spa door, warm light, guests entering",
+            "Hands receiving shoulder massage",
+            "Nail station, detailed close-up work",
+            "Guest leaving relaxed, night market behind"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJK6PXziqyU2gREZvk_pErVag",
+      "placeName": "Dgold Spa - body massage, foot massage, shampoo, nail",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-05-REZvk_pErVag-0.jpg",
+        "out/media/2026-08-05-REZvk_pErVag-1.jpg",
+        "out/media/2026-08-05-REZvk_pErVag-2.jpg",
+        "out/media/2026-08-05-REZvk_pErVag-3.jpg",
+        "out/media/2026-08-05-REZvk_pErVag-4.jpg",
+        "out/media/2026-08-05-REZvk_pErVag-5.jpg",
+        "out/media/2026-08-05-REZvk_pErVag-6.jpg",
+        "out/media/2026-08-05-REZvk_pErVag-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Big mistake.\n\nDgold Spa is doing body massage, foot massage, shampoo, and nail services out of a quiet spot in Khu 1. 4.9 stars across 72 reviews. That score doesn't happen without repeat customers, and repeat customers in Phu Quoc are almost always locals.\n\nBook a foot massage after a beach day. You'll understand the rating.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Feet wrecked after the beach? Watch this. Dgold Spa on Đường Trần Hưng Đạo, 4.9 stars, 72 reviews, and almost zero tourist traffic. Body massage, foot massage, nails, shampoo. All under one roof.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about Dgold Spa. 4.9 stars, 72 reviews, zero tourist crowd.\n\nBody massage, foot massage, nails, shampoo. Đường Trần Hưng Đạo, Khu 1.\n\nTag your travel buddy.",
+          "video_caption": "4.9 stars and nobody's talking about it. Dgold Spa, Phu Quoc. Don't scroll past this.",
+          "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.9 stars and locals keep it quiet. Dgold Spa, Phu Quoc. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't post this spa.",
+          "scenes": [
+            "Pan up storefront on Đường Trần Hưng Đạo",
+            "Close-up: 4.9-star rating on screen",
+            "Hands pressing into foot massage",
+            "Shampoo wash, slow camera pull back",
+            "Nail finish, satisfied client reaction"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJiyzaO4CNpzERTH6QKehpvBw",
+      "placeName": "FIONA SPA",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-05-RTH6QKehpvBw-0.jpg",
+        "out/media/2026-08-05-RTH6QKehpvBw-1.jpg",
+        "out/media/2026-08-05-RTH6QKehpvBw-2.jpg",
+        "out/media/2026-08-05-RTH6QKehpvBw-3.jpg",
+        "out/media/2026-08-05-RTH6QKehpvBw-4.jpg",
+        "out/media/2026-08-05-RTH6QKehpvBw-5.jpg",
+        "out/media/2026-08-05-RTH6QKehpvBw-6.jpg",
+        "out/media/2026-08-05-RTH6QKehpvBw-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-05-RTH6QKehpvBw.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "3,863 reviews. 4.8 stars. And somehow still flying under the radar.\n\nFIONA SPA on Đường Trần Hưng Đạo is what happens when a spa actually earns its reputation. Tourists walk past chasing the big resort names. Locals keep coming back here.\n\nBook a slot before your beach day. You'll thank yourself after.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Hands working out every knot from a full day on the sand. This is FIONA SPA, 4.8 stars across 3,863 reviews, and the line outside tells you everything you need to know.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "3,863 reviews. 4.8 stars. FIONA SPA delivers every time.\n\nBook before your beach day. Tag your travel buddy.",
+          "video_caption": "Post-beach, every muscle wrecked. FIONA SPA fixed that. 4.8 stars, 3,863 reviews. Real.",
+          "hashtags": "#PhuQuocSpa #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.8 stars. 3,863 reviews. Phu Quoc's most underrated spa. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "3,863 reviews. 4.8 stars.",
+          "scenes": [
+            "Exterior shot: FIONA SPA sign on Đường Trần Hưng Đạo",
+            "Receptionist greets guests at front desk",
+            "Therapist begins shoulder massage, close-up",
+            "Slow pan across treatment room lighting",
+            "Guest exits, visibly relaxed, smiling"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
+      "placeName": "Phu Quoc Day Spa - 푸꾸옥 스파 마사지 - 富国岛的水疗按摩",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-05-RC9__5hfKN_Q-0.jpg",
+        "out/media/2026-08-05-RC9__5hfKN_Q-1.jpg",
+        "out/media/2026-08-05-RC9__5hfKN_Q-2.jpg",
+        "out/media/2026-08-05-RC9__5hfKN_Q-3.jpg",
+        "out/media/2026-08-05-RC9__5hfKN_Q-4.jpg",
+        "out/media/2026-08-05-RC9__5hfKN_Q-5.jpg",
+        "out/media/2026-08-05-RC9__5hfKN_Q-6.jpg",
+        "out/media/2026-08-05-RC9__5hfKN_Q-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Their loss. Phu Quoc Day Spa sits at 100/3 and pulls 4.7 stars across 1,440 reviews. That number doesn't happen without consistency. Book same-day, walk in relaxed, walk out fixed. Save this for your Phu Quoc trip.",
+          "video_caption": "Hands working out three days of beach knots. This is Phu Quoc Day Spa on Đường Trần Hưng Đạo. 4.7 stars, 1,440 reviews, and tourists keep walking past it. Don't.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about this spa. 4.7★ across 1,440 reviews on Đường Trần Hưng Đạo. Tag your travel buddy.",
+          "video_caption": "1,440 people rated this place 4.7★. Tourists keep walking past. You now know where it is.",
+          "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Tourists walk past. Locals book it. 4.7★ spa on Đường Trần Hưng Đạo 👇 #PhuQuoc #PhuQuocSpa #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Tourists keep walking past this.",
+          "scenes": [
+            "Street-level shot: 100/3 Đường Trần Hưng Đạo entrance",
+            "Hands pressing into shoulder blades",
+            "Rating card: 4.7★ 1,440 reviews slides in",
+            "Client face, eyes closed, visibly de-stressed",
+            "Walking out onto sunny Phu Quoc street"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJqx54JIyNpzERfmx8wXohQ4U",
+      "placeName": "Little WIN SPA 2 - MASSAGE (전신 마사지, 풋 마사지)",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-05-Rfmx8wXohQ4U-0.jpg",
+        "out/media/2026-08-05-Rfmx8wXohQ4U-1.jpg",
+        "out/media/2026-08-05-Rfmx8wXohQ4U-2.jpg",
+        "out/media/2026-08-05-Rfmx8wXohQ4U-3.jpg",
+        "out/media/2026-08-05-Rfmx8wXohQ4U-4.jpg",
+        "out/media/2026-08-05-Rfmx8wXohQ4U-5.jpg",
+        "out/media/2026-08-05-Rfmx8wXohQ4U-6.jpg",
+        "out/media/2026-08-05-Rfmx8wXohQ4U-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-05-Rfmx8wXohQ4U.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: your legs stopped working after a full beach day and someone recommends Little WIN SPA 2. You go. 4.9 stars from 281 reviews later, you understand why. Full body or foot massage on Đường Trần Hưng Đạo, right in Khu 1. No resort markup. No waiting around. Just the recovery your body needed. Save this for your Phu Quoc trip.",
+          "video_caption": "Walked in wrecked. Walked out a different person. Little WIN SPA 2 on Đường Trần Hưng Đạo is pulling 4.9 stars for a reason. Foot or full body, both hit.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: you found the massage spot locals actually keep coming back to. 4.9 stars, 281 reviews. Little WIN SPA 2 delivers. Tag your travel buddy.",
+          "video_caption": "Legs gone after the beach. Little WIN SPA 2 fixed that. 4.9 stars. No notes.",
+          "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Your post-beach recovery plan sorted. Little WIN SPA 2, 4.9★, 281 reviews. Don't skip it. #PhuQuoc #PhuQuocSpa #TravelTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: you found the spa.",
+          "scenes": [
+            "Feet dragging down Đường Trần Hưng Đạo",
+            "Storefont of Little WIN SPA 2 appears",
+            "Close-up: 4.9 stars on screen",
+            "Hands pressing tired foot muscles",
+            "Guest melts into massage chair",
+            "Walking out, pace completely changed"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJjXUjGRmNpzERbpTPg0YpR3g",
+      "placeName": "Miss Tiên Spa-Body & Foot Massage",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-05-RbpTPg0YpR3g-0.jpg",
+        "out/media/2026-08-05-RbpTPg0YpR3g-1.jpg",
+        "out/media/2026-08-05-RbpTPg0YpR3g-2.jpg",
+        "out/media/2026-08-05-RbpTPg0YpR3g-3.jpg",
+        "out/media/2026-08-05-RbpTPg0YpR3g-4.jpg",
+        "out/media/2026-08-05-RbpTPg0YpR3g-5.jpg",
+        "out/media/2026-08-05-RbpTPg0YpR3g-6.jpg",
+        "out/media/2026-08-05-RbpTPg0YpR3g-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "522 reviews. 4.5 stars. On a street most tourists never walk down.\n\nMiss Tiên Spa-Body & Foot Massage at 94 Đường Bạch Đằng is the kind of place repeat visitors quietly rebook before they leave the island. Body massage, foot massage, real results.\n\nNo resort markup. No tourist trap pricing. Just consistent work that keeps pulling people back.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Feet on the mat. Hands at work. 522 people gave Miss Tiên Spa-Body & Foot Massage 4.5 stars and most of them weren't first-timers. Find it at 94 Đường Bạch Đằng before the crowds do.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "522 reviews. 4.5 stars. Foot massage on a street tourists skip.\n\nMiss Tiên Spa-Body & Foot Massage, 94 Đường Bạch Đằng. Save this.",
+          "video_caption": "Calves burning after the beach? 522 people already found the fix. Miss Tiên Spa. 4.5 stars. Go.",
+          "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+        },
+        "tiktok": {
+          "caption": "522 reviews. 4.5 stars. The spa tourists keep walking past in Phu Quoc. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "522 reviews. 4.5 stars.",
+          "scenes": [
+            "Exterior shot: 94 Đường Bạch Đằng sign",
+            "Hands press into tired foot sole",
+            "Google review screen: 4.5 stars scrolling",
+            "Guest sinks into massage chair, eyes close",
+            "Street-level view, locals passing by"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJw0auYQCNpzER8BCjNBsmIBs",
+      "placeName": "LUA SPA",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-05-R8BCjNBsmIBs-0.jpg",
+        "out/media/2026-08-05-R8BCjNBsmIBs-1.jpg",
+        "out/media/2026-08-05-R8BCjNBsmIBs-2.jpg",
+        "out/media/2026-08-05-R8BCjNBsmIBs-3.jpg",
+        "out/media/2026-08-05-R8BCjNBsmIBs-4.jpg",
+        "out/media/2026-08-05-R8BCjNBsmIBs-5.jpg",
+        "out/media/2026-08-05-R8BCjNBsmIBs-6.jpg",
+        "out/media/2026-08-05-R8BCjNBsmIBs-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-05-R8BCjNBsmIBs.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists scroll past this one. 4.8 stars across 2,116 reviews and it still flies under the radar on Đường Trần Hưng Đạo. LUA SPA is what repeat visitors to Phu Quoc quietly book before they even land. No gimmicks. Just seriously good work. Add it to your itinerary before someone else posts it. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the tension leave. LUA SPA on Đường Trần Hưng Đạo. 4.8 stars, 2,116 reviews, and most tourists walk straight past it. Book before your flight lands.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about LUA SPA. 4.8 stars. 2,116 reviews. Still under the radar on Đường Trần Hưng Đạo. Save this.",
+          "video_caption": "2,116 people rated it 4.8. You walked past it. Don't. LUA SPA, Phu Quoc.",
+          "hashtags": "#PhuQuocSpa #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocLife"
+        },
+        "tiktok": {
+          "caption": "Most tourists never find this. LUA SPA, Phu Quoc. 4.8 stars, 2,116 reviews. Now you know. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Locals keep this one quiet.",
+          "scenes": [
+            "Slow pan: shopfront on Đường Trần Hưng Đạo",
+            "Close-up: 4.8-star rating on screen",
+            "Hands receiving massage treatment",
+            "Therapist working on client's back",
+            "Guest exhales, eyes closed, relaxed"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ3ZgwWLONpzERIM11I5sYgVs",
+      "placeName": "Massage Phú Quốc - Nhiên Spa | 마사지 | 스파 | Spa Phu Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-05-RIM11I5sYgVs-0.jpg",
+        "out/media/2026-08-05-RIM11I5sYgVs-1.jpg",
+        "out/media/2026-08-05-RIM11I5sYgVs-2.jpg",
+        "out/media/2026-08-05-RIM11I5sYgVs-3.jpg",
+        "out/media/2026-08-05-RIM11I5sYgVs-4.jpg",
+        "out/media/2026-08-05-RIM11I5sYgVs-5.jpg",
+        "out/media/2026-08-05-RIM11I5sYgVs-6.jpg",
+        "out/media/2026-08-05-RIM11I5sYgVs-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes Phu Quoc overload. 4.8 stars across 295 reviews, and Massage Phú Quốc - Nhiên Spa earns every one. Beach days are great until your shoulders aren't. Walk in, let the staff sort you out, walk out feeling like a different person. Quiet, professional, no tourist-trap energy. Save this for your Phu Quoc trip.",
+          "video_caption": "Hands working out 3 days of sand, sun, and scooter rides. Massage Phú Quốc - Nhiên Spa at 43A Mạc Thiên Tích. 4.8 stars. 295 reviews. Your body will thank you.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #SpaVietnam #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "Phu Quoc that doesn't feel touristy. Massage Phú Quốc - Nhiên Spa, 4.8★, 295 reviews. Tag your travel buddy.",
+          "video_caption": "4.8 stars. 295 reviews. Nhiên Spa fixes what the beach broke. Book before you regret it.",
+          "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #SpaDay"
+        },
+        "tiktok": {
+          "caption": "Your body after 3 beach days needs this. Massage Phú Quốc - Nhiên Spa. 4.8★ 295 reviews. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Phu Quoc broke your body.",
+          "scenes": [
+            "Exterior sign: Nhiên Spa, street view",
+            "Guest stepping through front door",
+            "Therapist preparing warm towels",
+            "Hands pressing along shoulder blades",
+            "Guest face-down, visibly relaxed",
+            "Exit shot: guest smiling, street behind"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJd4s74SiNpzERSsU3_x_0EsI",
+      "placeName": "JOY spa ( Massage _ Waxing _ Nail _Shampoo )",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-05-RSsU3_x_0EsI-0.jpg",
+        "out/media/2026-08-05-RSsU3_x_0EsI-1.jpg",
+        "out/media/2026-08-05-RSsU3_x_0EsI-2.jpg",
+        "out/media/2026-08-05-RSsU3_x_0EsI-3.jpg",
+        "out/media/2026-08-05-RSsU3_x_0EsI-4.jpg",
+        "out/media/2026-08-05-RSsU3_x_0EsI-5.jpg",
+        "out/media/2026-08-05-RSsU3_x_0EsI-6.jpg",
+        "out/media/2026-08-05-RSsU3_x_0EsI-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-05-RSsU3_x_0EsI.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "5.0 stars. 45 reviews. Zero exceptions.\n\nJOY spa on Đường Trần Hưng Đạo delivers massage, waxing, nails, and shampoo treatments in one stop. A perfect score across 45 real reviews is rare anywhere. In Phu Quoc, it's almost unheard of.\n\nBook this before your beach day or right after. Your feet will thank you.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the tension leave. Massage, nails, wax, shampoo, all at JOY spa, Đường Trần Hưng Đạo. 5.0 stars from 45 reviews. That score doesn't lie.",
+          "first_comment": "#PhuQuoc #PhuQuocSpa #VisitVietnam #TravelTips #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "5.0 stars. 45 reviews. JOY spa is a clean sweep.\n\nMassage, nails, wax, shampoo. One address on Đường Trần Hưng Đạo. Save this.",
+          "video_caption": "Full spa day on Đường Trần Hưng Đạo. JOY spa. 5 stars, 45 reviews, zero dips. This is the one.",
+          "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+        },
+        "tiktok": {
+          "caption": "5.0 stars, 45 reviews, not one slip. JOY spa on Đường Trần Hưng Đạo is the real deal. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "5.0★ from 45 reviews. Perfect.",
+          "scenes": [
+            "Exterior shot: JOY spa signage on Đường Trần Hưng Đạo",
+            "Hands receiving nail treatment, close-up",
+            "Therapist working a back massage",
+            "Shampoo station, water running over hair",
+            "Waxing setup laid out clean on table",
+            "Pull back: satisfied customer leaving, smiling"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

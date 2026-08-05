@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 45 reviews. Zero exceptions.\n\nJOY spa on Đường Trần Hưng Đạo delivers massage, waxing, nails, and shampoo treatments in one stop. A perfect score across 45 real reviews is rare anywhere. In Phu Quoc, it's almost unheard of.\n\nBook this before your beach day or right after. Your feet will thank you.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the tension leave. Massage, nails, wax, shampoo, all at JOY spa, Đường Trần Hưng Đạo. 5.0 stars from 45 reviews. That score doesn't lie.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #VisitVietnam #TravelTips #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 45 reviews. JOY spa is a clean sweep.\n\nMassage, nails, wax, shampoo. One address on Đường Trần Hưng Đạo. Save this.",
+    "video_caption": "Full spa day on Đường Trần Hưng Đạo. JOY spa. 5 stars, 45 reviews, zero dips. This is the one.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+  },
+  "tiktok": {
+    "caption": "5.0 stars, 45 reviews, not one slip. JOY spa on Đường Trần Hưng Đạo is the real deal. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5.0★ from 45 reviews. Perfect.",
+    "scenes": [
+      "Exterior shot: JOY spa signage on Đường Trần Hưng Đạo",
+      "Hands receiving nail treatment, close-up",
+      "Therapist working a back massage",
+      "Shampoo station, water running over hair",
+      "Waxing setup laid out clean on table",
+      "Pull back: satisfied customer leaving, smiling"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
