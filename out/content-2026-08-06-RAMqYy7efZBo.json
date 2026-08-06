@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "42,996 reviews. Average: 4.9 stars. That number doesn't lie.\n\nVinpearl Resort & Spa Phú Quốc sits right on Bãi Dài, one of the longest stretches of sand on the island. Beachfront rooms, a full water park, multiple restaurants, and a golf course, all in one property.\n\nThis is the resort you stop second-guessing and just book.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the water park, the beach, and the infinity pool, all at the same resort. Vinpearl Resort & Spa Phú Quốc on Bãi Dài is doing something right. 42,996 people agree.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #VisitVietnam #PhuQuocTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "42,996 reviews. 4.9 stars. Vinpearl Resort & Spa Phú Quốc on Bãi Dài.\nTag your travel buddy.",
+    "video_caption": "Water park. Beachfront. Golf. 4.9 stars from 42,996 guests. Vinpearl Phú Quốc delivers.",
+    "hashtags": "#PhuQuocResort #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachResort"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 42,996 reviews. Vinpearl Resort & Spa Phú Quốc on Bãi Dài hits different. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "42,996 reviews. 4.9 stars.",
+    "scenes": [
+      "Aerial shot: Bãi Dài coastline at sunrise",
+      "Pan across beachfront pool to ocean",
+      "Kids launching down water park slides",
+      "Chef plating food at resort restaurant",
+      "Golf fairway backed by palm trees",
+      "Guest walking shoreline at golden hour"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 1,820 reviews. At a café in Duong Dong.\n\nCAFE GREEN(카페그린) on Trần Hưng Đạo is not playing around. The mango bingsu alone justifies the visit. Cold, loaded, and built for Phu Quoc heat.\n\nPricing sits at $15-30 per person. Worth every cent for the quality.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Mango bingsu hitting the table at CAFE GREEN(카페그린). 4.9 stars on 1,820 reviews and you can taste why. Duong Dong just leveled up your café game.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocFood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 1,820 reviews. One mango bingsu. CAFE GREEN(카페그린), Duong Dong.\n\nTag your travel buddy.",
+    "video_caption": "Mango bingsu just fixed the Phu Quoc heat. CAFE GREEN(카페그린) hits different at 4.9 stars.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.9 stars in Duong Dong. The mango bingsu is the reason. #PhuQuoc #PhuQuocFood #PhuQuocCafe #CafeGreen"
+  },
+  "video_script": {
+    "hook": "4.9 STARS. 1,820 REVIEWS.",
+    "scenes": [
+      "Exterior shot of CAFE GREEN(카페그린) sign",
+      "Close-up: mango bingsu landing on table",
+      "Spoon cuts through shaved ice layer",
+      "Pull back: packed café, happy customers",
+      "Rating card: 4.9★ on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

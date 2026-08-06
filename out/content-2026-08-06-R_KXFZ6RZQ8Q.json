@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc that doesn't feel touristy. At Phu Quoc Bee Farm, you're standing in the middle of actual working hives, tasting honey straight from the comb, and suddenly the whole island slows down. No beach crowds. No cocktail menus. Just bees, blooms, and a pace that genuinely resets you. Rated 4.8 stars across 776 reviews and most visitors say they almost skipped it. Don't be one of them. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch a beekeeper pull a live frame from the hive, dripping with fresh honey. This is Phu Quoc Bee Farm, and it hits differently when you're actually there. 4.8 stars. 776 reviews. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #VietnamTravel #PhuQuocAttractions"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. Live hives, fresh honey off the comb, zero crowds. 4.8★, 776 reviews. Save this.",
+    "video_caption": "Beekeeper pulls a live frame. Honey drips. Crowd size: zero. Phu Quoc Bee Farm hits different.",
+    "hashtags": "#PhuQuocTips #PhuQuocAttractions #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #PhuQuoc #VietnamTips"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc that actually slows you down. Live hives, real honey, zero tourist chaos. 4.8★ for a reason. #PhuQuoc #VietnamTravel #PhuQuocTips #TravelTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that fixes burnout.",
+    "scenes": [
+      "Beekeeper lifts live frame from hive",
+      "Honey drips slow in sunlight",
+      "Tourist tastes comb honey, eyes close",
+      "Wide shot: flower fields, zero crowds",
+      "Close-up: 4.8 stars, 776 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

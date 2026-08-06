@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Cassia Cottage Resort & Spa sits on a private beach on Đường Trần Hưng Đạo, and the vibe hits different from the second you walk in. Outdoor pools, a beach bar, a full spa, 4.6 stars across 1,404 reviews. Not a big-chain resort. Not a party hotel. Just quiet, done properly. Save this for your Phu Quoc trip.",
+    "video_caption": "Private beach. Beach bar. Outdoor pool. Cassia Cottage Resort & Spa on Đường Trần Hưng Đạo is what a Phu Quoc reset actually looks like. 4.6 stars, 1,404 reviews. Book early.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Private beach, spa, beach bar. Cassia Cottage Resort, 4.6★ from 1,404 guests. Tag your travel buddy.",
+    "video_caption": "Pool to beach bar in 30 seconds flat. Cassia Cottage Resort & Spa, Phu Quoc. 4.6★. You need this trip.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Private beach + beach bar + spa in Phu Quoc. This is the reset you need. #PhuQuoc #PhuQuocResort #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Aerial drone pull back over private beach",
+      "Feet stepping onto white sand at water's edge",
+      "Bartender slides drink across beach bar",
+      "Slow pan across shimmering outdoor pool",
+      "Guest sinks into spa treatment chair",
+      "Sunset over the water from beach bar"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

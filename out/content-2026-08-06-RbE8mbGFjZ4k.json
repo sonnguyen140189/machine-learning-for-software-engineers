@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you took the east coast road and found Rạch Hàm.\n\nHam Ninh is a working fishing village on the quiet side of Phu Quoc. Wooden boats, crab traps, locals who aren't watching you. No beach clubs. No pool bars.\n\nJust fresh seafood, a rickety pier, and the actual island underneath all the resorts.\n\n4.1 stars across 1,038 reviews. Go before it gets loud.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Wooden boats rocking. Crab pots stacked high. This is the Phu Quoc most tourists drive straight past.\n\nHam Ninh fishing village on the east coast. 1,038 people rated it 4.1 stars. Enough said.\n\nTag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocVietnam #VisitVietnam #TravelTips #PhuQuocHiddenBeach #IslandLife #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Took the east coast road. Found Ham Ninh. Big mistake skipping it this long.\n\nWorking pier, fresh crab, zero resort energy. 4.1★ / 1,038 reviews.",
+    "video_caption": "Wooden boats. Real fishermen. The Phu Quoc nobody films.\n\nHam Ninh village, east coast. Go.",
+    "hashtags": "#PhuQuoc #PhuQuocVietnam #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "Drove past the resorts and found this. Ham Ninh fishing village hits different. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Took the wrong road. Found this.",
+    "scenes": [
+      "Aerial: wooden pier juts into calm water",
+      "Close-up: crab traps stacked on dock",
+      "Fishermen hauling nets, backs turned",
+      "Pan: row of seafood stalls, steam rising",
+      "Wide shot: empty road, no resorts in sight"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
