@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJI8DOC6r1pzER4RZWiBFkfxc",
+    "ChIJq31LD1-MpzERdIuwa2Bg2ok",
+    "ChIJ9T54ktqNpzERu6dsX5pZXx4",
+    "ChIJbdRC8WqSpzERtGShQM46Sx8",
+    "ChIJif-3eKuNpzERQNn7TSJoUsA",
+    "ChIJ1aeQ29SNpzERQ6q22sUKYRc",
+    "ChIJ07kLWwCTpzERMUTHN5TrzFY",
+    "ChIJw58lTZeNpzERBCwsZlG8gwA",
+    "ChIJVRCAbGGNpzERkJ7P7jN-dls",
+    "ChIJO2yx-4eMpzER80b94-QiU6c",
+    "ChIJj9eeH0-XpzERR3O-7B0rxFo",
+    "ChIJG0omSAeNpzERTWnB_Eaa4c8",
     "ChIJ017u9rKNpzERuFNuG_u0HJk",
     "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
     "ChIJq6qqEz8eCDER7vOnb6Q6Ol8",
@@ -187,21 +199,189 @@
     "ChIJCcDXjO2NpzERpuULcuYBz_U",
     "ChIJqfezlgAfCDERaYwzQEp_Rkc",
     "ChIJGXZel_ONpzERtQgInjMPXU4",
-    "ChIJLS6KuYmLpzER6fHJ__iaMqw",
-    "ChIJY9wKiiCNpzERVASet8RYkRg",
-    "ChIJOwIiCSmNpzER1ISpdLmLcEg",
-    "ChIJl8UfBQGNpzERWCMLl5afNZA",
-    "ChIJSQvg5PCNpzERilomshpyO-w",
-    "ChIJ-RvbtGiNpzER2H1IufKqjGc",
-    "ChIJh6tNOEiNpzERxoGlcVd66u4",
-    "ChIJs78WzrCNpzERsMQhq5rVxJU",
-    "ChIJF33R8xCLpzERFtTAVV7G-14",
-    "ChIJ92MYQACNpzERK6dM8g8-pG0",
-    "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
-    "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
-    "ChIJlZ8x-y-NpzERmNxpJhjw9-0"
+    "ChIJLS6KuYmLpzER6fHJ__iaMqw"
   ],
   "history": [
+    {
+      "date": "2026-08-07",
+      "placeId": "ChIJI8DOC6r1pzER4RZWiBFkfxc",
+      "placeName": "Eco Lagoon",
+      "results": {
+        "facebookVideo": {
+          "id": "899229266591856"
+        },
+        "instagramReel": {
+          "id": "17901717501473205"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "placeId": "ChIJq31LD1-MpzERdIuwa2Bg2ok",
+      "placeName": "Sunset Beach Bar & Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117746275313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17982809637026563"
+        }
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "placeId": "ChIJ9T54ktqNpzERu6dsX5pZXx4",
+      "placeName": "Tahiti Hotel",
+      "results": {
+        "facebookVideo": {
+          "id": "1771244770987492"
+        },
+        "instagramReel": {
+          "id": "18211752280354231"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "placeId": "ChIJbdRC8WqSpzERtGShQM46Sx8",
+      "placeName": "Thanh Kieu Beach Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117745195313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17931237660364502"
+        }
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "placeId": "ChIJif-3eKuNpzERQNn7TSJoUsA",
+      "placeName": "Vida Loca Resort & Sunset Beach Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1366197832373900"
+        },
+        "instagramReel": {
+          "id": "17862865179663331"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "placeId": "ChIJ1aeQ29SNpzERQ6q22sUKYRc",
+      "placeName": "OCSEN Beach Bar & Club",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117744415313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17936812473342172"
+        }
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "placeId": "ChIJ07kLWwCTpzERMUTHN5TrzFY",
+      "placeName": "Sonasea Public Beach Bai Truong",
+      "results": {
+        "facebookVideo": {
+          "id": "4522860374698306"
+        },
+        "instagramReel": {
+          "id": "17981610852104902"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "placeId": "ChIJw58lTZeNpzERBCwsZlG8gwA",
+      "placeName": "Sunset Sanato Beach Club",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117743491313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18003089078955550"
+        }
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "placeId": "ChIJVRCAbGGNpzERkJ7P7jN-dls",
+      "placeName": "The Home Pizza Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1249466524145023"
+        },
+        "instagramReel": {
+          "id": "17977635537086363"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "placeId": "ChIJO2yx-4eMpzER80b94-QiU6c",
+      "placeName": "HAPPY BEAR Live Music Bar & Bistro",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117742519313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18071951237429540"
+        }
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "placeId": "ChIJj9eeH0-XpzERR3O-7B0rxFo",
+      "placeName": "CÁI MÂM BISTRO",
+      "results": {
+        "facebookVideo": {
+          "id": "1038797058759330"
+        },
+        "instagramReel": {
+          "id": "17869418271587363"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "placeId": "ChIJG0omSAeNpzERTWnB_Eaa4c8",
+      "placeName": "Bếp An Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122117741673313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18414455854155376"
+        }
+      }
+    },
     {
       "date": "2026-08-06",
       "placeId": "ChIJ017u9rKNpzERuFNuG_u0HJk",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18103915589155718"
-        }
-      }
-    },
-    {
-      "date": "2026-07-22",
-      "placeId": "ChIJY9wKiiCNpzERVASet8RYkRg",
-      "placeName": "Chè Nhà Jun-Chè Ngon Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1354997709326659"
-        },
-        "instagramReel": {
-          "id": "18085493777403015"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-22",
-      "placeId": "ChIJOwIiCSmNpzER1ISpdLmLcEg",
-      "placeName": "Mì Tê - Artisan Noodles",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122115318099313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18015908027712938"
-        }
-      }
-    },
-    {
-      "date": "2026-07-22",
-      "placeId": "ChIJl8UfBQGNpzERWCMLl5afNZA",
-      "placeName": "Bombay Indian Restaurant Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "2174930606485621"
-        },
-        "instagramReel": {
-          "id": "17930158365127354"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-22",
-      "placeId": "ChIJSQvg5PCNpzERilomshpyO-w",
-      "placeName": "Là-Men Coffee & Brunch Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122115317007313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17933866935348297"
-        }
-      }
-    },
-    {
-      "date": "2026-07-21",
-      "placeId": "ChIJ-RvbtGiNpzER2H1IufKqjGc",
-      "placeName": "Ocean Night Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "2465286463955881"
-        },
-        "instagramReel": {
-          "id": "18100480082596956"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-21",
-      "placeId": "ChIJh6tNOEiNpzERxoGlcVd66u4",
-      "placeName": "Versailles - Beach Club Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122115154947313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18114412697478931"
-        }
-      }
-    },
-    {
-      "date": "2026-07-21",
-      "placeId": "ChIJs78WzrCNpzERsMQhq5rVxJU",
-      "placeName": "Hoppy Daze Craft Beer Bar Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "4084399878524015"
-        },
-        "instagramReel": {
-          "id": "18107182853101936"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-21",
-      "placeId": "ChIJF33R8xCLpzERFtTAVV7G-14",
-      "placeName": "Camia Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122115153969313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18121382203697442"
-        }
-      }
-    },
-    {
-      "date": "2026-07-21",
-      "placeId": "ChIJ92MYQACNpzERK6dM8g8-pG0",
-      "placeName": "Restaurant Bukhara halal",
-      "results": {
-        "facebookVideo": {
-          "id": "1010274541615726"
-        },
-        "instagramReel": {
-          "id": "18172598695401381"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-21",
-      "placeId": "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
-      "placeName": "FUSION Treats",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122115153153313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17935919082339921"
-        }
-      }
-    },
-    {
-      "date": "2026-07-21",
-      "placeId": "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
-      "placeName": "NINH KITCHEN - VIETNAMESE CUISINE",
-      "results": {
-        "facebookVideo": {
-          "id": "1984393462280415"
-        },
-        "instagramReel": {
-          "id": "17990364170824879"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-21",
-      "placeId": "ChIJlZ8x-y-NpzERmNxpJhjw9-0",
-      "placeName": "Rak Rock Lobster",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122115151815313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17891900550576271"
         }
       }
     }
