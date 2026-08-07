@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're in Phu Quoc and you actually want pizza. Not resort pizza. Real pizza. 4.8 stars across 7,684 reviews points you straight to The Home Pizza Phu Quoc on 129 Đường Trần Hưng Đạo. $15-30 a head. Wood-fired, proper crust, zero apologies for not being a seafood shack. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the cheese pull first. Then check the price. The Home Pizza Phu Quoc is doing $15-30 a head with a 4.8-star crowd behind it. This is what date night in Duong Dong actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocTips #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "POV: craving pizza at 4.8 stars, 7,684 reviews, $15-30 a head. The Home Pizza Phu Quoc delivers. Tag your travel buddy.",
+    "video_caption": "Cheese pull. 4.8 stars. Duong Dong. The Home Pizza Phu Quoc just changed your dinner plan.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: found a 4.8-star pizza spot in Phu Quoc for under $30. The Home Pizza Phu Quoc hits different. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: best pizza in Phu Quoc",
+    "scenes": [
+      "Exterior shot, 129 Đường Trần Hưng Đạo sign",
+      "Pizza slides out of oven, steam rising",
+      "Close up: cheese pull, slow motion",
+      "Table spread, two people digging in",
+      "Phone screen: 4.8 stars, 7,684 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists scroll past this one every time. Thanh Kieu Beach Resort sits on Đường Trần Hưng Đạo and keeps pulling 4.4 stars across 917 reviews. Not the loudest name on the strip. Just consistently delivers. Beach access, solid rooms, none of the resort-row chaos. The kind of place repeat visitors quietly rebook. Save this for your Phu Quoc trip.",
+    "video_caption": "917 people rated this place 4.4 stars and most tourists have never heard of it. Thanh Kieu Beach Resort on Đường Trần Hưng Đạo. Walk the grounds, hit the beach, skip the crowds. This is what the low-key Phu Quoc stay actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "917 reviews. 4.4 stars. Most tourists walk right past Thanh Kieu Beach Resort. Their loss. Save this for your Phu Quoc trip.",
+    "video_caption": "Beach resort energy without the tourist-trap price tag. Thanh Kieu Beach Resort. 4.4 stars. 917 reviews. Look it up.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocBeaches"
+  },
+  "tiktok": {
+    "caption": "917 reviews and tourists still sleep on this one. Thanh Kieu Beach Resort, Phu Quoc. Do your research. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this resort.",
+    "scenes": [
+      "Drone pull back from beachfront",
+      "Walking entrance of Thanh Kieu",
+      "Pan across beach access area",
+      "Close shot of resort pool or facade",
+      "Text overlay: 4.4★ across 917 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

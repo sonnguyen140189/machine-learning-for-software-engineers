@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past Bếp An Restaurant. Big mistake. 4.7 stars across 2,244 reviews on a street most visitors never turn down. This is local Phu Quoc cooking, not the watered-down resort version. Plates run $15-30 per person. Real food, real portion sizes, real crowd. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what lands on the table at Bếp An Restaurant. 84 Đường Trần Hưng Đạo, the street tourists skip. 4.7 stars. 2,244 people already know. Now you do too.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists walk past Bếp An Restaurant every day. 4.7 stars. 2,244 reviews. Their loss. Save this for your Phu Quoc trip.",
+    "video_caption": "Plates hitting the table at Bếp An Restaurant. Local Phu Quoc cooking. No resort markup. 4.7 stars says enough.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "Tourists keep skipping Bếp An Restaurant. 4.7 stars and 2,244 reviews disagree. #PhuQuoc #PhuQuocFood #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior shot: Bếp An Restaurant sign, street-level",
+      "Pan across packed tables of local diners",
+      "Close-up: steaming dish arriving at table",
+      "Hands reaching in, chopsticks moving",
+      "Screen text: 4.7 stars, 2,244 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

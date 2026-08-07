@@ -1,0 +1,26 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 1,252 reviews. Under $10 a head.\n\nCÁI MÂM BISTRO sits inside Chợ đêm Vuifest at Sunset Town and it keeps delivering. Local dishes, night market energy, prices that make no sense for how good the food is.\n\nThis is the kind of spot you eat at twice in one trip.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Night market lights, full plates, and the bill comes in under $10. CÁI MÂM BISTRO at Chợ đêm Vuifest is earning every one of those 1,252 reviews. Go hungry."
+  },
+  "instagram": {
+    "caption": "4.7 stars. 1,252 reviews. Under $10.\n\nCÁI MÂM BISTRO at Chợ đêm Vuifest is doing something right.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Night market plates under $10. CÁI MÂM BISTRO at Chợ đêm Vuifest, Phu Quoc. 1,252 reviews don't lie.",
+    "hashtags": "#PhuQuocFood #PhuQuocNightMarket #PhuQuocTips #VietnamFood #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Under $10 at a 4.7-star night market bistro in Phu Quoc? CÁI MÂM BISTRO hits different. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.7★ · 1,252 reviews · under $10",
+    "scenes": [
+      "Pan across glowing Chợ đêm Vuifest stalls at night",
+      "Close-up: steaming dishes land on table",
+      "Hands reach in, food gets picked up fast",
+      "Cut to bill arriving, total under $10",
+      "Wide shot: packed crowd, CÁI MÂM BISTRO sign lit up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

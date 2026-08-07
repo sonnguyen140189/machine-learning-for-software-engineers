@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Sunset Sanato Beach Club on Đường Bào hits different when the sky turns orange and you've got a cold drink in hand. 2,660 reviews. 4.0 stars. The crowd shows up for a reason. $15-30 a person for beach club vibes this good is a deal. Get there before the sun drops. Save this for your Phu Quoc trip.",
+    "video_caption": "Sky goes orange. Drink hits the table. Crowd fills the sand at Sunset Sanato Beach Club. This is the Phu Quoc sunset you actually came for. $15-30 a person.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #SunsetPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Sunset Sanato Beach Club, cold drink, orange sky. 2,660 reviews don't lie. Save this for your Phu Quoc trip.",
+    "video_caption": "Sky turns orange. Sand fills up fast. Sunset Sanato Beach Club is the move. $15-30 a person.",
+    "hashtags": "#PhuQuocBeach #PhuQuocTips #SunsetPhuQuoc #PhuQuocBars #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc sunset bar with 2,660 reviews. Sunset Sanato Beach Club. $15-30. Go before the sky drops. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: beach club fills with crowd",
+      "Close up: cold drink hits the table",
+      "Pan across sand to shoreline",
+      "Sky turns deep orange above water",
+      "Guests raise glasses at golden hour",
+      "Text overlay: $15-30 a person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

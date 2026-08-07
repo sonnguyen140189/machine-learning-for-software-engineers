@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout.\n\nVida Loca Resort & Sunset Beach sits right on the water on Đường Trần Hưng Đạo. You get the sunset from your chair. No walking, no chasing, no crowds.\n\n4.5 stars across 694 reviews. That number holds up.\n\nPhu Quoc moves fast now. Spots like this won't stay quiet. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the sky turn orange from the pool deck at Vida Loca Resort & Sunset Beach. 694 people gave it 4.5 stars. You'll see why in the first 10 seconds.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocSunset #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Vida Loca Resort & Sunset Beach, Phu Quoc. 4.5★, 694 reviews.\n\nTag your travel buddy.",
+    "video_caption": "Sunset hits different from this pool deck. Vida Loca Resort & Sunset Beach, Phu Quoc. 4.5 stars.",
+    "hashtags": "#PhuQuocResort #PhuQuocSunset #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocHotel"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc sunset from a pool chair. No effort required. 4.5★ resort. #PhuQuoc #PhuQuocResort #PhuQuocSunset #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Aerial pull back from resort to coastline",
+      "Slow pan across pool deck at golden hour",
+      "Guest reclining, sunset filling the frame",
+      "Close up: drink in hand, water behind",
+      "Resort sign, Đường Trần Hưng Đạo, dusk light"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
