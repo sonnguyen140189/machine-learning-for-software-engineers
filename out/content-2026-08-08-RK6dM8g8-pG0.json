@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're on a beach island in Vietnam and you find a 4.8-star halal restaurant. 523 reviews deep. On Trần Hưng Đạo, one of Phu Quoc's busiest strips. $15-30 a head. Halal-certified, no compromises. Restaurant Bukhara halal delivers the kind of meal you stop mid-bite for. Save this for your Phu Quoc trip.",
+    "video_caption": "Halal food in Phu Quoc. 4.8 stars. 523 reviews. Restaurant Bukhara halal at 35 Đường Trần Hưng Đạo is doing something right. $15-30 a person and not a bad review in sight.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #HalalTravel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: halal, 4.8 stars, Phu Quoc. Restaurant Bukhara halal is real and it slaps. $15-30 a head. Tag your travel buddy.",
+    "video_caption": "523 reviews. 4.8 stars. Halal on the island. Restaurant Bukhara halal, go.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #HalalTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "POV: you found halal 4.8-star food in Phu Quoc 🤯 Restaurant Bukhara halal, $15-30pp #PhuQuoc #HalalTravel #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Halal 4.8★ in Phu Quoc?",
+    "scenes": [
+      "Exterior shot: 35 Đường Trần Hưng Đạo",
+      "Close-up: halal certification sign",
+      "Food arriving at the table",
+      "First bite reaction, no words needed",
+      "Google review count: 523 on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

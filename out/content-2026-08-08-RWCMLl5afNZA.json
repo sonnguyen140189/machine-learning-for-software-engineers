@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 697 reviews. On a beach island in Vietnam.\n\nBombay Indian Restaurant Phú Quốc is doing something right. Real curries, fresh naan, flavors that actually hit, all for $15-30 a person. That price in a tourist zone? Rare.\n\nSit down, order the curry, skip the resort buffet tonight.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the naan come out of the kitchen at Bombay Indian Restaurant Phú Quốc. $15-30 a person. 4.9 stars from 697 people. The queue makes sense once you taste it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 697 reviews. In Phu Quoc.\n\nBombay Indian Restaurant Phú Quốc. $15-30 a person. Skip the resort tonight. Tag your travel buddy.",
+    "video_caption": "697 people rated this 4.9. Bombay Indian Restaurant Phú Quốc. $15-30. Worth every cent.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #IndianFoodVietnam"
+  },
+  "tiktok": {
+    "caption": "4.9 stars in Phu Quoc for $15-30. Bombay Indian Restaurant Phú Quốc is the real deal. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9★ from 697 people. Phu Quoc.",
+    "scenes": [
+      "Exterior shot, 07 Lê Lợi sign visible",
+      "Naan pulled fresh from tandoor oven",
+      "Rich curry poured into bowl, steam rising",
+      "Table full of dishes, two people digging in",
+      "Receipt close-up: under $30 for two"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

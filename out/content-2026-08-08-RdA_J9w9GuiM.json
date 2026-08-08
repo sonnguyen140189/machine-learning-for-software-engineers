@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes bad travel days.\n\nFUSION Treats on Đường Dinh Bà is pulling 4.9 stars across 1,732 reviews. That's not luck. That's consistency.\n\nFusion menu, Phu Quoc prices, the kind of meal you text people about mid-bite.\n\nIf your itinerary has a gap, fill it here.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.9 stars. 1,732 people agreed. Watch the food land on this table and tell me you're not booking a table tonight. FUSION Treats, Đường Dinh Bà, Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 1,732 reviews. FUSION Treats hits different.\n\nĐường Dinh Bà, Phu Quoc. Save this.",
+    "video_caption": "Plate after plate. FUSION Treats is earning that 4.9 for a reason. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodReels"
+  },
+  "tiktok": {
+    "caption": "4.9 stars in Phu Quoc and somehow still slept on. FUSION Treats is the move. #PhuQuoc #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9 stars. 1,732 reviews.",
+    "scenes": [
+      "Exterior shot: Đường Dinh Bà signage",
+      "Dishes arriving at the table, steam rising",
+      "Close-up: fork breaks into the main course",
+      "Wide shot: full table spread, natural light",
+      "Cut to: reviewer rating on screen, 4.9 star"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
