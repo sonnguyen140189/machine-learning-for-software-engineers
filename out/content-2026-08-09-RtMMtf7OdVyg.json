@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered down Lý Thường Kiệt and found Mì Tê Lý Thường Kiệt - Artisan Noodles. Under $10 a bowl. 4.6 stars from 165 reviews. This is the kind of spot you eat at twice before you leave Phu Quoc. Handcrafted noodles, local crowd, zero tourist markup. Save this for your Phu Quoc trip.",
+    "video_caption": "Bowls hitting the table at Mì Tê Lý Thường Kiệt - Artisan Noodles. Watch the noodles. Under $10. 165 people already know. Now you do too.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocEats #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found Mì Tê Lý Thường Kiệt - Artisan Noodles. Under $10. 4.6 stars. Local crowd only. Tag your travel buddy.",
+    "video_caption": "Artisan noodles. Under $10 a bowl. 58B Lý Thường Kiệt. Don't walk past this one.",
+    "hashtags": "#PhuQuocFood #PhuQuocEats #PhuQuocTips #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #FoodReels"
+  },
+  "tiktok": {
+    "caption": "POV: found this noodle shop by accident. Under $10. 4.6 stars. Mì Tê Lý Thường Kiệt hits. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: wrong turn. Right noodles.",
+    "scenes": [
+      "Walk down Lý Thường Kiệt street",
+      "Spot locals filling every seat",
+      "Close-up: noodles pulled by hand",
+      "Bowl lands on table, steam rising",
+      "Price tag on menu under $10"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

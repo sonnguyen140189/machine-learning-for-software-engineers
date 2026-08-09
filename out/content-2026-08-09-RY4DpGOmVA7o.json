@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 887 reviews. Under $10 a head.\n\nPhở Hòa on Đường Trần Hưng Đạo is not messing around. A bowl of pho in Phu Quoc this good, at this price, with this many people vouching for it, that's not luck. That's the real deal.\n\nSkip the resort restaurant tonight. This is where the locals eat.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch that broth hit the bowl. Steam rising, herbs piled high, under $10 total. Phở Hòa has 887 reviews at 4.8 stars for a reason. Go find out why.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 887 reviews. Under $10.\n\nPhở Hòa is the pho spot in Phu Quoc. No debate.\n\nTag your travel buddy.",
+    "video_caption": "887 people rated this 4.8 stars. Bowl of pho. Under $10. Phở Hòa delivers every time.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars. 887 reviews. Under $10 a bowl. Phở Hòa is the move. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8★ · 887 reviews · $10",
+    "scenes": [
+      "Close-up: broth poured into bowl",
+      "Steam curling up, herbs piled high",
+      "Full bowl lands on table",
+      "Receipt shown: under $10 total",
+      "Street-side seating, locals eating"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

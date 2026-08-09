@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "768 reviews. 4.6 stars. Under $10 a bowl.\n\nPhở bò Nam Định on Đường Trần Hưng Đạo is the real deal. Nam Định-style beef pho means a clearer, lighter broth than the Saigon version. Deep. Clean. Addictive.\n\nBreakfast here costs less than a coffee back home. That's the Phu Quoc math.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the broth hit the bowl. Phở bò Nam Định, 768 reviews deep, under $10 a person. This is breakfast in Phu Quoc done right.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "768 reviews. 4.6 stars. Under $10 a bowl. Phở bò Nam Định is earning every one.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Hot broth. 768 locals can't be wrong. Phở bò Nam Định, Phu Quoc. Under $10.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #Pho"
+  },
+  "tiktok": {
+    "caption": "4.6 stars, 768 reviews, under $10. Phở bò Nam Định hits different at 7am. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "768 reviews. Under $10.",
+    "scenes": [
+      "Close-up: ladle pours broth into bowl",
+      "Steam rises, herbs float on top",
+      "Hand tears fresh basil, drops in",
+      "Chopsticks lift thick rice noodles",
+      "Wide shot: busy local breakfast crowd",
+      "Text overlay: 4.6 stars, Đường Trần Hưng Đạo"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

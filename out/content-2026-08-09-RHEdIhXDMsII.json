@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk past this place every day. Locals sit down and order Bún Quậy Kiến-Xây.\n\nThis is Phu Quoc's own style of noodle soup. Springy hand-rolled noodles, fresh seafood, clear broth. Under $10 a person. 2,697 reviews say it delivers.\n\nFind it at 71A Đường Trần Hưng Đạo. Go hungry. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the noodles hit the bowl. Fresh seafood, clear broth, Phu Quoc's own recipe. Bún Quậy Kiến-Xây on Đường Trần Hưng Đạo. Under $10. This is what locals actually eat.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Bún Quậy Kiến-Xây. That's why you need to know it.\n\nSpringy noodles, fresh seafood, under $10. 71A Đường Trần Hưng Đạo. Save this.",
+    "video_caption": "The noodle spot locals keep to themselves. Bún Quậy Kiến-Xây. Under $10. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BunQuay"
+  },
+  "tiktok": {
+    "caption": "The noodle bowl locals actually eat in Phu Quoc. Under $10. Don't skip it. #PhuQuoc #PhuQuocFood #VietnamFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Street-level shot: shopfront sign Bún Quậy Kiến-Xây",
+      "Close-up: hand-rolled noodles dropping into broth",
+      "Steam rising from fresh seafood bowl",
+      "Price board, under $10 visible on screen",
+      "Packed local tables, zero tourists in frame"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

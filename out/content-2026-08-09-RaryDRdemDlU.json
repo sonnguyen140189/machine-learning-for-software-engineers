@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10 for pho in Phu Quoc? PHỞ THỐ ĐÁ 1990 makes it happen. 4.9 stars, 65 reviews, and a bowl that hits harder than anything at the resort restaurant. Find it at 133 Lý Thường Kiệt. This is where you eat when you stop overpaying. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch this bowl land on the table at PHỞ THỐ ĐÁ 1990. Broth, noodles, fresh herbs. All in. Under $10. 4.9 stars says it all. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $10. 4.9 stars. PHỞ THỐ ĐÁ 1990 is the bowl Phu Quoc locals keep coming back to. Share with someone planning Vietnam.",
+    "video_caption": "Pho so good it has 4.9 stars. PHỞ THỐ ĐÁ 1990. Under $10. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #Pho"
+  },
+  "tiktok": {
+    "caption": "4.9 stars and under $10. PHỞ THỐ ĐÁ 1990 is the real move in Phu Quoc. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $10 pho. 4.9 stars.",
+    "scenes": [
+      "Exterior shot: 133 Lý Thường Kiệt sign",
+      "Broth poured into bowl, steam rising",
+      "Herbs, noodles, meat plated up close",
+      "First spoonful lifted to camera",
+      "Price tag on menu shown clearly"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
