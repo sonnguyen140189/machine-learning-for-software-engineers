@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $30 for a full meal in Phu Quoc. At Nhà Xưa 68, that's the ceiling, not the exception. 663 reviews at 4.4 stars back it up. Sit down, order big, and still walk out with change. Right on Lý Thường Kiệt, easy to find, zero reason to skip it. Save this for your Phu Quoc trip.",
+    "video_caption": "Plates hitting the table at Nhà Xưa 68. Full spread, $15-30 a head, 663 people already know. This is what a good Phu Quoc dinner actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "$30 max per person. 663 reviews. 4.4 stars. Nhà Xưa 68 is your dinner plan sorted. Tag your travel buddy.",
+    "video_caption": "Food incoming at Nhà Xưa 68. Under $30, 4.4 stars, 663 reviews. Do the math.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Full dinner in Phu Quoc for under $30 at Nhà Xưa 68. 663 reviews don't lie. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Under $30. Phu Quoc dinner.",
+    "scenes": [
+      "Exterior shot: Nhà Xưa 68 signage",
+      "Walk through front entrance",
+      "Dishes arriving at the table",
+      "Close-up of full spread laid out",
+      "Price check on the bill receipt"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

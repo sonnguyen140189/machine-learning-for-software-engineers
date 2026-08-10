@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 750 reviews. Tween's Kitchen on Đường Trần Hưng Đạo keeps delivering.\n\nReal Vietnamese food, no resort markup. Plates land fast, portions are honest, and $15-30 covers a full meal with drinks.\n\nThis is where you eat when you're done overpaying on the tourist strip. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch this plate land at Tween's Kitchen and try not to order immediately. 4.7 stars across 750 reviews. $15-30 a person. Đường Trần Hưng Đạo, Phu Quoc. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "750 reviews at 4.7 stars. Tween's Kitchen earns it.\n\n$15-30 a person for proper Vietnamese food on Đường Trần Hưng Đạo. Tag your travel buddy.",
+    "video_caption": "Food hits the table at Tween's Kitchen. 4.7 stars. 750 people aren't wrong.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodTravelAsia"
+  },
+  "tiktok": {
+    "caption": "4.7 stars, 750 reviews, $15-30/person. Tween's Kitchen, Phu Quoc. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.7 stars. 750 reviews.",
+    "scenes": [
+      "Exterior shot: Đường Trần Hưng Đạo sign visible",
+      "Server carries loaded tray to table",
+      "Close-up: chopsticks lifting noodles",
+      "Wide shot: full table spread, two diners",
+      "Receipt lands: under $30 for two"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
