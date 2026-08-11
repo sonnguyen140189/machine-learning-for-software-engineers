@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ1Tz0QOcfCDER2oug-pJV_TA",
+    "ChIJ2_A_qiGNpzERECnKPGDMbqc",
+    "ChIJY6klvwiLpzERbXSkUvWfTOs",
+    "ChIJy5_OrWqKpzERGaQHR6TfBU0",
+    "ChIJX5g8DI6NpzERD3kfpnZmESY",
+    "ChIJGb4oNz2LpzERnlJX2YrpYTQ",
+    "ChIJkcMAuZCNpzERRQmhoqfUVYk",
+    "ChIJ0cqxY2ySpzERo9J49pxmTgY",
+    "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
+    "ChIJyVg7uFmMpzER8oO_9EVvcbg",
+    "ChIJy5uCwXCXpzERQSR2-hAgnuo",
+    "ChIJQ4JcfECSpzER9dUT9AlYDJk",
     "ChIJLS6KuYmLpzER6fHJ__iaMqw",
     "ChIJIxst3A-NpzERxKcvb8CHI2Y",
     "ChIJ7fpDGamNpzERBaF8duO9WKY",
@@ -187,21 +199,189 @@
     "ChIJlSRlw5KNpzER9K0k_h7wn_A",
     "ChIJMemrMgSNpzERRHKLDaKlO9k",
     "ChIJ-_0E4DSNpzERdh1-L4xrPi4",
-    "ChIJ90jXsf2TpzERk1THOzfOnoU",
-    "ChIJyZvBKSCNpzER_ZT2yT6WFOg",
-    "ChIJ22idLmGNpzERjGFt76Jpj7s",
-    "ChIJg25lxluMpzERrx21QiH3gaI",
-    "ChIJX3VOsa2NpzERsU0djuBRb-U",
-    "ChIJXWMScYiMpzERFW5SXq8DfXs",
-    "ChIJt4DYpuyLpzERm18CccVtFaM",
-    "ChIJEXpOynGNpzER-yD5vqjo9-E",
-    "ChIJwaXLFgyJpzERsHSEodjscKQ",
-    "ChIJc-syEUyNpzERlXt7rXb3Hcg",
-    "ChIJH_PX_b6VpzERKTtTpGV5YXk",
-    "ChIJvxdKNoKWpzERAWSyG5rABsg",
-    "ChIJvc4-RWUgCDERx4AJFW81Tg4"
+    "ChIJ90jXsf2TpzERk1THOzfOnoU"
   ],
   "history": [
+    {
+      "date": "2026-08-11",
+      "placeId": "ChIJ1Tz0QOcfCDER2oug-pJV_TA",
+      "placeName": "Thali House - Best Indian 100% Vegetarian Food in Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1383634803731742"
+        },
+        "instagramReel": {
+          "id": "17978697300120459"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "placeId": "ChIJ2_A_qiGNpzERECnKPGDMbqc",
+      "placeName": "Nhà Hàng Chay NẤM (Vegan Restaurant)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122118806433313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18261324331306609"
+        }
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "placeId": "ChIJY6klvwiLpzERbXSkUvWfTOs",
+      "placeName": "Bếp Chay Nhà An | VEGETARIAN BISTRO",
+      "results": {
+        "facebookVideo": {
+          "id": "28606540622281602"
+        },
+        "instagramReel": {
+          "id": "18136031593612154"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "placeId": "ChIJy5_OrWqKpzERGaQHR6TfBU0",
+      "placeName": "Novotel Phu Quoc Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122118805491313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18111583322080441"
+        }
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "placeId": "ChIJX5g8DI6NpzERD3kfpnZmESY",
+      "placeName": "Sol by Meliá Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1518267496888853"
+        },
+        "instagramReel": {
+          "id": "18117083050921704"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "placeId": "ChIJGb4oNz2LpzERnlJX2YrpYTQ",
+      "placeName": "Mango Bay Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122118804387313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17873122518630376"
+        }
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "placeId": "ChIJkcMAuZCNpzERRQmhoqfUVYk",
+      "placeName": "Salinda Resort Phu Quoc Island",
+      "results": {
+        "facebookVideo": {
+          "id": "1805581487460762"
+        },
+        "instagramReel": {
+          "id": "17985760761022875"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "placeId": "ChIJ0cqxY2ySpzERo9J49pxmTgY",
+      "placeName": "Pullman Phu Quoc Beach Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122118803079313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18132674998617411"
+        }
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "placeId": "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
+      "placeName": "Meliá Vinpearl Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "2058186658123982"
+        },
+        "instagramReel": {
+          "id": "18112048964072446"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "placeId": "ChIJyVg7uFmMpzER8oO_9EVvcbg",
+      "placeName": "La Veranda Resort Phu Quoc - MGallery Collection",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122118801903313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18128606719663089"
+        }
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "placeId": "ChIJy5uCwXCXpzERQSR2-hAgnuo",
+      "placeName": "New World Phu Quoc Resort",
+      "results": {
+        "facebookVideo": {
+          "id": "1570079038242749"
+        },
+        "instagramReel": {
+          "id": "18100266275260692"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "placeId": "ChIJQ4JcfECSpzER9dUT9AlYDJk",
+      "placeName": "InterContinental Phu Quoc Long Beach Resort by IHG",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122118800739313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17925624657163174"
+        }
+      }
+    },
     {
       "date": "2026-08-10",
       "placeId": "ChIJLS6KuYmLpzER6fHJ__iaMqw",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "17982343617023693"
-        }
-      }
-    },
-    {
-      "date": "2026-07-26",
-      "placeId": "ChIJyZvBKSCNpzER_ZT2yT6WFOg",
-      "placeName": "Airwaves Beach Club",
-      "results": {
-        "facebookVideo": {
-          "id": "1550084083272454"
-        },
-        "instagramReel": {
-          "id": "18131499349618717"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-26",
-      "placeId": "ChIJ22idLmGNpzERjGFt76Jpj7s",
-      "placeName": "Cyan Bar & Sunset Dining",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122115959355313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17984149245030884"
-        }
-      }
-    },
-    {
-      "date": "2026-07-26",
-      "placeId": "ChIJg25lxluMpzERrx21QiH3gaI",
-      "placeName": "Blue Monkey Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1033128849328442"
-        },
-        "instagramReel": {
-          "id": "18103857104142412"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-26",
-      "placeId": "ChIJX3VOsa2NpzERsU0djuBRb-U",
-      "placeName": "Sheraton Phu Quoc Long Beach Resort",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122115958623313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18074450084351698"
-        }
-      }
-    },
-    {
-      "date": "2026-07-25",
-      "placeId": "ChIJXWMScYiMpzERFW5SXq8DfXs",
-      "placeName": "Saigonese Eatery",
-      "results": {
-        "facebookVideo": {
-          "id": "4605990966315071"
-        },
-        "instagramReel": {
-          "id": "18472841308106530"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-25",
-      "placeId": "ChIJt4DYpuyLpzERm18CccVtFaM",
-      "placeName": "On The Rock Restaurant & Beach Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122115848025313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18023184122726528"
-        }
-      }
-    },
-    {
-      "date": "2026-07-25",
-      "placeId": "ChIJEXpOynGNpzER-yD5vqjo9-E",
-      "placeName": "BUM Coffee",
-      "results": {
-        "facebookVideo": {
-          "id": "2692567117830296"
-        },
-        "instagramReel": {
-          "id": "18023873927681771"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-25",
-      "placeId": "ChIJwaXLFgyJpzERsHSEodjscKQ",
-      "placeName": "Khu du lịch sinh thái (Suối Đá Bàn)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122115846963313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17921332194180718"
-        }
-      }
-    },
-    {
-      "date": "2026-07-25",
-      "placeId": "ChIJc-syEUyNpzERlXt7rXb3Hcg",
-      "placeName": "Dinh Cau Lighthouse",
-      "results": {
-        "facebookVideo": {
-          "id": "1370823041045930"
-        },
-        "instagramReel": {
-          "id": "18052607600785933"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-25",
-      "placeId": "ChIJH_PX_b6VpzERKTtTpGV5YXk",
-      "placeName": "Sunset Town",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122115846045313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18099434080951309"
-        }
-      }
-    },
-    {
-      "date": "2026-07-25",
-      "placeId": "ChIJvxdKNoKWpzERAWSyG5rABsg",
-      "placeName": "Sunworld Hon Thom Cable Car Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1414542204071521"
-        },
-        "instagramReel": {
-          "id": "18123691225687967"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-25",
-      "placeId": "ChIJvc4-RWUgCDERx4AJFW81Tg4",
-      "placeName": "Phu Quoc National Park",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122115845259313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18055748729775130"
         }
       }
     }
