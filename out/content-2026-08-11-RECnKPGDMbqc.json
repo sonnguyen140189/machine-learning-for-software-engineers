@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars. 442 reviews. For a vegan restaurant on a seafood island. Nhà Hàng Chay NẤM on Đường Nguyễn Trãi is doing something right. Plant-based dishes, $15-30 a head, and a crowd that keeps coming back. If you thought Phu Quoc was all grilled fish and shrimp, this place rewrites that. Save this for your Phu Quoc trip.",
+    "video_caption": "Plates landing. Steam rising. Zero meat, zero compromise. Nhà Hàng Chay NẤM proves Phu Quoc's vegan scene is no afterthought. $15-30 a person. 442 people already know.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #ThingsToDoPhuQuoc #VisitVietnam #VeganTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.5★ across 442 reviews. On a seafood island. Nhà Hàng Chay NẤM earns every single one. Tag your travel buddy.",
+    "video_caption": "Vegan food this rated doesn't just happen. Nhà Hàng Chay NẤM, Phu Quoc. 442 reviews agree.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VeganVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VeganTravel"
+  },
+  "tiktok": {
+    "caption": "4.5★ vegan food on a seafood island. Nhà Hàng Chay NẤM hits different. #PhuQuoc #PhuQuocFood #VeganVietnam #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.5★ vegan. Seafood island.",
+    "scenes": [
+      "Pan across colorful vegan dishes arriving",
+      "Close-up: chopsticks lifting rich, sauced tofu",
+      "Wide shot: busy dining room, locals and tourists",
+      "Cut to Google review screen: 442 reviews, 4.5★",
+      "Final plate overhead, steam curling up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

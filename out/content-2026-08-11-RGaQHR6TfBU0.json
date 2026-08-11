@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.6 stars. 6,477 reviews. Novotel Phu Quoc Resort keeps delivering.\n\nContemporary rooms and private-pool villas sitting right on the beach at Đường Bào. This is the kind of resort that earns repeat stays, not just good photos.\n\nPalm-lined beach. Chic interiors. Pool that actually feels private.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Villas with private pools. A palm-lined beach at your door. Novotel Phu Quoc Resort has 6,477 reviews backing it up. Watch and see why.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "6,477 reviews. 4.6 stars. Novotel Phu Quoc Resort earns every one.\nPrivate-pool villas. Palm beach. Zero compromises. Tag your travel buddy.",
+    "video_caption": "Private pool. Palm beach. 6,477 people rated this 4.6 stars. Roll the footage.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "6,477 reviews don't lie. Novotel Phu Quoc Resort hits different. #PhuQuoc #PhuQuocHotel #TravelTips #PhuQuocResort"
+  },
+  "video_script": {
+    "hook": "6,477 reviews. 4.6 stars.",
+    "scenes": [
+      "Aerial glide over palm beach",
+      "Villa private pool, blue water close-up",
+      "Chic room interior, ocean light",
+      "Guest walking beach at golden hour",
+      "Resort name card fades in on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

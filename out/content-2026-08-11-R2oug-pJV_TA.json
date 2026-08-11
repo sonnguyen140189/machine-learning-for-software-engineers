@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "100% vegetarian Indian food in Phu Quoc. Under $30 a person. 4.9 stars.\n\nThali House is doing something no one else on this island is doing. Full thalis, fresh curries, zero meat. The kind of meal that makes you rebook the table for tomorrow.\n\nIf you're vegetarian, vegan, or just tired of seafood every night, this is your spot. Vn58 Riverside, Phú Quốc.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch this thali land on the table and try not to immediately Google the address. Thali House, Phú Quốc. 4.9 stars. $15-30 a head. The only 100% vegetarian Indian restaurant on the island.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #VisitVietnam #TravelTips #VietnamFood #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "$30 max. 4.9 stars. 100% vegetarian Indian food in Phu Quoc.\n\nThali House at Vn58 Riverside, Phú Quốc is the one. Save this.",
+    "video_caption": "A full thali in Phu Quoc for under $30. Thali House is the only 100% vegetarian Indian spot on the island. 4.9 stars.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "Under $30 for 4.9-star vegetarian Indian food in Phu Quoc 👀 Thali House is actually unreal. #PhuQuoc #PhuQuocFood #VegetarianTravel #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "$30 for THIS in Phu Quoc??",
+    "scenes": [
+      "Exterior shot: Vn58 Riverside sign",
+      "Thali plate arriving at table",
+      "Close-up: curries, rice, sides",
+      "Hands scooping food, steam rising",
+      "Rating card: 4.9★, 100% veg"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
