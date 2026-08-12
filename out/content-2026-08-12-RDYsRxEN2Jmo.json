@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you find a $10-and-under café on a quiet Phu Quoc street and suddenly your whole day slows down.\n\n58 CAFÉ on Hoàng Văn Thụ is that place. 4.5 stars, 130 reviews, and the kind of vibe that makes you cancel your afternoon plans.\n\nNo resort markup. No tourist trap. Just good coffee at a price that makes sense.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Stepping into 58 CAFÉ on Hoàng Văn Thụ. Under $10. 4.5 stars. Watch how fast this spot earns a second visit.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked past once. Came back three times. 58 CAFÉ, Hoàng Văn Thụ. Under $10, 4.5 stars. Tag your travel buddy.",
+    "video_caption": "One street. One café. Under $10. 58 CAFÉ just changed the itinerary.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #CoffeeVietnam #VietnamTravel #TravelTips #TravelReels #CafeHopping"
+  },
+  "tiktok": {
+    "caption": "Found this café in Phu Quoc and cancelled my afternoon plans. Under $10. Worth it. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Walked past once. Big mistake.",
+    "scenes": [
+      "Exterior shot: 58 Hoàng Văn Thụ signage",
+      "Push through the door, slow pan inside",
+      "Close-up: coffee order arrives on the table",
+      "Cut to: price on the menu board",
+      "Wide shot: relaxed, unhurried atmosphere",
+      "Final frame: 4.5-star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

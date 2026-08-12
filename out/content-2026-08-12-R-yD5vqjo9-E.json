@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 49 reviews. Zero exceptions.\n\nBUM Coffee at 139 Đoàn Thị Điểm is the kind of cafe that earns a perfect score and keeps it. Under $10 a person, no excuses not to stop in. Locals rate it. The numbers back it up.\n\nAdd this to your Phu Quoc coffee crawl before the rest of the internet finds out.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the pour at BUM Coffee. 5.0 stars, 49 reviews, all under $10. This is what a perfect score looks like in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 49 reviews. BUM Coffee hits different.\n\nUnder $10. No weak scores here. Save this for your Phu Quoc trip.",
+    "video_caption": "49 people gave BUM Coffee a perfect 5.0. Under $10. See why.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #CoffeePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "5.0 stars. 49 reviews. Under $10. BUM Coffee in Phu Quoc is built different. #PhuQuoc #PhuQuocCafe #CoffeeTok #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5.0 stars. 49 reviews. Under $10.",
+    "scenes": [
+      "Exterior shot: 139 Đoàn Thị Điểm storefront",
+      "Close-up: coffee being poured into cup",
+      "Pull back: cafe interior, real customers",
+      "Screen recording: 5.0 rating on Google Maps",
+      "Hand wraps around cup, first sip reaction"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

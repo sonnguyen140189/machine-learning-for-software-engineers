@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes the noise.\n\nANBA COFFEE on Đường Trần Hưng Đạo is the kind of café you sit in for two hours and leave feeling like a person again. 4.6 stars across 1,341 reviews. The crowd knows.\n\nGood coffee. Real atmosphere. No resort markup.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch how fast this café empties your head. ANBA COFFEE, 131 Đường Trần Hưng Đạo. 4.6 stars, 1,341 people rated it. See why they keep coming back.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. ANBA COFFEE delivers. 4.6★, 1,341 reviews. Tag your travel buddy.",
+    "video_caption": "Two hours here and you're a different person. ANBA COFFEE, Đường Trần Hưng Đạo. Try it.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeVietnam"
+  },
+  "tiktok": {
+    "caption": "The café that actually slows you down. ANBA COFFEE, Phu Quoc. 4.6★ #PhuQuoc #PhuQuocCafe #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that doesn't feel touristy.",
+    "scenes": [
+      "Exterior shot: ANBA COFFEE sign, street level",
+      "Slow pan across full café interior",
+      "Close-up: coffee poured, steam rising",
+      "Wide shot: guests settled, calm atmosphere",
+      "Screen text: 4.6★ across 1,341 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
