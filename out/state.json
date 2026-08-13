@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJvc4-RWUgCDERx4AJFW81Tg4",
+    "ChIJwaXLFgyJpzERsHSEodjscKQ",
+    "ChIJr7enHa-rNTERbivpCTqoenY",
+    "ChIJn_OoioaMpzER6LmKuuTHasY",
+    "ChIJb94_UYaMpzERLROoXapH5lI",
+    "ChIJTZlTGwCNpzERcOusT0_hYo4",
+    "ChIJt4DYpuyLpzERm18CccVtFaM",
+    "ChIJlZ8x-y-NpzERmNxpJhjw9-0",
+    "ChIJbd7_NgGNpzERqXUHaQ6Y6K4",
+    "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
+    "ChIJ17LlPYaNpzERY0rp_hDIF7E",
+    "ChIJh_DUIYeNpzERDqbaRMxPgTY",
     "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
     "ChIJEXpOynGNpzER-yD5vqjo9-E",
     "ChIJsY399WOMpzER7lV4UDy_2w0",
@@ -187,21 +199,189 @@
     "ChIJhW2pjhiLpzERiG9nCVbYLxM",
     "ChIJg1ksqtqNpzER3W4HrVMz7hE",
     "ChIJt4XvJwCNpzERDsy4DogoAGY",
-    "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
-    "ChIJR8uGGm2TpzERCyP0dgpgLX0",
-    "ChIJEUkRcwCTpzEREkP4pNOORIE",
-    "ChIJbWwp_zj1pzERg-_J_57c0UA",
-    "ChIJh4tQxoeMpzERnVXCmClthfI",
-    "ChIJE6Jt3vuVpzERA6ErTfB79es",
-    "ChIJTdwiKNmVpzER1knXm_zr2zA",
-    "ChIJKTX4YwCLpzERhiLmMHLUihA",
-    "ChIJrXaM1tmNpzERj7I5uw4cwro",
-    "ChIJYQY76P2NpzERlul1IUfk3N8",
-    "ChIJAWovfRONpzERI7y_gpk_6D0",
-    "ChIJ44y8R_uNpzERI0lt0GkPrNM",
-    "ChIJo-0fmz6NpzERIEhHbz8e4T8"
+    "ChIJ4TCVW2ceCDERj-MHdcQ8iIw"
   ],
   "history": [
+    {
+      "date": "2026-08-13",
+      "placeId": "ChIJvc4-RWUgCDERx4AJFW81Tg4",
+      "placeName": "Phu Quoc National Park",
+      "results": {
+        "facebookVideo": {
+          "id": "1390122909715157"
+        },
+        "instagramReel": {
+          "id": "17902429587510723"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "placeId": "ChIJwaXLFgyJpzERsHSEodjscKQ",
+      "placeName": "Khu du lịch sinh thái (Suối Đá Bàn)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119103697313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18084132392246729"
+        }
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "placeId": "ChIJr7enHa-rNTERbivpCTqoenY",
+      "placeName": "Tran Quoc Pagoda",
+      "results": {
+        "facebookVideo": {
+          "id": "1273490738096256"
+        },
+        "instagramReel": {
+          "id": "18090300437412483"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "placeId": "ChIJn_OoioaMpzER6LmKuuTHasY",
+      "placeName": "Dinh Cậu",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119102575313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17937035538346213"
+        }
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "placeId": "ChIJb94_UYaMpzERLROoXapH5lI",
+      "placeName": "Dinh Bà Thủy Long Thánh Mẫu",
+      "results": {
+        "facebookVideo": {
+          "id": "1602566337892356"
+        },
+        "instagramReel": {
+          "id": "18144946459528960"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "placeId": "ChIJTZlTGwCNpzERcOusT0_hYo4",
+      "placeName": "SORI Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119101429313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18113799403969559"
+        }
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "placeId": "ChIJt4DYpuyLpzERm18CccVtFaM",
+      "placeName": "On The Rock Restaurant & Beach Bar",
+      "results": {
+        "facebookVideo": {
+          "id": "1361364535572228"
+        },
+        "instagramReel": {
+          "id": "18082464530279952"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "placeId": "ChIJlZ8x-y-NpzERmNxpJhjw9-0",
+      "placeName": "Rak Rock Lobster",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119100403313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17945001009055419"
+        }
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "placeId": "ChIJbd7_NgGNpzERqXUHaQ6Y6K4",
+      "placeName": "Blue seafood restaurant (블루씨푸드)",
+      "results": {
+        "facebookVideo": {
+          "id": "1548711726149092"
+        },
+        "instagramReel": {
+          "id": "17901070146487426"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "placeId": "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
+      "placeName": "Aloha Beach Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119099347313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18103620350590185"
+        }
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "placeId": "ChIJ17LlPYaNpzERY0rp_hDIF7E",
+      "placeName": "MYLA SEAFOOD",
+      "results": {
+        "facebookVideo": {
+          "id": "874881132164908"
+        },
+        "instagramReel": {
+          "id": "17905058616311277"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "placeId": "ChIJh_DUIYeNpzERDqbaRMxPgTY",
+      "placeName": "Hải sản Động Tôm Hùm - Lobster Cave seafood",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119098369313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18113369101967476"
+        }
+      }
+    },
     {
       "date": "2026-08-12",
       "placeId": "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "17932866540346687"
-        }
-      }
-    },
-    {
-      "date": "2026-07-28",
-      "placeId": "ChIJR8uGGm2TpzERCyP0dgpgLX0",
-      "placeName": "Sailing Club Signature Resort Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "2208752226574972"
-        },
-        "instagramReel": {
-          "id": "18125809699709437"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-28",
-      "placeId": "ChIJEUkRcwCTpzEREkP4pNOORIE",
-      "placeName": "Soul Boutique Hotel Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116187265313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18098079542191866"
-        }
-      }
-    },
-    {
-      "date": "2026-07-28",
-      "placeId": "ChIJbWwp_zj1pzERg-_J_57c0UA",
-      "placeName": "Green Bay Phu Quoc Resort & Spa",
-      "results": {
-        "facebookVideo": {
-          "id": "1738349614164751"
-        },
-        "instagramReel": {
-          "id": "18128542558565075"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-28",
-      "placeId": "ChIJh4tQxoeMpzERnVXCmClthfI",
-      "placeName": "Huong Bien Restaurant - Vietnamese Cuisine & Seafood",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116186383313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17940610491295946"
-        }
-      }
-    },
-    {
-      "date": "2026-07-27",
-      "placeId": "ChIJE6Jt3vuVpzERA6ErTfB79es",
-      "placeName": "The Juliet Coffee & Dessert - AMA71",
-      "results": {
-        "facebookVideo": {
-          "id": "1711312440132930"
-        },
-        "instagramReel": {
-          "id": "18045176600653428"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-27",
-      "placeId": "ChIJTdwiKNmVpzER1knXm_zr2zA",
-      "placeName": "Cafe Juliet & Pastries",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116080963313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18068030510473438"
-        }
-      }
-    },
-    {
-      "date": "2026-07-27",
-      "placeId": "ChIJKTX4YwCLpzERhiLmMHLUihA",
-      "placeName": "SIM Coffee - A Story Of The Island",
-      "results": {
-        "facebookVideo": {
-          "id": "1010677371790606"
-        },
-        "instagramReel": {
-          "id": "18080133968297863"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-27",
-      "placeId": "ChIJrXaM1tmNpzERj7I5uw4cwro",
-      "placeName": "할로망고 푸꾸옥. HALO MANGO Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116080051313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18018593360856024"
-        }
-      }
-    },
-    {
-      "date": "2026-07-27",
-      "placeId": "ChIJYQY76P2NpzERlul1IUfk3N8",
-      "placeName": "Bapaki Tea, Bakery",
-      "results": {
-        "facebookVideo": {
-          "id": "1562267835275750"
-        },
-        "instagramReel": {
-          "id": "18150977602500832"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-27",
-      "placeId": "ChIJAWovfRONpzERI7y_gpk_6D0",
-      "placeName": "Devis Bakery Phu Quoc 데비스베이커리",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116079037313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AMP2IDq1SYBdN-iYkaGX73A\"}}"
-        }
-      }
-    },
-    {
-      "date": "2026-07-27",
-      "placeId": "ChIJ44y8R_uNpzERI0lt0GkPrNM",
-      "placeName": "Tiệm Bánh Kem Phú Quốc - PP Bakery",
-      "results": {
-        "facebookVideo": {
-          "id": "943824745384345"
-        },
-        "instagramReel": {
-          "id": "18109999417800543"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-27",
-      "placeId": "ChIJo-0fmz6NpzERIEhHbz8e4T8",
-      "placeName": "TUNG Cake and Tea - Thu Hiền Bakery",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116078119313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18115859732486789"
         }
       }
     }
