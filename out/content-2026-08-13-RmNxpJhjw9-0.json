@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 683 reviews. At a lobster spot in Cửa Lấp most tourists never reach.\n\nRak Rock Lobster is not in the resort strip. That's the point. Fresh rock lobster, no performance, no tourist markup. Just the catch, the grill, and that view.\n\nIf you're renting a scooter anyway, this is your lunch stop. Full stop.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Grilled rock lobster landing on the table at Rak Rock Lobster, Cửa Lấp. 4.8 stars, 683 reviews, and zero resort pricing. This is why you rent the scooter.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocSeafood #VisitVietnam #TravelTips #PhuQuocRestaurant #VietnamFood"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 683 reviews. Most tourists never find it.\n\nRak Rock Lobster, Cửa Lấp. Rent the scooter. Go.\n\nTag your travel buddy.",
+    "video_caption": "Fresh rock lobster off the grill. Cửa Lấp. 4.8 stars and zero resort crowds.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurant #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 683 reviews, nobody talking about it. Rak Rock Lobster in Cửa Lấp is the move. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★. 683 reviews. Who's talking?",
+    "scenes": [
+      "Scooter pulling up to Cửa Lấp shoreline",
+      "Whole rock lobster hits the grill",
+      "Close-up: shell charring, smoke rising",
+      "Plate lands on outdoor table, sea behind",
+      "Fork cracks into the tail meat",
+      "Review count displayed on phone screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

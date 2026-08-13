@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past Suối Đá Bàn. Their loss. This eco park has a real boulder stream cutting through jungle, zero resort polish, and a crowd that's 90% local families on weekends. 4.1 stars across 492 reviews and most tourists have never heard of it. That gap says everything. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the water push through those flat granite boulders. No beach club soundtrack. No sunbed lineup. Just Suối Đá Bàn doing its thing while the crowds burn on the sand elsewhere.",
+    "first_comment": "#PhuQuoc #PhuQuocNature #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #EcoTourism #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Suối Đá Bàn. 492 reviews. Still off the radar. Save this before your trip.",
+    "video_caption": "Boulder stream. Jungle canopy. Zero resort energy. Suối Đá Bàn hits different.",
+    "hashtags": "#PhuQuocNature #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #EcoTourism #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc has a jungle boulder stream tourists keep missing. Suối Đá Bàn. Go. #PhuQuoc #VietnamTravel #PhuQuocTips #HiddenPhuQuoc #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep missing this.",
+    "scenes": [
+      "Drone pull-back: jungle canopy, no beach in sight",
+      "Feet stepping across flat granite boulders",
+      "Stream water rushing between rocks, close-up",
+      "Local families laughing, kids splashing",
+      "Wide shot: zero tourists, all locals"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

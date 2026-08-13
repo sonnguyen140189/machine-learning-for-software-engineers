@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes something in you.\n\nDinh Cậu is a small shrine to the sea goddess, perched on a rock above the harbor. Blue-and-white striped lighthouse behind it. Fishing boats drifting in below. The whole scene hits different at sunset.\n\n4.5 stars across 3,613 reviews. Go at dusk. Sit with it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Waves crashing below, incense smoke rising, fishing boats coming home. Dinh Cậu at sunset is the reset button you didn't know you needed. 4.5 stars. Free to visit. Go before the tour groups arrive.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #PhuQuocSunset"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Dinh Cậu. Sea shrine, striped lighthouse, harbor views at dusk. Go at sunset.\n\nTag your travel buddy.",
+    "video_caption": "Incense, waves, fishing boats coming in. Dinh Cậu hits hard at sunset. Free. 4.5 stars. Don't skip it.",
+    "hashtags": "#PhuQuocTemple #PhuQuocSunset #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The sea shrine nobody talks about. Dinh Cậu at sunset is something else. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: shrine on rocks above harbor",
+      "Pan up: blue-white lighthouse against sky",
+      "Close: incense smoke curling in sea breeze",
+      "Fishing boats drifting into port below",
+      "Slow zoom: sun dropping behind the water",
+      "Visitor standing still, facing the sea"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

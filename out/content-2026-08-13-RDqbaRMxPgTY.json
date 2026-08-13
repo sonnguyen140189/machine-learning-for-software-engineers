@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "7,914 reviews. 4.8 stars. At a seafood restaurant in Phu Quoc.\n\nHải sản Động Tôm Hùm is not flying under the radar. It's earning that rating plate by plate. Fresh lobster, crab, and shellfish straight from the tank. Right on Đường Bạch Đằng.\n\nWhen a place hits 4.8 across nearly 8,000 reviews, you stop debating and just book the table.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Tanks full of live lobster. Plates hitting the table fast. This is Hải sản Động Tôm Hùm, 4.8 stars from 7,914 people. There's a reason the line forms early.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "7,914 reviews. 4.8 stars. Hải sản Động Tôm Hùm earns every one.\n\nFresh tanks. Real lobster. Phu Quoc's answer to a perfect seafood night.\n\nTag your travel buddy.",
+    "video_caption": "Live tanks. Giant lobsters. 4.8 stars from 7,914 people. Hải sản Động Tôm Hùm is the move.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurant #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "7,914 reviews at 4.8 stars. Hải sản Động Tôm Hùm is built different. #PhuQuoc #PhuQuocFood #SeafoodLovers"
+  },
+  "video_script": {
+    "hook": "7,914 reviews. 4.8 stars.",
+    "scenes": [
+      "Pan across live lobster tanks",
+      "Chef pulls lobster from water",
+      "Flame hits the grill, smoke rises",
+      "Plate lands: whole lobster, garnished",
+      "Full table, hands reach in",
+      "Rating card: 4.8 / 7,914 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
