@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJI5WlJe2TpzERePcxr40c2U4",
+    "ChIJa_lVMmeNpzERHonO5t2IKRg",
+    "ChIJR8uGGm2TpzERCyP0dgpgLX0",
+    "ChIJjwOhDFuNpzERHGC-KN7pjUk",
+    "ChIJAclVLQCNpzERZ2vBnJYPlsE",
+    "ChIJlSRlw5KNpzER9K0k_h7wn_A",
+    "ChIJiamiNwCNpzERGZfl84R9I3k",
+    "ChIJqWvgD-yNpzERS66-PApwcs0",
+    "ChIJX3VOsa2NpzERsU0djuBRb-U",
+    "ChIJbWwp_zj1pzERg-_J_57c0UA",
+    "ChIJh4tQxoeMpzERnVXCmClthfI",
+    "ChIJyZvBKSCNpzER_ZT2yT6WFOg",
     "ChIJvc4-RWUgCDERx4AJFW81Tg4",
     "ChIJwaXLFgyJpzERsHSEodjscKQ",
     "ChIJr7enHa-rNTERbivpCTqoenY",
@@ -187,21 +199,189 @@
     "ChIJtePCImGLpzER70_qwXv_noQ",
     "ChIJUVkYvMWNpzER68bYoIeQoq0",
     "ChIJAUdyovyNpzER8QPEJgQFxbs",
-    "ChIJxyir2P0fCDERr4lf9WU--CQ",
-    "ChIJ6ZS5Zl6MpzERb-qhkr9ofs4",
-    "ChIJf6ykc4iMpzER-X7O0fSCJSs",
-    "ChIJwzDHWDqNpzER2tLsMth7CLM",
-    "ChIJze_KNYiMpzERLa0Mfzg3-ZE",
-    "ChIJlehMyBUfCDERDSqZ_aeChQA",
-    "ChIJj3KLVmuNpzERRcxS6PIioiI",
-    "ChIJMSfrfEqNpzER9_6_sLzv_nk",
-    "ChIJh-NscYeMpzER9zBF1Ddrbo0",
-    "ChIJhW2pjhiLpzERiG9nCVbYLxM",
-    "ChIJg1ksqtqNpzER3W4HrVMz7hE",
-    "ChIJt4XvJwCNpzERDsy4DogoAGY",
-    "ChIJ4TCVW2ceCDERj-MHdcQ8iIw"
+    "ChIJxyir2P0fCDERr4lf9WU--CQ"
   ],
   "history": [
+    {
+      "date": "2026-08-14",
+      "placeId": "ChIJI5WlJe2TpzERePcxr40c2U4",
+      "placeName": "O BON PAIN-FRENCH BAKERY",
+      "results": {
+        "facebookVideo": {
+          "id": "1105194019122476"
+        },
+        "instagramReel": {
+          "id": "18115933495940556"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "placeId": "ChIJa_lVMmeNpzERHonO5t2IKRg",
+      "placeName": "Sugar Fusion Bakery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119317039313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18412124938156523"
+        }
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "placeId": "ChIJR8uGGm2TpzERCyP0dgpgLX0",
+      "placeName": "Sailing Club Signature Resort Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "3078334835674961"
+        },
+        "instagramReel": {
+          "id": "18433354993132538"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "placeId": "ChIJjwOhDFuNpzERHGC-KN7pjUk",
+      "placeName": "Thường Lạc Artisan Dumplings - Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119316091313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17902671948474802"
+        }
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "placeId": "ChIJAclVLQCNpzERZ2vBnJYPlsE",
+      "placeName": "Châu Ký Gia - Cantonese noodles & Rice, Local Food",
+      "results": {
+        "facebookVideo": {
+          "id": "1372911721632719"
+        },
+        "instagramReel": {
+          "id": "18349733563219023"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "placeId": "ChIJlSRlw5KNpzER9K0k_h7wn_A",
+      "placeName": "thì là",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119315101313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18004155695970818"
+        }
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "placeId": "ChIJiamiNwCNpzERGZfl84R9I3k",
+      "placeName": "Cua 350 – Crab Noodle Soup Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1621286516570325"
+        },
+        "instagramReel": {
+          "id": "18184227844394750"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "placeId": "ChIJqWvgD-yNpzERS66-PApwcs0",
+      "placeName": "Bún Quậy Bạch Đằng",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119313859313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18054848933566952"
+        }
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "placeId": "ChIJX3VOsa2NpzERsU0djuBRb-U",
+      "placeName": "Sheraton Phu Quoc Long Beach Resort",
+      "results": {
+        "facebookVideo": {
+          "id": "1393337522725746"
+        },
+        "instagramReel": {
+          "id": "17888469396608399"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "placeId": "ChIJbWwp_zj1pzERg-_J_57c0UA",
+      "placeName": "Green Bay Phu Quoc Resort & Spa",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119312701313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18125250100688793"
+        }
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "placeId": "ChIJh4tQxoeMpzERnVXCmClthfI",
+      "placeName": "Huong Bien Restaurant - Vietnamese Cuisine & Seafood",
+      "results": {
+        "facebookVideo": {
+          "id": "1725544329574783"
+        },
+        "instagramReel": {
+          "id": "17925882165162119"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "placeId": "ChIJyZvBKSCNpzER_ZT2yT6WFOg",
+      "placeName": "Airwaves Beach Club",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119311783313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18135290893722212"
+        }
+      }
+    },
     {
       "date": "2026-08-13",
       "placeId": "ChIJvc4-RWUgCDERx4AJFW81Tg4",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "17962428134966172"
-        }
-      }
-    },
-    {
-      "date": "2026-07-29",
-      "placeId": "ChIJ6ZS5Zl6MpzERb-qhkr9ofs4",
-      "placeName": "Phuong Hoang Seafood Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1029683756703243"
-        },
-        "instagramReel": {
-          "id": "18138680401602296"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-29",
-      "placeId": "ChIJf6ykc4iMpzER-X7O0fSCJSs",
-      "placeName": "Si’s Crab House",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116425153313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18092459927622967"
-        }
-      }
-    },
-    {
-      "date": "2026-07-29",
-      "placeId": "ChIJwzDHWDqNpzER2tLsMth7CLM",
-      "placeName": "Bếp Biển",
-      "results": {
-        "facebookVideo": {
-          "id": "2198343804284696"
-        },
-        "instagramReel": {
-          "id": "17866473798601793"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-29",
-      "placeId": "ChIJze_KNYiMpzERLa0Mfzg3-ZE",
-      "placeName": "Xin Chao seafood restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116424373313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17881787529476470"
-        }
-      }
-    },
-    {
-      "date": "2026-07-28",
-      "placeId": "ChIJlehMyBUfCDERDSqZ_aeChQA",
-      "placeName": "Lam Vegan - Tiệm Chay Lam",
-      "results": {
-        "facebookVideo": {
-          "id": "1751881492619794"
-        },
-        "instagramReel": {
-          "id": "18182448523405812"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-28",
-      "placeId": "ChIJj3KLVmuNpzERRcxS6PIioiI",
-      "placeName": "RASOI INDIAN PURE VEGETARIAN RESTAURANT",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116191351313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18184661308394451"
-        }
-      }
-    },
-    {
-      "date": "2026-07-28",
-      "placeId": "ChIJMSfrfEqNpzER9_6_sLzv_nk",
-      "placeName": "Maharaja Lounge - Authentic Indian 100% Veg Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "2245140506316370"
-        },
-        "instagramReel": {
-          "id": "18107496869013859"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-28",
-      "placeId": "ChIJh-NscYeMpzER9zBF1Ddrbo0",
-      "placeName": "Khánh Ly Vegetarian Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116190331313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18382668004205011"
-        }
-      }
-    },
-    {
-      "date": "2026-07-28",
-      "placeId": "ChIJhW2pjhiLpzERiG9nCVbYLxM",
-      "placeName": "The Beauty Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1566473671788054"
-        },
-        "instagramReel": {
-          "id": "18002599505775711"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-28",
-      "placeId": "ChIJg1ksqtqNpzER3W4HrVMz7hE",
-      "placeName": "Tram Tram’s Banh Mi",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116189227313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18008535857752659"
-        }
-      }
-    },
-    {
-      "date": "2026-07-28",
-      "placeId": "ChIJt4XvJwCNpzERDsy4DogoAGY",
-      "placeName": "Song Gia Food Phu quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "865809139686636"
-        },
-        "instagramReel": {
-          "id": "17921516604180869"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-28",
-      "placeId": "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
-      "placeName": "Vinpearl Wonderworld Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116188315313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17932866540346687"
         }
       }
     }
