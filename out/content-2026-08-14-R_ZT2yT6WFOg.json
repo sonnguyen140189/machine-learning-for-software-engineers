@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes a bad travel day fast.\n\nAirwaves Beach Club sits right on the water in Phu Quoc and the vibe hits different from the moment you walk in. 4.9 stars across 226 reviews. That's not luck, that's consistency.\n\nSunset here does something to your nervous system. Order a drink, put your phone down, watch the sky go orange.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the sky turn orange from Airwaves Beach Club. 4.9 stars, 226 reviews, and a sunset that earns every single one. Phu Quoc's best seat is right here.",
+    "first_comment": "#PhuQuoc #PhuQuocBeachClub #PhuQuocSunset #VisitVietnam #TravelTips #PhuQuocBar #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "This place fixes a bad travel day.\n\nAirwaves Beach Club. 4.9 stars. 226 reviews. Phu Quoc's best sunset seat.\n\nTag your travel buddy.",
+    "video_caption": "Sunset at Airwaves Beach Club and suddenly nothing else matters. 4.9 stars for a reason.",
+    "hashtags": "#PhuQuocSunset #PhuQuocBeachClub #PhuQuocBar #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The bar that resets your whole mood. Airwaves Beach Club, Phu Quoc. 4.9 stars. #PhuQuoc #PhuQuocSunset #BeachBar #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This fixes bad travel days.",
+    "scenes": [
+      "Feet in sand, drink arrives",
+      "Wide shot: water edge at golden hour",
+      "Close-up: condensation on cold glass",
+      "Slow pan across the bar crowd",
+      "Sky turns deep orange over the sea",
+      "Review score fades in: 4.9 stars, 226 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

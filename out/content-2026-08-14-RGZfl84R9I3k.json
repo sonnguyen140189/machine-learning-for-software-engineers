@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $15 for crab noodle soup in Phu Quoc. That's what Cua 350, Crab Noodle Soup Phu Quoc is doing. 4.9 stars across 123 reviews. At $15-30 per person, you're eating serious local food without the resort price tag. Address: 38 Đ. 30 Tháng 4, khu phố 1, Phú Quốc. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the broth hit the bowl at Cua 350, Crab Noodle Soup Phu Quoc. Real crab. Real flavor. Under $30 a head. 4.9 stars don't lie. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $15 for crab noodle soup. 4.9 stars. 123 reviews. Cua 350, Crab Noodle Soup Phu Quoc is not a drill. Save this.",
+    "video_caption": "Crab. Broth. $15. Cua 350, Crab Noodle Soup Phu Quoc just raised the bar. 4.9 stars.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. Crab noodle soup. Under $15. Cua 350 in Phú Quốc is real. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $15. Crab soup. 4.9 stars.",
+    "scenes": [
+      "Exterior shot: 38 Đ. 30 Tháng 4 sign",
+      "Close-up: rich crab broth poured into bowl",
+      "Hands pulling apart fresh crab meat",
+      "Noodles lifted with chopsticks, steam rising",
+      "Receipt or menu price held to camera"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

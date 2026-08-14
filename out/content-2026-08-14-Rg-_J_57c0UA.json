@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Green Bay Phu Quoc Resort & Spa puts you in bright bungalows and beachfront villas steps from the water. Two open-air restaurants. A spa. 4.8 stars across 979 reviews. No chaos, no crowds. Just the sound of the ocean and food served with your feet basically in the sand. Save this for your Phu Quoc trip.",
+    "video_caption": "Open-air dining, beachfront villas, and a spa rated 4.8 stars by 979 guests. Green Bay Phu Quoc Resort & Spa is the reset your body is asking for. Book before it fills up.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Beachfront villas. Open-air dining. 4.8★ from 979 guests. Green Bay Phu Quoc Resort & Spa. Save this.",
+    "video_caption": "Sand, spa, and open-air restaurants. Green Bay Phu Quoc Resort & Spa at 4.8 stars. Tag your travel buddy.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocSpa #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Beachfront bungalows. Open-air restaurants. Spa. 4.8 stars. Phu Quoc just fixed my burnout. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Aerial glide over beachfront villas",
+      "Bright bungalow door opens to ocean",
+      "Open-air restaurant, food hits the table",
+      "Spa therapist begins treatment, guest exhales",
+      "Sunset light on the water, zero crowd"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

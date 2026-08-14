@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "A French bakery on a Vietnamese island. Somehow it works. O BON PAIN-FRENCH BAKERY on Đường Trần Hưng Đạo is the kind of slow morning Phu Quoc does quietly well. Fresh pastries, real coffee, no rush. 4.3 stars across 360 reviews. Budget around $15-30 a person. Save this for your Phu Quoc trip.",
+    "video_caption": "Croissants coming out of the oven. Coffee hitting the counter. O BON PAIN-FRENCH BAKERY is the slow morning you actually came to Phu Quoc for. 4.3 stars, 360 reviews. Find it at 48 Đường Trần Hưng Đạo.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that slows you down. O BON PAIN-FRENCH BAKERY, 4.3 stars, 360 reviews. Tag your travel buddy.",
+    "video_caption": "Fresh pastry. Real coffee. O BON PAIN-FRENCH BAKERY earns that 4.3. Find it on Đường Trần Hưng Đạo.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "French bakery on a Vietnamese island. It works. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Phu Quoc fixed my burnout.",
+    "scenes": [
+      "Pan across golden pastries in glass case",
+      "Barista pours latte art, close shot",
+      "Guest bites croissant, eyes close",
+      "Wide shot: quiet cafe, morning light",
+      "Text overlay: 4.3 stars, 360 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

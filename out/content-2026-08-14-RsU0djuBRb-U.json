@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you booked Bãi Dài before the crowds figured it out. Sheraton Phu Quoc Long Beach Resort sits on one of the longest stretches of beach on the island. 4.5 stars. 2,479 reviews. The kind of resort that makes you cancel your sightseeing plans. Tag your travel buddy who needs this trip.",
+    "video_caption": "Walked into Sheraton Phu Quoc Long Beach Resort and immediately rescheduled the rest of my trip. Bãi Dài beach, right outside the door. 4.5 stars across 2,479 reviews. Save this for your Phu Quoc trip.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you picked the Bãi Dài side of Phu Quoc. Sheraton Phu Quoc Long Beach Resort. 4.5★, 2,479 reviews. Tag your travel buddy.",
+    "video_caption": "Checking into Sheraton Phu Quoc Long Beach Resort. Bãi Dài beach. Zero regrets. 4.5 stars.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "POV: you found the quiet end of Phu Quoc. Sheraton Long Beach Resort. Bãi Dài. Worth it. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: best beach. Wrong crowd.",
+    "scenes": [
+      "Aerial pan over Bãi Dài coastline",
+      "Resort entrance gate, slow push-in",
+      "Bare feet hit white sand, ocean ahead",
+      "Pool deck with beach in background",
+      "Guest leans back in sun lounger, exhales"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

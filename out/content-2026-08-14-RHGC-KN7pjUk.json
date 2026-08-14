@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "520 reviews. 4.5 stars. For dumplings in Phu Quoc.\n\nThường Lạc Artisan Dumplings on Đ. 30 Tháng 4 is doing something right. Handcrafted dumplings, $15-30 a head, and a rating that holds up against 520 opinions. That's not luck, that's consistency.\n\nPut this on the list before your next beach day.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the steam lift off these dumplings at Thường Lạc Artisan Dumplings. 520 people rated this place 4.5 stars. You'll see why in the first bite. Phu Quoc just leveled up your lunch plans.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #ChineseFood #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocRestaurant #TravelTips"
+  },
+  "instagram": {
+    "caption": "520 reviews. 4.5 stars. Dumplings in Phu Quoc hit different.\n\nThường Lạc Artisan Dumplings, $15-30/head. Save this.",
+    "video_caption": "Steam rising. Dumpling skins thin as paper. Thường Lạc earned 4.5 stars from 520 people. Watch and you'll get it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurant #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #DumplingLovers #VisitVietnam #AsianFood"
+  },
+  "tiktok": {
+    "caption": "4.5 stars, 520 reviews, dumplings in Phu Quoc. Thường Lạc is the move. #PhuQuoc #PhuQuocFood #VietnamTravel #DumplingTok"
+  },
+  "video_script": {
+    "hook": "520 reviews. 4.5 stars.",
+    "scenes": [
+      "Close-up: dumpling skin pulled thin, raw",
+      "Steam rising from bamboo basket",
+      "Chopsticks lift a plump dumpling",
+      "Dipping sauce swirl, slow pour",
+      "Wide shot: busy table, full spread",
+      "Sign: Thường Lạc Artisan Dumplings"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
