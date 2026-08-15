@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "26,446 reviews. 4.6 stars. Vinpearl Safari Phú Quốc is not messing around.\n\nThis open-format conservation park sits on Bãi Dài and houses rare native Vietnamese species alongside exotic animals from around the world. Not a cage-and-concrete zoo. Animals roam, you ride through.\n\nKids lose their minds. Adults do too, honestly.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Safari bus rolls through and a giraffe walks right up to the window. That's Vinpearl Safari Phú Quốc. 4.6 stars from 26,446 people. Book before you land.",
+    "first_comment": "#PhuQuoc #PhuQuocThingsToDo #VinpearlSafari #VisitVietnam #TravelTips #PhuQuocIsland #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "26,446 reviews. 4.6 stars. Vinpearl Safari Phú Quốc earns every one.\n\nOpen zoo, rare species, no cages. Tag your travel buddy.",
+    "video_caption": "Safari bus. Giraffe at the window. 26K reviews for a reason. Vinpearl Safari Phú Quốc hits different.",
+    "hashtags": "#PhuQuocThingsToDo #PhuQuocIsland #VinpearlSafari #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #ZooLife"
+  },
+  "tiktok": {
+    "caption": "26,446 people rated this 4.6 stars. Vinpearl Safari Phú Quốc is the real deal. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "26,446 reviews. 4.6 stars.",
+    "scenes": [
+      "Aerial shot: vast open safari park",
+      "Safari bus enters animal zone",
+      "Giraffe approaches bus window",
+      "Kids react at close-up animals",
+      "Rare Vietnamese species on display",
+      "Crowd shot: full park energy"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

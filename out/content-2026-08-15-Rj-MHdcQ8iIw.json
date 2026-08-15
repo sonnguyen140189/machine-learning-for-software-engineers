@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "37,912 reviews. 4.9 stars. Vinpearl Wonderworld Phu Quoc keeps winning for a reason.\n\nThis resort at Bãi Dài isn't just big. It's a full world. Waterpark, beach, pools, entertainment, all on one strip of coast that still feels uncrowded.\n\nFamilies, couples, solo travelers. The reviews don't lie. Save this for your Phu Quoc trip.",
+    "video_caption": "Kids sprinting to the waterpark. Adults already at the pool bar. This is Vinpearl Wonderworld Phu Quoc on any given morning, and the 4.9-star rating suddenly makes total sense.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #VinpearlPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9★ across 37,912 reviews. Vinpearl Wonderworld Phu Quoc earns every one.\n\nBãi Dài beach. Waterpark. Pools. All in one place. Tag your travel buddy.",
+    "video_caption": "37,912 people rated this 4.9 stars. One morning here and you'll see exactly why.",
+    "hashtags": "#PhuQuocResort #PhuQuocBeaches #VinpearlPhuQuoc #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 37,912 reviews. Vinpearl Wonderworld Phu Quoc just built different. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9★ · 37,912 reviews.",
+    "scenes": [
+      "Aerial pan over Bãi Dài coastline",
+      "Kids launching off waterpark slide",
+      "Wide shot of beach pool at sunrise",
+      "Couple walking beachfront at golden hour",
+      "Review counter graphic animates to 37,912"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes the noise.\n\nMộc Cuisine Phú Quốc on Đường Trần Hưng Đạo hits different when you're done with the resort bubble. 4.7 stars across 241 reviews. $15-30 a head. The kind of bistro that slows your whole afternoon down without trying.\n\nFood feels considered. Space feels calm. Neither of those things is easy to pull off.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Camera pans the room at Mộc Cuisine Phú Quốc. Warm wood, unhurried plates, locals actually eating here. 4.7 stars for a reason. $15-30 a head and it earns every dollar.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #VietnamFood #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "This place fixes the noise. Mộc Cuisine Phú Quốc. 4.7★, 241 reviews, $15-30 a head.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Warm wood. Unhurried plates. Mộc Cuisine Phú Quốc earns its 4.7 stars every single sitting.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamFood #PhúQuốc"
+  },
+  "tiktok": {
+    "caption": "Done with the resort bubble? Mộc Cuisine Phú Quốc hits different. 4.7★, 241 reviews. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Exterior shot: 107 Đường Trần Hưng Đạo sign",
+      "Pan across warm wood interior, soft light",
+      "Close-up: plated dish arriving at table",
+      "Wide shot: relaxed diners, unhurried pace",
+      "Text overlay: 4.7★ across 241 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 288 reviews. Zero complaints.\n\nALOHA88 - Kayak & Snorkeling club is pulling a perfect score in Phu Quoc, and that's not an accident. Grab a kayak, get in the water, and see why everyone who shows up leaves a five-star review.\n\nThis is the kind of spot that earns its rating one trip at a time. Save this for your Phu Quoc trip.",
+    "video_caption": "Paddles hit the water. Mask on. You're in. ALOHA88 - Kayak & Snorkeling club runs a 5.0 with 288 reviews, and the ocean here does all the explaining. Book before your slot disappears.",
+    "first_comment": "#PhuQuoc #PhuQuocWaterSports #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 288 reviews. ALOHA88 - Kayak & Snorkeling club.\nPhu Quoc water sports don't get rated this clean. Tag your travel buddy.",
+    "video_caption": "Kayak out. Snorkel down. 5.0 stars earned. ALOHA88 delivers every single time.",
+    "hashtags": "#PhuQuocWaterSports #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "5.0 stars. 288 reviews. No catches. ALOHA88 kayak & snorkel in Phu Quoc hits different. #PhuQuoc #PhuQuocWaterSports #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5.0★ / 288 reviews. Zero dips.",
+    "scenes": [
+      "Kayaks lined up on the shore",
+      "Hands grip paddles, push off sand",
+      "Underwater: coral, fish, clear visibility",
+      "Snorkeler surfaces, thumbs up",
+      "Wide shot: open water, no crowds"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

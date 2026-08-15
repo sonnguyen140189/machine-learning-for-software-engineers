@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Locals don't book through a resort for this. They call the guys at Thuê cano riêng -FISHING TOUR directly. Private boat. Real fishing. No tourist script. 5.0 stars across 32 reviews and zero marketing budget. That ratio tells you everything. Head to Trần Hương Đạo, Khu Phú 7 and ask around. Save this for your Phu Quoc trip.",
+    "video_caption": "Private boat leaving the dock at sunrise. Lines in the water before the tour groups even wake up. This is how locals fish Phu Quoc. Thuê cano riêng -FISHING TOUR, Trần Hương Đạo. 5.0 stars. 32 reviews. Zero hype.",
+    "first_comment": "#PhuQuoc #PhuQuocFishing #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Locals skip the resort boat tours. Thuê cano riêng -FISHING TOUR does it right. 5.0 stars, 32 reviews. Tag your travel buddy.",
+    "video_caption": "Private boat. Open water. No tourist groups. Thuê cano riêng -FISHING TOUR is the one locals actually use.",
+    "hashtags": "#PhuQuocFishing #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocBoatTour"
+  },
+  "tiktok": {
+    "caption": "Locals don't use resort boats. They come here. 5.0 stars, zero hype. #PhuQuoc #PhuQuocFishing #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't tell you about this boat.",
+    "scenes": [
+      "Boat pulling away from dock at dawn",
+      "Fishing lines drop into clear open water",
+      "Close-up: fresh catch pulled aboard",
+      "Wide shot: zero other boats visible",
+      "5.0 stars text card fades in"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

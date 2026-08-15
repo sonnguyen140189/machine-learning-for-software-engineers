@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "369 reviews. Every single one gives it 5 stars.\n\nSoul Match - Matcha, Coffee & More on 117 Lý Thường Kiệt is doing something right. Matcha, coffee, and drinks under $10 a person. No tourist markup. No attitude. Just a quiet spot that locals keep rating perfect.\n\nPhu Quoc has a lot of cafés. This one has a flawless record.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the matcha hit the glass at Soul Match - Matcha, Coffee & More. Under $10. 5 stars from 369 people. That score does not lie.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocFood #VisitVietnam #VietnamCafe #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "369 reviews. Perfect 5.0 stars. Soul Match - Matcha, Coffee & More delivers every time. Under $10.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Perfect score. 369 people agree. Soul Match - Matcha, Coffee & More is the café you skip the resort lobby for.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #MatchaLovers"
+  },
+  "tiktok": {
+    "caption": "5.0 stars. 369 reviews. Under $10. Soul Match - Matcha, Coffee & More in Phu Quoc is that serious. #PhuQuoc #PhuQuocCafe #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "5.0 stars. 369 reviews.",
+    "scenes": [
+      "Exterior shot: 117 Lý Thường Kiệt storefront",
+      "Close-up: matcha poured over ice, slow motion",
+      "Wide shot: cozy interior, local crowd",
+      "Cut to: Google review screen, 5.0 stars visible",
+      "Hand lifts drink toward camera, condensation drips"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
