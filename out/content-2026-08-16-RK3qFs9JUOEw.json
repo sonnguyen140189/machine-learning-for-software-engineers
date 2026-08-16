@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes the 3pm slump better than any resort pool bar. Cà Phê Bàng on Đ. Trần Phú is doing something right. 4.4 stars, 211 reviews, and under $10 a head. Order something cold. Sit down. Stop planning for an hour. Phu Quoc at its most unhurried. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the ice melt into that coffee while the street outside moves at half speed. Cà Phê Bàng, Đ. Trần Phú. Under $10. 211 people already know.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeePhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamCoffee"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. Cà Phê Bàng. 4.4 stars. Under $10. One hour, zero agenda. Tag your travel buddy.",
+    "video_caption": "Cold coffee. Slow ceiling fan. No resort noise. Cà Phê Bàng on Đ. Trần Phú hits different.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #CoffeePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The café Phu Quoc needed you to find. Cà Phê Bàng. Under $10. Zero tourists. #PhuQuoc #VietnamCoffee #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that doesn't feel touristy.",
+    "scenes": [
+      "Exterior shot, street-level, midday light",
+      "Close-up: iced Vietnamese coffee poured",
+      "Slow pan across uncrowded tables",
+      "Hand wraps around cold glass",
+      "Empty street visible through open doorway"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

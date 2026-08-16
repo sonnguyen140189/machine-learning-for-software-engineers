@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars. 191 reviews. And your bill stays under $30. Nhà hàng Nét Việt Phú Quốc on Trần Hưng Đạo is doing something right. Fresh seafood, local flavors, real portions. Not the tourist trap version of Vietnamese food. The actual thing. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the seafood land on the table at Nhà hàng Nét Việt Phú Quốc. 191 people rated this 4.5 stars. Under $30 a head. Trần Hưng Đạo delivers.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.5 stars. 191 reviews. Under $30. Nhà hàng Nét Việt Phú Quốc is the move. Tag your travel buddy.",
+    "video_caption": "191 reviews don't lie. Fresh seafood, $30 max. Nhà hàng Nét Việt Phú Quốc, Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.5 stars, 191 reviews, under $30. Nhà hàng Nét Việt Phú Quốc hits different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.5★ · 191 reviews · $30 max",
+    "scenes": [
+      "Pan across full seafood spread on table",
+      "Close-up: fresh grilled fish plated",
+      "Show bill or menu with prices visible",
+      "Cut to busy dining room, locals eating",
+      "End on restaurant sign: Nhà hàng Nét Việt Phú Quốc"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "293 reviews. 4.6 stars. Vựa hải sản nhà Su & Bee keeps delivering.\n\nThis is Phu Quoc seafood at the top end. Fresh catches, serious portions, the kind of meal you plan a night around. Sit at 30 Đường Bạch Đằng and let the kitchen do the work.\n\nBudget $100+ per person. Worth every dong.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the seafood land on this table. Vựa hải sản nhà Su & Bee, 293 reviews, 4.6 stars. Phu Quoc's top-end catch done right. Budget $100+ and don't flinch.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "293 reviews. 4.6 stars. Vựa hải sản nhà Su & Bee earns both.\n\n$100+ a head. Phu Quoc seafood at its best. Save this.",
+    "video_caption": "Fresh catch hitting the table at Vựa hải sản nhà Su & Bee. 4.6 stars, 293 reviews. This is why you come to Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.6 stars, 293 reviews. Vựa hải sản nhà Su & Bee is Phu Quoc's seafood answer. $100+ and zero regrets. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.6 stars. 293 reviews.",
+    "scenes": [
+      "Exterior shot: restaurant sign at dusk",
+      "Staff carry loaded seafood platters",
+      "Close-up: whole grilled fish, claws, shells",
+      "Wide table shot: full spread, packed room",
+      "Price tag graphic: $100+ per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

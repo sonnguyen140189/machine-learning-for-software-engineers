@@ -1,0 +1,523 @@
+{
+  "stamp": "2026-08-16",
+  "items": [
+    {
+      "placeId": "ChIJKZFCSpiLpzERK3qFs9JUOEw",
+      "placeName": "Cà Phê Bàng",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-16-RK3qFs9JUOEw-0.jpg",
+        "out/media/2026-08-16-RK3qFs9JUOEw-1.jpg",
+        "out/media/2026-08-16-RK3qFs9JUOEw-2.jpg",
+        "out/media/2026-08-16-RK3qFs9JUOEw-3.jpg",
+        "out/media/2026-08-16-RK3qFs9JUOEw-4.jpg",
+        "out/media/2026-08-16-RK3qFs9JUOEw-5.jpg",
+        "out/media/2026-08-16-RK3qFs9JUOEw-6.jpg",
+        "out/media/2026-08-16-RK3qFs9JUOEw-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes the 3pm slump better than any resort pool bar. Cà Phê Bàng on Đ. Trần Phú is doing something right. 4.4 stars, 211 reviews, and under $10 a head. Order something cold. Sit down. Stop planning for an hour. Phu Quoc at its most unhurried. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the ice melt into that coffee while the street outside moves at half speed. Cà Phê Bàng, Đ. Trần Phú. Under $10. 211 people already know.",
+          "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeePhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamCoffee"
+        },
+        "instagram": {
+          "caption": "Phu Quoc that doesn't feel touristy. Cà Phê Bàng. 4.4 stars. Under $10. One hour, zero agenda. Tag your travel buddy.",
+          "video_caption": "Cold coffee. Slow ceiling fan. No resort noise. Cà Phê Bàng on Đ. Trần Phú hits different.",
+          "hashtags": "#PhuQuocCafe #PhuQuocFood #CoffeePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "The café Phu Quoc needed you to find. Cà Phê Bàng. Under $10. Zero tourists. #PhuQuoc #VietnamCoffee #PhuQuocTips"
+        },
+        "video_script": {
+          "hook": "Phu Quoc that doesn't feel touristy.",
+          "scenes": [
+            "Exterior shot, street-level, midday light",
+            "Close-up: iced Vietnamese coffee poured",
+            "Slow pan across uncrowded tables",
+            "Hand wraps around cold glass",
+            "Empty street visible through open doorway"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJwzDHWDqNpzER2tLsMth7CLM",
+      "placeName": "Bếp Biển",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-16-R2tLsMth7CLM-0.jpg",
+        "out/media/2026-08-16-R2tLsMth7CLM-1.jpg",
+        "out/media/2026-08-16-R2tLsMth7CLM-2.jpg",
+        "out/media/2026-08-16-R2tLsMth7CLM-3.jpg",
+        "out/media/2026-08-16-R2tLsMth7CLM-4.jpg",
+        "out/media/2026-08-16-R2tLsMth7CLM-5.jpg",
+        "out/media/2026-08-16-R2tLsMth7CLM-6.jpg",
+        "out/media/2026-08-16-R2tLsMth7CLM-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-16-R2tLsMth7CLM.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you're walking Đường Trần Hưng Đạo and every restaurant looks the same. Then you notice a 4.8-star sign and 1,433 people who clearly know something you don't.\n\nBếp Biển. Fresh seafood, serious ratings, and a local crowd that keeps coming back. Skip the tourist traps on the strip. This is the one.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "1,433 reviews led us to Bếp Biển. Watch what arrives at the table. This is why you eat local in Phu Quoc.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocSeafood #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: you almost walked past Bếp Biển. Don't be me. 4.8 stars. 1,433 reviews. Go.\n\nTag your travel buddy.",
+          "video_caption": "Seafood landing on the table at Bếp Biển. 4.8 stars for a reason. Phu Quoc delivers.",
+          "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocTips #PhuQuocRestaurant #VietnamTravel #TravelTips #TravelReels #FoodReels"
+        },
+        "tiktok": {
+          "caption": "Almost walked past this. 4.8 stars at Bếp Biển. Phu Quoc seafood hits different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: you almost missed this.",
+          "scenes": [
+            "Pan down busy Đường Trần Hưng Đạo strip",
+            "Slow zoom into Bếp Biển entrance sign",
+            "Packed tables, locals eating, steam rising",
+            "Close-up: fresh seafood plated and served",
+            "Phone screen shows 4.8 stars, 1,433 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ6ZS5Zl6MpzERb-qhkr9ofs4",
+      "placeName": "Phuong Hoang Seafood Restaurant",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-16-Rb-qhkr9ofs4-0.jpg",
+        "out/media/2026-08-16-Rb-qhkr9ofs4-1.jpg",
+        "out/media/2026-08-16-Rb-qhkr9ofs4-2.jpg",
+        "out/media/2026-08-16-Rb-qhkr9ofs4-3.jpg",
+        "out/media/2026-08-16-Rb-qhkr9ofs4-4.jpg",
+        "out/media/2026-08-16-Rb-qhkr9ofs4-5.jpg",
+        "out/media/2026-08-16-Rb-qhkr9ofs4-6.jpg",
+        "out/media/2026-08-16-Rb-qhkr9ofs4-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Fresh seafood in Phu Quoc for $15-30 a person. That's it. That's the post.\n\nPhuong Hoang Seafood Restaurant on Đường Trần Hưng Đạo pulls 4.5 stars across 1,880 reviews at $$ pricing. Not a tourist trap. Not a beach shack. A proper sit-down seafood spot that locals and visitors both keep coming back to.\n\nIf you're skipping this because the menu looks too cheap to be good, that's on you.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "4.5 stars. 1,880 people. Under $30 a head for fresh seafood in Phu Quoc. Watch the plates land at Phuong Hoang Seafood Restaurant and tell me this doesn't go straight to your saved folder.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocSeafood #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "$15-30 for fresh Phu Quoc seafood. 4.5★ across 1,880 reviews. Phuong Hoang Seafood Restaurant delivers. Save this for your Vietnam trip.",
+          "video_caption": "Plates of fresh seafood. $15-30 a head. 1,880 reviews at 4.5 stars. Phuong Hoang does not miss.",
+          "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "Fresh seafood for $15-30 a head in Phu Quoc?? Phuong Hoang doesn't miss. #PhuQuoc #PhuQuocFood #PhuQuocSeafood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "$30 seafood dinner in Phu Quoc.",
+          "scenes": [
+            "Pan across full table of seafood dishes",
+            "Close-up: grilled prawns hitting the plate",
+            "Shot of bill or menu showing $$ pricing",
+            "Crowd inside, tables full, buzzing atmosphere",
+            "Google review count: 1,880 at 4.5 stars"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJze_KNYiMpzERLa0Mfzg3-ZE",
+      "placeName": "Xin Chao seafood restaurant",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-16-RLa0Mfzg3-ZE-0.jpg",
+        "out/media/2026-08-16-RLa0Mfzg3-ZE-1.jpg",
+        "out/media/2026-08-16-RLa0Mfzg3-ZE-2.jpg",
+        "out/media/2026-08-16-RLa0Mfzg3-ZE-3.jpg",
+        "out/media/2026-08-16-RLa0Mfzg3-ZE-4.jpg",
+        "out/media/2026-08-16-RLa0Mfzg3-ZE-5.jpg",
+        "out/media/2026-08-16-RLa0Mfzg3-ZE-6.jpg",
+        "out/media/2026-08-16-RLa0Mfzg3-ZE-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-16-RLa0Mfzg3-ZE.mp4",
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Upmarket seafood plates with a sea view terrace. Under $30 a head at Xin Chao. That math is unreal. 5,070 reviews back it up. Sit on the terrace at Xin Chao on Đường Trần Hưng Đạo, order whatever the table next to you got, and watch the water. This is the dinner you tell people about. Save this for your Phu Quoc trip.",
+          "video_caption": "Sea terrace. Loaded seafood plates. $15-30 a person. Watch the full spread land on the table at Xin Chao and try not to book a flight right now.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Sea-view seafood dinner. Under $30. Xin Chao delivers. 5,070 reviews and a terrace over the water. Tag your travel buddy.",
+          "video_caption": "Plates keep coming. Ocean right there. Under $30 a head at Xin Chao, Phu Quoc.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SeafoodLovers"
+        },
+        "tiktok": {
+          "caption": "Upmarket seafood terrace with sea views. Under $30 per person. Phu Quoc really said affordable. #PhuQuoc #PhuQuocFood #TravelTips"
+        },
+        "video_script": {
+          "hook": "Sea-view dinner. Under $30.",
+          "scenes": [
+            "Aerial pan across sea terrace at dusk",
+            "Plates of fresh seafood arriving at table",
+            "Close-up: grilled prawns, sauces, ice bucket",
+            "Wide shot: full table spread, water behind",
+            "Bill arrives, camera lingers on total"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJMwe2gsuXpzERYM-EJba18Po",
+      "placeName": "Ann Seafood",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-16-RYM-EJba18Po-0.jpg",
+        "out/media/2026-08-16-RYM-EJba18Po-1.jpg",
+        "out/media/2026-08-16-RYM-EJba18Po-2.jpg",
+        "out/media/2026-08-16-RYM-EJba18Po-3.jpg",
+        "out/media/2026-08-16-RYM-EJba18Po-4.jpg",
+        "out/media/2026-08-16-RYM-EJba18Po-5.jpg",
+        "out/media/2026-08-16-RYM-EJba18Po-6.jpg",
+        "out/media/2026-08-16-RYM-EJba18Po-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.8 stars. 3,428 reviews. At a seafood spot most tourists never find.\n\nAnn Seafood sits right on Bãi Khem, one of Phu Quoc's clearest stretches of water. Fresh catch. Proper portions. The kind of place locals bring their families on weekends.\n\nIf you're staying south side, this is your dinner plan. Save this for your Phu Quoc trip.",
+          "video_caption": "Grilled seafood landing on the table, Bãi Khem water in the background. 3,428 people rated Ann Seafood 4.8 stars. Watch why.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #SeafoodPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.8 stars. 3,428 reviews. Ann Seafood at Bãi Khem hits different.\n\nFresh catch, beachside tables, no tourist trap pricing. South Phu Quoc's most trusted seafood spot.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "3,428 reviews don't lie. Ann Seafood at Bãi Khem. Fresh. Local. Worth every minute of the drive south.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurant #BaiKhem #SeafoodVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "4.8 stars, 3,428 reviews, beachside seafood at Bãi Khem. Ann Seafood delivers. #PhuQuoc #PhuQuocFood #SeafoodVietnam #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.8★ 3,428 reviews. This place.",
+          "scenes": [
+            "Aerial or wide shot of Bãi Khem shoreline",
+            "Exterior of Ann Seafood, tables filling up",
+            "Hands picking fresh seafood from display ice",
+            "Grill flames, prawns sizzling close-up",
+            "Full table spread landing in front of diners",
+            "Sunset light hitting the water from the restaurant"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
+      "placeName": "Nhà hàng hải sản Xưa và Nay",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-16-RJ5gsnB4szZo-0.jpg",
+        "out/media/2026-08-16-RJ5gsnB4szZo-1.jpg",
+        "out/media/2026-08-16-RJ5gsnB4szZo-2.jpg",
+        "out/media/2026-08-16-RJ5gsnB4szZo-3.jpg",
+        "out/media/2026-08-16-RJ5gsnB4szZo-4.jpg",
+        "out/media/2026-08-16-RJ5gsnB4szZo-5.jpg",
+        "out/media/2026-08-16-RJ5gsnB4szZo-6.jpg",
+        "out/media/2026-08-16-RJ5gsnB4szZo-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-16-RJ5gsnB4szZo.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past Nhà hàng hải sản Xưa và Nay. Big mistake. This seafood spot on Đường Trần Hưng Đạo pulls a 4.5-star rating from 192 reviews, mostly locals. Fresh catch, no resort markup, $15-30 a head. That's a full seafood dinner in Phu Quoc. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the grill fire up at Nhà hàng hải sản Xưa và Nay. Whole fish, live shellfish, $15-30 a head. 192 locals rated it 4.5 stars. The tourist strip doesn't want you to find this.",
+          "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about Nhà hàng hải sản Xưa và Nay. 4.5 stars, 192 reviews, $15-30 a head. Save this.",
+          "video_caption": "Fresh seafood sizzling. No tourist trap prices. Nhà hàng hải sản Xưa và Nay delivers. Tag your travel buddy.",
+          "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurant #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "The seafood spot locals keep quiet about in Phu Quoc 👀 #PhuQuoc #PhuQuocFood #PhuQuocSeafood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't talk about this.",
+          "scenes": [
+            "Exterior shot: 66A Đường Trần Hưng Đạo signage",
+            "Live seafood tank, crab and shellfish moving",
+            "Chef grills whole fish over open flame",
+            "Table spread: multiple dishes, $15-30 pp",
+            "Close-up: 4.5 stars on review screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJFxJfXGiNpzER5oQGw5O9TkU",
+      "placeName": "Nhà hàng hải sản Thuận Kiều 2 - Fresh Seafood & Vietnamese Cuisine",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-16-R5oQGw5O9TkU-0.jpg",
+        "out/media/2026-08-16-R5oQGw5O9TkU-1.jpg",
+        "out/media/2026-08-16-R5oQGw5O9TkU-2.jpg",
+        "out/media/2026-08-16-R5oQGw5O9TkU-3.jpg",
+        "out/media/2026-08-16-R5oQGw5O9TkU-4.jpg",
+        "out/media/2026-08-16-R5oQGw5O9TkU-5.jpg",
+        "out/media/2026-08-16-R5oQGw5O9TkU-6.jpg",
+        "out/media/2026-08-16-R5oQGw5O9TkU-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this one. Nhà hàng hải sản Thuận Kiều 2 sits on Đường Trần Hưng Đạo and the locals filling every table will tell you everything you need to know. Fresh seafood, Vietnamese classics, 4.7 stars across 586 reviews. No resort markup. No English-first menu theatrics. Just the real Phu Quoc on a plate. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the kitchen move at Nhà hàng hải sản Thuận Kiều 2. Locals packed in, seafood straight from the market, 4.7 stars for a reason. This is the Phu Quoc dinner spot you almost missed. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about Nhà hàng hải sản Thuận Kiều 2. 4.7 stars, 586 reviews, zero tourist traps. Save this.",
+          "video_caption": "Every table packed with locals. Nhà hàng hải sản Thuận Kiều 2 hits different. 4.7 stars, real Phu Quoc food.",
+          "hashtags": "#PhuQuocSeafood #PhuQuocFood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "The seafood spot locals keep to themselves in Phu Quoc. 4.7 stars, 586 reviews. #PhuQuoc #PhuQuocFood #PhuQuocSeafood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't share this spot.",
+          "scenes": [
+            "Exterior shot: busy street entrance on Đường Trần Hưng Đạo",
+            "Pan across full tables of local diners",
+            "Close-up: fresh seafood arriving at a table",
+            "Hands cracking into a whole crab or grilled fish",
+            "Text overlay: 4.7 stars, 586 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJxyir2P0fCDERr4lf9WU--CQ",
+      "placeName": "Mai Hương Beachfront",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-16-Rr4lf9WU--CQ-0.jpg",
+        "out/media/2026-08-16-Rr4lf9WU--CQ-1.jpg",
+        "out/media/2026-08-16-Rr4lf9WU--CQ-2.jpg",
+        "out/media/2026-08-16-Rr4lf9WU--CQ-3.jpg",
+        "out/media/2026-08-16-Rr4lf9WU--CQ-4.jpg",
+        "out/media/2026-08-16-Rr4lf9WU--CQ-5.jpg",
+        "out/media/2026-08-16-Rr4lf9WU--CQ-6.jpg",
+        "out/media/2026-08-16-Rr4lf9WU--CQ-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-16-Rr4lf9WU--CQ.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.9 stars. 3,034 reviews. At a beachfront restaurant in Phu Quoc.\n\nMai Hương Beachfront sits right on the Grand World strip and somehow still pulls those numbers. Not a fluke. Locals and tourists both rate it near-perfect, which almost never happens.\n\nGrand World is loud and busy. This spot cuts through. Save this for your Phu Quoc trip.",
+          "video_caption": "Waves behind you. Food in front. 3,034 people gave Mai Hương Beachfront 4.9 stars and after this footage you'll see why. Grand World Phu Quoc just hit different here.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #GrandWorldPhuQuoc #VisitVietnam #VietnamFood #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.9 stars. 3,034 reviews. Mai Hương Beachfront is not playing around.\n\nGrand World, Phu Quoc. Tag your travel buddy.",
+          "video_caption": "Beachfront table. 4.9 stars. 3,034 people already know. Mai Hương Beachfront, Grand World Phu Quoc.",
+          "hashtags": "#PhuQuocRestaurants #PhuQuocFood #GrandWorldPhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodieTravel"
+        },
+        "tiktok": {
+          "caption": "4.9 stars from 3,034 reviews. Mai Hương Beachfront is the real deal. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.9★ from 3,034 reviews.",
+          "scenes": [
+            "Drone pull-back: beach meets Grand World strip",
+            "Close-up: steaming dishes hitting the table",
+            "Wide shot: packed outdoor seating, ocean behind",
+            "Slow pan across the review count on screen",
+            "Final frame: name card, Mai Hương Beachfront"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJUVkYvMWNpzER68bYoIeQoq0",
+      "placeName": "Vựa hải sản nhà Su & Bee",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-16-R68bYoIeQoq0-0.jpg",
+        "out/media/2026-08-16-R68bYoIeQoq0-1.jpg",
+        "out/media/2026-08-16-R68bYoIeQoq0-2.jpg",
+        "out/media/2026-08-16-R68bYoIeQoq0-3.jpg",
+        "out/media/2026-08-16-R68bYoIeQoq0-4.jpg",
+        "out/media/2026-08-16-R68bYoIeQoq0-5.jpg",
+        "out/media/2026-08-16-R68bYoIeQoq0-6.jpg",
+        "out/media/2026-08-16-R68bYoIeQoq0-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "293 reviews. 4.6 stars. Vựa hải sản nhà Su & Bee keeps delivering.\n\nThis is Phu Quoc seafood at the top end. Fresh catches, serious portions, the kind of meal you plan a night around. Sit at 30 Đường Bạch Đằng and let the kitchen do the work.\n\nBudget $100+ per person. Worth every dong.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the seafood land on this table. Vựa hải sản nhà Su & Bee, 293 reviews, 4.6 stars. Phu Quoc's top-end catch done right. Budget $100+ and don't flinch.",
+          "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+        },
+        "instagram": {
+          "caption": "293 reviews. 4.6 stars. Vựa hải sản nhà Su & Bee earns both.\n\n$100+ a head. Phu Quoc seafood at its best. Save this.",
+          "video_caption": "Fresh catch hitting the table at Vựa hải sản nhà Su & Bee. 4.6 stars, 293 reviews. This is why you come to Phu Quoc.",
+          "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "4.6 stars, 293 reviews. Vựa hải sản nhà Su & Bee is Phu Quoc's seafood answer. $100+ and zero regrets. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.6 stars. 293 reviews.",
+          "scenes": [
+            "Exterior shot: restaurant sign at dusk",
+            "Staff carry loaded seafood platters",
+            "Close-up: whole grilled fish, claws, shells",
+            "Wide table shot: full spread, packed room",
+            "Price tag graphic: $100+ per person"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJtePCImGLpzER70_qwXv_noQ",
+      "placeName": "Đảo Hải Sản | Seafood Restaurant · 해산물 · Рестораны Phú Quốc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-16-R70_qwXv_noQ-0.jpg",
+        "out/media/2026-08-16-R70_qwXv_noQ-1.jpg",
+        "out/media/2026-08-16-R70_qwXv_noQ-2.jpg",
+        "out/media/2026-08-16-R70_qwXv_noQ-3.jpg",
+        "out/media/2026-08-16-R70_qwXv_noQ-4.jpg",
+        "out/media/2026-08-16-R70_qwXv_noQ-5.jpg",
+        "out/media/2026-08-16-R70_qwXv_noQ-6.jpg",
+        "out/media/2026-08-16-R70_qwXv_noQ-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-16-R70_qwXv_noQ.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you ducked down a side alley off Trần Phú and found the real seafood spot. Đảo Hải Sản, Hẻm 111. 4.7 stars, 1,382 reviews, $15-30 a head. Fresh catches, no resort markup, no tourist-trap menu. This is where you eat when you actually want to eat well in Phu Quoc. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the seafood land on the table at Đảo Hải Sản. 4.7 stars. $15-30 a person. Hẻm 111, Đ. Trần Phú. This is the one locals keep returning to.",
+          "first_comment": "#PhuQuoc #PhuQuocSeafood #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocFood #PhuQuocRestaurants #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "Ducked down Hẻm 111 and found Đảo Hải Sản. 4.7★, 1,382 reviews, $15-30 a head. Tag your travel buddy.",
+          "video_caption": "Alley find. Fresh seafood. 4.7 stars. Đảo Hải Sản hits every time.",
+          "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "POV: wrong alley, right restaurant. Đảo Hải Sản, Phu Quoc. 4.7★ for a reason. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Wrong alley. Best meal.",
+          "scenes": [
+            "Walking down narrow Hẻm 111 alley",
+            "Restaurant sign comes into frame",
+            "Fresh seafood displayed on ice",
+            "Dishes hitting the table fast",
+            "Close-up: grilled prawns, steamed clams",
+            "Bill arrives, under $30 per person"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJGTFz1fqNpzEREOpM4RiSFSI",
+      "placeName": "Nhà hàng Nét Việt Phú Quốc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-16-REOpM4RiSFSI-0.jpg",
+        "out/media/2026-08-16-REOpM4RiSFSI-1.jpg",
+        "out/media/2026-08-16-REOpM4RiSFSI-2.jpg",
+        "out/media/2026-08-16-REOpM4RiSFSI-3.jpg",
+        "out/media/2026-08-16-REOpM4RiSFSI-4.jpg",
+        "out/media/2026-08-16-REOpM4RiSFSI-5.jpg",
+        "out/media/2026-08-16-REOpM4RiSFSI-6.jpg",
+        "out/media/2026-08-16-REOpM4RiSFSI-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.5 stars. 191 reviews. And your bill stays under $30. Nhà hàng Nét Việt Phú Quốc on Trần Hưng Đạo is doing something right. Fresh seafood, local flavors, real portions. Not the tourist trap version of Vietnamese food. The actual thing. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the seafood land on the table at Nhà hàng Nét Việt Phú Quốc. 191 people rated this 4.5 stars. Under $30 a head. Trần Hưng Đạo delivers.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.5 stars. 191 reviews. Under $30. Nhà hàng Nét Việt Phú Quốc is the move. Tag your travel buddy.",
+          "video_caption": "191 reviews don't lie. Fresh seafood, $30 max. Nhà hàng Nét Việt Phú Quốc, Phu Quoc.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.5 stars, 191 reviews, under $30. Nhà hàng Nét Việt Phú Quốc hits different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.5★ · 191 reviews · $30 max",
+          "scenes": [
+            "Pan across full seafood spread on table",
+            "Close-up: fresh grilled fish plated",
+            "Show bill or menu with prices visible",
+            "Cut to busy dining room, locals eating",
+            "End on restaurant sign: Nhà hàng Nét Việt Phú Quốc"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJf6ykc4iMpzER-X7O0fSCJSs",
+      "placeName": "Si’s Crab House",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-16-R-X7O0fSCJSs-0.jpg",
+        "out/media/2026-08-16-R-X7O0fSCJSs-1.jpg",
+        "out/media/2026-08-16-R-X7O0fSCJSs-2.jpg",
+        "out/media/2026-08-16-R-X7O0fSCJSs-3.jpg",
+        "out/media/2026-08-16-R-X7O0fSCJSs-4.jpg",
+        "out/media/2026-08-16-R-X7O0fSCJSs-5.jpg",
+        "out/media/2026-08-16-R-X7O0fSCJSs-6.jpg",
+        "out/media/2026-08-16-R-X7O0fSCJSs-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-16-R-X7O0fSCJSs.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you splurged on crab in Phu Quoc and zero regrets.\n\nSi's Crab House on 26 Đường Nguyễn Trãi is the $$$$ seafood spot locals point you to when you say you want the real deal. 4.3 stars across 1,772 reviews. That's not luck.\n\nFresh crab, serious portions, and a bill that reminds you this is the good stuff. Come hungry. Come with people.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Cracking crab at Si's Crab House and this is why Phu Quoc seafood hits different. 4.3 stars. 1,772 people agreed. 26 Đường Nguyễn Trãi. Book ahead.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocSeafood #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: you found the crab spot locals actually rate in Phu Quoc.\n\n4.3★ across 1,772 reviews. Si's Crab House. Worth every dollar.\n\nTag your travel buddy.",
+          "video_caption": "Crab so fresh it changes your standards. Si's Crab House, Phu Quoc. 4.3★, 1,772 reviews. You'll understand.",
+          "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "POV: splurged on crab in Phu Quoc. Best decision. Si's Crab House, 4.3★, 1,772 reviews. #PhuQuoc #PhuQuocFood #PhuQuocSeafood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "POV: best crab in Phu Quoc",
+          "scenes": [
+            "Exterior shot: 26 Đường Nguyễn Trãi sign",
+            "Whole crab lands on the table",
+            "Close-up: shell cracked, steam rising",
+            "Wide shot: full spread, packed table",
+            "Reaction: first bite, eyes close"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

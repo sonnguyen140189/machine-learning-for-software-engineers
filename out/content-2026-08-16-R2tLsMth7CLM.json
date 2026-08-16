@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking Đường Trần Hưng Đạo and every restaurant looks the same. Then you notice a 4.8-star sign and 1,433 people who clearly know something you don't.\n\nBếp Biển. Fresh seafood, serious ratings, and a local crowd that keeps coming back. Skip the tourist traps on the strip. This is the one.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "1,433 reviews led us to Bếp Biển. Watch what arrives at the table. This is why you eat local in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocSeafood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you almost walked past Bếp Biển. Don't be me. 4.8 stars. 1,433 reviews. Go.\n\nTag your travel buddy.",
+    "video_caption": "Seafood landing on the table at Bếp Biển. 4.8 stars for a reason. Phu Quoc delivers.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocTips #PhuQuocRestaurant #VietnamTravel #TravelTips #TravelReels #FoodReels"
+  },
+  "tiktok": {
+    "caption": "Almost walked past this. 4.8 stars at Bếp Biển. Phu Quoc seafood hits different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you almost missed this.",
+    "scenes": [
+      "Pan down busy Đường Trần Hưng Đạo strip",
+      "Slow zoom into Bếp Biển entrance sign",
+      "Packed tables, locals eating, steam rising",
+      "Close-up: fresh seafood plated and served",
+      "Phone screen shows 4.8 stars, 1,433 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
