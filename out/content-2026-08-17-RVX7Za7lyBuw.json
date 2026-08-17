@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered down Đường Trần Hưng Đạo and stumbled into La Place coffee and eatery Phu Quoc. 4.7 stars across 500 reviews. The kind of spot that earns regulars fast. Coffee is serious, food hits the $15-30 range, and the vibe is nothing like the tourist strip. Worth the detour. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into La Place coffee and eatery Phu Quoc mid-morning. 500 people rated this 4.7 stars. Watch why. Đường Trần Hưng Đạo just moved up your itinerary.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: wrong turn on Đường Trần Hưng Đạo. Found La Place coffee and eatery Phu Quoc. 4.7 stars. 500 reviews. Don't walk past this one. Save it.",
+    "video_caption": "4.7 stars. 500 reviews. La Place coffee and eatery Phu Quoc just earned a permanent spot on the list.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocRestaurant"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn. Ended up at La Place coffee and eatery Phu Quoc. 4.7 stars. No regrets. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found La Place.",
+    "scenes": [
+      "Approach cafe exterior on Đường Trần Hưng Đạo",
+      "Push open door, reveal interior atmosphere",
+      "Barista pulls espresso shot close-up",
+      "Food plate lands on table, steam rising",
+      "Cut to 4.7 star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're on Đường Trần Hưng Đạo craving something real and you walk into Diner PHU QUOC BEER'n BURGERS BREAKFAST LUNCH DINNER. Burgers, cold beer, breakfast all day. 4.6 stars across 128 reviews. $15-30 a person on one of Phu Quoc's busiest strips. Solid call any time of day. Save this for your Phu Quoc trip.",
+    "video_caption": "Biting into a proper burger in Phu Quoc. Cold beer. Full diner menu from breakfast to dinner. 4.6 stars. Diner PHU QUOC BEER'n BURGERS BREAKFAST LUNCH DINNER on Đường Trần Hưng Đạo. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked past, doubled back, ordered a burger. Diner PHU QUOC BEER'n BURGERS BREAKFAST LUNCH DINNER. 4.6 stars, $15-30, open all day. Save this.",
+    "video_caption": "Breakfast, burgers, cold beer. One diner. Đường Trần Hưng Đạo. 4.6 stars. Don't walk past.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Almost walked past this diner in Phu Quoc. Big mistake. 4.6 stars, burgers + beer + breakfast all day. #PhuQuoc #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Walked past. Doubled back.",
+    "scenes": [
+      "Street-level exterior shot, Đường Trần Hưng Đạo sign visible",
+      "Push through the door, diner interior revealed",
+      "Hands wrapping around a loaded burger, close-up",
+      "Cold beer poured, condensation on the glass",
+      "Menu board showing breakfast, lunch, dinner options",
+      "4.6 stars on screen, 128 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

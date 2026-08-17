@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walked into Cung Điện Hải Vương and forgot you were still in Phu Quoc. 4.7 stars across 4,397 reviews. This is not a small number. Floor-to-ceiling tanks, sea creatures you don't see anywhere else on the island, and kids who will not stop talking about it for days. Book a morning slot. Crowds stay thin before noon. Save this for your Phu Quoc trip.",
+    "video_caption": "Sharks, rays, and tunnels of blue light. Cung Điện Hải Vương hits different when you walk through the underwater corridor. 4.7 stars, 4,397 reviews. Worth every minute.",
+    "first_comment": "#PhuQuoc #PhuQuocAttractions #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #AquariumLife #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "POV: you found the best aquarium in Phu Quoc. Cung Điện Hải Vương. 4.7★, 4,397 reviews. Go early. Tag your travel buddy.",
+    "video_caption": "Underwater tunnel. Blue light. Zero tourists at 9am. Cung Điện Hải Vương just moved up your Phu Quoc list.",
+    "hashtags": "#PhuQuocAttractions #PhuQuocTips #PhuQuocVietnam #VietnamTravel #TravelTips #TravelReels #AquariumLife #ThingsToDo"
+  },
+  "tiktok": {
+    "caption": "Walked in expecting a small fish tank. Left genuinely amazed. Cung Điện Hải Vương, Phu Quoc. 4.7★ 4,397 reviews. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: best aquarium in Phu Quoc",
+    "scenes": [
+      "Entrance gates, wide establishing shot",
+      "Floor-to-ceiling tank, fish swarm frame",
+      "Walk through underwater tunnel, slow pan",
+      "Close-up: rays gliding overhead",
+      "Crowd-free morning corridor, natural light"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

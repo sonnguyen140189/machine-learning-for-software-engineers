@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "716 reviews. 4.7 stars. The Spice House Restaurant at Cassia Cottage Phu Quoc keeps delivering.\n\nSet back from Đường Trần Hưng Đạo, this place pulls serious repeat visitors. Expect fresh, flavour-forward dishes in a setting that actually earns its rating. Budget $15-30 per person and you walk away satisfied.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the food land on the table at The Spice House Restaurant at Cassia Cottage Phu Quoc. 4.7 stars from 716 people. You'll see exactly why the moment your dish arrives. $15-30 per person.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "716 reviews. 4.7 stars. The Spice House Restaurant at Cassia Cottage Phu Quoc earns every one.\n\n$15-30 per person. Tag your travel buddy.",
+    "video_caption": "Plates hitting the table at The Spice House, Cassia Cottage Phu Quoc. 4.7 stars backed by 716 real diners. Around $15-30 a head.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #PhuQuocDining #VietnamTravel #TravelTips #TravelReels #FoodieTravel"
+  },
+  "tiktok": {
+    "caption": "716 reviews, 4.7 stars. The Spice House at Cassia Cottage Phu Quoc is not overrated. $15-30/person. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "716 reviews. 4.7 stars.",
+    "scenes": [
+      "Exterior sign: Cassia Cottage entrance",
+      "Close-up: dishes arriving at table",
+      "Fork breaks into a main course",
+      "Wide shot: full table spread",
+      "Cut to: receipt under $30"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10. For ALL of this. Kỳ Long Wok Hei is doing something unfair to every overpriced tourist restaurant on the island. 4.9 stars across 86 reviews. That number doesn't happen by accident. Real wok heat, real flavor, real price. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the wok smoke hit the air at Kỳ Long Wok Hei. 4.9 stars. Under $10 a head. The flame does the talking. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $10 for a 4.9-star meal. Kỳ Long Wok Hei is not playing around. Save this for your Phu Quoc trip.",
+    "video_caption": "Wok smoke. 4.9 stars. Under $10. Kỳ Long Wok Hei hits different. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodTravel"
+  },
+  "tiktok": {
+    "caption": "Under $10 for a 4.9-star wok meal in Phu Quoc. Kỳ Long Wok Hei is unreal. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $10. 4.9 stars.",
+    "scenes": [
+      "Flames shoot up from the wok",
+      "Close-up: smoke rising off the pan",
+      "Plate lands on the table",
+      "Fork lifts a full bite",
+      "Text overlay: Kỳ Long Wok Hei, Phu Quoc"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
