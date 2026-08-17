@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJEzRJ34iLpzEReKo1k_nV9NU",
+    "ChIJM3vkNgCLpzERTVQY_pwHtWM",
+    "ChIJ73vtGACNpzERggOwt0eOKmI",
+    "ChIJj0CLlcuTpzERosWOlPYPO2k",
+    "ChIJjcDo2LeXpzERfPLV_OmthvM",
+    "ChIJW0SI6z2NpzERKixqsVMmIkI",
+    "ChIJszMWeMWNpzERVX7Za7lyBuw",
+    "ChIJXWMScYiMpzERFW5SXq8DfXs",
+    "ChIJReCCyQsfCDEREcf_dOKY-wA",
+    "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
+    "ChIJgeqbbgCLpzERtL9pzYyCqKg",
+    "ChIJMemrMgSNpzERRHKLDaKlO9k",
     "ChIJf6ykc4iMpzER-X7O0fSCJSs",
     "ChIJGTFz1fqNpzEREOpM4RiSFSI",
     "ChIJtePCImGLpzER70_qwXv_noQ",
@@ -187,21 +199,189 @@
     "ChIJ5eqLUm2NpzERURd3wi62JoM",
     "ChIJlVd-PKCNpzER4kuW6-aFtAc",
     "ChIJdzmotOqNpzER3SFTNOAxFC4",
-    "ChIJi-z2ewCNpzER4P73e0T61VE",
-    "ChIJG95PVOeNpzERkFIrScFenIo",
-    "ChIJYREw3iyNpzER4MEeLlm9Ju4",
-    "ChIJOS1SBvaNpzER_8gRpU5tGKI",
-    "ChIJf3chCACNpzER9HKozVLUOpA",
-    "ChIJjRr6GAKNpzERbsvxEBPABTc",
-    "ChIJc0P1PxmNpzERVBubA78Rpzc",
-    "ChIJfcl6s46NpzERvFpgYpkmGe0",
-    "ChIJbYvoSyqNpzER-Damlo13tio",
-    "ChIJixiLeACNpzER0bDJkqmR1Ac",
-    "ChIJeaUPhUuNpzERsYgZr-tG9Hw",
-    "ChIJ2fu7BmGNpzERyc_w8wahNio",
-    "ChIJDxCXXTSXpzERXI7z0X_H_Ow"
+    "ChIJi-z2ewCNpzER4P73e0T61VE"
   ],
   "history": [
+    {
+      "date": "2026-08-17",
+      "placeId": "ChIJEzRJ34iLpzEReKo1k_nV9NU",
+      "placeName": "Cung Điện Hải Vương",
+      "results": {
+        "facebookVideo": {
+          "id": "1374514607453780"
+        },
+        "instagramReel": {
+          "id": "18404606548082967"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "placeId": "ChIJM3vkNgCLpzERTVQY_pwHtWM",
+      "placeName": "Kỳ Long Wok Hei",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119669281313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18109472558109926"
+        }
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "placeId": "ChIJ73vtGACNpzERggOwt0eOKmI",
+      "placeName": "Diner PHU QUOC BEER'n BURGERS BREAKFAST LUNCH DINNER",
+      "results": {
+        "facebookVideo": {
+          "id": "1372724624288844"
+        },
+        "instagramReel": {
+          "id": "18216547372339542"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "placeId": "ChIJj0CLlcuTpzERosWOlPYPO2k",
+      "placeName": "Sora & Umi",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119668243313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17933545026358291"
+        }
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "placeId": "ChIJjcDo2LeXpzERfPLV_OmthvM",
+      "placeName": "Roma Restaurant & Coffee",
+      "results": {
+        "facebookVideo": {
+          "id": "28356167550645686"
+        },
+        "instagramReel": {
+          "id": "17879681907620344"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "placeId": "ChIJW0SI6z2NpzERKixqsVMmIkI",
+      "placeName": "Bagels 'n Eggs",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119666941313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18098491874010705"
+        }
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "placeId": "ChIJszMWeMWNpzERVX7Za7lyBuw",
+      "placeName": "La Place coffee and eatery Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1548622066710386"
+        },
+        "instagramReel": {
+          "id": "18158572783490936"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "placeId": "ChIJXWMScYiMpzERFW5SXq8DfXs",
+      "placeName": "Saigonese Eatery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119665891313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17942646900278626"
+        }
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "placeId": "ChIJReCCyQsfCDEREcf_dOKY-wA",
+      "placeName": "The Beach Bistro",
+      "results": {
+        "facebookVideo": {
+          "id": "27511371911898974"
+        },
+        "instagramReel": {
+          "id": "18017917580870855"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "placeId": "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
+      "placeName": "The Spice House Restaurant at Cassia Cottage Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119664865313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18083563409691226"
+        }
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "placeId": "ChIJgeqbbgCLpzERtL9pzYyCqKg",
+      "placeName": "Gold Garden Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "1589426766164173"
+        },
+        "instagramReel": {
+          "id": "17903413371542285"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "placeId": "ChIJMemrMgSNpzERRHKLDaKlO9k",
+      "placeName": "Aigue-Marine French Bistro by Hidden Gem",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122119663905313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17959382841194790"
+        }
+      }
+    },
     {
       "date": "2026-08-16",
       "placeId": "ChIJf6ykc4iMpzER-X7O0fSCJSs",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18046243037802111"
-        }
-      }
-    },
-    {
-      "date": "2026-08-01",
-      "placeId": "ChIJG95PVOeNpzERkFIrScFenIo",
-      "placeName": "Sen River Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1042755951815453"
-        },
-        "instagramReel": {
-          "id": "18421929373194385"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-01",
-      "placeId": "ChIJYREw3iyNpzER4MEeLlm9Ju4",
-      "placeName": "Nhà hàng Chay Minh Tâm",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116795461313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18095807654524467"
-        }
-      }
-    },
-    {
-      "date": "2026-08-01",
-      "placeId": "ChIJOS1SBvaNpzER_8gRpU5tGKI",
-      "placeName": "Nora’s Cafe - Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1366536805662142"
-        },
-        "instagramReel": {
-          "id": "18112482772767515"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-01",
-      "placeId": "ChIJf3chCACNpzER9HKozVLUOpA",
-      "placeName": "Desi Indian Restaurant (Pure Veg)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116794489313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18096933992008527"
-        }
-      }
-    },
-    {
-      "date": "2026-07-31",
-      "placeId": "ChIJjRr6GAKNpzERbsvxEBPABTc",
-      "placeName": "EXMoney Phu Quoc Night Market | Currency Exchange",
-      "results": {
-        "facebookVideo": {
-          "id": "805757365896792"
-        },
-        "instagramReel": {
-          "id": "18109116407087319"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-31",
-      "placeId": "ChIJc0P1PxmNpzERVBubA78Rpzc",
-      "placeName": "PHU QUOC NIGHT MARKET & LOCAL FOOD",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116672797313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17974809786084151"
-        }
-      }
-    },
-    {
-      "date": "2026-07-31",
-      "placeId": "ChIJfcl6s46NpzERvFpgYpkmGe0",
-      "placeName": "Chợ Dương Đông Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1407187804609062"
-        },
-        "instagramReel": {
-          "id": "18145386745541929"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-31",
-      "placeId": "ChIJbYvoSyqNpzER-Damlo13tio",
-      "placeName": "PHU QUOC CENTRE",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116671777313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17862137298659490"
-        }
-      }
-    },
-    {
-      "date": "2026-07-31",
-      "placeId": "ChIJixiLeACNpzER0bDJkqmR1Ac",
-      "placeName": "LOCA - Night Market",
-      "results": {
-        "facebookVideo": {
-          "id": "2075084656551064"
-        },
-        "instagramReel": {
-          "id": "17940096108290780"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-31",
-      "placeId": "ChIJeaUPhUuNpzERsYgZr-tG9Hw",
-      "placeName": "Chợ đêm Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116670697313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18045794108649293"
-        }
-      }
-    },
-    {
-      "date": "2026-07-31",
-      "placeId": "ChIJ2fu7BmGNpzERyc_w8wahNio",
-      "placeName": "GRACE'S TOUR PHÚ QUỐC- SIM CARD- MONEY EXCHANGE- ENGLISH SPEAKER- DIVING",
-      "results": {
-        "facebookVideo": {
-          "id": "1769098614428556"
-        },
-        "instagramReel": {
-          "id": "18101749790336240"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-07-31",
-      "placeId": "ChIJDxCXXTSXpzERXI7z0X_H_Ow",
-      "placeName": "Catamaran VN Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122116669875313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18125291935672835"
         }
       }
     }
