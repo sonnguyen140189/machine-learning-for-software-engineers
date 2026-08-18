@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 70 reviews. At a vegan restaurant inside Grand World. Lam Vegan - Tiệm Chay Lam is doing something right. Plant-based plates in the $15-30 range, solid enough to pull that rating in one of Phu Quoc's busiest entertainment districts. If you're skipping meat for a night or just want a lighter meal, this is the spot locals keep rating up. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the plates land at Lam Vegan - Tiệm Chay Lam. 4.9 stars inside Grand World, Phú Quốc. Plant-based, $15-30 per person. This rating doesn't lie. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #GrandWorldPhuQuoc #VisitVietnam #TravelTips #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 70 reviews. Vegan food inside Grand World, Phú Quốc. Lam Vegan - Tiệm Chay Lam is rated that high for a reason. Save this.",
+    "video_caption": "Plates dropping at 4.9 stars. Lam Vegan - Tiệm Chay Lam, Grand World Phú Quốc. Plant-based done right.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VeganVietnam #GrandWorldPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.9 stars at a vegan spot in Grand World Phú Quốc. Lam Vegan - Tiệm Chay Lam is not playing around. #PhuQuoc #PhuQuocFood #VeganVietnam #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9 stars. Vegan. Phu Quoc.",
+    "scenes": [
+      "Exterior shot, Grand World entrance",
+      "Close-up: colorful vegan dishes arriving",
+      "Pan across full table spread",
+      "Reviewer rating shown on screen: 4.9 / 70 reviews",
+      "Final bite, satisfied reaction"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

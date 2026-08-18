@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $15 for a full Indian vegetarian meal in Phu Quoc. Yes, that's real. Maharaja Lounge on Đường Trần Hưng Đạo is pulling 4.7 stars across 2,716 reviews, and every dish is 100% veg. Curries, dals, fresh breads. No fish sauce, no meat, no compromise. For solo travelers, families, or anyone tired of guessing what's in their food, this one's a locked-in lunch stop. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the food land on this table. Maharaja Lounge, 100% vegetarian Indian, under $15 a head. 4.7 stars. 2,716 people didn't get it wrong. Đường Trần Hưng Đạo, Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $15. Full Indian veg meal. 4.7 stars. Maharaja Lounge on Đường Trần Hưng Đạo is the move. Save this.",
+    "video_caption": "Curries landing. Bread tearing. All veg, all flavor, under $15. Maharaja Lounge, Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Under $15 Indian veg food in Phu Quoc hitting 4.7 stars. Maharaja Lounge is undefeated. #PhuQuoc #PhuQuocFood #VegetarianTravel"
+  },
+  "video_script": {
+    "hook": "Under $15. Full Indian meal.",
+    "scenes": [
+      "Exterior shot: Maharaja Lounge sign on Đường Trần Hưng Đạo",
+      "Hands tearing fresh naan over dal",
+      "Close-up: curry poured into bowl, steam rising",
+      "Table spread: 3 dishes, rice, bread, chutney",
+      "Phone shows 4.7 stars, 2,716 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

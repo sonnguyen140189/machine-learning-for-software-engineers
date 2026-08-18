@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this place. 4.8 stars. 1,317 reviews. Pure vegetarian Indian food on Trần Hưng Đạo and most visitors never stop in. RASOI INDIAN PURE VEGETARIAN RESTAURANT in Dương Đông does dal, paneer, and fresh roti that hit differently after days of seafood. No meat. No shortcuts. $15-30 a head. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the roti come off the tawa fresh. RASOI INDIAN PURE VEGETARIAN RESTAURANT, Dương Đông. 4.8 stars and the tourist crowd keeps walking right past it. Your loss if you do the same.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past RASOI INDIAN PURE VEGETARIAN RESTAURANT. 4.8★, 1,317 reviews. Fresh roti. Real dal. $15-30. Tag your travel buddy.",
+    "video_caption": "Roti straight off the flame in Dương Đông. RASOI hits 4.8★ for a reason. Don't walk past.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VegetarianTravel"
+  },
+  "tiktok": {
+    "caption": "4.8★ Indian veg food in Phu Quoc and tourists keep missing it. RASOI. Go. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Pan across 97 Trần Hưng Đạo storefront",
+      "Close-up: roti pressed flat, hits the tawa",
+      "Steam rising off fresh dal in bowl",
+      "Hands tearing roti, dipping slow",
+      "4.8★ review screen, 1,317 count visible"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

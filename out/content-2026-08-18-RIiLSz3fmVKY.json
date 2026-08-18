@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this. Cầu Ánh Sáng sits inside Grand World and most visitors never stop. It's a full glowing bridge lit up after dark, dead quiet on weeknights, and completely free to walk. No entry fee. No queue. Just you, the lights, and a solid photo spot that the resort crowds somehow keep missing. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking Cầu Ánh Sáng at night while the crowds are at the night market. Lights reflecting off the water, zero queue, totally free. This is inside Grand World and most tourists never find it.",
+    "first_comment": "#PhuQuoc #PhuQuocAttractions #GrandWorldPhuQuoc #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Cầu Ánh Sáng. Free. Lit up at night. No queue. Don't miss it. Save this.",
+    "video_caption": "Lit bridge. Zero crowd. Completely free. Cầu Ánh Sáng after dark hits different. Tag your travel buddy.",
+    "hashtags": "#PhuQuocAttractions #PhuQuocNightlife #GrandWorldPhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Free glowing bridge in Phu Quoc and tourists keep walking past it. Cầu Ánh Sáng after dark. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "Tourists keep missing this.",
+    "scenes": [
+      "Wide shot: bridge glowing at night",
+      "Slow walk onto Cầu Ánh Sáng",
+      "Lights reflecting on water below",
+      "Empty bridge, no crowds visible",
+      "Close-up: light details on railing"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

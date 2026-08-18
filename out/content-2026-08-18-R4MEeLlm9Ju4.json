@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're in Phu Quoc craving something that isn't grilled seafood. You wander. You find Nhà hàng Chay Minh Tâm. 4.6 stars, 269 reviews, fully vegan. The menu hits harder than you expect. Around $15-30 per person. Not a side salad in sight. Real Vietnamese flavors, zero meat. Save this for your Phu Quoc trip.",
+    "video_caption": "Walked into Nhà hàng Chay Minh Tâm not knowing what to expect. Walked out converted. 4.6 stars. 100% vegan Vietnamese food in Phu Quoc. Around $15-30 a head and worth every dong.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: you found the vegan spot Phu Quoc actually rates. Nhà hàng Chay Minh Tâm. 4.6 stars, 269 reviews. Tag your travel buddy.",
+    "video_caption": "Full vegan menu. Real Vietnamese flavors. Nhà hàng Chay Minh Tâm is doing things differently in Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VeganVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Found a fully vegan Vietnamese restaurant in Phu Quoc and it has 4.6 stars 👀 Nhà hàng Chay Minh Tâm is legit. #PhuQuoc #PhuQuocFood #VeganVietnam #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: vegan food in Phu Quoc hits.",
+    "scenes": [
+      "Exterior shot, 245 Đ. 30 Tháng 4 storefront",
+      "Menu pages flipping, Vietnamese dishes close-up",
+      "Steam rising from a bowl of vegan pho",
+      "Table spread, colorful plant-based plates",
+      "Rating card: 4.6 stars, 269 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

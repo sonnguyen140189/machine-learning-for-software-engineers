@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this one. Desi Indian Restaurant (Pure Veg) sits near Cầu Bà Phong in Cửa Lấp, off the main drag, and it's pulling a 4.8★ from 64 reviews. Fully vegetarian. Around $15-30 a head. If you've been craving real Indian food after weeks of seafood, this is the fix. Save this for your Phu Quoc trip.",
+    "video_caption": "Fresh roti, curry steam rising, zero meat on the menu. Desi Indian Restaurant (Pure Veg) near Cầu Bà Phong is the 4.8★ spot most visitors never find. $15-30 a head. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFoodVietnam #TravelTips #PhuQuocRestaurants #VisitVietnam"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this. 4.8★ pure veg Indian near Cầu Bà Phong. $15-30 a head. Save this.",
+    "video_caption": "Curry steam. Fresh bread. 4.8★ in Phu Quoc. The vegetarian spot nobody talks about.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianTravel #IndianFoodVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The pure veg Indian restaurant in Phu Quoc tourists walk right past. 4.8★. Worth every rupee. #PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFoodVietnam #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior shot: Cầu Bà Phong sign in frame",
+      "Close-up: steaming curry bowl on table",
+      "Pull back: full thali spread, vibrant colors",
+      "Hand tearing fresh roti, slow motion",
+      "Rating card: 4.8★, 64 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
