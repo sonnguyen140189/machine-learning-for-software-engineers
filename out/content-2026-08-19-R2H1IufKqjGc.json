@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes a bad travel day.\n\nOcean Night Bar on Võ Thị Sáu is a bar and grill sitting at the edge of Phu Quoc's coastline. 4.8 stars across 443 reviews. Grilled food, cold drinks, the ocean doing its thing at night.\n\nNo hustle. No upsell. Just the kind of evening you came here for.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the grill fire up as the sun goes down at Ocean Night Bar. Cold drink in hand, ocean right there. 4.8 stars for a reason. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBars #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes a bad travel day. Ocean Night Bar. 4.8★, 443 reviews, ocean at night.\n\nSave this.",
+    "video_caption": "Grill smoke. Ocean breeze. 4.8 stars at Ocean Night Bar. This is the Phu Quoc evening you planned for.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocFood #PhuQuocBars #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc evening that fixes everything. Ocean Night Bar. 4.8★ 443 reviews. #PhuQuoc #PhuQuocNightlife #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This fixes a bad travel day.",
+    "scenes": [
+      "Exterior sign lit up at night",
+      "Grill flames catching raw seafood",
+      "Cold drink poured, condensation visible",
+      "Wide shot: ocean dark beyond the tables",
+      "Crowd relaxed, laughter, no rush"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
