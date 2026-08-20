@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "8,303 reviews. 4.7 stars. Best Western Premier Sonasea Phu Quoc keeps showing up on every shortlist for good reason. Located on Đường Bào, this resort delivers the full package without the chaos of the main tourist strip. Pools, sea views, clean rooms, solid service. Thousands of guests can't all be wrong. Save this for your Phu Quoc trip.",
+    "video_caption": "4.7 stars across 8,303 reviews and the pool looks like that. Best Western Premier Sonasea Phu Quoc on Đường Bào is doing the work. Watch this before you book your next Phu Quoc stay.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "8,303 reviews. 4.7 stars. Best Western Premier Sonasea Phu Quoc earns every one. Save this before you book. 📍 Đường Bào, Phu Quoc",
+    "video_caption": "Pool footage first. Then the review count hits different. Best Western Premier Sonasea Phu Quoc, 4.7 stars, 8k+ guests.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "8,303 reviews at 4.7 stars. Best Western Premier Sonasea Phu Quoc hits different. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "8,303 reviews. 4.7 stars.",
+    "scenes": [
+      "Aerial drone pull back over resort pool",
+      "Slow pan across sea-view room balcony",
+      "Close shot of pool water surface, ripple",
+      "Wide shot of resort grounds at golden hour",
+      "Review count and star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

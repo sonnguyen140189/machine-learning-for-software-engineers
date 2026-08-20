@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this part of Phu Quoc. Sunset Town pulls you in with colonial-style architecture, neon-lit streets at dusk, and a waterfront that looks nothing like the beach resorts. 4.6 stars across 4,731 reviews and it still catches people off guard. Go at golden hour. Stay for the lights. Save this for your Phu Quoc trip.",
+    "video_caption": "The streets of Sunset Town hit different at dusk. Cobblestone lanes, glowing facades, crowds that actually have energy. This is the side of Phu Quoc the resort bubble doesn't show you.",
+    "first_comment": "#PhuQuoc #SunsetTown #PhuQuocAttractions #VisitVietnam #TravelTips #PhuQuocTravel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Sunset Town. 4.6 stars, 4,731 reviews, zero hype from the resort crowd. Go at golden hour. Tag your travel buddy.",
+    "video_caption": "Neon hits the cobblestones. Sunset Town after dark is a whole different island. Don't sleep on this.",
+    "hashtags": "#PhuQuocAttractions #SunsetTown #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocVietnam #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Nobody tells you about Sunset Town until you're already there. Go at golden hour. #PhuQuoc #SunsetTown #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Aerial pan over Sunset Town waterfront at dusk",
+      "Slow walk through cobblestone lane, warm light",
+      "Colonial facades lit up, crowds filling the street",
+      "Close shot: neon reflections on wet pavement",
+      "Wide shot: full skyline as sun drops below horizon"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

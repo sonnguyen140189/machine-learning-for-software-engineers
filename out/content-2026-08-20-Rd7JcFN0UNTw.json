@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 153 reviews. And that lobby alone justifies both.\n\nVinpearl Resort Phu Quoc does not do subtle. Walk in and the scale hits you before anything else. High ceilings, open-air flow, resort energy that actually matches the price tag.\n\nIf you're planning a splurge stay in Phu Quoc, this is the benchmark. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into Vinpearl Resort Phu Quoc's lobby for the first time. 4.8 stars across 153 reviews. The scale of this place makes sense the second you step inside.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #VinpearlPhuQuoc #VisitVietnam #TravelTips #PhuQuocResort #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 153 reviews. Vinpearl Resort Phu Quoc's lobby earns every one.\n\nThe scale, the open-air flow, the resort energy. Save this for your Phu Quoc trip.",
+    "video_caption": "First steps inside Vinpearl Resort Phu Quoc. 4.8 stars and you feel it immediately.",
+    "hashtags": "#PhuQuocHotels #PhuQuocResort #VinpearlPhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars. 153 reviews. Vinpearl Resort Phu Quoc lobby just hits different. #PhuQuoc #PhuQuocHotels #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★. 153 reviews. See why.",
+    "scenes": [
+      "Slow push through resort entrance doors",
+      "Wide shot reveals full lobby scale",
+      "Tilt up to high open-air ceiling",
+      "Pan across polished floors and columns",
+      "Close on lobby detail, natural light flooding in"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

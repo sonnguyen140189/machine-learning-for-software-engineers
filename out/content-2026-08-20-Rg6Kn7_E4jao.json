@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars. 555 reviews. And most tourists on Phu Quoc have never been.\n\nĐảo Thiên Đường - Hòn Thơm Paradise Island sits off the southern tip of the island, and the numbers back it up. Cable car crossing, coral reefs, beach zones, water park. One ticket, full day.\n\nIf you're planning a Phu Quoc trip and skipping Hòn Thơm, you're leaving the highlight reel on the table.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Cable car doors open. Turquoise water 1,500 meters below. That's Hòn Thơm on a normal Tuesday. Đảo Thiên Đường rated 4.5 stars for a reason. Go find out why.",
+    "first_comment": "#PhuQuoc #PhuQuocIsland #HonThom #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.5 stars. 555 reviews. Still slept on by most tourists.\n\nĐảo Thiên Đường - Hòn Thơm. Full day, one ticket. Save this.",
+    "video_caption": "Cable car. Coral reef. Beach day. Hòn Thơm delivers every time. 4.5 stars, 555 reviews.",
+    "hashtags": "#PhuQuocIsland #HonThom #PhuQuocTips #PhuQuocBeaches #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.5 stars and somehow still underrated. Hòn Thơm is your Phu Quoc highlight reel. #PhuQuoc #HonThom #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.5★. 555 reviews. Been?",
+    "scenes": [
+      "Cable car lifts off over ocean",
+      "Aerial shot: turquoise reef below",
+      "Feet hit white sand beach",
+      "Snorkel mask goes on, diver enters water",
+      "Water park slide, crowd cheering",
+      "Sunset light hits Hòn Thơm shoreline"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

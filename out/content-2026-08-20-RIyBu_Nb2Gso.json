@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wander into Ong Lang with no plan and find Tim Coffee. 4.8 stars. 393 reviews. That is not an accident. This is the kind of café that earns regulars on the first visit. Order, sit down, stop rushing. Save this for your Phu Quoc trip.",
+    "video_caption": "Camera pans into Tim Coffee in Ong Lang. Watch what a 4.8-star café in Phu Quoc actually looks like from the inside. Not a resort. Not a tourist trap. Just a really good cup of coffee.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #OngLang #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: you find Tim Coffee in Ong Lang. 4.8 stars. 393 reviews. Go before everyone else does.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.8 stars in Ong Lang. Tim Coffee just became your next stop. No debate.",
+    "hashtags": "#PhuQuocCafe #OngLang #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocFood"
+  },
+  "tiktok": {
+    "caption": "Stumbled into Tim Coffee in Ong Lang. 4.8 stars. 393 reviews. Now I get it. #PhuQuoc #PhuQuocCafe #OngLang #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found Tim Coffee",
+    "scenes": [
+      "Walk up to Tim Coffee entrance, Ong Lang",
+      "Close-up: 4.8 stars rating on screen",
+      "Barista preparing a coffee, slow pour",
+      "Cup lands on table, steam rising",
+      "Wide shot: relaxed seating, no crowds"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

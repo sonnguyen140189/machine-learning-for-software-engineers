@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars at Vinpearl Land Phú Quốc. 153 reviews deep and it keeps delivering.\n\nBeachfront resort on Bãi Dài, one of the longest undeveloped stretches of sand on the island. Pools, waterpark, dining, and direct beach access. All under one roof.\n\nIf you're doing Phu Quoc with kids or want the full resort day without bouncing between spots, this is the move.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Waterpark. Private beach. Pools. Vinpearl Land Phú Quốc packs it all into one resort on Bãi Dài. Here's what a full day looks like inside.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #VinpearlPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.5 stars. 153 reviews. Vinpearl Land Phú Quốc on Bãi Dài earns it.\n\nBeach, pools, waterpark. One resort.\n\nTag your travel buddy.",
+    "video_caption": "Full resort day at Vinpearl Land Phú Quốc. Bãi Dài beach out front, waterpark inside. Watch the whole thing.",
+    "hashtags": "#PhuQuocResort #PhuQuocBeaches #VinpearlPhuQuoc #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.5 stars on Bãi Dài. Vinpearl Land Phú Quốc just hits different. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.5 stars. 153 reviews.",
+    "scenes": [
+      "Aerial pull back over Bãi Dài beach",
+      "Resort entrance and pool reveal",
+      "Waterpark slides in action",
+      "Beachfront loungers at golden hour",
+      "Dinner spread at resort restaurant"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

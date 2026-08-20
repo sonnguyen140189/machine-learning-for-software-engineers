@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walked past a vegetarian restaurant on Trần Hưng Đạo and almost didn't stop. Big mistake.\n\nCƠM CHAY HIỀN ĐỨC is pulling a 4.9★ and the bill stays under $10 a head. Every time.\n\nFull rice plates, no meat, no fuss. Just clean food at a price that makes the resort buffet look embarrassing.\n\n📍 149 Đường Trần Hưng Đạo, Phú Quốc\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Under $10. 4.9 stars. Vegetarian rice plates that actually fill you up. CƠM CHAY HIỀN ĐỨC on Đường Trần Hưng Đạo is the lunch stop most tourists walk straight past. Don't.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianVietnam #VisitVietnam #PhuQuocRestaurants #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Walked past this place twice. Third time I went in. 4.9★ vegetarian rice for under $10.\n\nCƠM CHAY HIỀN ĐỨC. Remember the name.\n\nTag your travel buddy.",
+    "video_caption": "Rice plate. Under $10. 4.9 stars. CƠM CHAY HIỀN ĐỨC is the Phu Quoc lunch spot you keep skipping.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "POV: you finally stopped walking and ate here. 4.9★ under $10. #PhuQuoc #PhuQuocFood #VegetarianFood #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Walked past 3 times. Don't be me.",
+    "scenes": [
+      "Street-level sign: CƠM CHAY HIỀN ĐỨC",
+      "Overhead shot of full rice plate",
+      "Close-up: vibrant vegetable dishes",
+      "Bill arrives, total under $10",
+      "4.9★ rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
