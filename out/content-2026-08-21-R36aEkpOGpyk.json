@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the big agency tours. Locals point you here instead. Nice Tours Phu Quoc on Trần Hưng Đạo alley builds your itinerary from scratch, 5.0 stars across 187 reviews. No cookie-cutter packages. Just your trip, your pace, your Phu Quoc. Save this for your Phu Quoc trip.",
+    "video_caption": "5.0 stars. 187 reviews. A tailor-made tour operator hiding in a Phú Quốc alley. Watch what a custom itinerary actually looks like when locals plan it for you.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTravel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Locals don't book the resort packages. They come to this alley. Nice Tours Phu Quoc. 5.0★, 187 reviews. Tag your travel buddy.",
+    "video_caption": "5.0 stars in a Phú Quốc back alley. Tailor-made tours, zero tourist-trap energy. This is how locals plan it.",
+    "hashtags": "#PhuQuocTips #PhuQuocTravel #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTours"
+  },
+  "tiktok": {
+    "caption": "The tour operator locals actually use. 5.0★ 187 reviews. Not the resort desk. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't use resort tours.",
+    "scenes": [
+      "Walk down Trần Hưng Đạo alley",
+      "Storefront sign comes into frame",
+      "Staff mapping out a custom route",
+      "Review screen: 5.0 stars, 187 reviews",
+      "Traveler nodding at tailored itinerary"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

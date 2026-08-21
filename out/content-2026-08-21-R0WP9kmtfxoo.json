@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "530 reviews. 5.0 stars. Not a single one below five.\n\nInto The Blue runs snorkeling boat trips out of 100 Đường Trần Hưng Đạo and the numbers don't lie. Crystal water, coral, fish, the real Phu Quoc that's sitting 20 minutes offshore while everyone else stays on the beach.\n\nBook early. Spots go fast when a tour holds a perfect score.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the moment the boat stops and the water actually looks like this. Into The Blue snorkeling trips off Phu Quoc. 530 people gave it 5 stars. Jump in and see why.",
+    "first_comment": "#PhuQuoc #PhuQuocSnorkeling #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "530 reviews. 5.0 stars. Perfect score.\n\nInto The Blue snorkeling trips off Phu Quoc hit different. Tag your travel buddy.",
+    "video_caption": "Boat stops. Masks on. Coral below. Into The Blue earns that 5-star score the second you hit the water.",
+    "hashtags": "#PhuQuocSnorkeling #PhuQuocTips #PhuQuocOcean #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "530 reviews. 5.0 stars. Zero complaints. Into The Blue snorkeling Phu Quoc is the real one. #PhuQuoc #PhuQuocSnorkeling #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "530 reviews. Still 5.0 stars.",
+    "scenes": [
+      "Boat leaves dock at sunrise",
+      "Crew hands out masks and fins",
+      "Aerial: turquoise water, boat anchored",
+      "Diver drops below surface",
+      "Coral reef fills the frame",
+      "Smiling tourists surface, thumbs up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

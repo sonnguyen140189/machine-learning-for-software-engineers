@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "136 reviews. Every single one a 5-star. That doesn't happen by accident.\n\nCatamaran VN Phu Quoc runs sailing tours out of Phú Quốc and the consistency is almost suspicious. No bad days. No \"it was fine\" reviews. Just people saying they'd go back.\n\nIf you're spending time on the island, get on the water. This is how you do it right.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Sails up. Open water. This is what 136 five-star reviews looks like in real life. Catamaran VN Phu Quoc delivers every single time. Book before your spot is gone.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #VisitVietnam #TravelTips #PhuQuocIsland #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "136 reviews. 5.0 stars. Zero exceptions.\n\nCatamaran VN Phu Quoc is the sailing tour people keep coming back to. Get on the water.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Catamaran. Open sea. 136 five-star reviews. Phu Quoc looks completely different from out here.",
+    "hashtags": "#PhuQuocTours #PhuQuocIsland #VietnamTravel #TravelTips #PhuQuocTips #TravelReels #SailingVietnam #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "136 reviews. 5.0 stars. Every single one. Catamaran VN Phu Quoc hits different. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "136 reviews. 5.0 stars. Zero.",
+    "scenes": [
+      "Catamaran leaving the dock, sails rising",
+      "Wide shot: open blue water, Phu Quoc coast behind",
+      "Close-up: guests laughing on deck",
+      "Aerial pull-back: boat alone on the sea",
+      "Phone screen: 5.0 stars, 136 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

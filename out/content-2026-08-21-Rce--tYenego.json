@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you land in Phu Quoc with no plan and a group chat full of conflicting advice. Алиса гид по Фукуоку on 105 Đường Trần Hưng Đạo fixes that fast. 4.8 stars across 127 reviews. Russian-speaking guide who actually knows the island. Skip the guesswork. Book a session before you arrive. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into a local travel agency in Phu Quoc and leaving with a full itinerary in 20 minutes. Алиса гид по Фукуоку, 105 Đường Trần Hưng Đạo. 4.8 stars, 127 reviews. This is how you plan it right.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #PhuQuocGuide"
+  },
+  "instagram": {
+    "caption": "POV: landed in Phu Quoc with zero plan. Алиса гид по Фукуоку sorted it. 4.8★, 127 reviews. Save this.",
+    "video_caption": "No plan. No problem. Алиса гид по Фукуоку on Đường Trần Hưng Đạo. 4.8 stars. Walk in, walk out sorted.",
+    "hashtags": "#PhuQuocTips #PhuQuocGuide #VietnamTravel #TravelTips #TravelReels #PhuQuoc #IslandLife"
+  },
+  "tiktok": {
+    "caption": "POV: showed up to Phu Quoc with no itinerary. Алиса гид по Фукуоку saved the trip. 4.8★ 127 reviews. #PhuQuoc #PhuQuocTips #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: no plan in Phu Quoc.",
+    "scenes": [
+      "Exterior shot: 105 Đường Trần Hưng Đạo",
+      "Push through the agency door",
+      "Map spread on desk, guide pointing",
+      "Itinerary printed, handed over",
+      "Tourist smiles, walks out ready"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Big mistake. Rajwadi Zaikah Indian Restaurant is pulling 4.7 stars across 289 reviews and barely anyone in the resort crowd knows it exists. Real Indian food, $15-30 a head, on an island where most spots charge double for half the flavor. Save this for your Phu Quoc trip.",
+    "video_caption": "Butter naan hitting the table at Rajwadi Zaikah Indian Restaurant and it's everything. 4.7 stars, 289 reviews, $15-30 a head. The tourists kept walking. Don't.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #IndianFoodVietnam #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Rajwadi Zaikah Indian Restaurant. 4.7 stars, 289 reviews, $15-30 a head. Their loss, your gain. Save this.",
+    "video_caption": "4.7 stars on Đường Trần Hưng Đạo and almost no tourists know it. Rajwadi Zaikah is the real deal.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #IndianFoodVietnam #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodTravelAsia"
+  },
+  "tiktok": {
+    "caption": "The Indian spot on Đường Trần Hưng Đạo tourists keep missing. 4.7★, 289 reviews, under $30. #PhuQuoc #PhuQuocFood #VietnamTravel #FoodTok #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior shot: Rajwadi Zaikah signage on Đường Trần Hưng Đạo",
+      "Hands tearing fresh naan, steam rising",
+      "Rich curry ladled into a bowl, close up",
+      "Full table spread, $15-30 price text overlay",
+      "4.7★ 289 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,647 reviews. Every single one gives 5 stars. That's not luck. VEGAYACHTS in Sunset Town, An Thới, Phú Quốc is running a flawless record on the water. Sunset cruises, private charters, island-hopping tours. The kind of afternoon that makes you forget you had a return flight booked. Save this for your Phu Quoc trip.",
+    "video_caption": "5.0 stars across 1,647 reviews. Watch what VEGAYACHTS actually delivers on the water in Sunset Town, An Thới, Phú Quốc. This is why people book twice.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #PhuQuocYacht #VisitVietnam #TravelTips #PhuQuocSunset #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 1,647 reviews. VEGAYACHTS, An Thới, Phú Quốc. No bad days on this boat. Tag your travel buddy.",
+    "video_caption": "1,647 people rated this 5 stars. VEGAYACHTS, Phú Quốc. See why on the water.",
+    "hashtags": "#PhuQuocTours #PhuQuocSunset #PhuQuocYacht #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "5.0 stars. 1,647 reviews. No exceptions. VEGAYACHTS Phú Quốc is built different. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "5.0★ from 1,647 people.",
+    "scenes": [
+      "Aerial shot: yacht leaving Sunset Town pier",
+      "Deck view: open water, horizon ahead",
+      "Crew prepping drinks, sun low in sky",
+      "Guests watching Phú Quốc coastline recede",
+      "Sky turns orange, reflections on water",
+      "Review count frozen on screen: 1,647 × 5★"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

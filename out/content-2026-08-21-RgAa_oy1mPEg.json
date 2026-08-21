@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists rent jet skis. Locals spin basket boats.\n\nBasket boat tours on Phu Quoc are the move most visitors scroll past. Dynasty Phu Quoc runs them out of ấp 2, Phú Quốc, and the 4.8-star rating across 360 reviews says everything. You spin, you laugh, you probably fall behind. That's the point.\n\nKayak rentals available too if you want to actually go somewhere.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch this basket boat spin out in real time. 360 reviews, 4.8 stars. Dynasty Phu Quoc runs basket boat and kayak tours out of ấp 2 and nobody on the resort strip is talking about it. Go find out why.",
+    "first_comment": "#PhuQuoc #PhuQuocActivities #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists rent jet skis. Locals spin basket boats. 4.8 stars, 360 reviews. Dynasty Phu Quoc delivers.\n\nTag your travel buddy.",
+    "video_caption": "Basket boat chaos incoming. Dynasty Phu Quoc, ấp 2. 4.8 stars. Go before everyone else figures this out.",
+    "hashtags": "#PhuQuocActivities #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #BasketBoat"
+  },
+  "tiktok": {
+    "caption": "Basket boats > jet skis. Dynasty Phu Quoc, 4.8 stars. Go spin. #PhuQuoc #PhuQuocActivities #VietnamTravel #TravelTips #BasketBoat"
+  },
+  "video_script": {
+    "hook": "Tourists keep skipping this.",
+    "scenes": [
+      "Wide shot: basket boat hitting the water",
+      "Close-up: hands gripping the paddles",
+      "Slow-mo: boat spinning full circle",
+      "Reaction shot: laughing, off-balance",
+      "Cut to: kayak gliding out past the boats",
+      "Text overlay: 4.8 stars, 360 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
