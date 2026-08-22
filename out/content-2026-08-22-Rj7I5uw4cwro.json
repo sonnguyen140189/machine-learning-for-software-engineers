@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking Đường Trần Phú and spot a mango dessert shop with a 4.9-star rating. You almost keep walking. Don't.\n\nHALO MANGO Phu Quoc is the kind of place that stops you mid-stride. Fresh mango, cold, generous portions, and a rating of 4.9 across 307 reviews that absolutely holds up.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Mango dessert so good it has 307 people talking. Watch what comes out of the kitchen at HALO MANGO Phu Quoc on Đường Trần Phú. This one earns the 4.9.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocDessert #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked past. Stopped. 4.9 stars, 307 reviews. HALO MANGO Phu Quoc on Đường Trần Phú delivers.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.9 stars. 307 reviews. HALO MANGO Phu Quoc is the dessert stop you didn't plan for. Plan for it.",
+    "hashtags": "#PhuQuocFood #PhuQuocDessert #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: stumbled into a 4.9-star mango dessert spot in Phu Quoc. HALO MANGO earned every review. #PhuQuoc #PhuQuocFood #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: you almost walked past this.",
+    "scenes": [
+      "Exterior shot: HALO MANGO storefront on Đường Trần Phú",
+      "Close-up: fresh mango piled high on dessert",
+      "Hand reaches in, spoon breaks the surface",
+      "Cut to: 4.9-star rating on screen",
+      "Reaction shot: first bite, eyes widen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 851 reviews. At a bakery on Đường Trần Hưng Đạo.\n\nDevis Bakery Phu Quoc 데비스베이커리 is doing something right. A perfect rating held across hundreds of reviews is rare anywhere, let alone on an island where most tourists never leave the resort strip.\n\nGet here early. The good stuff goes fast.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the case at Devis Bakery Phu Quoc 데비스베이커리. 5.0 stars, 851 reviews. Every single item gone by midday. This is why you come early.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocBakery #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 851 reviews. At a bakery.\n\nDevis Bakery Phu Quoc 데비스베이커리 on Đường Trần Hưng Đạo. Go early.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "851 reviews. 5.0 stars. Devis Bakery Phu Quoc 데비스베이커리 earns it every morning.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "5.0 stars, 851 reviews, one bakery in Phu Quoc. Go early or go home. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5.0 stars. 851 reviews.",
+    "scenes": [
+      "Exterior shot: 104 Đường Trần Hưng Đạo signage",
+      "Pan across full display case, items packed",
+      "Close-up: golden pastry pulled from tray",
+      "Customer takes first bite, reaction shot",
+      "Clock or timestamp: early morning light"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

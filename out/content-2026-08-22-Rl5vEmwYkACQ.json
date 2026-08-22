@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10 for a steaming bowl of phở in Phu Quoc. Not a typo.\n\nPhở Lý Quốc Sư on Đ. 30 Tháng 4 is pulling 4.6 stars across 496 reviews. That's not luck. The broth hits different at this price point. Skip the resort breakfast. Walk here instead.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Bowl lands on the table. Broth still steaming. Under $10 at Phở Lý Quốc Sư and 496 people already know. You should too.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #ThingsToDoPhuQuoc #VisitVietnam #VietnamFood #TravelTips #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "Under $10. 4.6 stars. 496 reviews. Phở Lý Quốc Sư is the breakfast you're skipping the resort for.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Chopsticks hit the bowl. Phở Lý Quốc Sư. Under $10. 496 reviews don't lie.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #Pho"
+  },
+  "tiktok": {
+    "caption": "Under $10 phở with 4.6 stars in Phu Quoc. Phở Lý Quốc Sư. Go. #PhuQuoc #PhuQuocFood #VietnamFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $10 phở. 4.6 stars.",
+    "scenes": [
+      "Exterior shot: Đ. 30 Tháng 4 storefront",
+      "Close-up: broth poured into bowl",
+      "Hands adding herbs and bean sprouts",
+      "Steam rising off the bowl, slow zoom",
+      "Receipt shown: total under $10"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
