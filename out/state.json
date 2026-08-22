@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
+    "ChIJTdwiKNmVpzER1knXm_zr2zA",
+    "ChIJAWovfRONpzERI7y_gpk_6D0",
+    "ChIJuQ3uBpGTpzERjdU6zZxzCmY",
+    "ChIJo5M0X62NpzERgrGHtWo8nCQ",
+    "ChIJKTX4YwCLpzERhiLmMHLUihA",
+    "ChIJrXaM1tmNpzERj7I5uw4cwro",
+    "ChIJYQY76P2NpzERlul1IUfk3N8",
+    "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
+    "ChIJ44y8R_uNpzERI0lt0GkPrNM",
+    "ChIJo-0fmz6NpzERIEhHbz8e4T8",
+    "ChIJ67MzfTqNpzERl5vEmwYkACQ",
     "ChIJDxCXXTSXpzERXI7z0X_H_Ow",
     "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
     "ChIJZWGJPeONpzERce--tYenego",
@@ -187,21 +199,189 @@
     "ChIJG0ygU8-NpzERXtcRcF0Av7k",
     "ChIJd4s74SiNpzERSsU3_x_0EsI",
     "ChIJ3ZgwWLONpzERIM11I5sYgVs",
-    "ChIJw0auYQCNpzER8BCjNBsmIBs",
-    "ChIJjXUjGRmNpzERbpTPg0YpR3g",
-    "ChIJqx54JIyNpzERfmx8wXohQ4U",
-    "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
-    "ChIJiyzaO4CNpzERTH6QKehpvBw",
-    "ChIJK6PXziqyU2gREZvk_pErVag",
-    "ChIJcQI2WEyNpzERiZfbiTwGiHU",
-    "ChIJ_QHQ2eWNpzER0VcwkboktMU",
-    "ChIJyQi3u2GMpzERVXgllKB2V_A",
-    "ChIJLa_VvluMpzERVdeTFM021V4",
-    "ChIJMTK8cRSLpzER_q7VsEitfig",
-    "ChIJFywM4byNpzERTsKVgNJw3vc",
-    "ChIJGetZgyyNpzERfgkTRwWcE74"
+    "ChIJw0auYQCNpzER8BCjNBsmIBs"
   ],
   "history": [
+    {
+      "date": "2026-08-22",
+      "placeId": "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
+      "placeName": "LOLO BAKERY & CAFE (로로베이커리)",
+      "results": {
+        "facebookVideo": {
+          "id": "2530408707454410"
+        },
+        "instagramReel": {
+          "id": "18132113230711466"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "placeId": "ChIJTdwiKNmVpzER1knXm_zr2zA",
+      "placeName": "Cafe Juliet & Pastries",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122120350065313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18109882315851912"
+        }
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "placeId": "ChIJAWovfRONpzERI7y_gpk_6D0",
+      "placeName": "Devis Bakery Phu Quoc 데비스베이커리",
+      "results": {
+        "facebookVideo": {
+          "id": "1023222634040171"
+        },
+        "instagramReel": {
+          "id": "18439294324130085"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "placeId": "ChIJuQ3uBpGTpzERjdU6zZxzCmY",
+      "placeName": "알로 카페 & ALLO Cafe & Bakery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122120348913313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18417967027147405"
+        }
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "placeId": "ChIJo5M0X62NpzERgrGHtWo8nCQ",
+      "placeName": "MIX BAKERY COFFEE & TEA",
+      "results": {
+        "facebookVideo": {
+          "id": "1441035191198572"
+        },
+        "instagramReel": {
+          "id": "18128212501665188"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "placeId": "ChIJKTX4YwCLpzERhiLmMHLUihA",
+      "placeName": "SIM Coffee - A Story Of The Island",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122120347929313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18122037194302435"
+        }
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "placeId": "ChIJrXaM1tmNpzERj7I5uw4cwro",
+      "placeName": "할로망고 푸꾸옥. HALO MANGO Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "2591767311282887"
+        },
+        "instagramReel": {
+          "id": "17923720944180817"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "placeId": "ChIJYQY76P2NpzERlul1IUfk3N8",
+      "placeName": "Bapaki Tea, Bakery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122120346855313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18111395369040516"
+        }
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "placeId": "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
+      "placeName": "The Cake Corner",
+      "results": {
+        "facebookVideo": {
+          "id": "2548165592297314"
+        },
+        "instagramReel": {
+          "id": "18020123282913782"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "placeId": "ChIJ44y8R_uNpzERI0lt0GkPrNM",
+      "placeName": "Tiệm Bánh Kem Phú Quốc - PP Bakery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122120345961313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18098105390298489"
+        }
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "placeId": "ChIJo-0fmz6NpzERIEhHbz8e4T8",
+      "placeName": "TUNG Cake and Tea",
+      "results": {
+        "facebookVideo": {
+          "id": "1719960502628743"
+        },
+        "instagramReel": {
+          "id": "18106465802586341"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "placeId": "ChIJ67MzfTqNpzERl5vEmwYkACQ",
+      "placeName": "Phở Lý Quốc Sư",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122120345019313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17963413617149325"
+        }
+      }
+    },
     {
       "date": "2026-08-21",
       "placeId": "ChIJDxCXXTSXpzERXI7z0X_H_Ow",
@@ -3016,186 +3196,6 @@
         },
         "instagramReel": {
           "id": "18102769781524610"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-05",
-      "placeId": "ChIJjXUjGRmNpzERbpTPg0YpR3g",
-      "placeName": "Miss Tiên Spa-Body & Foot Massage",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122117411181313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18088473758208487"
-        }
-      }
-    },
-    {
-      "date": "2026-08-05",
-      "placeId": "ChIJqx54JIyNpzERfmx8wXohQ4U",
-      "placeName": "Little WIN SPA 2 - MASSAGE (전신 마사지, 풋 마사지)",
-      "results": {
-        "facebookVideo": {
-          "id": "2004518376850690"
-        },
-        "instagramReel": {
-          "id": "17923537308401233"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-05",
-      "placeId": "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
-      "placeName": "Phu Quoc Day Spa - 푸꾸옥 스파 마사지 - 富国岛的水疗按摩",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122117410233313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17889910542599929"
-        }
-      }
-    },
-    {
-      "date": "2026-08-05",
-      "placeId": "ChIJiyzaO4CNpzERTH6QKehpvBw",
-      "placeName": "FIONA SPA",
-      "results": {
-        "facebookVideo": {
-          "id": "1036768162444825"
-        },
-        "instagramReel": {
-          "id": "18124910803685489"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-05",
-      "placeId": "ChIJK6PXziqyU2gREZvk_pErVag",
-      "placeName": "Dgold Spa - body massage, foot massage, shampoo, nail",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122117409099313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17895569922568454"
-        }
-      }
-    },
-    {
-      "date": "2026-08-05",
-      "placeId": "ChIJcQI2WEyNpzERiZfbiTwGiHU",
-      "placeName": "Hello Spa - Massage & Nail",
-      "results": {
-        "facebookVideo": {
-          "id": "1397679162238273"
-        },
-        "instagramReel": {
-          "id": "18098133041196817"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-05",
-      "placeId": "ChIJ_QHQ2eWNpzER0VcwkboktMU",
-      "placeName": "Golden Foot Massage Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122117408067313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17907036825283055"
-        }
-      }
-    },
-    {
-      "date": "2026-08-05",
-      "placeId": "ChIJyQi3u2GMpzERVXgllKB2V_A",
-      "placeName": "RED RIVER TOURS",
-      "results": {
-        "facebookVideo": {
-          "id": "2272899556809572"
-        },
-        "instagramReel": {
-          "id": "18101615728960963"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-05",
-      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
-      "placeName": "Jerry's Jungle Tours",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122117407089313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17874501033689039"
-        }
-      }
-    },
-    {
-      "date": "2026-08-04",
-      "placeId": "ChIJMTK8cRSLpzER_q7VsEitfig",
-      "placeName": "Phu Quoc Eco Beach Resort",
-      "results": {
-        "facebookVideo": {
-          "id": "2325150178289807"
-        },
-        "instagramReel": {
-          "id": "18124237993686036"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-04",
-      "placeId": "ChIJFywM4byNpzERTsKVgNJw3vc",
-      "placeName": "Free Beach Resort Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122117257533313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17898489273551059"
-        }
-      }
-    },
-    {
-      "date": "2026-08-04",
-      "placeId": "ChIJGetZgyyNpzERfgkTRwWcE74",
-      "placeName": "Bãi biển Lumera Beach",
-      "results": {
-        "facebookVideo": {
-          "id": "1797909288318526"
-        },
-        "instagramReel": {
-          "id": "18361488910240285"
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not set"
