@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. M Villas Beach Bar on Trần Hưng Đạo is the kind of bar you sit down at and forget what day it is. Cold drink. Sand nearby. No hustle. 4.5 stars from 77 real reviews backs it up. Add it to your Phu Quoc itinerary before the crowds catch on. Save this for your Phu Quoc trip.",
+    "video_caption": "Drink in hand, sand at your feet, zero tourists in sight. M Villas Beach Bar on Trần Hưng Đạo hits different when you actually sit down. 4.5 stars. 77 reviews. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocBar #PhuQuocBeachBar #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. M Villas Beach Bar, Trần Hưng Đạo. 4.5★ from 77 reviews. Tag your travel buddy.",
+    "video_caption": "Sand. Cold drink. No rush. M Villas Beach Bar is the Phu Quoc stop you didn't plan but won't forget.",
+    "hashtags": "#PhuQuocBar #PhuQuocBeachBar #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The bar in Phu Quoc that actually makes you slow down. 4.5★, 77 reviews, zero regrets. #PhuQuoc #PhuQuocBar #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Aerial or wide shot of bar from beach side",
+      "Close-up: condensation dripping down cold glass",
+      "Slow pan across empty bar stools at golden hour",
+      "Reviewer quote overlay: 4.5 stars, 77 reviews",
+      "Guest leaning back, eyes closed, drink in hand"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

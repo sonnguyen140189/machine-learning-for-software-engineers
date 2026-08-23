@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walk past a hundred spots on Đường Trần Hưng Đạo and stop at the one that actually looks different.\n\nNONÊ Kitchen & Bar Phu Quoc. 4.9 stars. 61 reviews. That ratio means something.\n\nPriced at $15-30 a head. Solid for what you get on this stretch of Phú Quốc.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "61 reviews. 4.9 stars. Watch what comes out of NONÊ Kitchen & Bar Phu Quoc's kitchen. This is the $15-30 dinner spot earning those numbers on Đường Trần Hưng Đạo.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you finally find the 4.9-star spot on Đường Trần Hưng Đạo.\n\nNONÊ Kitchen & Bar Phu Quoc. $15-30 a head. 61 reviews deep.\n\nSave this.",
+    "video_caption": "4.9 stars. 61 reviews. NONÊ Kitchen & Bar Phu Quoc just earned its reputation. Watch.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: stumbled onto Phú Quốc's 4.9-star dinner spot. NONÊ Kitchen & Bar does not miss. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: 4.9 stars on this street.",
+    "scenes": [
+      "Pan down Đường Trần Hưng Đạo facade",
+      "Push in on restaurant entrance sign",
+      "Dishes land on table, close-up shot",
+      "Fork cuts in, steam rises",
+      "Cut to packed dining room, full tables"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

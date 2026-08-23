@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout.\n\nVersionsailles - Beach Club Phú Quốc sits right on Đường Trần Hưng Đạo. Sand underfoot, drink in hand, ocean in front. 4.6 stars across 416 reviews says others agree.\n\nMeals run $15-30 per person. Beach club prices, but not beach club chaos.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Shoes off. Drink poured. Watch the sun drop over Versailles - Beach Club Phú Quốc. 4.6★ from 416 people and you can see exactly why in the first 10 seconds.",
+    "first_comment": "#PhuQuoc #PhuQuocBeachClub #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Versailles - Beach Club Phú Quốc. $15-30/person. 4.6★, 416 reviews.\n\nTag your travel buddy.",
+    "video_caption": "Sand. Sunset. Cold drink. Versailles - Beach Club Phú Quốc does it right. 4.6★ and counting.",
+    "hashtags": "#PhuQuocBeachClub #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "This beach club in Phu Quoc will reset your whole mood. 4.6★ 416 reviews. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Aerial pull back over shoreline",
+      "Bare feet hit warm sand",
+      "Bartender pours sunset cocktail",
+      "Wide table spread, $15-30 range",
+      "Sun drops below the water line"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

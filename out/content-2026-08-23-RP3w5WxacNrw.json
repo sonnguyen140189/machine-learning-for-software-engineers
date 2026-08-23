@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc nights hit different when you're up high. Rosso Sky Bar & Lounge in Dương Đông is where the island switches gears after sunset. DJ sets, cocktails, city lights below you. No beach club crowds. Just good energy and a view that earns its price. 4.3 stars from 80 reviews and it keeps filling up. Save this for your Phu Quoc trip.",
+    "video_caption": "Rooftop lights coming on. DJ drops the first track. Cocktail lands on the table. Rosso Sky Bar & Lounge in Dương Đông is how Phu Quoc does nightlife. 4.3 stars. Friday energy every night.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc rooftop energy. Rosso Sky Bar & Lounge, Dương Đông. 4.3 stars. Tag your travel buddy.",
+    "video_caption": "City lights, DJ, cocktails. Rosso Sky Bar & Lounge is Phu Quoc after dark.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBar #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #NightlifeVibes"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc has a rooftop bar scene and Rosso Sky Bar delivers. #PhuQuoc #PhuQuocNightlife #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc nights hit different.",
+    "scenes": [
+      "Wide shot: rooftop bar, city lights below",
+      "Bartender shaking cocktail, close-up",
+      "DJ booth lit up, crowd moving",
+      "Slow pan across skyline at night",
+      "Two cocktails raised, clink, drink"
+    ],
+    "cta": "Tag your travel buddy."
+  }
+}

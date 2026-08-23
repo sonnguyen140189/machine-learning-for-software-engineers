@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.6 stars on Đường Trần Hưng Đạo. 55 reviews deep and Sip & Heal Beach Bar Phu Quoc keeps delivering. Cocktails, beach vibes, $15-30 a head. Not a resort bar markup. Not a tourist trap. Just a solid bar that locals and travelers both rate. Add it to the Cửa Lấp crawl. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the bartender work at Sip & Heal Beach Bar Phu Quoc. Cocktails hitting, beach right there, bill under $30. Đường Trần Hưng Đạo is pulling up. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBars #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.6 stars. 55 reviews. Sip & Heal Beach Bar Phu Quoc earns both. Cocktails from $15. Cửa Lấp. Save this.",
+    "video_caption": "Cocktails poured, beach air, $15-30 a head. Sip & Heal Beach Bar Phu Quoc is the move on Đường Trần Hưng Đạo.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #CuaLap #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.6 stars, 55 reviews, cocktails under $30. Sip & Heal Beach Bar Phu Quoc on Đường Trần Hưng Đạo goes hard. #PhuQuoc #PhuQuocBars #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.6 stars. 55 reviews.",
+    "scenes": [
+      "Exterior shot, Đường Trần Hưng Đạo sign visible",
+      "Bartender shaking cocktail, ice flying",
+      "Drink lands on bar, condensation drips",
+      "Wide shot, beach backdrop, golden light",
+      "Price board on screen, $15-30 range"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
