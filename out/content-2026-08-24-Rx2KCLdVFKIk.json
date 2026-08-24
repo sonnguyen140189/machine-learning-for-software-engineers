@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5,265 reviews. 4.7 stars. And somehow Mövenpick Resort Waverly Phu Quoc still flies under the radar for most tourists hitting the island.\n\nBeachfront position at Ông Lang. Two restaurants on-site. A full spa. Pool that actually gets morning light.\n\nThis is the resort locals recommend when family visits from abroad. Not the flashy one on the billboards.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the sun hit the pool at Mövenpick Resort Waverly Phu Quoc before the crowds arrive. Ông Lang beach, two restaurants, spa, 4.7 stars across 5,265 reviews. This one earns it. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "5,265 reviews. 4.7 stars. Mövenpick Resort Waverly Phu Quoc still surprises people.\n\nBeachfront. Spa. Two restaurants. Ông Lang.\n\nSave this.",
+    "video_caption": "Pool. Spa. Beach. 4.7 stars from 5,265 guests. Mövenpick Resort Waverly Phu Quoc is not the one to skip.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.7 stars, 5,265 reviews, beachfront at Ông Lang. Mövenpick Resort Waverly Phu Quoc hits different. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5,265 reviews. 4.7 stars.",
+    "scenes": [
+      "Aerial pull back from pool to beach",
+      "Slow pan across beachfront at Ông Lang",
+      "Close-up: spa treatment room, candles lit",
+      "Restaurant table set, food arrives",
+      "Wide shot: pool catching morning light",
+      "Text overlay: 4.7 stars, 5,265 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
