@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "Walked past a dozen resort breakfast spots. Then found bánh Khéo cô Dung at 43 Đ. 30 Tháng 4. Under $10. Local bakery energy. Zero tourist markup. The kind of place that makes you rethink your whole morning plan. 4.5 stars from people who actually live here. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what $10 gets you at bánh Khéo cô Dung. Local bakery, real prices, zero fuss. This is the breakfast move tourists keep missing in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocTips #VisitVietnam #VietnamTravel #TravelTips #VietnamFood"
+  },
+  "instagram": {
+    "caption": "POV: you skipped the resort buffet and found bánh Khéo cô Dung instead. Under $10. 4.5 stars. Worth it. Tag your travel buddy.",
+    "video_caption": "Local bakery. Under $10. No tourist pricing. bánh Khéo cô Dung is the Phu Quoc breakfast you didn't plan for.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocBakery #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Skipped the resort. Found bánh Khéo cô Dung. Under $10 and locals rate it 4.5★. Do not miss this. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found the local bakery",
+    "scenes": [
+      "Street-level shot: 43 Đ. 30 Tháng 4 storefront",
+      "Hands reach for fresh bánh Khéo on counter",
+      "Close-up: golden pastry texture, steam rising",
+      "Price tag in frame, under $10 visible",
+      "Local customers eating, no tourists in sight"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

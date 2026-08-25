@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you skip the resort pool and end up in a real fishing village. Ham Ninh is what Phu Quoc looked like before the hotels arrived. Weathered wooden piers, boats coming in at dawn, seafood pulled straight from the water. 4.1 stars across 1,048 reviews and still feels nothing like a tourist trap. Take the TL47 road east. Thank yourself later. Save this for your Phu Quoc trip.",
+    "video_caption": "Wooden piers, fishing boats, no resort crowds. Ham Ninh hits different when you see it moving. This is the east coast Phu Quoc most visitors never reach.",
+    "first_comment": "#PhuQuoc #PhuQuocIsland #VisitVietnam #TravelVietnam #PhuQuocTips #VietnamTravel #IslandLife"
+  },
+  "instagram": {
+    "caption": "POV: wrong turn, right place. Ham Ninh fishing town is Phu Quoc before the resorts showed up. 4.1★, 1,048 reviews. Tag your travel buddy.",
+    "video_caption": "Boats in. Nets out. No resort in sight. Ham Ninh hits different at dawn.",
+    "hashtags": "#PhuQuocTips #PhuQuocIsland #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #FishingVillage"
+  },
+  "tiktok": {
+    "caption": "Took the east coast road and found this. Ham Ninh fishing town, the Phu Quoc nobody posts about. #PhuQuoc #VietnamTravel #TravelTips #HiddenPhuQuoc #TravelReels"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Found this.",
+    "scenes": [
+      "Drone pull-back over wooden piers at sunrise",
+      "Fishing boats docking, nets still dripping",
+      "Close-up: fresh seafood laid out on dock",
+      "Walk along the pier, locals working around you",
+      "Wide shot: village with zero resort buildings"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

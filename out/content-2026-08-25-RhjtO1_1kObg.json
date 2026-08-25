@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.6 stars. 2,242 reviews. For a bridge.\n\nKiss Bridge in Phu Quoc isn't just a photo stop. It's the spot couples line up for at golden hour, and solo travelers stumble onto and stay way longer than planned.\n\nThe arch, the water, the light. It earns every one of those stars.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "2,242 people rated a bridge 4.6 stars. Walk across Kiss Bridge at golden hour and you'll understand why. The light hits different here.",
+    "first_comment": "#PhuQuoc #PhuQuocAttractions #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.6 stars. 2,242 reviews. For a bridge. Kiss Bridge delivers every time.\n\nTag your travel buddy.",
+    "video_caption": "Walk across Kiss Bridge at golden hour. 2,242 reviews don't lie.",
+    "hashtags": "#PhuQuocAttractions #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "A bridge with 2,242 reviews and 4.6 stars. Kiss Bridge, Phu Quoc. Worth it. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "4.6★, for a bridge.",
+    "scenes": [
+      "Drone pull-back reveals full bridge arc",
+      "Couple walks across at golden hour",
+      "Close-up: water reflection below bridge",
+      "Crowd time-lapse, sunset colors shift",
+      "Final wide shot, last light fades"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

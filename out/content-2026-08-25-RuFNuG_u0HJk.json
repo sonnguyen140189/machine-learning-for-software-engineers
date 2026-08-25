@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 1,853 reviews. For a café in Duong Dong.\n\nCAFE GREEN(카페그린) on Trần Hưng Đạo is earning that rating one mango bingsu at a time. The shaved ice is dense, cold, and loaded with real mango. Not the syrup version. The real thing.\n\nPrices run $15-30 per person. Worth every cent when the heat hits at noon.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch this mango bingsu land on the table at CAFE GREEN(카페그린). That pile of shaved ice is real. 4.9 stars across 1,853 reviews and you'll understand why after the first spoon.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #DuongDong #VisitVietnam #PhuQuocTips #VietnamFood #PhuQuocEats"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 1,853 reviews. One mango bingsu to blame.\n\nCAFE GREEN(카페그린), Trần Hưng Đạo, Duong Dong. Tag your travel buddy.",
+    "video_caption": "First spoon of mango bingsu at CAFE GREEN(카페그린). 4.9 stars. No notes.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #DuongDong #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CafeHopping"
+  },
+  "tiktok": {
+    "caption": "4.9 stars and 1,853 reviews for mango bingsu in Phu Quoc. CAFE GREEN(카페그린) is not playing. #PhuQuoc #PhuQuocFood #VietnamTravel #CafeVlog"
+  },
+  "video_script": {
+    "hook": "4.9★ 1,853 reviews. One café.",
+    "scenes": [
+      "Exterior shot: CAFE GREEN(카페그린) sign, Trần Hưng Đạo street",
+      "Close-up: mango bingsu arriving on table",
+      "Slow pan: thick shaved ice, real mango chunks on top",
+      "First spoon digs deep into the pile",
+      "Wide shot: packed café, locals and tourists mixed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
