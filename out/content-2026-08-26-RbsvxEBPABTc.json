@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you just landed in Phu Quoc and the airport exchange rate made you cringe.\n\nEXMoney Phu Quoc Night Market on 10 Đường Nguyễn Trãi is the move. 4.9 stars from 48 reviews. Right next to the night market action so you convert cash and head straight in.\n\nNo detour. No stress. Just better rates and a night market in front of you.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the rate board at EXMoney on Đường Nguyễn Trãi. Then watch the airport exchange kiosk. You'll understand in about 4 seconds. 4.9 stars. Right next to the night market. Sort your cash here first.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Walked past the airport exchange. Big mistake almost made.\n\nEXMoney on Đường Nguyễn Trãi. 4.9★. Steps from the night market. Save this.",
+    "video_caption": "The airport rate vs EXMoney on Đường Nguyễn Trãi. One of these hurts. 4.9★, 48 reviews.",
+    "hashtags": "#PhuQuocTips #PhuQuocNightMarket #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Don't exchange at the airport. EXMoney on Đường Nguyễn Trãi hits different. 4.9★ #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Walked past this. Big mistake.",
+    "scenes": [
+      "Zoom into airport exchange rate board",
+      "Cut to EXMoney storefront, Đường Nguyễn Trãi",
+      "Close-up of rate board, better numbers visible",
+      "Cash counted out on counter, quick hands",
+      "Wide shot: step outside, night market lit up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
