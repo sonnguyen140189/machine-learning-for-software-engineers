@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes a bad travel day.\n\nSunset Beach Bar & Restaurant on Đường Trần Hưng Đạo. Cold drink in hand, feet near the sand, sky turning orange. 2,272 people rated it 4.3 stars for a reason.\n\nBudget $15-30 per person. Worth every cent.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the sky do its thing at Sunset Beach Bar & Restaurant. $15 gets you in. The view does the rest. 2,272 reviews don't lie.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc sunsets hit different with a cold drink at Sunset Beach Bar & Restaurant. 4.3★, 2,272 reviews. Tag your travel buddy.",
+    "video_caption": "Sky goes orange. Drink goes cold. Sunset Beach Bar & Restaurant earns every one of those 2,272 reviews.",
+    "hashtags": "#PhuQuocBars #PhuQuocSunset #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SunsetVibes"
+  },
+  "tiktok": {
+    "caption": "Bad travel day? Sunset Beach Bar fixes it. 4.3★ on Đường Trần Hưng Đạo. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: bar facing the water",
+      "Bartender pours cold drink, condensation drips",
+      "Sky shifts orange above the shoreline",
+      "Crowd raising glasses at golden hour",
+      "Close-up: 4.3★ rating on phone screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

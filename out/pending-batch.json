@@ -1,0 +1,524 @@
+{
+  "stamp": "2026-08-27",
+  "items": [
+    {
+      "placeId": "ChIJ1aeQ29SNpzERQ6q22sUKYRc",
+      "placeName": "OCSEN Beach Bar & Club",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-27-RQ6q22sUKYRc-0.jpg",
+        "out/media/2026-08-27-RQ6q22sUKYRc-1.jpg",
+        "out/media/2026-08-27-RQ6q22sUKYRc-2.jpg",
+        "out/media/2026-08-27-RQ6q22sUKYRc-3.jpg",
+        "out/media/2026-08-27-RQ6q22sUKYRc-4.jpg",
+        "out/media/2026-08-27-RQ6q22sUKYRc-5.jpg",
+        "out/media/2026-08-27-RQ6q22sUKYRc-6.jpg",
+        "out/media/2026-08-27-RQ6q22sUKYRc-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4,696 reviews. 4.5 stars. OCSEN Beach Bar & Club keeps showing up for a reason.\n\nSit on Đường Trần Hưng Đạo, order a drink, watch the beach crowd move. The $15-30 per person range means you're getting real bar energy without a resort markup.\n\nPhu Quoc nightlife has a lot of pretenders. This one has the receipts.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Drinks arriving, crowd building, sunset hitting different at OCSEN Beach Bar & Club. 4,696 people rated this 4.5 stars. Cameras out for a reason.",
+          "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBar #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips"
+        },
+        "instagram": {
+          "caption": "4,696 reviews. 4.5 stars. OCSEN Beach Bar & Club earns every one.\n$15-30/person. Real beach bar energy. No resort markup.\n\nTag your travel buddy.",
+          "video_caption": "Beach bar. Cold drink. 4,696 reviews pointing here. OCSEN does not miss.",
+          "hashtags": "#PhuQuocBar #PhuQuocNightlife #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #BeachBar"
+        },
+        "tiktok": {
+          "caption": "4,696 reviews don't lie. OCSEN Beach Bar & Club hits different in Phu Quoc. #PhuQuoc #PhuQuocNightlife #TravelTips #BeachBar"
+        },
+        "video_script": {
+          "hook": "4,696 reviews. One bar.",
+          "scenes": [
+            "Slow pan: full beach bar crowd at golden hour",
+            "Close-up: cold drink condensation on glass",
+            "Wide shot: Đường Trần Hưng Đạo strip behind",
+            "Cut: 4.5-star rating text on screen",
+            "Handheld walk-through buzzing crowd"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJO2yx-4eMpzER80b94-QiU6c",
+      "placeName": "HAPPY BEAR Live Music Bar & Bistro",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-27-R80b94-QiU6c-0.jpg",
+        "out/media/2026-08-27-R80b94-QiU6c-1.jpg",
+        "out/media/2026-08-27-R80b94-QiU6c-2.jpg",
+        "out/media/2026-08-27-R80b94-QiU6c-3.jpg",
+        "out/media/2026-08-27-R80b94-QiU6c-4.jpg",
+        "out/media/2026-08-27-R80b94-QiU6c-5.jpg",
+        "out/media/2026-08-27-R80b94-QiU6c-6.jpg",
+        "out/media/2026-08-27-R80b94-QiU6c-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-27-R80b94-QiU6c.mp4",
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes a bad travel day. HAPPY BEAR Live Music Bar & Bistro on 1 Đường Trần Hưng Đạo hits different when the band kicks in. Cold drink in hand, music live, crowd genuinely happy. 4.9 stars across 236 reviews. That rating doesn't happen without the vibe being real. Budget $15-30 per person and stay longer than you planned. Save this for your Phu Quoc trip.",
+          "video_caption": "Band's playing, drinks are cold, and nobody's checking their phone. HAPPY BEAR Live Music Bar & Bistro is that kind of night. 4.9 stars. Find out why.",
+          "first_comment": "#PhuQuoc #PhuQuocNightlife #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Phu Quoc that doesn't feel touristy. HAPPY BEAR Live Music Bar & Bistro. 4.9★, live band, $15-30/person. Tag your travel buddy.",
+          "video_caption": "Live music. Cold drinks. 4.9 stars. HAPPY BEAR hits different at night.",
+          "hashtags": "#PhuQuocNightlife #PhuQuocBar #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.9 stars and a live band. HAPPY BEAR Phu Quoc just fixed my trip. #PhuQuoc #PhuQuocNightlife #TravelTips"
+        },
+        "video_script": {
+          "hook": "This place fixes burnout.",
+          "scenes": [
+            "Exterior sign lit up at night",
+            "Band setting up on stage",
+            "Bartender pouring drinks, crowd filling in",
+            "Wide shot: full bar, people laughing",
+            "Close-up: 4.9★ review screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ44prVx6LpzERai_OMQwtHu0",
+      "placeName": "Highball Bar",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-27-Rai_OMQwtHu0-0.jpg",
+        "out/media/2026-08-27-Rai_OMQwtHu0-1.jpg",
+        "out/media/2026-08-27-Rai_OMQwtHu0-2.jpg",
+        "out/media/2026-08-27-Rai_OMQwtHu0-3.jpg",
+        "out/media/2026-08-27-Rai_OMQwtHu0-4.jpg",
+        "out/media/2026-08-27-Rai_OMQwtHu0-5.jpg",
+        "out/media/2026-08-27-Rai_OMQwtHu0-6.jpg",
+        "out/media/2026-08-27-Rai_OMQwtHu0-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.9 stars. 607 reviews. On a street most tourists walk straight past.\n\nHighball Bar on Đường Trần Hưng Đạo is doing something right. Cocktails land in the $15-30 range per person, which for this quality is a deal. The kind of bar where you order one drink and stay for four.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the bartender build this cocktail from scratch. Highball Bar, 607 reviews, 4.9 stars. Under $30 a head. The line at the door makes sense now.",
+          "first_comment": "#PhuQuoc #PhuQuocNightlife #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "4.9 stars. 607 reviews. Highball Bar is not a coincidence.\n\nCocktails, great prices, Đường Trần Hưng Đạo. Save this.",
+          "video_caption": "607 people rated this bar 4.9 stars. Watch one sip and you'll get it. Highball Bar, Phu Quoc.",
+          "hashtags": "#PhuQuocNightlife #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocFood"
+        },
+        "tiktok": {
+          "caption": "4.9 stars. 607 reviews. This Phu Quoc bar earns every one. #PhuQuoc #PhuQuocNightlife #TravelTips #PhuQuocTips"
+        },
+        "video_script": {
+          "hook": "4.9★ 607 reviews. One bar.",
+          "scenes": [
+            "Exterior shot, Đường Trần Hưng Đạo sign visible",
+            "Bartender shakes cocktail, ice flies",
+            "Drink lands on bar, condensation dripping",
+            "Close-up: first sip, eyes close",
+            "Pan to packed bar, every seat filled",
+            "Price board on screen: $15-30 per person"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJq31LD1-MpzERdIuwa2Bg2ok",
+      "placeName": "Sunset Beach Bar & Restaurant",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-27-RdIuwa2Bg2ok-0.jpg",
+        "out/media/2026-08-27-RdIuwa2Bg2ok-1.jpg",
+        "out/media/2026-08-27-RdIuwa2Bg2ok-2.jpg",
+        "out/media/2026-08-27-RdIuwa2Bg2ok-3.jpg",
+        "out/media/2026-08-27-RdIuwa2Bg2ok-4.jpg",
+        "out/media/2026-08-27-RdIuwa2Bg2ok-5.jpg",
+        "out/media/2026-08-27-RdIuwa2Bg2ok-6.jpg",
+        "out/media/2026-08-27-RdIuwa2Bg2ok-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-27-RdIuwa2Bg2ok.mp4",
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes a bad travel day.\n\nSunset Beach Bar & Restaurant on Đường Trần Hưng Đạo. Cold drink in hand, feet near the sand, sky turning orange. 2,272 people rated it 4.3 stars for a reason.\n\nBudget $15-30 per person. Worth every cent.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the sky do its thing at Sunset Beach Bar & Restaurant. $15 gets you in. The view does the rest. 2,272 reviews don't lie.",
+          "first_comment": "#PhuQuoc #PhuQuocBars #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Phu Quoc sunsets hit different with a cold drink at Sunset Beach Bar & Restaurant. 4.3★, 2,272 reviews. Tag your travel buddy.",
+          "video_caption": "Sky goes orange. Drink goes cold. Sunset Beach Bar & Restaurant earns every one of those 2,272 reviews.",
+          "hashtags": "#PhuQuocBars #PhuQuocSunset #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SunsetVibes"
+        },
+        "tiktok": {
+          "caption": "Bad travel day? Sunset Beach Bar fixes it. 4.3★ on Đường Trần Hưng Đạo. #PhuQuoc #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "This place fixes burnout.",
+          "scenes": [
+            "Wide shot: bar facing the water",
+            "Bartender pours cold drink, condensation drips",
+            "Sky shifts orange above the shoreline",
+            "Crowd raising glasses at golden hour",
+            "Close-up: 4.3★ rating on phone screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJs78WzrCNpzERsMQhq5rVxJU",
+      "placeName": "Hoppy Daze Craft Beer Bar Phu Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-27-RsMQhq5rVxJU-0.jpg",
+        "out/media/2026-08-27-RsMQhq5rVxJU-1.jpg",
+        "out/media/2026-08-27-RsMQhq5rVxJU-2.jpg",
+        "out/media/2026-08-27-RsMQhq5rVxJU-3.jpg",
+        "out/media/2026-08-27-RsMQhq5rVxJU-4.jpg",
+        "out/media/2026-08-27-RsMQhq5rVxJU-5.jpg",
+        "out/media/2026-08-27-RsMQhq5rVxJU-6.jpg",
+        "out/media/2026-08-27-RsMQhq5rVxJU-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you're on Đường Trần Hưng Đạo and you walk into Hoppy Daze Craft Beer Bar Phu Quoc by accident. Cold craft beer in hand within 60 seconds. 4.8 stars from 187 people who clearly made the same mistake. Budget: $15-30 a head. Vibe: immediately your new local. Save this for your Phu Quoc trip.",
+          "video_caption": "First sip. Cold craft beer. Đường Trần Hưng Đạo disappears behind you. Hoppy Daze pulls a 4.8 from 187 reviews for a reason. Under $30 a head. Tag your travel buddy who needs this.",
+          "first_comment": "#PhuQuoc #PhuQuocBars #CraftBeerPhuQuoc #VisitVietnam #TravelTips #PhuQuocNightlife #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "POV: you walked past twice. Third time, you went in. Hoppy Daze. 4.8 stars. $15-30 a head. Comment your go-to Phu Quoc drink spot.",
+          "video_caption": "Cold craft beer at Hoppy Daze. 4.8 stars. You'll stop walking once you see it.",
+          "hashtags": "#PhuQuocBars #PhuQuocNightlife #CraftBeerVietnam #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Walked in by accident. Stayed for hours. Hoppy Daze Phu Quoc hits different. 4.8⭐ #PhuQuoc #CraftBeer #PhuQuocBars #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: best bar find in Phu Quoc",
+          "scenes": [
+            "Exterior shot of Hoppy Daze sign on Đường Trần Hưng Đạo",
+            "Push through the door, bar comes into frame",
+            "Bartender pours cold craft beer, slow close-up",
+            "Wide shot: full bar, real crowd, good energy",
+            "Screen text: 4.8 stars, 187 reviews, $15-30/head"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJa3OAsqONpzERxb9MoGydTyU",
+      "placeName": "Bittersweet - Cocktail & Chocolate (비터스윗 - 칵테일 & 초콜릿)",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-27-Rxb9MoGydTyU-0.jpg",
+        "out/media/2026-08-27-Rxb9MoGydTyU-1.jpg",
+        "out/media/2026-08-27-Rxb9MoGydTyU-2.jpg",
+        "out/media/2026-08-27-Rxb9MoGydTyU-3.jpg",
+        "out/media/2026-08-27-Rxb9MoGydTyU-4.jpg",
+        "out/media/2026-08-27-Rxb9MoGydTyU-5.jpg",
+        "out/media/2026-08-27-Rxb9MoGydTyU-6.jpg",
+        "out/media/2026-08-27-Rxb9MoGydTyU-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-27-Rxb9MoGydTyU.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.8 stars. 1,243 reviews. At a cocktail bar that also does chocolate.\n\nBittersweet - Cocktail & Chocolate on Đường Trần Hưng Đạo is doing something nobody else in Phu Quoc is doing. Craft cocktails paired with real chocolate. Under $30 a head. The combo sounds weird until your first sip.\n\nBook a stool. Order both. Trust the 1,243 people who already did.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the bartender pour at Bittersweet - Cocktail & Chocolate. 4.8 stars for a reason. Cocktails plus chocolate under $30, right on Đường Trần Hưng Đạo. This one earns the rating.",
+          "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBars #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "4.8 stars. 1,243 reviews. Cocktails AND chocolate under $30.\n\nBittersweet - Cocktail & Chocolate is the move. Tag your travel buddy.",
+          "video_caption": "Cocktails meet chocolate at Bittersweet. 4.8 stars, 1,243 reviews, under $30. Phu Quoc delivered.",
+          "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocFood"
+        },
+        "tiktok": {
+          "caption": "4.8 stars. Cocktails + chocolate. Under $30 in Phu Quoc. Bittersweet is not a drill. #PhuQuoc #PhuQuocBars #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.8 stars. 1,243 reviews.",
+          "scenes": [
+            "Exterior shot: Bittersweet sign lit up at night",
+            "Bartender shakes cocktail, slow motion pour",
+            "Chocolate pieces arranged beside cocktail glass",
+            "Close-up: first sip, viewer reaction",
+            "Price board on screen: under $30"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJGW6TumGMpzERhbri9iJjUhI",
+      "placeName": "Boroda Bar",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-27-Rhbri9iJjUhI-0.jpg",
+        "out/media/2026-08-27-Rhbri9iJjUhI-1.jpg",
+        "out/media/2026-08-27-Rhbri9iJjUhI-2.jpg",
+        "out/media/2026-08-27-Rhbri9iJjUhI-3.jpg",
+        "out/media/2026-08-27-Rhbri9iJjUhI-4.jpg",
+        "out/media/2026-08-27-Rhbri9iJjUhI-5.jpg",
+        "out/media/2026-08-27-Rhbri9iJjUhI-6.jpg",
+        "out/media/2026-08-27-Rhbri9iJjUhI-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "Some bars you drink at. Boroda Bar you actually unwind at.\n\nSit down, order something cold, and watch Phu Quoc slow down around you. 4.5 stars across 290 reviews. Budget around $15-30 per person and you're covered for a proper night.\n\nOn Đường Trần Hưng Đạo. Easy to find. Hard to leave.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Cold drink in hand. No rush. That's Boroda Bar doing its thing. 4.5 stars, $15-30 a head, and a vibe that actually makes you forget the itinerary. Đường Trần Hưng Đạo.",
+          "first_comment": "#PhuQuoc #PhuQuocBar #PhuQuocNightlife #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "This bar fixes a bad travel day. Boroda Bar, Phu Quoc. 4.5★, $15-30 a head. Tag your travel buddy.",
+          "video_caption": "Order one drink. Stay for three. Boroda Bar hits different when you stop rushing.",
+          "hashtags": "#PhuQuocBar #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "The bar that makes you cancel tomorrow's early plans. Boroda Bar, Phu Quoc. 4.5★ #PhuQuoc #PhuQuocNightlife #TravelTips"
+        },
+        "video_script": {
+          "hook": "This bar fixes burnout.",
+          "scenes": [
+            "Exterior of Boroda Bar at dusk",
+            "Bartender pouring a cold drink",
+            "Close-up: condensation on the glass",
+            "Crowd laughing, relaxed atmosphere",
+            "Sign: Đường Trần Hưng Đạo lit up at night"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJkXqwPFeNpzERTPv9JMJKOHg",
+      "placeName": "Chip Funny (Drinks - Foods - Bar)",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-27-RTPv9JMJKOHg-0.jpg",
+        "out/media/2026-08-27-RTPv9JMJKOHg-1.jpg",
+        "out/media/2026-08-27-RTPv9JMJKOHg-2.jpg",
+        "out/media/2026-08-27-RTPv9JMJKOHg-3.jpg",
+        "out/media/2026-08-27-RTPv9JMJKOHg-4.jpg",
+        "out/media/2026-08-27-RTPv9JMJKOHg-5.jpg",
+        "out/media/2026-08-27-RTPv9JMJKOHg-6.jpg",
+        "out/media/2026-08-27-RTPv9JMJKOHg-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-27-RTPv9JMJKOHg.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.8 stars. 281 reviews. On Trần Hưng Đạo strip. Chip Funny (Drinks - Foods - Bar) keeps showing up for a reason. Drinks, food, full bar setup, $15-30 a person. Not a resort bar price tag. Not a resort bar crowd either. This is where the night actually starts in Phu Quoc. Save this for your Phu Quoc trip.",
+          "video_caption": "Bartender pours, the crowd fills in, Chip Funny hits different at 9pm. 4.8 stars on Đường Trần Hưng Đạo and the vibe backs it up. $15-30 covers drinks AND food. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocNightlife #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocBars #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "4.8 stars. 281 reviews. Chip Funny on Trần Hưng Đạo is where Phu Quoc nights go right. $15-30/person. Save this.",
+          "video_caption": "Drinks flowing, full bar, 4.8 stars. Chip Funny after dark hits different. Tag someone who needs this night.",
+          "hashtags": "#PhuQuocNightlife #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VisitVietnam #PhuQuocFood"
+        },
+        "tiktok": {
+          "caption": "4.8 stars and 281 reviews on this Phu Quoc bar. Under $30/person. Chip Funny is the move. #PhuQuoc #PhuQuocNightlife #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.8★ · 281 reviews · THIS bar",
+          "scenes": [
+            "Exterior shot: Chip Funny sign lit up at night",
+            "Pan across full bar counter, bottles stacked",
+            "Bartender shaking a cocktail, close-up",
+            "Wide shot: tables filling up, lively crowd",
+            "Food plate lands on table, steam rising",
+            "Caption overlay: $15-30/person on Trần Hưng Đạo"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJgfT9NoygKU8R8P0qLndf3k0",
+      "placeName": "Poseidon Diving School Phu Quoc Padi",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-27-R8P0qLndf3k0-0.jpg",
+        "out/media/2026-08-27-R8P0qLndf3k0-1.jpg",
+        "out/media/2026-08-27-R8P0qLndf3k0-2.jpg",
+        "out/media/2026-08-27-R8P0qLndf3k0-3.jpg",
+        "out/media/2026-08-27-R8P0qLndf3k0-4.jpg",
+        "out/media/2026-08-27-R8P0qLndf3k0-5.jpg",
+        "out/media/2026-08-27-R8P0qLndf3k0-6.jpg",
+        "out/media/2026-08-27-R8P0qLndf3k0-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "5.0 stars. 180 reviews. Zero complaints.\n\nPoseidon Diving School Phu Quoc Padi is the dive school tourists walk past because it doesn't look like a resort-branded operation. That's the point.\n\nReal instructors. Small groups. A rating that hasn't dropped once.\n\nIf Phu Quoc is on your list and you've never dived, this is where you start. Save this for your Phu Quoc trip.",
+          "video_caption": "First breath underwater changes everything. Poseidon Diving School Phu Quoc Padi holds a perfect 5.0 across 180 reviews. Book the dive. See why.",
+          "first_comment": "#PhuQuoc #PhuQuocDiving #ScubaDivingPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "5.0 stars. 180 reviews. Not one drop below perfect.\n\nPoseidon Diving School Phu Quoc Padi. Go dive. Save this.",
+          "video_caption": "Perfect score. 180 divers can't be wrong. Poseidon Diving School Phu Quoc Padi. Book it.",
+          "hashtags": "#PhuQuocDiving #ScubaDivingPhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "5.0 stars. 180 reviews. This dive school in Phu Quoc is the real deal. #PhuQuoc #PhuQuocDiving #ScubaDiving #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "5.0★ across 180 dives.",
+          "scenes": [
+            "Diver gearing up on the dock",
+            "Instructor checks equipment, small group",
+            "First giant stride into blue water",
+            "Underwater: coral reef, fish scatter",
+            "Diver surfaces, huge grin, thumbs up",
+            "5.0★ review card fades in"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJb5faY8qNpzERH4uW3FwoE5s",
+      "placeName": "Vietnam Explorer PADI Dive Center",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-27-RH4uW3FwoE5s-0.jpg",
+        "out/media/2026-08-27-RH4uW3FwoE5s-1.jpg",
+        "out/media/2026-08-27-RH4uW3FwoE5s-2.jpg",
+        "out/media/2026-08-27-RH4uW3FwoE5s-3.jpg",
+        "out/media/2026-08-27-RH4uW3FwoE5s-4.jpg",
+        "out/media/2026-08-27-RH4uW3FwoE5s-5.jpg",
+        "out/media/2026-08-27-RH4uW3FwoE5s-6.jpg",
+        "out/media/2026-08-27-RH4uW3FwoE5s-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-27-RH4uW3FwoE5s.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "986 reviews. 4.9 stars. This is the dive center people keep coming back to in Phu Quoc.\n\nVietnam Explorer PADI Dive Center at Suối Mây is putting up numbers that most restaurants can't match, let alone a dive shop. PADI certified, real instructors, coral reefs that are actually worth the tank.\n\nFirst dive or fiftieth, this is the one locals and long-term travelers recommend. Save this for your Phu Quoc trip.",
+          "video_caption": "Gearing up at the #1-rated dive center in Phu Quoc. 986 divers gave it 4.9 stars and the reef proves why. Vietnam Explorer PADI Dive Center, Suối Mây. Book before it fills up.",
+          "first_comment": "#PhuQuoc #PhuQuocDiving #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.9 stars. 986 reviews. Phu Quoc's dive center is built different.\n\nVietnam Explorer PADI, Suối Mây. Tag your travel buddy.",
+          "video_caption": "986 divers rated this 4.9. Watch what's under Phu Quoc's surface. Vietnam Explorer PADI Dive Center.",
+          "hashtags": "#PhuQuocDiving #PhuQuocTips #PhuQuocActivities #VietnamTravel #TravelTips #TravelReels #ScubaDiving"
+        },
+        "tiktok": {
+          "caption": "4.9 stars. 986 reviews. The best dive center in Phu Quoc is not hard to find. #PhuQuoc #PhuQuocDiving #ScubaDiving #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.9★ 986 reviews. In Phu Quoc.",
+          "scenes": [
+            "Close-up: 4.9 star rating on screen",
+            "Diver suiting up on the dock",
+            "Underwater shot: reef and fish",
+            "Instructor checking diver's gear",
+            "Surfacing diver, thumbs up"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJh878oruNpzER7b0NN-zrQpk",
+      "placeName": "Ecodive Vietnam - Trung Tâm Lặn Phú Quốc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-08-27-R7b0NN-zrQpk-0.jpg",
+        "out/media/2026-08-27-R7b0NN-zrQpk-1.jpg",
+        "out/media/2026-08-27-R7b0NN-zrQpk-2.jpg",
+        "out/media/2026-08-27-R7b0NN-zrQpk-3.jpg",
+        "out/media/2026-08-27-R7b0NN-zrQpk-4.jpg",
+        "out/media/2026-08-27-R7b0NN-zrQpk-5.jpg",
+        "out/media/2026-08-27-R7b0NN-zrQpk-6.jpg",
+        "out/media/2026-08-27-R7b0NN-zrQpk-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.9 stars. 65 divers reviewed it. Zero complaints about the coral.\n\nEcodive Vietnam - Trung Tâm Lặn Phú Quốc at 220 Đ. 30 Tháng 4 is where serious divers go in Phu Quoc. Not the resort day-trip crowd. People who actually want to see what's under the water here.\n\n4.9 is nearly impossible to hold with 65 reviews. They're holding it.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the briefing, gear up, drop in. Ecodive Vietnam - Trung Tâm Lặn Phú Quốc has a 4.9 from 65 divers and the underwater footage explains every single star. This is not a tourist snorkel boat.",
+          "first_comment": "#PhuQuoc #PhuQuocDiving #ThingsToDoPhuQuoc #VisitVietnam #DivingVietnam"
+        },
+        "instagram": {
+          "caption": "4.9 stars. 65 reviews. Divers don't lie.\n\nEcodive Vietnam - Trung Tâm Lặn Phú Quốc is the one. Save this.",
+          "video_caption": "Gear on. Backwards roll. 4.9 stars waiting under the surface at Ecodive Vietnam - Trung Tâm Lặn Phú Quốc.",
+          "hashtags": "#PhuQuocDiving #PhuQuocTips #DivingVietnam #VietnamTravel #TravelTips #TravelReels #ScubaDiving"
+        },
+        "tiktok": {
+          "caption": "4.9 stars from 65 divers in Phu Quoc. Ecodive Vietnam - Trung Tâm Lặn Phú Quốc. Book before it fills. #PhuQuoc #ScubaDiving #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.9 stars. 65 dives reviewed.",
+          "scenes": [
+            "Close-up: 4.9 star rating on screen",
+            "Staff fitting diver with gear",
+            "Underwater: coral reef wide shot",
+            "Diver descending, bubbles rising",
+            "Surface shot: boat, open ocean, Phu Quoc coastline"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJUYfZHeSNpzER5-l8QW0lTcM",
+      "placeName": "Liby Travel - Phu Quoc Island Tours",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-08-27-R5-l8QW0lTcM-0.jpg",
+        "out/media/2026-08-27-R5-l8QW0lTcM-1.jpg",
+        "out/media/2026-08-27-R5-l8QW0lTcM-2.jpg",
+        "out/media/2026-08-27-R5-l8QW0lTcM-3.jpg",
+        "out/media/2026-08-27-R5-l8QW0lTcM-4.jpg",
+        "out/media/2026-08-27-R5-l8QW0lTcM-5.jpg",
+        "out/media/2026-08-27-R5-l8QW0lTcM-6.jpg",
+        "out/media/2026-08-27-R5-l8QW0lTcM-7.jpg"
+      ],
+      "videoPath": "out/media/2026-08-27-R5-l8QW0lTcM.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you finally found a tour operator that actually picks up the phone.\n\nLiby Travel on Đường Trần Hưng Đạo is pulling 4.9 stars from 225 reviews. That's not luck. That's consistency.\n\nIf you're planning island-hopping, snorkeling, or a full-day Phu Quoc itinerary, this is the name locals keep recommending to tourists who ask.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "225 people gave this tour agency 4.9 stars. Watch why first-timers keep coming back to Liby Travel on Đường Trần Hưng Đạo to book their Phu Quoc days.",
+          "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocIsland #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "POV: your Phu Quoc plans actually come together.\n\n4.9 stars. 225 reviews. Liby Travel delivers. Save this.",
+          "video_caption": "4.9 stars across 225 bookings. Liby Travel on Đường Trần Hưng Đạo is where your Phu Quoc itinerary starts.",
+          "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocIsland #VietnamTravel #TravelTips #TravelReels #IslandTours"
+        },
+        "tiktok": {
+          "caption": "POV: found a 4.9-star tour agency in Phu Quoc that actually delivers. Liby Travel on Đường Trần Hưng Đạo. Book before your spot is gone. #PhuQuoc #PhuQuocTours #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: best tour agency in Phu Quoc",
+          "scenes": [
+            "Show Đường Trần Hưng Đạo storefront exterior",
+            "Zoom into 4.9-star rating on screen",
+            "Staff walking tourists through island map",
+            "Speedboat leaving dock, blue water behind",
+            "Happy group on snorkeling trip, GoPro shot"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "986 reviews. 4.9 stars. This is the dive center people keep coming back to in Phu Quoc.\n\nVietnam Explorer PADI Dive Center at Suối Mây is putting up numbers that most restaurants can't match, let alone a dive shop. PADI certified, real instructors, coral reefs that are actually worth the tank.\n\nFirst dive or fiftieth, this is the one locals and long-term travelers recommend. Save this for your Phu Quoc trip.",
+    "video_caption": "Gearing up at the #1-rated dive center in Phu Quoc. 986 divers gave it 4.9 stars and the reef proves why. Vietnam Explorer PADI Dive Center, Suối Mây. Book before it fills up.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 986 reviews. Phu Quoc's dive center is built different.\n\nVietnam Explorer PADI, Suối Mây. Tag your travel buddy.",
+    "video_caption": "986 divers rated this 4.9. Watch what's under Phu Quoc's surface. Vietnam Explorer PADI Dive Center.",
+    "hashtags": "#PhuQuocDiving #PhuQuocTips #PhuQuocActivities #VietnamTravel #TravelTips #TravelReels #ScubaDiving"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 986 reviews. The best dive center in Phu Quoc is not hard to find. #PhuQuoc #PhuQuocDiving #ScubaDiving #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9★ 986 reviews. In Phu Quoc.",
+    "scenes": [
+      "Close-up: 4.9 star rating on screen",
+      "Diver suiting up on the dock",
+      "Underwater shot: reef and fish",
+      "Instructor checking diver's gear",
+      "Surfacing diver, thumbs up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

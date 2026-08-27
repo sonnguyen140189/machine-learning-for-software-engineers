@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 1,243 reviews. At a cocktail bar that also does chocolate.\n\nBittersweet - Cocktail & Chocolate on Đường Trần Hưng Đạo is doing something nobody else in Phu Quoc is doing. Craft cocktails paired with real chocolate. Under $30 a head. The combo sounds weird until your first sip.\n\nBook a stool. Order both. Trust the 1,243 people who already did.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the bartender pour at Bittersweet - Cocktail & Chocolate. 4.8 stars for a reason. Cocktails plus chocolate under $30, right on Đường Trần Hưng Đạo. This one earns the rating.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBars #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 1,243 reviews. Cocktails AND chocolate under $30.\n\nBittersweet - Cocktail & Chocolate is the move. Tag your travel buddy.",
+    "video_caption": "Cocktails meet chocolate at Bittersweet. 4.8 stars, 1,243 reviews, under $30. Phu Quoc delivered.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocFood"
+  },
+  "tiktok": {
+    "caption": "4.8 stars. Cocktails + chocolate. Under $30 in Phu Quoc. Bittersweet is not a drill. #PhuQuoc #PhuQuocBars #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8 stars. 1,243 reviews.",
+    "scenes": [
+      "Exterior shot: Bittersweet sign lit up at night",
+      "Bartender shakes cocktail, slow motion pour",
+      "Chocolate pieces arranged beside cocktail glass",
+      "Close-up: first sip, viewer reaction",
+      "Price board on screen: under $30"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
