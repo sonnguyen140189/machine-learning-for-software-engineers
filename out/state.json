@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJl1Ayn9aNpzERF5-boB6Ec3c",
+    "ChIJR0Eq5IeMpzER7hzZw3l9NSw",
+    "ChIJfVqVdoeMpzERX-ZG1WyAvMA",
+    "ChIJcUfuO36MpzER-YtnHO2vDD0",
+    "ChIJi0veCZmLpzER_TFGrkrELl8",
+    "ChIJnSiMgv6LpzERwHPkMSy5JEc",
+    "ChIJ2fu7BmGNpzERyc_w8wahNio",
+    "ChIJCVbqKQCVpzERyNmZl5mrNcU",
+    "ChIJRQVFmFqNpzERu5Sg8_W6Zoo",
+    "ChIJGeOzddMfCDERWqFBHDihXo0",
+    "ChIJDz3c2puNpzERnfsc7Mo0TOQ",
+    "ChIJcSDG-fqWpzERQkkxuLWDUyU",
     "ChIJUYfZHeSNpzER5-l8QW0lTcM",
     "ChIJh878oruNpzER7b0NN-zrQpk",
     "ChIJb5faY8qNpzERH4uW3FwoE5s",
@@ -187,21 +199,189 @@
     "ChIJBWE7axyNpzER5e0d8AjEDJA",
     "ChIJ1Tz0QOcfCDER2oug-pJV_TA",
     "ChIJ2_A_qiGNpzERECnKPGDMbqc",
-    "ChIJY6klvwiLpzERbXSkUvWfTOs",
-    "ChIJy5_OrWqKpzERGaQHR6TfBU0",
-    "ChIJX5g8DI6NpzERD3kfpnZmESY",
-    "ChIJGb4oNz2LpzERnlJX2YrpYTQ",
-    "ChIJkcMAuZCNpzERRQmhoqfUVYk",
-    "ChIJ0cqxY2ySpzERo9J49pxmTgY",
-    "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
-    "ChIJyVg7uFmMpzER8oO_9EVvcbg",
-    "ChIJy5uCwXCXpzERQSR2-hAgnuo",
-    "ChIJQ4JcfECSpzER9dUT9AlYDJk",
-    "ChIJLS6KuYmLpzER6fHJ__iaMqw",
-    "ChIJIxst3A-NpzERxKcvb8CHI2Y",
-    "ChIJ7fpDGamNpzERBaF8duO9WKY"
+    "ChIJY6klvwiLpzERbXSkUvWfTOs"
   ],
   "history": [
+    {
+      "date": "2026-08-28",
+      "placeId": "ChIJl1Ayn9aNpzERF5-boB6Ec3c",
+      "placeName": "Chùa Hưng Sơn. Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1629575211930603"
+        },
+        "instagramReel": {
+          "id": "18112505509997943"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "placeId": "ChIJR0Eq5IeMpzER7hzZw3l9NSw",
+      "placeName": "Sùng Hưng Cổ Tự",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121400701313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18091155965197227"
+        }
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "placeId": "ChIJfVqVdoeMpzERX-ZG1WyAvMA",
+      "placeName": "Cao Dai Temple of Phu-Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1417249670465081"
+        },
+        "instagramReel": {
+          "id": "18366175273241906"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "placeId": "ChIJcUfuO36MpzER-YtnHO2vDD0",
+      "placeName": "Hung Quoc Tu Pagoda",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121399375313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17905681017551011"
+        }
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "placeId": "ChIJi0veCZmLpzER_TFGrkrELl8",
+      "placeName": "Hung Nhi Son Pagoda",
+      "results": {
+        "facebookVideo": {
+          "id": "1606872867733964"
+        },
+        "instagramReel": {
+          "id": "18086483729227362"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "placeId": "ChIJnSiMgv6LpzERwHPkMSy5JEc",
+      "placeName": "THÀNH DUY PHÚ QUỐC TRAVEL",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121398109313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18089173370182986"
+        }
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "placeId": "ChIJ2fu7BmGNpzERyc_w8wahNio",
+      "placeName": "GRACE'S TOUR PHÚ QUỐC- SIM CARD- MONEY EXCHANGE- ENGLISH SPEAKER- DIVING",
+      "results": {
+        "facebookVideo": {
+          "id": "2914853725542266"
+        },
+        "instagramReel": {
+          "id": "18189180958395867"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "placeId": "ChIJCVbqKQCVpzERyNmZl5mrNcU",
+      "placeName": "Chợ đêm Vui Fest",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121396759313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17878484535623376"
+        }
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "placeId": "ChIJRQVFmFqNpzERu5Sg8_W6Zoo",
+      "placeName": "Kingkong Mart",
+      "results": {
+        "facebookVideo": {
+          "id": "1020388144384824"
+        },
+        "instagramReel": {
+          "id": "18181676449412815"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "placeId": "ChIJGeOzddMfCDERWqFBHDihXo0",
+      "placeName": "Wyndham Grand Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121395487313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18277875940292118"
+        }
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "placeId": "ChIJDz3c2puNpzERnfsc7Mo0TOQ",
+      "placeName": "Dusit Princess Moonrise beach resort",
+      "results": {
+        "facebookVideo": {
+          "id": "919803584535278"
+        },
+        "instagramReel": {
+          "id": "18089822141555834"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "placeId": "ChIJcSDG-fqWpzERQkkxuLWDUyU",
+      "placeName": "Premier Village Phu Quoc Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121394491313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18430249648183816"
+        }
+      }
+    },
     {
       "date": "2026-08-27",
       "placeId": "ChIJUYfZHeSNpzER5-l8QW0lTcM",
@@ -3016,186 +3196,6 @@
         },
         "instagramReel": {
           "id": "18136031593612154"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-11",
-      "placeId": "ChIJy5_OrWqKpzERGaQHR6TfBU0",
-      "placeName": "Novotel Phu Quoc Resort",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122118805491313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18111583322080441"
-        }
-      }
-    },
-    {
-      "date": "2026-08-11",
-      "placeId": "ChIJX5g8DI6NpzERD3kfpnZmESY",
-      "placeName": "Sol by Meliá Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1518267496888853"
-        },
-        "instagramReel": {
-          "id": "18117083050921704"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-11",
-      "placeId": "ChIJGb4oNz2LpzERnlJX2YrpYTQ",
-      "placeName": "Mango Bay Resort",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122118804387313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17873122518630376"
-        }
-      }
-    },
-    {
-      "date": "2026-08-11",
-      "placeId": "ChIJkcMAuZCNpzERRQmhoqfUVYk",
-      "placeName": "Salinda Resort Phu Quoc Island",
-      "results": {
-        "facebookVideo": {
-          "id": "1805581487460762"
-        },
-        "instagramReel": {
-          "id": "17985760761022875"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-11",
-      "placeId": "ChIJ0cqxY2ySpzERo9J49pxmTgY",
-      "placeName": "Pullman Phu Quoc Beach Resort",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122118803079313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18132674998617411"
-        }
-      }
-    },
-    {
-      "date": "2026-08-11",
-      "placeId": "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
-      "placeName": "Meliá Vinpearl Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "2058186658123982"
-        },
-        "instagramReel": {
-          "id": "18112048964072446"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-11",
-      "placeId": "ChIJyVg7uFmMpzER8oO_9EVvcbg",
-      "placeName": "La Veranda Resort Phu Quoc - MGallery Collection",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122118801903313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18128606719663089"
-        }
-      }
-    },
-    {
-      "date": "2026-08-11",
-      "placeId": "ChIJy5uCwXCXpzERQSR2-hAgnuo",
-      "placeName": "New World Phu Quoc Resort",
-      "results": {
-        "facebookVideo": {
-          "id": "1570079038242749"
-        },
-        "instagramReel": {
-          "id": "18100266275260692"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-11",
-      "placeId": "ChIJQ4JcfECSpzER9dUT9AlYDJk",
-      "placeName": "InterContinental Phu Quoc Long Beach Resort by IHG",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122118800739313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17925624657163174"
-        }
-      }
-    },
-    {
-      "date": "2026-08-10",
-      "placeId": "ChIJLS6KuYmLpzER6fHJ__iaMqw",
-      "placeName": "Peace Corner Coffee & Homemade Food",
-      "results": {
-        "facebookVideo": {
-          "id": "1065486499396273"
-        },
-        "instagramReel": {
-          "id": "18385645693161357"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-10",
-      "placeId": "ChIJIxst3A-NpzERxKcvb8CHI2Y",
-      "placeName": "Tween's Kitchen - Main Street Branch",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122118430953313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17955650141998726"
-        }
-      }
-    },
-    {
-      "date": "2026-08-10",
-      "placeId": "ChIJ7fpDGamNpzERBaF8duO9WKY",
-      "placeName": "Bánh Mì & You",
-      "results": {
-        "facebookVideo": {
-          "id": "1679712283113044"
-        },
-        "instagramReel": {
-          "id": "17967014748128061"
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not set"
