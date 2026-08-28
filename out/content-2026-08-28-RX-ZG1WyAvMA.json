@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. The Cao Dai Temple on Đường Nguyễn Trãi is one of the most visually striking buildings on the island. Bright colors, detailed architecture, active place of worship. Free to visit. Takes 20 minutes. Most Phu Quoc itineraries skip it completely. Don't be that tourist who only sees the beach. Save this for your Phu Quoc trip.",
+    "video_caption": "Walk through the front gate and the colors hit you immediately. Yellows, pinks, intricate detail on every surface. Active temple, real visitors, zero crowds. This is Phu Quoc most tourists never see.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #PhuQuocTravel #VietnamTemple #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this temple. Đường Nguyễn Trãi, free entry, zero crowds. 20 minutes that most Phu Quoc trips miss completely. Tag your travel buddy.",
+    "video_caption": "Bold colors. Real worshippers. No tour groups. The Cao Dai Temple is the Phu Quoc stop nobody puts on their list.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTravel #VietnamTravel #TravelTips #CaoDai #TravelReels #PhuQuocTips #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "The temple Phu Quoc tourists walk right past. Free. Empty. Unmissable. #PhuQuoc #VietnamTravel #CaoDai #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Wide shot: temple gate, vivid colors",
+      "Pan up ornate facade, close on detail",
+      "Inside: incense smoke, soft light",
+      "Empty courtyard, no tour groups",
+      "Close-up: painted figures on pillars"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

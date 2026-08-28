@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "547 reviews for a grocery store. In Phu Quoc. That tells you something.\n\nKingkong Mart on Đường Bạch Đằng is where locals actually shop. Sunscreen, snacks, cold drinks, beach supplies. Everything you forgot to pack and everything you'll want for the day.\n\n4.4 stars. Real reviews. No tourist markup nonsense.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Cold drinks, local snacks, beach supplies. Kingkong Mart on Đường Bạch Đằng has 547 reviews and earns every one. Skip the resort shop. Come here first.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #PhuQuocTravel"
+  },
+  "instagram": {
+    "caption": "547 reviews for a grocery store. That's not random.\n\nKingkong Mart, Đường Bạch Đằng. Cold drinks, snacks, beach supplies. Real prices.\n\nTag your travel buddy.",
+    "video_caption": "Forgot sunscreen? Out of snacks? Kingkong Mart has 547 reviews for a reason. Local prices, no resort markup.",
+    "hashtags": "#PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocLife #VisitVietnam #PhuQuocGuide"
+  },
+  "tiktok": {
+    "caption": "547 reviews for a grocery store in Phu Quoc. Locals know. Now you do. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "547 reviews. A grocery store.",
+    "scenes": [
+      "Storefront shot, Đường Bạch Đằng sign visible",
+      "Pan across cold drink fridges",
+      "Hands grabbing local snacks off shelf",
+      "Close-up of price tags, low numbers",
+      "Shopper walks out, bag full, beach in background"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
