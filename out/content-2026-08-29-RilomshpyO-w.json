@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walked down Đường Trần Hưng Đạo and found Là-Men Coffee & Brunch Phu Quoc before the crowds did.\n\n4.8 stars. 352 reviews. Still feels like a local find.\n\nBrunch in Phu Quoc usually means resort buffets. This is different. $15-30 a person for a proper sit-down meal with coffee that earns its reputation.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Steaming coffee landing on the table. Brunch plates you didn't expect in Phu Quoc. Là-Men Coffee & Brunch delivers and the 4.8 stars make sense the second you sit down.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found Là-Men Coffee & Brunch before it blows up.\n4.8★, 352 reviews, $15-30 a head. Tag your travel buddy.",
+    "video_caption": "Coffee poured. Brunch plates down. Là-Men hits different on Đường Trần Hưng Đạo.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #PhuQuocRestaurant #VietnamTravel #TravelTips #TravelReels #FoodieTravel"
+  },
+  "tiktok": {
+    "caption": "Found this before the crowds. 4.8★ brunch in Phu Quoc for under $30 a head. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you found the good brunch.",
+    "scenes": [
+      "Walking along Đường Trần Hưng Đạo toward the sign",
+      "Door opens, cozy interior revealed",
+      "Coffee being poured into a glass",
+      "Brunch plate placed on table, close-up",
+      "Review screen: 4.8★, 352 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

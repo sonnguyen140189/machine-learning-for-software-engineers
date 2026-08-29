@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "25,000 VND for gelato in Phu Quoc. That's basically $1. IG Island Gelato at 103 Đ. 30 Tháng 4 is doing flat-rate scoops at ĐỒNG GIÁ 25K, every flavor, same price. 4.9 stars. 36 reviews. Nobody's complaining. Walk in, pick a scoop, spend less than your last coffee. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the scoop drop. 25K flat, every flavor, no upsell. IG Island Gelato on Đ. 30 Tháng 4 is the move when the heat hits and your wallet is already crying.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "25,000 VND gelato. Every flavor. Same price. 4.9 stars.\n\nIG Island Gelato, Phú Quốc. Go before everyone finds it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "One scoop. 25K. 4.9 stars. IG Island Gelato is the best dollar you'll spend in Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocIceCream #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "25K gelato in Phu Quoc. Every flavor, flat rate. 4.9 stars. Go. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "25K gelato. Every flavor.",
+    "scenes": [
+      "Storefront sign: ĐỒNG GIÁ 25K",
+      "Hands pointing at gelato case",
+      "Scoop lands on cone, close-up",
+      "First bite reaction, sunny street",
+      "Price receipt or tag in frame"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
