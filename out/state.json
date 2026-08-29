@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ652atFCNpzERuDwXbWc_sTQ",
+    "ChIJSQvg5PCNpzERilomshpyO-w",
+    "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
+    "ChIJdQIPu76LpzERR-arMzuJz5I",
+    "ChIJNZKZHU2TpzER5UaMI7CsQ-E",
+    "ChIJ9aynZwqTpzERWnZQfpFyViY",
+    "ChIJG0omSAeNpzERTWnB_Eaa4c8",
+    "ChIJF33R8xCLpzERFtTAVV7G-14",
+    "ChIJl8UfBQGNpzERWCMLl5afNZA",
+    "ChIJ92MYQACNpzERK6dM8g8-pG0",
+    "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
+    "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
     "ChIJl1Ayn9aNpzERF5-boB6Ec3c",
     "ChIJR0Eq5IeMpzER7hzZw3l9NSw",
     "ChIJfVqVdoeMpzERX-ZG1WyAvMA",
@@ -187,21 +199,189 @@
     "ChIJh_DUIYeNpzERDqbaRMxPgTY",
     "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
     "ChIJEXpOynGNpzER-yD5vqjo9-E",
-    "ChIJsY399WOMpzER7lV4UDy_2w0",
-    "ChIJh0oTEUaLpzERgI8_SI_bkLg",
-    "ChIJfQAdSg2NpzEREkgYHVPn5dE",
-    "ChIJpW9hndiNpzERaocRFppy0S4",
-    "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
-    "ChIJKzlafMuLpzERtBF-FredP28",
-    "ChIJx4kkhiiNpzERH47LIVsqJps",
-    "ChIJH7qQ4niLpzERauDuEKEMXVk",
-    "ChIJBZASQZ6NpzERfkHFOYJvawM",
-    "ChIJBWE7axyNpzER5e0d8AjEDJA",
-    "ChIJ1Tz0QOcfCDER2oug-pJV_TA",
-    "ChIJ2_A_qiGNpzERECnKPGDMbqc",
-    "ChIJY6klvwiLpzERbXSkUvWfTOs"
+    "ChIJsY399WOMpzER7lV4UDy_2w0"
   ],
   "history": [
+    {
+      "date": "2026-08-29",
+      "placeId": "ChIJ652atFCNpzERuDwXbWc_sTQ",
+      "placeName": "Quán Ăn 93",
+      "results": {
+        "facebookVideo": {
+          "id": "1098048692801683"
+        },
+        "instagramReel": {
+          "id": "18363596215208432"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "placeId": "ChIJSQvg5PCNpzERilomshpyO-w",
+      "placeName": "Là-Men Coffee & Brunch Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121488109313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18125017915836437"
+        }
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "placeId": "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
+      "placeName": "Phu Quoc Street Food Tour - Eat with Locals, Drink with Locals",
+      "results": {
+        "facebookVideo": {
+          "id": "1605576064534825"
+        },
+        "instagramReel": {
+          "id": "18142104319601632"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "placeId": "ChIJdQIPu76LpzERR-arMzuJz5I",
+      "placeName": "Eco Tour Thai Duong – Cua Can River Basket Boat Experience",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121487101313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17949380712257473"
+        }
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "placeId": "ChIJNZKZHU2TpzER5UaMI7CsQ-E",
+      "placeName": "IG Island Gelato – ĐỒNG GIÁ 25K",
+      "results": {
+        "facebookVideo": {
+          "id": "1631230635238372"
+        },
+        "instagramReel": {
+          "id": "18406732768094346"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "placeId": "ChIJ9aynZwqTpzERWnZQfpFyViY",
+      "placeName": "SEN Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121486021313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18193644094380513"
+        }
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "placeId": "ChIJG0omSAeNpzERTWnB_Eaa4c8",
+      "placeName": "Bếp An Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "1707580123662915"
+        },
+        "instagramReel": {
+          "id": "18040081349817262"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "placeId": "ChIJF33R8xCLpzERFtTAVV7G-14",
+      "placeName": "Camia Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121484983313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18118667656861161"
+        }
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "placeId": "ChIJl8UfBQGNpzERWCMLl5afNZA",
+      "placeName": "Bombay Indian Restaurant Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1694935201569619"
+        },
+        "instagramReel": {
+          "id": "18107411485886852"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "placeId": "ChIJ92MYQACNpzERK6dM8g8-pG0",
+      "placeName": "Restaurant Bukhara halal",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121483531313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18117547573938635"
+        }
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "placeId": "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
+      "placeName": "FUSION Treats",
+      "results": {
+        "facebookVideo": {
+          "id": "1287345206718147"
+        },
+        "instagramReel": {
+          "id": "17951734659248875"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "placeId": "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
+      "placeName": "NINH KITCHEN - VIETNAMESE CUISINE",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121482427313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18006363431969105"
+        }
+      }
+    },
     {
       "date": "2026-08-28",
       "placeId": "ChIJl1Ayn9aNpzERF5-boB6Ec3c",
@@ -3016,186 +3196,6 @@
         },
         "instagramReel": {
           "id": "17874623550543292"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-12",
-      "placeId": "ChIJh0oTEUaLpzERgI8_SI_bkLg",
-      "placeName": "Tiệm Cà Phê Đồng Giao",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122118985053313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17928081885387284"
-        }
-      }
-    },
-    {
-      "date": "2026-08-12",
-      "placeId": "ChIJfQAdSg2NpzEREkgYHVPn5dE",
-      "placeName": "Hi Coffee - 11 Trần Hưng Đạo - Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1044979201276659"
-        },
-        "instagramReel": {
-          "id": "18138822598545873"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-12",
-      "placeId": "ChIJpW9hndiNpzERaocRFppy0S4",
-      "placeName": "MR. VIET COFFEE OUTLET IN PHU QUOC",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122118984315313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17966474544155003"
-        }
-      }
-    },
-    {
-      "date": "2026-08-12",
-      "placeId": "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
-      "placeName": "ANBA COFFEE",
-      "results": {
-        "facebookVideo": {
-          "id": "1763110914690831"
-        },
-        "instagramReel": {
-          "id": "18111923155786119"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-12",
-      "placeId": "ChIJKzlafMuLpzERtBF-FredP28",
-      "placeName": "Hoa Đảo Viên Coffee - Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122118983487313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18145945579540879"
-        }
-      }
-    },
-    {
-      "date": "2026-08-12",
-      "placeId": "ChIJx4kkhiiNpzERH47LIVsqJps",
-      "placeName": "Zyzu Kafé",
-      "results": {
-        "facebookVideo": {
-          "id": "1039053595778826"
-        },
-        "instagramReel": {
-          "id": "18336549052266870"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-12",
-      "placeId": "ChIJH7qQ4niLpzERauDuEKEMXVk",
-      "placeName": "HD cafe",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122118982701313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18098143199016278"
-        }
-      }
-    },
-    {
-      "date": "2026-08-12",
-      "placeId": "ChIJBZASQZ6NpzERfkHFOYJvawM",
-      "placeName": "Tarapaca Cafe",
-      "results": {
-        "facebookVideo": {
-          "id": "1391334262921851"
-        },
-        "instagramReel": {
-          "id": "18116707148488471"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-12",
-      "placeId": "ChIJBWE7axyNpzER5e0d8AjEDJA",
-      "placeName": "AROMA Cafe Bistro Bar Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122118981771313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17903637963472108"
-        }
-      }
-    },
-    {
-      "date": "2026-08-11",
-      "placeId": "ChIJ1Tz0QOcfCDER2oug-pJV_TA",
-      "placeName": "Thali House - Best Indian 100% Vegetarian Food in Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1383634803731742"
-        },
-        "instagramReel": {
-          "id": "17978697300120459"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-11",
-      "placeId": "ChIJ2_A_qiGNpzERECnKPGDMbqc",
-      "placeName": "Nhà Hàng Chay NẤM (Vegan Restaurant)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122118806433313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18261324331306609"
-        }
-      }
-    },
-    {
-      "date": "2026-08-11",
-      "placeId": "ChIJY6klvwiLpzERbXSkUvWfTOs",
-      "placeName": "Bếp Chay Nhà An | VEGETARIAN BISTRO",
-      "results": {
-        "facebookVideo": {
-          "id": "28606540622281602"
-        },
-        "instagramReel": {
-          "id": "18136031593612154"
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not set"
