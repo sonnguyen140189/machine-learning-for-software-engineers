@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 135 reviews. Zero complaints.\n\nHello Spa - Massage & Nail sits right at chợ đêm Phú Quốc, steps from the night market buzz. After a full day of beaches and scooter rides, this is where you reset. Massage, nails, full wind-down. Rated perfect by everyone who walked in.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Cameras inside a 5-star spa at the night market. 135 people rated this place perfectly. Watch what you get after a day of island chaos.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #PhuQuocTips #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 135 reviews. Every single one.\n\nHello Spa - Massage & Nail at chợ đêm Phú Quốc. Post-beach recovery sorted.\n\nTag your travel buddy.",
+    "video_caption": "135 reviews. All five stars. This spa at chợ đêm Phú Quốc does not miss.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocNightMarket #VietnamTravel #TravelTips #TravelReels #SpaVibes"
+  },
+  "tiktok": {
+    "caption": "5.0 stars across 135 reviews at chợ đêm Phú Quốc. Hello Spa delivers. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5.0★ 135 reviews. Every one.",
+    "scenes": [
+      "Exterior shot: spa sign at night market",
+      "Hands receiving a massage close-up",
+      "Nail service, clean detail shot",
+      "Relaxed client, eyes closed",
+      "Google review screen: 5.0 stars"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

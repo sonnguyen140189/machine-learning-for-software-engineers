@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "528 people rated this spa 4.5 stars. On a beach island. That's not luck, that's consistency.\n\nMiss Tiên Spa-Body & Foot Massage on 94 Đường Bạch Đằng is the kind of place locals return to after a long day on the water. Body massage. Foot massage. Real results.\n\nBook a session, walk out a different person.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Feet wrecked from a full day walking Phu Quoc? Miss Tiên Spa on Đường Bạch Đằng has 528 reviews at 4.5 stars. The table is waiting. So is the relief.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "528 reviews. 4.5 stars. Miss Tiên Spa isn't going unnoticed.\n\nBody and foot massage on Đường Bạch Đằng. Go after the beach. Thank us later.\n\nTag your travel buddy.",
+    "video_caption": "4.5 stars, 528 reviews. Miss Tiên Spa on Đường Bạch Đằng earns it every single session.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #MassagePhuQuoc"
+  },
+  "tiktok": {
+    "caption": "528 reviews at 4.5 stars on a beach island. Miss Tiên Spa delivers. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "528 reviews. 4.5 stars.",
+    "scenes": [
+      "Exterior shot: 94 Đường Bạch Đằng signage",
+      "Reception desk, warm lighting, staff greeting",
+      "Foot soak basin filling with hot water",
+      "Hands working a deep foot massage",
+      "Guest reclined, eyes closed, fully relaxed",
+      "Rating overlay: 4.5 stars, 528 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

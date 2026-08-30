@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this one. ZEN Spa & Nail on 91/3 Đường Trần Hưng Đạo is where Duong Dong locals actually book their nails and massages. 4.7 stars across 455 reviews. Not a resort spa price tag. Just solid work, quiet space, real results. If your feet are wrecked from the beach, this is your stop. Save this for your Phu Quoc trip.",
+    "video_caption": "Hands on a nail station, polish catching the light. This is ZEN Spa & Nail, 4.7 stars, 455 reviews, and most tourists never find it. Duong Dong's local pick, right on Đường Trần Hưng Đạo.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about ZEN Spa & Nail. 4.7 stars, 455 reviews, Duong Dong's real pick. Save this for your Phu Quoc trip.",
+    "video_caption": "4.7 stars. 455 reviews. Most tourists never find ZEN Spa & Nail. Don't be one of them.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #DuongDong #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Locals keep this spa quiet for a reason. ZEN Spa & Nail, 4.7 stars. #PhuQuoc #PhuQuocSpa #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this spa.",
+    "scenes": [
+      "Walk up to 91/3 Đường Trần Hưng Đạo entrance",
+      "Pan across clean, calm interior",
+      "Close-up: nail work in progress",
+      "Cut to: Google rating 4.7, 455 reviews on screen",
+      "Wide shot: quiet treatment area, no crowds"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
