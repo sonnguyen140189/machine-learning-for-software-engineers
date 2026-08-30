@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ3ZgwWLONpzERIM11I5sYgVs",
+    "ChIJ_9CmnfSNpzERsmmH4TLwHy4",
+    "ChIJzwU_1waNpzERJApCT6UMoDk",
+    "ChIJw0auYQCNpzER8BCjNBsmIBs",
+    "ChIJd4s74SiNpzERSsU3_x_0EsI",
+    "ChIJjXUjGRmNpzERbpTPg0YpR3g",
+    "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
+    "ChIJqx54JIyNpzERfmx8wXohQ4U",
+    "ChIJiyzaO4CNpzERTH6QKehpvBw",
+    "ChIJcQI2WEyNpzERiZfbiTwGiHU",
+    "ChIJK6PXziqyU2gREZvk_pErVag",
+    "ChIJ_QHQ2eWNpzER0VcwkboktMU",
     "ChIJ652atFCNpzERuDwXbWc_sTQ",
     "ChIJSQvg5PCNpzERilomshpyO-w",
     "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
@@ -187,21 +199,189 @@
     "ChIJyZvBKSCNpzER_ZT2yT6WFOg",
     "ChIJvc4-RWUgCDERx4AJFW81Tg4",
     "ChIJwaXLFgyJpzERsHSEodjscKQ",
-    "ChIJr7enHa-rNTERbivpCTqoenY",
-    "ChIJn_OoioaMpzER6LmKuuTHasY",
-    "ChIJb94_UYaMpzERLROoXapH5lI",
-    "ChIJTZlTGwCNpzERcOusT0_hYo4",
-    "ChIJt4DYpuyLpzERm18CccVtFaM",
-    "ChIJlZ8x-y-NpzERmNxpJhjw9-0",
-    "ChIJbd7_NgGNpzERqXUHaQ6Y6K4",
-    "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
-    "ChIJ17LlPYaNpzERY0rp_hDIF7E",
-    "ChIJh_DUIYeNpzERDqbaRMxPgTY",
-    "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
-    "ChIJEXpOynGNpzER-yD5vqjo9-E",
-    "ChIJsY399WOMpzER7lV4UDy_2w0"
+    "ChIJr7enHa-rNTERbivpCTqoenY"
   ],
   "history": [
+    {
+      "date": "2026-08-30",
+      "placeId": "ChIJ3ZgwWLONpzERIM11I5sYgVs",
+      "placeName": "Massage Phú Quốc - Nhiên Spa | 마사지 | 스파 | Spa Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1699633041099730"
+        },
+        "instagramReel": {
+          "id": "18112901846472135"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "placeId": "ChIJ_9CmnfSNpzERsmmH4TLwHy4",
+      "placeName": "ZEN Spa & Nail (2)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121693921313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18058644647551631"
+        }
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "placeId": "ChIJzwU_1waNpzERJApCT6UMoDk",
+      "placeName": "ZEN Spa & Nail",
+      "results": {
+        "facebookVideo": {
+          "id": "4931707060389732"
+        },
+        "instagramReel": {
+          "id": "17867255664641575"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "placeId": "ChIJw0auYQCNpzER8BCjNBsmIBs",
+      "placeName": "LUA SPA",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121692751313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18126347437833750"
+        }
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "placeId": "ChIJd4s74SiNpzERSsU3_x_0EsI",
+      "placeName": "JOY spa ( Massage _ Waxing _ Nail _Shampoo )",
+      "results": {
+        "facebookVideo": {
+          "id": "2256252361837998"
+        },
+        "instagramReel": {
+          "id": "18120430703487764"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "placeId": "ChIJjXUjGRmNpzERbpTPg0YpR3g",
+      "placeName": "Miss Tiên Spa-Body & Foot Massage",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121691713313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17994019655825424"
+        }
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "placeId": "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
+      "placeName": "Phu Quoc Day Spa - 푸꾸옥 스파 마사지 - 富国岛的水疗按摩",
+      "results": {
+        "facebookVideo": {
+          "id": "1726863361867931"
+        },
+        "instagramReel": {
+          "id": "17999839626006090"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "placeId": "ChIJqx54JIyNpzERfmx8wXohQ4U",
+      "placeName": "Little WIN SPA 2 - MASSAGE (전신 마사지, 풋 마사지)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121690591313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17899259931568858"
+        }
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "placeId": "ChIJiyzaO4CNpzERTH6QKehpvBw",
+      "placeName": "FIONA SPA",
+      "results": {
+        "facebookVideo": {
+          "id": "1634546891570862"
+        },
+        "instagramReel": {
+          "id": "17882775753685401"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "placeId": "ChIJcQI2WEyNpzERiZfbiTwGiHU",
+      "placeName": "Hello Spa - Massage & Nail",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121689571313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18072834614469393"
+        }
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "placeId": "ChIJK6PXziqyU2gREZvk_pErVag",
+      "placeName": "Dgold Spa - body massage, foot massage, shampoo, nail",
+      "results": {
+        "facebookVideo": {
+          "id": "1552891336590725"
+        },
+        "instagramReel": {
+          "id": "18386604535203335"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "placeId": "ChIJ_QHQ2eWNpzER0VcwkboktMU",
+      "placeName": "Golden Foot Massage Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122121688659313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18126497029780145"
+        }
+      }
+    },
     {
       "date": "2026-08-29",
       "placeId": "ChIJ652atFCNpzERuDwXbWc_sTQ",
@@ -3016,186 +3196,6 @@
         },
         "instagramReel": {
           "id": "18090300437412483"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-13",
-      "placeId": "ChIJn_OoioaMpzER6LmKuuTHasY",
-      "placeName": "Dinh Cậu",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119102575313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17937035538346213"
-        }
-      }
-    },
-    {
-      "date": "2026-08-13",
-      "placeId": "ChIJb94_UYaMpzERLROoXapH5lI",
-      "placeName": "Dinh Bà Thủy Long Thánh Mẫu",
-      "results": {
-        "facebookVideo": {
-          "id": "1602566337892356"
-        },
-        "instagramReel": {
-          "id": "18144946459528960"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-13",
-      "placeId": "ChIJTZlTGwCNpzERcOusT0_hYo4",
-      "placeName": "SORI Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119101429313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18113799403969559"
-        }
-      }
-    },
-    {
-      "date": "2026-08-13",
-      "placeId": "ChIJt4DYpuyLpzERm18CccVtFaM",
-      "placeName": "On The Rock Restaurant & Beach Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1361364535572228"
-        },
-        "instagramReel": {
-          "id": "18082464530279952"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-13",
-      "placeId": "ChIJlZ8x-y-NpzERmNxpJhjw9-0",
-      "placeName": "Rak Rock Lobster",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119100403313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17945001009055419"
-        }
-      }
-    },
-    {
-      "date": "2026-08-13",
-      "placeId": "ChIJbd7_NgGNpzERqXUHaQ6Y6K4",
-      "placeName": "Blue seafood restaurant (블루씨푸드)",
-      "results": {
-        "facebookVideo": {
-          "id": "1548711726149092"
-        },
-        "instagramReel": {
-          "id": "17901070146487426"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-13",
-      "placeId": "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
-      "placeName": "Aloha Beach Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119099347313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18103620350590185"
-        }
-      }
-    },
-    {
-      "date": "2026-08-13",
-      "placeId": "ChIJ17LlPYaNpzERY0rp_hDIF7E",
-      "placeName": "MYLA SEAFOOD",
-      "results": {
-        "facebookVideo": {
-          "id": "874881132164908"
-        },
-        "instagramReel": {
-          "id": "17905058616311277"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-13",
-      "placeId": "ChIJh_DUIYeNpzERDqbaRMxPgTY",
-      "placeName": "Hải sản Động Tôm Hùm - Lobster Cave seafood",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119098369313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18113369101967476"
-        }
-      }
-    },
-    {
-      "date": "2026-08-12",
-      "placeId": "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
-      "placeName": "58 CAFÉ",
-      "results": {
-        "facebookVideo": {
-          "id": "989605794122858"
-        },
-        "instagramReel": {
-          "id": "17899604685560455"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-12",
-      "placeId": "ChIJEXpOynGNpzER-yD5vqjo9-E",
-      "placeName": "BUM Coffee",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122118985917313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18108442523041244"
-        }
-      }
-    },
-    {
-      "date": "2026-08-12",
-      "placeId": "ChIJsY399WOMpzER7lV4UDy_2w0",
-      "placeName": "Chuồn Chuồn Bistro & Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "3211700989040448"
-        },
-        "instagramReel": {
-          "id": "17874623550543292"
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not set"
