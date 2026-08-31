@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This beach fixes burnout.\n\nBãi Trường runs for miles along Đường Trần Hưng Đạo. Soft sand, warm water, and a horizon that makes your inbox feel very far away. 4.4 stars across 763 reviews. People keep coming back.\n\nNo crowds at sunrise. Just you, the waves, and a reason to put the phone down.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Bare feet hit the sand at Bãi Trường. The water is that color. The crowd is basically zero. 4.4 stars, 763 people agree. Go early, stay late.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #BaiTruong #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "This beach fixes burnout. Bãi Trường at sunrise, no crowd, just waves. 4.4★, 763 reviews. Save this.",
+    "video_caption": "Miles of sand. Almost no one. Bãi Trường delivers every time. Tag your travel buddy.",
+    "hashtags": "#PhuQuocBeaches #BaiTruong #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc that doesn't feel touristy. Bãi Trường at golden hour hits different. #PhuQuoc #BaiTruong #VietnamTravel #BeachVibes"
+  },
+  "video_script": {
+    "hook": "This beach fixes burnout.",
+    "scenes": [
+      "Wide shot: empty shoreline at sunrise",
+      "Feet walking into warm shallow water",
+      "Pan along miles of unbroken sand",
+      "Close-up: waves rolling in slow motion",
+      "Pull back to reveal full beach width"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

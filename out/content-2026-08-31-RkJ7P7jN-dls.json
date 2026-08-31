@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're on a tropical island and the best pizza you've ever had costs under $30. That's The Home Pizza Phu Quoc. 4.8 stars across 7,911 reviews. On Đường Trần Hưng Đạo in Dương Đông. This place earns that rating every single night. Save this for your Phu Quoc trip.",
+    "video_caption": "7,911 people rated this pizza spot 4.8 stars. Watch the cheese pull and tell me you're not booking a table tonight. The Home Pizza Phu Quoc, Dương Đông. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: best pizza of your trip. On a tropical island. 4.8★, 7,911 reviews. The Home Pizza Phu Quoc delivers. Save this.",
+    "video_caption": "Cheese pull. 4.8 stars. 7,911 reviews. The Home Pizza Phu Quoc just changed the trip.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "POV: best pizza of your Vietnam trip hits different on an island 🍕 #PhuQuoc #PhuQuocFood #TravelTips #FoodTok"
+  },
+  "video_script": {
+    "hook": "POV: pizza on a tropical island.",
+    "scenes": [
+      "Exterior shot, Đường Trần Hưng Đạo at dusk",
+      "Menu close-up, prices visible",
+      "Pizza sliding out of the oven",
+      "Slow cheese pull into camera",
+      "Packed tables, locals and tourists mixing",
+      "Phone shows 4.8★, 7,911 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

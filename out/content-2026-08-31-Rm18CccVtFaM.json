@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you take a wrong turn down Hẻm 8 and end up at a beach bar built on actual rocks above the water.\n\nOn The Rock Restaurant & Beach Bar at Mango Bay is the kind of place you stumble on and immediately cancel your dinner reservation somewhere else. 4.3 stars across 467 reviews. The setting does most of the talking.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Drinks in hand, waves below, rocks under your feet. On The Rock at Mango Bay hits different when you didn't plan to be there. 4.3 stars, 467 reviews. Now you know.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocBeachBar #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn down Hẻm 8. Ended up here. Zero regrets.\n\nOn The Rock. Mango Bay. 4.3★ 467 reviews. Tag your travel buddy.",
+    "video_caption": "Bar built on rocks. Ocean directly below. On The Rock, Mango Bay, Phu Quoc. Go.",
+    "hashtags": "#PhuQuocRestaurants #PhuQuocBeachBar #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Wrong turn down Hẻm 8. Found this. A beach bar on actual rocks above the water. Go. #PhuQuoc #PhuQuocTips #VietnamTravel #BeachBar"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Found this.",
+    "scenes": [
+      "Walking down narrow Hẻm 8 lane",
+      "Sign for On The Rock comes into frame",
+      "Reveal: bar perched over ocean rocks",
+      "Close-up: waves crashing below feet",
+      "Drinks arrive, water glittering behind"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

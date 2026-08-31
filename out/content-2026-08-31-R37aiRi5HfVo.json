@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.2 stars. 198 reviews. And most tourists walk straight past this stretch of sand on Đường Trần Hưng Đạo.\n\nPhu Quoc's coastline gets crowded fast. This spot keeps its numbers honest without the resort price tag attached.\n\nShowing up early gets you the beach before everyone else does. Flat water, open sky, no queue for a sun lounger.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch what happens when you hit this beach before 8am. Empty sand, calm water, zero crowds. 4.2 stars for a reason. Đường Trần Hưng Đạo delivers every single morning.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #PhuQuocIsland #VisitVietnam #TravelTips #VietnamBeach #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.2 stars. 198 reviews. Most tourists walk past it.\n\nĐường Trần Hưng Đạo beach hits different before the crowds arrive. Save this.",
+    "video_caption": "198 people rated this beach 4.2 stars. Come at sunrise and see exactly why. Phu Quoc delivers.",
+    "hashtags": "#PhuQuocBeach #PhuQuocIsland #VietnamTravel #TravelTips #PhuQuocTips #TravelReels #VietnamBeach #BeachVibes"
+  },
+  "tiktok": {
+    "caption": "4.2 stars, 198 reviews, zero hype. This Phu Quoc beach earns it. #PhuQuoc #VietnamTravel #BeachTok #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.2★ beach. Nobody talking about it.",
+    "scenes": [
+      "Drone descends on empty shoreline at dawn",
+      "Feet hit wet sand, water crystal clear",
+      "Pan along Đường Trần Hưng Đạo beachfront",
+      "Close-up: calm waves, no crowds in frame",
+      "Review count flashes on screen: 198 ratings"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

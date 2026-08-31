@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes a bad day fast. Sunset Sanato Beach Club hits different when the sky turns orange over the water. $15-30 a head, 2,665 reviews backing it up, and a crowd that actually wants to be there. Grab a drink. Watch the sun drop. Reset completely. Save this for your Phu Quoc trip.",
+    "video_caption": "Sun going down. Drink in hand. Sunset Sanato Beach Club doing exactly what it promises. $15-30 a person for this view, this vibe, this crowd. Phu Quoc evenings don't get better.",
+    "first_comment": "#PhuQuoc #PhuQuocBeaches #SunsetViews #VisitVietnam #TravelTips #PhuQuocNightlife #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "This place fixes a bad day fast. Sunset Sanato Beach Club, $15-30, 2,665 reviews. Tag your travel buddy.",
+    "video_caption": "Sun dropping. Drink cold. Sunset Sanato Beach Club delivering. Save this.",
+    "hashtags": "#PhuQuocBeaches #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SunsetBar"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc sunsets hit different here. Sunset Sanato Beach Club, $15-30. #PhuQuoc #PhuQuocTips #VietnamTravel #SunsetBar"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: beach club at golden hour",
+      "Close-up: condensation on cold drink",
+      "Pan across crowd watching sunset",
+      "Sun touching the horizon, full color",
+      "Price board: drinks $15-30 range"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

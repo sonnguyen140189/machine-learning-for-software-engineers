@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "Walked past the resort strip. Found Ong Lang beach instead. No beach clubs. No hawkers every 10 meters. Just long stretches of sand and water that actually looks that color. 4.1 stars across 745 reviews and it still feels like nobody told the crowds. Pack a bag, hire a scooter, head north. Save this for your Phu Quoc trip.",
+    "video_caption": "Scooter north of the resort strip and this is what you find. Ong Lang beach. 745 people rated it. Somehow still this quiet. Watch till the end.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #OngLangBeach #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Took the scooter north. Found Ong Lang beach. 4.1 stars, 745 reviews, zero crowds. Tag your travel buddy.",
+    "video_caption": "Nobody warned me Ong Lang beach would look like this. North Phu Quoc. Go.",
+    "hashtags": "#PhuQuocBeaches #OngLangBeach #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachVietnam #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Skipped the resort beach. Found Ong Lang instead. Worth every kilometer. #PhuQuoc #OngLangBeach #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Took a wrong turn. Found this.",
+    "scenes": [
+      "Scooter turning off main resort road",
+      "First glimpse of Ong Lang shoreline",
+      "Wide shot: empty sand, no crowds",
+      "Water close-up, clear and calm",
+      "Slow pan down deserted beach"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
