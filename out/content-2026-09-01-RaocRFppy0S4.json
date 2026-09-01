@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "366 reviews. Every single one a 5-star. \n\nMr. Viet Coffee on Đ. Lê Lợi is not playing games. This is Vietnamese coffee done right, no tourist shortcuts, no watered-down anything. The kind of place that earns a perfect score and keeps it.\n\nFind it at Kiot 20, 22 Đ. Lê Lợi, Phú Quốc. Go before everyone else figures it out.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the pour. Watch the rating. 5.0 stars across 366 reviews at Mr. Viet Coffee, Đ. Lê Lợi. Your morning in Phu Quoc just got an upgrade.",
+    "first_comment": "#PhuQuoc #PhuQuocCoffee #ThingsToDoPhuQuoc #VisitVietnam #VietnamCoffee #PhuQuocTips #TravelVietnam"
+  },
+  "instagram": {
+    "caption": "366 reviews. 5.0 stars. Zero exceptions.\n\nMr. Viet Coffee, Đ. Lê Lợi, Phú Quốc. Tag your travel buddy.",
+    "video_caption": "5.0 stars, 366 people in. Mr. Viet Coffee hits different on a Phu Quoc morning.",
+    "hashtags": "#PhuQuocCoffee #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeInVietnam #VisitVietnam #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "366 reviews. Every one a 5-star. Mr. Viet Coffee, Phú Quốc. Not a fluke. #PhuQuoc #VietnamCoffee #PhuQuocTips #TravelVietnam #CoffeeTok"
+  },
+  "video_script": {
+    "hook": "366 reviews. All 5 stars.",
+    "scenes": [
+      "Close-up: steaming Vietnamese coffee drip",
+      "Tilt up to shop sign: Mr. Viet Coffee",
+      "Scroll phone screen showing 5.0 rating",
+      "Hands wrapping around iced ca phe",
+      "Street-level shot: Đ. Lê Lợi storefront, morning light"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

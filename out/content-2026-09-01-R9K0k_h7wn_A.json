@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walked down Trần Hưng Đạo, almost skipped this place, then ate the best Vietnamese meal of your trip.\n\nthì là is the one. 4.7 stars, 928 reviews, $15-30 a head. Real food, real portions, real Phu Quoc.\n\nNo gimmicks. No tourist trap pricing. Just a packed room that tells you everything you need to know.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "928 people rated thì là 4.7 stars and it still flies under the radar. Watch what lands on this table for under $30.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurant #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: almost walked past thì là. Don't be me.\n\n4.7★, 928 reviews, $15-30 a head on Trần Hưng Đạo. Tag your travel buddy.",
+    "video_caption": "This table at thì là cost under $30. 928 reviews back it up. Phu Quoc delivers again.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurant #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Almost walked past thì là in Phu Quoc. 4.7★ and 928 reviews later, never again. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: almost skipped this.",
+    "scenes": [
+      "Street-level shot: 43 Trần Hưng Đạo sign",
+      "Push through busy dining room",
+      "Close-up: steaming bowls hitting the table",
+      "Chopsticks lift first bite, slow mo",
+      "Reaction shot, eyes say it all"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $15 for crab noodle soup in Phu Quoc. That's not a typo.\n\nCua 350 is pulling a 4.9★ from 126 reviews, and once you taste the broth you'll understand why. Rich, crabby, built from scratch. This is the bowl locals queue for, not the one the resort buffet is copying.\n\nFind it at 38 Đ. 30 Tháng 4, khu phố 1. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the ladle drop that crab broth into the bowl. 4.9 stars. Under $15. Cua 350 is the real Phu Quoc lunch move, and most tourists never find it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $15 for a 4.9★ crab noodle bowl. Cua 350 is not playing around.\n\nTag your travel buddy.",
+    "video_caption": "Crab broth this good, under $15. Cua 350 has 126 reviews at 4.9 stars for a reason.",
+    "hashtags": "#PhuQuocFood #PhuQuocEats #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "A 4.9★ crab noodle bowl for under $15 in Phu Quoc. Cua 350 is the move. #PhuQuoc #PhuQuocFood #VietnamEats #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $15. 4.9 stars. Crab soup.",
+    "scenes": [
+      "Close-up: steaming broth poured into bowl",
+      "Pull back: full crab noodle bowl revealed",
+      "Chopsticks lift thick noodles, crab claw visible",
+      "Packed tables, locals eating, no tourists in sight",
+      "Price board on wall: Cua 350, $$ range"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

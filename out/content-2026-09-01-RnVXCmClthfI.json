@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "792 reviews. 4.7 stars. This is Huong Bien Restaurant doing Vietnamese seafood at a serious level.\n\nFresh catch, bold flavors, right on 1 Võ Thị Sáu in the heart of Phú Quốc. Budget around $40-80 per person, this is a proper sit-down meal, not a street snack.\n\nWorth every dong. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the seafood hit the table at Huong Bien Restaurant. 792 people rated this 4.7 stars and the plates tell you exactly why. Budget $40-80 and eat like you mean it.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocRestaurants #VisitVietnam #VietnamFood #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "792 reviews. 4.7 stars. Huong Bien Restaurant is not playing around.\n\nFresh Vietnamese seafood, 1 Võ Thị Sáu, Phú Quốc. $40-80/person. Save this.",
+    "video_caption": "Seafood landing at Huong Bien Restaurant. 4.7 stars across 792 reviews. This is what $40-80 gets you in Phu Quoc.",
+    "hashtags": "#PhuQuocSeafood #PhuQuocFood #PhuQuocRestaurants #VietnamTravel #VisitVietnam #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "792 people rated this 4.7 stars. Huong Bien Restaurant delivering Vietnamese seafood different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "792 reviews. 4.7 stars.",
+    "scenes": [
+      "Exterior shot, 1 Võ Thị Sáu sign visible",
+      "Whole fresh seafood displayed on ice",
+      "Dish lands on table, steam rising",
+      "Close-up: chopsticks lift first bite",
+      "Wide table shot, full spread"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
