@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJBZASQZ6NpzERfkHFOYJvawM",
+    "ChIJBWE7axyNpzER5e0d8AjEDJA",
+    "ChIJJ8PVWkiTpzER0g33shpEXCY",
+    "ChIJ_3mcEp-NpzERP0uTjkMlQ30",
+    "ChIJE0W_Mu-NpzER4e-2jmhYJYI",
+    "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
+    "ChIJyQi3u2GMpzERVXgllKB2V_A",
+    "ChIJLa_VvluMpzERVdeTFM021V4",
+    "ChIJpf9tnKuNpzER0VlJpD19I5s",
+    "ChIJI5DMg7mNpzER_AUE58P5avM",
+    "ChIJY5fODACNpzER4vgSD0OdNQA",
+    "ChIJKdP5te2LpzERTRIt6oGa_fM",
     "ChIJpW9hndiNpzERaocRFppy0S4",
     "ChIJh4tQxoeMpzERnVXCmClthfI",
     "ChIJiamiNwCNpzERGZfl84R9I3k",
@@ -187,21 +199,189 @@
     "ChIJMemrMgSNpzERRHKLDaKlO9k",
     "ChIJf6ykc4iMpzER-X7O0fSCJSs",
     "ChIJGTFz1fqNpzEREOpM4RiSFSI",
-    "ChIJtePCImGLpzER70_qwXv_noQ",
-    "ChIJUVkYvMWNpzER68bYoIeQoq0",
-    "ChIJxyir2P0fCDERr4lf9WU--CQ",
-    "ChIJFxJfXGiNpzER5oQGw5O9TkU",
-    "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
-    "ChIJMwe2gsuXpzERYM-EJba18Po",
-    "ChIJze_KNYiMpzERLa0Mfzg3-ZE",
-    "ChIJ6ZS5Zl6MpzERb-qhkr9ofs4",
-    "ChIJwzDHWDqNpzER2tLsMth7CLM",
-    "ChIJKZFCSpiLpzERK3qFs9JUOEw",
-    "ChIJK0z_dgCNpzERiSVWSPMxaoc",
-    "ChIJGQTKYACNpzERLraBbcxD93w",
-    "ChIJ90jXsf2TpzERk1THOzfOnoU"
+    "ChIJtePCImGLpzER70_qwXv_noQ"
   ],
   "history": [
+    {
+      "date": "2026-09-02",
+      "placeId": "ChIJBZASQZ6NpzERfkHFOYJvawM",
+      "placeName": "Tarapaca Cafe",
+      "results": {
+        "facebookVideo": {
+          "id": "965841353197642"
+        },
+        "instagramReel": {
+          "id": "18121835716854177"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "placeId": "ChIJBWE7axyNpzER5e0d8AjEDJA",
+      "placeName": "AROMA Cafe Bistro Bar Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122189197313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17940503025345047"
+        }
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "placeId": "ChIJJ8PVWkiTpzER0g33shpEXCY",
+      "placeName": "Beach House - The Beach Club",
+      "results": {
+        "facebookVideo": {
+          "id": "1437497381684012"
+        },
+        "instagramReel": {
+          "id": "17913813213457547"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "placeId": "ChIJ_3mcEp-NpzERP0uTjkMlQ30",
+      "placeName": "Shisha Bar Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122188111313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18109039105847377"
+        }
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "placeId": "ChIJE0W_Mu-NpzER4e-2jmhYJYI",
+      "placeName": "Day market",
+      "results": {
+        "facebookVideo": {
+          "id": "2138681690406492"
+        },
+        "instagramReel": {
+          "id": "18090298421323398"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "placeId": "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
+      "placeName": "Aloha Beach Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122187079313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18099591302623357"
+        }
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "placeId": "ChIJyQi3u2GMpzERVXgllKB2V_A",
+      "placeName": "RED RIVER TOURS",
+      "results": {
+        "facebookVideo": {
+          "id": "1127219476295505"
+        },
+        "instagramReel": {
+          "id": "18333745291261683"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
+      "placeName": "Jerry's Jungle Tours",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122185963313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18129058885670323"
+        }
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "placeId": "ChIJpf9tnKuNpzER0VlJpD19I5s",
+      "placeName": "MiDu Foot & Body Massage Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1096200379463081"
+        },
+        "instagramReel": {
+          "id": "17954809203227322"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "placeId": "ChIJI5DMg7mNpzER_AUE58P5avM",
+      "placeName": "Serenity Spa",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122185003313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17965404114160506"
+        }
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "placeId": "ChIJY5fODACNpzER4vgSD0OdNQA",
+      "placeName": "LUNA SPA- Body Massage, Foot Massage, Shampoo, Gội Đầu Dưỡng Sinh)(마사지, 발 마사지, 샴푸, 按摩, 洗頭,)",
+      "results": {
+        "facebookVideo": {
+          "id": "4592177641057724"
+        },
+        "instagramReel": {
+          "id": "18143183845562258"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "placeId": "ChIJKdP5te2LpzERTRIt6oGa_fM",
+      "placeName": "Golden Foot Massage Retreat Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122183755313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17942057070300493"
+        }
+      }
+    },
     {
       "date": "2026-09-01",
       "placeId": "ChIJpW9hndiNpzERaocRFppy0S4",
@@ -3016,186 +3196,6 @@
         },
         "instagramReel": {
           "id": "17944073643278464"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-16",
-      "placeId": "ChIJUVkYvMWNpzER68bYoIeQoq0",
-      "placeName": "Vựa hải sản nhà Su & Bee",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119546773313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18465778459112660"
-        }
-      }
-    },
-    {
-      "date": "2026-08-16",
-      "placeId": "ChIJxyir2P0fCDERr4lf9WU--CQ",
-      "placeName": "Mai Hương Beachfront",
-      "results": {
-        "facebookVideo": {
-          "id": "1590969562615665"
-        },
-        "instagramReel": {
-          "id": "17977804215116191"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-16",
-      "placeId": "ChIJFxJfXGiNpzER5oQGw5O9TkU",
-      "placeName": "Nhà hàng hải sản Thuận Kiều 2 - Fresh Seafood & Vietnamese Cuisine",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119545711313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18027786122850368"
-        }
-      }
-    },
-    {
-      "date": "2026-08-16",
-      "placeId": "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
-      "placeName": "Nhà hàng hải sản Xưa và Nay",
-      "results": {
-        "facebookVideo": {
-          "id": "2224704221704601"
-        },
-        "instagramReel": {
-          "id": "18127233934663063"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-16",
-      "placeId": "ChIJMwe2gsuXpzERYM-EJba18Po",
-      "placeName": "Ann Seafood",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119544547313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18146949787527286"
-        }
-      }
-    },
-    {
-      "date": "2026-08-16",
-      "placeId": "ChIJze_KNYiMpzERLa0Mfzg3-ZE",
-      "placeName": "Xin Chao seafood restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "991612060254778"
-        },
-        "instagramReel": {
-          "id": "18040995983819345"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-16",
-      "placeId": "ChIJ6ZS5Zl6MpzERb-qhkr9ofs4",
-      "placeName": "Phuong Hoang Seafood Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119543533313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18106919813335670"
-        }
-      }
-    },
-    {
-      "date": "2026-08-16",
-      "placeId": "ChIJwzDHWDqNpzER2tLsMth7CLM",
-      "placeName": "Bếp Biển",
-      "results": {
-        "facebookVideo": {
-          "id": "1048065684476619"
-        },
-        "instagramReel": {
-          "id": "18240630619312929"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-16",
-      "placeId": "ChIJKZFCSpiLpzERK3qFs9JUOEw",
-      "placeName": "Cà Phê Bàng",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119542501313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18166000258458584"
-        }
-      }
-    },
-    {
-      "date": "2026-08-15",
-      "placeId": "ChIJK0z_dgCNpzERiSVWSPMxaoc",
-      "placeName": "Chill Bar Đồi Trăng",
-      "results": {
-        "facebookVideo": {
-          "id": "922570027559447"
-        },
-        "instagramReel": {
-          "id": "18112404802949215"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-15",
-      "placeId": "ChIJGQTKYACNpzERLraBbcxD93w",
-      "placeName": "Soul Match - Matcha, Coffee & More",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119425837313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18011541422947229"
-        }
-      }
-    },
-    {
-      "date": "2026-08-15",
-      "placeId": "ChIJ90jXsf2TpzERk1THOzfOnoU",
-      "placeName": "Bãi 3 Cây Dừa (Three Coconus Tree Beach) Longbeach",
-      "results": {
-        "facebookVideo": {
-          "id": "1840901910607336"
-        },
-        "instagramReel": {
-          "id": "18130871803702240"
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not set"
