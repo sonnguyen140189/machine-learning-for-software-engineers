@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 80 reviews. Every single one talking about the same thing: how good they felt walking out.\n\nSerenity Spa on 1 Võ Thị Sáu hits different when you're mid-trip and your body is done with airport seats and beach walking.\n\nThis is where you fix that. Book ahead. It fills up.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch what a 4.8-rated spa looks like in real life. Serenity Spa, 1 Võ Thị Sáu, Phu Quoc. Your body will thank you for adding this to the itinerary.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #PhuQuocTips #VisitVietnam #TravelTips #VietnamTravel #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 80 reviews. Serenity Spa earns every one.\n\n1 Võ Thị Sáu. Book ahead. Tag your travel buddy.",
+    "video_caption": "Mid-trip burnout? Serenity Spa, 1 Võ Thị Sáu. 4.8 stars for a reason.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+  },
+  "tiktok": {
+    "caption": "4.8 stars and 80 people can't all be wrong. Serenity Spa, Phu Quoc. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8 stars. 80 reviews.",
+    "scenes": [
+      "Exterior sign: Serenity Spa, Võ Thị Sáu",
+      "Slow pan across treatment room",
+      "Therapist preparing oils, hands in focus",
+      "Guest relaxing face-down on table",
+      "Guest stepping out, visibly unwound"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

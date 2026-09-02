@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc will drain you. Sun, sand, motorbikes, market crowds. MiDu Foot & Body Massage on Đường Bạch Đằng is where you reset. 4.6 stars across 206 reviews. That score holds because the work is legit. Book an evening slot after the beach. Walk out a different person. Save this for your Phu Quoc trip.",
+    "video_caption": "Feet wrecked from a full day on the island. Hands that carried bags all morning. This is what MiDu Foot & Body Massage does to both. Watch the tension leave in real time. Đường Bạch Đằng, Khu 1.",
+    "first_comment": "#PhuQuoc #PhuQuocMassage #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc will drain you. MiDu Foot & Body Massage fixes that. 4.6★, 206 reviews. Đường Bạch Đằng, Khu 1. Save this.",
+    "video_caption": "Day 3 legs. Sun-cooked shoulders. MiDu Foot & Body Massage on Đường Bạch Đằng handles both. 4.6★ for a reason.",
+    "hashtags": "#PhuQuocMassage #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+  },
+  "tiktok": {
+    "caption": "Your legs after 3 days in Phu Quoc deserve this. MiDu Foot & Body Massage, Đường Bạch Đằng. 4.6★ 💆 #PhuQuoc #PhuQuocMassage #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Phu Quoc wrecked your body.",
+    "scenes": [
+      "Close-up: tired feet walking on hot pavement",
+      "Exterior shot: MiDu entrance on Đường Bạch Đằng",
+      "Hands pressing into foot pressure points",
+      "Client's face visibly relaxing",
+      "Review screen: 4.6★, 206 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

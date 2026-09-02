@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Fresh seafood on Trần Hưng Đạo for $15-30 a person? At Aloha Beach Bar, that's the whole deal. 4.7 stars across 2,088 reviews. Plates of grilled fish, cold drinks, feet in the sand. This is the move when you want real Phu Quoc food without the resort markup. Save this for your Phu Quoc trip.",
+    "video_caption": "Grilled seafood landing on the table at Aloha Beach Bar. $15-30 a head. 4.7 stars. 2,088 people already know. Now you do too.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "$15-30 for fresh seafood in Phu Quoc. Aloha Beach Bar. 4.7★, 2,088 reviews. Tag your travel buddy.",
+    "video_caption": "Seafood straight off the grill. $15-30 a head. Aloha Beach Bar delivers every time.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SeafoodLovers"
+  },
+  "tiktok": {
+    "caption": "Fresh grilled seafood in Phu Quoc for under $30. Aloha Beach Bar is legit. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "$30 seafood dinner in Phu Quoc??",
+    "scenes": [
+      "Pan across full table of grilled seafood",
+      "Close-up: whole fish, charred and steaming",
+      "Show the beachside setting, diners eating",
+      "Flash the 4.7 star rating on screen",
+      "Hands reaching in, pulling apart crab"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

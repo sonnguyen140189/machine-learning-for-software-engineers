@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book with the big resort desks. Locals point you to 379 Đường Trần Hưng Đạo instead. Red River Tours has been quietly running island trips that the polished booking counters don't want you to find. 4.1 stars across 363 reviews. That's not luck. Skip the lobby upsell. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what happens when you ditch the resort tour desk and walk into Red River Tours on Đường Trần Hưng Đạo. Real bookings. Real island access. 363 reviews don't lie.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #VietnamTravel #PhuQuocIsland"
+  },
+  "instagram": {
+    "caption": "Tourists use the resort desk. Locals use Red River Tours. 4.1 stars, 363 reviews, Đường Trần Hưng Đạo. Save this.",
+    "video_caption": "Skip the lobby upsell. Red River Tours on Đường Trần Hưng Đạo is where real Phu Quoc trips get booked.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "Resort desk = tourist tax. This is where locals actually book. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists don't know this agency.",
+    "scenes": [
+      "Street-level sign: 379 Đường Trần Hưng Đạo",
+      "Staff pulling up a tour map on screen",
+      "Close-up: 363 Google reviews loading",
+      "Boat departing, no resort branding in sight",
+      "Happy traveler giving thumbs up at dock"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

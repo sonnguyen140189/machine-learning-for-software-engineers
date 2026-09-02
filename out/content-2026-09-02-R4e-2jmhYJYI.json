@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists buy snacks at the resort. Locals shop here.\n\nThe day market on 49 Đường Ngô Quyền is where you grab fresh fruit, local sauces, and beach supplies without the markup. No English menus. No tourist pricing. Just real Phu Quoc, aisle by aisle.\n\nIf you're staying more than 2 nights, this saves you serious money. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what locals actually load into their baskets at 49 Đường Ngô Quyền. Fresh produce, local condiments, zero resort pricing. This is the Phu Quoc grocery run tourists skip.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this market. Locals don't.\n\n49 Đường Ngô Quyền, fresh produce, no markup. Tag your travel buddy.",
+    "video_caption": "Real Phu Quoc grocery run. No resort prices. Just locals, fresh food, and a 4.4★ market most tourists never find.",
+    "hashtags": "#PhuQuocTips #PhuQuocFood #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #LocalMarket"
+  },
+  "tiktok": {
+    "caption": "Skip the resort shop. Locals buy here. 49 Đường Ngô Quyền, Phu Quoc. 4.4★ and almost zero tourists. #PhuQuoc #PhuQuocTips #VietnamTravel #LocalMarket"
+  },
+  "video_script": {
+    "hook": "Locals don't tell tourists this.",
+    "scenes": [
+      "Exterior sign: 49 Đường Ngô Quyền",
+      "Stalls stacked with fresh tropical fruit",
+      "Local shoppers filling baskets",
+      "Close-up: local sauces and dry goods",
+      "Price tags, clearly cheaper than resorts"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

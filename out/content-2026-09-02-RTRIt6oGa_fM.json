@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the resort spa. Locals go to Golden Foot Massage Retreat Phú Quốc on Đường Chu Văn An.\n\n4.9 stars. 86 reviews. Almost no foreign faces.\n\nThis is the kind of place that doesn't need a sign-spinner outside. Word of mouth keeps it full. Show up, decompress, leave feeling like a different person.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Hands working out knots you forgot you had. Golden Foot Massage Retreat Phú Quốc, rated 4.9 by 86 people who mostly aren't tourists. Số 20 Đường Chu Văn An. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists miss this spa. 4.9 stars, 86 reviews, almost zero resort crowd. Golden Foot Massage Retreat Phú Quốc is the local pick.\n\nTag your travel buddy.",
+    "video_caption": "4.9 stars and tourists keep walking past it. Golden Foot Massage Retreat Phú Quốc. Now you know.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc #SpaDay"
+  },
+  "tiktok": {
+    "caption": "Locals' spa in Phu Quoc. 4.9 stars. Tourists never find it. Golden Foot Massage Retreat Phú Quốc #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this spa.",
+    "scenes": [
+      "Exterior shot: Số 20 Đường Chu Văn An sign",
+      "Door opens, calm interior revealed",
+      "Therapist pressing palms into foot arch",
+      "Close-up: 4.9 stars on phone screen",
+      "Guest exhales, eyes closed, fully relaxed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes a bad travel day.\n\nShisha Bar Phú Quốc on Đường Trần Hưng Đạo. Order a pipe, grab a seat, let the night slow down. 4.5 stars across 154 reviews says it's not just you who needed this. Budget around $15-30 a head. Worth every cent.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Coals glowing, smoke rising, Phu Quoc night unfolding in front of you. Shisha Bar Phú Quốc is the reset button your trip needed. Around $15-30 a person. 4.5 stars. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes a bad travel day. Shisha, good vibes, $15-30 a head. Shisha Bar Phú Quốc delivers every time.\n\nTag your travel buddy.",
+    "video_caption": "Smoke clouds, low lighting, zero stress. Shisha Bar Phú Quốc hits different at night. 4.5 stars. Find it on Đường Trần Hưng Đạo.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #NightlifeVibes"
+  },
+  "tiktok": {
+    "caption": "The reset button your Phu Quoc trip needs. Shisha Bar Phú Quốc. 4.5 stars, $15-30. #PhuQuoc #PhuQuocNightlife #TravelTips"
+  },
+  "video_script": {
+    "hook": "This fixes a bad travel day.",
+    "scenes": [
+      "Exterior sign lit up at night",
+      "Hands loading shisha coals close-up",
+      "Smoke curling toward open-air ceiling",
+      "Wide shot of guests relaxing, low light",
+      "Price graphic: $15-30 per person, 4.5 stars"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you ducked into a random café on Đường Trần Hưng Đạo and accidentally found your favorite spot in Phu Quoc.\n\nTarapaca Cafe. 4.7 stars. 740 reviews. Under $10 a person.\n\nThe kind of place you stop once and return to every morning after. Good coffee, real prices, no tourist markup.\n\n106A Đường Trần Hưng Đạo, Khu Phố 7.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "740 people rated Tarapaca Cafe 4.7 stars and somehow it still flies under the radar. Under $10. Every single time. 106A Đường Trần Hưng Đạo.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #VietnamCoffee"
+  },
+  "instagram": {
+    "caption": "Walked in by accident. Left a regular.\n\nTarapaca Cafe, 4.7★ across 740 reviews, under $10 a person.\n\nTag your travel buddy.",
+    "video_caption": "4.7 stars. 740 reviews. Under $10. Tarapaca Cafe earns every one.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeVietnam"
+  },
+  "tiktok": {
+    "caption": "Stumbled into Tarapaca Cafe and it reset my whole day. 4.7★, under $10. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: best café find in Phu Quoc",
+    "scenes": [
+      "Walk up to 106A Đường Trần Hưng Đạo entrance",
+      "Push open the door, step inside",
+      "Close shot: coffee being poured or plated",
+      "Pan across the interior, real customers visible",
+      "Phone screen shows 4.7★, 740 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you take a wrong turn in Duong Bao and end up at Beach House - The Beach Club instead.\n\n4.6 stars. 116 reviews. And somehow still feels like a local find.\n\nBeach bar vibes without the Phu Quoc tourist markup. Cold drink in hand, sand at your feet, crowd that actually knows what it's doing.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Sand underfoot, drink in hand, bar you almost never found. Beach House - The Beach Club in Duong Bao is exactly what your Phu Quoc afternoons should look like. 4.6 stars and worth every one.",
+    "first_comment": "#PhuQuoc #PhuQuocBeachBar #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel #BeachBar"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn in Duong Bao. Found Beach House - The Beach Club. 4.6 stars, 116 reviews, zero regrets.\n\nTag your travel buddy.",
+    "video_caption": "Wrong turn. Right beach bar. Beach House - The Beach Club hits different when you weren't even looking for it.",
+    "hashtags": "#PhuQuocBeachBar #PhuQuocTips #PhuQuocVibes #VietnamTravel #TravelTips #TravelReels #PhuQuocBars"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn and found this. Beach House - The Beach Club, Phu Quoc. 4.6 stars. Don't skip it. #PhuQuoc #PhuQuocTips #BeachBar #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Best mistake.",
+    "scenes": [
+      "Dusty road sign, Duong Bao area",
+      "Gate appears, beach bar beyond",
+      "Feet hit sand, wide shot of club",
+      "Cold drink poured at the bar",
+      "Crowd relaxing, golden light"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
