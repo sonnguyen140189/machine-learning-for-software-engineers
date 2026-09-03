@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you took a wrong turn in the jungle and ended up here.\n\nFairy Waterfall sits away from the beach crowds. 4.3 stars across 219 reviews. Most tourists never make it past the resorts.\n\nWear shoes you don't mind getting wet. Go early. The trail is worth every step.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Ducking under branches, hopping rocks, then THIS drops into frame. Fairy Waterfall doesn't care if you're ready. 4.3 stars. 219 reviews. Go find it.",
+    "first_comment": "#PhuQuoc #PhuQuocWaterfall #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn in the jungle. Found Fairy Waterfall. 4.3★, 219 reviews, zero regrets.\n\nTag your travel buddy.",
+    "video_caption": "Jungle trail. Wet rocks. Then this. Fairy Waterfall earns its 4.3 stars the hard way.",
+    "hashtags": "#PhuQuocWaterfall #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VietnamNature"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn. Found a waterfall. Worth it. #PhuQuoc #PhuQuocWaterfall #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Took a wrong turn. Found THIS.",
+    "scenes": [
+      "Boots stepping onto muddy jungle trail",
+      "Camera pushes through dense green canopy",
+      "Rocks and roots, slow careful footing",
+      "Sound of rushing water grows louder",
+      "Waterfall drops into frame, full reveal",
+      "Wide shot: visitor stands at the base"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

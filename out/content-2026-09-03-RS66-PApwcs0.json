@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10 for Bún Quậy Bạch Đằng. That's the whole meal. In Phu Quoc.\n\nBún Quậy is Phu Quoc's own noodle dish. Springy noodles, fresh seafood, rich broth. You dip, you stir, you finish the bowl faster than you planned.\n\n4.9 stars across 293 reviews. That number does the talking.\n\n📍 32A Đường Bạch Đằng, Phú Quốc\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the broth hit the bowl at Bún Quậy Bạch Đằng. Fresh seafood. Springy noodles. 4.9 stars. Under $10. This is what locals eat on a Tuesday in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BunQuay #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "Under $10 for THIS at Bún Quậy Bạch Đằng. 4.9★, 293 reviews, no hype needed.\n\nPhu Quoc's own noodle dish. Order it. Save this for your trip.",
+    "video_caption": "Springy noodles. Fresh seafood. $10 max. Bún Quậy Bạch Đằng is the move in Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #BunQuay #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Under $10 for a 4.9-star bowl in Phu Quoc. Bún Quậy Bạch Đằng is not a drill. #PhuQuoc #PhuQuocFood #VietnamEats #BunQuay"
+  },
+  "video_script": {
+    "hook": "Under $10. 4.9 stars. Phu Quoc.",
+    "scenes": [
+      "Close-up: broth poured over springy noodles",
+      "Hands stir the bowl, steam rising",
+      "Fresh shrimp and squid added to bowl",
+      "First spoonful lifted to camera",
+      "Restaurant packed with local diners",
+      "Bill arrives: under $10 on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

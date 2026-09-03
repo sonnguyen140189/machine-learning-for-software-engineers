@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "814 reviews. 4.6 stars. And most tourists walk right past it.\n\nVinwonders Fountain at Vinwonders Phu Quoc is one of those spots that earns its rating every single night. Lights, water, music, and a crowd that actually stays until the end.\n\nNot a backdrop. A full show.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the whole crowd stop moving the second the fountain starts. 4.6 stars from 814 people. Vinwonders Fountain delivers every time. Plan around this one.",
+    "first_comment": "#PhuQuoc #PhuQuocThingsToDo #VinwondersPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "814 reviews. 4.6 stars. Vinwonders Fountain hits different at night.\n\nTag your travel buddy.",
+    "video_caption": "Lights fire up. Crowd freezes. 4.6 stars. Vinwonders Fountain earns every one.",
+    "hashtags": "#PhuQuocTips #PhuQuocThingsToDo #VinwondersPhuQuoc #PhuQuocVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocNightlife"
+  },
+  "tiktok": {
+    "caption": "814 reviews don't lie. Vinwonders Fountain goes OFF at night. #PhuQuoc #VinwondersPhuQuoc #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "814 reviews. See why.",
+    "scenes": [
+      "Wide shot: fountain plaza before show starts",
+      "Crowd filling in, phones raised",
+      "First water jets launch with music beat",
+      "Color lights sweep across the water",
+      "Crowd reaction, close-up faces"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

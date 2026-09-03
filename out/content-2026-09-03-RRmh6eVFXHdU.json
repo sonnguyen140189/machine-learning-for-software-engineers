@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "Walked past the resort strip. Found Duong Dong Lake instead. Sports activities right on the water, locals actually using it, zero resort markup on the vibe. This is Phu Quoc before the polished version showed up. 4.1 stars, 64 reviews, and most tourists drive straight past it. Save this for your Phu Quoc trip.",
+    "video_caption": "Paddle out, look back at the shore. No beach clubs. No sunbeds. Just Duong Dong Lake doing its thing while the tourist trail runs the other direction.",
+    "first_comment": "#PhuQuoc #PhuQuocActivities #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn off the main strip. Found Duong Dong Lake. Sports on the water, zero crowds. Tag your travel buddy.",
+    "video_caption": "Locals on the water. Tourists on the beach road. Duong Dong Lake exists and most people walk right past it.",
+    "hashtags": "#PhuQuocActivities #PhuQuocLake #DuongDong #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Wrong turn. Right place. Duong Dong Lake hits different when you find it by accident. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Found this.",
+    "scenes": [
+      "Wide shot: lake surface, calm water",
+      "Pan: locals playing sports lakeside",
+      "Close: ripples from activity on water",
+      "Pull back: town skyline behind the lake",
+      "Cut: empty path along the water's edge"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

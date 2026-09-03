@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This beach fixes something in you. Bãi 3 Cây Dừa sits right on Long Beach, named for three coconut trees that somehow survived the whole resort boom. No crowds at the right hour. Just sand, water, and those trees framing the horizon. Phu Quoc doesn't always slow you down. This spot does. Save this for your Phu Quoc trip.",
+    "video_caption": "Three coconut trees. One long stretch of beach. Zero reasons to rush. Bãi 3 Cây Dừa on Long Beach is the reset button Phu Quoc actually needed. Go early. Stay longer than planned.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #LongBeachPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "This beach slows your brain down. Bãi 3 Cây Dừa, Long Beach. Go early, stay long. Tag your travel buddy.",
+    "video_caption": "Three trees. Empty sand. The version of Phu Quoc you actually came for. Bãi 3 Cây Dừa.",
+    "hashtags": "#PhuQuocBeach #LongBeachPhuQuoc #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #BeachVibes"
+  },
+  "tiktok": {
+    "caption": "The beach that actually slows you down. Bãi 3 Cây Dừa, Long Beach Phu Quoc. Go early. #PhuQuoc #PhuQuocBeach #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This beach fixes burnout.",
+    "scenes": [
+      "Wide shot: three palms against open sky",
+      "Slow pan down empty shoreline",
+      "Feet in wet sand, no crowds behind",
+      "Close-up: coconut trees reflected in water",
+      "Sunset light hitting the beach, golden"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

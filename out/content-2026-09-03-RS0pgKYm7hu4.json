@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. Khu du lịch Suối Tranh sits inland while everyone crowds the beaches. Real jungle trails. A natural stream cutting through the forest. 4.3 stars from 215 people who actually made the detour. Skip the resort pool for one afternoon. You'll get it. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the water move through the rocks at Khu du lịch Suối Tranh. Jungle, stream, zero crowds. While the beaches are packed, this is what inland Phu Quoc actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocHiking #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #VietnamNature"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Khu du lịch Suối Tranh. Jungle trails, natural stream, 4.3 stars. Inland Phu Quoc hits different. Save this.",
+    "video_caption": "Stream through the jungle at Khu du lịch Suối Tranh. No crowds, no resort prices. Just Phu Quoc raw.",
+    "hashtags": "#PhuQuocHiking #PhuQuocNature #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #NatureVietnam"
+  },
+  "tiktok": {
+    "caption": "Nobody talks about Khu du lịch Suối Tranh. Jungle trails + natural stream on Phu Quoc island. 4.3 stars. Go. #PhuQuoc #PhuQuocHiking #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Drone pull-back over jungle canopy",
+      "Boots stepping onto trail head",
+      "Stream water rushing over flat rocks",
+      "Hiker wading through shallow creek",
+      "Looking up through tree cover, sunlight breaks"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,105 reviews. 4.2 stars. And most tourists never leave the beach to see it.\n\nPhu Quoc National Park is a UNESCO Biosphere Reserve covering the majority of the island. Evergreen forest, rare wildlife, unique marine species. The real Phu Quoc is in here.\n\nBeach days are great. This is the other side of the island worth half a day of your trip.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walking into Phu Quoc National Park while everyone else queues for a sun lounger. UNESCO Biosphere Reserve. 1,105 reviews. Most visitors never make it here. Worth every minute.",
+    "first_comment": "#PhuQuoc #PhuQuocNationalPark #VisitVietnam #TravelTips #VietnamTravel #ThingsToDoPhuQuoc #PhuQuocIsland"
+  },
+  "instagram": {
+    "caption": "4.2 stars. 1,105 reviews. Most Phu Quoc visitors never step inside.\n\nUNESCO Biosphere Reserve. Real forest. Rare species. Save this.",
+    "video_caption": "Phu Quoc has a national park. 1,105 people rated it. Tourists keep skipping it. Don't.",
+    "hashtags": "#PhuQuocNationalPark #PhuQuocIsland #VietnamTravel #TravelTips #ThingsToDoPhuQuoc #TravelReels #PhuQuocTips #VisitVietnam #NatureTravel"
+  },
+  "tiktok": {
+    "caption": "1,105 reviews and tourists still sleep on this. UNESCO forest in Phu Quoc hits different. #PhuQuoc #PhuQuocNationalPark #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "1,105 reviews. Still empty.",
+    "scenes": [
+      "Drone pulls back over dense forest canopy",
+      "Boots hit a forest trail, leaves crunch",
+      "Camera tilts up through towering evergreen trees",
+      "Close-up: rare bird perched on a branch",
+      "Wide shot: no crowds, pure jungle silence"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

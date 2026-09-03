@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Tiên Sơn Đỉnh sits above the noise of Phu Quoc with views that stop your scroll in real life. 4.8 stars across 426 reviews. People keep coming back. The kind of spot where you sit down for 20 minutes and lose an hour. No crowds. No poolside DJ. Just the island from above. Save this for your Phu Quoc trip.",
+    "video_caption": "Camera pans up. Trees drop away. Phu Quoc opens below you. This is Tiên Sơn Đỉnh and 426 people gave it 4.8 stars for a reason. Get up here.",
+    "first_comment": "#PhuQuoc #PhuQuocAttractions #VisitVietnam #TravelTips #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Tiên Sơn Đỉnh, 4.8★, 426 reviews. Phu Quoc from above. Tag your travel buddy.",
+    "video_caption": "Phu Quoc from the top. Tiên Sơn Đỉnh hits different when the island opens up below you.",
+    "hashtags": "#PhuQuocTips #PhuQuocAttractions #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc from above and the burnout is gone. Tiên Sơn Đỉnh 4.8★ #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Boots step onto a hill path",
+      "Trees part, sky fills frame",
+      "Island coastline spreads below",
+      "Slow pan across rooftops and sea",
+      "Rating card: 4.8★ 426 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

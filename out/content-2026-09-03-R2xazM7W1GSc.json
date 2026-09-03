@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "365 reviews. 4.5 stars. And this beach bar still flies under the radar.\n\nThom Beach Bar on Phu Quoc delivers cold drinks, sand between your toes, and zero pretension. No velvet ropes. No overpriced cocktail menus with QR codes. Just a solid spot that real travelers keep rating up.\n\n365 people can't be wrong. Save this for your Phu Quoc trip.",
+    "video_caption": "Sand, cold drinks, 4.5 stars. Thom Beach Bar keeps showing up on every honest Phu Quoc list. Watch why 365 reviewers keep coming back to this one.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "365 reviews. 4.5 stars. Thom Beach Bar still surprises people.\n\nSand, drinks, no fuss. Tag your travel buddy.",
+    "video_caption": "Cold drink in hand. Sand underfoot. 4.5 stars for a reason. Thom Beach Bar, Phu Quoc.",
+    "hashtags": "#PhuQuocBeach #PhuQuocBar #PhuQuocTips #BeachBar #VietnamTravel #TravelTips #TravelReels"
+  },
+  "tiktok": {
+    "caption": "365 reviews and 4.5 stars. Thom Beach Bar hits different. #PhuQuoc #PhuQuocBeach #BeachBar #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "365 reviews. 4.5 stars.",
+    "scenes": [
+      "Wide shot: beach bar from the water's edge",
+      "Close-up: cold drink condensation on glass",
+      "Pan across sand to empty bar stools",
+      "Review screen: 4.5 stars, 365 ratings",
+      "Slow zoom: waves behind the bar"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

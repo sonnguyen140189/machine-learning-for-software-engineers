@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes something in you.\n\nDinh Cậu sits right at the edge of the water. A small shrine to the sea goddess, a blue-and-white lighthouse behind it, fishing boats drifting past. No entrance fee. No crowds at sunrise.\n\nLocals come here to pray before heading out to sea. You come here and suddenly the trip slows down.\n\n4.5 stars across 3,663 reviews. Go at golden hour. Stay longer than you planned.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the fishing boats drift past Dinh Cậu as the sky turns orange. Lighthouse behind you. Sea in front. This is the Phu Quoc moment most tourists rush past.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #PhuQuocSunset #VisitVietnam #TravelVietnam"
+  },
+  "instagram": {
+    "caption": "This place fixes something in you.\n\nDinh Cậu. Shrine, lighthouse, harbor views. Free. Go at golden hour.\n\nTag your travel buddy.",
+    "video_caption": "Fishing boats, sea goddess shrine, a striped lighthouse. Dinh Cậu at golden hour hits different. Free entry. Go.",
+    "hashtags": "#PhuQuocSunset #PhuQuocTemple #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc moment that actually slows you down. Dinh Cậu at golden hour. Free. Go. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: shrine at water's edge",
+      "Pan up: blue-white lighthouse",
+      "Fishing boats passing the harbor",
+      "Locals praying at the shrine",
+      "Sky turning orange behind the lighthouse",
+      "Static wide: full golden hour scene"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

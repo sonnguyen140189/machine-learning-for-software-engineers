@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "501 reviews. 4.1 stars. And most tourists still walk straight past Suối Đá Bàn.\n\nThis eco-resort sits around natural stone-slab streams deep in Phu Quoc's interior. No beach clubs. No pool bars. Just water, rock, and actual shade.\n\nIf your Phu Quoc itinerary is all coast, this is the reset button.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Stone streams, jungle canopy, zero crowds. Suối Đá Bàn is the Phu Quoc inland spot with 501 reviews most visitors never find. Worth the detour.",
+    "first_comment": "#PhuQuoc #PhuQuocNature #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "501 reviews. Still empty when you arrive. Suối Đá Bàn is Phu Quoc's inland reset.\n\nTag your travel buddy.",
+    "video_caption": "Stone slabs. Jungle streams. 4.1 stars and no queue. Suối Đá Bàn hits different mid-trip.",
+    "hashtags": "#PhuQuocNature #PhuQuocTips #SuoiDaBan #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "501 people rated this. Still no crowds. Suối Đá Bàn is Phu Quoc's inland secret. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "501 reviews. Zero crowds.",
+    "scenes": [
+      "Drone pulls back over jungle canopy",
+      "Feet stepping across flat stone slabs",
+      "Stream water rushing over rocks, close-up",
+      "Wide shot: empty natural pool, sunlight through trees",
+      "Hand trails through shallow stream water"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "582 reviews. 4.0 stars. And most tourists drive straight past Suoi Tranh Waterfall on the way to the beach.\n\nThis is Phu Quoc's jungle reset. Cool water, forest trails, and zero resort pricing at the gate.\n\nIf your itinerary is all sand and sunsets, add one morning here. Your body will thank you.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Water hits different when it's a waterfall in the jungle. Suoi Tranh is 582 reviews deep and still flying under the radar. Add it to the list.",
+    "first_comment": "#PhuQuoc #PhuQuocNature #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "582 reviews. Suoi Tranh Waterfall still isn't on most itineraries.\nOne morning here changes that. Save this.",
+    "video_caption": "Jungle trails. Cold water. 582 people rated it and tourists still skip it. Don't.",
+    "hashtags": "#PhuQuocNature #PhuQuocTips #SuoiTranh #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "582 reviews and still empty when you show up. Suoi Tranh hits. #PhuQuoc #PhuQuocNature #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "582 reviews. Still empty.",
+    "scenes": [
+      "Drone pull-back over jungle canopy",
+      "Boots stepping onto rocky trail",
+      "Waterfall drops into clear pool",
+      "Hands touching cool rushing water",
+      "Wide shot: no crowds, just trees"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
