@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stopped scrolling tour brochures and just booked PHƯƠNG NHI TOUR.\n\nIsland hopping. Fishing on open water. No big-bus crowds. This is a small operation, and that's exactly the point.\n\n4.8 stars from 56 reviews. People come back. That says enough.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the boat leave the dock at PHƯƠNG NHI TOUR. Islands ahead, fishing lines ready, zero resort energy. 4.8 stars for a reason. Book the small tour. Skip the crowd.",
+    "first_comment": "#PhuQuoc #PhuQuocTour #IslandHopping #VisitVietnam #TravelTips #PhuQuocIsland #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: you picked the 4.8-star boat tour, not the packed party catamaran.\n\nPHƯƠNG NHI TOUR. Island trips, fishing, small group. Save this.",
+    "video_caption": "Fishing line hits the water. Islands on the horizon. PHƯƠNG NHI TOUR delivers. Tag your travel buddy.",
+    "hashtags": "#PhuQuocTour #PhuQuocIsland #PhuQuocTips #IslandHopping #VietnamTravel #TravelTips #TravelReels #PhuQuocFishing"
+  },
+  "tiktok": {
+    "caption": "POV: found the right boat tour in Phu Quoc. 4.8 stars. Small group. Real fishing. #PhuQuocTour #PhuQuoc #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found the right boat",
+    "scenes": [
+      "Boat departing dock at sunrise",
+      "Open ocean, no other boats visible",
+      "Fishing lines cast over the side",
+      "Island shoreline coming into view",
+      "Close-up: fresh catch on deck",
+      "Crew smiling, small group vibes"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

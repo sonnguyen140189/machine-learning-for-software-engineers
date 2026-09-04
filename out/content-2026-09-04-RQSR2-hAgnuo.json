@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you booked Khem Beach and didn't realise it came with this.\n\nNew World Phu Quoc Resort sits right on Khem Beach, one of the cleanest stretches of sand on the island. 4.7 stars across 5,690 reviews. That number doesn't lie.\n\nThe kind of resort that makes you push your flight back a day. Save this for your Phu Quoc trip.",
+    "video_caption": "Khem Beach through the lens of New World Phu Quoc Resort. 4.7 stars. 5,690 reviews. Watch the water and tell me you're not rebooking your itinerary right now.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #KhemBeach #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: you picked Khem Beach and the resort looks like THIS.\n\nNew World Phu Quoc Resort. 4.7★, 5,690 reviews. Tag your travel buddy.",
+    "video_caption": "Khem Beach. New World Phu Quoc Resort. 4.7 stars. Your next trip is writing itself.",
+    "hashtags": "#PhuQuocResort #KhemBeach #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Booked Khem Beach. Ended up here. 4.7★ resort life just hits different. #PhuQuoc #PhuQuocResort #KhemBeach #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: Khem Beach chose you.",
+    "scenes": [
+      "Aerial pan over Khem Beach shoreline",
+      "Resort entrance reveal, wide shot",
+      "Pool overlooking beach, water rippling",
+      "Close-up: 4.7★ and 5,690 reviews on screen",
+      "Guest walking barefoot to the water"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Expats in Phu Quoc skip the big resort strips. They book Seashells Phu Quoc Hotel & Spa. Private beach access, free breakfast, a full spa, and a pool, all at 01 Võ Thị Sáu in the heart of Dương Đông. 4.4 stars across 2,875 reviews. That's not luck, that's consistency. Save this for your Phu Quoc trip.",
+    "video_caption": "Pool, private beach, breakfast included. Seashells Phu Quoc Hotel & Spa is doing a lot of things right. 4.4 stars, 2,875 reviews, central Dương Đông location. Your shortlist just updated.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #VisitVietnam #TravelTips #PhuQuocResort"
+  },
+  "instagram": {
+    "caption": "Expats in Phu Quoc aren't staying on the resort strip. Seashells Phu Quoc Hotel & Spa. Private beach. Free breakfast. Spa. 4.4★ from 2,875 reviews. Save this.",
+    "video_caption": "Private beach. Pool. Breakfast included. Seashells Phu Quoc Hotel & Spa. 4.4★ and it shows.",
+    "hashtags": "#PhuQuocHotels #PhuQuocBeach #PhuQuocTips #VisitVietnam #VietnamTravel #TravelTips #TravelReels"
+  },
+  "tiktok": {
+    "caption": "Not the resort strip. Seashells Phu Quoc Hotel & Spa. Private beach, free breakfast, 4.4★. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals skip the resort strip.",
+    "scenes": [
+      "Drone pull-back: pool meets private beach",
+      "Breakfast spread, wide table shot",
+      "Spa treatment room, low light",
+      "Room reveal: balcony, ocean angle",
+      "4.4★ review count animates on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

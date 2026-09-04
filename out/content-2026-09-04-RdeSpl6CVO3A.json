@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists stick to the main strip. Locals drink here.\n\nPassion Pub & Sports Bar in Cửa Lấp is pulling a 4.8 from 350 reviews and barely anyone talks about it. Cold drinks, big screens, good crowd. $15-30 a person all in.\n\nNot every night in Phu Quoc needs to be a beach club. Save this for your Phu Quoc trip.",
+    "video_caption": "Cold beer. Big game on screen. 4.8 stars. Passion Pub & Sports Bar in Cửa Lấp is the bar locals actually go to. $15-30 covers your whole night. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBars #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep missing this bar. 4.8 stars, 350 reviews, barely on the radar.\n\nPassion Pub & Sports Bar, Cửa Lấp. Save this.",
+    "video_caption": "4.8 stars in Cửa Lấp. Locals already know. Now you do too. Passion Pub & Sports Bar.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocLife"
+  },
+  "tiktok": {
+    "caption": "The bar locals go to in Phu Quoc. 4.8 stars. Nobody talks about it. #PhuQuoc #PhuQuocBars #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this bar.",
+    "scenes": [
+      "Exterior sign: Passion Pub lit up at night",
+      "Wide shot: packed crowd, screens glowing",
+      "Close-up: cold beer poured, condensation dripping",
+      "Scoreboard on screen, crowd reacts",
+      "Two people clinking glasses, smiling"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

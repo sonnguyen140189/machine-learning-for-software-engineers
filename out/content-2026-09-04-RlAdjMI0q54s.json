@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Some days you need to put the phone down and just paddle. Kayaking Dynasty gives you that. Open water, your own pace, zero itinerary pressure. Phu Quoc from the water hits completely different. 4.4 stars across 52 reviews. Save this for your Phu Quoc trip.",
+    "video_caption": "Paddles hitting the water. Coastline in front of you. No tour group. No timeline. This is Kayaking Dynasty, Phú Quốc, and it quietly resets your whole trip.",
+    "first_comment": "#PhuQuoc #PhuQuocActivities #KayakingVietnam #VisitVietnam #VietnamTravel #ThingsToDoPhuQuoc #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that slows everything down. Kayaking Dynasty. 4.4 stars, 52 reviews. Tag your travel buddy.",
+    "video_caption": "Coast ahead. Paddle in hand. Kayaking Dynasty delivers the reset you didn't know you needed.",
+    "hashtags": "#PhuQuocActivities #PhuQuocTravel #KayakingVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "The moment Phu Quoc finally slows down. Kayaking Dynasty did this. #PhuQuoc #PhuQuocActivities #VietnamTravel #KayakingVietnam"
+  },
+  "video_script": {
+    "hook": "Phu Quoc fixes burnout.",
+    "scenes": [
+      "Kayak gliding onto calm open water",
+      "Paddler looking out at empty coastline",
+      "Close shot: paddle breaks the surface",
+      "Wide aerial: one kayak, vast blue water",
+      "Paddler pauses, breathes, just sits"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

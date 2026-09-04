@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists rent the big party boats. Locals book a private canoe and actually catch fish.\n\nThuê cano riêng -FISHING TOUR runs private boat trips out of Phú Quốc, and the 5-star rating across every review says the skipper knows exactly where to go. No crowd. No script. Just you, the water, and whatever's biting.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Private canoe. Open ocean. Zero other tourists on board. This is how locals fish in Phú Quốc, and the boats at Thuê cano riêng -FISHING TOUR still have open slots. Book before they don't.",
+    "first_comment": "#PhuQuoc #PhuQuocFishing #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't rent the party boats. They book a private canoe.\n\nThuê cano riêng -FISHING TOUR. 5.0★. No crowd. Tag your travel buddy.",
+    "video_caption": "Private boat. Real fishing. Zero tourist groups. Thuê cano riêng -FISHING TOUR hits different. 5.0★ every review.",
+    "hashtags": "#PhuQuocFishing #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Skip the party boats. Book a private canoe instead. #PhuQuoc #PhuQuocFishing #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't take the big boats.",
+    "scenes": [
+      "Canoe leaving dock at sunrise",
+      "Skipper prepping fishing lines",
+      "Open water, no other boats visible",
+      "First catch pulled over the side",
+      "Guest holds fish up, laughing"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
