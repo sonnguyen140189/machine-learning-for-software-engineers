@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJkcMAuZCNpzERRQmhoqfUVYk",
+    "ChIJ0cqxY2ySpzERo9J49pxmTgY",
+    "ChIJyVg7uFmMpzER8oO_9EVvcbg",
+    "ChIJy5uCwXCXpzERQSR2-hAgnuo",
+    "ChIJxfXY0YeMpzERVIRnrvcuBKE",
+    "ChIJQ4JcfECSpzER9dUT9AlYDJk",
+    "ChIJt7t-rLAfCDER9qvpDQ-ks6M",
+    "ChIJaV6sC_KLpzERlAdjMI0q54s",
+    "ChIJqfezlgAfCDERaYwzQEp_Rkc",
+    "ChIJCcDXjO2NpzERpuULcuYBz_U",
+    "ChIJSVVo1BORpzERFyzoL0kEyZE",
+    "ChIJTd2mCvyNpzERdeSpl6CVO3A",
     "ChIJqWvgD-yNpzERS66-PApwcs0",
     "ChIJ90jXsf2TpzERk1THOzfOnoU",
     "ChIJBzbuPzwkCDER2xazM7W1GSc",
@@ -187,21 +199,189 @@
     "ChIJ06-yPMWNpzERvRqJgvDuNe8",
     "ChIJZaB-ewCNpzERPBRid0eSO98",
     "ChIJw9DS5DofCDERIiLSz3fmVKY",
-    "ChIJ4b-mBReLpzERO-pqk4mlARM",
-    "ChIJG95PVOeNpzERkFIrScFenIo",
-    "ChIJf3chCACNpzER9HKozVLUOpA",
-    "ChIJYREw3iyNpzER4MEeLlm9Ju4",
-    "ChIJOS1SBvaNpzER_8gRpU5tGKI",
-    "ChIJlehMyBUfCDERDSqZ_aeChQA",
-    "ChIJj3KLVmuNpzERRcxS6PIioiI",
-    "ChIJMSfrfEqNpzER9_6_sLzv_nk",
-    "ChIJR4_RrzuVpzERTNZI9HaezLk",
-    "ChIJh-NscYeMpzER9zBF1Ddrbo0",
-    "ChIJEzRJ34iLpzEReKo1k_nV9NU",
-    "ChIJM3vkNgCLpzERTVQY_pwHtWM",
-    "ChIJ73vtGACNpzERggOwt0eOKmI"
+    "ChIJ4b-mBReLpzERO-pqk4mlARM"
   ],
   "history": [
+    {
+      "date": "2026-09-04",
+      "placeId": "ChIJkcMAuZCNpzERRQmhoqfUVYk",
+      "placeName": "Salinda Resort Phu Quoc Island",
+      "results": {
+        "facebookVideo": {
+          "id": "1085018167314624"
+        },
+        "instagramReel": {
+          "id": "18097938908569252"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "placeId": "ChIJ0cqxY2ySpzERo9J49pxmTgY",
+      "placeName": "Pullman Phu Quoc Beach Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122389777313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17894988861669303"
+        }
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "placeId": "ChIJyVg7uFmMpzER8oO_9EVvcbg",
+      "placeName": "La Veranda Resort Phu Quoc - MGallery Collection",
+      "results": {
+        "facebookVideo": {
+          "id": "1991600011547557"
+        },
+        "instagramReel": {
+          "id": "17873075826576640"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "placeId": "ChIJy5uCwXCXpzERQSR2-hAgnuo",
+      "placeName": "New World Phu Quoc Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122388661313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17915948364245719"
+        }
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "placeId": "ChIJxfXY0YeMpzERVIRnrvcuBKE",
+      "placeName": "Seashells Phu Quoc Hotel & Spa",
+      "results": {
+        "facebookVideo": {
+          "id": "919421594160410"
+        },
+        "instagramReel": {
+          "id": "18092157749380754"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "placeId": "ChIJQ4JcfECSpzER9dUT9AlYDJk",
+      "placeName": "InterContinental Phu Quoc Long Beach Resort by IHG",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122387455313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18627410437058081"
+        }
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "placeId": "ChIJt7t-rLAfCDER9qvpDQ-ks6M",
+      "placeName": "Ngoc Hien Treasure",
+      "results": {
+        "facebookVideo": {
+          "id": "943219861503287"
+        },
+        "instagramReel": {
+          "id": "17945347617337132"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "placeId": "ChIJaV6sC_KLpzERlAdjMI0q54s",
+      "placeName": "Kayaking Dynasty",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122386135313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18126811801784309"
+        }
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "placeId": "ChIJqfezlgAfCDERaYwzQEp_Rkc",
+      "placeName": "ALOHA88 - Kayak & Snorkeling club",
+      "results": {
+        "facebookVideo": {
+          "id": "4626571560997248"
+        },
+        "instagramReel": {
+          "id": "18415195759159815"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "placeId": "ChIJCcDXjO2NpzERpuULcuYBz_U",
+      "placeName": "Thuê cano riêng -FISHING TOUR",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122385121313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17930342862144085"
+        }
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "placeId": "ChIJSVVo1BORpzERFyzoL0kEyZE",
+      "placeName": "PHƯƠNG NHI TOUR – Island & Fishing Tour",
+      "results": {
+        "facebookVideo": {
+          "id": "1824807355599392"
+        },
+        "instagramReel": {
+          "id": "18101227010249142"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "placeId": "ChIJTd2mCvyNpzERdeSpl6CVO3A",
+      "placeName": "Passion Pub & Sports Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122384083313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17938475973363852"
+        }
+      }
+    },
     {
       "date": "2026-09-03",
       "placeId": "ChIJqWvgD-yNpzERS66-PApwcs0",
@@ -3016,186 +3196,6 @@
         },
         "instagramReel": {
           "id": "18469326340114034"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "placeId": "ChIJG95PVOeNpzERkFIrScFenIo",
-      "placeName": "Sen River Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119780857313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18612189370033377"
-        }
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "placeId": "ChIJf3chCACNpzER9HKozVLUOpA",
-      "placeName": "Desi Indian Restaurant (Pure Veg)",
-      "results": {
-        "facebookVideo": {
-          "id": "1343951847767436"
-        },
-        "instagramReel": {
-          "id": "18188176060395722"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "placeId": "ChIJYREw3iyNpzER4MEeLlm9Ju4",
-      "placeName": "Nhà hàng Chay Minh Tâm",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119779849313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18213671983342870"
-        }
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "placeId": "ChIJOS1SBvaNpzER_8gRpU5tGKI",
-      "placeName": "Nora’s Cafe - Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1034692912736679"
-        },
-        "instagramReel": {
-          "id": "17977660703900626"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "placeId": "ChIJlehMyBUfCDERDSqZ_aeChQA",
-      "placeName": "Lam Vegan - Tiệm Chay Lam",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119778793313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17896770786592478"
-        }
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "placeId": "ChIJj3KLVmuNpzERRcxS6PIioiI",
-      "placeName": "RASOI INDIAN PURE VEGETARIAN RESTAURANT",
-      "results": {
-        "facebookVideo": {
-          "id": "1044502725058500"
-        },
-        "instagramReel": {
-          "id": "18134665567722844"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "placeId": "ChIJMSfrfEqNpzER9_6_sLzv_nk",
-      "placeName": "Maharaja Lounge - Authentic Indian 100% Veg Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119777659313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18118837010293599"
-        }
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "placeId": "ChIJR4_RrzuVpzERTNZI9HaezLk",
-      "placeName": "Maharaja Lounge - 100% Pure Veg Authentic Indian Restaurant Sunset Town",
-      "results": {
-        "facebookVideo": {
-          "id": "1526715602077331"
-        },
-        "instagramReel": {
-          "id": "17983210593117049"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "placeId": "ChIJh-NscYeMpzER9zBF1Ddrbo0",
-      "placeName": "Khánh Ly Vegetarian Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119776561313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18025813685883627"
-        }
-      }
-    },
-    {
-      "date": "2026-08-17",
-      "placeId": "ChIJEzRJ34iLpzEReKo1k_nV9NU",
-      "placeName": "Cung Điện Hải Vương",
-      "results": {
-        "facebookVideo": {
-          "id": "1374514607453780"
-        },
-        "instagramReel": {
-          "id": "18404606548082967"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-17",
-      "placeId": "ChIJM3vkNgCLpzERTVQY_pwHtWM",
-      "placeName": "Kỳ Long Wok Hei",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119669281313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18109472558109926"
-        }
-      }
-    },
-    {
-      "date": "2026-08-17",
-      "placeId": "ChIJ73vtGACNpzERggOwt0eOKmI",
-      "placeName": "Diner PHU QUOC BEER'n BURGERS BREAKFAST LUNCH DINNER",
-      "results": {
-        "facebookVideo": {
-          "id": "1372724624288844"
-        },
-        "instagramReel": {
-          "id": "18216547372339542"
         },
         "tiktok": {
           "error": "TIKTOK_ACCESS_TOKEN not set"
