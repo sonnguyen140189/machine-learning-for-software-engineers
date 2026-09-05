@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJOS1SBvaNpzER_8gRpU5tGKI",
+    "ChIJW0SI6z2NpzERKixqsVMmIkI",
+    "ChIJszMWeMWNpzERVX7Za7lyBuw",
+    "ChIJF9qetGKMpzER2yzXvft5qgg",
+    "ChIJ8zUfc5iXpzERSSpBZR01y2c",
+    "ChIJb94_UYaMpzERLROoXapH5lI",
+    "ChIJR8uGGm2TpzERCyP0dgpgLX0",
+    "ChIJbWwp_zj1pzERg-_J_57c0UA",
+    "ChIJEzRJ34iLpzEReKo1k_nV9NU",
+    "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
+    "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
+    "ChIJ2bp76JUfCDER2BAKZAkG66c",
     "ChIJkcMAuZCNpzERRQmhoqfUVYk",
     "ChIJ0cqxY2ySpzERo9J49pxmTgY",
     "ChIJyVg7uFmMpzER8oO_9EVvcbg",
@@ -187,21 +199,189 @@
     "ChIJbUZGsQEfCDERXgX4I2SUCsI",
     "ChIJofwmL4GLpzERIyBu_Nb2Gso",
     "ChIJ44qAJhSLpzERXmrw41RYzJA",
-    "ChIJH58ibXKSpzERN59OMqttOUY",
-    "ChIJP7RtuhCNpzERvL0Oo4z8-Hk",
-    "ChIJNzL9GqEfCDERTQfv5j5Deik",
-    "ChIJjwG2SAAfCDERd7JcFN0UNTw",
-    "ChIJgwI3D_8fCDERzTBdqPmUa9M",
-    "ChIJ-RvbtGiNpzER2H1IufKqjGc",
-    "ChIJkX-ZsFiTpzER9TM2r77QY5g",
-    "ChIJe_vjTACNpzERrvGoA9qvlAU",
-    "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
-    "ChIJ06-yPMWNpzERvRqJgvDuNe8",
-    "ChIJZaB-ewCNpzERPBRid0eSO98",
-    "ChIJw9DS5DofCDERIiLSz3fmVKY",
-    "ChIJ4b-mBReLpzERO-pqk4mlARM"
+    "ChIJH58ibXKSpzERN59OMqttOUY"
   ],
   "history": [
+    {
+      "date": "2026-09-05",
+      "placeId": "ChIJOS1SBvaNpzER_8gRpU5tGKI",
+      "placeName": "Nora’s Cafe - Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "1082098811138854"
+        },
+        "instagramReel": {
+          "id": "18119477086916985"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "placeId": "ChIJW0SI6z2NpzERKixqsVMmIkI",
+      "placeName": "Bagels 'n Eggs",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122505895313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18092841929110873"
+        }
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "placeId": "ChIJszMWeMWNpzERVX7Za7lyBuw",
+      "placeName": "La Place coffee and eatery Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1600861961427768"
+        },
+        "instagramReel": {
+          "id": "18443927092123751"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "placeId": "ChIJF9qetGKMpzER2yzXvft5qgg",
+      "placeName": "Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122504917313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18127800136875109"
+        }
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "placeId": "ChIJ8zUfc5iXpzERSSpBZR01y2c",
+      "placeName": "Phu Quoc Prison History Museum",
+      "results": {
+        "facebookVideo": {
+          "id": "1794722068524183"
+        },
+        "instagramReel": {
+          "id": "18097259867564243"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "placeId": "ChIJb94_UYaMpzERLROoXapH5lI",
+      "placeName": "Dinh Bà Thủy Long Thánh Mẫu",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122503975313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18017363954922730"
+        }
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "placeId": "ChIJR8uGGm2TpzERCyP0dgpgLX0",
+      "placeName": "Sailing Club Signature Resort Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "38210691068576045"
+        },
+        "instagramReel": {
+          "id": "17879795826528370"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "placeId": "ChIJbWwp_zj1pzERg-_J_57c0UA",
+      "placeName": "Green Bay Phu Quoc Resort & Spa",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122502901313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18109540595040148"
+        }
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "placeId": "ChIJEzRJ34iLpzEReKo1k_nV9NU",
+      "placeName": "Cung Điện Hải Vương",
+      "results": {
+        "facebookVideo": {
+          "id": "1626582008998262"
+        },
+        "instagramReel": {
+          "id": "18085920233691201"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "placeId": "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
+      "placeName": "Meliá Vinpearl Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122501923313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18109427203853889"
+        }
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "placeId": "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
+      "placeName": "Vinpearl Wonderworld Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1112583444438613"
+        },
+        "instagramReel": {
+          "id": "18376632223234121"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "placeId": "ChIJ2bp76JUfCDER2BAKZAkG66c",
+      "placeName": "Vinpearl Safari Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122500897313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18111332531041604"
+        }
+      }
+    },
     {
       "date": "2026-09-04",
       "placeId": "ChIJkcMAuZCNpzERRQmhoqfUVYk",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18102881318579453"
-        }
-      }
-    },
-    {
-      "date": "2026-08-20",
-      "placeId": "ChIJP7RtuhCNpzERvL0Oo4z8-Hk",
-      "placeName": "Hanh Nhung Luxury",
-      "results": {
-        "facebookVideo": {
-          "id": "1055495560402264"
-        },
-        "instagramReel": {
-          "id": "17858507526693707"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-20",
-      "placeId": "ChIJNzL9GqEfCDERTQfv5j5Deik",
-      "placeName": "Vinpearl Land Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120110251313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18082069757301901"
-        }
-      }
-    },
-    {
-      "date": "2026-08-20",
-      "placeId": "ChIJjwG2SAAfCDERd7JcFN0UNTw",
-      "placeName": "Vinpearl Resort Phu Quoc lobby",
-      "results": {
-        "facebookVideo": {
-          "id": "1613104243511555"
-        },
-        "instagramReel": {
-          "id": "18360275266301089"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-20",
-      "placeId": "ChIJgwI3D_8fCDERzTBdqPmUa9M",
-      "placeName": "VinWonders Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120109219313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17920523055200302"
-        }
-      }
-    },
-    {
-      "date": "2026-08-19",
-      "placeId": "ChIJ-RvbtGiNpzER2H1IufKqjGc",
-      "placeName": "Ocean Night Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1021350344110857"
-        },
-        "instagramReel": {
-          "id": "18197697946326634"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-19",
-      "placeId": "ChIJkX-ZsFiTpzER9TM2r77QY5g",
-      "placeName": "Fu Bar Regent Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1703554714207873"
-        },
-        "instagramReel": {
-          "id": "18330229306277778"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-19",
-      "placeId": "ChIJe_vjTACNpzERrvGoA9qvlAU",
-      "placeName": "Mojito Beach Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119882221313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18127892978503774"
-        }
-      }
-    },
-    {
-      "date": "2026-08-19",
-      "placeId": "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
-      "placeName": "House No. 1",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119881447313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18467903704118916"
-        }
-      }
-    },
-    {
-      "date": "2026-08-19",
-      "placeId": "ChIJ06-yPMWNpzERvRqJgvDuNe8",
-      "placeName": "Origin 1982 - Speakeasy bar in The last old house (1982)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119880817313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17881160469619380"
-        }
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "placeId": "ChIJZaB-ewCNpzERPBRid0eSO98",
-      "placeName": "Nị Bakery",
-      "results": {
-        "facebookVideo": {
-          "id": "1762547701634340"
-        },
-        "instagramReel": {
-          "id": "18081093047310528"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "placeId": "ChIJw9DS5DofCDERIiLSz3fmVKY",
-      "placeName": "Cầu Ánh Sáng (Bridge of Light)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122119781901313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17964178506159728"
-        }
-      }
-    },
-    {
-      "date": "2026-08-18",
-      "placeId": "ChIJ4b-mBReLpzERO-pqk4mlARM",
-      "placeName": "Tree House Phu Quoc Restaurant and Coffee",
-      "results": {
-        "facebookVideo": {
-          "id": "1011449398521126"
-        },
-        "instagramReel": {
-          "id": "18469326340114034"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
         }
       }
     }
