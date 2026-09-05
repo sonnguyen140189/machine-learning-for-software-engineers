@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walked into Cung Điện Hải Vương and forgot you were still in Phu Quoc.\n\n4.7 stars. 4,456 reviews. An underwater palace that earns every single one.\n\nGiant tanks. Rays gliding overhead. Kids completely silent for once.\n\nThis is the kind of place that resets your whole day. Book a morning slot before the crowds arrive.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Rays above your head. Sharks to your left. Welcome to Cung Điện Hải Vương. 4.7 stars across 4,456 reviews and it shows from the first corridor. Add this to your Phu Quoc list.",
+    "first_comment": "#PhuQuoc #PhuQuocAquarium #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #FamilyTravelVietnam"
+  },
+  "instagram": {
+    "caption": "POV: you stepped inside Cung Điện Hải Vương and time stopped.\n\n4.7★ across 4,456 reviews. Save this.",
+    "video_caption": "Rays overhead. 4.7 stars. Cung Điện Hải Vương hits different in person. Tag your travel buddy.",
+    "hashtags": "#PhuQuocAquarium #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocAttractions #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Walked into Cung Điện Hải Vương and forgot to film for 10 mins. 4.7★ hits hard. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "You won't expect this in Phu Quoc.",
+    "scenes": [
+      "Exterior shot, approach entrance",
+      "First tank reveal, wide angle",
+      "Rays gliding directly overhead",
+      "Kids pressing hands on glass",
+      "Deep blue tunnel corridor walk",
+      "Rating card: 4.7★ 4,456 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

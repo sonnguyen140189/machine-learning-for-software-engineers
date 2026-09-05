@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Bright bungalows. Beachfront villas. Two open-air restaurants where the breeze does half the work. Green Bay Phu Quoc Resort & Spa sits at a quiet stretch of Phú Quốc with a 4.8★ rating across 993 reviews. That number doesn't lie. Spa on-site. Sand steps away. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the hammock sway. Watch the water sit flat and blue. Green Bay Phu Quoc Resort & Spa, 4.8★, 993 reviews. Beachfront villas. Open-air dining. A spa that actually earns its price. This is what recovery looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Beachfront villas, open-air dining, 4.8★ across 993 reviews. Green Bay Phu Quoc Resort & Spa. Save this.",
+    "video_caption": "Bungalow. Beach. Spa. 4.8★. Green Bay Phu Quoc Resort & Spa is the reset you actually need.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocSpa #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "When did a hotel last actually fix you? 4.8★ beachfront reset. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Aerial glide over beachfront bungalows",
+      "Villa door opens to white sand",
+      "Hands wrap around coffee, open-air restaurant",
+      "Spa table, candles lit, slow pan",
+      "Guest in hammock, ocean fills frame"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

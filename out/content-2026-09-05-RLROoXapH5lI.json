@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you take a wrong turn off the main strip and end up here.\n\nDinh Bà Thủy Long Thánh Mẫu sits at 44 Võ Thị Sáu and most tourists walk straight past it. 4.5 stars from 294 reviews. Incense smoke, red lanterns, total quiet. Two minutes from the chaos.\n\nPhu Quoc has layers. This is one of them.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Incense rising. Lanterns swaying. Zero other tourists in frame. Dinh Bà Thủy Long Thánh Mẫu is 4.5 stars and most visitors never find it. Worth the detour.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #HiddenPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn. Found Dinh Bà Thủy Long Thánh Mẫu. 4.5★, 294 reviews, zero crowds.\n\nTag your travel buddy.",
+    "video_caption": "Red lanterns. Incense smoke. A Phu Quoc temple most tourists never reach. Dinh Bà Thủy Long Thánh Mẫu.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocCulture"
+  },
+  "tiktok": {
+    "caption": "Wrong turn. Best find. Dinh Bà Thủy Long Thánh Mẫu hits different at 4.5★ #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "Took a wrong turn. Found this.",
+    "scenes": [
+      "Approach gate from street level",
+      "Slow pan up ornate temple facade",
+      "Close-up: incense sticks burning",
+      "Red lanterns swaying overhead",
+      "Empty courtyard, no crowds in sight",
+      "Final wide shot, address text overlay"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you book a resort on Đường Bào and it turns out to be a 4.9-star property with 4,788 reviews behind it. Not an accident. Sailing Club Signature Resort Phu Quoc earns that rating stay after stay. Đường Bào is quieter than the main strip, and that's the point. Save this for your Phu Quoc trip.",
+    "video_caption": "Footage rolls and you realize: this is the resort people keep coming back to. Sailing Club Signature Resort Phu Quoc. 4.9 stars. 4,788 reviews. Đường Bào address, zero compromise on quality.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #VisitVietnam #PhuQuocHotel #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: you picked the right resort. Sailing Club Signature Resort Phu Quoc. 4.9★, 4,788 reviews. Tag your travel buddy.",
+    "video_caption": "4.9 stars. 4,788 reviews. Sailing Club Signature Resort Phu Quoc delivers every single time.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "POV: you chose the 4.9★ resort and it shows. Sailing Club Signature Resort Phu Quoc. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: best resort pick you made",
+    "scenes": [
+      "Drone pull-back over Đường Bào coastline",
+      "Resort entrance, staff greeting at gate",
+      "Pool deck, calm water, no crowds",
+      "Close-up: phone screen showing 4.9★ rating",
+      "Guest exhales, sits back, smiles"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

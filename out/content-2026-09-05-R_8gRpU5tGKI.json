@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 1,140 reviews. At a cafe tucked into Hem Chua Ong, Cửa Lấp.\n\nNora's Cafe - Restaurant is not on the main strip. Not near the resorts. And yet the numbers keep climbing.\n\n$15-30 per person for a proper sit-down meal. The kind of place locals and repeat visitors both know by name.\n\nIf you're staying in the south of the island, this one belongs on your list. Save this for your Phu Quoc trip.",
+    "video_caption": "1,140 people rated Nora's Cafe - Restaurant 4.7 stars. Watch what lands on the table and you'll see why. Hem Chua Ong, Cửa Lấp. South Phu Quoc. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocFood #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 1,140 reviews. A cafe in Cửa Lấp nobody talks about enough.\n\nNora's Cafe - Restaurant. $15-30/person. South Phu Quoc.\n\nSave this.",
+    "video_caption": "1,140 reviews don't lie. Nora's Cafe - Restaurant, Cửa Lấp. What's on the plate tells the whole story.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #CuaLap #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.7 stars. 1,140 reviews. Cửa Lấp, south Phu Quoc. Nora's Cafe hits different. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.7★ · 1,140 reviews · Cửa Lấp",
+    "scenes": [
+      "Arrive: quiet lane, Hem Chua Ong sign",
+      "Push open the cafe entrance",
+      "Close-up: food hits the table",
+      "Reaction shot: first bite",
+      "Pan across full table spread",
+      "End card: name, rating, location"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "6,266 reviews. 4.4 stars. And most tourists only see 10% of this island.\n\nPhu Quoc has white-sand beaches, jungle hiking trails, and resorts that won't destroy your budget. The north is raw and quiet. The south is where the food scene lives. The west coast catches sunsets that stop people mid-sentence.\n\nOne island. Way more than one trip. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the water change color as the boat clears the pier. Phú Quốc hits different from the water. 6,266 people rated this island 4.4 stars. See exactly why. Save this before you book.",
+    "first_comment": "#PhuQuoc #PhuQuocIsland #VisitVietnam #TravelTips #PhuQuocTravel #VietnamTravel #IslandLife"
+  },
+  "instagram": {
+    "caption": "6,266 reviews. 4.4 stars. Most tourists miss half this island.\n\nBeaches, jungle trails, and a food scene worth the flight. Tag your travel buddy.",
+    "video_caption": "Boat leaves the pier. Water turns turquoise. Phú Quốc delivers every time. 4.4 stars, 6,266 people agree.",
+    "hashtags": "#PhuQuoc #PhuQuocIsland #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #IslandTravel"
+  },
+  "tiktok": {
+    "caption": "6,266 reviews and most tourists still miss half of Phú Quốc. Here's what to actually do. #PhuQuoc #VietnamTravel #TravelTips #IslandLife"
+  },
+  "video_script": {
+    "hook": "6,266 reviews. See why.",
+    "scenes": [
+      "Drone pulls back over white-sand beach",
+      "Boat cuts through turquoise water",
+      "Jungle trail, roots, dappled light",
+      "Night market stalls, steam rising",
+      "Sunset silhouette on the west coast"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "38,106 reviews. 4.9 stars. Vinpearl Wonderworld Phu Quoc is not playing around.\n\nThis is the kind of resort that makes you cancel every other plan you had for the trip. Bãi Dài beach at your doorstep. World-class amenities without the attitude.\n\nIf you're planning a Phu Quoc trip and want zero regrets, this is the one to bookmark.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.9 stars across 38,000+ guests. Watch what all those reviews are actually talking about. Vinpearl Wonderworld Phu Quoc, Bãi Dài. This one earns every single one.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #VinpearlPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "38,106 reviews. 4.9 stars. Vinpearl Wonderworld Phu Quoc delivers every time.\n\nBãi Dài beach. Zero compromises. Save this.",
+    "video_caption": "4.9 stars. 38K guests can't be wrong. Vinpearl Wonderworld at Bãi Dài is on another level.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #BaiDaiBeach #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "38,106 reviews. 4.9 stars. Vinpearl Wonderworld Phu Quoc hits different. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9 stars. 38,106 reviews.",
+    "scenes": [
+      "Aerial shot of Bãi Dài coastline at sunrise",
+      "Resort entrance, grand scale, guests arriving",
+      "Pool overlooking the ocean, rippling water",
+      "Room reveal, floor-to-ceiling sea view",
+      "Beach walkout, feet in sand, zero crowds"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

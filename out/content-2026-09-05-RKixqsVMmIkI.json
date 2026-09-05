@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this place every morning. Their loss. Bagels 'n Eggs on Đường Trần Hưng Đạo is pulling 4.8 stars from 661 reviews and almost nobody talks about it. Fresh bagels, eggs done right, and a bill that won't wreck your day at $15-30 a head. Breakfast in Phu Quoc doesn't get more dialed-in than this. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what comes out of this kitchen. Bagels 'n Eggs, 4.8 stars, 661 reviews deep. The breakfast spot on Đường Trần Hưng Đạo that keeps flying under the radar.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists walk past this every morning. Big mistake. Bagels 'n Eggs. 4.8 stars. 661 reviews. Go before the crowds figure it out.",
+    "video_caption": "661 reviews and still no line out the door. Bagels 'n Eggs is the breakfast spot Phu Quoc keeps to itself.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The breakfast spot tourists keep skipping in Phu Quoc. 4.8 stars. Don't be that person. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior shot: Bagels 'n Eggs storefront",
+      "Hands slicing a fresh toasted bagel",
+      "Eggs plated, steam rising close-up",
+      "Full breakfast spread hits the table",
+      "Phone screen: 4.8 stars, 661 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "9,779 people rated this 4.3 stars. Most tourists still skip it.\n\nPhu Quoc Prison History Museum is the island's most confronting stop. French colonial-era cages. Mannequins frozen mid-torture. Real history that doesn't sanitize itself.\n\nThis isn't comfortable. It's not supposed to be. But leaving Phu Quoc without seeing this means leaving with only half the story.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walking through cells where POWs were kept during the Vietnam War. The mannequins are graphic. The history is real. Address: 350 Đ. Nguyễn Văn Cừ, Phú Quốc.",
+    "first_comment": "#PhuQuoc #PhuQuocHistory #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "9,779 reviews. Most tourists still walk past this.\n\nPhu Quoc Prison History Museum. Colonial cages. Real history. Go.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Inside Phu Quoc's most confronting museum. French colonial cells. Vietnam War POW history. Don't skip this one.",
+    "hashtags": "#PhuQuocHistory #PhuQuocTips #PhuQuocMuseum #VietnamTravel #TravelTips #TravelReels #HistoryTravel"
+  },
+  "tiktok": {
+    "caption": "9,779 ratings and tourists still skip this 😶 Phu Quoc's most confronting stop. #PhuQuoc #VietnamTravel #HistoryTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "9,779 reviews. Still skipped.",
+    "scenes": [
+      "Exterior gate of the prison, sign in frame",
+      "Slow pan down colonial-era cell bars",
+      "Close-up on mannequin behind wire cage",
+      "Wide shot of outdoor compound, empty sky",
+      "Walking POV through narrow cell corridor"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
