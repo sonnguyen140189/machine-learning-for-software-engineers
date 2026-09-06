@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 894 reviews. MYLA SEAFOOD is not messing around.\n\nFresh off the boat, straight to your table on Đường Trần Hưng Đạo. This is the kind of seafood spot that earns repeat visits, not just one check-in. Nearly 900 people gave it a 4.9. That number does not lie.\n\nAdd it to your Phu Quoc list now. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the plates land at MYLA SEAFOOD. 894 reviews pushing 4.9 stars. The seafood here is the real reason people come back to Phu Quoc a second time.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #SeafoodVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "4.9★ from 894 reviews. MYLA SEAFOOD sets the bar on Đường Trần Hưng Đạo.\n\nFresh, local, no gimmicks. Tag your travel buddy.",
+    "video_caption": "Seafood hitting different when 894 people rated it 4.9. MYLA SEAFOOD, Phu Quoc. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamTravel #SeafoodLovers #TravelTips #TravelReels #PhuQuocTips #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "894 reviews. 4.9 stars. MYLA SEAFOOD on Đường Trần Hưng Đạo is not a fluke. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9★ from 894 reviews.",
+    "scenes": [
+      "Exterior shot: MYLA SEAFOOD sign, busy street",
+      "Close-up: fresh seafood displayed on ice",
+      "Hands picking from a steaming seafood platter",
+      "Wide shot: packed tables, local crowd",
+      "Slow zoom: 4.9 star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

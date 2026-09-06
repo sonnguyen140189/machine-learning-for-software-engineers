@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this one. Nhà hàng hải sản Thuận Kiều 2 sits on Đường Trần Hưng Đạo and pulls a 4.7 from 591 reviews. That's not luck. Fresh seafood, real Vietnamese flavors, and a crowd that's mostly local. No English menu boards out front. No tourist trap pricing. Just the kind of place that earns repeat visits. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the locals order. Nhà hàng hải sản Thuận Kiều 2 on Đường Trần Hưng Đạo. 4.7 stars, 591 reviews, zero hype. This is what a real Phu Quoc seafood dinner looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #VietnamTravel #TravelTips #PhuQuocRestaurant"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Nhà hàng hải sản Thuận Kiều 2. 4.7 stars, 591 reviews, mostly local crowd. Tag your travel buddy.",
+    "video_caption": "591 reviews and zero tourist-trap energy. Nhà hàng hải sản Thuận Kiều 2 is the Phu Quoc seafood dinner you actually want.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurant #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The seafood spot locals actually go to in Phu Quoc. 4.7 stars. No tourist menus. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Pan along busy Đường Trần Hưng Đạo street",
+      "Stop at Nhà hàng hải sản Thuận Kiều 2 entrance",
+      "Show packed tables of local diners",
+      "Close-up: fresh seafood hitting the table",
+      "Reveal 4.7 star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

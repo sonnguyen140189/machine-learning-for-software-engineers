@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Upmarket seafood plates, sea terrace views, and 5,122 reviews backing it up. All under $30 a head.\n\nXin Chao on Đường Trần Hưng Đạo is the spot locals bring guests they want to impress. Fresh catch, buzzing atmosphere, and that terrace facing the water hits different at sunset.\n\nPhu Quoc seafood at this level usually costs double. Save this for your Phu Quoc trip.",
+    "video_caption": "Sea terrace. Fresh catch landing on the table. $15-30 a person at Xin Chao and it looks like this. Phu Quoc keeps winning. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #SeafoodRestaurant #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Seafood terrace overlooking the sea. Under $30 a head.\n\nXin Chao, 4.2★ across 5,122 reviews. Save this for your Phu Quoc trip.",
+    "video_caption": "Fresh seafood. Ocean view. $15-30 a person. Xin Chao delivers every time.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SeafoodLovers"
+  },
+  "tiktok": {
+    "caption": "Seafood terrace facing the sea. Under $30 a head. This is Phu Quoc. #PhuQuoc #PhuQuocFood #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Sea terrace seafood. Under $30.",
+    "scenes": [
+      "Aerial pull back from Đường Trần Hưng Đạo entrance",
+      "Pan across packed terrace overlooking sea",
+      "Close up: fresh whole fish hitting the table",
+      "Diners reacting to first bite",
+      "Price graphic: $15-30 per person, 4.2★"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

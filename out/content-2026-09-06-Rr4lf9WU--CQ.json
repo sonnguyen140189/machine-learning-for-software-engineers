@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 3,104 reviews. At a beachfront restaurant in Phu Quoc.\n\nMai Hương Beachfront sits right on the Grand World waterfront, and the numbers don't lie. Over three thousand people gave it nearly a perfect score. That's not luck.\n\nAdd it to your Phu Quoc itinerary now. Save this post.",
+    "video_caption": "Waves in front of you. Food on the table. 4.9 stars confirmed by 3,104 people. Mai Hương Beachfront at Grand World is the beachfront dinner stop you're going to wish you'd booked sooner.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #GrandWorldPhuQuoc #PhuQuocFood #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 3,104 reviews. Beachfront.\n\nMai Hương Beachfront at Grand World delivers. Save this for your Phu Quoc trip.",
+    "video_caption": "Dinner with the ocean right there. 4.9 stars at Mai Hương Beachfront. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #GrandWorldPhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocVibes"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 3,104 reviews. Beachfront dining in Phu Quoc. Mai Hương Beachfront is the one. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9★ 3,104 reviews. Beachfront.",
+    "scenes": [
+      "Aerial: waves lapping Grand World shore",
+      "Pan across full outdoor dining terrace",
+      "Close-up: steaming dishes hit the table",
+      "Cut to: packed tables, happy diners",
+      "Hold on: ocean horizon at golden hour"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
