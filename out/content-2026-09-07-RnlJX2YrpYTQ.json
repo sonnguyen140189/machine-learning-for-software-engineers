@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Mango Bay Resort sits right on the beach, runs free tai chi and yoga every morning, and serves fresh seafood steps from the water. 4.5 stars across 2,068 reviews. No party scene. No hustle. Just sand, slow mornings, and food caught the same day. Save this for your Phu Quoc trip.",
+    "video_caption": "Free yoga at sunrise. Fresh seafood by noon. 4.5 stars and zero rush at Mango Bay Resort, Phú Quốc. Your nervous system will thank you.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocBeaches #VisitVietnam #TravelTips #VietnamTravel #BeachResort"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Free tai chi, beachfront seafood, 4.5★ from 2,068 guests. Mango Bay Resort delivers. Save this.",
+    "video_caption": "Sunrise tai chi on the beach. Seafood straight from the water. Mango Bay Resort, Phú Quốc.",
+    "hashtags": "#PhuQuocResort #PhuQuocBeaches #PhuQuocHotel #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Free yoga, beachfront seafood, 4.5★ resort. Mango Bay Resort is doing something right. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: empty beach at sunrise",
+      "Guests doing tai chi on the sand",
+      "Yoga mat, ocean backdrop, golden light",
+      "Chef plates fresh grilled seafood",
+      "Guest eating at waterfront table",
+      "Slow pan: calm bay, no crowds"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

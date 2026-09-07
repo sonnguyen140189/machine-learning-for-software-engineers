@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past Chùa Sùng Đức. Big mistake. This Buddhist temple sits quietly in Khu 1, Phú Quốc, while most visitors head straight for the beach. 4.4 stars across 116 reviews. The kind of place that slows you down for a moment. No entrance fee. No tour bus crowd. Just incense, silence, and a side of Phu Quoc most people never see. Save this for your Phu Quoc trip.",
+    "video_caption": "Incense smoke rising. Lanterns overhead. Zero tour groups. Chùa Sùng Đức is the Phu Quoc stop your itinerary is missing. 4.4 stars, 116 reviews, and almost no one you know has posted about it.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Chùa Sùng Đức. 4.4 stars, 116 reviews, zero crowds. Tag your travel buddy.",
+    "video_caption": "Incense, lanterns, no tour groups. Chùa Sùng Đức is the Phu Quoc stop most visitors skip entirely.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #ThingsToDoPhuQuoc #TravelReels #TravelTips"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc temple tourists walk straight past. Don't be them. 4.4★ #PhuQuoc #VietnamTravel #PhuQuocTips #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Approach temple gate from the street",
+      "Pan up ornate roof against blue sky",
+      "Close-up of incense sticks burning",
+      "Wide shot of empty courtyard",
+      "Slow zoom on golden Buddha statue"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

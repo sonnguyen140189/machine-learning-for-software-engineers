@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this pagoda. Phu Dung Pagoda sits quietly in Hà Tiên, 4.5 stars across 1,459 reviews, and almost zero foreigners inside. Stone courtyards. Incense smoke cutting through the morning air. The kind of stillness you don't find near the beach resorts. If you're crossing into Hà Tiên, build an hour around this. Save this for your Phu Quoc trip.",
+    "video_caption": "Step inside Phu Dung Pagoda. Incense smoke, empty courtyards, zero tourist crowds. Hà Tiên is hiding this one in plain sight.",
+    "first_comment": "#PhuQuoc #HaTien #VisitVietnam #TravelTips #PhuQuocTips #VietnamTemple #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this. Phu Dung Pagoda, Hà Tiên. 4.5★, 1,459 reviews, almost no foreigners. Save this.",
+    "video_caption": "Empty courtyards. Real incense. No tour groups. Phu Dung Pagoda hits different at 7am.",
+    "hashtags": "#PhuQuocTips #HaTienVietnam #VietnamTemple #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "1,459 reviews and still no tourists inside. Phu Dung Pagoda, Hà Tiên. Go early. #PhuQuoc #VietnamTravel #HaTien #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Wide shot: pagoda gate, zero crowds",
+      "Slow pan across stone courtyard",
+      "Close-up: incense sticks burning",
+      "Tilt up: ornate roof detail",
+      "Handheld walk through inner hall"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

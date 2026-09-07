@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. Dinh Bà Lớn Tướng Lê Kim Định sits on Đường Dinh Bà and most foreign visitors never stop. A traditional Vietnamese place of worship, 4.5 stars across 266 reviews, almost entirely from locals. The incense, the architecture, the quiet. Completely different Phu Quoc energy from the beach clubs. Save this for your Phu Quoc trip.",
+    "video_caption": "Incense smoke rising. Locals praying. Zero other tourists in sight. Dinh Bà Lớn Tướng Lê Kim Định is the real Phu Quoc most visitors never find. 4.5 stars, 266 reviews, and not one resort brochure mentions it.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #PhuQuocTravel"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Dinh Bà Lớn Tướng Lê Kim Định. 4.5★, 266 reviews, zero tourist crowds. This is Phu Quoc off the resort trail. Save this.",
+    "video_caption": "Incense. Silence. No tourists. Dinh Bà Lớn Tướng Lê Kim Định hits different when the beach clubs don't.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc spot locals keep to themselves. Dinh Bà Lớn Tướng Lê Kim Định. 4.5★, real culture, zero crowds. #PhuQuoc #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Locals don't show you this.",
+    "scenes": [
+      "Exterior gate, incense smoke drifting up",
+      "Close-up: offerings arranged on altar",
+      "Slow pan across carved temple facade",
+      "Locals praying, no tourists visible",
+      "Wide shot: quiet courtyard, golden light"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
