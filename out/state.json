@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJf3chCACNpzER9HKozVLUOpA",
+    "ChIJYREw3iyNpzER4MEeLlm9Ju4",
+    "ChIJj3KLVmuNpzERRcxS6PIioiI",
+    "ChIJlehMyBUfCDERDSqZ_aeChQA",
+    "ChIJMSfrfEqNpzER9_6_sLzv_nk",
+    "ChIJY6GhjSaNpzERAuI657sZah0",
+    "ChIJ1Tz0QOcfCDER2oug-pJV_TA",
+    "ChIJh-NscYeMpzER9zBF1Ddrbo0",
+    "ChIJt-QpkieNpzEROHxvKTl08as",
+    "ChIJR4_RrzuVpzERTNZI9HaezLk",
+    "ChIJ2_A_qiGNpzERECnKPGDMbqc",
+    "ChIJY6klvwiLpzERbXSkUvWfTOs",
     "ChIJX3VOsa2NpzERsU0djuBRb-U",
     "ChIJOfBhADWLpzEROjM637w_lcg",
     "ChIJy5_OrWqKpzERGaQHR6TfBU0",
@@ -187,21 +199,189 @@
     "ChIJ-zqn9WCMpzER2Ko070p2nyo",
     "ChIJD8-KD3uNpzERZVGLp2AdvPI",
     "ChIJAz1J0-mNpzERyQ40GMjmouI",
-    "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
-    "ChIJ00OuQxuTpzER-w6UBHVBLJo",
-    "ChIJAQAAAECKpzERzt6bVEvLa-M",
-    "ChIJI6oge0mLpzERKUoKtQLR-oc",
-    "ChIJey6dXQCNpzERP3w5WxacNrw",
-    "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
-    "ChIJTdwiKNmVpzER1knXm_zr2zA",
-    "ChIJAWovfRONpzERI7y_gpk_6D0",
-    "ChIJuQ3uBpGTpzERjdU6zZxzCmY",
-    "ChIJo5M0X62NpzERgrGHtWo8nCQ",
-    "ChIJKTX4YwCLpzERhiLmMHLUihA",
-    "ChIJrXaM1tmNpzERj7I5uw4cwro",
-    "ChIJYQY76P2NpzERlul1IUfk3N8"
+    "ChIJo_k30uyXpzERwwH_mtvJ1aQ"
   ],
   "history": [
+    {
+      "date": "2026-09-08",
+      "placeId": "ChIJf3chCACNpzER9HKozVLUOpA",
+      "placeName": "Desi Indian Restaurant (Pure Veg)",
+      "results": {
+        "facebookVideo": {
+          "id": "1068192618902519"
+        },
+        "instagramReel": {
+          "id": "18114634868012503"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "placeId": "ChIJYREw3iyNpzER4MEeLlm9Ju4",
+      "placeName": "Nhà hàng Chay Minh Tâm",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122912203313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18149344357542933"
+        }
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "placeId": "ChIJj3KLVmuNpzERRcxS6PIioiI",
+      "placeName": "RASOI INDIAN PURE VEGETARIAN RESTAURANT",
+      "results": {
+        "facebookVideo": {
+          "id": "1488901976602178"
+        },
+        "instagramReel": {
+          "id": "18114364499011335"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "placeId": "ChIJlehMyBUfCDERDSqZ_aeChQA",
+      "placeName": "Lam Vegan - Tiệm Chay Lam",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122911189313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17906586957539130"
+        }
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "placeId": "ChIJMSfrfEqNpzER9_6_sLzv_nk",
+      "placeName": "Maharaja Lounge - Authentic Indian 100% Veg Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "2947435238926772"
+        },
+        "instagramReel": {
+          "id": "18019065917916943"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "placeId": "ChIJY6GhjSaNpzERAuI657sZah0",
+      "placeName": "Bombay Pure Vegetarian Indian Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122910097313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18115766771053092"
+        }
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "placeId": "ChIJ1Tz0QOcfCDER2oug-pJV_TA",
+      "placeName": "Thali House - Best Indian 100% Vegetarian Food in Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "27891492347219873"
+        },
+        "instagramReel": {
+          "id": "18114481282795248"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "placeId": "ChIJh-NscYeMpzER9zBF1Ddrbo0",
+      "placeName": "Khánh Ly Vegetarian Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122908813313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17878960437534742"
+        }
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "placeId": "ChIJt-QpkieNpzEROHxvKTl08as",
+      "placeName": "Xóm Mới Garden Phú Quốc 씀모이가든 푸꾸옥 맛집",
+      "results": {
+        "facebookVideo": {
+          "id": "1754453469222759"
+        },
+        "instagramReel": {
+          "id": "18370295428245401"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "placeId": "ChIJR4_RrzuVpzERTNZI9HaezLk",
+      "placeName": "Maharaja Lounge - 100% Pure Veg Authentic Indian Restaurant Sunset Town",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122907673313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18053856140634598"
+        }
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "placeId": "ChIJ2_A_qiGNpzERECnKPGDMbqc",
+      "placeName": "Nhà Hàng Chay NẤM (Vegan Restaurant)",
+      "results": {
+        "facebookVideo": {
+          "id": "2692946454453632"
+        },
+        "instagramReel": {
+          "id": "18027298598885090"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "placeId": "ChIJY6klvwiLpzERbXSkUvWfTOs",
+      "placeName": "Bếp Chay Nhà An | VEGETARIAN BISTRO",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122122906527313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18088431341692521"
+        }
+      }
+    },
     {
       "date": "2026-09-07",
       "placeId": "ChIJX3VOsa2NpzERsU0djuBRb-U",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18097660730049718"
-        }
-      }
-    },
-    {
-      "date": "2026-08-23",
-      "placeId": "ChIJ00OuQxuTpzER-w6UBHVBLJo",
-      "placeName": "INK 360 Rooftop Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "37882288031414937"
-        },
-        "instagramReel": {
-          "id": "18107760962592353"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-23",
-      "placeId": "ChIJAQAAAECKpzERzt6bVEvLa-M",
-      "placeName": "Chen Sea Resort & Spa Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120453193313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18085427525665669"
-        }
-      }
-    },
-    {
-      "date": "2026-08-23",
-      "placeId": "ChIJI6oge0mLpzERKUoKtQLR-oc",
-      "placeName": "Ocean Bay Resort & Spa Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1509474307651183"
-        },
-        "instagramReel": {
-          "id": "18119705237480965"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-23",
-      "placeId": "ChIJey6dXQCNpzERP3w5WxacNrw",
-      "placeName": "Rosso Sky Bar & Lounge | Night Club",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120452143313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18020562005857703"
-        }
-      }
-    },
-    {
-      "date": "2026-08-22",
-      "placeId": "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
-      "placeName": "LOLO BAKERY & CAFE (로로베이커리)",
-      "results": {
-        "facebookVideo": {
-          "id": "2530408707454410"
-        },
-        "instagramReel": {
-          "id": "18132113230711466"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-22",
-      "placeId": "ChIJTdwiKNmVpzER1knXm_zr2zA",
-      "placeName": "Cafe Juliet & Pastries",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120350065313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18109882315851912"
-        }
-      }
-    },
-    {
-      "date": "2026-08-22",
-      "placeId": "ChIJAWovfRONpzERI7y_gpk_6D0",
-      "placeName": "Devis Bakery Phu Quoc 데비스베이커리",
-      "results": {
-        "facebookVideo": {
-          "id": "1023222634040171"
-        },
-        "instagramReel": {
-          "id": "18439294324130085"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-22",
-      "placeId": "ChIJuQ3uBpGTpzERjdU6zZxzCmY",
-      "placeName": "알로 카페 & ALLO Cafe & Bakery",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120348913313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18417967027147405"
-        }
-      }
-    },
-    {
-      "date": "2026-08-22",
-      "placeId": "ChIJo5M0X62NpzERgrGHtWo8nCQ",
-      "placeName": "MIX BAKERY COFFEE & TEA",
-      "results": {
-        "facebookVideo": {
-          "id": "1441035191198572"
-        },
-        "instagramReel": {
-          "id": "18128212501665188"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-22",
-      "placeId": "ChIJKTX4YwCLpzERhiLmMHLUihA",
-      "placeName": "SIM Coffee - A Story Of The Island",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120347929313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18122037194302435"
-        }
-      }
-    },
-    {
-      "date": "2026-08-22",
-      "placeId": "ChIJrXaM1tmNpzERj7I5uw4cwro",
-      "placeName": "할로망고 푸꾸옥. HALO MANGO Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "2591767311282887"
-        },
-        "instagramReel": {
-          "id": "17923720944180817"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-22",
-      "placeId": "ChIJYQY76P2NpzERlul1IUfk3N8",
-      "placeName": "Bapaki Tea, Bakery",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120346855313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18111395369040516"
         }
       }
     }
