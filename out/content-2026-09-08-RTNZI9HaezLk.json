@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Authentic Indian food in Phu Quoc for $15-30 a person. At a 4.9-star restaurant. That's not a typo.\n\nMaharaja Lounge in Sunset Town is 100% pure veg, fully authentic, and sitting right beside Starbucks near the Hôn Thơm cable car drop point. 182 reviews. Still rated 4.9.\n\nIf you're vegetarian traveling Vietnam, this one actually delivers. Save this for your Phu Quoc trip.",
+    "video_caption": "4.9 stars. 182 reviews. Pure veg Indian food steps from the kiss bridge in Sunset Town. Maharaja Lounge is not what you expect to find on this island, and that's exactly why you need to go.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #IndianFoodVietnam #VegetarianTravel #VisitVietnam #PhuQuocFood #TravelTips"
+  },
+  "instagram": {
+    "caption": "$15-30 for 4.9-star pure veg Indian food in Phu Quoc. Maharaja Lounge, Sunset Town. 182 reviews back this up.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Pure veg. 4.9 stars. Sunset Town. Maharaja Lounge just solved vegetarian dining in Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianVietnam #IndianFoodAbroad #VietnamTravel #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.9-star pure veg Indian food in Phu Quoc for $15-30. Maharaja Lounge, Sunset Town. Go. #PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "$15-30. 4.9 stars. Pure veg.",
+    "scenes": [
+      "Exterior shot beside Starbucks, Sunset Town",
+      "Close-up of vibrant Indian dishes plated",
+      "Slow pan across full vegetarian spread",
+      "Cut to Google review count: 182 reviews",
+      "Final frame: restaurant sign, Maharaja Lounge"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

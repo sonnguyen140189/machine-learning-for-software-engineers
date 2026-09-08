@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're craving something light after three days of seafood. You take a wrong turn on Đường Nguyễn Trãi. You find Khánh Ly Vegetarian Restaurant.\n\n4.2 stars. 411 reviews. Under $10 a head. In Phu Quoc.\n\nFull plant-based menu, real portions, zero resort markup. This is the reset meal your stomach didn't know it needed.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Plates landing at Khánh Ly Vegetarian Restaurant. All of this, under $10. Phu Quoc's best-kept lunch stop is on Đường Nguyễn Trãi, and 411 reviewers already know it. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn. Found Khánh Ly Vegetarian Restaurant. Under $10, 4.2 stars, 411 reviews.\n\nSave this.",
+    "video_caption": "Full vegan spread, under $10. Khánh Ly on Đường Nguyễn Trãi is the reset meal Phu Quoc trips need.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VeganVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Wrong turn in Phu Quoc, found this vegan spot. Under $10. 411 reviews. Don't walk past it. #PhuQuoc #PhuQuocFood #VeganVietnam #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Found this.",
+    "scenes": [
+      "Walk down Đường Nguyễn Trãi, sign appears",
+      "Push open door, small local dining room",
+      "Plates of plant-based dishes hit the table",
+      "Close-up: colorful portions, steam rising",
+      "Receipt slides over: under $10 total"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,522 @@
+{
+  "stamp": "2026-09-08",
+  "items": [
+    {
+      "placeId": "ChIJY6klvwiLpzERbXSkUvWfTOs",
+      "placeName": "Bếp Chay Nhà An | VEGETARIAN BISTRO",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-08-RbXSkUvWfTOs-0.jpg",
+        "out/media/2026-09-08-RbXSkUvWfTOs-1.jpg",
+        "out/media/2026-09-08-RbXSkUvWfTOs-2.jpg",
+        "out/media/2026-09-08-RbXSkUvWfTOs-3.jpg",
+        "out/media/2026-09-08-RbXSkUvWfTOs-4.jpg",
+        "out/media/2026-09-08-RbXSkUvWfTOs-5.jpg",
+        "out/media/2026-09-08-RbXSkUvWfTOs-6.jpg",
+        "out/media/2026-09-08-RbXSkUvWfTOs-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Under $10 for a full vegetarian meal in Phu Quoc. At Bếp Chay Nhà An, 355 reviews and a 4.9★ rating back that up. Fresh plant-based dishes, real portions, zero tourist markup. Located on Đường Trần Hưng Đạo, it's the kind of lunch spot that makes your daily budget look very, very good. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the plates land at Bếp Chay Nhà An. Full vegetarian spread, 4.9 stars, and every dish comes in under $10. This is what eating well in Phu Quoc actually looks like.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+        },
+        "instagram": {
+          "caption": "Under $10. 4.9★. 355 reviews. Bếp Chay Nhà An is the vegetarian spot your Phu Quoc itinerary needs. Save this.",
+          "video_caption": "Full plates. $10 max. Bếp Chay Nhà An delivers every time. 4.9 stars don't lie.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "Under $10 vegetarian meal with a 4.9★ rating in Phu Quoc. Bếp Chay Nhà An is doing something right. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Under $10. 4.9 STARS.",
+          "scenes": [
+            "Exterior shot: 29 Đường Trần Hưng Đạo storefront",
+            "Hands placing colorful dishes on table",
+            "Close-up: steaming bowl, fresh herbs on top",
+            "Wide shot: full spread, one full meal frame",
+            "Screen: 4.9★ 355 reviews graphic"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ2_A_qiGNpzERECnKPGDMbqc",
+      "placeName": "Nhà Hàng Chay NẤM (Vegan Restaurant)",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-08-RECnKPGDMbqc-0.jpg",
+        "out/media/2026-09-08-RECnKPGDMbqc-1.jpg",
+        "out/media/2026-09-08-RECnKPGDMbqc-2.jpg",
+        "out/media/2026-09-08-RECnKPGDMbqc-3.jpg",
+        "out/media/2026-09-08-RECnKPGDMbqc-4.jpg",
+        "out/media/2026-09-08-RECnKPGDMbqc-5.jpg",
+        "out/media/2026-09-08-RECnKPGDMbqc-6.jpg",
+        "out/media/2026-09-08-RECnKPGDMbqc-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-08-RECnKPGDMbqc.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "449 reviews. 4.5 stars. And it's fully vegan.\n\nNhà Hàng Chay NẤM on Đường Nguyễn Trãi is pulling numbers most meat restaurants can't touch. Plant-based Vietnamese done right, $15-30 a head, no compromises on flavor.\n\nIf you think vegan food in Phu Quoc means sad salads, this place will correct you fast.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch what a 4.5-star vegan plate looks like in Phu Quoc. Nhà Hàng Chay NẤM is not what you expect. 449 people already found out.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VeganTravel"
+        },
+        "instagram": {
+          "caption": "449 reviews. 4.5 stars. Fully vegan. Nhà Hàng Chay NẤM is the number that changes your Phu Quoc itinerary.\n\nSave this.",
+          "video_caption": "4.5 stars. Plant-based. 449 people don't lie. Nhà Hàng Chay NẤM hits different.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VeganVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "449 reviews. 4.5 stars. Fully vegan. Nhà Hàng Chay NẤM is winning in Phu Quoc. #PhuQuoc #PhuQuocFood #VeganTravel #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.5 stars. Fully vegan. 449 reviews.",
+          "scenes": [
+            "Exterior shot: Nhà Hàng Chay NẤM sign",
+            "Plates arriving at the table, close-up",
+            "Fork lifts colorful plant-based dish",
+            "Review count on screen: 449 reviews",
+            "Bill arrives: $15-30 range shown"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJR4_RrzuVpzERTNZI9HaezLk",
+      "placeName": "Maharaja Lounge - 100% Pure Veg Authentic Indian Restaurant Sunset Town",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-08-RTNZI9HaezLk-0.jpg",
+        "out/media/2026-09-08-RTNZI9HaezLk-1.jpg",
+        "out/media/2026-09-08-RTNZI9HaezLk-2.jpg",
+        "out/media/2026-09-08-RTNZI9HaezLk-3.jpg",
+        "out/media/2026-09-08-RTNZI9HaezLk-4.jpg",
+        "out/media/2026-09-08-RTNZI9HaezLk-5.jpg",
+        "out/media/2026-09-08-RTNZI9HaezLk-6.jpg",
+        "out/media/2026-09-08-RTNZI9HaezLk-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Authentic Indian food in Phu Quoc for $15-30 a person. At a 4.9-star restaurant. That's not a typo.\n\nMaharaja Lounge in Sunset Town is 100% pure veg, fully authentic, and sitting right beside Starbucks near the Hôn Thơm cable car drop point. 182 reviews. Still rated 4.9.\n\nIf you're vegetarian traveling Vietnam, this one actually delivers. Save this for your Phu Quoc trip.",
+          "video_caption": "4.9 stars. 182 reviews. Pure veg Indian food steps from the kiss bridge in Sunset Town. Maharaja Lounge is not what you expect to find on this island, and that's exactly why you need to go.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #IndianFoodVietnam #VegetarianTravel #VisitVietnam #PhuQuocFood #TravelTips"
+        },
+        "instagram": {
+          "caption": "$15-30 for 4.9-star pure veg Indian food in Phu Quoc. Maharaja Lounge, Sunset Town. 182 reviews back this up.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Pure veg. 4.9 stars. Sunset Town. Maharaja Lounge just solved vegetarian dining in Phu Quoc.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianVietnam #IndianFoodAbroad #VietnamTravel #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "4.9-star pure veg Indian food in Phu Quoc for $15-30. Maharaja Lounge, Sunset Town. Go. #PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "$15-30. 4.9 stars. Pure veg.",
+          "scenes": [
+            "Exterior shot beside Starbucks, Sunset Town",
+            "Close-up of vibrant Indian dishes plated",
+            "Slow pan across full vegetarian spread",
+            "Cut to Google review count: 182 reviews",
+            "Final frame: restaurant sign, Maharaja Lounge"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJt-QpkieNpzEROHxvKTl08as",
+      "placeName": "Xóm Mới Garden Phú Quốc 씀모이가든 푸꾸옥 맛집",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-08-ROHxvKTl08as-0.jpg",
+        "out/media/2026-09-08-ROHxvKTl08as-1.jpg",
+        "out/media/2026-09-08-ROHxvKTl08as-2.jpg",
+        "out/media/2026-09-08-ROHxvKTl08as-3.jpg",
+        "out/media/2026-09-08-ROHxvKTl08as-4.jpg",
+        "out/media/2026-09-08-ROHxvKTl08as-5.jpg",
+        "out/media/2026-09-08-ROHxvKTl08as-6.jpg",
+        "out/media/2026-09-08-ROHxvKTl08as-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-08-ROHxvKTl08as.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.9 stars. 2,927 reviews. At a garden restaurant on Đường Trần Hưng Đạo. That number does not lie.\n\nXóm Mới Garden Phú Quốc serves Vietnamese food the way locals actually eat it. Outdoor garden setting, proper portions, real flavors. No tourist-menu shortcuts.\n\nIf you're staying near Khu Phố 7, this is the dinner spot. Full stop.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch what 2,927 people kept coming back for. Garden tables, Vietnamese classics, zero pretension. Xóm Mới Garden Phú Quốc on Đường Trần Hưng Đạo earns that 4.9 every single night. Get here.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurant #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.9 stars. 2,927 reviews. Xóm Mới Garden Phú Quốc is not an accident.\n\nGarden dining, Vietnamese done right. Tag your travel buddy.",
+          "video_caption": "2,927 people rated this 4.9. Garden tables, real Vietnamese food. Xóm Mới Garden Phú Quốc delivers.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurant #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodReels"
+        },
+        "tiktok": {
+          "caption": "4.9 stars. 2,927 reviews. This garden restaurant in Phu Quoc is the real deal. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.9★ / 2,927 reviews.",
+          "scenes": [
+            "Arrive at garden entrance, Xóm Mới sign",
+            "Pan across outdoor tables under trees",
+            "Close-up: Vietnamese dishes hitting the table",
+            "Fork lifts steaming food, steam rises",
+            "Cut to packed tables, locals and tourists",
+            "End frame: Google rating on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJh-NscYeMpzER9zBF1Ddrbo0",
+      "placeName": "Khánh Ly Vegetarian Restaurant",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-08-R9zBF1Ddrbo0-0.jpg",
+        "out/media/2026-09-08-R9zBF1Ddrbo0-1.jpg",
+        "out/media/2026-09-08-R9zBF1Ddrbo0-2.jpg",
+        "out/media/2026-09-08-R9zBF1Ddrbo0-3.jpg",
+        "out/media/2026-09-08-R9zBF1Ddrbo0-4.jpg",
+        "out/media/2026-09-08-R9zBF1Ddrbo0-5.jpg",
+        "out/media/2026-09-08-R9zBF1Ddrbo0-6.jpg",
+        "out/media/2026-09-08-R9zBF1Ddrbo0-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you're craving something light after three days of seafood. You take a wrong turn on Đường Nguyễn Trãi. You find Khánh Ly Vegetarian Restaurant.\n\n4.2 stars. 411 reviews. Under $10 a head. In Phu Quoc.\n\nFull plant-based menu, real portions, zero resort markup. This is the reset meal your stomach didn't know it needed.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Plates landing at Khánh Ly Vegetarian Restaurant. All of this, under $10. Phu Quoc's best-kept lunch stop is on Đường Nguyễn Trãi, and 411 reviewers already know it. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+        },
+        "instagram": {
+          "caption": "Took a wrong turn. Found Khánh Ly Vegetarian Restaurant. Under $10, 4.2 stars, 411 reviews.\n\nSave this.",
+          "video_caption": "Full vegan spread, under $10. Khánh Ly on Đường Nguyễn Trãi is the reset meal Phu Quoc trips need.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VeganVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "Wrong turn in Phu Quoc, found this vegan spot. Under $10. 411 reviews. Don't walk past it. #PhuQuoc #PhuQuocFood #VeganVietnam #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Wrong turn. Found this.",
+          "scenes": [
+            "Walk down Đường Nguyễn Trãi, sign appears",
+            "Push open door, small local dining room",
+            "Plates of plant-based dishes hit the table",
+            "Close-up: colorful portions, steam rising",
+            "Receipt slides over: under $10 total"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ1Tz0QOcfCDER2oug-pJV_TA",
+      "placeName": "Thali House - Best Indian 100% Vegetarian Food in Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-08-R2oug-pJV_TA-0.jpg",
+        "out/media/2026-09-08-R2oug-pJV_TA-1.jpg",
+        "out/media/2026-09-08-R2oug-pJV_TA-2.jpg",
+        "out/media/2026-09-08-R2oug-pJV_TA-3.jpg",
+        "out/media/2026-09-08-R2oug-pJV_TA-4.jpg",
+        "out/media/2026-09-08-R2oug-pJV_TA-5.jpg",
+        "out/media/2026-09-08-R2oug-pJV_TA-6.jpg",
+        "out/media/2026-09-08-R2oug-pJV_TA-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-08-R2oug-pJV_TA.mp4",
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Under $15 for a full Indian thali. In Phu Quoc.\n\nThali House is 100% vegetarian and one of the highest-rated restaurants on the island. 4.9 stars across 66 reviews. That's not luck.\n\nFull thali spread, fresh ingredients, zero meat. Perfect for vegetarians who thought Phu Quoc would be a struggle.\n\nLocated at Vn58 Riverside, Phú Quốc. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch this thali land on the table. Multiple dishes, one price, zero meat. Thali House at Vn58 Riverside, Phú Quốc is rated 4.9 stars for a reason. Under $15 and fully vegetarian.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Under $15. Full Indian thali. 4.9 stars. Thali House, Phú Quốc is the vegetarian answer nobody told you about.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "4.9 stars. 66 reviews. 100% vegetarian Indian thali in Phu Quoc for under $15. Thali House delivers.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "Under $15 for a full Indian thali in Phu Quoc?? Thali House is 100% vegetarian and rated 4.9 stars. Don't sleep on this. #PhuQuoc #PhuQuocFood #VegetarianTravel #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Under $15 Indian thali. Phu Quoc.",
+          "scenes": [
+            "Exterior shot: Vn58 Riverside entrance",
+            "Thali tray arriving on table",
+            "Close-up: 6+ dishes in the spread",
+            "Fork lifts dal, steam visible",
+            "4.9 star rating shown on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJY6GhjSaNpzERAuI657sZah0",
+      "placeName": "Bombay Pure Vegetarian Indian Restaurant",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-08-RAuI657sZah0-0.jpg",
+        "out/media/2026-09-08-RAuI657sZah0-1.jpg",
+        "out/media/2026-09-08-RAuI657sZah0-2.jpg",
+        "out/media/2026-09-08-RAuI657sZah0-3.jpg",
+        "out/media/2026-09-08-RAuI657sZah0-4.jpg",
+        "out/media/2026-09-08-RAuI657sZah0-5.jpg",
+        "out/media/2026-09-08-RAuI657sZah0-6.jpg",
+        "out/media/2026-09-08-RAuI657sZah0-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this alley. Big mistake.\n\nBombay Pure Vegetarian Indian Restaurant is sitting in Hẻm 124 Đường Trần Hưng Đạo and it has a perfect 5.0★ from 48 reviews. Pure vegetarian. Fully legit Indian food. In Phu Quoc.\n\nIf you're vegetarian, vegan, or just done with seafood for a day, this place solves the problem. Around $15-30 a person.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "A back-alley in Phu Quoc. Perfect 5.0 stars. Pure vegetarian Indian food that actually delivers. Bombay Pure Vegetarian Indian Restaurant is one of those spots the feed never shows you. Now you know.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFoodAbroad #VisitVietnam #TravelTips #PhuQuocRestaurants"
+        },
+        "instagram": {
+          "caption": "Tourists walk straight past this alley. Don't.\n\nBombay Pure Vegetarian Indian Restaurant. 5.0★. Pure veg Indian food in Phu Quoc. $15-30/person.\n\nSave this.",
+          "video_caption": "Perfect 5.0 stars. Hidden in a back alley. Pure vegetarian Indian food in Phu Quoc. Bombay delivers.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianTravel #IndianFoodAbroad #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "Tourists skip this alley every day. 5.0★ pure veg Indian food in Phu Quoc. Don't be them. #PhuQuoc #PhuQuocFood #VegetarianTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Tourists keep missing this alley.",
+          "scenes": [
+            "Pan down narrow Hẻm 124 alley entrance",
+            "Restaurant sign comes into frame: Bombay",
+            "Steaming curry bowl lands on table",
+            "Close-up: vibrant dal, fresh naan, chutneys",
+            "Phone screen showing 5.0★ rating"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJMSfrfEqNpzER9_6_sLzv_nk",
+      "placeName": "Maharaja Lounge - Authentic Indian 100% Veg Restaurant",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-08-R9_6_sLzv_nk-0.jpg",
+        "out/media/2026-09-08-R9_6_sLzv_nk-1.jpg",
+        "out/media/2026-09-08-R9_6_sLzv_nk-2.jpg",
+        "out/media/2026-09-08-R9_6_sLzv_nk-3.jpg",
+        "out/media/2026-09-08-R9_6_sLzv_nk-4.jpg",
+        "out/media/2026-09-08-R9_6_sLzv_nk-5.jpg",
+        "out/media/2026-09-08-R9_6_sLzv_nk-6.jpg",
+        "out/media/2026-09-08-R9_6_sLzv_nk-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-08-R9_6_sLzv_nk.mp4",
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Full Indian vegetarian meal in Phu Quoc for under $30? Maharaja Lounge on Đường Trần Hưng Đạo is doing it. 4.7 stars across 2,727 reviews. 100% veg menu, no shortcuts. Curries, dals, fresh bread. The kind of food that makes you book a second night. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch this plate land on the table. Maharaja Lounge. 100% vegetarian, $15-30 a person, 4.7 stars. Phu Quoc just surprised you.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #IndianFoodVietnam #VegetarianTravel #VisitVietnam #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "$15-30 for full Indian veg in Phu Quoc. Maharaja Lounge. 4.7★, 2,727 reviews. This one earns it. Save this for your Phu Quoc trip.",
+          "video_caption": "$30 max. 4.7 stars. 100% veg Indian food on Đường Trần Hưng Đạo. Maharaja Lounge just changed dinner plans.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianVietnam #IndianFoodAbroad #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "4.7 stars. 2,727 reviews. Full Indian veg meal under $30 in Phu Quoc. Maharaja Lounge is real. #PhuQuoc #PhuQuocFood #VegetarianTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Under $30. Indian food. Phu Quoc.",
+          "scenes": [
+            "Exterior shot: Maharaja Lounge sign on Đường Trần Hưng Đạo",
+            "Menu close-up, prices visible",
+            "Curry bowl poured tableside, steam rising",
+            "Fresh bread pulled apart, layers visible",
+            "Phone shows 4.7 stars, 2,727 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJlehMyBUfCDERDSqZ_aeChQA",
+      "placeName": "Lam Vegan - Tiệm Chay Lam",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-08-RDSqZ_aeChQA-0.jpg",
+        "out/media/2026-09-08-RDSqZ_aeChQA-1.jpg",
+        "out/media/2026-09-08-RDSqZ_aeChQA-2.jpg",
+        "out/media/2026-09-08-RDSqZ_aeChQA-3.jpg",
+        "out/media/2026-09-08-RDSqZ_aeChQA-4.jpg",
+        "out/media/2026-09-08-RDSqZ_aeChQA-5.jpg",
+        "out/media/2026-09-08-RDSqZ_aeChQA-6.jpg",
+        "out/media/2026-09-08-RDSqZ_aeChQA-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Under $10 for ALL of this. At a 4.9-star vegan spot inside Grand World. Lam Vegan - Tiệm Chay Lam is doing something special. 77 reviews and barely a complaint in sight. Plant-based done right, priced for everyday eating, not just special occasions. Add it to your Grand World lunch plans. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the plates land at Lam Vegan - Tiệm Chay Lam. Full vegan spread, under $10 per person, 4.9 stars. Grand World just got a serious lunch upgrade. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #GrandWorldPhuQuoc #VisitVietnam #TravelTips #PhuQuocRestaurants"
+        },
+        "instagram": {
+          "caption": "Under $10. 4.9 stars. 77 reviews. Lam Vegan - Tiệm Chay Lam inside Grand World is the move. Save this for your Phu Quoc trip.",
+          "video_caption": "4.9 stars, full vegan plates, under $10. Lam Vegan - Tiệm Chay Lam hits different. Grand World, Phu Quoc.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VeganVietnam #GrandWorldPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "4.9 stars, under $10, fully vegan. Lam Vegan - Tiệm Chay Lam at Grand World is unreal. #PhuQuoc #PhuQuocFood #VeganVietnam #TravelTips"
+        },
+        "video_script": {
+          "hook": "Under $10. 4.9 stars. Vegan.",
+          "scenes": [
+            "Pan across full table of vegan dishes",
+            "Close-up: vibrant bowls, fresh garnishes",
+            "Show Grand World exterior, walk inside",
+            "Hands picking up chopsticks, first bite",
+            "Price receipt or menu on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJj3KLVmuNpzERRcxS6PIioiI",
+      "placeName": "RASOI INDIAN PURE VEGETARIAN RESTAURANT",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-08-RRcxS6PIioiI-0.jpg",
+        "out/media/2026-09-08-RRcxS6PIioiI-1.jpg",
+        "out/media/2026-09-08-RRcxS6PIioiI-2.jpg",
+        "out/media/2026-09-08-RRcxS6PIioiI-3.jpg",
+        "out/media/2026-09-08-RRcxS6PIioiI-4.jpg",
+        "out/media/2026-09-08-RRcxS6PIioiI-5.jpg",
+        "out/media/2026-09-08-RRcxS6PIioiI-6.jpg",
+        "out/media/2026-09-08-RRcxS6PIioiI-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-08-RRcxS6PIioiI.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this place. The Indian vegetarian community on Phu Quoc does not.\n\nRASOI INDIAN PURE VEGETARIAN RESTAURANT on 97 Đường Trần Hưng Đạo is pulling a 4.8★ across 1,340 reviews. Zero meat. Zero compromise on flavour. Dhal, paneer, fresh roti in the middle of a beach island.\n\nIf you're vegetarian and heading to Phu Quoc, this is the pin you need. Save this for your Phu Quoc trip.",
+          "video_caption": "4.8 stars. 1,340 reviews. Full veg menu. Watch the food land on the table and tell me Phu Quoc doesn't surprise you. RASOI INDIAN PURE VEGETARIAN RESTAURANT, 97 Đường Trần Hưng Đạo. The vegetarian card finally works here.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Tourists walk past this every day. 4.8★ from 1,340 reviews says that's their loss.\n\nRASOI INDIAN PURE VEGETARIAN RESTAURANT, Đường Trần Hưng Đạo. Save this.",
+          "video_caption": "Pure veg. 4.8 stars. On a beach island. RASOI is the one vegetarians actually talk about in Phu Quoc.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "Vegetarian on a beach trip? RASOI has you covered. 4.8★, 1,340 reviews, zero meat. #PhuQuoc #PhuQuocFood #VegetarianTravel #VisitVietnam"
+        },
+        "video_script": {
+          "hook": "Locals don't post about this.",
+          "scenes": [
+            "Exterior shot: 97 Đường Trần Hưng Đạo sign",
+            "Steaming dhal poured into bowl",
+            "Fresh roti pressed and plated",
+            "Paneer dish set on table close-up",
+            "4.8★ review screen recorded on phone"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJYREw3iyNpzER4MEeLlm9Ju4",
+      "placeName": "Nhà hàng Chay Minh Tâm",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-08-R4MEeLlm9Ju4-0.jpg",
+        "out/media/2026-09-08-R4MEeLlm9Ju4-1.jpg",
+        "out/media/2026-09-08-R4MEeLlm9Ju4-2.jpg",
+        "out/media/2026-09-08-R4MEeLlm9Ju4-3.jpg",
+        "out/media/2026-09-08-R4MEeLlm9Ju4-4.jpg",
+        "out/media/2026-09-08-R4MEeLlm9Ju4-5.jpg",
+        "out/media/2026-09-08-R4MEeLlm9Ju4-6.jpg",
+        "out/media/2026-09-08-R4MEeLlm9Ju4-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you're in Phu Quoc craving something that isn't seafood, and you find Nhà hàng Chay Minh Tâm. 4.6 stars, 273 reviews, fully vegan menu. Around $15-30 a person. The locals clearly know something the resort buffets don't. Vietnamese plant-based cooking hits different when it's done right. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch what a fully vegan meal in Phu Quoc actually looks like. Nhà hàng Chay Minh Tâm, 4.6 stars, 273 reviews deep. $15-30 a person and every plate earned it.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+        },
+        "instagram": {
+          "caption": "POV: you found the vegan spot Phu Quoc wasn't advertising. Nhà hàng Chay Minh Tâm. 4.6★, 273 reviews. Tag your travel buddy.",
+          "video_caption": "Fully vegan. 4.6 stars. Phu Quoc didn't tell you about Nhà hàng Chay Minh Tâm. Now you know.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VeganVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "POV: found the best vegan meal in Phu Quoc by accident. Nhà hàng Chay Minh Tâm does not miss. #PhuQuoc #PhuQuocFood #VeganVietnam #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: vegan food in Phu Quoc??",
+          "scenes": [
+            "Walk up to 245 Đ. 30 Tháng 4 exterior",
+            "Pan across full vegan dishes on table",
+            "Close-up on textures, sauces, colors",
+            "Cut to review count: 4.6★ 273 reviews",
+            "Show bill or menu price range $15-30"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJf3chCACNpzER9HKozVLUOpA",
+      "placeName": "Desi Indian Restaurant (Pure Veg)",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-08-R9HKozVLUOpA-0.jpg",
+        "out/media/2026-09-08-R9HKozVLUOpA-1.jpg",
+        "out/media/2026-09-08-R9HKozVLUOpA-2.jpg",
+        "out/media/2026-09-08-R9HKozVLUOpA-3.jpg",
+        "out/media/2026-09-08-R9HKozVLUOpA-4.jpg",
+        "out/media/2026-09-08-R9HKozVLUOpA-5.jpg",
+        "out/media/2026-09-08-R9HKozVLUOpA-6.jpg",
+        "out/media/2026-09-08-R9HKozVLUOpA-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-08-R9HKozVLUOpA.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this one. Desi Indian Restaurant sits off the main drag near Cầu Bà Phong, pure vegetarian, 4.8 stars from 66 reviews. That rating on a veg-only menu in Phu Quoc is serious. Fresh curries, no meat, no compromise on flavor. Around $15-30 a head. Save this for your Phu Quoc trip.",
+          "video_caption": "Pure veg Indian food in Phu Quoc hitting 4.8 stars. Watch the curry land on the table at Desi Indian Restaurant near Cầu Bà Phong. This is what the vegetarians on the island have been quietly eating.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFoodAbroad #VisitVietnam #TravelTips #PhuQuocRestaurants"
+        },
+        "instagram": {
+          "caption": "Tourists keep walking past this. 4.8★ pure veg Indian food in Phu Quoc. Desi Indian Restaurant near Cầu Bà Phong. Tag your travel buddy.",
+          "video_caption": "4.8★ vegetarian curry. In Phu Quoc. Desi Indian Restaurant is the one locals aren't telling you about.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamTravel #VegetarianTravel #TravelTips #TravelReels #PhuQuocTips #IndianFood"
+        },
+        "tiktok": {
+          "caption": "Nobody talks about this 4.8★ pure veg Indian spot in Phu Quoc. Don't skip it. #PhuQuoc #PhuQuocFood #VegetarianTravel #TravelTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Tourists keep missing this.",
+          "scenes": [
+            "Exterior shot near Cầu Bà Phong bridge",
+            "Menu pages flipping, all vegetarian",
+            "Curry poured into bowl, steam rising",
+            "Close-up: rice and dal hitting the plate",
+            "4.8★ review screen on phone"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}
