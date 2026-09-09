@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJz6jCyeCLpzERx3hDmMkjhKg",
+    "ChIJM3vkNgCLpzERTVQY_pwHtWM",
+    "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
+    "ChIJfQAdSg2NpzEREkgYHVPn5dE",
+    "ChIJj0CLlcuTpzERosWOlPYPO2k",
+    "ChIJKzlafMuLpzERtBF-FredP28",
+    "ChIJEXpOynGNpzER-yD5vqjo9-E",
+    "ChIJIxst3A-NpzERxKcvb8CHI2Y",
+    "ChIJ73vtGACNpzERggOwt0eOKmI",
+    "ChIJ7fpDGamNpzERBaF8duO9WKY",
+    "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
+    "ChIJ-_0E4DSNpzERdh1-L4xrPi4",
     "ChIJf3chCACNpzER9HKozVLUOpA",
     "ChIJYREw3iyNpzER4MEeLlm9Ju4",
     "ChIJj3KLVmuNpzERRcxS6PIioiI",
@@ -187,21 +199,189 @@
     "ChIJhS_cnzseCDERAMqYy7efZBo",
     "ChIJ0R95YniTpzER8HfwfZ2aMZI",
     "ChIJLZPWxLiWpzERwrkgfIa1P8I",
-    "ChIJOwIiCSmNpzER1ISpdLmLcEg",
-    "ChIJyaYp1AWNpzERDrMiNPAJATE",
-    "ChIJhW2pjhiLpzERiG9nCVbYLxM",
-    "ChIJg1ksqtqNpzER3W4HrVMz7hE",
-    "ChIJt4XvJwCNpzERDsy4DogoAGY",
-    "ChIJfcquHHOTpzERsUBOTAhwrZs",
-    "ChIJg25lxluMpzERrx21QiH3gaI",
-    "ChIJjR83W0yNpzERUdxmKf-6ozw",
-    "ChIJh6tNOEiNpzERxoGlcVd66u4",
-    "ChIJ-zqn9WCMpzER2Ko070p2nyo",
-    "ChIJD8-KD3uNpzERZVGLp2AdvPI",
-    "ChIJAz1J0-mNpzERyQ40GMjmouI",
-    "ChIJo_k30uyXpzERwwH_mtvJ1aQ"
+    "ChIJOwIiCSmNpzER1ISpdLmLcEg"
   ],
   "history": [
+    {
+      "date": "2026-09-09",
+      "placeId": "ChIJz6jCyeCLpzERx3hDmMkjhKg",
+      "placeName": "Aura Beach Club",
+      "results": {
+        "facebookVideo": {
+          "id": "1043679894970980"
+        },
+        "instagramReel": {
+          "id": "18011475701953313"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "placeId": "ChIJM3vkNgCLpzERTVQY_pwHtWM",
+      "placeName": "Kỳ Long Wok Hei",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123034165313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17908535517525537"
+        }
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "placeId": "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
+      "placeName": "The Spice House Restaurant at Cassia Cottage Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "4684309345174756"
+        },
+        "instagramReel": {
+          "id": "18094290719540181"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "placeId": "ChIJfQAdSg2NpzEREkgYHVPn5dE",
+      "placeName": "Hi Coffee - 11 Trần Hưng Đạo - Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123033229313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18125818231865927"
+        }
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "placeId": "ChIJj0CLlcuTpzERosWOlPYPO2k",
+      "placeName": "Sora & Umi",
+      "results": {
+        "facebookVideo": {
+          "id": "3284020928652504"
+        },
+        "instagramReel": {
+          "id": "17887236306614882"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "placeId": "ChIJKzlafMuLpzERtBF-FredP28",
+      "placeName": "Hoa Đảo Viên Coffee - Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123032131313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18117868003953035"
+        }
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "placeId": "ChIJEXpOynGNpzER-yD5vqjo9-E",
+      "placeName": "BUM Coffee",
+      "results": {
+        "facebookVideo": {
+          "id": "2081345896001644"
+        },
+        "instagramReel": {
+          "id": "18021617255863390"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "placeId": "ChIJIxst3A-NpzERxKcvb8CHI2Y",
+      "placeName": "Tween's Kitchen - Main Street Branch",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123031231313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18151551565524175"
+        }
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "placeId": "ChIJ73vtGACNpzERggOwt0eOKmI",
+      "placeName": "Diner PHU QUOC BEER'n BURGERS BREAKFAST LUNCH DINNER",
+      "results": {
+        "facebookVideo": {
+          "id": "3195190370679396"
+        },
+        "instagramReel": {
+          "id": "18101099516616591"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "placeId": "ChIJ7fpDGamNpzERBaF8duO9WKY",
+      "placeName": "Bánh Mì & You",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123030097313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18100712843197291"
+        }
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "placeId": "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
+      "placeName": "ANBA COFFEE",
+      "results": {
+        "facebookVideo": {
+          "id": "1747443089634695"
+        },
+        "instagramReel": {
+          "id": "18108189890165436"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "placeId": "ChIJ-_0E4DSNpzERdh1-L4xrPi4",
+      "placeName": "Mộc Cuisine Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123029095313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18113232746045946"
+        }
+      }
+    },
     {
       "date": "2026-09-08",
       "placeId": "ChIJf3chCACNpzER9HKozVLUOpA",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18108105080161250"
-        }
-      }
-    },
-    {
-      "date": "2026-08-24",
-      "placeId": "ChIJyaYp1AWNpzERDrMiNPAJATE",
-      "placeName": "Quán cháo gà rẫy Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "2186653658933209"
-        },
-        "instagramReel": {
-          "id": "18616752283014958"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-24",
-      "placeId": "ChIJhW2pjhiLpzERiG9nCVbYLxM",
-      "placeName": "The Beauty Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120623545313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17986379162859564"
-        }
-      }
-    },
-    {
-      "date": "2026-08-24",
-      "placeId": "ChIJg1ksqtqNpzER3W4HrVMz7hE",
-      "placeName": "Tram Tram’s Banh Mi",
-      "results": {
-        "facebookVideo": {
-          "id": "825867173880669"
-        },
-        "instagramReel": {
-          "id": "18144764428504967"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-24",
-      "placeId": "ChIJt4XvJwCNpzERDsy4DogoAGY",
-      "placeName": "Song Gia Food Phu quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120622633313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18085751426243903"
-        }
-      }
-    },
-    {
-      "date": "2026-08-23",
-      "placeId": "ChIJfcquHHOTpzERsUBOTAhwrZs",
-      "placeName": "M Villas Beach Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1697346224690409"
-        },
-        "instagramReel": {
-          "id": "17903161686330879"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-23",
-      "placeId": "ChIJg25lxluMpzERrx21QiH3gaI",
-      "placeName": "Blue Monkey Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120457279313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18160551415487880"
-        }
-      }
-    },
-    {
-      "date": "2026-08-23",
-      "placeId": "ChIJjR83W0yNpzERUdxmKf-6ozw",
-      "placeName": "NONÊ Kitchen & Bar Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "2244260726373565"
-        },
-        "instagramReel": {
-          "id": "18390487354205669"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-23",
-      "placeId": "ChIJh6tNOEiNpzERxoGlcVd66u4",
-      "placeName": "Versailles - Beach Club Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120456271313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18087971843317578"
-        }
-      }
-    },
-    {
-      "date": "2026-08-23",
-      "placeId": "ChIJ-zqn9WCMpzER2Ko070p2nyo",
-      "placeName": "The Rabbit Hole Irish Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1084304303996540"
-        },
-        "instagramReel": {
-          "id": "17888042268675604"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-23",
-      "placeId": "ChIJD8-KD3uNpzERZVGLp2AdvPI",
-      "placeName": "Sip & Heal Beach Bar Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120455305313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18102020504222189"
-        }
-      }
-    },
-    {
-      "date": "2026-08-23",
-      "placeId": "ChIJAz1J0-mNpzERyQ40GMjmouI",
-      "placeName": "The Cheeky Traveller English Pub & Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1368603028762764"
-        },
-        "instagramReel": {
-          "id": "18089935568439940"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-23",
-      "placeId": "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
-      "placeName": "Istanbul Beach Club",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120454267313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18097660730049718"
         }
       }
     }
