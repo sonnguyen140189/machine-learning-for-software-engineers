@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10 at Hoa Đảo Viên Coffee - Phú Quốc. Coffee, views, and zero tourist markup. 4.5 stars across 222 reviews and it still flies under the radar. Phu Quoc cafes can drain your budget fast. This one won't. Order something iced, find a seat, stay longer than planned. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what $3 gets you at Hoa Đảo Viên Coffee - Phú Quốc. 4.5 stars. 222 reviews. Your new go-to cafe on the island. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocTips #VisitVietnam #VietnamTravel #ThingsToDoPhuQuoc #CoffeeVietnam"
+  },
+  "instagram": {
+    "caption": "Under $10 at Hoa Đảo Viên Coffee - Phú Quốc. 4.5 stars, 222 reviews, and your wallet stays intact. Save this for your Phu Quoc trip.",
+    "video_caption": "$3 coffee. 4.5 stars. Hoa Đảo Viên Coffee - Phú Quốc just earned a permanent spot on your trip list.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CoffeeVietnam #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Under $10 cafe in Phu Quoc with 4.5 stars. Hoa Đảo Viên Coffee - Phú Quốc. Go. #PhuQuoc #PhuQuocTips #VietnamTravel #CafeHopping"
+  },
+  "video_script": {
+    "hook": "Under $10. 4.5 stars. Phu Quoc.",
+    "scenes": [
+      "Exterior shot, sign visible, lush surrounds",
+      "Iced coffee poured, slow motion drip",
+      "Menu close-up, prices under $5",
+      "Wide cafe seating, relaxed crowd",
+      "Rating overlay: 4.5★ 222 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

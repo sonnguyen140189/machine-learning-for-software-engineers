@@ -1,0 +1,521 @@
+{
+  "stamp": "2026-09-09",
+  "items": [
+    {
+      "placeId": "ChIJ-_0E4DSNpzERdh1-L4xrPi4",
+      "placeName": "Mộc Cuisine Phú Quốc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-09-Rdh1-L4xrPi4-0.jpg",
+        "out/media/2026-09-09-Rdh1-L4xrPi4-1.jpg",
+        "out/media/2026-09-09-Rdh1-L4xrPi4-2.jpg",
+        "out/media/2026-09-09-Rdh1-L4xrPi4-3.jpg",
+        "out/media/2026-09-09-Rdh1-L4xrPi4-4.jpg",
+        "out/media/2026-09-09-Rdh1-L4xrPi4-5.jpg",
+        "out/media/2026-09-09-Rdh1-L4xrPi4-6.jpg",
+        "out/media/2026-09-09-Rdh1-L4xrPi4-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes a bad travel day. Mộc Cuisine Phú Quốc on Đường Trần Hưng Đạo does something most bistros in this price range don't: it feels calm. Food lands between $15-30 per person. The 4.7-star rating across 246 reviews is earned. Order slow, eat slower. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the plates arrive at Mộc Cuisine Phú Quốc. $15-30 per person. 4.7 stars. 246 people already know. You're catching up.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #VietnamFood #PhuQuocFood #TravelTips"
+        },
+        "instagram": {
+          "caption": "Phu Quoc that doesn't feel touristy. Mộc Cuisine Phú Quốc, 4.7 stars, $15-30/person. Tag your travel buddy.",
+          "video_caption": "Plates hitting the table at Mộc Cuisine Phú Quốc. 246 reviews. Under $30. Worth every minute.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam #VietnamFood"
+        },
+        "tiktok": {
+          "caption": "The bistro that fixes a rough travel day. Mộc Cuisine Phú Quốc. 4.7 stars. $15-30. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Phu Quoc that feels human.",
+          "scenes": [
+            "Exterior shot, Đường Trần Hưng Đạo signage",
+            "Hands setting down plates on table",
+            "Close-up: food details, steam rising",
+            "Wide shot: calm dining room, soft light",
+            "Price on menu, under $30 per person"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
+      "placeName": "ANBA COFFEE",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-09-Rwk2Xbd77-PU-0.jpg",
+        "out/media/2026-09-09-Rwk2Xbd77-PU-1.jpg",
+        "out/media/2026-09-09-Rwk2Xbd77-PU-2.jpg",
+        "out/media/2026-09-09-Rwk2Xbd77-PU-3.jpg",
+        "out/media/2026-09-09-Rwk2Xbd77-PU-4.jpg",
+        "out/media/2026-09-09-Rwk2Xbd77-PU-5.jpg",
+        "out/media/2026-09-09-Rwk2Xbd77-PU-6.jpg",
+        "out/media/2026-09-09-Rwk2Xbd77-PU-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-09-Rwk2Xbd77-PU.mp4",
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes the mid-trip crash.\n\nANBA COFFEE on 131 Đường Trần Hưng Đạo is the kind of café you sit in for two hours and forget you had plans. 4.6 stars across 1,366 reviews. That's not luck.\n\nOrder something cold. Slow down. Phu Quoc at this pace hits different.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch how fast this café empties your head. ANBA COFFEE, Phu Quoc. 4.6 stars, 1,366 people already know. Now you do too.",
+          "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocTips #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "This place fixes the mid-trip crash. ANBA COFFEE, 4.6★, 1,366 reviews. Two hours disappear here.\n\nTag your travel buddy.",
+          "video_caption": "Ordered one drink. Stayed two hours. ANBA COFFEE does that to you. 4.6★ and 1,366 reviews deep.",
+          "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CafeVibes"
+        },
+        "tiktok": {
+          "caption": "Mid-trip burnout? ANBA COFFEE fixes that. 4.6★ 1,366 reviews. Phu Quoc's reset button. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "This café fixes burnout.",
+          "scenes": [
+            "Exterior shot: sign, lush plants, street vibes",
+            "Hands wrapping around cold drink",
+            "Slow pan across quiet seating area",
+            "Close-up: condensation dripping on glass",
+            "Wide shot: guest zoned out, fully relaxed"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ7fpDGamNpzERBaF8duO9WKY",
+      "placeName": "Bánh Mì & You",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-09-RBaF8duO9WKY-0.jpg",
+        "out/media/2026-09-09-RBaF8duO9WKY-1.jpg",
+        "out/media/2026-09-09-RBaF8duO9WKY-2.jpg",
+        "out/media/2026-09-09-RBaF8duO9WKY-3.jpg",
+        "out/media/2026-09-09-RBaF8duO9WKY-4.jpg",
+        "out/media/2026-09-09-RBaF8duO9WKY-5.jpg",
+        "out/media/2026-09-09-RBaF8duO9WKY-6.jpg",
+        "out/media/2026-09-09-RBaF8duO9WKY-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "707 reviews. 4.8 stars. For a bánh mì spot in Cửa Lấp.\n\nBánh Mì & You is not the big tourist strip. It's the kind of place where the bread is still warm, the line moves fast, and locals outnumber tourists 3 to 1.\n\nBudget $15-30 a head and you're eating well. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch this bánh mì get built from scratch. Fresh bread, real fillings, $15-30 total. Bánh Mì & You in Cửa Lấp is pulling 4.8 stars for a reason. Don't walk past it.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #BanhMi #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+        },
+        "instagram": {
+          "caption": "707 reviews. 4.8 stars. At a bánh mì spot locals actually go to.\n\nBánh Mì & You, Cửa Lấp. Add it. Save this.",
+          "video_caption": "Fresh bánh mì. 4.8 stars. 707 people rated Bánh Mì & You and they're not wrong.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #BanhMi #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VietnamFood"
+        },
+        "tiktok": {
+          "caption": "4.8 stars and 707 reviews at a bánh mì spot in Cửa Lấp. Bánh Mì & You hits. #PhuQuoc #PhuQuocFood #BanhMi #VietnamFood #TravelTips"
+        },
+        "video_script": {
+          "hook": "707 reviews. One bánh mì spot.",
+          "scenes": [
+            "Exterior shot: Bánh Mì & You sign, Cửa Lấp street",
+            "Hands pulling fresh bread from the rack",
+            "Fillings layered fast, up close",
+            "First bite, steam rising",
+            "Rating card: 4.8★ 707 reviews on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ73vtGACNpzERggOwt0eOKmI",
+      "placeName": "Diner PHU QUOC BEER'n BURGERS BREAKFAST LUNCH DINNER",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-09-RggOwt0eOKmI-0.jpg",
+        "out/media/2026-09-09-RggOwt0eOKmI-1.jpg",
+        "out/media/2026-09-09-RggOwt0eOKmI-2.jpg",
+        "out/media/2026-09-09-RggOwt0eOKmI-3.jpg",
+        "out/media/2026-09-09-RggOwt0eOKmI-4.jpg",
+        "out/media/2026-09-09-RggOwt0eOKmI-5.jpg",
+        "out/media/2026-09-09-RggOwt0eOKmI-6.jpg",
+        "out/media/2026-09-09-RggOwt0eOKmI-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-09-RggOwt0eOKmI.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you're walking Đường Trần Hưng Đạo and suddenly spot a proper burger joint. Not pho. Not bánh mì. A full American-style diner in Phu Quoc. Diner PHU QUOC BEER'n BURGERS BREAKFAST LUNCH DINNER delivers all three meals, cold beers, and 4.6 stars across 131 reviews. Budget around $15-30 per person. Save this for your Phu Quoc trip.",
+          "video_caption": "Burgers hitting the grill on Đường Trần Hưng Đạo. Cold beer, full diner menu, breakfast through dinner. 4.6 stars and it actually earns them. Tag your travel buddy who said you can't eat well in Phu Quoc.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: you find a real burger spot mid-walk in Phu Quoc. 4.6★, 131 reviews, $15-30pp. Save this.",
+          "video_caption": "Burgers, cold beers, breakfast to dinner. Diner PHU QUOC BEER'n BURGERS on Đường Trần Hưng Đạo. Worth every stop.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+        },
+        "tiktok": {
+          "caption": "Walked past, did a full U-turn. Diner PHU QUOC BEER'n BURGERS on Đường Trần Hưng Đạo hits. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Walked past. Big mistake.",
+          "scenes": [
+            "Exterior shot of diner sign on Đường Trần Hưng Đạo",
+            "Burger basket lands on counter, close-up",
+            "Cold beer poured, condensation dripping",
+            "Full diner interior, midday crowd visible",
+            "Google rating 4.6 stars on phone screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJIxst3A-NpzERxKcvb8CHI2Y",
+      "placeName": "Tween's Kitchen - Main Street Branch",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-09-RxKcvb8CHI2Y-0.jpg",
+        "out/media/2026-09-09-RxKcvb8CHI2Y-1.jpg",
+        "out/media/2026-09-09-RxKcvb8CHI2Y-2.jpg",
+        "out/media/2026-09-09-RxKcvb8CHI2Y-3.jpg",
+        "out/media/2026-09-09-RxKcvb8CHI2Y-4.jpg",
+        "out/media/2026-09-09-RxKcvb8CHI2Y-5.jpg",
+        "out/media/2026-09-09-RxKcvb8CHI2Y-6.jpg",
+        "out/media/2026-09-09-RxKcvb8CHI2Y-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.7 stars. 756 reviews. On the main drag of Phu Quoc.\n\nTween's Kitchen on Đường Trần Hưng Đạo earns that rating for a reason. Vietnamese dishes done properly, $15-30 a head, no tourist-trap shortcuts. The kind of place locals walk past and nod at. You should too.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Plates hitting the table at Tween's Kitchen. 756 people rated this 4.7 stars and they weren't wrong. Vietnamese food on Đường Trần Hưng Đạo that actually delivers. $15-30 a head. Go.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #VietnamFood #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "4.7 stars. 756 reviews. Đường Trần Hưng Đạo.\n\nTween's Kitchen earns every one of them. $15-30. Tag your travel buddy.",
+          "video_caption": "756 reviews don't lie. Tween's Kitchen is the move on Đường Trần Hưng Đạo. Under $30. Seriously.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodReels"
+        },
+        "tiktok": {
+          "caption": "756 people rated this 4.7★ in Phu Quoc. Tween's Kitchen. Under $30. Don't skip it. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.7★. 756 reviews. Phu Quoc.",
+          "scenes": [
+            "Exterior shot, Đường Trần Hưng Đạo sign visible",
+            "Menu close-up, prices on screen",
+            "Dishes arriving at table, steam rising",
+            "Fork or chopsticks breaking into first bite",
+            "Reviewer count on Google Maps zoomed in"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJEXpOynGNpzER-yD5vqjo9-E",
+      "placeName": "BUM Coffee",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-09-R-yD5vqjo9-E-0.jpg",
+        "out/media/2026-09-09-R-yD5vqjo9-E-1.jpg",
+        "out/media/2026-09-09-R-yD5vqjo9-E-2.jpg",
+        "out/media/2026-09-09-R-yD5vqjo9-E-3.jpg",
+        "out/media/2026-09-09-R-yD5vqjo9-E-4.jpg",
+        "out/media/2026-09-09-R-yD5vqjo9-E-5.jpg",
+        "out/media/2026-09-09-R-yD5vqjo9-E-6.jpg",
+        "out/media/2026-09-09-R-yD5vqjo9-E-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-09-R-yD5vqjo9-E.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "5.0 stars. 49 reviews. Zero complaints.\n\nBUM Coffee on 139 Đoàn Thị Điểm is the kind of café that earns a perfect score and still flies under the radar. Under $10 a person. Every time.\n\nSkip the resort coffee shop. This is where you go when you want the real thing.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the barista work at BUM Coffee, the only café in Phu Quoc sitting at a perfect 5.0. Under $10. No resort markup. Just good coffee on Đoàn Thị Điểm.",
+          "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocTips #VisitVietnam #TravelTips #VietnamCoffee #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "5.0 stars. 49 reviews. BUM Coffee doesn't miss.\n\nUnder $10. Real coffee. No resort price tag.\n\nTag your travel buddy.",
+          "video_caption": "Perfect score. Every cup. BUM Coffee on Đoàn Thị Điểm hits different when it's under $10.",
+          "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CoffeeVibes"
+        },
+        "tiktok": {
+          "caption": "5.0 stars. 49 reviews. BUM Coffee just doesn't miss. Under $10 every time. #PhuQuoc #PhuQuocCafe #VietnamCoffee #TravelTips"
+        },
+        "video_script": {
+          "hook": "5.0 stars. 49 reviews.",
+          "scenes": [
+            "Exterior shot: 139 Đoàn Thị Điểm signage",
+            "Barista pulling an espresso shot",
+            "Close-up: coffee cup on table",
+            "Phone screen showing 5.0 star rating",
+            "Price reveal: under $10 total bill"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJKzlafMuLpzERtBF-FredP28",
+      "placeName": "Hoa Đảo Viên Coffee - Phú Quốc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-09-RtBF-FredP28-0.jpg",
+        "out/media/2026-09-09-RtBF-FredP28-1.jpg",
+        "out/media/2026-09-09-RtBF-FredP28-2.jpg",
+        "out/media/2026-09-09-RtBF-FredP28-3.jpg",
+        "out/media/2026-09-09-RtBF-FredP28-4.jpg",
+        "out/media/2026-09-09-RtBF-FredP28-5.jpg",
+        "out/media/2026-09-09-RtBF-FredP28-6.jpg",
+        "out/media/2026-09-09-RtBF-FredP28-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Under $10 at Hoa Đảo Viên Coffee - Phú Quốc. Coffee, views, and zero tourist markup. 4.5 stars across 222 reviews and it still flies under the radar. Phu Quoc cafes can drain your budget fast. This one won't. Order something iced, find a seat, stay longer than planned. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch what $3 gets you at Hoa Đảo Viên Coffee - Phú Quốc. 4.5 stars. 222 reviews. Your new go-to cafe on the island. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocTips #VisitVietnam #VietnamTravel #ThingsToDoPhuQuoc #CoffeeVietnam"
+        },
+        "instagram": {
+          "caption": "Under $10 at Hoa Đảo Viên Coffee - Phú Quốc. 4.5 stars, 222 reviews, and your wallet stays intact. Save this for your Phu Quoc trip.",
+          "video_caption": "$3 coffee. 4.5 stars. Hoa Đảo Viên Coffee - Phú Quốc just earned a permanent spot on your trip list.",
+          "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CoffeeVietnam #VisitVietnam"
+        },
+        "tiktok": {
+          "caption": "Under $10 cafe in Phu Quoc with 4.5 stars. Hoa Đảo Viên Coffee - Phú Quốc. Go. #PhuQuoc #PhuQuocTips #VietnamTravel #CafeHopping"
+        },
+        "video_script": {
+          "hook": "Under $10. 4.5 stars. Phu Quoc.",
+          "scenes": [
+            "Exterior shot, sign visible, lush surrounds",
+            "Iced coffee poured, slow motion drip",
+            "Menu close-up, prices under $5",
+            "Wide cafe seating, relaxed crowd",
+            "Rating overlay: 4.5★ 222 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJj0CLlcuTpzERosWOlPYPO2k",
+      "placeName": "Sora & Umi",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-09-RosWOlPYPO2k-0.jpg",
+        "out/media/2026-09-09-RosWOlPYPO2k-1.jpg",
+        "out/media/2026-09-09-RosWOlPYPO2k-2.jpg",
+        "out/media/2026-09-09-RosWOlPYPO2k-3.jpg",
+        "out/media/2026-09-09-RosWOlPYPO2k-4.jpg",
+        "out/media/2026-09-09-RosWOlPYPO2k-5.jpg",
+        "out/media/2026-09-09-RosWOlPYPO2k-6.jpg",
+        "out/media/2026-09-09-RosWOlPYPO2k-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-09-RosWOlPYPO2k.mp4",
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "Some restaurants you eat at. Some you actually feel. Sora & Umi sits inside the InterContinental on Bãi Trường and it hits different the moment you walk in. Asian cuisine, 4.7 stars across 302 reviews, and a setting that makes you forget your flight home exists. Save this for your Phu Quoc trip.",
+          "video_caption": "Chopsticks down, eyes up. This is Sora & Umi at the InterContinental on Bãi Trường. 4.7 stars, 302 reviews, and a vibe that earns every single one.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamFood #AsianCuisine"
+        },
+        "instagram": {
+          "caption": "Some restaurants you eat at. Some you actually feel. Sora & Umi, Bãi Trường. 4.7★ across 302 reviews. Save this.",
+          "video_caption": "4.7 stars. 302 reviews. Sora & Umi on Bãi Trường is earning every single one. Tag your travel buddy.",
+          "hashtags": "#PhuQuocRestaurants #PhuQuocFood #BaiTruong #PhuQuocTips #VietnamTravel #TravelReels #TravelTips #AsianFood"
+        },
+        "tiktok": {
+          "caption": "The restaurant that makes you forget your flight home. Sora & Umi, Bãi Trường. 4.7★ #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "This place fixes burnout.",
+          "scenes": [
+            "Wide shot: resort entrance, Bãi Trường behind",
+            "Push in on Sora & Umi signage",
+            "Table setting filmed close, slow pan",
+            "Dish lands on table, steam rising",
+            "Guest looks up, smiles, ocean in frame"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJfQAdSg2NpzEREkgYHVPn5dE",
+      "placeName": "Hi Coffee - 11 Trần Hưng Đạo - Phú Quốc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-09-REkgYHVPn5dE-0.jpg",
+        "out/media/2026-09-09-REkgYHVPn5dE-1.jpg",
+        "out/media/2026-09-09-REkgYHVPn5dE-2.jpg",
+        "out/media/2026-09-09-REkgYHVPn5dE-3.jpg",
+        "out/media/2026-09-09-REkgYHVPn5dE-4.jpg",
+        "out/media/2026-09-09-REkgYHVPn5dE-5.jpg",
+        "out/media/2026-09-09-REkgYHVPn5dE-6.jpg",
+        "out/media/2026-09-09-REkgYHVPn5dE-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes the overstimulation.\n\nHi Coffee on 11 Đường Trần Hưng Đạo is what you want after a full day of beaches, markets, and noise. 4.8 stars. 263 reviews. Under $10 a person.\n\nOrder something cold. Sit down. Nobody is rushing you out.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Cold drink in hand, fan overhead, zero tourist chaos. Hi Coffee at 11 Đường Trần Hưng Đạo hits different when the island gets loud. Under $10. 4.8 stars. You need this on your list.",
+          "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeePhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Phu Quoc gets loud. Hi Coffee fixes that.\n\n4.8★, 263 reviews, under $10. Tag your travel buddy.",
+          "video_caption": "Fan spinning. Cold drink arriving. Nobody rushing you. Hi Coffee, 11 Đường Trần Hưng Đạo. Under $10.",
+          "hashtags": "#PhuQuocCafe #PhuQuocFood #CoffeePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "The café that resets you mid-trip. 4.8★, under $10. Hi Coffee, Phú Quốc. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Phu Quoc burned you out.",
+          "scenes": [
+            "Exterior shot: 11 Đường Trần Hưng Đạo sign",
+            "Fan spinning slow overhead",
+            "Cold drink placed on table, condensation dripping",
+            "Empty seats, soft light, no crowd",
+            "Price board: everything under $10"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
+      "placeName": "The Spice House Restaurant at Cassia Cottage Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-09-RJ7MA3oUHL5E-0.jpg",
+        "out/media/2026-09-09-RJ7MA3oUHL5E-1.jpg",
+        "out/media/2026-09-09-RJ7MA3oUHL5E-2.jpg",
+        "out/media/2026-09-09-RJ7MA3oUHL5E-3.jpg",
+        "out/media/2026-09-09-RJ7MA3oUHL5E-4.jpg",
+        "out/media/2026-09-09-RJ7MA3oUHL5E-5.jpg",
+        "out/media/2026-09-09-RJ7MA3oUHL5E-6.jpg",
+        "out/media/2026-09-09-RJ7MA3oUHL5E-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-09-RJ7MA3oUHL5E.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.7 stars. 720 reviews. And most tourists walk straight past it.\n\nThe Spice House Restaurant at Cassia Cottage Phu Quoc sits on Đường Trần Hưng Đạo and quietly outrates half the island. Expect solid Vietnamese and international dishes, a calm garden setting, and prices that stay in the $15-30 range per person. No chaos. No tourist-trap menu.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "720 people rated this place 4.7 stars. Watch what lands on the table at The Spice House Restaurant at Cassia Cottage Phu Quoc. Garden setting, real food, $15-30 a head. This one earns every star.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "4.7 stars. 720 reviews. Not an accident.\n\nThe Spice House Restaurant at Cassia Cottage Phu Quoc, $15-30 a head. Save this.",
+          "video_caption": "720 reviews. 4.7 stars. The Spice House at Cassia Cottage delivers. Watch the plates arrive.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats #VisitVietnam"
+        },
+        "tiktok": {
+          "caption": "4.7 stars, 720 reviews, $15-30 a head. The Spice House at Cassia Cottage is doing something right. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.7★. 720 reviews. Worth it?",
+          "scenes": [
+            "Pan across garden dining area",
+            "Close-up: steaming dishes hitting table",
+            "Cut to: full table spread, two people",
+            "Zoom in: price on menu, $15-30",
+            "Final shot: satisfied reactions, empty plates"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJM3vkNgCLpzERTVQY_pwHtWM",
+      "placeName": "Kỳ Long Wok Hei",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-09-RTVQY_pwHtWM-0.jpg",
+        "out/media/2026-09-09-RTVQY_pwHtWM-1.jpg",
+        "out/media/2026-09-09-RTVQY_pwHtWM-2.jpg",
+        "out/media/2026-09-09-RTVQY_pwHtWM-3.jpg",
+        "out/media/2026-09-09-RTVQY_pwHtWM-4.jpg",
+        "out/media/2026-09-09-RTVQY_pwHtWM-5.jpg",
+        "out/media/2026-09-09-RTVQY_pwHtWM-6.jpg",
+        "out/media/2026-09-09-RTVQY_pwHtWM-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Under $10 for ALL of this. Kỳ Long Wok Hei is doing something special on Mạc Thiên Tích street. 4.9 stars across 92 reviews and the prices haven't caught up to the quality yet. Stir-fry done right, wok hei smoke, real heat. This is the kind of place locals eat twice a week and tourists walk straight past. Don't walk past. Save this for your Phu Quoc trip.",
+          "video_caption": "Flames up, wok smoking, plate lands in under 10 minutes. Kỳ Long Wok Hei is rated 4.9 stars and costs less than your airport coffee. 28 Mạc Thiên Tích. Go.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Under $10 a person. 4.9 stars. Kỳ Long Wok Hei hits different. Tag your travel buddy.",
+          "video_caption": "Wok on fire. Bill under $10. Kỳ Long Wok Hei, Phu Quoc. Enough said.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodTok"
+        },
+        "tiktok": {
+          "caption": "4.9 stars and under $10 a person?? Kỳ Long Wok Hei is not a drill. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Under $10. 4.9 stars.",
+          "scenes": [
+            "Wok flames burst over high heat",
+            "Chef tosses ingredients mid-air",
+            "Smoke rises, dish plated fast",
+            "Close-up: glossy stir-fry, steam rising",
+            "Bill arrives, under $10 on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJz6jCyeCLpzERx3hDmMkjhKg",
+      "placeName": "Aura Beach Club",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-09-Rx3hDmMkjhKg-0.jpg",
+        "out/media/2026-09-09-Rx3hDmMkjhKg-1.jpg",
+        "out/media/2026-09-09-Rx3hDmMkjhKg-2.jpg",
+        "out/media/2026-09-09-Rx3hDmMkjhKg-3.jpg",
+        "out/media/2026-09-09-Rx3hDmMkjhKg-4.jpg",
+        "out/media/2026-09-09-Rx3hDmMkjhKg-5.jpg",
+        "out/media/2026-09-09-Rx3hDmMkjhKg-6.jpg",
+        "out/media/2026-09-09-Rx3hDmMkjhKg-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-09-Rx3hDmMkjhKg.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists stick to Long Beach. Meanwhile, Aura Beach Club is out in Ông Lang doing this.\n\nZone 1 of the special zone. Less foot traffic. Actual breathing room. A beach club that doesn't feel like a theme park.\n\n4.4 stars across 184 reviews. That's real word-of-mouth, not algorithm. If you're planning a Phu Quoc trip, this one goes on the list.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the crowd thin out the second you pass Ông Lang. Aura Beach Club hits different when there's actually space to sit. 4.4 stars. 184 reviews. Most tourists never make it this far west.",
+          "first_comment": "#PhuQuoc #PhuQuocBeach #OngLang #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "Tourists keep walking past Ông Lang. That's exactly why Aura Beach Club is worth the detour. 4.4★, 184 reviews.\n\nTag your travel buddy.",
+          "video_caption": "Less crowd. More coast. Aura Beach Club in Ông Lang is where Phu Quoc actually slows down.",
+          "hashtags": "#PhuQuocBeaches #PhuQuocFood #OngLangBeach #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "The beach club tourists keep skipping in Phu Quoc. Big mistake. #PhuQuoc #PhuQuocTips #OngLang #BeachClub"
+        },
+        "video_script": {
+          "hook": "Tourists never come this far.",
+          "scenes": [
+            "Drone pull-back over Ông Lang coastline",
+            "Empty sun loungers facing open sea",
+            "Drinks arriving at a beachfront table",
+            "Wide shot: Aura Beach Club sign, Zone 1",
+            "Guest wading into calm water, no crowd"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

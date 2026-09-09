@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists stick to Long Beach. Meanwhile, Aura Beach Club is out in Ông Lang doing this.\n\nZone 1 of the special zone. Less foot traffic. Actual breathing room. A beach club that doesn't feel like a theme park.\n\n4.4 stars across 184 reviews. That's real word-of-mouth, not algorithm. If you're planning a Phu Quoc trip, this one goes on the list.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the crowd thin out the second you pass Ông Lang. Aura Beach Club hits different when there's actually space to sit. 4.4 stars. 184 reviews. Most tourists never make it this far west.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #OngLang #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Ông Lang. That's exactly why Aura Beach Club is worth the detour. 4.4★, 184 reviews.\n\nTag your travel buddy.",
+    "video_caption": "Less crowd. More coast. Aura Beach Club in Ông Lang is where Phu Quoc actually slows down.",
+    "hashtags": "#PhuQuocBeaches #PhuQuocFood #OngLangBeach #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The beach club tourists keep skipping in Phu Quoc. Big mistake. #PhuQuoc #PhuQuocTips #OngLang #BeachClub"
+  },
+  "video_script": {
+    "hook": "Tourists never come this far.",
+    "scenes": [
+      "Drone pull-back over Ông Lang coastline",
+      "Empty sun loungers facing open sea",
+      "Drinks arriving at a beachfront table",
+      "Wide shot: Aura Beach Club sign, Zone 1",
+      "Guest wading into calm water, no crowd"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

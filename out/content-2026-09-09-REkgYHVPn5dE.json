@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes the overstimulation.\n\nHi Coffee on 11 Đường Trần Hưng Đạo is what you want after a full day of beaches, markets, and noise. 4.8 stars. 263 reviews. Under $10 a person.\n\nOrder something cold. Sit down. Nobody is rushing you out.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Cold drink in hand, fan overhead, zero tourist chaos. Hi Coffee at 11 Đường Trần Hưng Đạo hits different when the island gets loud. Under $10. 4.8 stars. You need this on your list.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc gets loud. Hi Coffee fixes that.\n\n4.8★, 263 reviews, under $10. Tag your travel buddy.",
+    "video_caption": "Fan spinning. Cold drink arriving. Nobody rushing you. Hi Coffee, 11 Đường Trần Hưng Đạo. Under $10.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #CoffeePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The café that resets you mid-trip. 4.8★, under $10. Hi Coffee, Phú Quốc. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Phu Quoc burned you out.",
+    "scenes": [
+      "Exterior shot: 11 Đường Trần Hưng Đạo sign",
+      "Fan spinning slow overhead",
+      "Cold drink placed on table, condensation dripping",
+      "Empty seats, soft light, no crowd",
+      "Price board: everything under $10"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
