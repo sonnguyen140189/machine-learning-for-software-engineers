@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you ducked into Hẻm 111 and found Đảo Hải Sản. 4.7 stars. 1,383 reviews. $15-30 a head for fresh seafood in Phu Quoc. The locals eating here at 7pm told you everything you needed to know. Order the grilled stuff. Sit outside. Don't rush. Save this for your Phu Quoc trip.",
+    "video_caption": "Grilled prawns hitting the table at Đảo Hải Sản. 4.7 stars, 1,383 reviews, $30 max per person. Down a side alley on Đ. Trần Phú, locals packed in around you. This is the one.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "POV: you walked down Hẻm 111 and hit Đảo Hải Sản. 4.7★, 1,383 reviews, $30 max. Tag your travel buddy.",
+    "video_caption": "Side-alley seafood. 4.7 stars. Packed with locals. Đảo Hải Sản just became your dinner plan.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "POV: wrong alley, right restaurant. Đảo Hải Sản hits different at $15-30. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found the alley.",
+    "scenes": [
+      "Pan down narrow Hẻm 111 alley",
+      "Restaurant sign comes into frame",
+      "Packed tables, locals eating loudly",
+      "Grilled prawns plated and steaming",
+      "Bill arrives: under $30 per head"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

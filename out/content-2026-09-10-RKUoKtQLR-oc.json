@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you skip the crowded south and end up at Ông Lang instead. Ocean Bay Resort & Spa Phu Quoc sits right on Đường Dinh Bà, away from the tourist strip. 4.7 stars across 3,165 reviews. That number doesn't lie. Quieter beach. Actual spa. The kind of resort that earns repeat guests. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the difference between Phu Quoc's busy south and this. Ocean Bay Resort & Spa Phu Quoc, Ông Lang side. 4.7 stars. 3,165 people already figured this out. Your move.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #OngLang #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: you picked the Ông Lang side of Phu Quoc. Ocean Bay Resort & Spa Phu Quoc. 4.7★, 3,165 reviews. Tag your travel buddy.",
+    "video_caption": "Checked in at Ocean Bay Resort & Spa Phu Quoc. Ông Lang. Quieter. 4.7 stars. Worth it.",
+    "hashtags": "#PhuQuocResort #PhuQuocTips #OngLang #VietnamTravel #TravelTips #TravelReels #PhuQuocHotel #VisitVietnam #BeachResort"
+  },
+  "tiktok": {
+    "caption": "Skipped the south. Found this. Ocean Bay Resort & Spa Phu Quoc, Ông Lang. 4.7★ 3,165 reviews. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips #OngLang"
+  },
+  "video_script": {
+    "hook": "POV: you found the right side of Phu Quoc",
+    "scenes": [
+      "Drone pulls back from Ông Lang coastline",
+      "Resort entrance sign: Đường Dinh Bà",
+      "Pool water rippling, no crowds",
+      "Spa treatment room door opens slowly",
+      "Rating card: 4.7★ 3,165 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

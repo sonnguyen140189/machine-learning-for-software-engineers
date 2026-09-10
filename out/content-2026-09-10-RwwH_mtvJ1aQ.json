@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 3,859 reviews. On a beach in Phu Quoc.\n\nIstanbul Bai Kem sits right on Bãi Khem, one of the cleanest stretches of sand on the island. Thousands of travelers rated it near-perfect. That number doesn't lie.\n\nBook a table, plant your feet in the sand, and let the food do the rest.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Waves behind you. A 4.8-rated plate in front of you. This is Istanbul Bai Kem on Bãi Khem. 3,859 people already know. Now you do too.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #BaiKhem #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 3,859 reviews. Feet in the sand at Bãi Khem.\n\nIstanbul Bai Kem earns every rating. Tag your travel buddy.",
+    "video_caption": "3,859 people rated this 4.8. Istanbul Bai Kem, Bãi Khem. Don't walk past it.",
+    "hashtags": "#PhuQuocRestaurants #PhuQuocFood #BaiKhem #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "4.8 stars on a beach in Phu Quoc. Istanbul Bai Kem on Bãi Khem hits different. #PhuQuoc #PhuQuocFood #BaiKhem #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8★ on a beach. 3,859 reviews.",
+    "scenes": [
+      "Aerial pan over Bãi Khem shoreline",
+      "Walk up to Istanbul Bai Kem entrance",
+      "Close-up: food arriving at a sand-side table",
+      "Wide shot: diners, waves in background",
+      "Zoom in on phone screen showing 4.8 rating"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

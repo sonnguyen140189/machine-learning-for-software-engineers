@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 749 reviews. And it's sitting in An Thới, the part of Phu Quoc most tourists never reach. Times Corner Restaurant earns every single one of those stars. Vietnamese food done right, priced at $15-30 per person, with a crowd that actually comes back. Not once. Repeatedly. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the plates land at Times Corner Restaurant and you'll understand 749 reviews instantly. An Thới, Phu Quoc. $15-30 a head. Worth every dong.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips #VietnamFood #AnThoi"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 749 reviews. An Thới, Phu Quoc. Times Corner Restaurant is not a fluke. $15-30 a head. Tag your travel buddy.",
+    "video_caption": "749 people rated this 4.8 stars. Times Corner Restaurant, An Thới. Watch why.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 749 reviews, An Thới Phu Quoc. Times Corner Restaurant hits different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8 stars. 749 reviews.",
+    "scenes": [
+      "Exterior shot, An Thới address sign visible",
+      "Steaming Vietnamese dishes arriving at table",
+      "Close-up on food textures, sauces, garnish",
+      "Packed dining room, locals and tourists mixed",
+      "Price check: menu showing $$, $15-30 range",
+      "Final plate reveal, fork hits the dish"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

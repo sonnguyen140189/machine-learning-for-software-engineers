@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past Nhà hàng hải sản Xưa và Nay. That's fine by the locals who eat here every week. Seafood this fresh on Đường Trần Hưng Đạo, $15-30 a head, 4.5 stars across 192 reviews. Not a resort restaurant. No upsell. Just the real deal. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch a plate of grilled seafood land on the table at Nhà hàng hải sản Xưa và Nay. $15-30 a head. 192 locals and regulars rated it 4.5 stars. Most tourists never find it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocSeafood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't advertise Nhà hàng hải sản Xưa và Nay. 4.5 stars, 192 reviews, $15-30 a head. Save this.",
+    "video_caption": "Fresh seafood. Real locals. Nhà hàng hải sản Xưa và Nay hits different when you actually find it.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocTips #PhuQuocRestaurant #VietnamTravel #TravelTips #TravelReels #FoodReels"
+  },
+  "tiktok": {
+    "caption": "Locals eat here every week. Tourists keep walking past. Nhà hàng hải sản Xưa và Nay, Phu Quoc. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel #SeafoodLovers"
+  },
+  "video_script": {
+    "hook": "Locals don't share this place.",
+    "scenes": [
+      "Pan down Đường Trần Hưng Đạo to the sign",
+      "Close-up: whole grilled fish hits the table",
+      "Show packed local crowd, no tourists in frame",
+      "Hands pulling apart fresh crab claws",
+      "Cut to bill: under $30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

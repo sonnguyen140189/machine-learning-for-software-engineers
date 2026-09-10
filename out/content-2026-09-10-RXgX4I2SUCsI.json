@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "14,136 reviews. 4.5 stars. Grand World Phu Quoc is not a fluke.\n\nThis is Phu Quoc's biggest entertainment complex, sitting right on Bãi Dài. Canals, light shows, food streets, night markets. One spot that runs until late.\n\nFirst-timers always underestimate how long they'll stay. Block a full evening.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Crowds moving through lit-up canals at Grand World Phu Quoc. 14,136 people rated this 4.5 stars. Watch the full loop before you plan your night out on Bãi Dài.",
+    "first_comment": "#PhuQuoc #GrandWorldPhuQuoc #PhuQuocNightlife #VisitVietnam #TravelTips #PhuQuocTrip #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "14,136 reviews. 4.5 stars. Grand World Phu Quoc earns it.\n\nCanals, light shows, night market. Block the full evening. Tag your travel buddy.",
+    "video_caption": "Lit canals, night markets, 14K reviews. Grand World Phu Quoc after dark hits different.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocTips #GrandWorldPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocFood"
+  },
+  "tiktok": {
+    "caption": "14,136 reviews don't lie. Grand World Phu Quoc at night is a whole vibe. #PhuQuoc #GrandWorld #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "14,136 reviews. 4.5 stars.",
+    "scenes": [
+      "Aerial shot: Grand World canal lit up at night",
+      "Crowds walking the main food street",
+      "Close-up: street food stalls, steam rising",
+      "Wide shot: light show reflecting on water",
+      "Slow pan: night market vendors in action",
+      "Final frame: full complex glowing, Bãi Dài backdrop"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

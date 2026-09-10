@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this one. Tree House Phu Quoc Restaurant and Coffee sits off the main drag in Ông Lang, and the 1,200 people who found it gave it 4.7 stars. Plates run $15-30. The kind of place that earns repeat visits, not just one photo. Save this for your Phu Quoc trip.",
+    "video_caption": "Climbing into lunch at Tree House Phu Quoc Restaurant and Coffee. Ông Lang's best-kept dining secret, 4.7 stars, $15-30 a head. Your resort concierge probably won't mention it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this. Tree House Phu Quoc, Ông Lang. 4.7 stars, 1,200 reviews, $15-30. Tag your travel buddy.",
+    "video_caption": "4.7 stars in Ông Lang and nobody talks about it. Tree House Phu Quoc hits different.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #OngLang #VietnamTravel #TravelTips #TravelReels #PhuQuocCafe"
+  },
+  "tiktok": {
+    "caption": "The restaurant your resort doesn't tell you about. 4.7 stars. Ông Lang. #PhuQuoc #PhuQuocFood #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Tourists walk past this daily.",
+    "scenes": [
+      "Exterior shot, treetop structure, Ông Lang road",
+      "Camera tilts up through open-air timber levels",
+      "Close-up: food arriving at a wooden table",
+      "Wide shot: near-empty terrace, lush surroundings",
+      "Cut to Google review screen: 4.7, 1,200 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

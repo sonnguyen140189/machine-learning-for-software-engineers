@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes a bad travel day.\n\nSorrento Restaurant & Bar in Phu Quoc is the kind of spot you stumble into stressed and leave two hours later wondering why you ever rush anywhere. 4.6 stars across 2,163 reviews. That's not luck. Food, drinks, atmosphere. All landing.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the vibe shift the moment you sit down at Sorrento Restaurant & Bar. 4.6 stars, 2,163 reviews, and it earns every single one. Phu Quoc just handed you your best evening.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes a bad travel day. Sorrento Restaurant & Bar. 4.6★, 2,163 reviews. Go.\n\nTag your travel buddy.",
+    "video_caption": "Sorrento Restaurant & Bar doing exactly what 2,163 reviewers promised. Phu Quoc delivered.",
+    "hashtags": "#PhuQuocRestaurants #PhuQuocFood #PhuQuocTips #PhuQuocBar #VietnamTravel #TravelTips #TravelReels #SoutheastAsiaFood"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc restaurant that actually fixes your mood. 4.6★ 2,163 reviews. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes your mood.",
+    "scenes": [
+      "Exterior pull-back, golden hour light",
+      "Drinks landing on the table, condensation",
+      "Close-up: food plated, steam rising",
+      "Wide shot: crowd, relaxed energy",
+      "Slow pan across the bar setup",
+      "Guest leaning back, visibly unwinding"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

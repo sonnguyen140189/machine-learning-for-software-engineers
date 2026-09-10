@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.6 stars. 298 reviews. And people keep coming back to Vựa hải sản nhà Su & Bee on 30 Đường Bạch Đằng.\n\nThis is the $$$$ end of Phu Quoc seafood. You're paying for quality, freshness, and a menu that locals actually respect.\n\nNot every meal in Phu Quoc has to be cheap. Some are worth every dong.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Crabs. Lobsters. Live tanks. Vựa hải sản nhà Su & Bee is the splurge spot Phu Quoc locals point you to when you stop asking for the cheap option. 4.6 stars across 298 reviews says enough.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocRestaurants #VisitVietnam #VietnamFood #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.6 stars. 298 reviews. Vựa hải sản nhà Su & Bee is the splurge seafood call in Phu Quoc.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Live tanks. Top-rated seafood. Vựa hải sản nhà Su & Bee. Worth every cent.",
+    "hashtags": "#PhuQuocSeafood #PhuQuocRestaurants #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SeafoodLovers"
+  },
+  "tiktok": {
+    "caption": "4.6 stars, 298 reviews. Phu Quoc's top seafood splurge. Vựa hải sản nhà Su & Bee delivers. #PhuQuoc #PhuQuocSeafood #VietnamFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.6★, 298 reviews.",
+    "scenes": [
+      "Pan across live seafood tanks",
+      "Chef pulls lobster from tank",
+      "Close-up: crab claws on ice",
+      "Dish lands on table, steam rising",
+      "Show restaurant sign: Vựa hải sản nhà Su & Bee"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
