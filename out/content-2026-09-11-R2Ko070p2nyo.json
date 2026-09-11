@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "950 reviews. 4.4 stars. On a party island where half the bars disappear after one season.\n\nThe Rabbit Hole Irish Bar on Đường Trần Hưng Đạo earns it. Cold draft. Big screens. A crowd that actually shows up for the game.\n\n$15-30 a head. Cold pint included in that math.\n\nIf you want a bar that delivers every single time, this is it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Draft pours. Screens stacked wall to wall. 950 people rated The Rabbit Hole Irish Bar 4.4 stars and you can see exactly why the second you walk in. $15-30 a head. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocBars #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "950 reviews. 4.4 stars. The Rabbit Hole Irish Bar just hits different.\n\nCold pints. Live sport. $15-30 a head.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Pints landing. Screens on. 950 reviews don't lie. The Rabbit Hole Irish Bar, Phu Quoc.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "950 reviews. 4.4 stars. Cold pints on Phu Quoc. The Rabbit Hole delivers every time. #PhuQuoc #PhuQuocNightlife #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "950 reviews. 4.4★. Earned.",
+    "scenes": [
+      "Exterior shot, neon sign lit up",
+      "Bartender pulls a cold draft pint",
+      "Wide angle: screens showing live sport",
+      "Crowd reacts to a goal on screen",
+      "Close-up: pint glass, condensation dripping"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

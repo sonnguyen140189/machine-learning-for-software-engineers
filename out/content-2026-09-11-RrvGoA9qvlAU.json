@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes the 3pm slump.\n\nMojito Beach Bar on 100C/4 Đường Trần Hưng Đạo hits different when the sun drops. Sand underfoot, cold drink in hand, $15-30 a person covers you for the whole session. 4.4 stars from 86 people who clearly came back for another round.\n\nPhu Quoc beach bars don't all deliver. This one does.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Sand. Mojito. Repeat. Mojito Beach Bar is the $15-30 stop you'll end up at twice. 4.4 stars, 86 reviews, and the vibe speaks for itself. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocBeachBar #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel #BeachBar"
+  },
+  "instagram": {
+    "caption": "This place fixes the 3pm slump. Mojito Beach Bar, Phu Quoc. $15-30, 4.4 stars, zero regrets.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Sand underfoot. Mojito in hand. 4.4 stars for a reason. Tag your travel buddy.",
+    "hashtags": "#PhuQuocBeachBar #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VisitVietnam #BeachVibes"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc bar that earns its 4.4 stars. $15-30, beach, mojitos. #PhuQuoc #PhuQuocTips #VietnamTravel #BeachBar"
+  },
+  "video_script": {
+    "hook": "This fixes the 3pm slump.",
+    "scenes": [
+      "Wide shot: beach bar, golden light",
+      "Close up: mojito poured over ice",
+      "Pan across sand seating area",
+      "Faces relaxed, drinks raised",
+      "On-screen text: 4.4 stars, 86 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

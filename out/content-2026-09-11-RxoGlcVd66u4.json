@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes a bad travel day fast.\n\nVersionsailles - Beach Club Phú Quốc sits right on Đường Trần Hưng Đạo with sand, drinks, and a view that earns the name. 4.6 stars across 419 reviews. Around $15-30 a head. Not a splurge. Just a really good decision.\n\nFeet in the sand. Order something cold. Watch the light change.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Sun dropping, drink in hand, sand underfoot at Versailles - Beach Club Phú Quốc. 4.6 stars. Under $30 a head. Some days the itinerary can wait. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocBeachClub #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes a bad travel day.\n\nVersionsailles - Beach Club Phú Quốc. 4.6★. $15-30 a head. Sand-level seating.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Drinks, sand, golden hour. Versailles - Beach Club Phú Quốc doing the work. 4.6★ for a reason.",
+    "hashtags": "#PhuQuocBeachClub #PhuQuocRestaurants #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachBarVibes"
+  },
+  "tiktok": {
+    "caption": "When the beach club actually delivers. Versailles - Beach Club Phú Quốc. 4.6★. Under $30. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This fixed my whole day.",
+    "scenes": [
+      "Wide shot: beach club from the water's edge",
+      "Close-up: cold drink hitting the table",
+      "Pan across sand seating at golden hour",
+      "Guest leaning back, ocean in the background",
+      "Text overlay: 4.6★ · 419 reviews · $15-30pp"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

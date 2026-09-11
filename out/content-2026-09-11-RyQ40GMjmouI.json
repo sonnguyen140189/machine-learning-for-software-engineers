@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're on Đường Trần Hưng Đạo and you spot a proper English pub down an alley. You go in. 4.8 stars. 899 reviews. Cold pint in hand within 60 seconds.\n\nThe Cheeky Traveller is the kind of bar that makes you cancel your dinner plans. Good crowd, no pretense, and a bill that won't hurt at $15-30 a head.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Down Hẻm 118 on Đường Trần Hưng Đạo, there's a pub that 899 people rated 4.8 stars. Watch what happens when we walk in at happy hour.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocNightlife #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Walked down a Phu Quoc alley. Found a 4.8-star English pub. Stayed for three rounds.\n\nThe Cheeky Traveller hits different. Tag your travel buddy.",
+    "video_caption": "POV: you duck into Hẻm 118. Cold pint. 899 five-star reviews. You're not leaving soon.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc #BarHopping"
+  },
+  "tiktok": {
+    "caption": "Found a 4.8-star English pub down a Phu Quoc alley. Walked past it twice before going in. Don't be me. #PhuQuoc #PhuQuocBars #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: best pub in Phu Quoc.",
+    "scenes": [
+      "Walk down narrow Hẻm 118 alley",
+      "Pub sign comes into frame, push in",
+      "Bartender pulls a cold pint",
+      "Crowd laughing, full bar atmosphere",
+      "Close-up: 4.8 stars on phone screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Sip & Heal Beach Bar on Đường Trần Hưng Đạo is exactly what the name promises. Cocktails, ocean air, no hustle. Budget around $15-30 a head. 4.6 stars from 55 reviews and it still feels like not enough people know about it. Go at golden hour. Order something cold. Do nothing else. Save this for your Phu Quoc trip.",
+    "video_caption": "Cocktail in hand, feet near the sand, Phu Quoc slowing you down. Sip & Heal Beach Bar is $15-30 a person and earns every cent. 4.6 stars. You'll see why fast.",
+    "first_comment": "#PhuQuoc #PhuQuocBar #PhuQuocTips #VisitVietnam #TravelTips #VietnamTravel #BeachBar"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Sip & Heal Beach Bar, Đường Trần Hưng Đạo. 4.6★, $15-30/head. Tag your travel buddy.",
+    "video_caption": "Cocktails, ocean breeze, zero stress. Sip & Heal Beach Bar delivering every time. 4.6★.",
+    "hashtags": "#PhuQuocBar #PhuQuocTips #PhuQuocBeach #VietnamTravel #TravelTips #TravelReels #BeachBarVibes"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc cocktail bar that actually fixes the burnout. 4.6★ and worth every cent. #PhuQuoc #PhuQuocTips #BeachBar #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Slow pan: bar stools, open ocean view",
+      "Bartender pours cocktail, ice clinks",
+      "Guest leans back, exhales, smiles",
+      "Wide shot: Đường Trần Hưng Đạo at dusk",
+      "Close-up: 4.6★ review on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

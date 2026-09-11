@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "3,756 reviews. 4.2 stars. Ngoc Hien Pearl Farm keeps showing up for a reason.\n\nThis is where Phu Quoc's famous pearls actually come from. Watch the whole process, from live oyster to finished jewelry, then shop direct from the source. No middleman markup.\n\nOn Đường Trần Hưng Đạo, easy to add to any day trip route.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Live oysters. Real pearls. Watch them crack one open right in front of you at Ngoc Hien Pearl Farm. Over 3,700 people rated this. Worth the stop.",
+    "first_comment": "#PhuQuoc #PhuQuocPearls #VisitVietnam #TravelTips #PhuQuocThingsToDo"
+  },
+  "instagram": {
+    "caption": "3,756 reviews. Ngoc Hien Pearl Farm earns every one.\nFarm to jewelry, no middleman. Save this for your Phu Quoc trip.",
+    "video_caption": "They crack the oyster open live. Real Phu Quoc pearls, straight from the source at Ngoc Hien Pearl Farm.",
+    "hashtags": "#PhuQuocPearls #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "3,756 people rated this pearl farm in Phu Quoc. Watch them open a live oyster. #PhuQuoc #PhuQuocPearls #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "3,756 reviews. Worth it?",
+    "scenes": [
+      "Aerial or wide shot: farm exterior on Đường Trần Hưng Đạo",
+      "Close-up: live oysters in tank",
+      "Hands prying oyster open, pearl revealed",
+      "Pearl jewelry display, camera pans slowly",
+      "Tourist holds pearl up to light, smiles"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

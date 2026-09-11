@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep scrolling past this rooftop. INK 360 sits on top of the InterContinental and delivers a full 360-degree view of Phu Quoc at sunset. 4.6 stars. 711 reviews. Still somehow not on every itinerary. Book a table before the sun drops. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the sky turn orange over the South China Sea from INK 360 rooftop. Full 360-degree rotation. InterContinental level. Not enough people talk about this one.",
+    "first_comment": "#PhuQuoc #PhuQuocBar #PhuQuocNightlife #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this rooftop. INK 360. 4.6 stars. 711 reviews. Go before sunset.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "360-degree Phu Quoc sunset from INK 360 rooftop. InterContinental. Underrated. Go.",
+    "hashtags": "#PhuQuocBar #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "Rooftop bar locals don't tell tourists about. INK 360. Full 360 views. 4.6 stars. #PhuQuoc #PhuQuocBar #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep missing this rooftop.",
+    "scenes": [
+      "Elevator doors open, rooftop revealed",
+      "Camera pans full 360 degrees slowly",
+      "Sun dropping over South China Sea",
+      "Cocktail glass caught in golden light",
+      "Crowd thins, bar staff in action",
+      "Final wide shot, city lights below"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

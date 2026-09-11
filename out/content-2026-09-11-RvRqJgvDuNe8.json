@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk past this every day. A 1982 house on Đường Trần Hưng Đạo, no big sign, no rooftop bar crowd. Inside: one of the best speakeasies on the island. Origin 1982 runs 4.9 stars across 642 reviews and almost nobody on the resort strip knows it exists. $15-30 a head for serious cocktails in a bar that actually has a personality. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking through the door of Origin 1982 at night. Old house. Low light. Craft cocktails you didn't expect to find in Phu Quoc. 4.9 stars. 642 reviews. Go find it on Đường Trần Hưng Đạo.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocBars #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Origin 1982. 4.9 stars. 642 reviews. A speakeasy inside a 1982 house on Đường Trần Hưng Đạo. Tag your travel buddy.",
+    "video_caption": "Step inside Origin 1982. Old house, low light, craft cocktails. The bar Phu Quoc's resort crowd never finds.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "A speakeasy inside a 1982 house. 4.9 stars. Nobody's talking about this. #PhuQuoc #PhuQuocNightlife #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this bar.",
+    "scenes": [
+      "Exterior shot: old house, no flashy sign",
+      "Push through the door, low warm light",
+      "Bartender building a craft cocktail",
+      "Close-up: glass, garnish, moody interior",
+      "Review card: 4.9★ 642 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

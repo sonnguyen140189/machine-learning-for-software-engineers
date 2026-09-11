@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 225 reviews. At a beach bar on Bãi Trường.\n\nFu Bar Regent Phu Quoc keeps showing up on every shortlist for good reason. Cold drinks, ocean front, and a crowd that actually knows what they're doing. Skip the resort lobby bar. This is where the evening starts.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Sunset hits different at Fu Bar Regent Phu Quoc. Bãi Trường beach, cold drink in hand, 4.8 stars earned. Watch the light drop over the water and understand why 225 people bothered to leave a review.",
+    "first_comment": "#PhuQuoc #PhuQuocBar #BaiTruong #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocNightlife #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 225 reviews. A beach bar on Bãi Trường. Fu Bar Regent Phu Quoc earns it.\n\nTag your travel buddy.",
+    "video_caption": "225 people rated this 4.8. Fu Bar Regent Phu Quoc at sunset. Bãi Trường, cold drink, zero regrets.",
+    "hashtags": "#PhuQuocBar #PhuQuocBeaches #BaiTruong #PhuQuocNightlife #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.8 stars at a beach bar on Bãi Trường. Fu Bar Regent Phu Quoc is not a skip. #PhuQuoc #PhuQuocBar #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8 stars. Beach bar. 225 reviews.",
+    "scenes": [
+      "Aerial pan over Bãi Trường shoreline",
+      "Push into Fu Bar Regent Phu Quoc entrance",
+      "Bartender pours drink, condensation drips",
+      "Wide shot: guests facing the ocean at dusk",
+      "Close-up: phone screen showing 4.8 star rating"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
