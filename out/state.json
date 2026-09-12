@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJOawITM2NpzERxPm19sYAUpo",
+    "ChIJOwIiCSmNpzER1ISpdLmLcEg",
+    "ChIJjwOhDFuNpzERHGC-KN7pjUk",
+    "ChIJAclVLQCNpzERZ2vBnJYPlsE",
+    "ChIJS797XwCNpzERpdvvoNGRBK4",
+    "ChIJc9uFHgCNpzERe-wLYlkuV_Q",
+    "ChIJQf0ZjIeNpzERtMMtf7OdVyg",
+    "ChIJR1rvyAmNpzERHEdIhXDMsII",
+    "ChIJ67MzfTqNpzERl5vEmwYkACQ",
+    "ChIJdx16fAKNpzERSPXFngAUL_g",
+    "ChIJccUCppGNpzERY4DpGOmVA7o",
+    "ChIJU7w5JACLpzERVi8kHyjAe-0",
     "ChIJG0ygU8-NpzERXtcRcF0Av7k",
     "ChIJ-RvbtGiNpzER2H1IufKqjGc",
     "ChIJh6tNOEiNpzERxoGlcVd66u4",
@@ -187,21 +199,189 @@
     "ChIJkXqwPFeNpzERTPv9JMJKOHg",
     "ChIJGW6TumGMpzERhbri9iJjUhI",
     "ChIJa3OAsqONpzERxb9MoGydTyU",
-    "ChIJs78WzrCNpzERsMQhq5rVxJU",
-    "ChIJq31LD1-MpzERdIuwa2Bg2ok",
-    "ChIJ44prVx6LpzERai_OMQwtHu0",
-    "ChIJO2yx-4eMpzER80b94-QiU6c",
-    "ChIJ1aeQ29SNpzERQ6q22sUKYRc",
-    "ChIJhwi1TFqTpzERiZQmfO7PxUY",
-    "ChIJLUwZPQCNpzERZrGj0TvOFHI",
-    "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
-    "ChIJO-aIpaKNpzERkCLeSERC9yE",
-    "ChIJQz9pjguLpzERt20ZmhsgK9Y",
-    "ChIJoXjKmgSNpzERianh5FZP7WE",
-    "ChIJjRr6GAKNpzERbsvxEBPABTc",
-    "ChIJZQnCwX2TpzERgwZZvzz_CcA"
+    "ChIJs78WzrCNpzERsMQhq5rVxJU"
   ],
   "history": [
+    {
+      "date": "2026-09-12",
+      "placeId": "ChIJOawITM2NpzERxPm19sYAUpo",
+      "placeName": "Phở bò Nam Định",
+      "results": {
+        "facebookVideo": {
+          "id": "1091007546762006"
+        },
+        "instagramReel": {
+          "id": "18114565574002783"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "placeId": "ChIJOwIiCSmNpzER1ISpdLmLcEg",
+      "placeName": "Mì Tê - Artisan Noodles",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123484699313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17928376137402859"
+        }
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "placeId": "ChIJjwOhDFuNpzERHGC-KN7pjUk",
+      "placeName": "Thường Lạc Artisan Dumplings - Phú Quốc (Branch No. 1)",
+      "results": {
+        "facebookVideo": {
+          "id": "1020486321010735"
+        },
+        "instagramReel": {
+          "id": "17916007791444413"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "placeId": "ChIJAclVLQCNpzERZ2vBnJYPlsE",
+      "placeName": "Châu Ký Gia - Cantonese noodles & Rice, Local Food",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123483643313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17900976333579645"
+        }
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "placeId": "ChIJS797XwCNpzERpdvvoNGRBK4",
+      "placeName": "Phở Vương Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1045454518313642"
+        },
+        "instagramReel": {
+          "id": "18074944967465974"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "placeId": "ChIJc9uFHgCNpzERe-wLYlkuV_Q",
+      "placeName": "Phở bát đá -bún bò bát đá Anh Đạt",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123482683313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18127948705839471"
+        }
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "placeId": "ChIJQf0ZjIeNpzERtMMtf7OdVyg",
+      "placeName": "Mì Tê Lý Thường Kiệt - Artisan Noodles",
+      "results": {
+        "facebookVideo": {
+          "id": "1095994846453831"
+        },
+        "instagramReel": {
+          "id": "18098469431568891"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "placeId": "ChIJR1rvyAmNpzERHEdIhXDMsII",
+      "placeName": "Bún Quậy Kiến-Xây | Local PhuQuoc Seafood Noodles",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123481699313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18112550485833016"
+        }
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "placeId": "ChIJ67MzfTqNpzERl5vEmwYkACQ",
+      "placeName": "Phở Lý Quốc Sư",
+      "results": {
+        "facebookVideo": {
+          "id": "1073624555388794"
+        },
+        "instagramReel": {
+          "id": "18243503728313239"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "placeId": "ChIJdx16fAKNpzERSPXFngAUL_g",
+      "placeName": "NINH KITCHEN 2 - VIETNAMESE CUISINE",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123480745313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18023662844879396"
+        }
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "placeId": "ChIJccUCppGNpzERY4DpGOmVA7o",
+      "placeName": "Phở Hòa",
+      "results": {
+        "facebookVideo": {
+          "id": "28221842124109085"
+        },
+        "instagramReel": {
+          "id": "18102900521348993"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "placeId": "ChIJU7w5JACLpzERVi8kHyjAe-0",
+      "placeName": "Dina Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123479719313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18104963273195630"
+        }
+      }
+    },
     {
       "date": "2026-09-11",
       "placeId": "ChIJG0ygU8-NpzERXtcRcF0Av7k",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "17890769898427330"
-        }
-      }
-    },
-    {
-      "date": "2026-08-27",
-      "placeId": "ChIJq31LD1-MpzERdIuwa2Bg2ok",
-      "placeName": "Sunset Beach Bar & Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1828554141829928"
-        },
-        "instagramReel": {
-          "id": "18149596978534483"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-27",
-      "placeId": "ChIJ44prVx6LpzERai_OMQwtHu0",
-      "placeName": "Highball Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122121156801313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18075868289379227"
-        }
-      }
-    },
-    {
-      "date": "2026-08-27",
-      "placeId": "ChIJO2yx-4eMpzER80b94-QiU6c",
-      "placeName": "HAPPY BEAR Live Music Bar & Bistro",
-      "results": {
-        "facebookVideo": {
-          "id": "2065814514099096"
-        },
-        "instagramReel": {
-          "id": "18027159638887076"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-27",
-      "placeId": "ChIJ1aeQ29SNpzERQ6q22sUKYRc",
-      "placeName": "OCSEN Beach Bar & Club",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122121155889313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18222854551330872"
-        }
-      }
-    },
-    {
-      "date": "2026-08-26",
-      "placeId": "ChIJhwi1TFqTpzERiZQmfO7PxUY",
-      "placeName": "Rooty Trip Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1045781865093916"
-        },
-        "instagramReel": {
-          "id": "18089505794305685"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-26",
-      "placeId": "ChIJLUwZPQCNpzERZrGj0TvOFHI",
-      "placeName": "Layla Mermaid Tours - Premium 4 Island Snorkeling & Beach BBQ Escape",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120995731313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18113052650097129"
-        }
-      }
-    },
-    {
-      "date": "2026-08-26",
-      "placeId": "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
-      "placeName": "Phil Hai Diving Club",
-      "results": {
-        "facebookVideo": {
-          "id": "1710363173397152"
-        },
-        "instagramReel": {
-          "id": "18181014247420484"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-26",
-      "placeId": "ChIJO-aIpaKNpzERkCLeSERC9yE",
-      "placeName": "Vietnam Active - PADI 5 Star Diving Center Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120994507313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17966071266158913"
-        }
-      }
-    },
-    {
-      "date": "2026-08-26",
-      "placeId": "ChIJQz9pjguLpzERt20ZmhsgK9Y",
-      "placeName": "Flipper diving club",
-      "results": {
-        "facebookVideo": {
-          "id": "2294947787947287"
-        },
-        "instagramReel": {
-          "id": "18612916759011909"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-26",
-      "placeId": "ChIJoXjKmgSNpzERianh5FZP7WE",
-      "placeName": "Kimie's Tours - Snorkeling, diving, & hiking",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120993421313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18090081320644760"
-        }
-      }
-    },
-    {
-      "date": "2026-08-26",
-      "placeId": "ChIJjRr6GAKNpzERbsvxEBPABTc",
-      "placeName": "EXMoney Phu Quoc Night Market | Currency Exchange",
-      "results": {
-        "facebookVideo": {
-          "id": "1055043113983286"
-        },
-        "instagramReel": {
-          "id": "18070693232471043"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-26",
-      "placeId": "ChIJZQnCwX2TpzERgwZZvzz_CcA",
-      "placeName": "Chợ đêm Ẩm thực Phu Quoc Marina",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122120992449313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18112852925065972"
         }
       }
     }
