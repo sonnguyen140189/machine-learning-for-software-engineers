@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10 for pho in Phu Quoc. And it's rated 4.9 stars.\n\nPhở Vương Phú Quốc on Đ. 30 Tháng 4 is the real deal. 257 reviews deep, locals and visitors keep coming back. Bowl after bowl.\n\nSkip the resort breakfast. Start your morning here instead.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch this bowl of pho land on the table at Phở Vương Phú Quốc. Under $10. 4.9 stars. 257 people already knew. Now you do too. Đ. 30 Tháng 4, Khu 1.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $10. 4.9 stars. 257 reviews. Phở Vương Phú Quốc is not a drill.\n\nSkip the resort breakfast. Tag your travel buddy.",
+    "video_caption": "A 4.9-star bowl of pho. Under $10. Phở Vương Phú Quốc hits different at 7am.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #Pho"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. Under $10. This pho spot in Phu Quoc is no joke. #PhuQuoc #PhuQuocFood #VietnamTravel #Pho"
+  },
+  "video_script": {
+    "hook": "Under $10. 4.9 stars. Phu Quoc.",
+    "scenes": [
+      "Street-level exterior, sign visible",
+      "Steaming bowl lands on table",
+      "Close-up: broth poured over noodles",
+      "Chopsticks lift noodles, steam rising",
+      "Review screen: 4.9 stars, 257 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10 for artisan noodles in Phu Quoc. At Mì Tê - Artisan Noodles on Đường Trần Hưng Đạo, 934 reviews and a 4.7-star rating back this up. Hand-crafted bowls. Real ingredients. No resort markup. This is the kind of spot you eat at three times in one trip and zero regrets. Save this for your Phu Quoc trip.",
+    "video_caption": "934 people rated this place 4.7 stars. Watch what a $10 noodle bowl in Phu Quoc actually looks like at Mì Tê - Artisan Noodles. Worth every cent.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #VietnamFood #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Under $10. 4.7 stars. 934 reviews. Mì Tê - Artisan Noodles is your next lunch stop in Phu Quoc. Tag your travel buddy.",
+    "video_caption": "Artisan noodle bowls under $10. Mì Tê delivers every time. 934 reviews don't lie.",
+    "hashtags": "#PhuQuocFood #PhuQuocEats #PhuQuocTips #VietnamFood #VietnamTravel #TravelTips #TravelReels #NoodleBowl #PhuQuocRestaurants"
+  },
+  "tiktok": {
+    "caption": "Under $10 noodle shop with 4.7 stars in Phu Quoc. Mì Tê hits different. #PhuQuoc #PhuQuocFood #VietnamFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $10. 4.7 stars. Phu Quoc.",
+    "scenes": [
+      "Close-up: steaming noodle bowl lands on table",
+      "Slow pour of broth over handmade noodles",
+      "Fork lifts a tangle of noodles, steam rising",
+      "Wide shot: packed dining room, locals eating",
+      "Google rating card: 4.7 stars, 934 reviews",
+      "Price receipt: under $10"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

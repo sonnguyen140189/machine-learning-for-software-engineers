@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10 for a steaming bowl of phở or bún bò. In PHU QUOC.\n\nPhở bát đá -bún bò bát đá Anh Đạt on 12 Lê Lợi is pulling a 4.8 from 74 reviews. That's not luck. That's a local spot that earns it every single day.\n\nBát đá means stone bowl. Your broth stays hot to the last spoonful. Skip the resort breakfast and come here instead.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Stone bowl hits the table. Broth still bubbling. Under $10 at Phở bát đá -bún bò bát đá Anh Đạt, 12 Lê Lợi. 4.8 stars. This is how Phu Quoc locals actually eat breakfast.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurant #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $10. Stone bowl. Still bubbling.\n\nPhở bát đá -bún bò bát đá Anh Đạt. 4.8 stars. 74 reviews. Skip the resort breakfast.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Broth hits a stone bowl and stays hot the whole meal. Under $10. Phu Quoc actually delivers.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurant #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Under $10 pho in Phu Quoc with a 4.8 rating. Stone bowl keeps it hot all meal. Don't miss this. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $10. Phu Quoc pho.",
+    "scenes": [
+      "Stone bowl arrives, broth steaming",
+      "Close-up: bún bò piled high",
+      "Spoon dips in, broth swirls",
+      "Exterior shot: 12 Lê Lợi shopfront",
+      "Text overlay: 4.8 stars, 74 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

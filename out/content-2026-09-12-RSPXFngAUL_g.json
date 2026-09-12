@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered down Đường 30/04 and found a 4.9-star Vietnamese kitchen most tourists scroll right past.\n\nNINH KITCHEN 2 - VIETNAMESE CUISINE sits at 63/2 Đường 30/04, Khu 1, Phú Quốc. Budget $15-30 per person. That rating with real food, real portions, real Phu Quoc flavor.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the dishes land at Ninh Kitchen 2. 4.9 stars on a local street in Phú Quốc. $15-30 a head. This is what eating right in Phu Quoc actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VisitVietnam #TravelTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: wrong turn. Right restaurant. Ninh Kitchen 2 on Đường 30/04 is rated 4.9 stars for a reason.\n\n$15-30/person. Tag your travel buddy.",
+    "video_caption": "4.9 stars. A local street in Phú Quốc. Ninh Kitchen 2 hits different when you actually find it.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #FoodTravelVietnam"
+  },
+  "tiktok": {
+    "caption": "Found a 4.9-star Vietnamese spot most tourists miss in Phú Quốc. Ninh Kitchen 2. $15-30. Go. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you found the 4.9-star local spot",
+    "scenes": [
+      "Walk down Đường 30/04, storefront appears",
+      "Close-up: steaming Vietnamese dishes on table",
+      "Show price: $15-30 per person on screen",
+      "Chopsticks lifting noodles, sauce dripping",
+      "Wide shot: locals and tourists eating together"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

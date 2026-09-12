@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "Walked down Đường Dinh Bà in Ông Lang and almost missed this place entirely. Dina Restaurant. 5.0 stars. 261 reviews. Zero hype on the tourist trail.\n\nÔng Lang is already the quieter side of Phu Quoc. Dina is the quieter side of that. Budget around $15-30 per person and eat well.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "A 5-star restaurant on a backstreet in Ông Lang. Watch what comes out of this kitchen. Dina Restaurant is doing something right. $15-30 per head and 261 people gave it perfect marks.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you took the side street in Ông Lang and found a 5.0-star restaurant nobody talks about.\n\nDina Restaurant. $15-30/person. 261 reviews. Perfect score.\n\nTag your travel buddy.",
+    "video_caption": "5.0 stars on a backstreet in Ông Lang. Dina Restaurant just earned a spot on the list.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #OngLang #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats"
+  },
+  "tiktok": {
+    "caption": "POV: wrong turn in Ông Lang. Found a 5.0-star restaurant. Don't be me, just go directly. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found Dina Restaurant",
+    "scenes": [
+      "Walking down Đường Dinh Bà, Ông Lang",
+      "Small sign, easy to miss, stop here",
+      "Food arriving at the table, close-up",
+      "Phone screen: 5.0 stars, 261 reviews",
+      "First bite reaction, no words needed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

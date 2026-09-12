@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk past this place every day. Locals fill every seat by noon.\n\nBún Quậy Kiến-Xây on Đường Trần Hưng Đạo is Phu Quoc's answer to seafood noodles done right. Under $10 a person. 2,757 reviews. Still no tour group in sight.\n\nOrder the bún quậy, watch them stir it tableside, eat fast before it gets cold. That's the move.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Chopsticks hit the bowl at Bún Quậy Kiến-Xây and the broth is already pulling you in. This is what $10 buys you in Phu Quoc. Real local seafood noodles, zero tourist markup. Go before lunch rush.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocLocalFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals fill this place before tourists even find it. Bún Quậy Kiến-Xây. Under $10. 2,757 reviews deep.\n\nTag your travel buddy.",
+    "video_caption": "Seafood noodles stirred tableside. Under $10. Phu Quoc locals know. Now you do too.",
+    "hashtags": "#PhuQuocFood #PhuQuocLocalFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamFood #PhuQuocNoodles"
+  },
+  "tiktok": {
+    "caption": "The noodle spot Phu Quoc locals kept to themselves. Under $10. Go. #PhuQuoc #PhuQuocFood #VietnamFood #LocalEats #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Street-level sign: Bún Quậy Kiến-Xây",
+      "Packed tables, zero tourists visible",
+      "Chef stirs noodles tableside, steam rises",
+      "Close-up: shrimp and seafood in clear broth",
+      "Price board, all under $10",
+      "First spoonful, slow motion"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

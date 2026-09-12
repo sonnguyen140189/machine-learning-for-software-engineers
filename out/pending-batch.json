@@ -1,0 +1,525 @@
+{
+  "stamp": "2026-09-12",
+  "items": [
+    {
+      "placeId": "ChIJU7w5JACLpzERVi8kHyjAe-0",
+      "placeName": "Dina Restaurant",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-12-RVi8kHyjAe-0-0.jpg",
+        "out/media/2026-09-12-RVi8kHyjAe-0-1.jpg",
+        "out/media/2026-09-12-RVi8kHyjAe-0-2.jpg",
+        "out/media/2026-09-12-RVi8kHyjAe-0-3.jpg",
+        "out/media/2026-09-12-RVi8kHyjAe-0-4.jpg",
+        "out/media/2026-09-12-RVi8kHyjAe-0-5.jpg",
+        "out/media/2026-09-12-RVi8kHyjAe-0-6.jpg",
+        "out/media/2026-09-12-RVi8kHyjAe-0-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "Walked down Đường Dinh Bà in Ông Lang and almost missed this place entirely. Dina Restaurant. 5.0 stars. 261 reviews. Zero hype on the tourist trail.\n\nÔng Lang is already the quieter side of Phu Quoc. Dina is the quieter side of that. Budget around $15-30 per person and eat well.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "A 5-star restaurant on a backstreet in Ông Lang. Watch what comes out of this kitchen. Dina Restaurant is doing something right. $15-30 per head and 261 people gave it perfect marks.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: you took the side street in Ông Lang and found a 5.0-star restaurant nobody talks about.\n\nDina Restaurant. $15-30/person. 261 reviews. Perfect score.\n\nTag your travel buddy.",
+          "video_caption": "5.0 stars on a backstreet in Ông Lang. Dina Restaurant just earned a spot on the list.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #OngLang #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats"
+        },
+        "tiktok": {
+          "caption": "POV: wrong turn in Ông Lang. Found a 5.0-star restaurant. Don't be me, just go directly. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "POV: you found Dina Restaurant",
+          "scenes": [
+            "Walking down Đường Dinh Bà, Ông Lang",
+            "Small sign, easy to miss, stop here",
+            "Food arriving at the table, close-up",
+            "Phone screen: 5.0 stars, 261 reviews",
+            "First bite reaction, no words needed"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJccUCppGNpzERY4DpGOmVA7o",
+      "placeName": "Phở Hòa",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-12-RY4DpGOmVA7o-0.jpg",
+        "out/media/2026-09-12-RY4DpGOmVA7o-1.jpg",
+        "out/media/2026-09-12-RY4DpGOmVA7o-2.jpg",
+        "out/media/2026-09-12-RY4DpGOmVA7o-3.jpg",
+        "out/media/2026-09-12-RY4DpGOmVA7o-4.jpg",
+        "out/media/2026-09-12-RY4DpGOmVA7o-5.jpg",
+        "out/media/2026-09-12-RY4DpGOmVA7o-6.jpg",
+        "out/media/2026-09-12-RY4DpGOmVA7o-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-12-RY4DpGOmVA7o.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.8 stars. 913 reviews. Under $10 a bowl.\n\nPhở Hòa on Đường Trần Hưng Đạo is the kind of place that earns its rating one bowl at a time. Locals eat here. Repeat visitors eat here. The broth does the talking.\n\nIf you're skipping pho in Phu Quoc because you think it's a tourist trap dish, this spot will change your mind fast.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "913 people rated this pho joint 4.8 stars. Watch what lands on the table for under $10. Phở Hòa, Đường Trần Hưng Đạo. Go hungry.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.8 stars. 913 reviews. Under $10.\n\nPhở Hòa hits different when the broth is this good. Tag your travel buddy.",
+          "video_caption": "Bowl arrives. Steam rises. 913 reviews don't lie. Phở Hòa for under $10.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhoVietnam"
+        },
+        "tiktok": {
+          "caption": "4.8 stars, 913 reviews, under $10. Phở Hòa is the move. #PhuQuoc #PhuQuocFood #VietnamFood #PhoTime"
+        },
+        "video_script": {
+          "hook": "4.8 stars. 913 reviews. $10.",
+          "scenes": [
+            "Exterior shot, busy lunch crowd outside",
+            "Bowl placed on table, steam rising",
+            "Close-up: broth poured over noodles",
+            "Hands adding fresh herbs and lime",
+            "First spoonful lifted to camera",
+            "Price check on the bill: under $10"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJdx16fAKNpzERSPXFngAUL_g",
+      "placeName": "NINH KITCHEN 2 - VIETNAMESE CUISINE",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-12-RSPXFngAUL_g-0.jpg",
+        "out/media/2026-09-12-RSPXFngAUL_g-1.jpg",
+        "out/media/2026-09-12-RSPXFngAUL_g-2.jpg",
+        "out/media/2026-09-12-RSPXFngAUL_g-3.jpg",
+        "out/media/2026-09-12-RSPXFngAUL_g-4.jpg",
+        "out/media/2026-09-12-RSPXFngAUL_g-5.jpg",
+        "out/media/2026-09-12-RSPXFngAUL_g-6.jpg",
+        "out/media/2026-09-12-RSPXFngAUL_g-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you wandered down Đường 30/04 and found a 4.9-star Vietnamese kitchen most tourists scroll right past.\n\nNINH KITCHEN 2 - VIETNAMESE CUISINE sits at 63/2 Đường 30/04, Khu 1, Phú Quốc. Budget $15-30 per person. That rating with real food, real portions, real Phu Quoc flavor.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the dishes land at Ninh Kitchen 2. 4.9 stars on a local street in Phú Quốc. $15-30 a head. This is what eating right in Phu Quoc actually looks like.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VisitVietnam #TravelTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "POV: wrong turn. Right restaurant. Ninh Kitchen 2 on Đường 30/04 is rated 4.9 stars for a reason.\n\n$15-30/person. Tag your travel buddy.",
+          "video_caption": "4.9 stars. A local street in Phú Quốc. Ninh Kitchen 2 hits different when you actually find it.",
+          "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #FoodTravelVietnam"
+        },
+        "tiktok": {
+          "caption": "Found a 4.9-star Vietnamese spot most tourists miss in Phú Quốc. Ninh Kitchen 2. $15-30. Go. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: you found the 4.9-star local spot",
+          "scenes": [
+            "Walk down Đường 30/04, storefront appears",
+            "Close-up: steaming Vietnamese dishes on table",
+            "Show price: $15-30 per person on screen",
+            "Chopsticks lifting noodles, sauce dripping",
+            "Wide shot: locals and tourists eating together"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ67MzfTqNpzERl5vEmwYkACQ",
+      "placeName": "Phở Lý Quốc Sư",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-12-Rl5vEmwYkACQ-0.jpg",
+        "out/media/2026-09-12-Rl5vEmwYkACQ-1.jpg",
+        "out/media/2026-09-12-Rl5vEmwYkACQ-2.jpg",
+        "out/media/2026-09-12-Rl5vEmwYkACQ-3.jpg",
+        "out/media/2026-09-12-Rl5vEmwYkACQ-4.jpg",
+        "out/media/2026-09-12-Rl5vEmwYkACQ-5.jpg",
+        "out/media/2026-09-12-Rl5vEmwYkACQ-6.jpg",
+        "out/media/2026-09-12-Rl5vEmwYkACQ-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-12-Rl5vEmwYkACQ.mp4",
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Under $10 for a bowl of Phở in Phu Quoc. Not a typo.\n\nPhở Lý Quốc Sư on Đ. 30 Tháng 4 is doing 4.6 stars across 501 reviews and the price tag is still single digits. Locals eat here. Tourists walk past. That gap is your advantage.\n\nShow up hungry. Order the phở. Thank us later.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the broth hit the bowl at Phở Lý Quốc Sư. 501 people rated this place 4.6 stars. Every single meal under $10. This is what a local lunch stop looks like in Phu Quoc.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Under $10. 4.6 stars. 501 reviews. Phở Lý Quốc Sư is not a secret, just overlooked.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Broth this good for under $10. Phở Lý Quốc Sư, Phu Quoc. 501 reviews don't lie.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #Pho"
+        },
+        "tiktok": {
+          "caption": "Under $10 pho with 4.6 stars in Phu Quoc. Phở Lý Quốc Sư goes hard. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Under $10. 4.6 stars. Phu Quoc.",
+          "scenes": [
+            "Exterior shot: busy street, locals queuing",
+            "Close-up: broth poured into bowl",
+            "Steam rising off fresh pho",
+            "Hands add herbs, squeeze lime",
+            "Full bowl on table, chopsticks lifted"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJR1rvyAmNpzERHEdIhXDMsII",
+      "placeName": "Bún Quậy Kiến-Xây | Local PhuQuoc Seafood Noodles",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-12-RHEdIhXDMsII-0.jpg",
+        "out/media/2026-09-12-RHEdIhXDMsII-1.jpg",
+        "out/media/2026-09-12-RHEdIhXDMsII-2.jpg",
+        "out/media/2026-09-12-RHEdIhXDMsII-3.jpg",
+        "out/media/2026-09-12-RHEdIhXDMsII-4.jpg",
+        "out/media/2026-09-12-RHEdIhXDMsII-5.jpg",
+        "out/media/2026-09-12-RHEdIhXDMsII-6.jpg",
+        "out/media/2026-09-12-RHEdIhXDMsII-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk past this place every day. Locals fill every seat by noon.\n\nBún Quậy Kiến-Xây on Đường Trần Hưng Đạo is Phu Quoc's answer to seafood noodles done right. Under $10 a person. 2,757 reviews. Still no tour group in sight.\n\nOrder the bún quậy, watch them stir it tableside, eat fast before it gets cold. That's the move.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Chopsticks hit the bowl at Bún Quậy Kiến-Xây and the broth is already pulling you in. This is what $10 buys you in Phu Quoc. Real local seafood noodles, zero tourist markup. Go before lunch rush.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocLocalFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Locals fill this place before tourists even find it. Bún Quậy Kiến-Xây. Under $10. 2,757 reviews deep.\n\nTag your travel buddy.",
+          "video_caption": "Seafood noodles stirred tableside. Under $10. Phu Quoc locals know. Now you do too.",
+          "hashtags": "#PhuQuocFood #PhuQuocLocalFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamFood #PhuQuocNoodles"
+        },
+        "tiktok": {
+          "caption": "The noodle spot Phu Quoc locals kept to themselves. Under $10. Go. #PhuQuoc #PhuQuocFood #VietnamFood #LocalEats #PhuQuocTips"
+        },
+        "video_script": {
+          "hook": "Locals don't post about this.",
+          "scenes": [
+            "Street-level sign: Bún Quậy Kiến-Xây",
+            "Packed tables, zero tourists visible",
+            "Chef stirs noodles tableside, steam rises",
+            "Close-up: shrimp and seafood in clear broth",
+            "Price board, all under $10",
+            "First spoonful, slow motion"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJQf0ZjIeNpzERtMMtf7OdVyg",
+      "placeName": "Mì Tê Lý Thường Kiệt - Artisan Noodles",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-12-RtMMtf7OdVyg-0.jpg",
+        "out/media/2026-09-12-RtMMtf7OdVyg-1.jpg",
+        "out/media/2026-09-12-RtMMtf7OdVyg-2.jpg",
+        "out/media/2026-09-12-RtMMtf7OdVyg-3.jpg",
+        "out/media/2026-09-12-RtMMtf7OdVyg-4.jpg",
+        "out/media/2026-09-12-RtMMtf7OdVyg-5.jpg",
+        "out/media/2026-09-12-RtMMtf7OdVyg-6.jpg",
+        "out/media/2026-09-12-RtMMtf7OdVyg-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-12-RtMMtf7OdVyg.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you skip the resort breakfast and find Mì Tê Lý Thường Kiệt instead. Under $10. Artisan noodles on a local street in Phú Quốc. 4.6 stars, 164 reviews, and zero tourists in sight when we walked in. This is the kind of bowl that makes you rebook your trip. Save this for your Phu Quoc trip.",
+          "video_caption": "Watching the noodles hit the bowl at Mì Tê Lý Thường Kiệt. Under $10. 4.6 stars. The locals here were not surprised to see this. We were. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocEats #VisitVietnam #VietnamFood #LocalEats #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: you found the good noodles in Phú Quốc. Mì Tê Lý Thường Kiệt. 4.6★, under $10, zero regrets.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "First bite at Mì Tê Lý Thường Kiệt. Artisan noodles. Under $10. This bowl is the reason to wake up early.",
+          "hashtags": "#PhuQuocFood #PhuQuocEats #PhuQuocTips #VietnamTravel #LocalEats #TravelReels #TravelTips"
+        },
+        "tiktok": {
+          "caption": "Skipped the resort. Found Mì Tê Lý Thường Kiệt. Under $10. Worth every minute. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "POV: you found the real bowl.",
+          "scenes": [
+            "Street-level shot: 58B Lý Thường Kiệt sign",
+            "Cook pulls noodles, steam rises fast",
+            "Bowl lands on table, close-up broth",
+            "Price on menu: under $10",
+            "Locals eating, shop full, no tourists"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJc9uFHgCNpzERe-wLYlkuV_Q",
+      "placeName": "Phở bát đá -bún bò bát đá Anh Đạt",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-12-Re-wLYlkuV_Q-0.jpg",
+        "out/media/2026-09-12-Re-wLYlkuV_Q-1.jpg",
+        "out/media/2026-09-12-Re-wLYlkuV_Q-2.jpg",
+        "out/media/2026-09-12-Re-wLYlkuV_Q-3.jpg",
+        "out/media/2026-09-12-Re-wLYlkuV_Q-4.jpg",
+        "out/media/2026-09-12-Re-wLYlkuV_Q-5.jpg",
+        "out/media/2026-09-12-Re-wLYlkuV_Q-6.jpg",
+        "out/media/2026-09-12-Re-wLYlkuV_Q-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Under $10 for a steaming bowl of phở or bún bò. In PHU QUOC.\n\nPhở bát đá -bún bò bát đá Anh Đạt on 12 Lê Lợi is pulling a 4.8 from 74 reviews. That's not luck. That's a local spot that earns it every single day.\n\nBát đá means stone bowl. Your broth stays hot to the last spoonful. Skip the resort breakfast and come here instead.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Stone bowl hits the table. Broth still bubbling. Under $10 at Phở bát đá -bún bò bát đá Anh Đạt, 12 Lê Lợi. 4.8 stars. This is how Phu Quoc locals actually eat breakfast.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurant #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Under $10. Stone bowl. Still bubbling.\n\nPhở bát đá -bún bò bát đá Anh Đạt. 4.8 stars. 74 reviews. Skip the resort breakfast.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Broth hits a stone bowl and stays hot the whole meal. Under $10. Phu Quoc actually delivers.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurant #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Under $10 pho in Phu Quoc with a 4.8 rating. Stone bowl keeps it hot all meal. Don't miss this. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Under $10. Phu Quoc pho.",
+          "scenes": [
+            "Stone bowl arrives, broth steaming",
+            "Close-up: bún bò piled high",
+            "Spoon dips in, broth swirls",
+            "Exterior shot: 12 Lê Lợi shopfront",
+            "Text overlay: 4.8 stars, 74 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJS797XwCNpzERpdvvoNGRBK4",
+      "placeName": "Phở Vương Phú Quốc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-12-RpdvvoNGRBK4-0.jpg",
+        "out/media/2026-09-12-RpdvvoNGRBK4-1.jpg",
+        "out/media/2026-09-12-RpdvvoNGRBK4-2.jpg",
+        "out/media/2026-09-12-RpdvvoNGRBK4-3.jpg",
+        "out/media/2026-09-12-RpdvvoNGRBK4-4.jpg",
+        "out/media/2026-09-12-RpdvvoNGRBK4-5.jpg",
+        "out/media/2026-09-12-RpdvvoNGRBK4-6.jpg",
+        "out/media/2026-09-12-RpdvvoNGRBK4-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-12-RpdvvoNGRBK4.mp4",
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Under $10 for pho in Phu Quoc. And it's rated 4.9 stars.\n\nPhở Vương Phú Quốc on Đ. 30 Tháng 4 is the real deal. 257 reviews deep, locals and visitors keep coming back. Bowl after bowl.\n\nSkip the resort breakfast. Start your morning here instead.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch this bowl of pho land on the table at Phở Vương Phú Quốc. Under $10. 4.9 stars. 257 people already knew. Now you do too. Đ. 30 Tháng 4, Khu 1.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Under $10. 4.9 stars. 257 reviews. Phở Vương Phú Quốc is not a drill.\n\nSkip the resort breakfast. Tag your travel buddy.",
+          "video_caption": "A 4.9-star bowl of pho. Under $10. Phở Vương Phú Quốc hits different at 7am.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #Pho"
+        },
+        "tiktok": {
+          "caption": "4.9 stars. Under $10. This pho spot in Phu Quoc is no joke. #PhuQuoc #PhuQuocFood #VietnamTravel #Pho"
+        },
+        "video_script": {
+          "hook": "Under $10. 4.9 stars. Phu Quoc.",
+          "scenes": [
+            "Street-level exterior, sign visible",
+            "Steaming bowl lands on table",
+            "Close-up: broth poured over noodles",
+            "Chopsticks lift noodles, steam rising",
+            "Review screen: 4.9 stars, 257 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJAclVLQCNpzERZ2vBnJYPlsE",
+      "placeName": "Châu Ký Gia - Cantonese noodles & Rice, Local Food",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-12-RZ2vBnJYPlsE-0.jpg",
+        "out/media/2026-09-12-RZ2vBnJYPlsE-1.jpg",
+        "out/media/2026-09-12-RZ2vBnJYPlsE-2.jpg",
+        "out/media/2026-09-12-RZ2vBnJYPlsE-3.jpg",
+        "out/media/2026-09-12-RZ2vBnJYPlsE-4.jpg",
+        "out/media/2026-09-12-RZ2vBnJYPlsE-5.jpg",
+        "out/media/2026-09-12-RZ2vBnJYPlsE-6.jpg",
+        "out/media/2026-09-12-RZ2vBnJYPlsE-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "294 reviews. Every single one gives Châu Ký Gia a 5.0 star. On Phu Quoc. For a bowl of Cantonese noodles under $10. That's not luck. That's a place that has figured something out. Trần Hưng Đạo road, Khu Phố 7. Go hungry. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the bowl land on the table. Cantonese noodles, local bistro, under $10. Châu Ký Gia is sitting at a perfect 5.0 from 294 reviews and most tourists walk straight past it.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #LocalFoodVietnam #VisitVietnam #TravelTips #PhuQuocTips #VietnamEats"
+        },
+        "instagram": {
+          "caption": "294 reviews. 5.0 stars. Under $10. Châu Ký Gia is the Cantonese noodle spot Phu Quoc doesn't advertise. Tag your travel buddy.",
+          "video_caption": "Perfect 5.0. 294 locals agree. Châu Ký Gia hits different for under $10.",
+          "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocEats #VietnamTravel #TravelTips #TravelReels #FoodReels #LocalFood"
+        },
+        "tiktok": {
+          "caption": "5.0 stars, 294 reviews, under $10. Châu Ký Gia on Phu Quoc is undefeated. #PhuQuoc #PhuQuocFood #VietnamTravel #LocalEats"
+        },
+        "video_script": {
+          "hook": "5.0 STARS. 294 REVIEWS.",
+          "scenes": [
+            "Exterior shot: simple bistro signage",
+            "Close-up: Cantonese noodles hitting the bowl",
+            "Steam rising, chopsticks lifting noodles",
+            "Wide shot: packed local tables",
+            "Price check on the menu: under $10"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJjwOhDFuNpzERHGC-KN7pjUk",
+      "placeName": "Thường Lạc Artisan Dumplings - Phú Quốc (Branch No. 1)",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-12-RHGC-KN7pjUk-0.jpg",
+        "out/media/2026-09-12-RHGC-KN7pjUk-1.jpg",
+        "out/media/2026-09-12-RHGC-KN7pjUk-2.jpg",
+        "out/media/2026-09-12-RHGC-KN7pjUk-3.jpg",
+        "out/media/2026-09-12-RHGC-KN7pjUk-4.jpg",
+        "out/media/2026-09-12-RHGC-KN7pjUk-5.jpg",
+        "out/media/2026-09-12-RHGC-KN7pjUk-6.jpg",
+        "out/media/2026-09-12-RHGC-KN7pjUk-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-12-RHGC-KN7pjUk.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.5 stars. 530 reviews. For dumplings in Phu Quoc.\n\nThường Lạc Artisan Dumplings is pulling numbers that most restaurants on this island would kill for. Hand-crafted, Chinese-style, and sitting right on Đ. 30 Tháng 4. Not a resort buffet. Not a tourist trap. Just dumplings done seriously.\n\nIf you're sleeping on this place, the 530 reviewers aren't.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch what 530 people kept coming back for. Thường Lạc Artisan Dumplings on Đ. 30 Tháng 4, folded to order, rated 4.5 stars by the crowd. This is what Phu Quoc eats when it's not performing for tourists.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #ChineseFoodVietnam #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocRestaurants #TravelTips"
+        },
+        "instagram": {
+          "caption": "530 reviews. 4.5 stars. Artisan dumplings in Phu Quoc.\n\nThường Lạc delivers. Tag your travel buddy.",
+          "video_caption": "Folded by hand. Rated 4.5 stars. Thường Lạc Artisan Dumplings is the move.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #DumplingLovers #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "530 reviews on dumplings in Phu Quoc. Thường Lạc is not playing. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "530 reviews. Dumplings. Phu Quoc.",
+          "scenes": [
+            "Close-up: dumpling folded by hand",
+            "Steam rising from bamboo basket",
+            "Plate lands on table, full shot",
+            "Fork breaks dumpling, filling spills",
+            "Storefront sign: Thường Lạc"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJOwIiCSmNpzER1ISpdLmLcEg",
+      "placeName": "Mì Tê - Artisan Noodles",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-12-R1ISpdLmLcEg-0.jpg",
+        "out/media/2026-09-12-R1ISpdLmLcEg-1.jpg",
+        "out/media/2026-09-12-R1ISpdLmLcEg-2.jpg",
+        "out/media/2026-09-12-R1ISpdLmLcEg-3.jpg",
+        "out/media/2026-09-12-R1ISpdLmLcEg-4.jpg",
+        "out/media/2026-09-12-R1ISpdLmLcEg-5.jpg",
+        "out/media/2026-09-12-R1ISpdLmLcEg-6.jpg",
+        "out/media/2026-09-12-R1ISpdLmLcEg-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Under $10 for artisan noodles in Phu Quoc. At Mì Tê - Artisan Noodles on Đường Trần Hưng Đạo, 934 reviews and a 4.7-star rating back this up. Hand-crafted bowls. Real ingredients. No resort markup. This is the kind of spot you eat at three times in one trip and zero regrets. Save this for your Phu Quoc trip.",
+          "video_caption": "934 people rated this place 4.7 stars. Watch what a $10 noodle bowl in Phu Quoc actually looks like at Mì Tê - Artisan Noodles. Worth every cent.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #VietnamFood #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Under $10. 4.7 stars. 934 reviews. Mì Tê - Artisan Noodles is your next lunch stop in Phu Quoc. Tag your travel buddy.",
+          "video_caption": "Artisan noodle bowls under $10. Mì Tê delivers every time. 934 reviews don't lie.",
+          "hashtags": "#PhuQuocFood #PhuQuocEats #PhuQuocTips #VietnamFood #VietnamTravel #TravelTips #TravelReels #NoodleBowl #PhuQuocRestaurants"
+        },
+        "tiktok": {
+          "caption": "Under $10 noodle shop with 4.7 stars in Phu Quoc. Mì Tê hits different. #PhuQuoc #PhuQuocFood #VietnamFood #TravelTips"
+        },
+        "video_script": {
+          "hook": "Under $10. 4.7 stars. Phu Quoc.",
+          "scenes": [
+            "Close-up: steaming noodle bowl lands on table",
+            "Slow pour of broth over handmade noodles",
+            "Fork lifts a tangle of noodles, steam rising",
+            "Wide shot: packed dining room, locals eating",
+            "Google rating card: 4.7 stars, 934 reviews",
+            "Price receipt: under $10"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJOawITM2NpzERxPm19sYAUpo",
+      "placeName": "Phở bò Nam Định",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-12-RxPm19sYAUpo-0.jpg",
+        "out/media/2026-09-12-RxPm19sYAUpo-1.jpg",
+        "out/media/2026-09-12-RxPm19sYAUpo-2.jpg",
+        "out/media/2026-09-12-RxPm19sYAUpo-3.jpg",
+        "out/media/2026-09-12-RxPm19sYAUpo-4.jpg",
+        "out/media/2026-09-12-RxPm19sYAUpo-5.jpg",
+        "out/media/2026-09-12-RxPm19sYAUpo-6.jpg",
+        "out/media/2026-09-12-RxPm19sYAUpo-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-12-RxPm19sYAUpo.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "771 reviews. 4.6 stars. Under $10 a bowl.\n\nPhở bò Nam Định on Đường Trần Hưng Đạo is the real deal. Nam Định-style pho means a cleaner, lighter broth than the Saigon version. Locals line up here. Tourists walk straight past.\n\nSkip the resort breakfast. Spend $5 on this instead.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the broth get ladled. That color. That clarity. Phở bò Nam Định on Đường Trần Hưng Đạo, 771 reviews deep, under $10 a bowl. Your Phu Quoc morning just got an upgrade.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "771 reviews. 4.6 stars. Under $10.\n\nPhở bò Nam Định earns every one. Save this for your Phu Quoc trip.",
+          "video_caption": "Broth this clear at this price? 771 locals and tourists agree. Phở bò Nam Định, Đường Trần Hưng Đạo.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.6 stars. 771 reviews. Under $10 a bowl. Phở bò Nam Định is not a skip. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "771 reviews. Under $10.",
+          "scenes": [
+            "Close-up: broth poured into bowl",
+            "Steam rising, clear golden liquid",
+            "Hands adding fresh herbs and lime",
+            "First spoonful lifted to camera",
+            "Busy table, locals eating fast",
+            "Sign: Phở bò Nam Định on street"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

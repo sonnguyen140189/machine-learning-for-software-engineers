@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10 for a bowl of Phở in Phu Quoc. Not a typo.\n\nPhở Lý Quốc Sư on Đ. 30 Tháng 4 is doing 4.6 stars across 501 reviews and the price tag is still single digits. Locals eat here. Tourists walk past. That gap is your advantage.\n\nShow up hungry. Order the phở. Thank us later.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the broth hit the bowl at Phở Lý Quốc Sư. 501 people rated this place 4.6 stars. Every single meal under $10. This is what a local lunch stop looks like in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $10. 4.6 stars. 501 reviews. Phở Lý Quốc Sư is not a secret, just overlooked.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Broth this good for under $10. Phở Lý Quốc Sư, Phu Quoc. 501 reviews don't lie.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #Pho"
+  },
+  "tiktok": {
+    "caption": "Under $10 pho with 4.6 stars in Phu Quoc. Phở Lý Quốc Sư goes hard. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Under $10. 4.6 stars. Phu Quoc.",
+    "scenes": [
+      "Exterior shot: busy street, locals queuing",
+      "Close-up: broth poured into bowl",
+      "Steam rising off fresh pho",
+      "Hands add herbs, squeeze lime",
+      "Full bowl on table, chopsticks lifted"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
