@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "529 reviews. Every single one is 5 stars. That doesn't happen by accident.\n\nInto The Blue on Đường Trần Hưng Đạo is the snorkeling boat trip locals and repeat visitors keep booking. Clear water, solid crew, no filler stops.\n\nIf you're spending time in Phu Quoc and skipping the underwater side of it, you're leaving the best part out.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the water change color as the boat pulls away from shore. Into The Blue runs a 5.0-star snorkeling trip out of Phú Quốc, 529 people gave it perfect marks. Book before it fills up.",
+    "first_comment": "#PhuQuoc #PhuQuocSnorkeling #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "529 reviews. Perfect 5.0 stars. Every single one.\n\nInto The Blue snorkeling trip, Phú Quốc. This is the one. Save it.",
+    "video_caption": "Boat leaves. Water goes crystal. 529 people rated this 5 stars. Into The Blue, Phú Quốc.",
+    "hashtags": "#PhuQuocSnorkeling #PhuQuocOcean #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocActivities"
+  },
+  "tiktok": {
+    "caption": "529 reviews and a perfect 5.0. Into The Blue snorkeling, Phú Quốc. No skip. #PhuQuoc #PhuQuocSnorkeling #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "529 reviews. All 5 stars.",
+    "scenes": [
+      "Boat engine starts, crew casts off",
+      "Water shifts from green to blue",
+      "Mask on, giant stride into the sea",
+      "Coral and fish fill the frame below",
+      "Surfacing, big smile, thumbs up",
+      "Text overlay: 5.0★ 529 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

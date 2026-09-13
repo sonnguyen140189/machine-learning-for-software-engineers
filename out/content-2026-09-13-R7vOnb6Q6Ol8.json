@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 6,484 reviews. Private beach in Phú Quốc.\n\nRadisson Blu Resort sits on Bãi Dài, one of the longest undeveloped stretches of sand on the island. Three bars, an outdoor pool, and a restaurant that doesn't make you walk far for anything.\n\nThis is the kind of property where you book two nights and extend to five.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the sun hit that private beach at Radisson Blu Resort, Phú Quốc. Pool to your left. Bar to your right. 6,484 people rated this 4.8 stars. You'll see why in the first five seconds.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips #BaiDai #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.8★ across 6,484 reviews. Private beach. Three bars. Radisson Blu Resort, Phú Quốc delivers.\n\nTag your travel buddy.",
+    "video_caption": "Private beach. Outdoor pool. 4.8★ from 6,484 guests. Radisson Blu Resort, Phú Quốc is hard to argue with.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #BaiDai #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "6,484 reviews. 4.8 stars. Private beach on Bãi Dài. Radisson Blu Resort Phú Quốc hits different. #PhuQuoc #PhuQuocHotel #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "6,484 reviews. 4.8 stars.",
+    "scenes": [
+      "Aerial pan over empty private beach at sunrise",
+      "Slow push into infinity pool overlooking sea",
+      "Bartender pours drink at open-air bar",
+      "Guest walks from pool steps onto soft sand",
+      "Wide shot of resort facade at golden hour"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5,378 reviews. 4.7 stars. And somehow Mövenpick Resort Waverly Phu Quoc still flies under the radar for most tourists. Two restaurants, a spa, an outdoor pool, and rooms right by the beach at Ông Lang. This is the quieter side of the island doing luxury properly. Save this for your Phu Quoc trip.",
+    "video_caption": "Pool to beach in 30 seconds flat. Mövenpick Resort Waverly Phu Quoc at Ông Lang is the level-up stay most visitors never find. 4.7 stars across 5,378 reviews. Watch why.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #OngLang #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "5,378 reviews. 4.7 stars. Mövenpick Resort Waverly Phu Quoc at Ông Lang. Beach, spa, two restaurants. Tag your travel buddy.",
+    "video_caption": "Pool, beach, spa. Ông Lang side of Phu Quoc hitting different. 4.7 stars for a reason.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #OngLang #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #LuxuryTravel"
+  },
+  "tiktok": {
+    "caption": "4.7 stars. 5,378 reviews. Mövenpick Resort Waverly at Ông Lang is Phu Quoc's quieter luxury side. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5,378 reviews. 4.7 stars.",
+    "scenes": [
+      "Aerial pull-back over Ông Lang beach",
+      "Slow pan across the outdoor pool",
+      "Guest walks pool-to-beach in seconds",
+      "Spa treatment room close-up",
+      "Restaurant plating, two venues shown",
+      "Sunset from a beachfront room balcony"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

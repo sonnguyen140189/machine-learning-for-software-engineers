@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Some restaurants fix hunger. Sunset Bay Restaurant fixes the whole day.\n\n4.8 stars. 111 reviews. Dinner with the sky turning orange over the water. This is the kind of place you stop scrolling and just sit.\n\nPriced at $15-30 per person. Worth every cent.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the sky do its thing over Sunset Bay Restaurant. $15-30 a head, 4.8 stars, and a view that earns the name. Phu Quoc delivered.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamFood #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes the whole day.\n\nSunset Bay Restaurant. 4.8★, 111 reviews, $15-30/person. Tag your travel buddy.",
+    "video_caption": "Sky on fire. Dinner in hand. Sunset Bay Restaurant earns its name every single evening.",
+    "hashtags": "#PhuQuocRestaurants #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocSunset #DiningInVietnam #VietnamFoodie"
+  },
+  "tiktok": {
+    "caption": "The restaurant that fixes burnout. Sunset Bay, Phu Quoc. 4.8★ and $15-30/person. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: sky turning orange over water",
+      "Slow pan across full dinner table",
+      "Close-up: food arriving, steam rising",
+      "Guest leans back, stares at sunset",
+      "Text overlay: 4.8★ 111 reviews $15-30/person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

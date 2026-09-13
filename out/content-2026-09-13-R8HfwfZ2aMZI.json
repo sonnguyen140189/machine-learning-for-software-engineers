@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you scroll past a Phu Quoc hotel listing, double back, and realize it has 1,533 reviews at 4.9 stars.\n\nThat hotel is Regent Phu Quoc.\n\nLocated in Khu Phố Đường Bào, this is the kind of property that makes people stop mid-trip planning. Nearly 1,500 guests gave it 4.9. That number is almost impossible to maintain at scale.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "1,533 guests checked out of Regent Phu Quoc and still gave it 4.9 stars. Watch the property speak for itself.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #VisitVietnam #TravelTips #LuxuryTravel"
+  },
+  "instagram": {
+    "caption": "Scrolled past it. Clicked back. 4.9 stars, 1,533 reviews. Regent Phu Quoc is real.\n\nTag your travel buddy.",
+    "video_caption": "4.9 stars. 1,533 reviews. Regent Phu Quoc just raised the bar.",
+    "hashtags": "#PhuQuocHotels #PhuQuocResort #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #LuxuryHotel"
+  },
+  "tiktok": {
+    "caption": "Double-tapped this hotel listing 3 times. 4.9★ from 1,533 guests. Regent Phu Quoc. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9★. 1,533 reviews. Real.",
+    "scenes": [
+      "Drone pull-back revealing full resort",
+      "Slow pan across infinity pool at sunrise",
+      "Close-up: 4.9 star rating on screen",
+      "Guest walking through open-air lobby",
+      "Ocean view from room balcony"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

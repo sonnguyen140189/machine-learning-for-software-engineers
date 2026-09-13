@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you pick a bar on Đường Trần Hưng Đạo on a whim. Then the sky turns orange and you forget what you were even stressed about.\n\nSunset Beach Bar & Restaurant. 4.3 stars. 2,306 reviews. $15-30 per person for drinks and food with that view.\n\nBook it, show up early, grab a front row seat.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Sky's going orange, drink in hand, at Sunset Beach Bar & Restaurant on Đường Trần Hưng Đạo. 4.3 stars. 2,306 people already know. $15-30 a head. Get there early.",
+    "first_comment": "#PhuQuoc #PhuQuocSunset #PhuQuocBars #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "POV: picked a bar at random. Sky happened. 4.3 stars, 2,306 reviews, $15-30 a head at Sunset Beach Bar & Restaurant.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Sunset hitting different at Sunset Beach Bar & Restaurant. Drinks, food, front-row sky. 4.3 stars and worth every minute.",
+    "hashtags": "#PhuQuocSunset #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocFood"
+  },
+  "tiktok": {
+    "caption": "POV: random bar pick. Then THIS sky hits. Sunset Beach Bar, Phu Quoc. $15-30. Go early. #PhuQuoc #PhuQuocSunset #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: random bar. That sky.",
+    "scenes": [
+      "Walk up to bar entrance at golden hour",
+      "Pan along beachfront seating area",
+      "Close-up: cocktail lifted against orange sky",
+      "Wide shot: sun touching the horizon",
+      "Pull back to show crowd watching in silence"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

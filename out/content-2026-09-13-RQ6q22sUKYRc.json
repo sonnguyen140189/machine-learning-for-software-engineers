@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4,710 reviews. 4.5 stars. OCSEN Beach Bar & Club on Đường Trần Hưng Đạo keeps pulling people back for a reason.\n\nBeach bar vibes, cold drinks, and Phu Quoc sunsets without the resort markup. Budget sits around $15-30 per person, solid for what you get.\n\nThis is the kind of place that ends up being the highlight of the trip.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Drinks in hand, sand underfoot, 4,710 people already know about OCSEN Beach Bar & Club. Time to find out why. $15-30/person on Đường Trần Hưng Đạo.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #BeachBar #TravelTips"
+  },
+  "instagram": {
+    "caption": "4,710 reviews. 4.5 stars. OCSEN Beach Bar & Club earns every one.\n$15-30/person. Tag your travel buddy.",
+    "video_caption": "Sand, drinks, sunset. OCSEN Beach Bar & Club is hitting 4.5 stars for a reason. See you there.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBeaches #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #BeachBarVibes"
+  },
+  "tiktok": {
+    "caption": "4,710 reviews don't lie. OCSEN Beach Bar & Club, Phu Quoc. $15-30/person. #PhuQuoc #PhuQuocTips #BeachBar #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4,710 reviews. One beach bar.",
+    "scenes": [
+      "Aerial pan: bar on the beach at golden hour",
+      "Close-up: condensation on a cold cocktail glass",
+      "Wide shot: crowd filling the beachfront seats",
+      "Cut to: bartender pouring drinks, fast hands",
+      "Final frame: sunset over water behind the bar"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc doesn't feel like Phu Quoc up here. Fifth floor, open air, the sun dropping straight into the sea. Greek food. Cold wine. Zero resort crowds. The Greek Restaurant Phu Quoc sits above 124 Đường Trần Hưng Đạo and the rooftop view alone is worth the climb. 4.8 stars across 76 reviews. Budget $15-30 per person. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the sun hit the water from the 5th floor of The Greek Restaurant Phu Quoc. Open sky, Greek plates landing on the table, and a seaview that costs $15. This is what a good evening looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocSunset #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc from the 5th floor hits different. Greek food, sea breeze, 4.8★. Tag your travel buddy.",
+    "video_caption": "Sun going down. Greek wine going up. The Greek Restaurant Phu Quoc, fifth floor. $15-30. Go.",
+    "hashtags": "#PhuQuocRestaurants #PhuQuocSunset #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Greek food on a rooftop in Vietnam at sunset. 4.8 stars. Under $30. #PhuQuoc #PhuQuocFood #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc from 5 floors up.",
+    "scenes": [
+      "Wide shot: rooftop terrace, open sky",
+      "Pan across the seaview at golden hour",
+      "Close-up: Greek mezze plates arriving",
+      "Pour of wine, condensation on glass",
+      "Sun touching the horizon, silhouette shot",
+      "Text overlay: 4.8★, $15-30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
