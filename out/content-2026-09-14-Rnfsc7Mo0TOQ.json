@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists scroll past this one. 4.7 stars, 2,563 reviews, and it still flies under the radar on Cửa Lấp. Dusit Princess Moonrise Beach Resort sits away from the Tran Hung Dao strip chaos. Quieter side of the island. Actual resort quality without the crowd tax. If you're planning Phu Quoc, this belongs on your shortlist. Save this for your Phu Quoc trip.",
+    "video_caption": "Pulling up to Dusit Princess Moonrise Beach Resort and the crowds just... aren't here. 4.7 stars on the quieter Cửa Lấp side of Phu Quoc. This is what the algorithm buries.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep scrolling past this. 4.7★, 2,563 reviews, Cửa Lấp side of Phu Quoc. Dusit Princess Moonrise Beach Resort. Save this.",
+    "video_caption": "Resort quality. Zero crowd chaos. Dusit Princess Moonrise Beach Resort is the Phu Quoc pick nobody talks about.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The resort tourists walk past in Phu Quoc. 4.7★ and still quiet. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this resort.",
+    "scenes": [
+      "Aerial pan over Cửa Lấp coastline",
+      "Resort entrance gate, no queue",
+      "Pool deck shot, wide and calm",
+      "Close-up: 4.7★ review screen",
+      "Beach frontage, waves, no crowd"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

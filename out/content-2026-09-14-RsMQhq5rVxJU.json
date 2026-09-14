@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walked Đường Trần Hưng Đạo looking for dinner and ended up at a craft beer bar with a 4.8-star rating. Hoppy Daze Craft Beer Bar Phú Quốc is the kind of place you don't plan for but absolutely stay at. Cold pours, solid atmosphere, $15-30 a head. Save this for your Phu Quoc trip.",
+    "video_caption": "Cold craft beer. 4.8 stars. Nobody told you about Hoppy Daze Craft Beer Bar Phú Quốc and that's the problem. Đường Trần Hưng Đạo, Cửa Lấp. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #CraftBeer #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocNightlife #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked past. Doubled back. Stayed two hours. Hoppy Daze Craft Beer Bar Phú Quốc, 4.8 stars, $15-30 a head. Tag your travel buddy.",
+    "video_caption": "4.8 stars on Đường Trần Hưng Đạo and you haven't heard of it yet. Hoppy Daze Craft Beer Bar Phú Quốc. Go find it.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #CraftBeerVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Stumbled into Hoppy Daze Craft Beer Bar Phú Quốc and did not leave for two hours. 4.8★, $15-30/head. #PhuQuoc #CraftBeer #PhuQuocNightlife #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: best bar find in Phu Quoc",
+    "scenes": [
+      "Pan across taps and beer lineup",
+      "Close-up: cold glass being poured",
+      "Wide shot of bar interior, busy crowd",
+      "Show street sign: Đường Trần Hưng Đạo",
+      "Cut to 4.8-star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

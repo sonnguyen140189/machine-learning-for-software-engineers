@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the big boat operators. Locals point you to Kimie's Tours.\n\nSnorkeling, diving, and hiking on Phu Quoc, run by people who actually know these waters. 5.0 stars across 260 reviews. That's not luck. That's consistency.\n\nFind them down Alley 91 Đường Trần Hưng Đạo. Small door. Big difference.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "260 reviews. Every single one a 5-star. Kimie's Tours on Đường Trần Hưng Đạo does snorkeling, diving, and hiking the right way. Skip the resort desk. Come here.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocDiving #PhuQuocSnorkeling"
+  },
+  "instagram": {
+    "caption": "Tourists skip right past Alley 91 Đường Trần Hưng Đạo. Don't be them. Kimie's Tours. 5.0★, 260 reviews. Tag your travel buddy.",
+    "video_caption": "5.0 stars. 260 reviews. Kimie's Tours runs snorkeling, diving, and hiking on Phu Quoc. Alley 91 Đường Trần Hưng Đạo. Go.",
+    "hashtags": "#PhuQuocTours #PhuQuocDiving #PhuQuocSnorkeling #PhuQuocTips #VietnamTravel #TravelTips #TravelReels"
+  },
+  "tiktok": {
+    "caption": "Tourists walk past this alley every day. The 5-star tour agency is inside. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this tour.",
+    "scenes": [
+      "Pan down narrow Alley 91 Đường Trần Hưng Đạo",
+      "Reveal Kimie's Tours signage on the wall",
+      "Cut to underwater coral footage, snorkelers gliding through",
+      "Diver descends, bubbles rising to surface",
+      "Hiker crests a jungle ridge, ocean below",
+      "Close on phone screen: 5.0★, 260 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This bar fixes the noise.\n\nLive music. Cold drinks. A crowd that actually wants to be there. HAPPY BEAR Live Music Bar & Bistro on Đường Trần Hưng Đạo is the kind of place you find on night two and regret not finding on night one.\n\n4.9 stars from 252 reviews. That number doesn't lie.\n\n$15-30 a head. Stay for two sets. You won't leave after one.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Band's on. Bar's packed. That energy hits you before you even sit down. HAPPY BEAR Live Music Bar & Bistro, Phu Quoc. 4.9 stars. Now you know why.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocBars #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "This bar fixes the noise. 4.9★, live music, and a crowd that's actually having fun.\n\nHAPPY BEAR, Phu Quoc. Tag your travel buddy.",
+    "video_caption": "Live band. Full bar. 4.9 stars. HAPPY BEAR hits different after dark.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelReels #TravelTips #ThingsToDoPhuQuoc #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Found the bar Phu Quoc actually goes to at night. 4.9 stars. Live music. Worth every minute. #PhuQuoc #PhuQuocNightlife #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This bar fixes burnout.",
+    "scenes": [
+      "Exterior sign lit up at night",
+      "Live band mid-performance on stage",
+      "Bartender pouring drinks, crowd in background",
+      "Close-up: cold glass, condensation dripping",
+      "Wide shot: packed bar, everyone engaged"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

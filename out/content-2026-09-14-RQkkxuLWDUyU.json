@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "7,449 reviews. 4.8 stars. Premier Village Phu Quoc Resort keeps delivering.\n\nThis is one of the most consistently rated resorts on the island. Private pool villas, beachfront access, the kind of stay that actually matches the photos.\n\nIf Phu Quoc is on your list for 2025 or 2026, this one deserves a serious look before it sells out.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.8 stars across 7,449 reviews. Watch what Premier Village Phu Quoc Resort actually looks like in person. The water, the villas, the beach. All of it.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "7,449 reviews. 4.8 stars. Premier Village Phu Quoc Resort.\nOne of the highest-rated resorts on the island. Save this.",
+    "video_caption": "4.8 stars. 7,449 people agree. Premier Village Phu Quoc Resort hits different in person.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "7,449 reviews and a 4.8 star rating. Premier Village Phu Quoc Resort is built different. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "7,449 reviews. 4.8 stars.",
+    "scenes": [
+      "Drone pull back over beachfront villas",
+      "Close up: private pool reflecting blue sky",
+      "Walk through open-air villa entrance",
+      "Feet in pool, ocean visible beyond",
+      "Resort beach at golden hour, near empty"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
