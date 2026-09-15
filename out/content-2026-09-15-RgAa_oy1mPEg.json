@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists rent jet skis. Locals spin basket boats.\n\nThe basket boat tour at Dynasty Phu Quoc is one of those activities most visitors scroll past. 4.8 stars across 362 reviews says they're wrong to.\n\nYou paddle a round woven boat through calm water, then hand the oars to a local who makes it spin like a top. It's chaotic, wet, and genuinely fun.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch a local fisherman turn a basket boat into a spinning top. This is what most tourists completely miss in Phu Quoc. 4.8 stars. 362 reviews. Go figure.",
+    "first_comment": "#PhuQuoc #PhuQuocActivities #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips #BasketBoat"
+  },
+  "instagram": {
+    "caption": "Tourists rent jet skis. Locals spin basket boats. 4.8★, 362 reviews, and most visitors walk right past it.\n\nTag your travel buddy.",
+    "video_caption": "A round woven boat. A local spinning it like a top. You, soaking wet and laughing. Book the basket boat tour at Dynasty Phu Quoc.",
+    "hashtags": "#PhuQuocActivities #PhuQuocTips #BasketBoat #VietnamTravel #TravelTips #TravelReels #PhuQuoc #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Most tourists walk right past this. The basket boat spin at Dynasty Phu Quoc goes HARD. #PhuQuoc #BasketBoat #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Wide shot: round basket boats on calm water",
+      "Tourist climbs into wobbling basket boat",
+      "Local grabs oar, starts the spin",
+      "Boat rotates fast, tourist grabs the sides",
+      "Laughing, soaking wet exit from boat",
+      "Text overlay: 4.8★ 362 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

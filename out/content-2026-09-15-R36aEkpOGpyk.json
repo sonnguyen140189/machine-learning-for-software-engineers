@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 187 reviews. Zero complaints.\n\nNice Tours Phu Quoc - Tailor Made Travel on Tran Hung Dao is the tour operator locals actually recommend to people they like. No cookie-cutter group buses. They build your Phu Quoc itinerary around you.\n\nPrivate day trips, island hopping, custom routes. You plan nothing. They handle everything.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "187 reviews. Every single one a 5-star. Watch what a custom Phu Quoc tour actually looks like when someone plans it properly for you.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #VietnamTravel #PhuQuocIsland"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 187 reviews. Not one person left disappointed.\n\nNice Tours Phu Quoc builds trips around YOU. Save this.",
+    "video_caption": "187 five-star reviews. This is the tour operator Phu Quoc visitors keep recommending.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland #IslandHopping"
+  },
+  "tiktok": {
+    "caption": "5.0 stars, 187 reviews. Best tour operator in Phu Quoc? Looks like it. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "5.0★ 187 reviews. All of them.",
+    "scenes": [
+      "Zoom into 5-star review screen",
+      "Scroll through 187 glowing reviews",
+      "Storefront at 127 Tran Hung Dao",
+      "Map pins: custom island route planning",
+      "Boat leaving dock, open water ahead"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

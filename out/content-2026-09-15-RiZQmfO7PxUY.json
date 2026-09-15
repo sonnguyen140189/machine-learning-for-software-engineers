@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 1,038 reviews. One tour agency on Đường Trần Hưng Đạo that keeps showing up on every serious Phu Quoc itinerary.\n\nRooty Trip Phú Quốc is what locals point you to when you ask where to actually book tours, not which resort desk to avoid.\n\nLocal snorkeling runs, island-hopping, day trips. Organized. Honest pricing. No bait-and-switch.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the boats load up at Rooty Trip Phú Quốc. 1,038 people rated this 4.8 stars for a reason. If you're booking tours in Phu Quoc, start here, not at the hotel desk.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocIsland #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "1,038 reviews. 4.8 stars. This is where to book your Phu Quoc tours.\n\nRooty Trip Phú Quốc. Skip the resort desk.\n\nTag your travel buddy.",
+    "video_caption": "Boats. Snorkel gear. 4.8 stars from 1,038 people. Rooty Trip Phú Quốc earns every one.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocIsland #VietnamTravel #TravelTips #TravelReels #IslandHopping"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 1,038 reviews. Book your Phu Quoc tours HERE not the hotel desk. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★ 1,038 reviews.",
+    "scenes": [
+      "Zoom in: storefront at 191 Đường Trần Hưng Đạo",
+      "Pan: tour boards listing island trips",
+      "Cut: boats leaving dock at sunrise",
+      "Close-up: snorkel gear being handed over",
+      "Text overlay: skip the resort desk"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

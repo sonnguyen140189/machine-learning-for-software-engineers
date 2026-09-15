@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you land in Phu Quoc with zero plan and find a guide who actually knows the island. Алиса гид по Фукуоку on Đường Trần Hưng Đạo has 127 reviews and a 4.8-star rating. That's not luck. Local routes, real tips, no generic tour bus nonsense. Save this for your Phu Quoc trip.",
+    "video_caption": "127 reviews. 4.8 stars. This travel agency on Đường Trần Hưng Đạo is the first call you make when you land in Phu Quoc. Watch what happens when you actually have a plan.",
+    "first_comment": "#PhuQuoc #PhuQuocTravel #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "POV: you land in Phu Quoc with zero plan. 4.8 stars, 127 reviews. Алиса гид по Фукуоку fixes that fast. Tag your travel buddy.",
+    "video_caption": "Zero plan. 4.8-star local guide. Алиса гид по Фукуоку on Đường Trần Hưng Đạo. Game changer.",
+    "hashtags": "#PhuQuocTravel #PhuQuocTips #PhuQuocGuide #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Landed with zero plan. 4.8 stars saved the trip. #PhuQuoc #PhuQuocTravel #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: no plan, just landed.",
+    "scenes": [
+      "Aerial shot: Phu Quoc coastline from above",
+      "Close-up: phone showing 4.8-star rating, 127 reviews",
+      "Storefront: Алиса гид по Фукуоку sign on Đường Trần Hưng Đạo",
+      "Map pins dropping across the island",
+      "Tourist smiling, holding a custom itinerary"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

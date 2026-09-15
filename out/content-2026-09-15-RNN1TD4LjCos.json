@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "571 reviews. 4.7 stars. And it sits ON the water at Rạch Vẹm.\n\nNhà Trên Biển - Joy Adventures is a restaurant AND a boat launch to Starfish Beach. Eat seafood over the sea, then hop a boat to one of Phu Quoc's most iconic sandbars. Two experiences, one stop.\n\nPrices run $15-30 per person. Worth every cent.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Boat to Starfish Beach leaves right from the restaurant deck. Eat first. Go explore. That's the move at Nhà Trên Biển - Joy Adventures in Rạch Vẹm. 4.7 stars, 571 reviews. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurant #StarfishBeach #VisitVietnam #PhuQuocTips #TravelVietnam #PhuQuocFood"
+  },
+  "instagram": {
+    "caption": "571 reviews. 4.7 stars. Sits ON the water.\n\nNhà Trên Biển - Joy Adventures: seafood over the sea, then a boat straight to Starfish Beach. $15-30/person.\n\nSave this.",
+    "video_caption": "Eat over the water. Board a boat. Starfish Beach is next. Nhà Trên Biển - Joy Adventures does both. 4.7★, 571 reviews.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurant #StarfishBeach #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Restaurant ON the sea + boat to Starfish Beach. 4.7★ 571 reviews. One stop. #PhuQuoc #StarfishBeach #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.7★. 571 reviews. On the water.",
+    "scenes": [
+      "Aerial shot: restaurant deck over Rạch Vẹm",
+      "Close-up: fresh seafood hitting the table",
+      "Wide shot: sea views from every seat",
+      "Cut to: boat pulling up to the dock",
+      "POV walk onto the Starfish Beach sandbar"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
