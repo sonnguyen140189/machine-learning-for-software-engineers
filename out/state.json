@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJi4uGpxKNpzERP7b_sLCQiqY",
+    "ChIJh0oTEUaLpzERgI8_SI_bkLg",
+    "ChIJW-GcxKSNpzERmzxVnocLcZ4",
+    "ChIJH7qQ4niLpzERauDuEKEMXVk",
+    "ChIJ4Xyw9VMhCDERNN1TD4LjCos",
+    "ChIJ2fu7BmGNpzERyc_w8wahNio",
+    "ChIJZWGJPeONpzERce--tYenego",
+    "ChIJhwi1TFqTpzERiZQmfO7PxUY",
+    "ChIJDxCXXTSXpzERXI7z0X_H_Ow",
+    "ChIJ2SBPKCONpzER36aEkpOGpyk",
+    "ChIJEYK7sD6LpzERgAa_oy1mPEg",
+    "ChIJgw37s0-XpzERx2gWzxP5Qfg",
     "ChIJHaad39SNpzERxyH_xEG63Kg",
     "ChIJO-aIpaKNpzERkCLeSERC9yE",
     "ChIJQz9pjguLpzERt20ZmhsgK9Y",
@@ -187,21 +199,189 @@
     "ChIJd4s74SiNpzERSsU3_x_0EsI",
     "ChIJjXUjGRmNpzERbpTPg0YpR3g",
     "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
-    "ChIJqx54JIyNpzERfmx8wXohQ4U",
-    "ChIJiyzaO4CNpzERTH6QKehpvBw",
-    "ChIJcQI2WEyNpzERiZfbiTwGiHU",
-    "ChIJK6PXziqyU2gREZvk_pErVag",
-    "ChIJ_QHQ2eWNpzER0VcwkboktMU",
-    "ChIJ652atFCNpzERuDwXbWc_sTQ",
-    "ChIJSQvg5PCNpzERilomshpyO-w",
-    "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
-    "ChIJdQIPu76LpzERR-arMzuJz5I",
-    "ChIJNZKZHU2TpzER5UaMI7CsQ-E",
-    "ChIJ9aynZwqTpzERWnZQfpFyViY",
-    "ChIJG0omSAeNpzERTWnB_Eaa4c8",
-    "ChIJF33R8xCLpzERFtTAVV7G-14"
+    "ChIJqx54JIyNpzERfmx8wXohQ4U"
   ],
   "history": [
+    {
+      "date": "2026-09-15",
+      "placeId": "ChIJi4uGpxKNpzERP7b_sLCQiqY",
+      "placeName": "GÓC CÀ PHÊ - Phú Quốc Riverside Coffee, Tea & Books",
+      "results": {
+        "facebookVideo": {
+          "id": "1620932982709550"
+        },
+        "instagramReel": {
+          "id": "18114846349789925"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "placeId": "ChIJh0oTEUaLpzERgI8_SI_bkLg",
+      "placeName": "Tiệm Cà Phê Đồng Giao",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123923725313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17909077422497634"
+        }
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "placeId": "ChIJW-GcxKSNpzERmzxVnocLcZ4",
+      "placeName": "Buddy Ice Cream & Cafe",
+      "results": {
+        "facebookVideo": {
+          "id": "2181229859101637"
+        },
+        "instagramReel": {
+          "id": "18103003457253640"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "placeId": "ChIJH7qQ4niLpzERauDuEKEMXVk",
+      "placeName": "HD cafe",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123922699313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18148124308543041"
+        }
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "placeId": "ChIJ4Xyw9VMhCDERNN1TD4LjCos",
+      "placeName": "Nhà Trên Biển - Joy Adventures - Restaurant & Boat to Starfish Beach",
+      "results": {
+        "facebookVideo": {
+          "id": "1947000446267884"
+        },
+        "instagramReel": {
+          "id": "18095782307638591"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "placeId": "ChIJ2fu7BmGNpzERyc_w8wahNio",
+      "placeName": "GRACE'S TOUR PHÚ QUỐC- SIM CARD- MONEY EXCHANGE- ENGLISH SPEAKER- DIVING",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123921475313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18175301620436683"
+        }
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "placeId": "ChIJZWGJPeONpzERce--tYenego",
+      "placeName": "Алиса гид по Фукуоку",
+      "results": {
+        "facebookVideo": {
+          "id": "2092609074959715"
+        },
+        "instagramReel": {
+          "id": "17873195979583090"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "placeId": "ChIJhwi1TFqTpzERiZQmfO7PxUY",
+      "placeName": "Rooty Trip Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123920173313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18198825034380340"
+        }
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "placeId": "ChIJDxCXXTSXpzERXI7z0X_H_Ow",
+      "placeName": "Catamaran VN Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1426107746153310"
+        },
+        "instagramReel": {
+          "id": "18134518876630693"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "placeId": "ChIJ2SBPKCONpzER36aEkpOGpyk",
+      "placeName": "Nice Tours Phu Quoc - Tailor Made Travel",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123919129313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18125503162865245"
+        }
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "placeId": "ChIJEYK7sD6LpzERgAa_oy1mPEg",
+      "placeName": "Basket Boat Tour & Kayak Tour (Dynasty Phu Quoc)",
+      "results": {
+        "facebookVideo": {
+          "id": "925338283534876"
+        },
+        "instagramReel": {
+          "id": "18444934438122862"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "placeId": "ChIJgw37s0-XpzERx2gWzxP5Qfg",
+      "placeName": "VEGAYACHTS - Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122123917959313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17905167399332873"
+        }
+      }
+    },
     {
       "date": "2026-09-14",
       "placeId": "ChIJHaad39SNpzERxyH_xEG63Kg",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "17899259931568858"
-        }
-      }
-    },
-    {
-      "date": "2026-08-30",
-      "placeId": "ChIJiyzaO4CNpzERTH6QKehpvBw",
-      "placeName": "FIONA SPA",
-      "results": {
-        "facebookVideo": {
-          "id": "1634546891570862"
-        },
-        "instagramReel": {
-          "id": "17882775753685401"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-30",
-      "placeId": "ChIJcQI2WEyNpzERiZfbiTwGiHU",
-      "placeName": "Hello Spa - Massage & Nail",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122121689571313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18072834614469393"
-        }
-      }
-    },
-    {
-      "date": "2026-08-30",
-      "placeId": "ChIJK6PXziqyU2gREZvk_pErVag",
-      "placeName": "Dgold Spa - body massage, foot massage, shampoo, nail",
-      "results": {
-        "facebookVideo": {
-          "id": "1552891336590725"
-        },
-        "instagramReel": {
-          "id": "18386604535203335"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-30",
-      "placeId": "ChIJ_QHQ2eWNpzER0VcwkboktMU",
-      "placeName": "Golden Foot Massage Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122121688659313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18126497029780145"
-        }
-      }
-    },
-    {
-      "date": "2026-08-29",
-      "placeId": "ChIJ652atFCNpzERuDwXbWc_sTQ",
-      "placeName": "Quán Ăn 93",
-      "results": {
-        "facebookVideo": {
-          "id": "1098048692801683"
-        },
-        "instagramReel": {
-          "id": "18363596215208432"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-29",
-      "placeId": "ChIJSQvg5PCNpzERilomshpyO-w",
-      "placeName": "Là-Men Coffee & Brunch Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122121488109313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18125017915836437"
-        }
-      }
-    },
-    {
-      "date": "2026-08-29",
-      "placeId": "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
-      "placeName": "Phu Quoc Street Food Tour - Eat with Locals, Drink with Locals",
-      "results": {
-        "facebookVideo": {
-          "id": "1605576064534825"
-        },
-        "instagramReel": {
-          "id": "18142104319601632"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-29",
-      "placeId": "ChIJdQIPu76LpzERR-arMzuJz5I",
-      "placeName": "Eco Tour Thai Duong – Cua Can River Basket Boat Experience",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122121487101313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17949380712257473"
-        }
-      }
-    },
-    {
-      "date": "2026-08-29",
-      "placeId": "ChIJNZKZHU2TpzER5UaMI7CsQ-E",
-      "placeName": "IG Island Gelato – ĐỒNG GIÁ 25K",
-      "results": {
-        "facebookVideo": {
-          "id": "1631230635238372"
-        },
-        "instagramReel": {
-          "id": "18406732768094346"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-29",
-      "placeId": "ChIJ9aynZwqTpzERWnZQfpFyViY",
-      "placeName": "SEN Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122121486021313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18193644094380513"
-        }
-      }
-    },
-    {
-      "date": "2026-08-29",
-      "placeId": "ChIJG0omSAeNpzERTWnB_Eaa4c8",
-      "placeName": "Bếp An Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1707580123662915"
-        },
-        "instagramReel": {
-          "id": "18040081349817262"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-08-29",
-      "placeId": "ChIJF33R8xCLpzERFtTAVV7G-14",
-      "placeName": "Camia Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122121484983313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18118667656861161"
         }
       }
     }
