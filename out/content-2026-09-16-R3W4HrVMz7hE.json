@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Locals don't. Tram Tram's Banh Mi has 505 reviews and a 4.5-star rating for a reason. Bánh mì done right, under $10, no frills. This is the sandwich stop the resort breakfast buffet doesn't want you to know about. Save this for your Phu Quoc trip.",
+    "video_caption": "Bánh mì fresh off the grill at Tram Tram's Banh Mi. 505 locals rated this 4.5 stars and kept quiet about it. Under $10. On Đường Trần Hưng Đạo. Now you know.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BanhMi #VisitVietnam #TravelTips #PhuQuocTips #VietnamStreetFood"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Tram Tram's Banh Mi. 505 reviews, 4.5 stars, under $10. Your move. Tag your travel buddy.",
+    "video_caption": "4.5 stars. 505 reviews. One bánh mì under $10. Tram Tram's is the move.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #BanhMi #VietnamTravel #TravelTips #TravelReels #StreetFoodVietnam #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "505 locals rated this bánh mì spot 4.5 stars and said nothing. Under $10. Go. #PhuQuoc #PhuQuocFood #BanhMi #VietnamStreetFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals kept this one quiet.",
+    "scenes": [
+      "Pan down busy Đường Trần Hưng Đạo",
+      "Stop at Tram Tram's Banh Mi sign",
+      "Hands wrapping a fresh bánh mì",
+      "Close-up: fillings loaded, bread crisped",
+      "Receipt or price shown, under $10",
+      "First bite, no words needed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

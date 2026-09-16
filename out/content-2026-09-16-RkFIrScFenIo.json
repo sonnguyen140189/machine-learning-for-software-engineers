@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stop at a random street on 30 Tháng 4 and land a 4.9-star Vietnamese meal for under $30. Sen River Restaurant is doing something right. 179 reviewers agree. Order the local fish, grab a riverside table, and let the afternoon disappear. Save this for your Phu Quoc trip.",
+    "video_caption": "Fork hits the plate at Sen River Restaurant and suddenly every resort restaurant feels overpriced. 4.9 stars. Real Vietnamese food. Real prices. This is the one.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "POV: you stumble onto 30 Tháng 4 Street and find a 4.9-star meal for under $30.\n\nSen River Restaurant. 179 reviews. Go find it. Tag your travel buddy.",
+    "video_caption": "4.9 stars. Under $30. Sen River Restaurant just changed the dinner plan.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodTok"
+  },
+  "tiktok": {
+    "caption": "Walked down 30 Tháng 4 Street and found a 4.9-star dinner for under $30. Sen River Restaurant, Phu Quoc. Don't sleep. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: random street. 4.9 stars.",
+    "scenes": [
+      "Pan down 30 Tháng 4 Street sign",
+      "Push in on Sen River Restaurant entrance",
+      "Hands ordering from a local menu",
+      "Close-up: steaming Vietnamese dishes land on table",
+      "Wide shot: full table, riverside setting",
+      "Flash the 4.9-star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 788 reviews. On a tiny island in Vietnam.\n\nBombay Indian Restaurant Phú Quốc is doing something right. Butter chicken, garlic naan, proper curry, all under $30 a head. If you're craving something that isn't seafood, this is your spot on Lê Lợi.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the naan come out of that tandoor oven. Bombay Indian Restaurant Phú Quốc, 4.9 stars, 788 reviews, $15-30 a person. Phu Quoc's best-kept curry secret is out.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips #VietnamFood #IndianFoodAbroad"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 788 reviews. In Phu Quoc.\n\nBombay Indian Restaurant Phú Quốc, under $30 a head, Lê Lợi street. Save this.",
+    "video_caption": "Garlic naan. Butter chicken. $15-30 a head. Bombay Indian Restaurant Phú Quốc is the 4.9-star dinner you didn't plan for.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #IndianFood"
+  },
+  "tiktok": {
+    "caption": "4.9 stars in Phu Quoc and it's an Indian restaurant. Bombay Indian Restaurant Phú Quốc under $30. Go. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9 STARS. 788 REVIEWS.",
+    "scenes": [
+      "Exterior shot, Lê Lợi street sign visible",
+      "Tandoor oven, naan being pulled out",
+      "Butter chicken poured into bowl, close-up",
+      "Full table spread, two people eating",
+      "Phone screen shows 4.9 stars, 788 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

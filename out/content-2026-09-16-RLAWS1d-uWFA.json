@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past 10 Lê Lợi. That's their loss.\n\nNINH KITCHEN is pulling a 4.9 from 331 reviews and barely anyone in the resort crowds knows it exists. Real Vietnamese food, $15-30 a head, on a street locals actually eat on.\n\nNo English-menu theatrics. Just the good stuff.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "331 people rated this 4.9 stars and the tourist trail still hasn't caught up. Watch what comes out of this kitchen at NINH KITCHEN, 10 Lê Lợi, Phú Quốc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't advertise NINH KITCHEN. 4.9 stars, 331 reviews, $15-30 a head. Now you know.\n\nTag your travel buddy.",
+    "video_caption": "4.9 stars. 331 reviews. The tourist crowd has no idea. NINH KITCHEN, Phú Quốc.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The locals keep eating here. 4.9 stars. You've never seen it on a resort map. #PhuQuoc #PhuQuocFood #VietnamEats"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Street sign: 10 Lê Lợi, Phú Quốc",
+      "Busy local tables, no tourists visible",
+      "Bowl of Vietnamese dish lands on table",
+      "Close-up: steam rising, chopsticks lifting",
+      "Phone screen showing 4.9 stars, 331 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
