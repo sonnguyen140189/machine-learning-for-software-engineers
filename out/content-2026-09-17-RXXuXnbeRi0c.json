@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this coffee shop. 4.8 stars, 186 reviews, sitting inside a resort zone most visitors never enter. Chillin Coffee Corner in Khu THDL Sonaseas is where locals actually go when they want good coffee without the beach-road noise. Real drinks, real atmosphere, no tour-group crowds. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what happens when you skip the tourist cafés. Chillin Coffee Corner is pulling 4.8 stars and barely anyone outside Phu Quoc knows it exists. Your next coffee stop just changed.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #VietnamCoffee #PhuQuocTips #CoffeeVietnam"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Chillin Coffee Corner. 4.8★, 186 reviews, zero tourist crowds. This is where to actually drink coffee in Phu Quoc.",
+    "video_caption": "4.8 stars. Barely on the tourist radar. Chillin Coffee Corner is the café move in Phu Quoc. Tag your travel buddy.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamCoffee #VietnamTravel #TravelTips #TravelReels #CoffeeShop"
+  },
+  "tiktok": {
+    "caption": "The café Phu Quoc tourists keep missing. 4.8★ and barely crowded. Chillin Coffee Corner. #PhuQuoc #PhuQuocTips #VietnamCoffee #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this café.",
+    "scenes": [
+      "Exterior shot: quiet resort zone entrance",
+      "Push through: calm seating area, no crowds",
+      "Close-up: coffee being poured, steam rising",
+      "Cut to: 4.8★ rating on screen",
+      "Wide shot: guests relaxing, locals at tables"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

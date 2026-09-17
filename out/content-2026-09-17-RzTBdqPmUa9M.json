@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "18,164 reviews. 4.8 stars. VinWonders Phú Quốc is not a fluke.\n\nThis full-scale amusement park sits right on Bãi Dài, one of Phu Quoc's longest stretches of beach. Rides, water attractions, live shows, and a cable car view that earns every one of those stars.\n\nMost tourists plan a half-day. Locals know you need a full one.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Cameras out from the moment you walk in. VinWonders Phú Quốc delivers rides, water park thrills, and a cable car over the bay, all in one spot on Bãi Dài. Block the whole day.",
+    "first_comment": "#PhuQuoc #PhuQuocThingsToDo #VinWondersPhuQuoc #VisitVietnam #TravelTips #PhuQuocIsland #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.8 stars across 18,164 reviews. VinWonders Phú Quốc earns every single one.\n\nBlock a full day. Trust the ratings.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Rides. Water park. Cable car over the bay. VinWonders Phú Quốc at 4.8 stars, 18K people can't be wrong.",
+    "hashtags": "#PhuQuoc #VinWondersPhuQuoc #PhuQuocThingsToDo #PhuQuocIsland #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.8 stars. 18,164 reviews. VinWonders Phú Quốc is the real deal. Block a full day. #PhuQuoc #VinWonders #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★ from 18,164 people.",
+    "scenes": [
+      "Aerial shot: park scale from above",
+      "Riders launching on main coaster",
+      "Water slides, crowds, big splashes",
+      "Cable car gliding over Bãi Dài bay",
+      "Live show lights up after dark",
+      "Guest reaction shot: pure disbelief"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

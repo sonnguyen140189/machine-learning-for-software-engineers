@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you rented a scooter, took the wrong road, and found Rạch Hàm. Real fishing boats. Crab traps stacked to the sky. Zero resort energy. Ham Ninh is what Phu Quoc looked like before the hotels showed up. Walk the wooden pier, eat something pulled from the water that morning, and watch the fishermen do their thing. 4.1 stars across 1,053 reviews. Save this for your Phu Quoc trip.",
+    "video_caption": "Wooden pier. Crab pots. Fishing boats at low tide. This is Ham Ninh and it looks nothing like the rest of Phu Quoc. 4.1 stars, 1,053 reviews, still off most tourist itineraries. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocTravel #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel #PhúQuốc"
+  },
+  "instagram": {
+    "caption": "POV: wrong turn. Found Ham Ninh. Real boats, real fishermen, zero resort energy. Save this for your Phu Quoc trip.",
+    "video_caption": "Scooter. Wooden pier. Crab pots stacked high. Ham Ninh hits different. 4.1 stars, 1,053 reviews.",
+    "hashtags": "#PhuQuocTravel #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #PhuQuocHidden"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn and found this. Ham Ninh fishing town is the real Phu Quoc. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: wrong turn. Found this.",
+    "scenes": [
+      "Scooter pulls up to wooden pier",
+      "Rows of fishing boats at low tide",
+      "Close-up: crab traps stacked high",
+      "Fisherman sorting the morning catch",
+      "Wide shot: village with zero resorts in sight"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

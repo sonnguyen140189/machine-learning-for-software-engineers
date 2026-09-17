@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 223 reviews. SORI Restaurant is earning every single one.\n\nPhu Quoc dining at the $15-30 range that actually delivers. Real food, real ratings, no tourist-trap markup.\n\nThis is the kind of spot that fills up because word spreads, not because it's plastered on billboards.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch what 223 reviewers kept coming back for. SORI Restaurant in Phu Quoc. $15-30 a head. 4.7 stars. The plates tell you everything you need to know.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 223 reviews. SORI Restaurant is not a fluke.\n\n$15-30 a head. Tag your travel buddy.",
+    "video_caption": "223 people rated this 4.7 stars. SORI Restaurant, Phu Quoc. Watch the plates land.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "4.7 stars, 223 reviews. SORI Restaurant delivering in Phu Quoc. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.7★ 223 reviews. SORI.",
+    "scenes": [
+      "Exterior shot, door opening",
+      "Table fills with dishes, close-up",
+      "Fork cuts in, steam rises",
+      "Reaction shot, first bite",
+      "Review count scrolling on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
