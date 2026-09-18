@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered off Đường Trần Hưng Đạo and found A little Eatery. 4.8 stars. 359 reviews. And nobody in the tour group knows it exists. This small spot in Dương Đông punches way above its size. Budget $15-30 per person and eat well. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking past address 91/3A and almost missing it. That nearly cost us the best meal of the trip. A little Eatery, Dương Đông. 4.8 stars and zero hype. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips #DuongDong #VietnamEats"
+  },
+  "instagram": {
+    "caption": "Walked past it twice. Then the 4.8★ (359 reviews) stopped me. A little Eatery on Đường Trần Hưng Đạo. $15-30. Worth every đồng. Tag your travel buddy.",
+    "video_caption": "Almost missed this place. 4.8 stars sitting quietly on Đường Trần Hưng Đạo. Don't be me, walk in.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #DuongDong #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats"
+  },
+  "tiktok": {
+    "caption": "POV: found A little Eatery by accident. 4.8★, 359 reviews, no tourist crowd. Add it. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: almost walked past this.",
+    "scenes": [
+      "Pan up to 91/3A Đường Trần Hưng Đạo sign",
+      "Push through the door, small cozy interior",
+      "Close-up: food arriving at the table",
+      "Cut to phone screen showing 4.8★ rating",
+      "Wide shot: quiet room, zero tourist chaos"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

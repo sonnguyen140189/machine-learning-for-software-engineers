@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "6,143 reviews on a bistro in Phu Quoc. That number doesn't lie.\n\nChuồn Chuồn Bistro & Bar on Trần Hưng Đạo keeps pulling people back. Solid 4.3 stars across thousands of visits. Budget around $15-30 per person and you're set for a full meal with drinks.\n\nNot every well-reviewed spot earns it. This one has. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the crowd at Chuồn Chuồn Bistro & Bar on a regular weeknight. 6,143 reviews at 4.3 stars. Trần Hưng Đạo delivers again. Budget $15-30 and eat well.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "6,143 reviews. 4.3 stars. Chuồn Chuồn Bistro & Bar keeps delivering.\n\n$15-30/person on Trần Hưng Đạo. Save this.",
+    "video_caption": "Packed tables. 6,143 reviews earned. Chuồn Chuồn Bistro & Bar, Phu Quoc. $15-30/person.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats"
+  },
+  "tiktok": {
+    "caption": "6,143 reviews at 4.3★. Chuồn Chuồn Bistro & Bar on Trần Hưng Đạo. $15-30/person. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "6,143 reviews. ONE bistro.",
+    "scenes": [
+      "Exterior shot: busy entrance, full tables visible",
+      "Pan across packed dining room, evening light",
+      "Close-up: food arriving at table, steam rising",
+      "Cut to drinks being poured at the bar",
+      "Price text on screen: $15-30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

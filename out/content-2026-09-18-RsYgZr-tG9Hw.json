@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk through Chợ đêm Phú Quốc once and leave. Locals come back every week. The difference? They know which stalls to hit, which skewers to order, and which section has the real street food. 6,569 reviews. 4.0 stars. This market earns it. Show up after 6pm, bring cash, skip the front row stalls. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the night market come alive at Chợ đêm Phú Quốc. Smoke from the grills, rows of fresh seafood on ice, and prices that make no sense. This is where Phu Quoc actually eats. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocNightMarket #PhuQuocFood #VietnamTravel #TravelTips #PhuQuocTips #VisitVietnam"
+  },
+  "instagram": {
+    "caption": "Locals come back every week. Tourists walk past twice. Chợ đêm Phú Quốc, 6pm onwards. 6,569 reviews don't lie. Save this.",
+    "video_caption": "Smoke, grills, fresh seafood. Chợ đêm Phú Quốc after dark hits different. Go hungry.",
+    "hashtags": "#PhuQuocNightMarket #PhuQuocFood #PhuQuocTips #VietnamStreetFood #VietnamTravel #TravelTips #TravelReels #NightMarket #PhuQuoc #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "What locals know about Chợ đêm Phú Quốc that tourists don't. Show up after 6pm. Bring cash. Go hungry. #PhuQuoc #PhuQuocNightMarket #VietnamFood #NightMarket"
+  },
+  "video_script": {
+    "hook": "Locals don't tell tourists this.",
+    "scenes": [
+      "Aerial: market lights switch on at dusk",
+      "Close-up: seafood laid out on ice",
+      "Grill flames, skewers sizzling",
+      "Crowd of locals filling the stalls",
+      "Cash exchanging hands, food handed over",
+      "Final wide shot: packed market at peak night"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

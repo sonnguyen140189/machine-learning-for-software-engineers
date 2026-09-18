@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "8,350 reviews. 4.8 stars. And you probably walked right past MEO Kitchen.\n\nThis Vietnamese spot on Đường Trần Hưng Đạo is what locals actually eat. Real pho, proper broken rice, grilled dishes that don't taste like they were made for tourists. Prices sit at $15-30 a person. For food this good, that's nothing.\n\nIf your Phu Quoc itinerary is just resort buffets, you're doing it wrong.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch this plate land on the table at MEO Kitchen. 4.8 stars across 8,350 reviews and it's $15-30 a head. This is the Vietnamese food Phu Quoc tourists keep missing on Đường Trần Hưng Đạo.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocRestaurants #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "8,350 reviews. 4.8 stars. MEO Kitchen is the real one.\n\n$15-30 a head for Vietnamese food locals actually rate. Tag your travel buddy.",
+    "video_caption": "4.8 stars. 8,350 people. MEO Kitchen on Đường Trần Hưng Đạo. Under $30 a head. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VisitVietnam #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "8,350 reviews and tourists still walk past this place. MEO Kitchen, Phu Quoc. $15-30. Go. #PhuQuoc #PhuQuocFood #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "8,350 reviews. Still empty.",
+    "scenes": [
+      "Pan down busy Đường Trần Hưng Đạo street",
+      "Push in on MEO Kitchen sign",
+      "Overhead shot: steaming bowl hits table",
+      "Close-up: grilled dish, smoke rising",
+      "Quick cut: bill arrives, under $30"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

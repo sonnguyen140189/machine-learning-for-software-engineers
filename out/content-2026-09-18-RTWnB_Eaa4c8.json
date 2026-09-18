@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Locals don't post about Bếp An Restaurant. 4.7 stars. 2,288 reviews. Still no line out the door when tourists walk past. Sit down, order whatever the table next to you is eating, pay $15-30 a head. That's the move. Đường Trần Hưng Đạo is full of options. This one earns its repeat customers. Save this for your Phu Quoc trip.",
+    "video_caption": "Camera pans across full plates at Bếp An Restaurant. Real food, real prices, real locals eating next to you. $15-30 a person on Đường Trần Hưng Đạo. No tourist markup. Just a 4.7-star meal most visitors walk straight past.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Bếp An Restaurant. 4.7★, 2,288 reviews, $15-30 a head. Still quiet. Tag your travel buddy.",
+    "video_caption": "Plates landing. Locals eating. Bếp An Restaurant on Đường Trần Hưng Đạo. 4.7★ and somehow still off the tourist radar.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.7★ and 2,288 reviews but still no tourist crowds. Bếp An Restaurant delivers. #PhuQuoc #PhuQuocFood #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior shot: Bếp An Restaurant sign",
+      "Pan across crowded local tables",
+      "Close-up: full plates arriving",
+      "Reaction shot: first bite",
+      "Screen text: 4.7★, 2,288 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

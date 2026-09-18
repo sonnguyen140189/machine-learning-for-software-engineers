@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you take a wrong turn at Mango Bay and end up eating seafood on a rock above the water.\n\nOn The Rock Restaurant & Beach Bar is exactly what it sounds like. Tables perched on the rocks, waves below, cold drinks in hand. 4.3 stars across 470 reviews backs it up.\n\nFind it at Hẻm 8 Đường Lê Thúc Nha, Phú Quốc. Save this for your Phu Quoc trip.",
+    "video_caption": "Rocks. Water. A bar nobody told you about. On The Rock Restaurant & Beach Bar sits right on the edge of Mango Bay, Phú Quốc. 4.3 stars. 470 reviews. Go find it.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "POV: wrong turn. Right place. On The Rock Restaurant & Beach Bar, Mango Bay, Phú Quốc. 4.3★ 470 reviews. Tag your travel buddy.",
+    "video_caption": "Eating on the rocks. Waves underneath. This is On The Rock at Mango Bay, Phú Quốc.",
+    "hashtags": "#PhuQuocRestaurants #PhuQuocBeachBar #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocFood"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn at Mango Bay. Found this. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "POV: wrong turn. Right place.",
+    "scenes": [
+      "Winding path leads to rocky shoreline",
+      "Bar stools perched above the waves",
+      "Seafood dish lands on a rock table",
+      "Cold drink, ocean below, wide shot",
+      "4.3 stars text overlay fades in"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
