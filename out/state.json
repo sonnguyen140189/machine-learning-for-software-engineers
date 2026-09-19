@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJKTX4YwCLpzERhiLmMHLUihA",
+    "ChIJYQY76P2NpzERlul1IUfk3N8",
+    "ChIJAWovfRONpzERI7y_gpk_6D0",
+    "ChIJ44y8R_uNpzERI0lt0GkPrNM",
+    "ChIJo-0fmz6NpzERIEhHbz8e4T8",
+    "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
+    "ChIJZaB-ewCNpzERPBRid0eSO98",
+    "ChIJI5WlJe2TpzERePcxr40c2U4",
+    "ChIJa_lVMmeNpzERHonO5t2IKRg",
+    "ChIJw58lTZeNpzERBCwsZlG8gwA",
+    "ChIJEUkRcwCTpzEREkP4pNOORIE",
+    "ChIJ9T54ktqNpzERu6dsX5pZXx4",
     "ChIJH0aX5viNpzER9TG55g0FCcM",
     "ChIJG0omSAeNpzERTWnB_Eaa4c8",
     "ChIJt4DYpuyLpzERm18CccVtFaM",
@@ -187,21 +199,189 @@
     "ChIJ-0XGzouOpzERbbOfSGDmmuU",
     "ChIJsWqZg7gfCDERVA6dihKWpho",
     "ChIJ4QSQI2yJpzERRmh6eVFXHdU",
-    "ChIJvc4-RWUgCDERx4AJFW81Tg4",
-    "ChIJwaXLFgyJpzERsHSEodjscKQ",
-    "ChIJyUtXhYCPpzERS0pgKYm7hu4",
-    "ChIJCxSJFRGPpzERvq1ZTl4QO8c",
-    "ChIJd8N-u3CPpzERe2DX-mg_nWE",
-    "ChIJBZASQZ6NpzERfkHFOYJvawM",
-    "ChIJBWE7axyNpzER5e0d8AjEDJA",
-    "ChIJJ8PVWkiTpzER0g33shpEXCY",
-    "ChIJ_3mcEp-NpzERP0uTjkMlQ30",
-    "ChIJE0W_Mu-NpzER4e-2jmhYJYI",
-    "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
-    "ChIJyQi3u2GMpzERVXgllKB2V_A",
-    "ChIJLa_VvluMpzERVdeTFM021V4"
+    "ChIJvc4-RWUgCDERx4AJFW81Tg4"
   ],
   "history": [
+    {
+      "date": "2026-09-19",
+      "placeId": "ChIJKTX4YwCLpzERhiLmMHLUihA",
+      "placeName": "SIM Coffee - A Story Of The Island",
+      "results": {
+        "facebookVideo": {
+          "id": "2478920065925655"
+        },
+        "instagramReel": {
+          "id": "18116034611075707"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "placeId": "ChIJYQY76P2NpzERlul1IUfk3N8",
+      "placeName": "Bapaki Tea, Bakery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122124460977313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17959643556208294"
+        }
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "placeId": "ChIJAWovfRONpzERI7y_gpk_6D0",
+      "placeName": "Devis Bakery Phu Quoc 데비스베이커리",
+      "results": {
+        "facebookVideo": {
+          "id": "1990965095623984"
+        },
+        "instagramReel": {
+          "id": "18078801281374763"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "placeId": "ChIJ44y8R_uNpzERI0lt0GkPrNM",
+      "placeName": "Tiệm Bánh Kem Phú Quốc - PP Bakery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122124459897313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18100723397041158"
+        }
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "placeId": "ChIJo-0fmz6NpzERIEhHbz8e4T8",
+      "placeName": "TUNG Cake and Tea",
+      "results": {
+        "facebookVideo": {
+          "id": "928964933619688"
+        },
+        "instagramReel": {
+          "id": "18008730668968896"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "placeId": "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
+      "placeName": "The Cake Corner",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122124459003313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18560501389078027"
+        }
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "placeId": "ChIJZaB-ewCNpzERPBRid0eSO98",
+      "placeName": "Nị Bakery",
+      "results": {
+        "facebookVideo": {
+          "id": "1003095392800714"
+        },
+        "instagramReel": {
+          "id": "17917755894246253"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "placeId": "ChIJI5WlJe2TpzERePcxr40c2U4",
+      "placeName": "O BON PAIN-FRENCH BAKERY",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122124457851313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17966525493191669"
+        }
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "placeId": "ChIJa_lVMmeNpzERHonO5t2IKRg",
+      "placeName": "Sugar Fusion Bakery",
+      "results": {
+        "facebookVideo": {
+          "id": "4221240151341369"
+        },
+        "instagramReel": {
+          "id": "17908028919538691"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "placeId": "ChIJw58lTZeNpzERBCwsZlG8gwA",
+      "placeName": "Sunset Sanato Beach Club",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122124456753313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17910532407495823"
+        }
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "placeId": "ChIJEUkRcwCTpzEREkP4pNOORIE",
+      "placeName": "Soul Boutique Hotel Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "4614462142124423"
+        },
+        "instagramReel": {
+          "id": "18454395439189240"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "placeId": "ChIJ9T54ktqNpzERu6dsX5pZXx4",
+      "placeName": "Tahiti Hotel",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122124455589313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18432163405181133"
+        }
+      }
+    },
     {
       "date": "2026-09-18",
       "placeId": "ChIJH0aX5viNpzER9TG55g0FCcM",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "17996770178814207"
-        }
-      }
-    },
-    {
-      "date": "2026-09-03",
-      "placeId": "ChIJwaXLFgyJpzERsHSEodjscKQ",
-      "placeName": "Khu du lịch sinh thái (Suối Đá Bàn)",
-      "results": {
-        "facebookVideo": {
-          "id": "1060066966781953"
-        },
-        "instagramReel": {
-          "id": "17928315267400069"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-03",
-      "placeId": "ChIJyUtXhYCPpzERS0pgKYm7hu4",
-      "placeName": "Khu du lịch Suối Tranh",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122122283889313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18028345790889622"
-        }
-      }
-    },
-    {
-      "date": "2026-09-03",
-      "placeId": "ChIJCxSJFRGPpzERvq1ZTl4QO8c",
-      "placeName": "Fairy Waterfall",
-      "results": {
-        "facebookVideo": {
-          "id": "952467247898728"
-        },
-        "instagramReel": {
-          "id": "18085519730250447"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-03",
-      "placeId": "ChIJd8N-u3CPpzERe2DX-mg_nWE",
-      "placeName": "Suoi Tranh Waterfall",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122122282911313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18138363592612782"
-        }
-      }
-    },
-    {
-      "date": "2026-09-02",
-      "placeId": "ChIJBZASQZ6NpzERfkHFOYJvawM",
-      "placeName": "Tarapaca Cafe",
-      "results": {
-        "facebookVideo": {
-          "id": "965841353197642"
-        },
-        "instagramReel": {
-          "id": "18121835716854177"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-02",
-      "placeId": "ChIJBWE7axyNpzER5e0d8AjEDJA",
-      "placeName": "AROMA Cafe Bistro Bar Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122122189197313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17940503025345047"
-        }
-      }
-    },
-    {
-      "date": "2026-09-02",
-      "placeId": "ChIJJ8PVWkiTpzER0g33shpEXCY",
-      "placeName": "Beach House - The Beach Club",
-      "results": {
-        "facebookVideo": {
-          "id": "1437497381684012"
-        },
-        "instagramReel": {
-          "id": "17913813213457547"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-02",
-      "placeId": "ChIJ_3mcEp-NpzERP0uTjkMlQ30",
-      "placeName": "Shisha Bar Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122122188111313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18109039105847377"
-        }
-      }
-    },
-    {
-      "date": "2026-09-02",
-      "placeId": "ChIJE0W_Mu-NpzER4e-2jmhYJYI",
-      "placeName": "Day market",
-      "results": {
-        "facebookVideo": {
-          "id": "2138681690406492"
-        },
-        "instagramReel": {
-          "id": "18090298421323398"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-02",
-      "placeId": "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
-      "placeName": "Aloha Beach Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122122187079313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18099591302623357"
-        }
-      }
-    },
-    {
-      "date": "2026-09-02",
-      "placeId": "ChIJyQi3u2GMpzERVXgllKB2V_A",
-      "placeName": "RED RIVER TOURS",
-      "results": {
-        "facebookVideo": {
-          "id": "1127219476295505"
-        },
-        "instagramReel": {
-          "id": "18333745291261683"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-02",
-      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
-      "placeName": "Jerry's Jungle Tours",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122122185963313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18129058885670323"
         }
       }
     }
