@@ -1,0 +1,523 @@
+{
+  "stamp": "2026-09-19",
+  "items": [
+    {
+      "placeId": "ChIJ9T54ktqNpzERu6dsX5pZXx4",
+      "placeName": "Tahiti Hotel",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-19-Ru6dsX5pZXx4-0.jpg",
+        "out/media/2026-09-19-Ru6dsX5pZXx4-1.jpg",
+        "out/media/2026-09-19-Ru6dsX5pZXx4-2.jpg",
+        "out/media/2026-09-19-Ru6dsX5pZXx4-3.jpg",
+        "out/media/2026-09-19-Ru6dsX5pZXx4-4.jpg",
+        "out/media/2026-09-19-Ru6dsX5pZXx4-5.jpg",
+        "out/media/2026-09-19-Ru6dsX5pZXx4-6.jpg",
+        "out/media/2026-09-19-Ru6dsX5pZXx4-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "657 reviews. 4.3 stars. Outdoor pool, beach access, and no resort markup. Tahiti Hotel on Đường Trần Hưng Đạo keeps it simple and delivers where it counts. Rooms are understated, the pool is right there, and the beach is steps away. No frills. No complaints. Save this for your Phu Quoc trip.",
+          "video_caption": "Pool. Beach. 657 happy guests. Tahiti Hotel is doing the basics better than spots charging triple. Watch this before you book anything in Phu Quoc.",
+          "first_comment": "#PhuQuoc #PhuQuocHotels #VisitVietnam #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "657 reviews. 4.3 stars. Beach access included. Tahiti Hotel delivers without the resort price tag. Tag your travel buddy.",
+          "video_caption": "Pool drop. Beach steps away. 657 guests rated it 4.3. Tahiti Hotel just makes sense.",
+          "hashtags": "#PhuQuocHotels #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachHotel"
+        },
+        "tiktok": {
+          "caption": "657 reviews. 4.3 stars. Beach access. Tahiti Hotel is the move. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "657 reviews. 4.3 stars.",
+          "scenes": [
+            "Aerial pan over outdoor pool",
+            "Guest walking from pool to beach",
+            "Room interior, clean and simple",
+            "Close shot: beach at Đường Trần Hưng Đạo",
+            "Review count animates on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJEUkRcwCTpzEREkP4pNOORIE",
+      "placeName": "Soul Boutique Hotel Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-19-REkP4pNOORIE-0.jpg",
+        "out/media/2026-09-19-REkP4pNOORIE-1.jpg",
+        "out/media/2026-09-19-REkP4pNOORIE-2.jpg",
+        "out/media/2026-09-19-REkP4pNOORIE-3.jpg",
+        "out/media/2026-09-19-REkP4pNOORIE-4.jpg",
+        "out/media/2026-09-19-REkP4pNOORIE-5.jpg",
+        "out/media/2026-09-19-REkP4pNOORIE-6.jpg",
+        "out/media/2026-09-19-REkP4pNOORIE-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-19-REkP4pNOORIE.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "764 people rated this hotel 4.8 stars. On Bãi Trường. Let that sink in.\n\nSoul Boutique Hotel Phu Quoc sits right in the Bãi Trường Complex, one of the best stretches of beach on the island. Boutique size means actual service. 4.8 stars means they're delivering it, consistently.\n\nNot a mega resort. Not a backpacker bunk. The sweet spot.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the Bãi Trường beachfront right outside Soul Boutique Hotel. 764 reviews. 4.8 stars. The property is smaller than you'd expect. The rating is not.",
+          "first_comment": "#PhuQuoc #PhuQuocHotels #BaiTruong #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "764 reviews. 4.8 stars. Bãi Trường beachfront.\n\nSoul Boutique Hotel delivers where big resorts don't. Save this.",
+          "video_caption": "Bãi Trường outside your window. 4.8 stars, 764 reviews. Soul Boutique Hotel, Phu Quoc.",
+          "hashtags": "#PhuQuocHotels #BaiTruong #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocBeaches #VisitVietnam"
+        },
+        "tiktok": {
+          "caption": "764 reviews. 4.8 stars. Bãi Trường beachfront. Soul Boutique Hotel is the move. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.8★, 764 reviews. Phu Quoc.",
+          "scenes": [
+            "Drone pull-back from Bãi Trường beach",
+            "Hotel exterior, boutique scale shown",
+            "Close-up: 4.8 star rating on screen",
+            "Staff greeting guest at entrance",
+            "Room window view toward the beach"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJw58lTZeNpzERBCwsZlG8gwA",
+      "placeName": "Sunset Sanato Beach Club",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-19-RBCwsZlG8gwA-0.jpg",
+        "out/media/2026-09-19-RBCwsZlG8gwA-1.jpg",
+        "out/media/2026-09-19-RBCwsZlG8gwA-2.jpg",
+        "out/media/2026-09-19-RBCwsZlG8gwA-3.jpg",
+        "out/media/2026-09-19-RBCwsZlG8gwA-4.jpg",
+        "out/media/2026-09-19-RBCwsZlG8gwA-5.jpg",
+        "out/media/2026-09-19-RBCwsZlG8gwA-6.jpg",
+        "out/media/2026-09-19-RBCwsZlG8gwA-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes a bad travel day.\n\nSunset Sanato Beach Club on Đường Bào hits different at golden hour. Feet in the sand, drink in hand, sky turning orange over the Gulf of Thailand. $15-30 a person for all of it.\n\n4.0 stars across 2,676 reviews. Not perfect. Real.\n\nGet there 30 minutes before sunset. Grab a spot on the sand. Don't rush out.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the sky go full orange over the Gulf of Thailand. Sunset Sanato Beach Club, Đường Bào. $15-30 a person. 2,676 people have rated this. Go find out why.",
+          "first_comment": "#PhuQuoc #PhuQuocBeach #SunsetPhuQuoc #VisitVietnam #TravelTips #PhuQuocNightlife #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "This place fixes a bad travel day.\n\nSunset Sanato Beach Club. Sand. Drinks. Gulf of Thailand going full orange. $15-30pp.\n\nTag your travel buddy.",
+          "video_caption": "Sky going orange. Drink in hand. Sand between your toes. Sunset Sanato Beach Club, Đường Bào. Under $30pp.",
+          "hashtags": "#PhuQuocBeach #PhuQuocBar #SunsetPhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocVibes"
+        },
+        "tiktok": {
+          "caption": "Phu Quoc sunsets hit different here. Sunset Sanato Beach Club, Đường Bào. Under $30pp. #PhuQuoc #SunsetBar #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Phu Quoc that fixes burnout.",
+          "scenes": [
+            "Wide shot: beach club at golden hour",
+            "Feet walking across white sand",
+            "Bartender pours tropical drink, close-up",
+            "Sun dropping toward Gulf of Thailand",
+            "Crowd toasting, sky fully orange",
+            "Price text: '$15-30 per person'"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJa_lVMmeNpzERHonO5t2IKRg",
+      "placeName": "Sugar Fusion Bakery",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-19-RHonO5t2IKRg-0.jpg",
+        "out/media/2026-09-19-RHonO5t2IKRg-1.jpg",
+        "out/media/2026-09-19-RHonO5t2IKRg-2.jpg",
+        "out/media/2026-09-19-RHonO5t2IKRg-3.jpg",
+        "out/media/2026-09-19-RHonO5t2IKRg-4.jpg",
+        "out/media/2026-09-19-RHonO5t2IKRg-5.jpg",
+        "out/media/2026-09-19-RHonO5t2IKRg-6.jpg",
+        "out/media/2026-09-19-RHonO5t2IKRg-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-19-RHonO5t2IKRg.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you're melting in Phu Quoc heat and you walk into Sugar Fusion Bakery. Air con. Fresh pastries. 4.7 stars from 275 people who clearly found what they needed.\n\nSit down. Order something. Forget the beach exists for an hour.\n\nLocated at 39 Đường Trần Hưng Đạo, Khu 1, Phú Quốc. Budget around $15-30 per person.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Pastry cases stacked, AC running, and every table full at midday. Sugar Fusion Bakery hits different when the island heat is at its worst. 39 Đường Trần Hưng Đạo, Phú Quốc.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+        },
+        "instagram": {
+          "caption": "POV: you ducked into Sugar Fusion Bakery to escape the heat. You're not leaving.\n\n4.7★, 275 reviews, fresh pastries. Tag your travel buddy.",
+          "video_caption": "Fresh bakes, cold AC, 4.7 stars. Sugar Fusion Bakery is your Phu Quoc midday reset.",
+          "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamFood #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Found your Phu Quoc midday escape. 4.7★ bakery, real pastries, AC that works. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "POV: best bakery in Phu Quoc",
+          "scenes": [
+            "Push through glass door, AC hits face",
+            "Pan across full pastry display case",
+            "Close-up: flaky layers, golden crust",
+            "Customer biting in, eyes close",
+            "Rating card: 4.7★ 275 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJI5WlJe2TpzERePcxr40c2U4",
+      "placeName": "O BON PAIN-FRENCH BAKERY",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-19-RePcxr40c2U4-0.jpg",
+        "out/media/2026-09-19-RePcxr40c2U4-1.jpg",
+        "out/media/2026-09-19-RePcxr40c2U4-2.jpg",
+        "out/media/2026-09-19-RePcxr40c2U4-3.jpg",
+        "out/media/2026-09-19-RePcxr40c2U4-4.jpg",
+        "out/media/2026-09-19-RePcxr40c2U4-5.jpg",
+        "out/media/2026-09-19-RePcxr40c2U4-6.jpg",
+        "out/media/2026-09-19-RePcxr40c2U4-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you're craving a real croissant and Phu Quoc actually delivers.\n\nO BON PAIN-FRENCH BAKERY on Đường Trần Hưng Đạo is the answer. Fresh pastries, proper coffee, and a $15-30 bill that won't hurt. 4.3 stars across 360 reviews. The morning crowd knows.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Flaky croissant. Hot coffee. $15-30 a head. O BON PAIN-FRENCH BAKERY on Đường Trần Hưng Đạo hits different when you need a break from beach food. 4.3 stars, 360 reviews. Worth the stop.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+        },
+        "instagram": {
+          "caption": "POV: you found the croissant spot in Phu Quoc.\n\nO BON PAIN-FRENCH BAKERY. 4.3★, 360 reviews. Save this.",
+          "video_caption": "Fresh pastries in Phu Quoc. O BON PAIN-FRENCH BAKERY on Đường Trần Hưng Đạo. The morning crowd is always right.",
+          "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocBakery #VisitVietnam #VietnamFood"
+        },
+        "tiktok": {
+          "caption": "Found a legit French bakery in Phu Quoc. O BON PAIN on Đường Trần Hưng Đạo. 4.3★, 360 reviews. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "A French bakery. In Phu Quoc.",
+          "scenes": [
+            "Exterior shot, Đường Trần Hưng Đạo signage",
+            "Close-up: croissants fresh in the display case",
+            "Coffee poured, steam rising",
+            "Bill arrives, $15-30 range shown",
+            "Morning crowd filling the seats"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJZaB-ewCNpzERPBRid0eSO98",
+      "placeName": "Nị Bakery",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-19-RPBRid0eSO98-0.jpg",
+        "out/media/2026-09-19-RPBRid0eSO98-1.jpg",
+        "out/media/2026-09-19-RPBRid0eSO98-2.jpg",
+        "out/media/2026-09-19-RPBRid0eSO98-3.jpg",
+        "out/media/2026-09-19-RPBRid0eSO98-4.jpg",
+        "out/media/2026-09-19-RPBRid0eSO98-5.jpg",
+        "out/media/2026-09-19-RPBRid0eSO98-6.jpg",
+        "out/media/2026-09-19-RPBRid0eSO98-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-19-RPBRid0eSO98.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you walk past a tiny bakery on Nguyễn Trung Trực and the smell stops you cold.\n\nNị Bakery. 5.0 stars. 46 reviews. Every single one of them.\n\nThis is not a resort café. No tourist signage. Just fresh pastries on a street corner in Phú Quốc that locals actually go to.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Fresh pastries. Street corner. 5.0 stars. Nị Bakery on Nguyễn Trung Trực is the kind of stop you make once and then plan your whole morning around. Don't walk past it.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Walked past. Stopped. Did not leave for an hour.\n\nNị Bakery. 5.0★ across 46 reviews. Nguyễn Trung Trực, Phú Quốc.\n\nTag your travel buddy.",
+          "video_caption": "5.0 stars. Every review. Nị Bakery is the pastry stop Phu Quoc locals already know about.",
+          "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "POV: a 5-star bakery on a Phu Quoc side street stops you mid-walk. Nị Bakery, look it up. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "5.0★ bakery. You walked past it.",
+          "scenes": [
+            "Exterior shot: small shopfront on busy street",
+            "Close-up: pastries displayed in case",
+            "Hands picking up a pastry, steam rises",
+            "Cut to Google Maps: 5.0 stars, 46 reviews",
+            "Wide shot: local customers, no tourist crowds"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
+      "placeName": "The Cake Corner",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-19-RWBZdPTXD4J4-0.jpg",
+        "out/media/2026-09-19-RWBZdPTXD4J4-1.jpg",
+        "out/media/2026-09-19-RWBZdPTXD4J4-2.jpg",
+        "out/media/2026-09-19-RWBZdPTXD4J4-3.jpg",
+        "out/media/2026-09-19-RWBZdPTXD4J4-4.jpg",
+        "out/media/2026-09-19-RWBZdPTXD4J4-5.jpg",
+        "out/media/2026-09-19-RWBZdPTXD4J4-6.jpg",
+        "out/media/2026-09-19-RWBZdPTXD4J4-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you walk past a bakery on Đường Phan Đình Phùng and the smell stops you cold.\n\nThe Cake Corner. 4.9 stars. 69 reviews. Tiny counter, serious output.\n\nThis is not a tourist café doing pretty-but-bland. The locals lining up here know something. Get in line.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Fresh out the oven at The Cake Corner. Watch the locals queue, then watch yourself join them. 4.9 stars on 7 Đường Phan Đình Phùng. This one earns it.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+        },
+        "instagram": {
+          "caption": "Walked past The Cake Corner. The smell won. 4.9 stars, 69 reviews. Queue with the locals.\n\nTag your travel buddy.",
+          "video_caption": "That bakery smell hits different at The Cake Corner. 4.9 stars. No hype. Just the queue moving fast.",
+          "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamFood #VietnamTravel #TravelTips #TravelReels #FoodTok"
+        },
+        "tiktok": {
+          "caption": "POV: the smell stops you mid-walk. The Cake Corner. 4.9 stars. Join the queue. #PhuQuoc #PhuQuocFood #VietnamFood #TravelTips #PhuQuocTips"
+        },
+        "video_script": {
+          "hook": "POV: the smell stops you.",
+          "scenes": [
+            "Slow pan down Đường Phan Đình Phùng",
+            "Camera snaps to The Cake Corner sign",
+            "Locals queuing at the counter",
+            "Close-up: fresh pastry pulled from display",
+            "First bite reaction, no words needed"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJo-0fmz6NpzERIEhHbz8e4T8",
+      "placeName": "TUNG Cake and Tea",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-19-RIEhHbz8e4T8-0.jpg",
+        "out/media/2026-09-19-RIEhHbz8e4T8-1.jpg",
+        "out/media/2026-09-19-RIEhHbz8e4T8-2.jpg",
+        "out/media/2026-09-19-RIEhHbz8e4T8-3.jpg",
+        "out/media/2026-09-19-RIEhHbz8e4T8-4.jpg",
+        "out/media/2026-09-19-RIEhHbz8e4T8-5.jpg",
+        "out/media/2026-09-19-RIEhHbz8e4T8-6.jpg",
+        "out/media/2026-09-19-RIEhHbz8e4T8-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-19-RIEhHbz8e4T8.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you walked down Nguyễn Trung Trực and stumbled into TUNG Cake and Tea. 4.5 stars. 86 reviews. A pastry shop that clearly has regulars for a reason. Not the loudest spot on the street. Just consistently good. That's rare in a tourist town. Save this for your Phu Quoc trip.",
+          "video_caption": "Camera pans the pastry case at TUNG Cake and Tea. Cakes lined up, tea ready to pour, 4.5 stars on the wall. This is what a local favorite looks like on Nguyễn Trung Trực.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #VietnamFood #PhúQuốc"
+        },
+        "instagram": {
+          "caption": "Walked past. Doubled back. TUNG Cake and Tea, 4.5★, 86 reviews deep. Tag your travel buddy.",
+          "video_caption": "Pastry shop on Nguyễn Trung Trực. 4.5 stars. You almost missed it.",
+          "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CafeHopping"
+        },
+        "tiktok": {
+          "caption": "POV: wrong turn, right find. TUNG Cake and Tea hits different. 4.5★ #PhuQuoc #PhuQuocFood #CafeTok #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: you almost walked past this.",
+          "scenes": [
+            "Street-level shot: 120 Nguyễn Trung Trực sign",
+            "Push through the door, slow reveal",
+            "Close-up: pastry display, cakes in frame",
+            "Tea being poured, steam rising",
+            "Cut to: 4.5★ rating on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ44y8R_uNpzERI0lt0GkPrNM",
+      "placeName": "Tiệm Bánh Kem Phú Quốc - PP Bakery",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-19-RI0lt0GkPrNM-0.jpg",
+        "out/media/2026-09-19-RI0lt0GkPrNM-1.jpg",
+        "out/media/2026-09-19-RI0lt0GkPrNM-2.jpg",
+        "out/media/2026-09-19-RI0lt0GkPrNM-3.jpg",
+        "out/media/2026-09-19-RI0lt0GkPrNM-4.jpg",
+        "out/media/2026-09-19-RI0lt0GkPrNM-5.jpg",
+        "out/media/2026-09-19-RI0lt0GkPrNM-6.jpg",
+        "out/media/2026-09-19-RI0lt0GkPrNM-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk right past this bakery. Locals circle back for it daily. Tiệm Bánh Kem Phú Quốc - PP Bakery on Đ. Trần Phú is pulling a 4.9★ from real regulars, not resort guests. Fresh cream cakes, actual craft. This is what Phu Quoc eats when the cameras are off. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the case at Tiệm Bánh Kem Phú Quốc - PP Bakery. Cream cakes lined up, locals pointing, zero English menus. 4.9★ for a reason. This one flies under the radar.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocTips #VisitVietnam #VietnamTravel #TravelTips #VietnamFood"
+        },
+        "instagram": {
+          "caption": "Locals don't post about this bakery. 4.9★ on Đ. Trần Phú. Tiệm Bánh Kem Phú Quốc - PP Bakery is the real one. Tag your travel buddy.",
+          "video_caption": "Cream cakes. 4.9 stars. Zero tourist foot traffic. Tiệm Bánh Kem Phú Quốc - PP Bakery just earned a detour.",
+          "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocBakery #VietnamTravel #TravelTips #TravelReels #VietnamFood"
+        },
+        "tiktok": {
+          "caption": "The bakery locals actually go to in Phu Quoc. 4.9★ and zero hype. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't post this bakery.",
+          "scenes": [
+            "Exterior shot: Đ. Trần Phú storefront, no tourist crowds",
+            "Pan across cream cake display case",
+            "Close-up: fresh cake slice, clean layers",
+            "Local customer points and orders in Vietnamese",
+            "Rating card: 4.9★ animates on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJAWovfRONpzERI7y_gpk_6D0",
+      "placeName": "Devis Bakery Phu Quoc 데비스베이커리",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-19-RI7y_gpk_6D0-0.jpg",
+        "out/media/2026-09-19-RI7y_gpk_6D0-1.jpg",
+        "out/media/2026-09-19-RI7y_gpk_6D0-2.jpg",
+        "out/media/2026-09-19-RI7y_gpk_6D0-3.jpg",
+        "out/media/2026-09-19-RI7y_gpk_6D0-4.jpg",
+        "out/media/2026-09-19-RI7y_gpk_6D0-5.jpg",
+        "out/media/2026-09-19-RI7y_gpk_6D0-6.jpg",
+        "out/media/2026-09-19-RI7y_gpk_6D0-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-19-RI7y_gpk_6D0.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this bakery on Đường Trần Hưng Đạo. Locals don't. Devis Bakery Phu Quoc 데비스베이커리 holds a perfect 5.0 stars across 872 reviews and almost nobody in the resort crowd knows it exists. Fresh bakes, zero hype, real regulars. That combination is rare anywhere, let alone on a beach island. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch what comes out of the oven at Devis Bakery Phu Quoc 데비스베이커리. 5.0 stars. 872 reviews. The tourists outside have no idea this is here.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocTips #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about Devis Bakery Phu Quoc 데비스베이커리. 5.0 stars, 872 reviews, zero tourist crowds. Tag your travel buddy.",
+          "video_caption": "5.0 stars on Đường Trần Hưng Đạo. The bakery the resort crowd never finds.",
+          "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocCafe #VietnamTravel #TravelTips #TravelReels #PhuQuocHidden"
+        },
+        "tiktok": {
+          "caption": "The bakery tourists keep skipping in Phu Quoc. 5.0 stars. 872 reviews. Big mistake. #PhuQuoc #PhuQuocFood #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't post this bakery.",
+          "scenes": [
+            "Exterior shot: 104 Đường Trần Hưng Đạo storefront",
+            "Zoom into fresh bakes behind the counter",
+            "Hands picking up pastry, steam visible",
+            "Phone screen showing 5.0 stars, 872 reviews",
+            "Locals eating inside, no tourists in frame"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJYQY76P2NpzERlul1IUfk3N8",
+      "placeName": "Bapaki Tea, Bakery",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-19-Rlul1IUfk3N8-0.jpg",
+        "out/media/2026-09-19-Rlul1IUfk3N8-1.jpg",
+        "out/media/2026-09-19-Rlul1IUfk3N8-2.jpg",
+        "out/media/2026-09-19-Rlul1IUfk3N8-3.jpg",
+        "out/media/2026-09-19-Rlul1IUfk3N8-4.jpg",
+        "out/media/2026-09-19-Rlul1IUfk3N8-5.jpg",
+        "out/media/2026-09-19-Rlul1IUfk3N8-6.jpg",
+        "out/media/2026-09-19-Rlul1IUfk3N8-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes a rough travel day. Bapaki Tea, Bakery on Hùng Vương is quiet, cheap, and exactly what you need mid-trip. Fresh pastries, solid tea, zero tourist noise. Under $10 for everything. 4.7 stars across 157 reviews tells you locals know it. Sit down. Slow down. Phu Quoc isn't going anywhere. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the pastry case at Bapaki Tea, Bakery and try not to order three things. Fresh bakes, real tea, under $10. This is what a slow Phu Quoc morning looks like.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Phu Quoc that doesn't feel touristy. Bapaki Tea, Bakery. 4.7 stars, under $10, zero hustle. Tag your travel buddy.",
+          "video_caption": "Fresh pastry. Hot tea. Under $10. Bapaki Tea, Bakery is the slow morning Phu Quoc owes you.",
+          "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocBakery #VietnamFood"
+        },
+        "tiktok": {
+          "caption": "The bakery that fixes a rough travel day. Bapaki Tea, Bakery, Phu Quoc. Under $10. 4.7 stars. Go. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Phu Quoc that slows you down.",
+          "scenes": [
+            "Exterior shot: 28 Hùng Vương storefront",
+            "Pan across full pastry display case",
+            "Close-up: tea poured into glass cup",
+            "Hands pulling apart fresh baked good",
+            "Wide shot: quiet table, natural light"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJKTX4YwCLpzERhiLmMHLUihA",
+      "placeName": "SIM Coffee - A Story Of The Island",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-19-RhiLmMHLUihA-0.jpg",
+        "out/media/2026-09-19-RhiLmMHLUihA-1.jpg",
+        "out/media/2026-09-19-RhiLmMHLUihA-2.jpg",
+        "out/media/2026-09-19-RhiLmMHLUihA-3.jpg",
+        "out/media/2026-09-19-RhiLmMHLUihA-4.jpg",
+        "out/media/2026-09-19-RhiLmMHLUihA-5.jpg",
+        "out/media/2026-09-19-RhiLmMHLUihA-6.jpg",
+        "out/media/2026-09-19-RhiLmMHLUihA-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-19-RhiLmMHLUihA.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep walking past this coffee shop. Their loss. SIM Coffee - A Story Of The Island sits on Nguyễn Trung Trực and pulls a perfect 5.0 from real reviewers. Under $10 a person. The name is the concept: every cup is tied to the island's story. Skip the resort lobby café. This is where Phu Quoc actually tastes like Phu Quoc. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch what happens when you order at SIM Coffee - A Story Of The Island. 5.0 stars. Under $10. The locals already know. Now you do too.",
+          "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeeVietnam #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamCoffee"
+        },
+        "instagram": {
+          "caption": "Locals don't post about SIM Coffee - A Story Of The Island. 5.0 stars. Under $10. Go before the crowds figure it out. Save this.",
+          "video_caption": "5.0 stars on Nguyễn Trung Trực. Under $10. Phu Quoc coffee that actually earns its name.",
+          "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeVietnam #VisitVietnam #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "The coffee shop locals keep to themselves in Phu Quoc. 5.0 stars. Under $10. #PhuQuoc #PhuQuocCafe #VietnamTravel #CoffeeVietnam #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't post about this.",
+          "scenes": [
+            "Pan down Nguyễn Trung Trực street",
+            "Stop at SIM Coffee shopfront",
+            "Barista pulling a pour-over shot",
+            "Close-up: steam rising from the cup",
+            "Show the price tag, under $10",
+            "5.0 stars on screen, 71 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

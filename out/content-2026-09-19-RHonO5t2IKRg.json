@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're melting in Phu Quoc heat and you walk into Sugar Fusion Bakery. Air con. Fresh pastries. 4.7 stars from 275 people who clearly found what they needed.\n\nSit down. Order something. Forget the beach exists for an hour.\n\nLocated at 39 Đường Trần Hưng Đạo, Khu 1, Phú Quốc. Budget around $15-30 per person.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Pastry cases stacked, AC running, and every table full at midday. Sugar Fusion Bakery hits different when the island heat is at its worst. 39 Đường Trần Hưng Đạo, Phú Quốc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+  },
+  "instagram": {
+    "caption": "POV: you ducked into Sugar Fusion Bakery to escape the heat. You're not leaving.\n\n4.7★, 275 reviews, fresh pastries. Tag your travel buddy.",
+    "video_caption": "Fresh bakes, cold AC, 4.7 stars. Sugar Fusion Bakery is your Phu Quoc midday reset.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamFood #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Found your Phu Quoc midday escape. 4.7★ bakery, real pastries, AC that works. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: best bakery in Phu Quoc",
+    "scenes": [
+      "Push through glass door, AC hits face",
+      "Pan across full pastry display case",
+      "Close-up: flaky layers, golden crust",
+      "Customer biting in, eyes close",
+      "Rating card: 4.7★ 275 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

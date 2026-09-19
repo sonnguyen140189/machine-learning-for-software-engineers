@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walk past a bakery on Đường Phan Đình Phùng and the smell stops you cold.\n\nThe Cake Corner. 4.9 stars. 69 reviews. Tiny counter, serious output.\n\nThis is not a tourist café doing pretty-but-bland. The locals lining up here know something. Get in line.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Fresh out the oven at The Cake Corner. Watch the locals queue, then watch yourself join them. 4.9 stars on 7 Đường Phan Đình Phùng. This one earns it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+  },
+  "instagram": {
+    "caption": "Walked past The Cake Corner. The smell won. 4.9 stars, 69 reviews. Queue with the locals.\n\nTag your travel buddy.",
+    "video_caption": "That bakery smell hits different at The Cake Corner. 4.9 stars. No hype. Just the queue moving fast.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamFood #VietnamTravel #TravelTips #TravelReels #FoodTok"
+  },
+  "tiktok": {
+    "caption": "POV: the smell stops you mid-walk. The Cake Corner. 4.9 stars. Join the queue. #PhuQuoc #PhuQuocFood #VietnamFood #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: the smell stops you.",
+    "scenes": [
+      "Slow pan down Đường Phan Đình Phùng",
+      "Camera snaps to The Cake Corner sign",
+      "Locals queuing at the counter",
+      "Close-up: fresh pastry pulled from display",
+      "First bite reaction, no words needed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

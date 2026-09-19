@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walk past a tiny bakery on Nguyễn Trung Trực and the smell stops you cold.\n\nNị Bakery. 5.0 stars. 46 reviews. Every single one of them.\n\nThis is not a resort café. No tourist signage. Just fresh pastries on a street corner in Phú Quốc that locals actually go to.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Fresh pastries. Street corner. 5.0 stars. Nị Bakery on Nguyễn Trung Trực is the kind of stop you make once and then plan your whole morning around. Don't walk past it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Walked past. Stopped. Did not leave for an hour.\n\nNị Bakery. 5.0★ across 46 reviews. Nguyễn Trung Trực, Phú Quốc.\n\nTag your travel buddy.",
+    "video_caption": "5.0 stars. Every review. Nị Bakery is the pastry stop Phu Quoc locals already know about.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: a 5-star bakery on a Phu Quoc side street stops you mid-walk. Nị Bakery, look it up. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "5.0★ bakery. You walked past it.",
+    "scenes": [
+      "Exterior shot: small shopfront on busy street",
+      "Close-up: pastries displayed in case",
+      "Hands picking up a pastry, steam rises",
+      "Cut to Google Maps: 5.0 stars, 46 reviews",
+      "Wide shot: local customers, no tourist crowds"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

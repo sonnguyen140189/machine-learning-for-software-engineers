@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "657 reviews. 4.3 stars. Outdoor pool, beach access, and no resort markup. Tahiti Hotel on Đường Trần Hưng Đạo keeps it simple and delivers where it counts. Rooms are understated, the pool is right there, and the beach is steps away. No frills. No complaints. Save this for your Phu Quoc trip.",
+    "video_caption": "Pool. Beach. 657 happy guests. Tahiti Hotel is doing the basics better than spots charging triple. Watch this before you book anything in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "657 reviews. 4.3 stars. Beach access included. Tahiti Hotel delivers without the resort price tag. Tag your travel buddy.",
+    "video_caption": "Pool drop. Beach steps away. 657 guests rated it 4.3. Tahiti Hotel just makes sense.",
+    "hashtags": "#PhuQuocHotels #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachHotel"
+  },
+  "tiktok": {
+    "caption": "657 reviews. 4.3 stars. Beach access. Tahiti Hotel is the move. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "657 reviews. 4.3 stars.",
+    "scenes": [
+      "Aerial pan over outdoor pool",
+      "Guest walking from pool to beach",
+      "Room interior, clean and simple",
+      "Close shot: beach at Đường Trần Hưng Đạo",
+      "Review count animates on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
