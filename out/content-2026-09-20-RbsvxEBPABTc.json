@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you just landed in Phu Quoc and your hotel won't take USD. Panic sets in. Then someone points you to EXMoney Phu Quoc Night Market on Đường Nguyễn Trãi. 4.9 stars. 47 reviews. No drama. Right by the night market so you grab your dong, grab dinner, sorted. Save this for your Phu Quoc trip.",
+    "video_caption": "Cash crisis avoided. EXMoney Phu Quoc Night Market sits at 10 Đường Nguyễn Trãi, rated 4.9 stars, and it is the move before you hit the market stalls. Quick, legit, sorted.",
+    "first_comment": "#PhuQuoc #PhuQuocNightMarket #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you need dong before the night market opens. EXMoney on Đường Nguyễn Trãi. 4.9★, 47 reviews. Zero stress. Save this.",
+    "video_caption": "4.9 stars. Right outside the night market. Currency sorted in minutes at EXMoney Phu Quoc.",
+    "hashtags": "#PhuQuoc #PhuQuocTips #PhuQuocNightMarket #VietnamTravel #TravelTips #TravelReels #PhuQuocTravel"
+  },
+  "tiktok": {
+    "caption": "Landed with USD only. EXMoney Phu Quoc saved me before dinner. 4.9★ right on Đường Nguyễn Trãi. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelHack"
+  },
+  "video_script": {
+    "hook": "POV: wrong currency, right place.",
+    "scenes": [
+      "Traveler checks empty wallet, stressed",
+      "Walking down Đường Nguyễn Trãi at dusk",
+      "EXMoney shopfront sign in frame",
+      "Cash counted out over the counter",
+      "Same traveler ordering food at market stall"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

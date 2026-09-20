@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 164 reviews. At a pastry café inside Sunset Town.\n\nCafe Juliet & Pastries sits right in the Venice quarter of Phú Quốc's most photogenic district. The kind of place that earns a near-perfect score and still surprises you when you walk in.\n\nBudget $15-30 per person. Worth every dong.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the pastry case at Cafe Juliet & Pastries. Venice 07, Sunset Town. 4.9 stars for a reason. Your coffee break in Phu Quoc just got an upgrade. $15-30 per person.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #SunsetTownPhuQuoc #VisitVietnam #TravelTips #PhuQuocFood #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 164 reviews. A pastry café in Sunset Town.\n\nCafe Juliet & Pastries, Venice 07, Phú Quốc. Budget $15-30.\n\nTag your travel buddy.",
+    "video_caption": "Pastries, coffee, 4.9 stars. Cafe Juliet inside Sunset Town hits different. $15-30 a person.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #SunsetTownPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.9 stars at a pastry café in Sunset Town. Cafe Juliet & Pastries, Phú Quốc. $15-30. #PhuQuoc #PhuQuocFood #SunsetTown #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9 stars. Pastry café. Phu Quoc.",
+    "scenes": [
+      "Exterior shot: Venice 07 archway, Sunset Town",
+      "Push into the café entrance, warm light",
+      "Close-up: pastry case, layers and detail",
+      "Barista pulling espresso, steam rising",
+      "Wide shot: guest at table, canal backdrop",
+      "End card: 4.9★ 164 reviews, $15-30pp"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

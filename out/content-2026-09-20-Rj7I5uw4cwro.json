@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're wandering Đường Trần Phú and walk past a mango dessert shop with a 4.9-star rating.\n\nYou go back.\n\nHALO MANGO Phu Quoc is the kind of stop that earns a detour. 310 reviews at 4.9 stars. That's not luck, that's consistency.\n\nFind it at Số 122, Đường Trần Phú, Dương Đông. Save this for your Phu Quoc trip.",
+    "video_caption": "4.9 stars. 310 reviews. One mango dessert shop on Đường Trần Phú that keeps delivering. HALO MANGO Phu Quoc, add it to the list before you land.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocDessert #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+  },
+  "instagram": {
+    "caption": "Walked past. Stopped. Went back.\n\nHALO MANGO Phu Quoc. 4.9★, 310 reviews. Đường Trần Phú, Dương Đông.\n\nTag your travel buddy.",
+    "video_caption": "310 people gave this mango shop 4.9 stars. HALO MANGO on Đường Trần Phú delivers every time.",
+    "hashtags": "#PhuQuocFood #PhuQuocDessert #PhuQuocTips #DuongDong #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: random mango shop. 4.9 stars. You're going back for seconds. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you almost walked past this.",
+    "scenes": [
+      "Exterior shot: HALO MANGO storefront, Đường Trần Phú",
+      "Close-up: mango dessert being plated",
+      "Slow pour shot: mango sauce hitting the bowl",
+      "Cut to: reviewer rating on screen, 4.9★, 310 reviews",
+      "Final shot: first spoonful, reaction"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

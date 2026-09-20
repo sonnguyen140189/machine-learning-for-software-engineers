@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking to the cable car and smell fresh pastries. You stop. You go in. Best decision of the day.\n\nTiệm Bánh Em Bơ is a tiny bakery on Đường Cáp Treo and everything is under $10. 4.8 stars from people who also took that detour.\n\nGet something warm. Eat it outside. Thank yourself later.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Camera pans past the cable car road, stops at Tiệm Bánh Em Bơ. Fresh pastries pulled from the oven. Under $10. 4.8 stars. This is the detour you actually want to take in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocBakery #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "POV: you smell this before you see it. Tiệm Bánh Em Bơ, Đường Cáp Treo. Under $10. 4.8 stars. Go.\n\nTag your travel buddy.",
+    "video_caption": "Walked past. Smelled it. Went back. Tiệm Bánh Em Bơ hits different when it's fresh from the oven.",
+    "hashtags": "#PhuQuocFood #PhuQuocBakery #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamFood #PhuQuocEats"
+  },
+  "tiktok": {
+    "caption": "The bakery smell stops you mid-walk. Tiệm Bánh Em Bơ, Phu Quoc. Under $10. 4.8 stars. #PhuQuoc #VietnamFood #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "You almost walked past this.",
+    "scenes": [
+      "Slow pan down Đường Cáp Treo street",
+      "Close-up: pastries cooling on the rack",
+      "Hands picking up a warm bun",
+      "Price tag visible, under $10",
+      "First bite reaction, genuine"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
