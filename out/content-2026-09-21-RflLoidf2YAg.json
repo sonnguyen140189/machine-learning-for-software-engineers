@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past THU HIỀN BAKERY. Their loss. This local bakery on 47 Đ. 30 Tháng 4 is where Phu Quoc residents actually grab breakfast. Fresh baked goods, 4.4 stars, 87 reviews deep. No resort markup. No tourist trap menu. Just real bread in a real neighborhood. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what comes out of this oven. THU HIỀN BAKERY on Đ. 30 Tháng 4, Phu Quoc. 4.4 stars from 87 locals who know exactly what they're doing. Skip the hotel breakfast. Come here instead.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocBakery #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about THU HIỀN BAKERY. 4.4 stars, 87 reviews, zero hype. Show up early. Tag your travel buddy.",
+    "video_caption": "Fresh out the oven at THU HIỀN BAKERY. The spot Phu Quoc locals eat breakfast. 4.4 stars, no tourist markup.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocBakery #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "The bakery locals actually eat at in Phu Quoc. 4.4 stars. Zero hype. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post this bakery.",
+    "scenes": [
+      "Exterior shot: shopfront on Đ. 30 Tháng 4",
+      "Hands pulling fresh bread from oven",
+      "Close-up: golden baked goods on counter",
+      "Local customer ordering at the counter",
+      "Price tag visible, no resort premium"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

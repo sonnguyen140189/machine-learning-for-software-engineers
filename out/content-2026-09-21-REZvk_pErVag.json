@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this one. Dgold Spa sits on Đường Trần Hưng Đạo and the locals who rate it 4.8 stars aren't in a rush to share it. Body massage, foot massage, shampoo, nails. One stop. After a full beach day, that matters. Small spot. Consistent results. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what a foot massage on Đường Trần Hưng Đạo actually looks like after a full beach day in Phu Quoc. Dgold Spa. 4.8 stars. Locals already know.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Dgold Spa. 4.8 stars, 84 reviews, Đường Trần Hưng Đạo. Body massage, nails, shampoo. All here. Save this.",
+    "video_caption": "POV: you find Dgold Spa after day one on the beach. Feet destroyed. 4.8 stars waiting. Đường Trần Hưng Đạo.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocVietnam #VietnamTravel #TravelTips #TravelReels #MassageSpa"
+  },
+  "tiktok": {
+    "caption": "Locals keep this one quiet. Dgold Spa, Phu Quoc. 4.8 stars. Body massage, nails, shampoo. One street. #PhuQuoc #PhuQuocSpa #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post this spa.",
+    "scenes": [
+      "Street sign: Đường Trần Hưng Đạo appears",
+      "Push through spa entrance door",
+      "Foot soak close-up, steam rising",
+      "Nail station, hands being worked",
+      "Shampoo rinse, slow pour shot",
+      "Google rating card: 4.8, 84 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

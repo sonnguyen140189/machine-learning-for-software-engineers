@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars. 141 reviews. ROSETTA HOTEL PHÚ QUỐC keeps showing up on the radar for good reason.\n\nRight on Đường Trần Hưng Đạo, the main strip in Khu Phố 7. Restaurants, nightlife, and the beach, all walkable.\n\n141 guests rated this place 4.5. That's not luck. That's consistency.\n\nBook smart. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into ROSETTA HOTEL PHÚ QUỐC on Đường Trần Hưng Đạo. 4.5 stars from 141 real guests. Location, comfort, consistency. This is what a solid Phu Quoc base looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.5 stars. 141 reviews. ROSETTA HOTEL PHÚ QUỐC earns it.\n\nPrime spot on Đường Trần Hưng Đạo. Save this for your Phu Quoc trip.",
+    "video_caption": "141 guests gave this 4.5 stars. ROSETTA HOTEL PHÚ QUỐC on Đường Trần Hưng Đạo. Judge for yourself.",
+    "hashtags": "#PhuQuocHotels #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #HotelTour"
+  },
+  "tiktok": {
+    "caption": "4.5 stars. 141 reviews. ROSETTA HOTEL PHÚ QUỐC is not a coincidence. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.5 stars. 141 reviews.",
+    "scenes": [
+      "Exterior shot, Đường Trần Hưng Đạo sign visible",
+      "Pan across hotel entrance, front desk",
+      "Room walkthrough, bed and window framed",
+      "Street-level view, walkable area shown",
+      "Final card: rating and review count on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
