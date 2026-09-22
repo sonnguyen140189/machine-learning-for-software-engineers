@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you take a wrong turn in Dương Đông and find a lake nobody in your resort knows about.\n\nDương Đông Lake sits right in town, rated 4.1★ across 64 reviews, and most tourists walk straight past it hunting for the beach.\n\nLocal sports scene, calm water, zero resort crowds. Completely different side of Phu Quoc.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Locals playing at the water's edge. Town behind them. No tourists in sight. Dương Đông Lake is the Phu Quoc most people never bother to find.",
+    "first_comment": "#PhuQuoc #PhuQuocTravel #VisitVietnam #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn in Dương Đông. Found this lake. Zero resort crowds, 4.1★, 64 reviews deep.\n\nTag your travel buddy.",
+    "video_caption": "Local sports at Dương Đông Lake. Right in town. Completely off the tourist trail.",
+    "hashtags": "#PhuQuocTips #PhuQuocTravel #DuongDong #VietnamTravel #TravelTips #TravelReels #PhuQuocHidden"
+  },
+  "tiktok": {
+    "caption": "Wrong turn in Dương Đông. Found a lake locals actually use. Phu Quoc isn't just beaches. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Found this.",
+    "scenes": [
+      "Drone pull-back over Dương Đông Lake",
+      "Locals playing sport at water's edge",
+      "Town rooftops visible in background",
+      "Close-up: calm water, no crowds",
+      "Walking path along the lake bank"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you took a random road north and ended up at a waterfall. That's Fairy Waterfall, and yes, it's real. 4.3 stars across 221 reviews. Not polished, not crowded, just cold freshwater crashing through jungle. Wear shoes you don't mind getting wet. Go early. Save this for your Phu Quoc trip.",
+    "video_caption": "Cold water. Jungle canopy. Zero crowds. Watch what happens when you skip the beach for one morning and head north instead. Fairy Waterfall delivers.",
+    "first_comment": "#PhuQuoc #PhuQuocWaterfall #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn north. Found a waterfall. Fairy Waterfall, 4.3★, 221 reviews, and somehow never packed. Tag your travel buddy.",
+    "video_caption": "Jungle. Cold water. No tour bus in sight. Fairy Waterfall hits different when you find it yourself.",
+    "hashtags": "#PhuQuocWaterfall #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocAdventure"
+  },
+  "tiktok": {
+    "caption": "Took a random road. Found a waterfall. Fairy Waterfall is the move. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "POV: wrong turn, right waterfall.",
+    "scenes": [
+      "Bumpy road through dense jungle canopy",
+      "First glimpse of water through the trees",
+      "Waterfall cascading over mossy rocks",
+      "Feet splashing in cold shallow pool",
+      "Wide shot: empty jungle, no crowds"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

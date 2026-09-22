@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc doesn't always need a beach chair. Sometimes it needs a paddle. Kayaking Dynasty gets you out on the water, away from the resort crowds, just you and the coastline moving at your own pace. 4.4 stars from people who actually showed up. That says enough. Save this for your Phu Quoc trip.",
+    "video_caption": "Paddle out. No resort pool. No tour bus. Just open water and your own rhythm. Kayaking Dynasty is the Phu Quoc reset you didn't know you needed. 4.4★ from 52 reviews.",
+    "first_comment": "#PhuQuoc #PhuQuocActivities #KayakingVietnam #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Phu Quoc fixes burnout. Kayaking Dynasty proves it. 4.4★ on the water, away from the crowds. Tag your travel buddy.",
+    "video_caption": "Drop the beach towel. Grab a paddle. Kayaking Dynasty hits different. 4.4★ and worth every stroke.",
+    "hashtags": "#PhuQuocActivities #KayakingVietnam #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelReels #TravelTips"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc burnout cure: skip the beach chair, grab a paddle. Kayaking Dynasty 4.4★ #PhuQuoc #PhuQuocActivities #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This fixes Phu Quoc burnout.",
+    "scenes": [
+      "Kayak launches off quiet shoreline",
+      "Paddle cuts through calm green water",
+      "Coastline stretches with no crowds",
+      "Close-up: hands gripping wet paddle",
+      "Wide shot: solo kayak, open horizon"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
