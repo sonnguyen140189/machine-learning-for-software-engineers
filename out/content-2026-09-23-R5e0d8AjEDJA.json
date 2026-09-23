@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this café. 4.9 stars, 485 reviews, inside a hostel on 30/4 Street. AROMA Cafe Bistro Bar Phú Quốc is not on the main drag. That's exactly why it's good. Solid coffee, real food, no performance for the tour groups. If you're staying near Phú Quốc town, this one belongs on your list. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the coffee land on this table. AROMA Cafe Bistro Bar Phú Quốc, rated 4.9 stars, inside Happy Bear Hostel. Nobody outside the hostel crowd talks about this place. Now you know.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocFood #VisitVietnam #TravelTips #VietnamCafe #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this. 4.9 stars at AROMA Cafe Bistro Bar Phú Quốc. Off the main drag. Worth the detour. Save this.",
+    "video_caption": "Coffee order dropped. AROMA Cafe Bistro Bar Phú Quốc. 4.9 stars and the tourist crowd has no idea.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CafeHopping"
+  },
+  "tiktok": {
+    "caption": "Locals' café in Phu Quoc that tourists walk straight past. 4.9 stars. Find AROMA Cafe Bistro Bar Phú Quốc. #PhuQuoc #PhuQuocCafe #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this café.",
+    "scenes": [
+      "Exterior shot: hostel entrance on 30/4 Street",
+      "Push through door into café interior",
+      "Barista pulling espresso shot close-up",
+      "Coffee and food landing on table",
+      "Rating card: 4.9★ 485 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

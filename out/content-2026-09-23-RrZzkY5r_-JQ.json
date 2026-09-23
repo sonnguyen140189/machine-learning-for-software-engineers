@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past Venice Cafe. That's a mistake.\n\n4.7 stars. 1,438 reviews. Western food done right on đường Venice in Phú Quốc's Mediterranean zone. $15-30 a person gets you a proper meal, not a resort markup.\n\nThe address alone throws people off. That's the point. Less crowd, better food, actual atmosphere.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Fork down. First bite at Venice Cafe and yeah, this is why 1,438 people rated it 4.7 stars. Western food in Phú Quốc that actually delivers. $15-30 a head. Don't walk past this one.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips #WesternFoodVietnam #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Venice Cafe. 4.7 stars, 1,438 reviews, $15-30 a person. Worth stopping.\n\nTag your travel buddy.",
+    "video_caption": "First bite at Venice Cafe. 4.7 stars on đường Venice. This is not the one to skip.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats"
+  },
+  "tiktok": {
+    "caption": "Tourists walk past Venice Cafe every day. 4.7 stars say that's their loss. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior shot of Venice Cafe sign",
+      "Camera pans the Mediterranean-style street",
+      "Close-up of western dishes arriving at table",
+      "Slow zoom on food, steam rising",
+      "Cut to Google rating: 4.7 stars, 1,438 reviews",
+      "Price graphic: $15-30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

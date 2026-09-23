@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this. Locals fill their bags here every morning. The day market at 49 Đường Ngô Quyền is where Phu Quoc actually shops. Fresh produce, local snacks, real prices. No English menus. No tourist markup. Just point, smile, and pay. If you want to cook, picnic, or just see how the island eats, this is your first stop. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what happens when you skip the resort breakfast and shop where locals shop. Baskets of fresh fruit, dried seafood, street snacks. 49 Đường Ngô Quyền. This is the real Phu Quoc morning.",
+    "first_comment": "#PhuQuoc #PhuQuocMarket #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Locals don't tell tourists about this market. Fresh, cheap, real. 49 Đường Ngô Quyền. Tag your travel buddy.",
+    "video_caption": "Real Phu Quoc mornings start here. Not the resort buffet.",
+    "hashtags": "#PhuQuocMarket #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #LocalMarket"
+  },
+  "tiktok": {
+    "caption": "Locals shop here every morning. Tourists have no idea. 49 Đường Ngô Quyền, Phu Quoc. #PhuQuoc #PhuQuocMarket #VietnamTravel #TravelTips #LocalLife"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior shot: busy market entrance, morning light",
+      "Baskets of tropical fruit stacked high",
+      "Dried seafood hanging in rows",
+      "Local vendor wrapping snacks in newspaper",
+      "Shopper pays, coins exchanged, no English spoken"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

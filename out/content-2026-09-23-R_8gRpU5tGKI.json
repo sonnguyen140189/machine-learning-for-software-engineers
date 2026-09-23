@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 1,149 reviews. At a cafe on a back lane in Cửa Lấp.\n\nNora's Cafe - Restaurant earns that rating the hard way. No main-strip location. No tourist foot traffic pushing the numbers up. Just consistent food, real portions, and a crowd that keeps coming back.\n\nBudget $15-30 per person and you're eating well. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the plates land at Nora's Cafe - Restaurant. 1,149 people rated this 4.7 stars and it sits on a back lane in Cửa Lấp. $15-30 a head. Your move.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7★ from 1,149 reviews. Back lane in Cửa Lấp. No tourist foot traffic inflating that number.\n\nNora's Cafe - Restaurant. $15-30 per person. Tag your travel buddy.",
+    "video_caption": "1,149 people found this back-lane spot in Cửa Lấp. 4.7 stars. Nora's Cafe - Restaurant. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.7★ from 1,149 reviews on a back lane in Cửa Lấp. Nora's delivers. #PhuQuoc #PhuQuocFood #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "4.7★, 1,149 reviews. Back lane.",
+    "scenes": [
+      "Drone pulls back from Hem Chua Ong lane",
+      "Push in on storefront sign: Nora's",
+      "Plates arrive on table, steam rising",
+      "Close-up: fork breaks into main dish",
+      "Cut to packed dining room, locals eating",
+      "Google rating card animates on screen: 4.7★"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

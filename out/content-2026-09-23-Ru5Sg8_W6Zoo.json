@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "559 reviews for a grocery store. In Phu Quoc. That tells you everything.\n\nKingkong Mart on 108 Đường Bạch Đằng is where you grab snacks, sunscreen, cold drinks, and anything you forgot to pack. Rated 4.4★ by over 559 shoppers. Locals shop here. Tourists who find it come back daily.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Cold drinks. Snacks. Everything you forgot to pack. Kingkong Mart at 108 Đường Bạch Đằng pulls 559 reviews for a reason. 4.4★ and stocked. Your Phu Quoc base camp starts here.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #PhuQuocTravel"
+  },
+  "instagram": {
+    "caption": "559 reviews. For a grocery store. 4.4★ at Kingkong Mart, 108 Đường Bạch Đằng.\n\nTag your travel buddy.",
+    "video_caption": "Forgot sunscreen? Need cold drinks at midnight? Kingkong Mart, 108 Đường Bạch Đằng. 559 people already know.",
+    "hashtags": "#PhuQuoc #PhuQuocTips #PhuQuocTravel #VisitVietnam #VietnamTravel #TravelTips #TravelReels"
+  },
+  "tiktok": {
+    "caption": "559 reviews for a grocery store in Phu Quoc. Kingkong Mart, 108 Đường Bạch Đằng. Go. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "559 reviews. A grocery store.",
+    "scenes": [
+      "Exterior shot, Kingkong Mart sign",
+      "Packed shelves, cold drink aisle",
+      "Hand grabbing iced bottle, condensation",
+      "Checkout queue, locals and tourists",
+      "Google Maps pin: 4.4★, 559 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

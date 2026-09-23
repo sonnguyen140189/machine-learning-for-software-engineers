@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. Egg coffee AND Bánh Mì under one roof. On Đường Trần Hưng Đạo in Dương Đông, 4 Seasons Café & Eatery is doing two things right: creamy Vietnamese egg coffee that actually holds its foam, and Bánh Mì worth crossing town for. Small spot. Big output. Save this for your Phu Quoc trip.",
+    "video_caption": "Cracking egg coffee in Dương Đông. Watch the foam layer set at 4 Seasons Café & Eatery, 96 Đường Trần Hưng Đạo. Then the Bánh Mì arrives. Order both. You'll see why it holds 4.7 stars.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #VietnamCoffee #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. Egg coffee AND Bánh Mì. One address in Dương Đông.\n\n4 Seasons Café & Eatery, 96 Đường Trần Hưng Đạo. Tag your travel buddy.",
+    "video_caption": "That foam layer. That crunch. 4 Seasons Café & Eatery is running a 4.7 for a reason.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamCoffee #VietnamTravel #TravelTips #TravelReels #BanhMi"
+  },
+  "tiktok": {
+    "caption": "Egg coffee + Bánh Mì. 4.7 stars. Dương Đông. Don't walk past this one. #PhuQuoc #PhuQuocFood #VietnamCoffee #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "4.7 stars. Two dishes.",
+    "scenes": [
+      "Exterior shot: 96 Đường Trần Hưng Đạo sign",
+      "Barista whisking egg coffee layer",
+      "Close-up: foam settles in cup",
+      "Bánh Mì sliced open, fillings shown",
+      "Both items on table, side by side",
+      "Customer takes first sip, reacts"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

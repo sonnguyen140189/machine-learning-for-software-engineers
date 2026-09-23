@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're wandering Đường Trần Hưng Đạo and stumble into Zyzu Kafé. 4.4 stars, 345 reviews, under $10 a head. The kind of coffee shop that makes you cancel your afternoon plans. Order something, sit down, stay too long. Phu Quoc done right. Save this for your Phu Quoc trip.",
+    "video_caption": "Walked into Zyzu Kafé not expecting much. Left two hours later. Under $10, 4.4 stars, 345 people already know. Now you do too.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you find Zyzu Kafé on Đường Trần Hưng Đạo. 4.4 stars. Under $10. You're not leaving soon. Tag your travel buddy.",
+    "video_caption": "Ducked into Zyzu Kafé for one coffee. 4.4 stars and under $10 later, plans changed.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeShop"
+  },
+  "tiktok": {
+    "caption": "Found Zyzu Kafé by accident. 4.4 stars, under $10, zero regrets. #PhuQuoc #PhuQuocCafe #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found the good café.",
+    "scenes": [
+      "Walk up lối lên entrance, first look",
+      "Menu board, prices under $10 shown",
+      "Coffee being poured or prepared",
+      "Hands wrap around a cup, relax",
+      "Wide shot of seating, guests settled in"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

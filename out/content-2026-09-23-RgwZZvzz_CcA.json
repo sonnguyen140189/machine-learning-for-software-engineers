@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars. 98 reviews. One night market most visitors never find.\n\nChợ đêm Ẩm thực Phu Quoc Marina isn't the big tourist market. It's the one locals actually eat at. Grilled seafood, local snacks, cold drinks, open air. No script. Just food.\n\nAdd it to your Phu Quoc night itinerary. Save this post.",
+    "video_caption": "Smoke rising off the grill. Plastic stools. Real prices. This is Chợ đêm Ẩm thực Phu Quoc Marina and it's rated 4.5 stars for a reason. Your Phu Quoc nights just got better.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocNightMarket #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.5 stars. 98 reviews. This night market is not the one on every tourist map.\n\nChợ đêm Ẩm thực Phu Quoc Marina. Go hungry. Save this.",
+    "video_caption": "Smoke. Grills. 4.5 stars. Chợ đêm Ẩm thực Phu Quoc Marina hits different at night.",
+    "hashtags": "#PhuQuocFood #PhuQuocNightMarket #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.5 stars and 98 reviews at Chợ đêm Ẩm thực Phu Quoc Marina. Not the tourist one. The good one. #PhuQuoc #PhuQuocFood #NightMarket #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.5★. 98 reviews. Found it.",
+    "scenes": [
+      "Wide shot: market entrance at dusk",
+      "Close up: seafood hitting the grill",
+      "Pan: rows of local food stalls",
+      "Shot: plastic stools filling up fast",
+      "Close up: steaming bowl, price tag visible"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
