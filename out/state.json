@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJLzMM1GiNpzER_IUJOcCgd9U",
+    "ChIJZczOcTKNpzERDrdWOGSuTvA",
+    "ChIJBZASQZ6NpzERfkHFOYJvawM",
+    "ChIJS-IdAACVpzERrZzkY5r_-JQ",
+    "ChIJx4kkhiiNpzERH47LIVsqJps",
+    "ChIJOS1SBvaNpzER_8gRpU5tGKI",
+    "ChIJW0SI6z2NpzERKixqsVMmIkI",
+    "ChIJBWE7axyNpzER5e0d8AjEDJA",
+    "ChIJszMWeMWNpzERVX7Za7lyBuw",
+    "ChIJE0W_Mu-NpzER4e-2jmhYJYI",
+    "ChIJRQVFmFqNpzERu5Sg8_W6Zoo",
+    "ChIJZQnCwX2TpzERgwZZvzz_CcA",
     "ChIJ4QSQI2yJpzERRmh6eVFXHdU",
     "ChIJw9DS5DofCDERIiLSz3fmVKY",
     "ChIJvc4-RWUgCDERx4AJFW81Tg4",
@@ -187,21 +199,189 @@
     "ChIJH58ibXKSpzERN59OMqttOUY",
     "ChIJv6Lq7g_aCTERiYzE3phvZS4",
     "ChIJ_fS2ExSLpzERfs3RvFN0_ts",
-    "ChIJoeqegKKWpzER3bN1bSxK1n4",
-    "ChIJq2ddr5WRpzERGEYb5TieBgs",
-    "ChIJL3-4s1GMpzER_eOIkH6lzQU",
-    "ChIJwzDHWDqNpzER2tLsMth7CLM",
-    "ChIJFxJfXGiNpzER5oQGw5O9TkU",
-    "ChIJMwe2gsuXpzERYM-EJba18Po",
-    "ChIJae-ceQCNpzERtWCIN8zNl3g",
-    "ChIJBS3G_IuNpzERzRZ7hDJyh6E",
-    "ChIJ6ZS5Zl6MpzERb-qhkr9ofs4",
-    "ChIJxyir2P0fCDERr4lf9WU--CQ",
-    "ChIJf6ykc4iMpzER-X7O0fSCJSs",
-    "ChIJze_KNYiMpzERLa0Mfzg3-ZE",
-    "ChIJh_DUIYeNpzERDqbaRMxPgTY"
+    "ChIJoeqegKKWpzER3bN1bSxK1n4"
   ],
   "history": [
+    {
+      "date": "2026-09-23",
+      "placeId": "ChIJLzMM1GiNpzER_IUJOcCgd9U",
+      "placeName": "4 Seasons Café & Eatery- Egg Coffee & Banh Mi",
+      "results": {
+        "facebookVideo": {
+          "id": "2338226063591509"
+        },
+        "instagramReel": {
+          "id": "18010826645765664"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "placeId": "ChIJZczOcTKNpzERDrdWOGSuTvA",
+      "placeName": "Bơ restaurant & coffee",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125033941313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18114129245117031"
+        }
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "placeId": "ChIJBZASQZ6NpzERfkHFOYJvawM",
+      "placeName": "Tarapaca Cafe",
+      "results": {
+        "facebookVideo": {
+          "id": "3003614846643575"
+        },
+        "instagramReel": {
+          "id": "17950531746313137"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "placeId": "ChIJS-IdAACVpzERrZzkY5r_-JQ",
+      "placeName": "Venice Cafe",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125032813313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17886910557653715"
+        }
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "placeId": "ChIJx4kkhiiNpzERH47LIVsqJps",
+      "placeName": "Zyzu Kafé",
+      "results": {
+        "facebookVideo": {
+          "id": "1792045225261260"
+        },
+        "instagramReel": {
+          "id": "18089461145231203"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "placeId": "ChIJOS1SBvaNpzER_8gRpU5tGKI",
+      "placeName": "Nora’s Cafe - Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125031643313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18125818759851299"
+        }
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "placeId": "ChIJW0SI6z2NpzERKixqsVMmIkI",
+      "placeName": "Bagels 'n Eggs",
+      "results": {
+        "facebookVideo": {
+          "id": "1624677495955334"
+        },
+        "instagramReel": {
+          "id": "18074096522733570"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "placeId": "ChIJBWE7axyNpzER5e0d8AjEDJA",
+      "placeName": "AROMA Cafe Bistro Bar Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125030359313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17893528869610235"
+        }
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "placeId": "ChIJszMWeMWNpzERVX7Za7lyBuw",
+      "placeName": "La Place coffee and eatery Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1097961052814981"
+        },
+        "instagramReel": {
+          "id": "17955009141251019"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "placeId": "ChIJE0W_Mu-NpzER4e-2jmhYJYI",
+      "placeName": "Day market",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125029333313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18110991071145469"
+        }
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "placeId": "ChIJRQVFmFqNpzERu5Sg8_W6Zoo",
+      "placeName": "Kingkong Mart",
+      "results": {
+        "facebookVideo": {
+          "id": "1369828075134912"
+        },
+        "instagramReel": {
+          "id": "18101157572347583"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "placeId": "ChIJZQnCwX2TpzERgwZZvzz_CcA",
+      "placeName": "Chợ đêm Ẩm thực Phu Quoc Marina",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125028049313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18599677435064394"
+        }
+      }
+    },
     {
       "date": "2026-09-22",
       "placeId": "ChIJ4QSQI2yJpzERRmh6eVFXHdU",
@@ -3017,186 +3197,6 @@
         },
         "instagram": {
           "id": "18092994797649605"
-        }
-      }
-    },
-    {
-      "date": "2026-09-07",
-      "placeId": "ChIJq2ddr5WRpzERGEYb5TieBgs",
-      "placeName": "Quốc Mẫu Hall",
-      "results": {
-        "facebookVideo": {
-          "id": "1307087412486844"
-        },
-        "instagramReel": {
-          "id": "18119998078712630"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-07",
-      "placeId": "ChIJL3-4s1GMpzER_eOIkH6lzQU",
-      "placeName": "Guan Di Temple",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122122785327313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18062822888775178"
-        }
-      }
-    },
-    {
-      "date": "2026-09-06",
-      "placeId": "ChIJwzDHWDqNpzER2tLsMth7CLM",
-      "placeName": "Bếp Biển",
-      "results": {
-        "facebookVideo": {
-          "id": "1114753467902917"
-        },
-        "instagramReel": {
-          "id": "17878930320626117"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-06",
-      "placeId": "ChIJFxJfXGiNpzER5oQGw5O9TkU",
-      "placeName": "Nhà hàng hải sản Thuận Kiều 2 - Fresh Seafood & Vietnamese Cuisine",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122122626147313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17906686485502492"
-        }
-      }
-    },
-    {
-      "date": "2026-09-06",
-      "placeId": "ChIJMwe2gsuXpzERYM-EJba18Po",
-      "placeName": "Ann Seafood",
-      "results": {
-        "facebookVideo": {
-          "id": "1011957541873505"
-        },
-        "instagramReel": {
-          "id": "18151193269469308"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-06",
-      "placeId": "ChIJae-ceQCNpzERtWCIN8zNl3g",
-      "placeName": "NHÀ HÀNG PHỐ ĐẢO PHÚ QUỐC",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122122624683313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18089856842336022"
-        }
-      }
-    },
-    {
-      "date": "2026-09-06",
-      "placeId": "ChIJBS3G_IuNpzERzRZ7hDJyh6E",
-      "placeName": "TÔM HOUSE (해산물 맛집) 똠 하우스",
-      "results": {
-        "facebookVideo": {
-          "id": "1465402792081970"
-        },
-        "instagramReel": {
-          "id": "18133268215736260"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-06",
-      "placeId": "ChIJ6ZS5Zl6MpzERb-qhkr9ofs4",
-      "placeName": "Phuong Hoang Seafood Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122122623519313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18133251355642902"
-        }
-      }
-    },
-    {
-      "date": "2026-09-06",
-      "placeId": "ChIJxyir2P0fCDERr4lf9WU--CQ",
-      "placeName": "Mai Hương Beachfront",
-      "results": {
-        "facebookVideo": {
-          "id": "1764162971323979"
-        },
-        "instagramReel": {
-          "id": "18339030238282465"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-06",
-      "placeId": "ChIJf6ykc4iMpzER-X7O0fSCJSs",
-      "placeName": "Si’s Crab House",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122122622589313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18142061119570440"
-        }
-      }
-    },
-    {
-      "date": "2026-09-06",
-      "placeId": "ChIJze_KNYiMpzERLa0Mfzg3-ZE",
-      "placeName": "Xin Chao seafood restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1691257658628487"
-        },
-        "instagramReel": {
-          "id": "18123606133889826"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-06",
-      "placeId": "ChIJh_DUIYeNpzERDqbaRMxPgTY",
-      "placeName": "Hải sản Động Tôm Hùm - Lobster Cave seafood",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122122621269313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18139487797596161"
         }
       }
     }
