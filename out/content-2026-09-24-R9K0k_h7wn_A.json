@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered Đường Trần Hưng Đạo and walked into thì là by accident.\n\n4.7 stars. 1,014 reviews. $15-30 a head for proper Vietnamese food done right.\n\nThis is the spot locals keep rating while tourists walk straight to the resort buffet. Order, sit, eat. No fuss.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch this before you eat on Đường Trần Hưng Đạo. thì là. 4.7 stars, 1,014 reviews, under $30 a head. The food lands fast and it lands good. No resort markup. Just the real thing.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: wrong turn, right restaurant. thì là on Đường Trần Hưng Đạo. 4.7★, 1,014 reviews, $15-30 a head.\n\nTag your travel buddy.",
+    "video_caption": "Stumbled into thì là. 4.7 stars. 1,014 reviews. Under $30. Phu Quoc delivered.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnameseFood"
+  },
+  "tiktok": {
+    "caption": "Wrong turn on Đường Trần Hưng Đạo. Found thì là. 4.7★, 1,014 reviews. Worth every wrong step. #PhuQuoc #PhuQuocFood #VietnameseFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found thì là",
+    "scenes": [
+      "Walking Đường Trần Hưng Đạo, pause at signage",
+      "Push open door, scan the packed tables",
+      "Close-up: steaming bowl hits the table",
+      "Fork lifts. Steam rises. First bite reaction",
+      "Phone pulls up: 4.7 stars, 1,014 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

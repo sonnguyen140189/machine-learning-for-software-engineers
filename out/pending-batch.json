@@ -1,0 +1,524 @@
+{
+  "stamp": "2026-09-24",
+  "items": [
+    {
+      "placeId": "ChIJqWvgD-yNpzERS66-PApwcs0",
+      "placeName": "Bún Quậy Bạch Đằng",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-24-RS66-PApwcs0-0.jpg",
+        "out/media/2026-09-24-RS66-PApwcs0-1.jpg",
+        "out/media/2026-09-24-RS66-PApwcs0-2.jpg",
+        "out/media/2026-09-24-RS66-PApwcs0-3.jpg",
+        "out/media/2026-09-24-RS66-PApwcs0-4.jpg",
+        "out/media/2026-09-24-RS66-PApwcs0-5.jpg",
+        "out/media/2026-09-24-RS66-PApwcs0-6.jpg",
+        "out/media/2026-09-24-RS66-PApwcs0-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Under $10 for a full bowl of Bún Quậy in Phu Quoc? Yes, really. Bún Quậy Bạch Đằng on Đường Bạch Đằng is pulling 4.9 stars across 307 reviews and charging almost nothing for it. Springy noodles, fresh seafood, rich broth. Locals eat here daily. Tourists walk straight past. Don't be that tourist. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the broth hit the bowl at Bún Quậy Bạch Đằng. 4.9 stars. Under $10. 307 people already know. Now you do too.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocRestaurants #ThingsToDoPhuQuoc"
+        },
+        "instagram": {
+          "caption": "Under $10 for a 4.9-star bowl at Bún Quậy Bạch Đằng. 307 reviews deep. Save this for your Phu Quoc trip.",
+          "video_caption": "Hot broth. Fresh noodles. $10 max. Bún Quậy Bạch Đằng hits different when the price tag makes no sense.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats #VietnamFood"
+        },
+        "tiktok": {
+          "caption": "4.9 stars, under $10, 307 reviews. Bún Quậy Bạch Đằng is the move. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Under $10 in Phu Quoc??",
+          "scenes": [
+            "Street-level sign: Bún Quậy Bạch Đằng",
+            "Steam rising from fresh broth",
+            "Noodles being dropped into bowl",
+            "Close-up: seafood toppings loaded in",
+            "Full bowl handed across counter",
+            "Price on menu board in frame"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJiamiNwCNpzERGZfl84R9I3k",
+      "placeName": "Cua 350 – Crab Noodle Soup Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-24-RGZfl84R9I3k-0.jpg",
+        "out/media/2026-09-24-RGZfl84R9I3k-1.jpg",
+        "out/media/2026-09-24-RGZfl84R9I3k-2.jpg",
+        "out/media/2026-09-24-RGZfl84R9I3k-3.jpg",
+        "out/media/2026-09-24-RGZfl84R9I3k-4.jpg",
+        "out/media/2026-09-24-RGZfl84R9I3k-5.jpg",
+        "out/media/2026-09-24-RGZfl84R9I3k-6.jpg",
+        "out/media/2026-09-24-RGZfl84R9I3k-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-24-RGZfl84R9I3k.mp4",
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Crab noodle soup for under $15. At a 4.9-star spot. In Phu Quoc.\n\nCua 350 is doing something the big restaurants can't. Fresh crab, rich broth, proper local flavour, no tourist markup. 136 reviews and almost nobody rates it below five stars.\n\n38 Đ. 30 Tháng 4 if you want it. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch that broth hit the bowl. Cua 350 serves Phu Quoc crab noodle soup at $15 or under, and 136 people gave it 4.9 stars. Your lunch plans just changed.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Under $15. 4.9 stars. 136 reviews. Cua 350 is the crab noodle spot Phu Quoc needed.\n\nSave this.",
+          "video_caption": "Crab. Broth. $15. Cua 350 just raised the bar for Phu Quoc lunch.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodReels"
+        },
+        "tiktok": {
+          "caption": "4.9 stars. Under $15. Cua 350 has the best crab noodle soup in Phu Quoc. #PhuQuoc #PhuQuocFood #VietnamFood #FoodTok"
+        },
+        "video_script": {
+          "hook": "Under $15. 4.9 stars.",
+          "scenes": [
+            "Close-up: steaming broth poured over noodles",
+            "Whole crab lands in the bowl",
+            "Pull back to packed local dining room",
+            "Spoon lifts thick broth, steam rising",
+            "Show storefront sign: Cua 350"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJlSRlw5KNpzER9K0k_h7wn_A",
+      "placeName": "thì là",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-24-R9K0k_h7wn_A-0.jpg",
+        "out/media/2026-09-24-R9K0k_h7wn_A-1.jpg",
+        "out/media/2026-09-24-R9K0k_h7wn_A-2.jpg",
+        "out/media/2026-09-24-R9K0k_h7wn_A-3.jpg",
+        "out/media/2026-09-24-R9K0k_h7wn_A-4.jpg",
+        "out/media/2026-09-24-R9K0k_h7wn_A-5.jpg",
+        "out/media/2026-09-24-R9K0k_h7wn_A-6.jpg",
+        "out/media/2026-09-24-R9K0k_h7wn_A-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you wandered Đường Trần Hưng Đạo and walked into thì là by accident.\n\n4.7 stars. 1,014 reviews. $15-30 a head for proper Vietnamese food done right.\n\nThis is the spot locals keep rating while tourists walk straight to the resort buffet. Order, sit, eat. No fuss.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch this before you eat on Đường Trần Hưng Đạo. thì là. 4.7 stars, 1,014 reviews, under $30 a head. The food lands fast and it lands good. No resort markup. Just the real thing.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: wrong turn, right restaurant. thì là on Đường Trần Hưng Đạo. 4.7★, 1,014 reviews, $15-30 a head.\n\nTag your travel buddy.",
+          "video_caption": "Stumbled into thì là. 4.7 stars. 1,014 reviews. Under $30. Phu Quoc delivered.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnameseFood"
+        },
+        "tiktok": {
+          "caption": "Wrong turn on Đường Trần Hưng Đạo. Found thì là. 4.7★, 1,014 reviews. Worth every wrong step. #PhuQuoc #PhuQuocFood #VietnameseFood #TravelTips"
+        },
+        "video_script": {
+          "hook": "POV: you found thì là",
+          "scenes": [
+            "Walking Đường Trần Hưng Đạo, pause at signage",
+            "Push open door, scan the packed tables",
+            "Close-up: steaming bowl hits the table",
+            "Fork lifts. Steam rises. First bite reaction",
+            "Phone pulls up: 4.7 stars, 1,014 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJzbqoXACNpzERYnLweZJM9_Q",
+      "placeName": "Tiệm Mì Gà Tiềm Ớt Hiểm A PHON",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-24-RYnLweZJM9_Q-0.jpg",
+        "out/media/2026-09-24-RYnLweZJM9_Q-1.jpg",
+        "out/media/2026-09-24-RYnLweZJM9_Q-2.jpg",
+        "out/media/2026-09-24-RYnLweZJM9_Q-3.jpg",
+        "out/media/2026-09-24-RYnLweZJM9_Q-4.jpg",
+        "out/media/2026-09-24-RYnLweZJM9_Q-5.jpg",
+        "out/media/2026-09-24-RYnLweZJM9_Q-6.jpg",
+        "out/media/2026-09-24-RYnLweZJM9_Q-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-24-RYnLweZJM9_Q.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you followed a local down Lý Thường Kiệt and found Tiệm Mì Gà Tiềm Ớt Hiểm A PHON. Under $10. 4.8 stars. A bowl of braised chicken noodle soup with bird's eye chilli that actually hits. No resort menu. No tourist markup. Just a tiny bistro doing one thing right. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch this bowl land on the table. Braised chicken, bird's eye chilli broth, under $10 a head. Tiệm Mì Gà Tiềm Ớt Hiểm A PHON on Lý Thường Kiệt. 4.8 stars for a reason.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: you found Tiệm Mì Gà Tiềm Ớt Hiểm A PHON. Under $10. 4.8 stars. The chilli broth is no joke. Save this.",
+          "video_caption": "Braised chicken noodle. Bird's eye chilli. Under $10. This bistro on Lý Thường Kiệt is the real deal.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamFood #VietnamTravel #TravelTips #TravelReels #FoodReels"
+        },
+        "tiktok": {
+          "caption": "Followed a local, found this. Under $10 chicken noodle soup in Phu Quoc. 4.8 stars. #PhuQuoc #PhuQuocFood #VietnamFood #FoodTok"
+        },
+        "video_script": {
+          "hook": "POV: locals eat here. You almost walked past.",
+          "scenes": [
+            "Street-level shot: 44 Lý Thường Kiệt signboard",
+            "Hands lifting bowl of braised chicken noodles",
+            "Close-up: bird's eye chillies floating in broth",
+            "Steam rising from the bowl, slow motion",
+            "Price tag or receipt showing under $10",
+            "4.8-star rating held up on phone screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJo6TA9ryNpzERaryDRdemDlU",
+      "placeName": "PHỞ THỐ ĐÁ 1990",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-24-RaryDRdemDlU-0.jpg",
+        "out/media/2026-09-24-RaryDRdemDlU-1.jpg",
+        "out/media/2026-09-24-RaryDRdemDlU-2.jpg",
+        "out/media/2026-09-24-RaryDRdemDlU-3.jpg",
+        "out/media/2026-09-24-RaryDRdemDlU-4.jpg",
+        "out/media/2026-09-24-RaryDRdemDlU-5.jpg",
+        "out/media/2026-09-24-RaryDRdemDlU-6.jpg",
+        "out/media/2026-09-24-RaryDRdemDlU-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Under $10 for a full bowl of phở in Phu Quoc? PHỞ THỐ ĐÁ 1990 makes it happen. This bistro on Lý Thường Kiệt is pulling a 4.9 stars from real diners, not resort menus. Rich broth, proper portions, local prices. Breakfast sorted without breaking the budget. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch that broth hit the bowl. PHỞ THỐ ĐÁ 1990 on Lý Thường Kiệt, Phu Quoc. Under $10 a person, 4.9 stars, and it shows. This is what a local breakfast actually looks like.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Under $10. 4.9 stars. PHỞ THỐ ĐÁ 1990 is doing something right. Save this for your Phu Quoc trip.",
+          "video_caption": "Broth this good. Price this low. PHỞ THỐ ĐÁ 1990 in Phu Quoc hits different at breakfast.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #Pho"
+        },
+        "tiktok": {
+          "caption": "Under $10 phở with 4.9 stars in Phu Quoc. PHỞ THỐ ĐÁ 1990 is the move. #PhuQuoc #PhuQuocFood #VietnamTravel #Pho"
+        },
+        "video_script": {
+          "hook": "Under $10 phở. 4.9 stars.",
+          "scenes": [
+            "Close-up: steaming broth poured into bowl",
+            "Hands add herbs, squeeze lime",
+            "Wide shot: packed local bistro interior",
+            "Pull back: storefront at 133 Lý Thường Kiệt",
+            "Final frame: price receipt under $10"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJpW9hndiNpzERaocRFppy0S4",
+      "placeName": "MR. VIET COFFEE OUTLET IN PHU QUOC",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-24-RaocRFppy0S4-0.jpg",
+        "out/media/2026-09-24-RaocRFppy0S4-1.jpg",
+        "out/media/2026-09-24-RaocRFppy0S4-2.jpg",
+        "out/media/2026-09-24-RaocRFppy0S4-3.jpg",
+        "out/media/2026-09-24-RaocRFppy0S4-4.jpg",
+        "out/media/2026-09-24-RaocRFppy0S4-5.jpg",
+        "out/media/2026-09-24-RaocRFppy0S4-6.jpg",
+        "out/media/2026-09-24-RaocRFppy0S4-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-24-RaocRFppy0S4.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "367 reviews. Every single one a 5-star. At a coffee shop in Phu Quoc.\n\nMr. Viet Coffee at Kiot 20, 22 Đ. Lê Lợi is doing something right. Vietnamese coffee done properly, no shortcuts, no tourist markup. The kind of place regulars return to every morning without thinking twice.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the pour. Mr. Viet Coffee on Đ. Lê Lợi, Phu Quoc. 367 reviews, perfect score. This is what a flawless coffee stop looks like before the crowds hit.",
+          "first_comment": "#PhuQuoc #PhuQuocCoffee #VietnamCoffee #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "367 reviews. 5.0 stars. Zero exceptions.\n\nMr. Viet Coffee on Đ. Lê Lợi is the coffee stop Phu Quoc keeps getting right. Save this.",
+          "video_caption": "5.0 stars from 367 people. Mr. Viet Coffee, Phu Quoc. This pour earns every one.",
+          "hashtags": "#PhuQuocCoffee #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeVibes"
+        },
+        "tiktok": {
+          "caption": "367 reviews. All 5 stars. Mr. Viet Coffee in Phu Quoc is not playing around. #PhuQuoc #VietnamCoffee #PhuQuocTips #TravelTips"
+        },
+        "video_script": {
+          "hook": "367 reviews. 5.0 stars. Every one.",
+          "scenes": [
+            "Close-up: Vietnamese coffee dripping slow",
+            "Pull back: cozy kiot shopfront, Đ. Lê Lợi",
+            "Hands wrap around a full glass",
+            "Screen fill: 5.0★ 367 reviews on maps",
+            "First sip, eyes close"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJi-z2ewCNpzER4P73e0T61VE",
+      "placeName": "CƠM CHAY HIỀN ĐỨC",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-24-R4P73e0T61VE-0.jpg",
+        "out/media/2026-09-24-R4P73e0T61VE-1.jpg",
+        "out/media/2026-09-24-R4P73e0T61VE-2.jpg",
+        "out/media/2026-09-24-R4P73e0T61VE-3.jpg",
+        "out/media/2026-09-24-R4P73e0T61VE-4.jpg",
+        "out/media/2026-09-24-R4P73e0T61VE-5.jpg",
+        "out/media/2026-09-24-R4P73e0T61VE-6.jpg",
+        "out/media/2026-09-24-R4P73e0T61VE-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you walked past a tiny veg restaurant on Đường Trần Hưng Đạo and almost didn't stop.\n\nCƠM CHAY HIỀN ĐỨC. 4.9 stars. Under $10 a head. Locals pack it daily.\n\nFull vegetarian Vietnamese plates. Real portions. No tourist markup.\n\nIf you're on Phu Quoc and your stomach needs a reset, this is the move.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "A full vegetarian plate at CƠM CHAY HIỀN ĐỨC for under $10. Watch how packed this place gets by noon. 4.9 stars and 52 reviews don't lie. Go early.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+        },
+        "instagram": {
+          "caption": "Walked past this. Almost kept walking. Don't.\n\nCƠM CHAY HIỀN ĐỨC. 4.9★. Under $10. Full veg plates, zero fuss.\n\nTag your travel buddy.",
+          "video_caption": "Under $10 vegetarian plates at CƠM CHAY HIỀN ĐỨC. 4.9 stars. Packed by noon. Go early.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamTravel #VegetarianVietnam #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "POV: found a 4.9★ veg restaurant in Phu Quoc for under $10 #PhuQuoc #PhuQuocFood #VietnamTravel #VegetarianFood"
+        },
+        "video_script": {
+          "hook": "POV: under $10 veg plates. 4.9★.",
+          "scenes": [
+            "Exterior shot: CƠM CHAY HIỀN ĐỨC signage",
+            "Pan across steaming rice and veg dishes",
+            "Close-up: full plate assembled by staff",
+            "Wide shot: locals seated, restaurant filling up",
+            "Price tag or receipt shown on camera"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJpz2x3xeLpzERgWgyuWd2czk",
+      "placeName": "TIỆM CHAY TÂM AN",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-24-RgWgyuWd2czk-0.jpg",
+        "out/media/2026-09-24-RgWgyuWd2czk-1.jpg",
+        "out/media/2026-09-24-RgWgyuWd2czk-2.jpg",
+        "out/media/2026-09-24-RgWgyuWd2czk-3.jpg",
+        "out/media/2026-09-24-RgWgyuWd2czk-4.jpg",
+        "out/media/2026-09-24-RgWgyuWd2czk-5.jpg",
+        "out/media/2026-09-24-RgWgyuWd2czk-6.jpg",
+        "out/media/2026-09-24-RgWgyuWd2czk-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-24-RgWgyuWd2czk.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists keep scrolling past this one. TIỆM CHAY TÂM AN on Hoàng Văn Thụ is a 5-star vegetarian spot that almost no foreign visitors find. 51 reviews, every single one a perfect score. The locals eating here daily are onto something. Skip the resort buffet one night. Come here instead. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch what locals are actually ordering at TIỆM CHAY TÂM AN. A 5.0-star vegetarian restaurant on Hoàng Văn Thụ that most tourists walk straight past. 51 reviews. Zero complaints. Not a coincidence.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianVietnam #VisitVietnam #PhuQuocRestaurants #VietnamFood #TravelTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about TIỆM CHAY TÂM AN. 5.0 stars. 51 reviews. Perfect score. Find it on Hoàng Văn Thụ. Tag your travel buddy.",
+          "video_caption": "5.0 stars at a Phu Quoc veggie spot most tourists never find. TIỆM CHAY TÂM AN is the move.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamTravel #VegetarianFood #TravelTips #TravelReels #PhuQuocTips #VietnamFood"
+        },
+        "tiktok": {
+          "caption": "Locals only veggie spot in Phu Quoc. 5.0 stars. Zero hype. TIỆM CHAY TÂM AN. #PhuQuoc #PhuQuocFood #VietnamTravel #VegetarianFood #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't post about this.",
+          "scenes": [
+            "Exterior shot: small shopfront on Hoàng Văn Thụ",
+            "Locals seated, plates arriving at table",
+            "Close-up: vibrant veggie dishes plated simply",
+            "Google review screen: 5.0 stars, 51 reviews",
+            "Final frame: address text overlay"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJdzmotOqNpzER3SFTNOAxFC4",
+      "placeName": "Krishna Garden Pure Veg Indian",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-24-R3SFTNOAxFC4-0.jpg",
+        "out/media/2026-09-24-R3SFTNOAxFC4-1.jpg",
+        "out/media/2026-09-24-R3SFTNOAxFC4-2.jpg",
+        "out/media/2026-09-24-R3SFTNOAxFC4-3.jpg",
+        "out/media/2026-09-24-R3SFTNOAxFC4-4.jpg",
+        "out/media/2026-09-24-R3SFTNOAxFC4-5.jpg",
+        "out/media/2026-09-24-R3SFTNOAxFC4-6.jpg",
+        "out/media/2026-09-24-R3SFTNOAxFC4-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "SHOCK_PRICE",
+        "facebook": {
+          "caption": "Under $15 for a full Indian meal in Phu Quoc. Krishna Garden Pure Veg Indian on Trần Hưng Đạo street is doing it right. 882 reviews, 4.7 stars, zero meat on the menu. Paneer, dal, fresh roti, the works. Vegetarians traveling Southeast Asia know how rare this is. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch this thali land on the table for under $15. Krishna Garden Pure Veg Indian, 882 reviews, 4.7 stars. Full vegetarian spread right on Trần Hưng Đạo street. This is why you plan ahead.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #IndianFoodVietnam #VegetarianTravel #VisitVietnam #TravelTips #PhuQuocRestaurants"
+        },
+        "instagram": {
+          "caption": "Under $15. Full Indian vegetarian meal. 4.7 stars, 882 reviews. Krishna Garden Pure Veg Indian delivers. Tag your travel buddy.",
+          "video_caption": "4.7 stars, 882 reviews, $15 a head. Krishna Garden Pure Veg Indian hits every time.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #IndianFoodVietnam #VegetarianTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "$15 Indian vegetarian feast in Phu Quoc. 4.7 stars. 882 reviews. Krishna Garden Pure Veg Indian. #PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFood"
+        },
+        "video_script": {
+          "hook": "Under $15 Indian food in Phu Quoc??",
+          "scenes": [
+            "Exterior shot: Trần Hưng Đạo street sign visible",
+            "Door open, warm lighting inside",
+            "Hands placing fresh roti on table",
+            "Close-up: dal, paneer curry, rice spread",
+            "Receipt on table showing total under $15",
+            "4.7 stars, 882 reviews on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJSVVo1BORpzERFyzoL0kEyZE",
+      "placeName": "PHƯƠNG NHI TOUR – Island & Fishing Tour",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-24-RFyzoL0kEyZE-0.jpg",
+        "out/media/2026-09-24-RFyzoL0kEyZE-1.jpg",
+        "out/media/2026-09-24-RFyzoL0kEyZE-2.jpg",
+        "out/media/2026-09-24-RFyzoL0kEyZE-3.jpg",
+        "out/media/2026-09-24-RFyzoL0kEyZE-4.jpg",
+        "out/media/2026-09-24-RFyzoL0kEyZE-5.jpg",
+        "out/media/2026-09-24-RFyzoL0kEyZE-6.jpg",
+        "out/media/2026-09-24-RFyzoL0kEyZE-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-24-RFyzoL0kEyZE.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you skip the crowded group boats and book a local fishing tour instead. PHƯƠNG NHI TOUR runs island and fishing trips out of Phú Quốc with a 4.8-star rating across 56 reviews. Small operation. Real experience. The kind of day on the water that doesn't feel like a tourist package. Save this for your Phu Quoc trip.",
+          "video_caption": "Lines in the water, no resort crowd in sight. PHƯƠNG NHI TOUR takes you fishing and island-hopping the local way. 4.8 stars. 56 happy guests. Book before the secret gets out.",
+          "first_comment": "#PhuQuoc #PhuQuocTours #IslandHopping #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "POV: you found the fishing tour locals actually take. PHƯƠNG NHI TOUR. 4.8★, 56 reviews. Tag your travel buddy.",
+          "video_caption": "Skipped the big group boats. Booked PHƯƠNG NHI TOUR. Best call of the trip.",
+          "hashtags": "#PhuQuocTours #PhuQuocTips #IslandHoppingVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "POV: you ditch the tourist boat and actually go fishing in Phu Quoc. PHƯƠNG NHI TOUR. 4.8★. #PhuQuoc #PhuQuocTours #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: the better boat tour",
+          "scenes": [
+            "Boat leaving dock at sunrise",
+            "Fishing lines dropped into blue water",
+            "Local guide pulling in a catch",
+            "Island shoreline comes into view",
+            "Review screen: 4.8★, 56 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
+      "placeName": "Jerry's Jungle Tours",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-09-24-RVdeTFM021V4-0.jpg",
+        "out/media/2026-09-24-RVdeTFM021V4-1.jpg",
+        "out/media/2026-09-24-RVdeTFM021V4-2.jpg",
+        "out/media/2026-09-24-RVdeTFM021V4-3.jpg",
+        "out/media/2026-09-24-RVdeTFM021V4-4.jpg",
+        "out/media/2026-09-24-RVdeTFM021V4-5.jpg",
+        "out/media/2026-09-24-RVdeTFM021V4-6.jpg",
+        "out/media/2026-09-24-RVdeTFM021V4-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.4 stars and 69 reviews for a jungle tour in Phu Quoc. That's not luck. Jerry's Jungle Tours runs trips out of Cửa Lấp, away from the beach crowds and resort pools. Real jungle. Real guides. The kind of day you actually remember. Save this for your Phu Quoc trip.",
+          "video_caption": "Jungle trails, not beach chairs. Jerry's Jungle Tours out of Cửa Lấp is what Phu Quoc looks like when you leave the resort strip behind. 4.4 stars. 69 reviews. Book it.",
+          "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.4 stars. 69 reviews. Jerry's Jungle Tours, Cửa Lấp. Skip the beach for one day. Tag your travel buddy.",
+          "video_caption": "Jungle over beach. Jerry's Jungle Tours hits different when the whole island is at the pool. Cửa Lấp, Phú Quốc.",
+          "hashtags": "#PhuQuocTours #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Jungle tour in Phu Quoc with 4.4 stars. Cửa Lấp hits different. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.4★. 69 reviews. A JUNGLE TOUR.",
+          "scenes": [
+            "Drone pulls back over dense jungle canopy",
+            "Boots hit a muddy jungle trail",
+            "Guide points out wildlife up close",
+            "Group crosses a narrow jungle bridge",
+            "Wide shot: Cửa Lấp coastline from the trees"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJQ4JcfECSpzER9dUT9AlYDJk",
+      "placeName": "InterContinental Phu Quoc Long Beach Resort by IHG",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-09-24-R9dUT9AlYDJk-0.jpg",
+        "out/media/2026-09-24-R9dUT9AlYDJk-1.jpg",
+        "out/media/2026-09-24-R9dUT9AlYDJk-2.jpg",
+        "out/media/2026-09-24-R9dUT9AlYDJk-3.jpg",
+        "out/media/2026-09-24-R9dUT9AlYDJk-4.jpg",
+        "out/media/2026-09-24-R9dUT9AlYDJk-5.jpg",
+        "out/media/2026-09-24-R9dUT9AlYDJk-6.jpg",
+        "out/media/2026-09-24-R9dUT9AlYDJk-7.jpg"
+      ],
+      "videoPath": "out/media/2026-09-24-R9dUT9AlYDJk.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "8,021 reviews. 4.8 stars. Bãi Trường beachfront.\n\nInterContinental Phu Quoc Long Beach Resort delivers on every single one. Chic rooms, multiple pools, direct beach access, and a rooftop bar that earns its own trip. This is the resort people keep coming back to, and the reviews prove it.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Rooftop bar at sunset. Pool with the ocean right there. 8,021 people rated this 4.8 stars and now you can see why. InterContinental Phu Quoc Long Beach Resort on Bãi Trường is the real deal.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips #LuxuryTravel #BaiTruong"
+        },
+        "instagram": {
+          "caption": "8,021 reviews. 4.8 stars. This is why Bãi Trường wins.\n\nInterContinental Phu Quoc Long Beach Resort. Pools, beach, rooftop bar. Tag your travel buddy.",
+          "video_caption": "Rooftop bar. Beachfront pools. 4.8 stars from 8,021 guests. InterContinental Phu Quoc Long Beach Resort earns every one.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #BaiTruong #PhuQuocTips #VietnamTravel #TravelReels #TravelTips #LuxuryResort"
+        },
+        "tiktok": {
+          "caption": "8,021 reviews and 4.8 stars on Bãi Trường beach. InterContinental Phu Quoc hits different. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "8,021 reviews. 4.8 stars.",
+          "scenes": [
+            "Aerial shot of Bãi Trường beachfront",
+            "Pan across resort pools to ocean",
+            "Rooftop bar at golden hour",
+            "Chic suite interior, balcony reveal",
+            "Close-up of 4.8-star rating on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

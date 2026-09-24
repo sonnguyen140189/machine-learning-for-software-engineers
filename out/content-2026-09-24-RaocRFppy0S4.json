@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "367 reviews. Every single one a 5-star. At a coffee shop in Phu Quoc.\n\nMr. Viet Coffee at Kiot 20, 22 Đ. Lê Lợi is doing something right. Vietnamese coffee done properly, no shortcuts, no tourist markup. The kind of place regulars return to every morning without thinking twice.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the pour. Mr. Viet Coffee on Đ. Lê Lợi, Phu Quoc. 367 reviews, perfect score. This is what a flawless coffee stop looks like before the crowds hit.",
+    "first_comment": "#PhuQuoc #PhuQuocCoffee #VietnamCoffee #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "367 reviews. 5.0 stars. Zero exceptions.\n\nMr. Viet Coffee on Đ. Lê Lợi is the coffee stop Phu Quoc keeps getting right. Save this.",
+    "video_caption": "5.0 stars from 367 people. Mr. Viet Coffee, Phu Quoc. This pour earns every one.",
+    "hashtags": "#PhuQuocCoffee #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeVibes"
+  },
+  "tiktok": {
+    "caption": "367 reviews. All 5 stars. Mr. Viet Coffee in Phu Quoc is not playing around. #PhuQuoc #VietnamCoffee #PhuQuocTips #TravelTips"
+  },
+  "video_script": {
+    "hook": "367 reviews. 5.0 stars. Every one.",
+    "scenes": [
+      "Close-up: Vietnamese coffee dripping slow",
+      "Pull back: cozy kiot shopfront, Đ. Lê Lợi",
+      "Hands wrap around a full glass",
+      "Screen fill: 5.0★ 367 reviews on maps",
+      "First sip, eyes close"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

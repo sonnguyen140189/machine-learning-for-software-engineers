@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10 for a full bowl of phở in Phu Quoc? PHỞ THỐ ĐÁ 1990 makes it happen. This bistro on Lý Thường Kiệt is pulling a 4.9 stars from real diners, not resort menus. Rich broth, proper portions, local prices. Breakfast sorted without breaking the budget. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch that broth hit the bowl. PHỞ THỐ ĐÁ 1990 on Lý Thường Kiệt, Phu Quoc. Under $10 a person, 4.9 stars, and it shows. This is what a local breakfast actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $10. 4.9 stars. PHỞ THỐ ĐÁ 1990 is doing something right. Save this for your Phu Quoc trip.",
+    "video_caption": "Broth this good. Price this low. PHỞ THỐ ĐÁ 1990 in Phu Quoc hits different at breakfast.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #Pho"
+  },
+  "tiktok": {
+    "caption": "Under $10 phở with 4.9 stars in Phu Quoc. PHỞ THỐ ĐÁ 1990 is the move. #PhuQuoc #PhuQuocFood #VietnamTravel #Pho"
+  },
+  "video_script": {
+    "hook": "Under $10 phở. 4.9 stars.",
+    "scenes": [
+      "Close-up: steaming broth poured into bowl",
+      "Hands add herbs, squeeze lime",
+      "Wide shot: packed local bistro interior",
+      "Pull back: storefront at 133 Lý Thường Kiệt",
+      "Final frame: price receipt under $10"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

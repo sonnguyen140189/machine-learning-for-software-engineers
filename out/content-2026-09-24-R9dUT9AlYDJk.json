@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "8,021 reviews. 4.8 stars. Bãi Trường beachfront.\n\nInterContinental Phu Quoc Long Beach Resort delivers on every single one. Chic rooms, multiple pools, direct beach access, and a rooftop bar that earns its own trip. This is the resort people keep coming back to, and the reviews prove it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Rooftop bar at sunset. Pool with the ocean right there. 8,021 people rated this 4.8 stars and now you can see why. InterContinental Phu Quoc Long Beach Resort on Bãi Trường is the real deal.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips #LuxuryTravel #BaiTruong"
+  },
+  "instagram": {
+    "caption": "8,021 reviews. 4.8 stars. This is why Bãi Trường wins.\n\nInterContinental Phu Quoc Long Beach Resort. Pools, beach, rooftop bar. Tag your travel buddy.",
+    "video_caption": "Rooftop bar. Beachfront pools. 4.8 stars from 8,021 guests. InterContinental Phu Quoc Long Beach Resort earns every one.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #BaiTruong #PhuQuocTips #VietnamTravel #TravelReels #TravelTips #LuxuryResort"
+  },
+  "tiktok": {
+    "caption": "8,021 reviews and 4.8 stars on Bãi Trường beach. InterContinental Phu Quoc hits different. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "8,021 reviews. 4.8 stars.",
+    "scenes": [
+      "Aerial shot of Bãi Trường beachfront",
+      "Pan across resort pools to ocean",
+      "Rooftop bar at golden hour",
+      "Chic suite interior, balcony reveal",
+      "Close-up of 4.8-star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

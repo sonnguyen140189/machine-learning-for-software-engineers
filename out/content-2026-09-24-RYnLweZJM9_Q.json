@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you followed a local down Lý Thường Kiệt and found Tiệm Mì Gà Tiềm Ớt Hiểm A PHON. Under $10. 4.8 stars. A bowl of braised chicken noodle soup with bird's eye chilli that actually hits. No resort menu. No tourist markup. Just a tiny bistro doing one thing right. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch this bowl land on the table. Braised chicken, bird's eye chilli broth, under $10 a head. Tiệm Mì Gà Tiềm Ớt Hiểm A PHON on Lý Thường Kiệt. 4.8 stars for a reason.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found Tiệm Mì Gà Tiềm Ớt Hiểm A PHON. Under $10. 4.8 stars. The chilli broth is no joke. Save this.",
+    "video_caption": "Braised chicken noodle. Bird's eye chilli. Under $10. This bistro on Lý Thường Kiệt is the real deal.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamFood #VietnamTravel #TravelTips #TravelReels #FoodReels"
+  },
+  "tiktok": {
+    "caption": "Followed a local, found this. Under $10 chicken noodle soup in Phu Quoc. 4.8 stars. #PhuQuoc #PhuQuocFood #VietnamFood #FoodTok"
+  },
+  "video_script": {
+    "hook": "POV: locals eat here. You almost walked past.",
+    "scenes": [
+      "Street-level shot: 44 Lý Thường Kiệt signboard",
+      "Hands lifting bowl of braised chicken noodles",
+      "Close-up: bird's eye chillies floating in broth",
+      "Steam rising from the bowl, slow motion",
+      "Price tag or receipt showing under $10",
+      "4.8-star rating held up on phone screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

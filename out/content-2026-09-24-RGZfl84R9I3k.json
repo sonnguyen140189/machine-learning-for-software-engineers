@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Crab noodle soup for under $15. At a 4.9-star spot. In Phu Quoc.\n\nCua 350 is doing something the big restaurants can't. Fresh crab, rich broth, proper local flavour, no tourist markup. 136 reviews and almost nobody rates it below five stars.\n\n38 Đ. 30 Tháng 4 if you want it. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch that broth hit the bowl. Cua 350 serves Phu Quoc crab noodle soup at $15 or under, and 136 people gave it 4.9 stars. Your lunch plans just changed.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $15. 4.9 stars. 136 reviews. Cua 350 is the crab noodle spot Phu Quoc needed.\n\nSave this.",
+    "video_caption": "Crab. Broth. $15. Cua 350 just raised the bar for Phu Quoc lunch.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodReels"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. Under $15. Cua 350 has the best crab noodle soup in Phu Quoc. #PhuQuoc #PhuQuocFood #VietnamFood #FoodTok"
+  },
+  "video_script": {
+    "hook": "Under $15. 4.9 stars.",
+    "scenes": [
+      "Close-up: steaming broth poured over noodles",
+      "Whole crab lands in the bowl",
+      "Pull back to packed local dining room",
+      "Spoon lifts thick broth, steam rising",
+      "Show storefront sign: Cua 350"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

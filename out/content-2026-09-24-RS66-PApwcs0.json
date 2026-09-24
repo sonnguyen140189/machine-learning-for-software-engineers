@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10 for a full bowl of Bún Quậy in Phu Quoc? Yes, really. Bún Quậy Bạch Đằng on Đường Bạch Đằng is pulling 4.9 stars across 307 reviews and charging almost nothing for it. Springy noodles, fresh seafood, rich broth. Locals eat here daily. Tourists walk straight past. Don't be that tourist. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the broth hit the bowl at Bún Quậy Bạch Đằng. 4.9 stars. Under $10. 307 people already know. Now you do too.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocRestaurants #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Under $10 for a 4.9-star bowl at Bún Quậy Bạch Đằng. 307 reviews deep. Save this for your Phu Quoc trip.",
+    "video_caption": "Hot broth. Fresh noodles. $10 max. Bún Quậy Bạch Đằng hits different when the price tag makes no sense.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "4.9 stars, under $10, 307 reviews. Bún Quậy Bạch Đằng is the move. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $10 in Phu Quoc??",
+    "scenes": [
+      "Street-level sign: Bún Quậy Bạch Đằng",
+      "Steam rising from fresh broth",
+      "Noodles being dropped into bowl",
+      "Close-up: seafood toppings loaded in",
+      "Full bowl handed across counter",
+      "Price on menu board in frame"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

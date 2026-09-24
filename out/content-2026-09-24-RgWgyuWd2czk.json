@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep scrolling past this one. TIỆM CHAY TÂM AN on Hoàng Văn Thụ is a 5-star vegetarian spot that almost no foreign visitors find. 51 reviews, every single one a perfect score. The locals eating here daily are onto something. Skip the resort buffet one night. Come here instead. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what locals are actually ordering at TIỆM CHAY TÂM AN. A 5.0-star vegetarian restaurant on Hoàng Văn Thụ that most tourists walk straight past. 51 reviews. Zero complaints. Not a coincidence.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianVietnam #VisitVietnam #PhuQuocRestaurants #VietnamFood #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about TIỆM CHAY TÂM AN. 5.0 stars. 51 reviews. Perfect score. Find it on Hoàng Văn Thụ. Tag your travel buddy.",
+    "video_caption": "5.0 stars at a Phu Quoc veggie spot most tourists never find. TIỆM CHAY TÂM AN is the move.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamTravel #VegetarianFood #TravelTips #TravelReels #PhuQuocTips #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "Locals only veggie spot in Phu Quoc. 5.0 stars. Zero hype. TIỆM CHAY TÂM AN. #PhuQuoc #PhuQuocFood #VietnamTravel #VegetarianFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior shot: small shopfront on Hoàng Văn Thụ",
+      "Locals seated, plates arriving at table",
+      "Close-up: vibrant veggie dishes plated simply",
+      "Google review screen: 5.0 stars, 51 reviews",
+      "Final frame: address text overlay"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

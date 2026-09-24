@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you skip the crowded group boats and book a local fishing tour instead. PHƯƠNG NHI TOUR runs island and fishing trips out of Phú Quốc with a 4.8-star rating across 56 reviews. Small operation. Real experience. The kind of day on the water that doesn't feel like a tourist package. Save this for your Phu Quoc trip.",
+    "video_caption": "Lines in the water, no resort crowd in sight. PHƯƠNG NHI TOUR takes you fishing and island-hopping the local way. 4.8 stars. 56 happy guests. Book before the secret gets out.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #IslandHopping #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: you found the fishing tour locals actually take. PHƯƠNG NHI TOUR. 4.8★, 56 reviews. Tag your travel buddy.",
+    "video_caption": "Skipped the big group boats. Booked PHƯƠNG NHI TOUR. Best call of the trip.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #IslandHoppingVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: you ditch the tourist boat and actually go fishing in Phu Quoc. PHƯƠNG NHI TOUR. 4.8★. #PhuQuoc #PhuQuocTours #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: the better boat tour",
+    "scenes": [
+      "Boat leaving dock at sunrise",
+      "Fishing lines dropped into blue water",
+      "Local guide pulling in a catch",
+      "Island shoreline comes into view",
+      "Review screen: 4.8★, 56 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

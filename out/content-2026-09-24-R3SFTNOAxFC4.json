@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $15 for a full Indian meal in Phu Quoc. Krishna Garden Pure Veg Indian on Trần Hưng Đạo street is doing it right. 882 reviews, 4.7 stars, zero meat on the menu. Paneer, dal, fresh roti, the works. Vegetarians traveling Southeast Asia know how rare this is. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch this thali land on the table for under $15. Krishna Garden Pure Veg Indian, 882 reviews, 4.7 stars. Full vegetarian spread right on Trần Hưng Đạo street. This is why you plan ahead.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #IndianFoodVietnam #VegetarianTravel #VisitVietnam #TravelTips #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "Under $15. Full Indian vegetarian meal. 4.7 stars, 882 reviews. Krishna Garden Pure Veg Indian delivers. Tag your travel buddy.",
+    "video_caption": "4.7 stars, 882 reviews, $15 a head. Krishna Garden Pure Veg Indian hits every time.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #IndianFoodVietnam #VegetarianTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "$15 Indian vegetarian feast in Phu Quoc. 4.7 stars. 882 reviews. Krishna Garden Pure Veg Indian. #PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFood"
+  },
+  "video_script": {
+    "hook": "Under $15 Indian food in Phu Quoc??",
+    "scenes": [
+      "Exterior shot: Trần Hưng Đạo street sign visible",
+      "Door open, warm lighting inside",
+      "Hands placing fresh roti on table",
+      "Close-up: dal, paneer curry, rice spread",
+      "Receipt on table showing total under $15",
+      "4.7 stars, 882 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walked past a tiny veg restaurant on Đường Trần Hưng Đạo and almost didn't stop.\n\nCƠM CHAY HIỀN ĐỨC. 4.9 stars. Under $10 a head. Locals pack it daily.\n\nFull vegetarian Vietnamese plates. Real portions. No tourist markup.\n\nIf you're on Phu Quoc and your stomach needs a reset, this is the move.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "A full vegetarian plate at CƠM CHAY HIỀN ĐỨC for under $10. Watch how packed this place gets by noon. 4.9 stars and 52 reviews don't lie. Go early.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "Walked past this. Almost kept walking. Don't.\n\nCƠM CHAY HIỀN ĐỨC. 4.9★. Under $10. Full veg plates, zero fuss.\n\nTag your travel buddy.",
+    "video_caption": "Under $10 vegetarian plates at CƠM CHAY HIỀN ĐỨC. 4.9 stars. Packed by noon. Go early.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamTravel #VegetarianVietnam #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "POV: found a 4.9★ veg restaurant in Phu Quoc for under $10 #PhuQuoc #PhuQuocFood #VietnamTravel #VegetarianFood"
+  },
+  "video_script": {
+    "hook": "POV: under $10 veg plates. 4.9★.",
+    "scenes": [
+      "Exterior shot: CƠM CHAY HIỀN ĐỨC signage",
+      "Pan across steaming rice and veg dishes",
+      "Close-up: full plate assembled by staff",
+      "Wide shot: locals seated, restaurant filling up",
+      "Price tag or receipt shown on camera"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

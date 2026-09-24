@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.4 stars and 69 reviews for a jungle tour in Phu Quoc. That's not luck. Jerry's Jungle Tours runs trips out of Cửa Lấp, away from the beach crowds and resort pools. Real jungle. Real guides. The kind of day you actually remember. Save this for your Phu Quoc trip.",
+    "video_caption": "Jungle trails, not beach chairs. Jerry's Jungle Tours out of Cửa Lấp is what Phu Quoc looks like when you leave the resort strip behind. 4.4 stars. 69 reviews. Book it.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.4 stars. 69 reviews. Jerry's Jungle Tours, Cửa Lấp. Skip the beach for one day. Tag your travel buddy.",
+    "video_caption": "Jungle over beach. Jerry's Jungle Tours hits different when the whole island is at the pool. Cửa Lấp, Phú Quốc.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Jungle tour in Phu Quoc with 4.4 stars. Cửa Lấp hits different. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.4★. 69 reviews. A JUNGLE TOUR.",
+    "scenes": [
+      "Drone pulls back over dense jungle canopy",
+      "Boots hit a muddy jungle trail",
+      "Guide points out wildlife up close",
+      "Group crosses a narrow jungle bridge",
+      "Wide shot: Cửa Lấp coastline from the trees"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
