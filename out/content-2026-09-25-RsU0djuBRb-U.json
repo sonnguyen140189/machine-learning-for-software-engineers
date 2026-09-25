@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you booked the Bãi Dài end of Phu Quoc and showed up to this.\n\nSheraton Phu Quoc Long Beach Resort sits where the crowds thin out. 4.5 stars across 2,520 reviews. That ratio matters.\n\nLong stretch of beach. Low density. The kind of resort that earns repeat guests.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the Sheraton Phu Quoc Long Beach Resort from the water side. Wide beach, open horizon, zero crowds. This is the Bãi Dài that most tourists miss because they stay closer to town.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: picked the quiet end of Phu Quoc. Sheraton Phu Quoc Long Beach Resort. 4.5★, 2,520 reviews. Worth it.\n\nTag your travel buddy.",
+    "video_caption": "Bãi Dài, less crowd, more beach. Sheraton Phu Quoc Long Beach Resort delivers exactly that.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "POV: chose Bãi Dài over the tourist strip. This is what you get. #PhuQuoc #PhuQuocResort #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: you picked the quiet end.",
+    "scenes": [
+      "Drone pulls back over long empty beach",
+      "Resort facade from the shoreline",
+      "Guest walking toward calm water",
+      "Aerial sweep of Bãi Dài coastline",
+      "Close shot: waves hitting the sand"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

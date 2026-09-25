@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.6 stars. 1,056 reviews. La Veranda Resort Phu Quoc - MGallery Collection keeps delivering.\n\nKayaks on Đường Trần Hưng Đạo beach. Morning yoga with the South China Sea in front of you. Mediterranean dining at night. Spa when your body finally gives in.\n\nThis is the kind of resort that makes you extend your trip by two days. Every time.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Kayaking off the beach at La Veranda Resort Phu Quoc - MGallery Collection. Then yoga. Then spa. Then Mediterranean food. One resort, full day sorted.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.6 stars. 1,056 reviews. La Veranda Resort Phu Quoc - MGallery Collection earns every one.\n\nKayaks, yoga, spa, Mediterranean dining. All on Đường Trần Hưng Đạo beach.\n\nTag your travel buddy.",
+    "video_caption": "Kayak out. Yoga on the sand. Spa after. This is La Veranda Resort Phu Quoc - MGallery Collection on a Tuesday.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #MGallery"
+  },
+  "tiktok": {
+    "caption": "1,056 reviews and La Veranda Resort Phu Quoc still hits different. Kayaks, yoga, spa, Mediterranean food. #PhuQuoc #PhuQuocHotel #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.6★, 1,056 reviews. See why.",
+    "scenes": [
+      "Aerial pan: resort meets beachfront",
+      "Kayak launches into calm blue water",
+      "Yoga class, waves breaking behind group",
+      "Spa table, candles, hands on back",
+      "Mediterranean dishes plated and served",
+      "Guest reclines, sunset behind them"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

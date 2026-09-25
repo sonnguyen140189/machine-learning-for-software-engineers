@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 2,653 reviews. Salinda Resort Phu Quoc Island keeps delivering.\n\nBeachfront position. Three restaurants on-site. A full spa. A cocktail lounge for when you're not in the pool.\n\nThis is Cửa Lấp done right. Not flashy. Just consistently excellent, which is why the reviews don't lie.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the sun drop behind the pool at Salinda Resort Phu Quoc Island. 4.8 stars across 2,653 reviews. Three restaurants, a spa, a cocktail lounge. Cửa Lấp never looked this good.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips #VietnamTravel #PhuQuocIsland"
+  },
+  "instagram": {
+    "caption": "4.8★ across 2,653 reviews. Salinda Resort Phu Quoc Island earns every one.\n\nBeachfront. 3 restaurants. Spa. Cocktail lounge. Cửa Lấp at its best.\n\nTag your travel buddy.",
+    "video_caption": "Pool. Beach. Cocktail lounge. Salinda Resort Phu Quoc Island, rated 4.8★ by 2,653 guests. Cửa Lấp is the move.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "4.8★ from 2,653 reviews at Salinda Resort Phu Quoc Island. Beachfront pool, spa, 3 restaurants. Cửa Lấp wins. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★. 2,653 reviews. Phu Quoc.",
+    "scenes": [
+      "Aerial shot, beachfront pool at sunrise",
+      "Close-up, cocktail poured at lounge",
+      "Spa treatment room, candles lit",
+      "Restaurant table set, ocean behind",
+      "Guest walks from pool toward beach"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

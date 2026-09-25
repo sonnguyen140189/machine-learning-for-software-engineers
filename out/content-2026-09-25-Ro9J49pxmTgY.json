@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you upgrade to Pullman Phu Quoc Beach Resort and suddenly forget what stress is.\n\nPrivate beach. Outdoor pool. Spa. Three bars. This is the full lineup.\n\n4.8 stars across 6,498 reviews. That number doesn't happen by accident.\n\nPhú Quốc luxury that actually delivers. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into Pullman Phu Quoc Beach Resort and the private beach is literally right there. Pool behind you. Spa on deck. Three bars. 4.8 stars. Watch this and tell me you're not booking.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #LuxuryTravel #VisitVietnam #PhuQuocTips #BeachResort #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: private beach, spa, 3 bars, 4.8★ from 6,498 guests. Pullman Phu Quoc Beach Resort.\n\nTag your travel buddy.",
+    "video_caption": "Private beach drops right outside your door. This is Pullman Phu Quoc Beach Resort. 4.8 stars. No notes.",
+    "hashtags": "#PhuQuocResort #PhuQuocBeaches #PhuQuocTips #LuxuryHotel #VietnamTravel #TravelReels #TravelTips #BeachResort"
+  },
+  "tiktok": {
+    "caption": "POV: you picked the right resort in Phu Quoc. 4.8★, private beach, 3 bars. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: right resort. Right beach.",
+    "scenes": [
+      "Aerial pan over private beach at sunrise",
+      "Slow walk from room to pool edge",
+      "Bartender slides cocktail across pool bar",
+      "Spa room door swings open, candles lit",
+      "Guest lounges on beach chair, waves breaking"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

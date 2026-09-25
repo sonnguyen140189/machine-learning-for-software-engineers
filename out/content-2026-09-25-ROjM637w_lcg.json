@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists stick to Long Beach. Repeat visitors book Ông Lang.\n\nGrand Ocean Bay Resort Phú Quốc sits in one of the quietest corners of the island. 4.5 stars across 1,049 reviews, and most people scrolling right now have never heard of it.\n\nFewer beach chairs. Fewer crowds. Same Phu Quoc sunsets.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walking into Grand Ocean Bay Resort Phú Quốc and the beach is basically empty. Ông Lang does that. 4.5 stars, 1,049 reviews, zero crowds. This is the side of Phu Quoc most tourists never find.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #OngLang #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists don't know Ông Lang exists. Grand Ocean Bay Resort Phú Quốc is why that matters. 4.5★, 1,049 reviews.\n\nTag your travel buddy.",
+    "video_caption": "Empty beach. 4.5 stars. Ông Lang, not Long Beach. Grand Ocean Bay Resort Phú Quốc hits different.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #OngLang #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocBeaches"
+  },
+  "tiktok": {
+    "caption": "The beach resort Phu Quoc tourists keep missing. Ông Lang is the answer. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep missing this resort.",
+    "scenes": [
+      "Drone pull-back over empty Ông Lang beach",
+      "Resort entrance, lush treeline, no crowds",
+      "Pool deck, calm water, no queue for chairs",
+      "Close-up: 4.5★ review screen, 1,049 ratings",
+      "Guest walking straight onto quiet beachfront"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

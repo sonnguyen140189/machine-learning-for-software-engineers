@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Mango Bay Resort sits right on the beach in Phú Quốc, and the vibe is deliberately slow. No hustle. Free tai chi at sunrise, free yoga, fresh seafood steps from the sand. 4.5 stars across 2,069 reviews. That's not luck, that's consistency. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the morning unfold at Mango Bay Resort. Free yoga on the beach, seafood lunch with your feet in the sand, 4.5 stars from 2,069 guests. Phu Quoc at its most unhurried.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Free tai chi, beachfront seafood, zero rush. Mango Bay Resort, Phú Quốc. 4.5★, 2,069 reviews. Tag your travel buddy.",
+    "video_caption": "Free yoga. Beach dining. 4.5 stars. Mango Bay Resort is Phu Quoc on slow mode.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachResort"
+  },
+  "tiktok": {
+    "caption": "Free yoga + beachfront seafood at Mango Bay Resort, Phú Quốc. 4.5★ from 2,069 guests. This is the slow life. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that doesn't feel touristy.",
+    "scenes": [
+      "Dawn light hits empty beach at resort",
+      "Guests hold tai chi poses at sunrise",
+      "Yoga mat rolled out on sand",
+      "Fresh seafood plated at beach table",
+      "Waves lapping five steps from dining area",
+      "4.5★ 2,069 reviews card fades in"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
