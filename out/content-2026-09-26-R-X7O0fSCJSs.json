@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stopped scrolling Grab Food and just walked into Si's Crab House instead. 4.3 stars. 1,824 reviews. On Đường Nguyễn Trãi in Khu 1. Fresh crab, right here in Phu Quoc. No resort markup. No frills. Just the food doing the work. Save this for your Phu Quoc trip.",
+    "video_caption": "Shells cracking. Crab landing on the table. 1,824 people rated Si's Crab House 4.3 stars and now you know why. Đường Nguyễn Trãi, Khu 1. Go hungry.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #SeafoodVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamEats"
+  },
+  "instagram": {
+    "caption": "POV: you found the crab spot locals keep going back to. Si's Crab House. 4.3★, 1,824 reviews. Tag your travel buddy.",
+    "video_caption": "Crab. Fresh. Phu Quoc. Si's Crab House earns that 4.3 stars every single plate.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamTravel #SeafoodLovers #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Walked in, ordered crab, zero regrets. Si's Crab House on Đường Nguyễn Trãi hits. 4.3★ #PhuQuoc #PhuQuocFood #VietnamEats #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: best crab in Phu Quoc.",
+    "scenes": [
+      "Pan across busy outdoor tables",
+      "Close-up: whole crab arriving steaming",
+      "Hands cracking shell, juice dripping",
+      "Reaction shot: first bite taken",
+      "Wide shot: Đường Nguyễn Trãi streetside vibe"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

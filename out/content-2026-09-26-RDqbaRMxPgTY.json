@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "8,134 reviews. 4.8 stars. At a seafood restaurant in Phu Quoc.\n\nHải sản Động Tôm Hùm is not playing around. Lobster Cave earns that name. Fresh catch, serious portions, and a crowd that keeps coming back hard enough to leave over eight thousand reviews.\n\nPrice sits at $100+ per person. Budget accordingly. Worth it for a splurge night.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the lobster land on the table at Hải sản Động Tôm Hùm. 4.8 stars across 8,134 reviews. This is what a big seafood night in Phu Quoc actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #ThingsToDoPhuQuoc #VisitVietnam #VietnamFood #PhuQuocRestaurants #TravelTips"
+  },
+  "instagram": {
+    "caption": "8,134 reviews. 4.8 stars. Hải sản Động Tôm Hùm is the answer.\n\nLobster Cave, Phu Quoc's big splurge night done right. Save this.",
+    "video_caption": "Lobster hits the table at Hải sản Động Tôm Hùm. 4.8 stars, 8,134 people agree. Phu Quoc's seafood scene is serious.",
+    "hashtags": "#PhuQuocSeafood #PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodReels"
+  },
+  "tiktok": {
+    "caption": "8,134 reviews. 4.8 stars. Hải sản Động Tôm Hùm in Phu Quoc is the move. #PhuQuoc #PhuQuocSeafood #VietnamFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "8,134 reviews. 4.8 stars.",
+    "scenes": [
+      "Exterior sign: Hải sản Động Tôm Hùm",
+      "Live lobster tank, close-up shot",
+      "Chef plates whole lobster tableside",
+      "Table spread, multiple seafood dishes",
+      "Review count on screen: 8,134 at 4.8★"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

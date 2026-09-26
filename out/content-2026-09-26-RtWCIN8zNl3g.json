@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this place. NHÀ HÀNG PHỐ ĐẢO PHÚ QUỐC sits at 136 Đ. 30 Tháng 4 in Dương Đông, rated 4.9 stars, and most visitors never find it. Fresh seafood, $15-30 a head, and a crowd that is almost entirely local. That ratio tells you everything. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the locals load up their table at NHÀ HÀNG PHỐ ĐẢO PHÚ QUỐC. Fresh catch, 4.9 stars, and under $30 a head. This is the seafood spot Dương Đông actually eats at.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about NHÀ HÀNG PHỐ ĐẢO PHÚ QUỐC. 4.9 stars. $15-30 a head. Now you know. Save this.",
+    "video_caption": "4.9 stars and the tables are full of locals. NHÀ HÀNG PHỐ ĐẢO PHÚ QUỐC, Dương Đông. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocTips #PhuQuocRestaurant #VietnamTravel #TravelTips #TravelReels #FoodTips"
+  },
+  "tiktok": {
+    "caption": "The seafood spot Phu Quoc locals actually eat at. 4.9 stars. Under $30. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post this spot.",
+    "scenes": [
+      "Exterior shot: locals filling tables",
+      "Close-up: whole fish hitting the grill",
+      "Pan: packed dining room, zero tourists",
+      "Plate lands: grilled seafood spread",
+      "Text overlay: 4.9 stars, $15-30/head"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

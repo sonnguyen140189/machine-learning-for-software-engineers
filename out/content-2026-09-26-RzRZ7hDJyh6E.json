@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "3,127 reviews. 4.7 stars. And most tourists walk right past it.\n\nTÔM HOUSE at 1D Võ Thị Sáu is where fresh seafood meets serious local credibility. Grilled prawns, whole fish, shellfish by the kilo. No fluff, no tourist markup. Just a packed house and plates that explain every single one of those stars.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the grill fire up at TÔM HOUSE. Prawns, shells, whole fish landing on the plate fast. 3,127 people rated this 4.7 stars. Your turn to see why.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocSeafood #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 3,127 reviews. TÔM HOUSE delivers.\n\nFresh seafood, local crowd, zero pretension. Tag your travel buddy.",
+    "video_caption": "Grill smoke, fresh prawns, packed tables. TÔM HOUSE earns every one of its 3,127 reviews.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocTips #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "4.7 stars from 3,127 people. TÔM HOUSE is not a coincidence. #PhuQuoc #PhuQuocFood #VietnamSeafood #TravelTips"
+  },
+  "video_script": {
+    "hook": "3,127 reviews. 4.7 stars.",
+    "scenes": [
+      "Exterior sign: TÔM HOUSE, busy street",
+      "Live seafood tanks, close-up shot",
+      "Flames hit the grill, prawns sizzle",
+      "Full table, locals eating fast",
+      "Plated whole fish, shellfish, sides"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

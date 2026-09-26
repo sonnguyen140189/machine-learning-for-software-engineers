@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this place on Trần Hưng Đạo. Locals are inside eating grilled squid and chilli crab for $15-30 a head.\n\nNhà hàng hải sản Thuận Kiều 2 pulls a 4.7 from 591 reviews and you will not find it on any resort map. Fresh catch, Vietnamese flavours, real prices.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the tanks. Live crab, lobster, clams, you point, they cook. Nhà hàng hải sản Thuận Kiều 2 on Trần Hưng Đạo. $15-30 a head. 4.7 stars. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #VietnamFood #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Nhà hàng hải sản Thuận Kiều 2. 4.7 stars, 591 reviews, $15-30 a head. Save this.",
+    "video_caption": "Point at the tank. Wait 10 minutes. Eat the best seafood of your trip. Thuận Kiều 2, Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurant #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The seafood spot locals keep quiet about. 4.7 stars. Under $30pp. #PhuQuoc #PhuQuocFood #VietnamTravel #SeafoodLovers"
+  },
+  "video_script": {
+    "hook": "Locals don't post this place.",
+    "scenes": [
+      "Exterior shot: busy local crowd, no English signage",
+      "Pan across live seafood tanks: crab, lobster, clams",
+      "Chef grilling squid over open flame",
+      "Table loaded with dishes, chopsticks mid-action",
+      "Close-up: bill arrives, $15-30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
