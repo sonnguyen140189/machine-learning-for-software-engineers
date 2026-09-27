@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "8,871 reviews. 4.8 stars. Meliá Vinpearl Phu Quoc keeps showing up at the top for a reason. Bãi Dài coastline, multiple pools, and a resort scale that still feels manageable. If you're planning a Phu Quoc trip and want zero guesswork on your hotel, this one has the receipts. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the sun hit Bãi Dài from inside Meliá Vinpearl Phu Quoc. Nearly 9,000 people rated this place 4.8 stars. The footage explains why. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #VisitVietnam #TravelTips #PhuQuocResort"
+  },
+  "instagram": {
+    "caption": "8,871 reviews. 4.8 stars. Meliá Vinpearl Phu Quoc on Bãi Dài is not flying under the radar. Save this for your Phu Quoc trip.",
+    "video_caption": "4.8 stars from nearly 9,000 guests. Meliá Vinpearl Phu Quoc. Bãi Dài. This is what the number looks like in real life.",
+    "hashtags": "#PhuQuocHotels #PhuQuocResort #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "8,871 reviews and a 4.8 at Meliá Vinpearl Phu Quoc. Bãi Dài is doing the heavy lifting. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8★ from 8,871 guests.",
+    "scenes": [
+      "Aerial pan across Bãi Dài coastline",
+      "Slow push into resort entrance gates",
+      "Wide shot of main infinity pool at golden hour",
+      "Guest walking beachfront, waves in frame",
+      "Close-up: phone showing 4.8-star rating page"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

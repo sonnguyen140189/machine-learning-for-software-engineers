@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 2,471 reviews. Camia Resort & Spa keeps delivering.\n\nFree breakfast. Infinity pool. Palm-lined grounds on Ong Lang beach, the quieter side of Phu Quoc most tourists never reach.\n\nAiry rooms. A full spa. A restaurant on-site. This is the resort that earns repeat visitors, not just one-time stays.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Infinity pool. Free breakfast. 4.8 stars from 2,471 guests. Camia Resort & Spa on Ong Lang beach is what the rest of Phu Quoc wishes it was. Book before the secret's fully out.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #OngLangBeach #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 2,471 reviews. Camia Resort & Spa just hits different.\n\nFree breakfast, infinity pool, Ong Lang beach. Save this.",
+    "video_caption": "Infinity pool at Camia Resort & Spa. 4.8 stars. Ong Lang beach. Phu Quoc's quieter side wins.",
+    "hashtags": "#PhuQuocResort #OngLangBeach #PhuQuocTips #PhuQuocHotel #VietnamTravel #TravelTips #TravelReels #PhuQuocLife"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 2,471 reviews, free breakfast, infinity pool. Camia Resort & Spa on Ong Lang is that resort. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★ from 2,471 guests.",
+    "scenes": [
+      "Aerial pan over palm-lined resort grounds",
+      "Infinity pool edge, ocean in background",
+      "Breakfast spread laid out on open-air terrace",
+      "Airy resort room, natural light flooding in",
+      "Quiet Ong Lang beach, almost no crowds",
+      "Spa treatment room, soft lighting close-up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

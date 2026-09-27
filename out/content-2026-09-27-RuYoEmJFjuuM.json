@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you skipped the packed south beaches and ended up here instead.\n\nOng Lang beach sits on the quieter west side of Phu Quoc. Fewer crowds. More shade trees. The kind of afternoon where you actually stop checking your phone.\n\n4.1★ across 747 reviews. Not the most famous beach on the island. That's the point.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walking past the resort strip, then suddenly, this. Ong Lang beach on a weekday hits different. Shade, sand, zero crowds. Worth the detour every time.",
+    "first_comment": "#PhuQuoc #PhuQuocBeaches #VisitVietnam #TravelTips #PhuQuocIsland"
+  },
+  "instagram": {
+    "caption": "POV: you took the west coast road and found Ong Lang beach.\n\n4.1★, 747 reviews, and still this quiet. Tag your travel buddy.",
+    "video_caption": "Walked away from the tourist strip. Ended up at Ong Lang beach. No regrets.",
+    "hashtags": "#PhuQuocBeaches #PhuQuocTips #OngLangBeach #VietnamTravel #TravelTips #TravelReels #BeachVibes"
+  },
+  "tiktok": {
+    "caption": "Skipped the busy south. Found Ong Lang beach instead. Still can't explain why it's this quiet. #PhuQuoc #PhuQuocBeaches #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you found the quiet beach",
+    "scenes": [
+      "Drive along shaded west-coast road",
+      "First glimpse of Ong Lang shoreline",
+      "Empty sand with tree canopy overhead",
+      "Waves rolling in, nobody there",
+      "Person sitting, phone face-down"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

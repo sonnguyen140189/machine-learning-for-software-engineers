@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Locals don't post about Bãi Dài. That's the whole point.\n\nWhile the crowds stack up at the southern beaches, this stretch sits quiet. Fewer vendors. More sand. The kind of afternoon that actually slows you down.\n\n4.3★ from 143 reviews and still no tour bus in sight. Get here before that changes.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Empty sand. Calm water. No vendors chasing you. This is Bãi Dài on a regular Tuesday, and it looks like this every time.",
+    "first_comment": "#PhuQuoc #PhuQuocBeaches #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Bãi Dài. So we will.\n\n4.3★, 143 reviews, and still no crowds. Save this before it changes.",
+    "video_caption": "No crowds. No vendors. Just Bãi Dài doing its thing. Tag your travel buddy.",
+    "hashtags": "#PhuQuocBeaches #PhuQuocTips #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "The beach Phu Quoc tourists keep skipping. Don't. #PhuQuoc #PhuQuocBeaches #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals keep this one quiet.",
+    "scenes": [
+      "Wide shot: empty shoreline, no umbrellas",
+      "Feet walking on firm, wet sand",
+      "Pan left: zero vendors, open horizon",
+      "Close-up: clear shallow water over sand",
+      "Pull back: one or two people, massive beach"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
