@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,005 divers rated this 4.9 stars. That's not luck. Vietnam Explorer PADI Dive Center in Phú Quốc is the real deal. PADI certified, small groups, and crystal-clear waters around the island. Whether you're a first-timer or already certified, they run courses and fun dives that people fly back to repeat. Book early. Spots fill fast. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch a first-timer go from the pool to the open ocean in one day. Vietnam Explorer PADI Dive Center has 1,005 reviews at 4.9 stars. The water speaks for itself.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #ScubaDivingPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 1,005 reviews. Vietnam Explorer PADI Dive Center delivers every time. Tag your dive buddy.",
+    "video_caption": "First breath underwater. 1,005 people gave this 4.9 stars. Vietnam Explorer PADI Dive Center, Phú Quốc.",
+    "hashtags": "#PhuQuocDiving #ScubaDivingPhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PADIDiver"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 1,005 divers. Vietnam Explorer PADI Dive Center hits different. #PhuQuocDiving #PhuQuoc #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9★ from 1,005 divers.",
+    "scenes": [
+      "Gear up on the dive boat",
+      "Instructor checks equipment on deck",
+      "First-timer enters water slowly",
+      "Coral reef wide shot underwater",
+      "Diver floats past colorful fish",
+      "Crew high-fives after surface"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

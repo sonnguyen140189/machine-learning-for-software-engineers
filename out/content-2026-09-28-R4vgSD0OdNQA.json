@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: legs wrecked after a full day on the island. You find Luna Spa on Đường Trần Hưng Đạo and walk out a different person.\n\n4.9 stars. 200 reviews. Body massage, foot massage, shampoo, Gội Đầu Dưỡng Sinh. One stop.\n\nPhu Quoc days are long. Your feet know it. This fixes it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Feet on the massage table at Luna Spa. Eyes closed in 30 seconds flat. 4.9 stars for a reason. 37 Đường Trần Hưng Đạo, Khu 1.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "POV: you found the 4.9-star spa on Đường Trần Hưng Đạo. Feet destroyed. Problem solved.\n\nTag your travel buddy.",
+    "video_caption": "Walked in wrecked. Walked out reset. Luna Spa, Phu Quoc. 4.9 stars. Go.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaTreatment"
+  },
+  "tiktok": {
+    "caption": "POV: full beach day, dead legs, found this 4.9-star spot. Luna Spa saved me. #PhuQuoc #PhuQuocSpa #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you found the 4.9★ spa.",
+    "scenes": [
+      "Exterior shot: Luna Spa sign, Đường Trần Hưng Đạo",
+      "Door opens, calm interior revealed",
+      "Foot soak bowl filling with water",
+      "Hands working a foot massage, close-up",
+      "Shampoo station, slow rinse shot",
+      "Guest walks out, relaxed face, thumbs up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

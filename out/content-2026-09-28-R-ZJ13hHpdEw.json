@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 136 reviews. One diving club on Trần Hưng Đạo.\n\nPhil Hai Diving Club is what happens when instructors actually care. Beginners welcome. Open water certs available. The reefs around Phu Quoc are cleaner than most people expect.\n\nBook before your trip fills up. Save this for your Phu Quoc trip.",
+    "video_caption": "Gear up. Drop in. The coral around Phu Quoc looks nothing like the beach above it. Phil Hai Diving Club runs the whole thing, 4.9 stars across 136 reviews. This is how you do Phu Quoc right.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #ScubaDivingVietnam #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.9★ across 136 reviews. Phu Quoc's reefs hit different underwater.\n\nPhil Hai Diving Club. Beginner to certified. Tag your dive buddy.",
+    "video_caption": "First dive or fiftieth. Phil Hai Diving Club runs it all. 4.9 stars. 136 reviews. Go.",
+    "hashtags": "#PhuQuocDiving #PhuQuocTips #ScubaDivingVietnam #VietnamTravel #TravelTips #TravelReels #DivingLife #PhuQuoc #VisitVietnam #UnderwaterVietnam"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 136 reviews. Phu Quoc's reefs are waiting. Phil Hai Diving Club is the move. #PhuQuoc #PhuQuocDiving #ScubaDiving #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9★ 136 reviews. One dive club.",
+    "scenes": [
+      "Diver suiting up on the dock",
+      "Underwater coral reef, wide shot",
+      "Fish darting through clear blue water",
+      "Instructor guides beginner diver down",
+      "Crew smiling, thumbs up at surface"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

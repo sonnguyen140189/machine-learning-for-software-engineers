@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 73 reviews. Zero complaints. JOY spa on Đường Trần Hưng Đạo is pulling a perfect score and most tourists walk straight past it. Massage, waxing, nails, shampoo. One stop. A side-street address that locals keep returning to. Save this for your Phu Quoc trip.",
+    "video_caption": "Hands working out every knot. Nails getting done in the next chair. This is JOY spa on Đường Trần Hưng Đạo, 5.0 stars, 73 reviews, and somehow still under the radar.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 73 reviews. JOY spa is a perfect score on a Phu Quoc side street. Massage, nails, waxing, shampoo. Tag your travel buddy.",
+    "video_caption": "Perfect 5.0. 73 people agree. JOY spa delivers every time, massage, nails, waxing, shampoo, done.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaTreatment #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "5.0 stars, 73 reviews, Phu Quoc side street. JOY spa is the real deal. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "5.0 STARS. 73 REVIEWS.",
+    "scenes": [
+      "Exterior shot: narrow alley entrance",
+      "Hands press into back muscles",
+      "Nail tech shapes and paints fingers",
+      "Close-up: 5-star Google review screen",
+      "Slow pan across clean, calm interior"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
