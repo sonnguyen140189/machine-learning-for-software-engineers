@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJb5faY8qNpzERH4uW3FwoE5s",
+    "ChIJLUwZPQCNpzERZrGj0TvOFHI",
+    "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
+    "ChIJpf9tnKuNpzER0VlJpD19I5s",
+    "ChIJCwiEQQSNpzER_YXtjinHkS0",
+    "ChIJY5fODACNpzER4vgSD0OdNQA",
+    "ChIJ_9CmnfSNpzERsmmH4TLwHy4",
+    "ChIJ3ZgwWLONpzERIM11I5sYgVs",
+    "ChIJjXUjGRmNpzERbpTPg0YpR3g",
+    "ChIJzwU_1waNpzERJApCT6UMoDk",
+    "ChIJd4s74SiNpzERSsU3_x_0EsI",
+    "ChIJ_dcHMgCNpzERUJe8lMtw-Uk",
     "ChIJJdya9E71pzERTu4abOIfjls",
     "ChIJ07kLWwCTpzERMUTHN5TrzFY",
     "ChIJBz09gZgfCDERzAyxFBp-iDM",
@@ -187,21 +199,189 @@
     "ChIJQf0ZjIeNpzERtMMtf7OdVyg",
     "ChIJR1rvyAmNpzERHEdIhXDMsII",
     "ChIJ67MzfTqNpzERl5vEmwYkACQ",
-    "ChIJdx16fAKNpzERSPXFngAUL_g",
-    "ChIJccUCppGNpzERY4DpGOmVA7o",
-    "ChIJU7w5JACLpzERVi8kHyjAe-0",
-    "ChIJG0ygU8-NpzERXtcRcF0Av7k",
-    "ChIJ-RvbtGiNpzER2H1IufKqjGc",
-    "ChIJh6tNOEiNpzERxoGlcVd66u4",
-    "ChIJjR83W0yNpzERUdxmKf-6ozw",
-    "ChIJ-zqn9WCMpzER2Ko070p2nyo",
-    "ChIJD8-KD3uNpzERZVGLp2AdvPI",
-    "ChIJe_vjTACNpzERrvGoA9qvlAU",
-    "ChIJ00OuQxuTpzER-w6UBHVBLJo",
-    "ChIJkX-ZsFiTpzER9TM2r77QY5g",
-    "ChIJKQ4XQIeMpzERd9lt9e6zGUg"
+    "ChIJdx16fAKNpzERSPXFngAUL_g"
   ],
   "history": [
+    {
+      "date": "2026-09-28",
+      "placeId": "ChIJb5faY8qNpzERH4uW3FwoE5s",
+      "placeName": "Vietnam Explorer PADI Dive Center",
+      "results": {
+        "facebookVideo": {
+          "id": "1814658599563168"
+        },
+        "instagramReel": {
+          "id": "18097660868379202"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "placeId": "ChIJLUwZPQCNpzERZrGj0TvOFHI",
+      "placeName": "Layla Mermaid Tours - Premium 4 Island Snorkeling & Beach BBQ Escape",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125761063313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18342800125283383"
+        }
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "placeId": "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
+      "placeName": "Phil Hai Diving Club",
+      "results": {
+        "facebookVideo": {
+          "id": "1832075691486711"
+        },
+        "instagramReel": {
+          "id": "18072521531737595"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "placeId": "ChIJpf9tnKuNpzER0VlJpD19I5s",
+      "placeName": "MiDu Foot & Body Massage Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125759977313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18445537081127220"
+        }
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "placeId": "ChIJCwiEQQSNpzER_YXtjinHkS0",
+      "placeName": "SELINA SPA Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1084091744446979"
+        },
+        "instagramReel": {
+          "id": "18037816919837690"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "placeId": "ChIJY5fODACNpzER4vgSD0OdNQA",
+      "placeName": "LUNA SPA- Body Massage, Foot Massage, Shampoo, Gội Đầu Dưỡng Sinh)(마사지, 발 마사지, 샴푸, 按摩, 洗頭,)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125758705313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18111829187117444"
+        }
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "placeId": "ChIJ_9CmnfSNpzERsmmH4TLwHy4",
+      "placeName": "ZEN Spa & Nail (2)",
+      "results": {
+        "facebookVideo": {
+          "id": "2300863854006196"
+        },
+        "instagramReel": {
+          "id": "18081520868355458"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "placeId": "ChIJ3ZgwWLONpzERIM11I5sYgVs",
+      "placeName": "Massage Phú Quốc - Nhiên Spa | 마사지 | 스파 | Spa Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125757457313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18094707044210999"
+        }
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "placeId": "ChIJjXUjGRmNpzERbpTPg0YpR3g",
+      "placeName": "Miss Tiên Spa 1 - Body & Foot Massage Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1859108638410326"
+        },
+        "instagramReel": {
+          "id": "18027858827854346"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "placeId": "ChIJzwU_1waNpzERJApCT6UMoDk",
+      "placeName": "ZEN Spa & Nail",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125756341313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AuyxFe0QcQnbRJe0ONsR0bj\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "placeId": "ChIJd4s74SiNpzERSsU3_x_0EsI",
+      "placeName": "JOY spa ( Massage _ Waxing _ Nail _Shampoo )",
+      "results": {
+        "facebookVideo": {
+          "id": "1438645431700832"
+        },
+        "instagramReel": {
+          "id": "18115299058957935"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "placeId": "ChIJ_dcHMgCNpzERUJe8lMtw-Uk",
+      "placeName": "ANH SPA NGUYỄN TRÃI",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125755165313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17889022140617976"
+        }
+      }
+    },
     {
       "date": "2026-09-27",
       "placeId": "ChIJJdya9E71pzERTu4abOIfjls",
@@ -3017,186 +3197,6 @@
         },
         "instagram": {
           "id": "18023662844879396"
-        }
-      }
-    },
-    {
-      "date": "2026-09-12",
-      "placeId": "ChIJccUCppGNpzERY4DpGOmVA7o",
-      "placeName": "Phở Hòa",
-      "results": {
-        "facebookVideo": {
-          "id": "28221842124109085"
-        },
-        "instagramReel": {
-          "id": "18102900521348993"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-12",
-      "placeId": "ChIJU7w5JACLpzERVi8kHyjAe-0",
-      "placeName": "Dina Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123479719313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18104963273195630"
-        }
-      }
-    },
-    {
-      "date": "2026-09-11",
-      "placeId": "ChIJG0ygU8-NpzERXtcRcF0Av7k",
-      "placeName": "Ngoc Hien Pearl Farm",
-      "results": {
-        "facebookVideo": {
-          "id": "1059101163586859"
-        },
-        "instagramReel": {
-          "id": "17964090303179662"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-11",
-      "placeId": "ChIJ-RvbtGiNpzER2H1IufKqjGc",
-      "placeName": "Ocean Night Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123300355313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18101734007256682"
-        }
-      }
-    },
-    {
-      "date": "2026-09-11",
-      "placeId": "ChIJh6tNOEiNpzERxoGlcVd66u4",
-      "placeName": "Versailles - Beach Club Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "2153528371874493"
-        },
-        "instagramReel": {
-          "id": "17863104282676536"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-11",
-      "placeId": "ChIJjR83W0yNpzERUdxmKf-6ozw",
-      "placeName": "NONÊ Kitchen & Bar Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123299311313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18099994631628176"
-        }
-      }
-    },
-    {
-      "date": "2026-09-11",
-      "placeId": "ChIJ-zqn9WCMpzER2Ko070p2nyo",
-      "placeName": "The Rabbit Hole Irish Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "2269600933859935"
-        },
-        "instagramReel": {
-          "id": "17911020933522972"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-11",
-      "placeId": "ChIJD8-KD3uNpzERZVGLp2AdvPI",
-      "placeName": "Sip & Heal Beach Bar Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123298411313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18094454420409185"
-        }
-      }
-    },
-    {
-      "date": "2026-09-11",
-      "placeId": "ChIJe_vjTACNpzERrvGoA9qvlAU",
-      "placeName": "Mojito Beach Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "2054362111990716"
-        },
-        "instagramReel": {
-          "id": "18180487990424786"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-11",
-      "placeId": "ChIJ00OuQxuTpzER-w6UBHVBLJo",
-      "placeName": "INK 360 Rooftop Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123297493313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18002947247791770"
-        }
-      }
-    },
-    {
-      "date": "2026-09-11",
-      "placeId": "ChIJkX-ZsFiTpzER9TM2r77QY5g",
-      "placeName": "Fu Bar Regent Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "2542057609631122"
-        },
-        "instagramReel": {
-          "id": "18127629709704718"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-11",
-      "placeId": "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
-      "placeName": "House No. 1",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123296569313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18129229366780673"
         }
       }
     }
