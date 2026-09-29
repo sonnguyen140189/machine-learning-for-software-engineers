@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ51OpPgCVpzER-TzMZtCOk0o",
+    "ChIJdaBXGQCVpzERp96WmmKwHM4",
+    "ChIJaZw-NgCXpzERKfWFL1KzRvE",
+    "ChIJz-FucgSNpzERjZlTcooFwcY",
+    "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
+    "ChIJF9qetGKMpzER2yzXvft5qgg",
+    "ChIJ8zUfc5iXpzERSSpBZR01y2c",
+    "ChIJ2bp76JUfCDER2BAKZAkG66c",
+    "ChIJbUZGsQEfCDERXgX4I2SUCsI",
+    "ChIJb94_UYaMpzERLROoXapH5lI",
+    "ChIJn_OoioaMpzER6LmKuuTHasY",
+    "ChIJdQIPu76LpzERR-arMzuJz5I",
     "ChIJb5faY8qNpzERH4uW3FwoE5s",
     "ChIJLUwZPQCNpzERZrGj0TvOFHI",
     "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
@@ -187,21 +199,189 @@
     "ChIJq6qqEz8eCDER7vOnb6Q6Ol8",
     "ChIJSTGCnBuLpzERx2KCLdVFKIk",
     "ChIJ4YZT316MpzERCRfSDHQgbtk",
-    "ChIJhS_cnzseCDERAMqYy7efZBo",
-    "ChIJ0R95YniTpzER8HfwfZ2aMZI",
-    "ChIJLZPWxLiWpzERwrkgfIa1P8I",
-    "ChIJOawITM2NpzERxPm19sYAUpo",
-    "ChIJOwIiCSmNpzER1ISpdLmLcEg",
-    "ChIJjwOhDFuNpzERHGC-KN7pjUk",
-    "ChIJAclVLQCNpzERZ2vBnJYPlsE",
-    "ChIJS797XwCNpzERpdvvoNGRBK4",
-    "ChIJc9uFHgCNpzERe-wLYlkuV_Q",
-    "ChIJQf0ZjIeNpzERtMMtf7OdVyg",
-    "ChIJR1rvyAmNpzERHEdIhXDMsII",
-    "ChIJ67MzfTqNpzERl5vEmwYkACQ",
-    "ChIJdx16fAKNpzERSPXFngAUL_g"
+    "ChIJhS_cnzseCDERAMqYy7efZBo"
   ],
   "history": [
+    {
+      "date": "2026-09-29",
+      "placeId": "ChIJ51OpPgCVpzER-TzMZtCOk0o",
+      "placeName": "Maison Kayser Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1113428984456849"
+        },
+        "instagramReel": {
+          "id": "17896819941395023"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "placeId": "ChIJdaBXGQCVpzERp96WmmKwHM4",
+      "placeName": "Ryrao Bakery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125991025313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18110707013156110"
+        }
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "placeId": "ChIJaZw-NgCXpzERKfWFL1KzRvE",
+      "placeName": "Peony French Bakery and Icecream",
+      "results": {
+        "facebookVideo": {
+          "id": "1616065283206974"
+        },
+        "instagramReel": {
+          "id": "17907947295472961"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "placeId": "ChIJz-FucgSNpzERjZlTcooFwcY",
+      "placeName": "LAN CHI BAKERY PHÚ QUỐC",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125989993313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18086819450492842"
+        }
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "placeId": "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
+      "placeName": "LOLO BAKERY & CAFE (로로베이커리)",
+      "results": {
+        "facebookVideo": {
+          "id": "1056832353830265"
+        },
+        "instagramReel": {
+          "id": "18413227615094965"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "placeId": "ChIJF9qetGKMpzER2yzXvft5qgg",
+      "placeName": "Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125988691313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17992464882021090"
+        }
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "placeId": "ChIJ8zUfc5iXpzERSSpBZR01y2c",
+      "placeName": "Phu Quoc Prison History Museum",
+      "results": {
+        "facebookVideo": {
+          "id": "1408597844010768"
+        },
+        "instagramReel": {
+          "id": "18110881837878759"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "placeId": "ChIJ2bp76JUfCDER2BAKZAkG66c",
+      "placeName": "Vinpearl Safari Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125987233313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17906742765333528"
+        }
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "placeId": "ChIJbUZGsQEfCDERXgX4I2SUCsI",
+      "placeName": "Grand World Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1074018342178772"
+        },
+        "instagramReel": {
+          "id": "17952436539272335"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "placeId": "ChIJb94_UYaMpzERLROoXapH5lI",
+      "placeName": "Dinh Bà Thủy Long Thánh Mẫu",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125986393313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18122646260283535"
+        }
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "placeId": "ChIJn_OoioaMpzER6LmKuuTHasY",
+      "placeName": "Dinh Cậu",
+      "results": {
+        "facebookVideo": {
+          "id": "2138886580056457"
+        },
+        "instagramReel": {
+          "id": "17875484940573048"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "placeId": "ChIJdQIPu76LpzERR-arMzuJz5I",
+      "placeName": "Eco Tour Thai Duong – Cua Can River Basket Boat Experience",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122125985451313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18105187448527962"
+        }
+      }
+    },
     {
       "date": "2026-09-28",
       "placeId": "ChIJb5faY8qNpzERH4uW3FwoE5s",
@@ -3017,186 +3197,6 @@
         },
         "instagram": {
           "id": "18209481913362573"
-        }
-      }
-    },
-    {
-      "date": "2026-09-13",
-      "placeId": "ChIJ0R95YniTpzER8HfwfZ2aMZI",
-      "placeName": "Regent Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "933790962627032"
-        },
-        "instagramReel": {
-          "id": "18406314430091183"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-13",
-      "placeId": "ChIJLZPWxLiWpzERwrkgfIa1P8I",
-      "placeName": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123639817313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18123826162852603"
-        }
-      }
-    },
-    {
-      "date": "2026-09-12",
-      "placeId": "ChIJOawITM2NpzERxPm19sYAUpo",
-      "placeName": "Phở bò Nam Định",
-      "results": {
-        "facebookVideo": {
-          "id": "1091007546762006"
-        },
-        "instagramReel": {
-          "id": "18114565574002783"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-12",
-      "placeId": "ChIJOwIiCSmNpzER1ISpdLmLcEg",
-      "placeName": "Mì Tê - Artisan Noodles",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123484699313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17928376137402859"
-        }
-      }
-    },
-    {
-      "date": "2026-09-12",
-      "placeId": "ChIJjwOhDFuNpzERHGC-KN7pjUk",
-      "placeName": "Thường Lạc Artisan Dumplings - Phú Quốc (Branch No. 1)",
-      "results": {
-        "facebookVideo": {
-          "id": "1020486321010735"
-        },
-        "instagramReel": {
-          "id": "17916007791444413"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-12",
-      "placeId": "ChIJAclVLQCNpzERZ2vBnJYPlsE",
-      "placeName": "Châu Ký Gia - Cantonese noodles & Rice, Local Food",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123483643313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17900976333579645"
-        }
-      }
-    },
-    {
-      "date": "2026-09-12",
-      "placeId": "ChIJS797XwCNpzERpdvvoNGRBK4",
-      "placeName": "Phở Vương Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1045454518313642"
-        },
-        "instagramReel": {
-          "id": "18074944967465974"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-12",
-      "placeId": "ChIJc9uFHgCNpzERe-wLYlkuV_Q",
-      "placeName": "Phở bát đá -bún bò bát đá Anh Đạt",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123482683313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18127948705839471"
-        }
-      }
-    },
-    {
-      "date": "2026-09-12",
-      "placeId": "ChIJQf0ZjIeNpzERtMMtf7OdVyg",
-      "placeName": "Mì Tê Lý Thường Kiệt - Artisan Noodles",
-      "results": {
-        "facebookVideo": {
-          "id": "1095994846453831"
-        },
-        "instagramReel": {
-          "id": "18098469431568891"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-12",
-      "placeId": "ChIJR1rvyAmNpzERHEdIhXDMsII",
-      "placeName": "Bún Quậy Kiến-Xây | Local PhuQuoc Seafood Noodles",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123481699313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18112550485833016"
-        }
-      }
-    },
-    {
-      "date": "2026-09-12",
-      "placeId": "ChIJ67MzfTqNpzERl5vEmwYkACQ",
-      "placeName": "Phở Lý Quốc Sư",
-      "results": {
-        "facebookVideo": {
-          "id": "1073624555388794"
-        },
-        "instagramReel": {
-          "id": "18243503728313239"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-12",
-      "placeId": "ChIJdx16fAKNpzERSPXFngAUL_g",
-      "placeName": "NINH KITCHEN 2 - VIETNAMESE CUISINE",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123480745313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18023662844879396"
         }
       }
     }
