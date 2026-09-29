@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "6,290 reviews. 4.4 stars. And most tourists still fly past Phu Quoc without a real plan.\n\nWhite-sand beaches. Jungle hiking trails. Resorts at every budget. This island does it all without asking you to choose.\n\nThe people who rate it this high? They stayed longer than planned. Every time.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the water change color from the boat. That's Phú Quốc on a normal Tuesday. 6,290 people left 4.4 stars and still couldn't fully explain it. Come see why.",
+    "first_comment": "#PhuQuoc #PhuQuocIsland #VisitVietnam #TravelTips #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "6,290 reviews. 4.4 stars. Phú Quốc keeps earning it.\n\nWhite sand, jungle trails, and resorts that won't wreck your budget. Tag your travel buddy.",
+    "video_caption": "Turquoise water, hiking trails, beach days. Phú Quốc at 4.4 stars from 6,290 people. Earned.",
+    "hashtags": "#PhuQuoc #PhuQuocIsland #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #IslandLife"
+  },
+  "tiktok": {
+    "caption": "6,290 people rated this island 4.4 stars. Phú Quốc delivers every time. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocIsland"
+  },
+  "video_script": {
+    "hook": "6,290 reviews. 4.4 stars.",
+    "scenes": [
+      "Aerial shot of white-sand coastline",
+      "Waves hitting empty beach at sunrise",
+      "Hiker reaching jungle trail viewpoint",
+      "Resort pool overlooking the sea",
+      "Local market stalls at dusk"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

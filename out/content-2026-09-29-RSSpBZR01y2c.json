@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "9,825 people rated this place. Most tourists on the island have no idea it exists.\n\nPhu Quoc Prison History Museum sits at 350 Đ. Nguyễn Văn Cừ. French colonial prison. Vietnam War POWs. Mannequins showing exactly what happened inside these walls.\n\nNot comfortable. Not supposed to be. But if you want to understand Phu Quoc beyond the beach, this is 2 hours that will stay with you.\n\n4.3 stars. Go. Save this for your Phu Quoc trip.",
+    "video_caption": "Walk through the actual cells. See the barbed wire compounds. The mannequins don't let you look away. Phu Quoc Prison History Museum, 350 Đ. Nguyễn Văn Cừ. 4.3 stars, 9,825 reviews. This part of the island matters.",
+    "first_comment": "#PhuQuoc #PhuQuocThingsToDo #VisitVietnam #VietnamHistory #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "9,825 reviews. Most Phu Quoc tourists never come here.\n\nPhu Quoc Prison History Museum. French colonial cells. Vietnam War POWs. Raw history, zero filter.\n\nShare with someone planning Vietnam.",
+    "video_caption": "Inside the prison walls of Phu Quoc. 4.3 stars, 9,825 reviews. This is the part of the island nobody posts about.",
+    "hashtags": "#PhuQuocThingsToDo #PhuQuocTips #VietnamHistory #VisitVietnam #VietnamTravel #TravelReels #TravelTips #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "9,825 reviews and tourists still walk past this. Phu Quoc Prison History Museum hits different. #PhuQuoc #VietnamHistory #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "9,825 reviews. Still overlooked.",
+    "scenes": [
+      "Exterior gate, rusted bars in frame",
+      "Pan across barbed wire compounds",
+      "Close-up: mannequin in cell, no voiceover",
+      "Walk through narrow corridor, dim light",
+      "Pull back: rows of cells, empty and silent",
+      "Final shot: 4.3★ rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

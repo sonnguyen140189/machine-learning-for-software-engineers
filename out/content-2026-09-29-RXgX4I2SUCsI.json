@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "14,277 reviews. 4.5 stars. Grand World Phu Quoc delivers every single time.\n\nCanals, gondolas, night markets, live entertainment. All on Bãi Dài. One wristband covers most of it.\n\nThis is the kind of place you block out a full evening for, not 45 minutes between dinners.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Gondolas gliding past lit-up canals at night. That's Grand World Phu Quoc. 14,277 people rated it 4.5 stars and the footage tells you exactly why. Block a full night for this one.",
+    "first_comment": "#PhuQuoc #GrandWorldPhuQuoc #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocNightLife #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "14,277 reviews. 4.5 stars. Grand World Phu Quoc earns both.\n\nCanals, gondolas, night markets, live shows. One spot, full night.\n\nTag your travel buddy.",
+    "video_caption": "Canals lit up at night. Gondolas moving. 14,277 people gave this 4.5 stars. Grand World Phu Quoc, Bãi Dài. Don't rush it.",
+    "hashtags": "#PhuQuoc #GrandWorldPhuQuoc #PhuQuocNightLife #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "14,277 reviews. 4.5 stars. Grand World Phu Quoc hits different at night. #PhuQuoc #GrandWorldPhuQuoc #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "14,277 reviews. 4.5 stars.",
+    "scenes": [
+      "Aerial: lit canals after dark",
+      "Gondola glides under bridge",
+      "Night market stalls, crowds moving",
+      "Live stage performance, lights flash",
+      "Close-up: 4.5 star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

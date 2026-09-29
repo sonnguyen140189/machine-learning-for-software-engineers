@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "27,046 reviews. 4.6 stars. Vinpearl Safari Phú Quốc keeps delivering.\n\nThis isn't a caged zoo. It's an open conservation park where rare native species and exotic animals roam across Bãi Dài. You ride through on a tram. Animals are that close.\n\nOne of the biggest wildlife parks in Southeast Asia, and it sits right here on the island. Save this for your Phu Quoc trip.",
+    "video_caption": "Tram rolls in. Giraffes on the left. Rhinos 10 meters away. Vinpearl Safari Phú Quốc hits different when the animals just walk past you. 4.6 stars across 27,046 reviews. Worth every minute.",
+    "first_comment": "#PhuQuoc #PhuQuocSafari #VinpearlSafari #VisitVietnam #TravelTips #PhuQuocAttractions #VietnamWildlife"
+  },
+  "instagram": {
+    "caption": "27,046 reviews. 4.6 stars. Vinpearl Safari Phú Quốc is no regular zoo.\n\nOpen park. Tram ride. Animals roaming free. Tag your travel buddy.",
+    "video_caption": "Tram stops. Giraffe walks past. This is Vinpearl Safari Phú Quốc. 27K reviews don't lie.",
+    "hashtags": "#PhuQuocSafari #PhuQuocAttractions #VinpearlSafari #PhuQuocTips #VietnamTravel #TravelReels #TravelTips #VietnamWildlife"
+  },
+  "tiktok": {
+    "caption": "27,046 reviews at 4.6 stars. Vinpearl Safari Phú Quốc hits different. #PhuQuoc #VinpearlSafari #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "27,046 reviews. 4.6 stars.",
+    "scenes": [
+      "Tram enters open safari gate",
+      "Giraffes walking alongside tram",
+      "Rhinos grazing at close range",
+      "Rare native species in open habitat",
+      "Families watching from tram seats",
+      "Wide shot of Bãi Dài parkland"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

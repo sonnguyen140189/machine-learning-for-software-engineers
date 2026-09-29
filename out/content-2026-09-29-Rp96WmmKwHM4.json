@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 98 reviews. At a bakery in Phú Quốc.\n\nRyrao Bakery at 89 Positano An Thới is quietly racking up one of the best ratings on the island. Fresh bakes, $15-30 a head, and a crowd that clearly keeps coming back.\n\nNot every great spot in Phu Quoc has a beach view. Some just have really good bread.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the counter at Ryrao Bakery. Fresh items, loyal regulars, 4.8 stars earned the hard way. Budget $15-30 and leave full. An Thới delivers.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 98 reviews. At a bakery in Phú Quốc.\n\nRyrao Bakery is quietly one of the island's top-rated spots. $15-30 a head.\n\nTag your travel buddy.",
+    "video_caption": "98 people rated this bakery 4.8 stars. Ryrao Bakery, Phú Quốc. Walk in hungry.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocBakery #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars at a bakery in Phú Quốc. Ryrao Bakery is not the one to skip. #PhuQuoc #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8 stars. 98 reviews. A bakery.",
+    "scenes": [
+      "Exterior shot of Ryrao Bakery sign",
+      "Close up: fresh baked goods on counter",
+      "Hands picking up item, steam visible",
+      "Customer smiling, mid-bite",
+      "Review screen: 4.8 stars highlighted"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

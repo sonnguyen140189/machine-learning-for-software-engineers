@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this bakery every day. LAN CHI BAKERY PHÚ QUỐC on Lý Thường Kiệt is where locals grab breakfast before the island wakes up. Under $10 a person. 4.4 stars from people who actually live here. No resort markup, no tourist menu. Just good bread, real prices, real Phu Quoc. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the locals queue here before 8am. LAN CHI BAKERY PHÚ QUỐC, under $10, rated by people who eat here weekly. This is the breakfast spot your hotel didn't mention.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocTips #VisitVietnam #VietnamTravel #TravelTips #VietnamFood"
+  },
+  "instagram": {
+    "caption": "Locals don't post about LAN CHI BAKERY PHÚ QUỐC. Under $10. 4.4 stars. Real breakfast, zero tourist markup. Tag your travel buddy.",
+    "video_caption": "Queuing with locals at 8am. LAN CHI BAKERY PHÚ QUỐC. Under $10 for all of this.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocBakery #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Your hotel won't mention this one. LAN CHI BAKERY PHÚ QUỐC, under $10, locals only. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior shot, early morning light",
+      "Locals queuing at the counter",
+      "Close-up of fresh baked goods",
+      "Price tag under $10 visible",
+      "Customer biting into pastry"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

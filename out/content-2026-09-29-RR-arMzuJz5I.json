@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "109 reviews. 4.3 stars. And most tourists still haven't heard of this one.\n\nEco Tour Thái Dương puts you in a basket boat on the Cửa Cạn River, spinning through mangroves the way locals have for decades. No big tour bus crowd. No resort price tag.\n\nThis is the Phu Quoc that actually sticks with you.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Spinning through mangroves in a basket boat on the Cửa Cạn River. Eco Tour Thái Dương has 109 reviews and tourists keep sleeping on it. Don't.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocIsland #TravelTips"
+  },
+  "instagram": {
+    "caption": "109 reviews. 4.3 stars. Tourists still walk past Eco Tour Thái Dương.\n\nBasket boat. Cửa Cạn River. Mangroves. Go.\n\nTag your travel buddy.",
+    "video_caption": "Basket boat spinning through the Cửa Cạn River mangroves. 109 reviews say don't skip Eco Tour Thái Dương.",
+    "hashtags": "#PhuQuocTips #PhuQuocActivities #PhuQuocIsland #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "109 reviews and tourists still skip this. Basket boat on the Cửa Cạn River hits different. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "109 reviews. Still underrated.",
+    "scenes": [
+      "Aerial: mangrove river winding through green",
+      "Close-up: basket boat spinning on water",
+      "Guide paddles through tight mangrove tunnel",
+      "Traveler laughing mid-spin in boat",
+      "Wide shot: Cửa Cạn River at golden hour"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
