@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists scroll right past this one. Free Beach Resort Phu Quoc sits on Hẻm 126A Đường Trần Hưng Đạo, away from the big resort strip. Simple rooms, beachside eatery, motorcycle rentals on-site. 4.0★ across 490 reviews. Grab a bike, ride the coast, eat with your feet in the sand. No lobby chandelier. No inflated bill. Just Phu Quoc the way it used to feel. Save this for your Phu Quoc trip.",
+    "video_caption": "Beachside eatery. Bikes ready to rent. Zero resort pretension. Free Beach Resort Phu Quoc keeps showing up in local recommendations for a reason. 4.0★, 490 reviews, and a vibe the big hotels can't manufacture. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about this resort. Free Beach Resort Phu Quoc: bungalows, beachside food, bikes to rent. 4.0★ (490 reviews). Save this.",
+    "video_caption": "Rent a bike. Eat by the beach. Pay nothing like a resort price. Free Beach Resort Phu Quoc delivers.",
+    "hashtags": "#PhuQuocHotels #PhuQuocBeaches #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #BeachLife"
+  },
+  "tiktok": {
+    "caption": "The resort locals actually stay at. No hype, just beach vibes. #PhuQuoc #PhuQuocHotels #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Aerial pan: quiet beachfront property",
+      "Door opens on simple bungalow room",
+      "Plates landing at open-air beachside eatery",
+      "Hands grab motorcycle keys at rental desk",
+      "Rider pulls onto coastal road, sun low"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

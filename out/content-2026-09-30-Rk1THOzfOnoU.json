@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This beach fixes the noise. Bãi 3 Cây Dừa sits right on Long Beach, but somehow the crowds thin out here. Three coconut trees. Soft sand. The kind of quiet that makes you put your phone down. 4.2 stars from 87 people who found it and didn't want to leave. No big resort blocking the view. Just the Gulf of Thailand in front of you. Save this for your Phu Quoc trip.",
+    "video_caption": "Sand underfoot, three coconut trees overhead, Gulf of Thailand ahead. Bãi 3 Cây Dừa is the quiet version of Long Beach nobody talks about. 4.2 stars. Go find it.",
+    "first_comment": "#PhuQuoc #PhuQuocBeaches #LongBeachPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamBeach"
+  },
+  "instagram": {
+    "caption": "This beach makes you put the phone down. Bãi 3 Cây Dừa, Long Beach. Quieter than it should be. Save this.",
+    "video_caption": "Three coconut trees. Zero crowds. Bãi 3 Cây Dừa hits different on Long Beach.",
+    "hashtags": "#PhuQuocBeaches #PhuQuocTips #LongBeachPhuQuoc #VietnamTravel #TravelTips #TravelReels #BeachVibes"
+  },
+  "tiktok": {
+    "caption": "The quiet part of Long Beach nobody talks about. Bãi 3 Cây Dừa. Go. #PhuQuoc #PhuQuocBeaches #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that doesn't feel touristy.",
+    "scenes": [
+      "Wide shot: three palms against blue sky",
+      "Feet walking on uncrowded sand",
+      "Slow pan across Gulf of Thailand",
+      "Close-up: waves hitting empty shoreline",
+      "Visitor sitting, phone face-down in sand"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

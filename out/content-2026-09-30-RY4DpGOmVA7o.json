@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 918 reviews. Under $10 a bowl.\n\nPhở Hòa on Đường Trần Hưng Đạo is doing something right. Rich broth, proper portions, the kind of pho that makes you order a second bowl before finishing the first.\n\nNo frills. No tourist markup. Just consistently great Vietnamese comfort food at a price that feels illegal.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the broth get ladled. That color. That steam. Phở Hòa has 918 reviews at 4.8 stars and costs less than $10. Your next Phu Quoc breakfast is sorted.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips #VietnamFood #PhúQuốc"
+  },
+  "instagram": {
+    "caption": "918 reviews. 4.8 stars. Under $10.\n\nPhở Hòa is the bowl Phu Quoc keeps going back to. Tag your travel buddy.",
+    "video_caption": "Steam rising. Broth hitting the bowl. Phở Hòa: 4.8 stars, under $10, 918 people agree.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamFood #PhoVietnam"
+  },
+  "tiktok": {
+    "caption": "918 reviews. 4.8 stars. Under $10. Phở Hòa is the real deal. #PhuQuoc #PhuQuocFood #VietnamFood #TravelTips #PhoVietnam"
+  },
+  "video_script": {
+    "hook": "918 reviews. Under $10.",
+    "scenes": [
+      "Close-up: broth ladled into bowl",
+      "Steam rising in morning light",
+      "Herbs and beef arranged on table",
+      "First spoonful lifted to camera",
+      "Storefront sign: Phở Hòa"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
