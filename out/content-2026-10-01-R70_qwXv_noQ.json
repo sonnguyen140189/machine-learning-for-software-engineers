@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you duck into Hẻm 111 Đ. Trần Phú and find Đảo Hải Sản waiting at the end.\n\n4.7 stars. 1,385 reviews. A seafood spot that keeps getting found by the right people.\n\nFresh catch, local prices, zero resort markup. This is where Phu Quoc actually eats seafood.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Seafood hitting the grill at Đảo Hải Sản. 1,385 people rated this 4.7 stars and I totally get why. Down Hẻm 111 Đ. Trần Phú. Don't walk past it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #SeafoodPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked down Hẻm 111 and found Đảo Hải Sản. 4.7★ across 1,385 reviews.\n\nFresh seafood, local crowd, no resort markup. Tag your travel buddy.",
+    "video_caption": "4.7 stars. 1,385 reviews. Đảo Hải Sản is down a side alley and completely worth it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #SeafoodPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Took the alley. Found Đảo Hải Sản. 4.7★ and 1,385 people agree. #PhuQuoc #PhuQuocFood #SeafoodLovers #Vietnam"
+  },
+  "video_script": {
+    "hook": "POV: you took the alley.",
+    "scenes": [
+      "Walking into Hẻm 111 Đ. Trần Phú",
+      "Sign for Đảo Hải Sản comes into frame",
+      "Live seafood tanks, close-up shot",
+      "Grill flames, prawns hitting the heat",
+      "Full table spread, local crowd visible"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

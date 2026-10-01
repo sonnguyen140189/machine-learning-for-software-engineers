@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you take a wrong turn in Phu Quoc and end up at Hộ Quốc Temple. 4.7 stars. 1,436 reviews. And somehow it still feels like a discovery. Incense smoke. Tiered pagodas climbing the hillside. Total silence between the chants. Most tourists drive straight past on the way to the beach. Don't be them. Save this for your Phu Quoc trip.",
+    "video_caption": "Climbing the steps of Hộ Quốc Temple while everyone else heads to the beach. 4.7 stars from 1,436 people and it still feels off the radar. This one earns the detour.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #VietnamTravel #TravelTips #PhuQuocTips #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn. Found Hộ Quốc Temple. 4.7★, 1,436 reviews, zero crowds. Tag your travel buddy.",
+    "video_caption": "Pagodas, incense, and no tour groups in sight. Hộ Quốc Temple hits different.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #BuddhismTravel"
+  },
+  "tiktok": {
+    "caption": "Wrong turn. Best detour. Hộ Quốc Temple 4.7★ #PhuQuoc #PhuQuocTips #VietnamTravel #TempleVibes"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Best find.",
+    "scenes": [
+      "Drone pulls back over tiered pagoda rooftops",
+      "Feet climbing stone steps, incense smoke rising",
+      "Close-up: intricate temple gate carvings",
+      "Wide shot: empty courtyard, mountains behind",
+      "Slow pan across golden Buddha statues"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

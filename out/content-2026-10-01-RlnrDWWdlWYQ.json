@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 3,610 reviews. At a restaurant inside Grand World Phú Quốc.\n\nThat's not luck. That's consistency.\n\nMai Hương Restaurant sits at TH1-09 inside GrandWorld and keeps pulling crowds for a reason. Skip the guesswork on where to eat tonight. The reviews already did the work.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "3,610 people rated this place 4.8 stars. Watch what they keep coming back for. Mai Hương Restaurant inside Grand World Phú Quốc. One of the highest-rated spots on the strip. Don't walk past it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #GrandWorldPhuQuoc #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "4.8★ from 3,610 reviews. Mai Hương Restaurant, Grand World Phú Quốc. This one earns it.\n\nTag your travel buddy.",
+    "video_caption": "3,610 reviews. 4.8 stars. Mai Hương Restaurant inside Grand World Phú Quốc. Go hungry.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #GrandWorldPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.8★ and 3,610 reviews at Mai Hương in Grand World Phú Quốc. The numbers don't lie. #PhuQuoc #PhuQuocFood #VietnamFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★. 3,610 reviews.",
+    "scenes": [
+      "Pan across Grand World Phú Quốc entrance at dusk",
+      "Walk toward TH1-09, Mai Hương sign in frame",
+      "Close-up of packed tables, food arriving",
+      "Dishes landing, steam rising, chopsticks moving",
+      "Cut to Google review count on screen: 3,610"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

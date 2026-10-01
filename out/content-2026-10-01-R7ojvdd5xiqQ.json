@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this floating restaurant. Locals pull up by boat, order live seafood straight from the cage below, and eat over open water. That's Bè Nắng on Đ. Trần Phú. 4.6 stars, 157 reviews, and almost no foreigners at the tables. $15-30 a head for the real deal. Save this for your Phu Quoc trip.",
+    "video_caption": "Live crabs pulled from the water cage. Grilled on the spot. Eaten on a floating platform above the sea. Bè Nắng is the seafood spot locals aren't telling you about. $15-30 a person. Find it on Đ. Trần Phú.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Bè Nắng. Floating platform. Live seafood. $15-30 a head. Tag your travel buddy.",
+    "video_caption": "Floating restaurant. Live cages below. Seafood on the water. Bè Nắng hits different.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocTips #PhuQuocRestaurant #VietnamTravel #TravelTips #TravelReels #FoodReels"
+  },
+  "tiktok": {
+    "caption": "The floating seafood spot tourists keep missing in Phu Quoc. Bè Nắng. $15-30. Worth it. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Aerial shot: floating platform on open water",
+      "Close-up: live crabs moving in submerged cage",
+      "Chef lifts catch straight from the cage",
+      "Seafood hits the grill, flames flare up",
+      "Wide shot: guests eating over the sea"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stop at a random local store on Đường Nguyễn Trãi and it has a perfect 5.0 from 673 reviews.\n\nHuong Nguyen Phu Quoc Local Food Store is where locals actually shop. Real Phu Quoc ingredients, snacks, and pantry staples. No tourist markup. No middleman resort gift shop.\n\nIf you're self-catering or just want to eat like a local, this is your first stop.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walking into Huong Nguyen on Đường Nguyễn Trãi. 5.0 stars. 673 reviews. Locals only. Watch what's on these shelves.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #LocalPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you find the local food store with a perfect 5.0 from 673 reviews.\n\nHuong Nguyen on Đường Nguyễn Trãi. No tourist markup. Just real Phu Quoc goods.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "5.0 stars. 673 reviews. A local food store tourists keep walking past on Đường Nguyễn Trãi.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #LocalPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: stumbled onto Phu Quoc's most-rated local food store. 5.0 stars. No tourists inside. #PhuQuoc #PhuQuocFood #LocalFinds"
+  },
+  "video_script": {
+    "hook": "POV: 5.0 stars. Zero tourists.",
+    "scenes": [
+      "Exterior shot: storefront on Đường Nguyễn Trãi",
+      "Pan shelves packed with local goods",
+      "Close-up: Phu Quoc fish sauce bottles",
+      "Locals browsing, no tourist crowd",
+      "Hand picks up local snack, price tag visible"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

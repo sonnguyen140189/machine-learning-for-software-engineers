@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "532 reviews. Every single one gives 5 stars. That's not luck, that's Into The Blue - Phu Quoc Snorkeling Boat Trip delivering every time. Clear water, coral reefs, and a crew that actually knows where the fish are. Book early. This one fills up fast. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the coral come alive under the boat. Into The Blue runs a perfect 5.0 across 532 reviews and the footage proves why. This is what Phu Quoc's waters actually look like below the surface.",
+    "first_comment": "#PhuQuoc #PhuQuocSnorkeling #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "532 reviews. 5.0 stars. Zero exceptions. Into The Blue sets the bar for snorkeling in Phu Quoc. Tag your travel buddy.",
+    "video_caption": "Fins on. Mask down. Into The Blue has a 5.0 from 532 divers who saw exactly this.",
+    "hashtags": "#PhuQuocSnorkeling #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocOcean"
+  },
+  "tiktok": {
+    "caption": "5.0 stars from 532 people. Into The Blue in Phu Quoc is the real deal. #PhuQuoc #PhuQuocSnorkeling #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "5.0★ from 532 reviews.",
+    "scenes": [
+      "Boat cutting through turquoise water",
+      "Snorkeler drops below the surface",
+      "Tight shot: coral and fish school",
+      "GoPro spins 360 underwater reef",
+      "Crew pulls snorkeler back aboard smiling"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

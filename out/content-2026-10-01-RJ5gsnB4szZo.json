@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this one. Nhà hàng hải sản Xưa và Nay sits on Đường Trần Hưng Đạo and the locals keep coming back for a reason. Fresh seafood, no resort markup, 4.5 stars from 192 reviews that are almost all Vietnamese diners. That ratio tells you everything. Find it at 66A and order whatever came off the boat that morning. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the tanks. Live crab, live prawns, pick your catch and they cook it right there. Nhà hàng hải sản Xưa và Nay, 66A Đường Trần Hưng Đạo. Locals eat here daily. Now you know.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Nhà hàng hải sản Xưa và Nay. 4.5 stars, 192 reviews, mostly Vietnamese diners. That ratio wins. Tag your travel buddy.",
+    "video_caption": "Pick your catch. They cook it. Nhà hàng hải sản Xưa và Nay. This is how locals eat seafood in Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Locals eat here. Tourists keep walking. Nhà hàng hải sản Xưa và Nay, Phu Quoc. 4.5 stars. Go. #PhuQuoc #PhuQuocFood #VietnamTravel #SeafoodLovers"
+  },
+  "video_script": {
+    "hook": "Locals don't want you seeing this.",
+    "scenes": [
+      "Exterior shot: 66A Đường Trần Hưng Đạo sign",
+      "Close-up: live tanks, crabs moving",
+      "Hand pointing at catch, staff nodding",
+      "Wok flames, seafood hitting hot pan",
+      "Full table of dishes, local family beside it",
+      "Fork into grilled prawn, steam rising"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
