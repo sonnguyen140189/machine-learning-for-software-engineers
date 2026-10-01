@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJCzimRUaRpzER1jlvynsq6ko",
+    "ChIJ31mASN6NpzERb74nK1CMQBs",
+    "ChIJ6YYsdoeMpzER4sWM4NiICeI",
+    "ChIJCVbqKQCVpzERyNmZl5mrNcU",
+    "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
+    "ChIJQZoz472XpzERETLpPPs-P8Y",
+    "ChIJYbElPPaLpzERTX725HPPGuM",
+    "ChIJybqyDQCRpzER7ojvdd5xiqQ",
+    "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
+    "ChIJtePCImGLpzER70_qwXv_noQ",
+    "ChIJL0VA6XSNpzERkXZ9BjZxZlM",
+    "ChIJVX1ODrIfCDERlnrDWWdlWYQ",
     "ChIJccUCppGNpzERY4DpGOmVA7o",
     "ChIJPeTYBQCNpzERKIhrcy6hcJM",
     "ChIJ90jXsf2TpzERk1THOzfOnoU",
@@ -187,21 +199,189 @@
     "ChIJZWGJPeONpzERce--tYenego",
     "ChIJhwi1TFqTpzERiZQmfO7PxUY",
     "ChIJDxCXXTSXpzERXI7z0X_H_Ow",
-    "ChIJ2SBPKCONpzER36aEkpOGpyk",
-    "ChIJEYK7sD6LpzERgAa_oy1mPEg",
-    "ChIJgw37s0-XpzERx2gWzxP5Qfg",
-    "ChIJHaad39SNpzERxyH_xEG63Kg",
-    "ChIJO-aIpaKNpzERkCLeSERC9yE",
-    "ChIJQz9pjguLpzERt20ZmhsgK9Y",
-    "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
-    "ChIJoXjKmgSNpzERianh5FZP7WE",
-    "ChIJB4_swjiNpzER0vsGaMBGTxg",
-    "ChIJg25lxluMpzERrx21QiH3gaI",
-    "ChIJs78WzrCNpzERsMQhq5rVxJU",
-    "ChIJO2yx-4eMpzER80b94-QiU6c",
-    "ChIJGeOzddMfCDERWqFBHDihXo0"
+    "ChIJ2SBPKCONpzER36aEkpOGpyk"
   ],
   "history": [
+    {
+      "date": "2026-10-01",
+      "placeId": "ChIJCzimRUaRpzER1jlvynsq6ko",
+      "placeName": "Hộ Quốc Temple",
+      "results": {
+        "facebookVideo": {
+          "id": "1774064423813680"
+        },
+        "instagramReel": {
+          "id": "18107716766248154"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "placeId": "ChIJ31mASN6NpzERb74nK1CMQBs",
+      "placeName": "Công Viên Bạch Đằng (Dinh Cậu )",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122126279445313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18092133284673697"
+        }
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "placeId": "ChIJ6YYsdoeMpzER4sWM4NiICeI",
+      "placeName": "Huong Nguyen Phu Quoc Local Food Store",
+      "results": {
+        "facebookVideo": {
+          "id": "1406971307612795"
+        },
+        "instagramReel": {
+          "id": "18078758405383378"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "placeId": "ChIJCVbqKQCVpzERyNmZl5mrNcU",
+      "placeName": "Chợ đêm Vui Fest",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122126278203313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18077936939399788"
+        }
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "placeId": "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
+      "placeName": "Into The Blue - Phu Quoc Snorkeling Boat Trip",
+      "results": {
+        "facebookVideo": {
+          "id": "951867767989189"
+        },
+        "instagramReel": {
+          "id": "17968305107966253"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "placeId": "ChIJQZoz472XpzERETLpPPs-P8Y",
+      "placeName": "HẢI SẢN DƯƠNG ĐÔNG - QUÁN Di VIEW BIỂN CẦU CẢNG",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122126277231313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18010943690968020"
+        }
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "placeId": "ChIJYbElPPaLpzERTX725HPPGuM",
+      "placeName": "Ốc Nhi (옥니 사이공)-해산물 BBQ & 샤브샤브 및 각종 안주",
+      "results": {
+        "facebookVideo": {
+          "id": "1679088080557984"
+        },
+        "instagramReel": {
+          "id": "18347421319267497"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "placeId": "ChIJybqyDQCRpzER7ojvdd5xiqQ",
+      "placeName": "Bè Nắng - Quán Ăn Hải Sản Tươi Sống Trên Bè Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122126276253313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18075617072547031"
+        }
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "placeId": "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
+      "placeName": "Nhà hàng hải sản Xưa và Nay",
+      "results": {
+        "facebookVideo": {
+          "id": "1000547229725627"
+        },
+        "instagramReel": {
+          "id": "18080366636360809"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "placeId": "ChIJtePCImGLpzER70_qwXv_noQ",
+      "placeName": "Đảo Hải Sản | Seafood Restaurant · 해산물 · Рестораны Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122126275131313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18129079168798157"
+        }
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "placeId": "ChIJL0VA6XSNpzERkXZ9BjZxZlM",
+      "placeName": "TUNA Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "1098987752713534"
+        },
+        "instagramReel": {
+          "id": "18128444365891368"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "placeId": "ChIJVX1ODrIfCDERlnrDWWdlWYQ",
+      "placeName": "Mai Hương Restaurant - Grand World Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122126273895313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18435201241195534"
+        }
+      }
+    },
     {
       "date": "2026-09-30",
       "placeId": "ChIJccUCppGNpzERY4DpGOmVA7o",
@@ -3017,186 +3197,6 @@
         },
         "instagram": {
           "id": "18125503162865245"
-        }
-      }
-    },
-    {
-      "date": "2026-09-15",
-      "placeId": "ChIJEYK7sD6LpzERgAa_oy1mPEg",
-      "placeName": "Basket Boat Tour & Kayak Tour (Dynasty Phu Quoc)",
-      "results": {
-        "facebookVideo": {
-          "id": "925338283534876"
-        },
-        "instagramReel": {
-          "id": "18444934438122862"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-15",
-      "placeId": "ChIJgw37s0-XpzERx2gWzxP5Qfg",
-      "placeName": "VEGAYACHTS - Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123917959313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17905167399332873"
-        }
-      }
-    },
-    {
-      "date": "2026-09-14",
-      "placeId": "ChIJHaad39SNpzERxyH_xEG63Kg",
-      "placeName": "Pacific Boat",
-      "results": {
-        "facebookVideo": {
-          "id": "1501519088669811"
-        },
-        "instagramReel": {
-          "id": "17889567828680554"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-14",
-      "placeId": "ChIJO-aIpaKNpzERkCLeSERC9yE",
-      "placeName": "Vietnam Active - PADI 5 Star Diving Center Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123761503313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18121084639900220"
-        }
-      }
-    },
-    {
-      "date": "2026-09-14",
-      "placeId": "ChIJQz9pjguLpzERt20ZmhsgK9Y",
-      "placeName": "Flipper diving club",
-      "results": {
-        "facebookVideo": {
-          "id": "1605844344422465"
-        },
-        "instagramReel": {
-          "id": "18119437567930443"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-14",
-      "placeId": "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
-      "placeName": "Phu Quoc Local Guide - Snorkeling and Scuba Diving",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123759997313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17887269639682507"
-        }
-      }
-    },
-    {
-      "date": "2026-09-14",
-      "placeId": "ChIJoXjKmgSNpzERianh5FZP7WE",
-      "placeName": "Kimie's Tours - Snorkeling, diving, & hiking",
-      "results": {
-        "facebookVideo": {
-          "id": "1418598736875590"
-        },
-        "instagramReel": {
-          "id": "18133181908655428"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-14",
-      "placeId": "ChIJB4_swjiNpzER0vsGaMBGTxg",
-      "placeName": "Onbird Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123758893313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18163777936485847"
-        }
-      }
-    },
-    {
-      "date": "2026-09-14",
-      "placeId": "ChIJg25lxluMpzERrx21QiH3gaI",
-      "placeName": "Blue Monkey Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "884063104639921"
-        },
-        "instagramReel": {
-          "id": "17999095076808578"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-14",
-      "placeId": "ChIJs78WzrCNpzERsMQhq5rVxJU",
-      "placeName": "Hoppy Daze Craft Beer Bar Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123757669313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18461819272184758"
-        }
-      }
-    },
-    {
-      "date": "2026-09-14",
-      "placeId": "ChIJO2yx-4eMpzER80b94-QiU6c",
-      "placeName": "HAPPY BEAR Live Music Bar & Bistro",
-      "results": {
-        "facebookVideo": {
-          "id": "1068655416015589"
-        },
-        "instagramReel": {
-          "id": "18468286618113662"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-14",
-      "placeId": "ChIJGeOzddMfCDERWqFBHDihXo0",
-      "placeName": "Wyndham Grand Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122123756757313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18469265389113071"
         }
       }
     }
