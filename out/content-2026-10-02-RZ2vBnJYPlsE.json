@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "295 reviews. A perfect 5.0 star rating. Under $10 a head.\n\nChâu Ký Gia on Đường Trần Hưng Đạo is the Cantonese noodle spot that locals keep returning to, and the numbers prove it. Handmade noodles, rice dishes, and the kind of no-fuss bistro energy that actually fills up fast.\n\nSkip the resort restaurant tonight. Save this for your Phu Quoc trip.",
+    "video_caption": "Steam rising off a bowl of Cantonese noodles. Plastic stools. A packed local crowd. Châu Ký Gia has a perfect 5.0 from 295 reviewers, and every bite tells you why. Under $10 for all of it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #LocalFoodVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamEats"
+  },
+  "instagram": {
+    "caption": "295 reviews. Still a perfect 5.0. Châu Ký Gia hits different.\n\nCantonese noodles, rice dishes, under $10. Tag your travel buddy.",
+    "video_caption": "Hot noodles. Packed tables. 5.0 stars from 295 locals. Châu Ký Gia earns every one.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #LocalFoodVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "295 reviews. Perfect 5.0. Under $10. Châu Ký Gia is not a fluke. #PhuQuoc #PhuQuocFood #VietnamTravel #LocalFood"
+  },
+  "video_script": {
+    "hook": "295 reviews. Perfect 5.0.",
+    "scenes": [
+      "Close-up: steaming noodle bowl served fast",
+      "Wide shot: packed tables, local crowd",
+      "Hands pulling noodles from broth",
+      "Rice dish plated, chopsticks lifted",
+      "Sign: Châu Ký Gia, Đường Trần Hưng Đạo",
+      "Receipt reveal: under $10 total"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

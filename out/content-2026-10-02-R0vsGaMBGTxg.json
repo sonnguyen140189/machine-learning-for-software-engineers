@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,520 reviews. Every single one a 5-star. That's not luck, that's Onbird Phu Quoc.\n\nThis tour agency at Cửa Lấp runs one of the tightest operations on the island. Guides who actually show up on time. Boats that don't feel like a gamble. Real local knowledge, not the tourist script.\n\nIf you're booking island tours, snorkeling, or day trips, start here. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the boats leave from Cửa Lấp at sunrise. This is Onbird Phu Quoc. 1,520 five-star reviews and zero bad days on the water. Book before your dates fill up.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocIsland #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "1,520 reviews. All 5 stars. Onbird Phu Quoc doesn't miss.\n\nBest tour operator at Cửa Lấp. Save this.",
+    "video_caption": "Boats out of Cửa Lấp, 1,520 five-star reviews, zero complaints. This is Onbird Phu Quoc.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #CuaLap #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland #IslandTours"
+  },
+  "tiktok": {
+    "caption": "1,520 reviews. All 5 stars. Onbird Phu Quoc is the move for island tours. No debate. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "1,520 reviews. All 5 stars.",
+    "scenes": [
+      "Boats docked at Cửa Lấp at dawn",
+      "Crew prepping gear on deck",
+      "Guests boarding, guides briefing",
+      "Drone pull-back over open water",
+      "Close-up: 5.0 star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

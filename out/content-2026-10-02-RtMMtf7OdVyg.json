@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered down Lý Thường Kiệt and found a noodle shop locals have been rating 4.5 stars for years.\n\nMì Tê Lý Thường Kiệt is the kind of place that doesn't need a sign-spinner. The bowl does the work. Artisan noodles, under $10, 166 reviews deep.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Chopsticks hit the bowl at Mì Tê Lý Thường Kiệt. 4.5 stars. Under $10. 58B Lý Thường Kiệt, Phú Quốc. Walk past this once and you'll turn back around.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocEats #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Walked past. Came back. Ordered twice. Mì Tê Lý Thường Kiệt hits different at 4.5 stars for under $10.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "POV: one wrong turn, one perfect bowl. Mì Tê Lý Thường Kiệt, 58B Lý Thường Kiệt, Phú Quốc. Under $10.",
+    "hashtags": "#PhuQuocFood #PhuQuocEats #PhuQuocTips #VietnamFood #VietnamTravel #TravelTips #TravelReels"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn on Lý Thường Kiệt. Found Mì Tê Lý Thường Kiệt. 4.5 stars. Under $10. Don't skip this. #PhuQuoc #PhuQuocFood #VietnamFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Walked past this 3 times.",
+    "scenes": [
+      "Street-level shot: 58B Lý Thường Kiệt shopfront",
+      "Hands pulling noodles from a steaming pot",
+      "Bowl lands on table, broth catches the light",
+      "Close-up: chopsticks lift a dense noodle cluster",
+      "Price tag or menu visible, under $10 clear"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

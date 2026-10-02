@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stopped scrolling tour agencies and found the locals' pick for snorkeling in Phu Quoc. Phu Quoc Local Guide - Snorkeling and Scuba Diving on 94 Nguyễn Trung Trực runs a 4.9★ rating across 66 reviews. That's not luck. Coral reefs, clear water, guides who actually know the island. Skip the resort package. Book this instead. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the water change color as you drop below the surface off Phu Quoc. 4.9 stars. 66 reviews. One address: 94 Nguyễn Trung Trực. The locals' dive operator tourists keep walking past.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #SnorkelingPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: you picked the right dive guide. 4.9★, 66 reviews, 94 Nguyễn Trung Trực. Save this for your Phu Quoc trip.",
+    "video_caption": "Mask on. Drop in. 4.9 stars at 94 Nguyễn Trung Trực. The dive spot Phu Quoc locals actually use.",
+    "hashtags": "#PhuQuocDiving #SnorkelingPhuQuoc #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #ScubaDiving"
+  },
+  "tiktok": {
+    "caption": "4.9★ dive guide in Phu Quoc that tourists keep missing. 94 Nguyễn Trung Trực. Do not book the resort package. #PhuQuoc #PhuQuocDiving #SnorkelingPhuQuoc #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: locals' dive pick. 4.9★",
+    "scenes": [
+      "Arrive at 94 Nguyễn Trung Trực, gear laid out",
+      "Guide briefs small group on deck",
+      "Underwater: coral reef comes into frame",
+      "Fish swarm the lens",
+      "Surfacing, big smile, mask pushed up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
