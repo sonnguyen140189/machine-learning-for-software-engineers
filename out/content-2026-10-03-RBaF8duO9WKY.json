@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "714 reviews. 4.8 stars. For a bánh mì shop.\n\nBánh Mì & You in Cửa Lấp is not a tourist trap. It's the real deal. Fresh bread, loaded fillings, and a bill that won't wreck your budget.\n\nIf you're skipping it because it looks small, that's your loss. The locals figured this one out long ago.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the bread come out. Watch the fillings stack up. Watch your expectations get completely destroyed. Bánh Mì & You, Cửa Lấp. 4.8 stars across 714 reviews. Go find out why.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BanhMi #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+  },
+  "instagram": {
+    "caption": "714 reviews. 4.8 stars. For a bánh mì shop in Phu Quoc.\n\nBánh Mì & You is doing something right. Go find out what.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Bread toasting. Fillings stacking. 714 people rated this 4.8. Bánh Mì & You, Cửa Lấp. Don't walk past it.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #BanhMi #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VietnamFood #FoodTravelAsia"
+  },
+  "tiktok": {
+    "caption": "4.8 stars. 714 reviews. For a bánh mì spot in Phu Quoc. Bánh Mì & You hits different. #PhuQuoc #PhuQuocFood #BanhMi #VietnamFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "714 reviews. 4.8 stars. Bánh mì.",
+    "scenes": [
+      "Close-up: bread sliding into toaster",
+      "Hands stacking fillings fast",
+      "Steam rising from fresh-cut loaf",
+      "Full bánh mì held up to camera",
+      "Storefront sign: Bánh Mì & You"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

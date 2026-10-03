@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc that doesn't feel touristy. Tiên Sơn Đỉnh sits above the noise, and the moment you arrive, something shifts. 4.8 stars across 427 reviews. That's not luck. That's a place doing something right. Put this on your itinerary before everyone else does. Save this for your Phu Quoc trip.",
+    "video_caption": "Camera panning slow across Tiên Sơn Đỉnh as the light drops. 4.8 stars. 427 people said come here. Watch why.",
+    "first_comment": "#PhuQuoc #PhuQuocAttractions #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. Tiên Sơn Đỉnh, 4.8 stars, 427 reviews. Save this.",
+    "video_caption": "Above the crowds. Tiên Sơn Đỉnh hits different. 4.8★ for a reason.",
+    "hashtags": "#PhuQuocTips #PhuQuocAttractions #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "This place fixes burnout. Tiên Sơn Đỉnh, Phu Quoc. 4.8★ 427 reviews. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Drone rises above tree line slowly",
+      "First reveal of Tiên Sơn Đỉnh structure",
+      "Wide shot, no crowds in frame",
+      "Close on 4.8★ text overlay, 427 reviews",
+      "Slow pan across the surrounding landscape"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
