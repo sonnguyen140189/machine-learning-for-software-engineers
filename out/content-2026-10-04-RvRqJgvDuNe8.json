@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk past this every day. A 1982 shophouse on Đường Trần Hưng Đạo hides one of Phu Quoc's best speakeasy bars. Origin 1982 pulls a 4.9★ from 661 reviews and barely anyone talks about it online. Cocktails run $15-30 per person. The kind of bar locals actually go back to. Save this for your Phu Quoc trip.",
+    "video_caption": "Step through the old shophouse door. Dim lights, serious cocktails, zero tourist noise. Origin 1982 on Đường Trần Hưng Đạo is earning a 4.9★ the quiet way. Now you know.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Origin 1982. 4.9★, 661 reviews, speakeasy inside a 1982 shophouse. $15-30/person. Tag your travel buddy.",
+    "video_caption": "Hidden door. 1982 shophouse. Best cocktail bar nobody tells you about in Phu Quoc.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CocktailBar"
+  },
+  "tiktok": {
+    "caption": "A 1982 shophouse hiding a 4.9★ speakeasy in Phu Quoc. Walk past it or walk in. #PhuQuoc #PhuQuocNightlife #TravelTips #Speakeasy"
+  },
+  "video_script": {
+    "hook": "Locals keep this one quiet.",
+    "scenes": [
+      "Exterior: faded 1982 shophouse facade",
+      "Hand pushes open a heavy wooden door",
+      "Low lighting reveals full cocktail bar",
+      "Bartender shaking a cocktail, close-up",
+      "Google review screen: 4.9★, 661 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

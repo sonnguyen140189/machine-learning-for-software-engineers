@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout.\n\nVersailles - Beach Club Phú Quốc sits right on Đường Trần Hưng Đạo, and the second you sit down, something shifts. Feet in the sand, drink in hand, ocean in front of you. 4.6 stars across 432 reviews. Budget: $15-30 a head. This is the kind of afternoon you came to Phu Quoc for.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the sun drop behind the water at Versailles - Beach Club Phú Quốc. $15-30 a head for a front-row seat. 432 people gave it 4.6 stars. Book the table, not the resort bar.",
+    "first_comment": "#PhuQuoc #PhuQuocBeachClub #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Versailles - Beach Club Phú Quốc. 4.6★, 432 reviews, $15-30 a head.\n\nTag your travel buddy.",
+    "video_caption": "Sand. Drink. Ocean. Versailles - Beach Club Phú Quốc does the reset you came here for.",
+    "hashtags": "#PhuQuocBeaches #PhuQuocFood #PhuQuocTips #BeachClubPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The reset you needed. Versailles - Beach Club Phú Quốc, 4.6★, ~$20/head. #PhuQuoc #PhuQuocBeachClub #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Aerial pull-back: beach club from above",
+      "Boots hit sand, slow motion",
+      "Bartender pours golden drink at bar",
+      "Wide shot: table, ocean, last sun rays",
+      "Menu close-up, price visible"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

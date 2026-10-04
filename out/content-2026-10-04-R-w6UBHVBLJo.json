@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists are drinking at the beach bars. Locals in the know go up. INK 360 Rooftop Bar sits above the InterContinental Phu Quoc Long Beach Resort and delivers a 360-degree skyline and coastline view that the ground-level spots simply can't touch. 4.6 stars across 746 reviews. That rating holds for a reason. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the sun drop behind the South China Sea from the highest bar in the area. INK 360 Rooftop Bar at the InterContinental Phu Quoc Long Beach Resort. The view does the talking. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #PhuQuocNightlife #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists stay at beach level. Smart ones go to INK 360 Rooftop Bar. 4.6★, 746 reviews. Save this.",
+    "video_caption": "360-degree coastline views. One rooftop bar. INK 360 at the InterContinental Phu Quoc Long Beach Resort.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Everyone's at the beach bars. Go up instead. INK 360 Rooftop Bar hits different. #PhuQuoc #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists never come up here.",
+    "scenes": [
+      "Elevator doors open to rooftop level",
+      "Camera pans 360° across coastline",
+      "Close shot of cocktail glass, sea in background",
+      "Sun hitting the horizon, golden light floods frame",
+      "Crowd-free bar stools, early evening calm"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $30 a person. At a 4.8-star bar in Phu Quoc.\n\nHouse No. 1 at 58 Đường Bạch Đằng is pulling 817 reviews and holding that rating. That doesn't happen by accident.\n\nCold drinks, solid atmosphere, and a bill that won't hurt. This is the move for your first night on the island.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "817 people rated this bar 4.8 stars. Watch what $15-30 gets you at House No. 1 on Đường Bạch Đằng. Phu Quoc nights just got cheaper.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "$30 max. 4.8 stars. 817 reviews. House No. 1 on Đường Bạch Đằng is your Phu Quoc night sorted.\n\nTag your travel buddy.",
+    "video_caption": "4.8 stars and under $30 a head. House No. 1 hits different after dark. Phu Quoc nights, sorted.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BarsinVietnam"
+  },
+  "tiktok": {
+    "caption": "$30 max at a 4.8-star bar in Phu Quoc. House No. 1 is the move. #PhuQuoc #PhuQuocBars #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "$30 max. 4.8 stars. Phu Quoc.",
+    "scenes": [
+      "Exterior sign: House No. 1, night glow",
+      "Bartender pours drinks, close-up",
+      "Crowd shot, packed but relaxed",
+      "Drinks on the table, receipt visible",
+      "Wide bar atmosphere, warm lighting"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

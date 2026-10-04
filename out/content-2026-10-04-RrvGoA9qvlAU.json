@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes a bad beach day. Mojito Beach Bar on Đường Trần Hưng Đạo hits different when the sun drops. Cold drinks, sand underfoot, zero pretension. Budget sits at $15-30 per person, which for a beach bar with this vibe is genuinely fair. 4.4 stars across 86 reviews backs that up. Save this for your Phu Quoc trip.",
+    "video_caption": "Sand. Mojito in hand. Sun going down over Phu Quoc. Mojito Beach Bar earns its 4.4 stars the moment you sit down. $15-30 a head and no regrets.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. Mojito Beach Bar, 4.4 stars, cold drinks, sand underfoot. $15-30/head. Tag your travel buddy.",
+    "video_caption": "Sun dropping. Mojito in hand. 4.4 stars for a reason. Mojito Beach Bar, Phu Quoc.",
+    "hashtags": "#PhuQuocBars #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Bad beach day? This fixes it. Mojito Beach Bar, Phu Quoc. $15-30, zero regrets. #PhuQuoc #PhuQuocBars #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This place fixes a bad beach day.",
+    "scenes": [
+      "Wide shot: beach bar at golden hour",
+      "Bartender pouring mojito, ice clinking",
+      "Feet in sand, drink in frame",
+      "Pan across crowd, relaxed not rowdy",
+      "Close-up: 4.4 stars on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
