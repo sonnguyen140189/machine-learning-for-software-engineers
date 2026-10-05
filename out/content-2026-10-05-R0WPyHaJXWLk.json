@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,767 reviews. Perfect 5.0 stars. At a spa on Đường Trần Hưng Đạo most tourists never find.\n\nGreen Paradise Spa delivers full-body and foot massage that locals keep coming back for. No resort markup. No tourist-trap pricing. Just results that earn a flawless rating across nearly two thousand real reviews.\n\nThis is the one you save before you land. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what a perfect 5.0 looks like in person. Green Paradise Spa on Đường Trần Hưng Đạo. Full-body massage, foot massage, and a review count that speaks for itself. Nearly 1,800 people rated this flawless. Book before it fills.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "1,767 reviews. 5.0 stars. Green Paradise Spa is not an accident.\n\nFull-body and foot massage on Đường Trần Hưng Đạo. Save this.",
+    "video_caption": "5.0 stars from 1,767 people. Green Paradise Spa delivers every single time. Add it to your Phu Quoc list now.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "1,767 reviews and a perfect 5.0. Green Paradise Spa is the real deal 💆 #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "5.0★ from 1,767 reviews.",
+    "scenes": [
+      "Exterior shot: Green Paradise Spa sign",
+      "Therapist preps foot massage station",
+      "Hands working full-body massage",
+      "Close-up: 5-star review screen",
+      "Guest exhales, eyes closed, relaxed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

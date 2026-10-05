@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk the main strip. Locals end up at Sailing Club Phu Quoc. 4.5 stars across 3,957 reviews and it still flies under the radar. Beach bar energy without the chaos. Order something cold, find a spot near the water, and let the evening do its thing. Save this for your Phu Quoc trip.",
+    "video_caption": "Cold drink in hand, sand underfoot, 3,957 people already know about this spot. Sailing Club Phu Quoc is where the night actually starts. Watch the crowd shift from tourists to locals as the sun drops.",
+    "first_comment": "#PhuQuoc #PhuQuocBar #PhuQuocNightlife #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Sailing Club Phu Quoc. 4.5★, 3,957 reviews. Now you know. Tag your travel buddy.",
+    "video_caption": "Beach bar. Cold drinks. 3,957 reviews say don't skip this. Sailing Club Phu Quoc delivers.",
+    "hashtags": "#PhuQuocBar #PhuQuocNightlife #PhuQuocTips #PhuQuocBeaches #VietnamTravel #TravelTips #TravelReels #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "The bar locals actually go to in Phu Quoc. 4.5★ and 3,957 reviews don't lie. #PhuQuoc #PhuQuocBar #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post this bar.",
+    "scenes": [
+      "Slow pan along beachfront bar setup",
+      "Bartender pours cold drink, condensation drips",
+      "Crowd shot: mix of locals and travelers",
+      "Sun dropping low over the water behind bar",
+      "Close-up: drinks clinking, smiles, no rush"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

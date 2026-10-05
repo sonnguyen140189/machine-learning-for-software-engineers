@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 617 reviews. On a cocktail bar in Phu Quoc.\n\nHighball Bar on Đường Trần Hưng Đạo is not playing around. $15-30 a person gets you serious craft cocktails and a crowd that actually knows what it's ordering. No gimmicks. No tourist-trap pricing. Just a near-perfect score that keeps climbing.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the bartender build that cocktail from scratch. 617 people gave this place 4.9 stars, and one sip in, you'll get why. Highball Bar, Đường Trần Hưng Đạo. Add it to the list.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 617 reviews. One cocktail bar in Phu Quoc.\n\nHighball Bar hits different at $15-30 a head. Tag your travel buddy.",
+    "video_caption": "Craft cocktails. 4.9 stars. Under $30 a person. Highball Bar earns every review.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBar #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CocktailBar"
+  },
+  "tiktok": {
+    "caption": "4.9 stars on a cocktail bar in Phu Quoc. Under $30/person. Highball Bar is the move. #PhuQuoc #PhuQuocNightlife #TravelTips #CocktailBar"
+  },
+  "video_script": {
+    "hook": "4.9 STARS. PHUQUOC BAR.",
+    "scenes": [
+      "Exterior shot: neon sign, busy entrance",
+      "Bartender pouring layered cocktail",
+      "Close-up: glass hits the counter",
+      "Pan crowd: mixed locals and travelers",
+      "Screen text: 617 reviews, 4.9 stars"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
