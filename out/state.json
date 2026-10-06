@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ-_0E4DSNpzERdh1-L4xrPi4",
+    "ChIJl8UfBQGNpzERWCMLl5afNZA",
+    "ChIJF33R8xCLpzERFtTAVV7G-14",
+    "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
+    "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
+    "ChIJ04EPezKNpzERUCu48VTEXnw",
+    "ChIJeaUPhUuNpzERsYgZr-tG9Hw",
+    "ChIJgwI3D_8fCDERzTBdqPmUa9M",
+    "ChIJbYvoSyqNpzER-Damlo13tio",
+    "ChIJG-HZ4ZaRpzERhjtO1_1kObg",
+    "ChIJH_PX_b6VpzERKTtTpGV5YXk",
+    "ChIJvxdKNoKWpzERAWSyG5rABsg",
     "ChIJE8hQn1ONpzER1K6-murM3g0",
     "ChIJFQgAJs2NpzER0WPyHaJXWLk",
     "ChIJPXLuTs2NpzERES05dJcH7Jc",
@@ -187,21 +199,189 @@
     "ChIJTdwiKNmVpzER1knXm_zr2zA",
     "ChIJTUB5SACXpzERG7kqZJmKqTg",
     "ChIJNZKZHU2TpzER5UaMI7CsQ-E",
-    "ChIJuQ3uBpGTpzERjdU6zZxzCmY",
-    "ChIJrXaM1tmNpzERj7I5uw4cwro",
-    "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
-    "ChIJKTX4YwCLpzERhiLmMHLUihA",
-    "ChIJYQY76P2NpzERlul1IUfk3N8",
-    "ChIJAWovfRONpzERI7y_gpk_6D0",
-    "ChIJ44y8R_uNpzERI0lt0GkPrNM",
-    "ChIJo-0fmz6NpzERIEhHbz8e4T8",
-    "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
-    "ChIJZaB-ewCNpzERPBRid0eSO98",
-    "ChIJI5WlJe2TpzERePcxr40c2U4",
-    "ChIJa_lVMmeNpzERHonO5t2IKRg",
-    "ChIJw58lTZeNpzERBCwsZlG8gwA"
+    "ChIJuQ3uBpGTpzERjdU6zZxzCmY"
   ],
   "history": [
+    {
+      "date": "2026-10-06",
+      "placeId": "ChIJ-_0E4DSNpzERdh1-L4xrPi4",
+      "placeName": "Mộc Cuisine Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "2317936242295032"
+        },
+        "instagramReel": {
+          "id": "18150876397499117"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "placeId": "ChIJl8UfBQGNpzERWCMLl5afNZA",
+      "placeName": "Bombay Indian Restaurant Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122127045057313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18111002393161893"
+        }
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "placeId": "ChIJF33R8xCLpzERFtTAVV7G-14",
+      "placeName": "Camia Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "2043013679686879"
+        },
+        "instagramReel": {
+          "id": "17910292983502539"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "placeId": "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
+      "placeName": "NINH KITCHEN - VIETNAMESE CUISINE",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122127043995313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17969238351180316"
+        }
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "placeId": "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
+      "placeName": "FUSION Treats",
+      "results": {
+        "facebookVideo": {
+          "id": "930492236485527"
+        },
+        "instagramReel": {
+          "id": "18108340229524553"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "placeId": "ChIJ04EPezKNpzERUCu48VTEXnw",
+      "placeName": "The Waterfront Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122127043107313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18097732187378085"
+        }
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "placeId": "ChIJeaUPhUuNpzERsYgZr-tG9Hw",
+      "placeName": "Chợ đêm Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "4412383909012624"
+        },
+        "instagramReel": {
+          "id": "17908039839483541"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "placeId": "ChIJgwI3D_8fCDERzTBdqPmUa9M",
+      "placeName": "VinWonders Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122127042039313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"Ao3QWbbzH50gc_6RjFVTxjr\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "placeId": "ChIJbYvoSyqNpzER-Damlo13tio",
+      "placeName": "PHU QUOC CENTRE",
+      "results": {
+        "facebookVideo": {
+          "id": "1287960586754358"
+        },
+        "instagramReel": {
+          "id": "18075788765553371"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "placeId": "ChIJG-HZ4ZaRpzERhjtO1_1kObg",
+      "placeName": "Kiss Bridge",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122127040899313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18005796852004642"
+        }
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "placeId": "ChIJH_PX_b6VpzERKTtTpGV5YXk",
+      "placeName": "Sunset Town",
+      "results": {
+        "facebookVideo": {
+          "id": "2148303032744391"
+        },
+        "instagramReel": {
+          "id": "17913090948281780"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "placeId": "ChIJvxdKNoKWpzERAWSyG5rABsg",
+      "placeName": "Sunworld Hòn Thơm - Hon Thom Cable Car Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122127039711313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18198767452380074"
+        }
+      }
+    },
     {
       "date": "2026-10-05",
       "placeId": "ChIJE8hQn1ONpzER1K6-murM3g0",
@@ -3019,184 +3199,6 @@
         },
         "instagram": {
           "id": "17908906629534806"
-        }
-      }
-    },
-    {
-      "date": "2026-09-20",
-      "placeId": "ChIJrXaM1tmNpzERj7I5uw4cwro",
-      "placeName": "할로망고 푸꾸옥. HALO MANGO Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122124602733313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18093802964545431"
-        }
-      }
-    },
-    {
-      "date": "2026-09-20",
-      "placeId": "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
-      "placeName": "Aloha Beach Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122124601923313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18229481653324981"
-        }
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "placeId": "ChIJKTX4YwCLpzERhiLmMHLUihA",
-      "placeName": "SIM Coffee - A Story Of The Island",
-      "results": {
-        "facebookVideo": {
-          "id": "2478920065925655"
-        },
-        "instagramReel": {
-          "id": "18116034611075707"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "placeId": "ChIJYQY76P2NpzERlul1IUfk3N8",
-      "placeName": "Bapaki Tea, Bakery",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122124460977313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17959643556208294"
-        }
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "placeId": "ChIJAWovfRONpzERI7y_gpk_6D0",
-      "placeName": "Devis Bakery Phu Quoc 데비스베이커리",
-      "results": {
-        "facebookVideo": {
-          "id": "1990965095623984"
-        },
-        "instagramReel": {
-          "id": "18078801281374763"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "placeId": "ChIJ44y8R_uNpzERI0lt0GkPrNM",
-      "placeName": "Tiệm Bánh Kem Phú Quốc - PP Bakery",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122124459897313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18100723397041158"
-        }
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "placeId": "ChIJo-0fmz6NpzERIEhHbz8e4T8",
-      "placeName": "TUNG Cake and Tea",
-      "results": {
-        "facebookVideo": {
-          "id": "928964933619688"
-        },
-        "instagramReel": {
-          "id": "18008730668968896"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "placeId": "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
-      "placeName": "The Cake Corner",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122124459003313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18560501389078027"
-        }
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "placeId": "ChIJZaB-ewCNpzERPBRid0eSO98",
-      "placeName": "Nị Bakery",
-      "results": {
-        "facebookVideo": {
-          "id": "1003095392800714"
-        },
-        "instagramReel": {
-          "id": "17917755894246253"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "placeId": "ChIJI5WlJe2TpzERePcxr40c2U4",
-      "placeName": "O BON PAIN-FRENCH BAKERY",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122124457851313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17966525493191669"
-        }
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "placeId": "ChIJa_lVMmeNpzERHonO5t2IKRg",
-      "placeName": "Sugar Fusion Bakery",
-      "results": {
-        "facebookVideo": {
-          "id": "4221240151341369"
-        },
-        "instagramReel": {
-          "id": "17908028919538691"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-19",
-      "placeId": "ChIJw58lTZeNpzERBCwsZlG8gwA",
-      "placeName": "Sunset Sanato Beach Club",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122124456753313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17910532407495823"
         }
       }
     }
