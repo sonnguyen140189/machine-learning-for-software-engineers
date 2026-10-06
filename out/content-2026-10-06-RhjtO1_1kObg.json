@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.6 stars. 2,330 reviews. One bridge in Phu Quoc people can't stop talking about.\n\nKiss Bridge is one of those spots that looks better in person than in photos. Locals come for the view. Couples come for obvious reasons. Everyone leaves with a shot worth posting.\n\nIf you're in Phu Quoc and skip this, you'll see it on someone else's feed and regret it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "2,330 people rated this bridge 4.6 stars. Watch what they keep coming back for. Kiss Bridge, Phu Quoc. Add it to the list.",
+    "first_comment": "#PhuQuoc #PhuQuocAttraction #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.6 stars. 2,330 reviews. One bridge.\n\nKiss Bridge delivers every time. Tag your travel buddy.",
+    "video_caption": "2,330 ratings don't lie. Kiss Bridge, Phu Quoc. Go see it yourself.",
+    "hashtags": "#PhuQuoc #PhuQuocTips #PhuQuocAttraction #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "4.6 stars. 2,330 reviews. Kiss Bridge in Phu Quoc lives up to it. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "4.6★ 2,330 reviews. One bridge.",
+    "scenes": [
+      "Approach the bridge from ground level",
+      "Pan across the full bridge structure",
+      "Couples walking across mid-bridge",
+      "Wide shot of surrounding water views",
+      "Close-up of bridge detail or railing"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

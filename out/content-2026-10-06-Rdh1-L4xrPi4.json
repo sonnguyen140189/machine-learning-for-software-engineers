@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout.\n\nMộc Cuisine Phú Quốc on Đường Trần Hưng Đạo is the kind of bistro that slows you down. No rush. No tourist noise. Just good food, calm energy, and a bill that won't hurt ($15-30/person).\n\n4.7 stars across 246 reviews. That's consistency, not luck.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Sat down at Mộc Cuisine Phú Quốc and forgot to check my phone for an hour. 4.7 stars. $15-30/person. This is the Phu Quoc vibe you came for.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Mộc Cuisine Phú Quốc. 4.7★, 246 reviews, $15-30/person. Save this.",
+    "video_caption": "Calm food. Calm energy. Mộc Cuisine Phú Quốc just reset my whole trip. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #PhuQuoc #VietnamTravel #TravelTips #TravelReels #FoodieTravel"
+  },
+  "tiktok": {
+    "caption": "The bistro that slows Phu Quoc down. 4.7★, under $30/person. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Push open bistro door, warm light spills out",
+      "Close-up: plates landing on a quiet table",
+      "Slow pan across calm, uncrowded dining room",
+      "Fork lifts a bite, steam rises",
+      "Receipt shot: under $30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

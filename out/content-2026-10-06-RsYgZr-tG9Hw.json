@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk past Chợ đêm Phú Quốc every night heading to the resort buffet. Big mistake. This is where Phu Quoc actually eats after dark. Street food, souvenirs, grilled seafood, all in one block. 6,605 reviews and still somehow not on every itinerary. Go hungry. Go late. Save this for your Phu Quoc trip.",
+    "video_caption": "Smoke rising, grills firing, locals piling in. Chợ đêm Phú Quốc after dark is the real dinner plan. Skip the resort menu tonight.",
+    "first_comment": "#PhuQuoc #PhuQuocNightMarket #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocTips #VietnamStreetFood"
+  },
+  "instagram": {
+    "caption": "Tourists walk past Chợ đêm Phú Quốc every night. This is where Phu Quoc actually eats. 6,605 reviews. Go hungry.",
+    "video_caption": "Grills firing, locals crowding in. Chợ đêm Phú Quốc is the real dinner move. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocNightMarket #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamStreetFood #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The night market tourists keep skipping. Don't. Chợ đêm Phú Quốc hits different after dark. #PhuQuoc #PhuQuocFood #VietnamStreetFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Aerial pan: market lights at night",
+      "Vendor grilling fresh seafood",
+      "Crowd of locals at food stalls",
+      "Close-up: skewers pulled off grill",
+      "Hands exchanging food, steam rising"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

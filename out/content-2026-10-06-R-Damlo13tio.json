@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you ducked into Phu Quoc Centre on Đường Trần Hưng Đạo and suddenly had zero idea what to buy first. Local produce, souvenirs, street snacks. All under one roof. 4.3 stars across 174 reviews, so you know it delivers. Skip the resort gift shop. Come here instead. Save this for your Phu Quoc trip.",
+    "video_caption": "Walked straight into Phu Quoc Centre and the stalls just keep going. Watch what locals are actually picking up. This is your market run sorted.",
+    "first_comment": "#PhuQuoc #PhuQuocMarket #PhuQuocTips #VisitVietnam #TravelTips #VietnamTravel #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "POV: stumbled into Phu Quoc Centre and forgot about the beach for an hour. 4.3★, 174 reviews. Tag your travel buddy.",
+    "video_caption": "One market hall. Endless local finds. Phu Quoc Centre on Đường Trần Hưng Đạo hits different.",
+    "hashtags": "#PhuQuocMarket #PhuQuocTips #PhuQuocFood #VisitVietnam #VietnamTravel #TravelReels #TravelTips #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Walked into Phu Quoc Centre and lost 2 hours. Worth it. #PhuQuoc #PhuQuocMarket #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found the real market",
+    "scenes": [
+      "Pan across busy market entrance on Đường Trần Hưng Đạo",
+      "Close-up: local produce stacked in vendor stalls",
+      "Hands picking up souvenirs, examining price tags",
+      "Vendor scoops fresh snacks into a paper bag",
+      "Wide shot: crowds of locals shopping mid-morning"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

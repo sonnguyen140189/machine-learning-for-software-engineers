@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "18,521 reviews. 4.8 stars. VinWonders Phú Quốc keeps delivering.\n\nMost tourists stick to the beach. They skip this entirely. Big mistake.\n\nRides, waterslides, live shows, and a cable car crossing to get there. A full day gone before you realize it.\n\nKhu Bãi Dài is the setting. The crowds are lighter than you'd expect for a park this rated.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Waterslides, roller coasters, live shows, all at 4.8 stars across 18,521 reviews. VinWonders Phú Quốc hits different when you actually show up.",
+    "first_comment": "#PhuQuoc #VinWondersPhuQuoc #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 18,521 reviews. VinWonders Phú Quốc earns every one.\n\nFull day. Zero regrets. Tag your travel buddy.",
+    "video_caption": "Rides, shows, cable car crossing. VinWonders Phú Quốc at 4.8 stars is the day trip most tourists skip.",
+    "hashtags": "#PhuQuocAttractions #VinWondersPhuQuoc #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "18,521 people rated this 4.8 stars and tourists still skip it. VinWonders Phú Quốc go. #PhuQuoc #VinWonders #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★ across 18,521 reviews.",
+    "scenes": [
+      "Cable car gliding over blue water",
+      "Waterslide launch, full speed drop",
+      "Roller coaster cresting the top",
+      "Live show crowd, lights blazing",
+      "Wide park shot, Bãi Dài coastline behind"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
