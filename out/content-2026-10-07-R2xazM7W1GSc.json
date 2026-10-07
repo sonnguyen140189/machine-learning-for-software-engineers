@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Thom Beach Bar sits right on the water, cold drink in hand, zero resort crowds. 4.5 stars across 374 reviews and it still feels like you found it yourself. The kind of Phu Quoc that doesn't feel like a package tour. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the water from your barstool at Thom Beach Bar. 4.5 stars, 374 reviews, and somehow still this calm. Phu Quoc does not miss.",
+    "first_comment": "#PhuQuoc #PhuQuocBeaches #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTravel #BeachBarsVietnam"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Thom Beach Bar. 4.5★, 374 reviews, zero crowds. Tag your travel buddy.",
+    "video_caption": "Barstool. Ocean. Cold drink. Thom Beach Bar delivers every time. 4.5★ and worth it.",
+    "hashtags": "#PhuQuocBeaches #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #BeachBar"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc beach bar energy hits different here. Thom Beach Bar, 4.5★, look it up. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that doesn't feel touristy.",
+    "scenes": [
+      "Wide shot: bar stools facing open water",
+      "Close-up: cold drink condensation, ocean blur behind",
+      "Pan across uncrowded beach shoreline",
+      "Guest leaning back, visibly relaxed",
+      "Google rating card: 4.5★ 374 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

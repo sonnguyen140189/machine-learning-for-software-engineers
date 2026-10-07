@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you follow a tiny alley off Đường Trần Hưng Đạo and land at LEMONGRASS RESTAURANT.\n\n4.6 stars. 1,263 reviews. Zero tourist-trail fanfare.\n\nThis is a family-run spot in Cửa Lấp that the review numbers say you shouldn't skip. Small setting. Real food. The kind of place you stumble on and immediately text your group.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Alley entrance. Blink and you miss it. LEMONGRASS RESTAURANT, Cửa Lấp. 4.6 stars from 1,263 people eating here before you figured it out. Don't walk past this one.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: wrong alley, right call. LEMONGRASS RESTAURANT, Cửa Lấp. 4.6★ across 1,263 reviews.\n\nTag your travel buddy.",
+    "video_caption": "Tiny alley. Big reputation. LEMONGRASS RESTAURANT hits 4.6★ from 1,263 people. Go find it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #CuaLap #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "Walked down a random alley in Phu Quoc. Found this. 4.6★ 1,263 reviews. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: best alley in Phu Quoc",
+    "scenes": [
+      "Street-level shot: Đường Trần Hưng Đạo sign",
+      "Camera turns into narrow alley entrance",
+      "Walk-through reveals restaurant facade",
+      "Close-up: dishes arriving at a table",
+      "Pull-back: packed local family dining room",
+      "Screen text: 4.6★ from 1,263 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

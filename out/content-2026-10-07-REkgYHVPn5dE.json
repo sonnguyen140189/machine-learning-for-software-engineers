@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 266 reviews. Under $10 per person.\n\nHi Coffee on 11 Đường Trần Hưng Đạo is the kind of café that earns that rating quietly. No gimmicks. Just good coffee, a relaxed vibe, and prices that make you order a second round without thinking twice.\n\nIf your Phu Quoc mornings need a proper reset, start here.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the cup land on the table. Watch the price. Then watch yourself order another one. Hi Coffee, Phú Quốc. Under $10. 4.8 stars. This is your morning sorted.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeePhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamCoffee"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 266 reviews. Under $10. Hi Coffee delivers every time.\n\nTag your travel buddy.",
+    "video_caption": "First sip at Hi Coffee, Phú Quốc. 4.8 stars for a reason. Under $10 a round.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #CoffeePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars & under $10 at Hi Coffee Phú Quốc. Your morning just got sorted. #PhuQuoc #PhuQuocCafe #VietnamTravel #CoffeeTok"
+  },
+  "video_script": {
+    "hook": "4.8 stars. Under $10. Phu Quoc.",
+    "scenes": [
+      "Exterior shot: café frontage on Trần Hưng Đạo",
+      "Slow pour: Vietnamese coffee into glass",
+      "Close-up: condensation on iced cup",
+      "Wide: relaxed seating, low crowd",
+      "Price reveal: menu board under $10"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

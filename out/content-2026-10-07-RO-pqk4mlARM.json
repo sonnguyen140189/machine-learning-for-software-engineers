@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists stick to the main strip. Locals eat in the trees.\n\nTree House Phu Quoc Restaurant and Coffee sits in Ông Lang, off the radar, 4.7 stars across 1,210 reviews. That number doesn't happen by accident.\n\nFood, coffee, canopy. All in one spot on Lê Thúc Nha road that most visitors drive straight past.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Climbing up to your table. Literally. Tree House Phu Quoc Restaurant and Coffee in Ông Lang is the 4.7-star spot tourists keep missing. Worth the detour.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #OngLang #ThingsToDoPhuQuoc #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals eat in the trees. Tourists never find this.\n\nTree House Phu Quoc, Ông Lang. 4.7★, 1,210 reviews. Tag your travel buddy.",
+    "video_caption": "Your table is literally in the canopy. Tree House Phu Quoc in Ông Lang. 4.7 stars. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #OngLang #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocCafe"
+  },
+  "tiktok": {
+    "caption": "Tourists walk past. Locals eat in the trees. Tree House Phu Quoc, Ông Lang. 4.7★ 1,210 reviews. #PhuQuoc #PhuQuocFood #OngLang #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Drone pull-back: canopy rooftop, Ông Lang",
+      "Boots climbing wooden treehouse steps",
+      "Table set among branches, aerial view",
+      "Coffee poured, steam rising in treetops",
+      "Plate of food arriving, jungle background",
+      "Rating card: 4.7★ 1,210 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the big-name tour buses. Locals point you to Rooty Trip Phú Quốc. 4.8 stars across 1,045 reviews on a street most visitors never walk down. 191 Đường Trần Hưng Đạo is not on the resort map. Small team, real routes, none of the cattle-car energy. If you're planning island day trips, this is the stop worth making first. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into Rooty Trip Phú Quốc on Đường Trần Hưng Đạo. 1,045 reviews. 4.8 stars. The tour operators the resort concierge won't mention. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #PhuQuocTips #VisitVietnam #TravelTips #VietnamTravel #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "The tour agency locals actually use. Rooty Trip Phú Quốc. 4.8★ / 1,045 reviews. Not on the resort map. Share with someone planning Vietnam.",
+    "video_caption": "1,045 reviews. 4.8 stars. Rooty Trip Phú Quốc is the name locals drop. Now you have it.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The tour agency Phu Quoc locals actually use. 4.8★ 1,045 reviews. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't share this one.",
+    "scenes": [
+      "Exterior shot: 191 Đường Trần Hưng Đạo signage",
+      "Close-up: 4.8 star rating on screen",
+      "Staff planning routes on a map",
+      "Tourists boarding a small group tour",
+      "Drone: island day-trip destination arrives"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

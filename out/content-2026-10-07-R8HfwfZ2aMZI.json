@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you picked the right hotel in Phu Quoc. Regent Phu Quoc. 4.9 stars. 1,561 reviews. That's not luck, that's a pattern. Khu Phố Đường Bào puts you away from the chaos but close enough to everything that matters. This is the kind of stay people come back for. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into Regent Phu Quoc and immediately understanding why 1,561 people left 5-star reviews. Some hotels just get it right. This is one of them.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #VisitVietnam #TravelTips #PhuQuocResort #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "POV: you booked Regent Phu Quoc. 4.9★ from 1,561 reviews. That number doesn't lie. Tag your travel buddy.",
+    "video_caption": "1,561 reviews. 4.9 stars. Regent Phu Quoc earns every single one.",
+    "hashtags": "#PhuQuocHotels #PhuQuocResort #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: you picked the best hotel in Phu Quoc 🏝️ Regent Phu Quoc. 4.9★. 1,561 reviews. #PhuQuoc #PhuQuocHotels #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you got it right.",
+    "scenes": [
+      "Drone pull-back over resort grounds",
+      "Lobby entrance, wide shot, slow push in",
+      "Pool glittering, no one in frame",
+      "Close-up: 4.9★ review screen on phone",
+      "Ocean view from a room balcony"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

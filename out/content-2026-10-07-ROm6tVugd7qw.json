@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 557 reviews. At a brunch café inside Chợ đêm Phú Quốc.\n\nMost people walk past Ann Cafe & Brunch Phu Quoc looking for dinner. Big mistake. The daytime crowd here knows something the night market tourists don't.\n\nSit down, order slow, watch Đường Lê Thị Hồng Gấm wake up. $15-30 per person for a proper sit-down brunch on a Vietnamese island. That math hits different.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Coffee poured. Plates landing. 557 people rated this 4.8 stars and it's sitting right inside Chợ đêm Phú Quốc. Walk past at your own risk.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 557 reviews. Inside a night market. Ann Cafe & Brunch Phu Quoc is not a coincidence.\n\nTag your travel buddy.",
+    "video_caption": "Brunch dropping inside Chợ đêm Phú Quốc. 4.8 stars. 557 people were right.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BrunchVibes"
+  },
+  "tiktok": {
+    "caption": "4.8 stars inside a night market. Ann Cafe & Brunch Phu Quoc is the move. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8 stars. Night market café.",
+    "scenes": [
+      "Exterior shot: Chợ đêm Phú Quốc entrance, daytime",
+      "Pan to Ann Cafe sign on Đường Lê Thị Hồng Gấm",
+      "Close-up: coffee poured into glass, slow motion",
+      "Overhead: full brunch spread hitting the table",
+      "Cut to Google review screen: 4.8, 557 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
