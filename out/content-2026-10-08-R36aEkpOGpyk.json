@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "188 reviews. 5.0 stars. Zero exceptions.\n\nNice Tours Phu Quoc - Tailor Made Travel on Tran Hung Dao does one thing: builds your Phu Quoc trip around YOU. Not a group bus. Not a fixed itinerary. Your pace, your interests, your days.\n\nFind them at 127 Tran Hung Dao alley, Duong Dong Town. Save this for your Phu Quoc trip.",
+    "video_caption": "A perfect 5.0 from 188 real travelers. This is the tour operator locals actually recommend in Phu Quoc. Custom itineraries, no cookie-cutter groups. Walk into 127 Tran Hung Dao and tell them what you want.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 188 reviews. Every single one.\n\nNice Tours Phu Quoc builds trips around you, not the other way around. Tag your travel buddy.",
+    "video_caption": "188 travelers. 188 five-star trips. Nice Tours Phu Quoc makes it personal every time.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "5.0 stars from 188 people. This tour operator in Phu Quoc is built different. #PhuQuoc #PhuQuocTours #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5.0 stars. 188 reviews.",
+    "scenes": [
+      "Close-up: 5-star rating on phone screen",
+      "Storefront at 127 Tran Hung Dao alley",
+      "Staff mapping out a custom route",
+      "Montage: beaches, markets, local spots",
+      "Traveler smiling, itinerary in hand"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

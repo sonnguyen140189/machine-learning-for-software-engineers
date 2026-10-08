@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,128 reviews on a pearl jewelry store in Phu Quoc. That number means something.\n\nQuoc An Pearl sits in Khu phố Suối Mây and moves serious volume for a reason. Phu Quoc pearls are farmed right here in these waters. Buying from the source means you skip the airport markup and get the real thing.\n\n4.1 stars across over a thousand buyers. That's not luck.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch how they display Phu Quoc pearls up close. Quoc An Pearl, Khu phố Suối Mây. 1,128 buyers rated this 4.1 stars. Your carry-on needs one of these before you fly home.",
+    "first_comment": "#PhuQuoc #PhuQuocShopping #VietnamTravel #PhuQuocTips #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "1,128 reviews on a pearl store. Phu Quoc pearls, bought at the source.\n\nQuoc An Pearl, Khu phố Suối Mây. 4.1★. Tag your travel buddy.",
+    "video_caption": "Phu Quoc pearl shopping, no airport markup. 4.1★ across 1,128 buyers. Quoc An Pearl delivers.",
+    "hashtags": "#PhuQuocShopping #PhuQuocTips #PhuQuocPearls #VietnamTravel #TravelTips #TravelReels #SoutheastAsiaShopping #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "1,128 reviews on a Phu Quoc pearl store. Buying at the source hits different. #PhuQuoc #PhuQuocShopping #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "1,128 reviews. Pearl store.",
+    "scenes": [
+      "Exterior shot, Khu phố Suối Mây sign visible",
+      "Hands lifting pearl strand to light",
+      "Close-up: pearl luster, different sizes",
+      "Staff explaining pearl grading",
+      "Price tag shown, buyer reacting"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you just landed in Phu Quoc with zero plan. Алиса гид по Фукуоку on Đường Trần Hưng Đạo has 4.8 stars across 127 reviews for a reason. Local guides. Real itineraries. No cookie-cutter tours. Stop winging it and start actually seeing the island. Save this for your Phu Quoc trip.",
+    "video_caption": "Walked into Алиса гид по Фукуоку with a loose plan and walked out with a full week mapped. 4.8 stars. 127 reviews. These guides know every corner of this island. Book before your trip, not after you've wasted two days.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #VietnamTravel #PhuQuocGuide #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "POV: landed in Phu Quoc with no plan. Алиса гид по Фукуоку fixed that. 4.8★, 127 reviews. Tag your travel buddy.",
+    "video_caption": "No plan. No problem. Алиса гид по Фукуоку. 4.8★ local guides on Đường Trần Hưng Đạo. Worth every minute.",
+    "hashtags": "#PhuQuoc #PhuQuocTips #PhuQuocGuide #VietnamTravel #TravelTips #TravelReels #VisitVietnam #PhuQuocThingsToDo"
+  },
+  "tiktok": {
+    "caption": "POV: you finally stopped winging Phu Quoc. Алиса гид по Фукуоку. 4.8★ 127 reviews. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: no plan in Phu Quoc.",
+    "scenes": [
+      "Tourist looking lost at airport arrivals",
+      "Walking into Алиса гид по Фукуоку storefront",
+      "Guide points at map, marks key stops",
+      "Rapid cuts: beach, market, viewpoint",
+      "Close-up: 4.8★ review screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

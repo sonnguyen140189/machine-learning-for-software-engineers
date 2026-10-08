@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,295 reviews. Every single one gives 5 stars.\n\nVietnam Active - PADI 5 Star Diving Center Phú Quốc is not a fluke. First-timers and certified divers keep coming back. The PADI 5 Star rating means instructors are held to a global standard, not just a local one.\n\nWhether you've never touched a tank or you're logging your 50th dive, this is where Phu Quoc's underwater world actually opens up.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Dropping below the surface off Phu Quoc with a crew that holds a perfect 5-star rating across 1,295 dives. Vietnam Active on Đường Trần Hưng Đạo is where you book before you land. Spots fill fast.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #ScubaDiving #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "1,295 reviews. 5.0 stars. Zero exceptions.\n\nVietnam Active - PADI 5 Star Diving Center Phú Quốc sets the bar for diving in Phu Quoc. Tag your dive buddy.",
+    "video_caption": "5.0 stars. 1,295 divers agreed. Vietnam Active Phú Quốc goes on the list now.",
+    "hashtags": "#PhuQuocDiving #PhuQuocTips #PhuQuocActivities #VietnamTravel #TravelTips #TravelReels #ScubaDivingLife #DiveVietnam #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "1,295 dives reviewed. 1,295 gave 5 stars. Vietnam Active Phú Quốc is the one. #PhuQuoc #ScubaDiving #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "1,295 reviews. All 5 stars.",
+    "scenes": [
+      "Aerial shot: crystal water off Phu Quoc coast",
+      "Close-up: PADI 5 Star Center certification sign",
+      "Instructor gears up a first-time diver on deck",
+      "Underwater: diver descends into blue water",
+      "Coral reef teeming with fish, diver floats through",
+      "Diver surfaces, removes mask, grins at camera"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

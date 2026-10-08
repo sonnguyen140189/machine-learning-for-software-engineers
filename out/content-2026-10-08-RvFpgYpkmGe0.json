@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "418 locals reviewed this market. Tourists mostly skip it.\n\nChợ Dương Đông Phú Quốc is where Phu Quoc actually shops. Fresh seafood, local produce, street snacks, and zero resort markups. Get here before 8am and you'll have the whole place to yourself.\n\n4.3 stars. Real food. Real prices. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking through Chợ Dương Đông Phú Quốc at sunrise. Vendors setting up, seafood still moving, prices that make no sense compared to the beach clubs. This is the real Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocMarket #PhuQuocFood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "418 reviews. Tourists still skip it.\n\nChợ Dương Đông Phú Quốc. Real food, real prices, no resort tax. Tag your travel buddy.",
+    "video_caption": "Sunrise at Chợ Dương Đông Phú Quốc. Seafood, snacks, zero tourist markup. Go early.",
+    "hashtags": "#PhuQuocFood #PhuQuocMarket #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "418 reviews and tourists still walk past it. Chợ Dương Đông Phú Quốc is the move. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "418 reviews. Tourists skip it.",
+    "scenes": [
+      "Aerial pull-in over market rooftops at dawn",
+      "Vendor stacks fresh seafood on ice",
+      "Close-up: whole crabs, clams, local herbs",
+      "Tourist walks past entrance without looking",
+      "Camera enters, wide shot of packed stalls",
+      "Visitor holds up bag of street snacks, grins"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

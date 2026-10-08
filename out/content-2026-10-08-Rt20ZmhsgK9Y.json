@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 413 divers reviewed this. Flipper diving club at Búng Gội is not an accident.\n\nPhu Quoc's underwater world is genuinely wild. Coral reefs, sea turtles, visibility that makes you forget you're holding your breath. Flipper runs it tight, certified instructors, small groups, proper gear.\n\nFirst dive or fiftieth, this is the one locals recommend without hesitation.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the moment you drop below the surface at Búng Gội. Flipper diving club. 4.9 stars. 413 reviews. The reef does the talking. Book before the spots fill.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #ScubaDivingVietnam #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #DivingLovers"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 413 divers don't lie. Flipper diving club, Búng Gội. Go under. Tag your dive buddy.",
+    "video_caption": "Below the surface at Búng Gội. Flipper diving club hits 4.9 for a reason. Watch this.",
+    "hashtags": "#PhuQuocDiving #PhuQuocTips #ScubaDivingVietnam #VietnamTravel #TravelTips #TravelReels #DivingLife #PhuQuoc #UnderwaterVietnam"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 413 dives reviewed. Flipper diving club at Búng Gội goes off. #PhuQuoc #PhuQuocDiving #ScubaDiving #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9★ from 413 divers.",
+    "scenes": [
+      "Diver gears up on the boat deck",
+      "Giant stride entry into blue water",
+      "Camera follows diver descending fast",
+      "Coral reef fills the frame wide",
+      "Sea turtle glides past lens",
+      "Diver surfaces, pulls mask up, grins"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

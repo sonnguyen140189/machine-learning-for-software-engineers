@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this on Đường Trần Hưng Đạo. Big mistake. Long Beach Pearl is where you actually buy Phu Quoc pearls, not the overpriced resort gift shops. 4.1 stars across 255 reviews. Real product, real staff who know what they're selling. Skip the tourist traps. Save this for your Phu Quoc trip.",
+    "video_caption": "Phu Quoc pearls without the resort markup. Long Beach Pearl on Đường Trần Hưng Đạo. 255 reviews say skip the gift shops and come here. Watch what you actually get for your money.",
+    "first_comment": "#PhuQuoc #PhuQuocShopping #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Long Beach Pearl. 255 reviews say that's a mistake. Real Phu Quoc pearls, no resort markup. Tag your travel buddy.",
+    "video_caption": "What locals buy instead of resort gift shop pearls. Long Beach Pearl on Đường Trần Hưng Đạo. Don't skip it.",
+    "hashtags": "#PhuQuocShopping #PhuQuocTips #PhuQuocPearls #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Tourists walk past Long Beach Pearl every day. Their loss. Real Phu Quoc pearls, no resort prices. #PhuQuoc #PhuQuocShopping #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this shop.",
+    "scenes": [
+      "Pan across storefront on Đường Trần Hưng Đạo",
+      "Close-up: pearl jewelry under display glass",
+      "Staff showing pearl grading to customer",
+      "Comparison shot: price tag vs resort gift shop",
+      "Customer examining necklace at counter"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

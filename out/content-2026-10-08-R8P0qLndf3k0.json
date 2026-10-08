@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 190 reviews. Every single one of them.\n\nPoseidon Diving School Phu Quoc Padi is the dive school tourists walk straight past on their way to the big resort packages. Big mistake.\n\nSmall classes. Real instructors. You're actually underwater learning, not waiting in a queue.\n\nIf Phu Quoc is on your list and you've never dived before, this is where you start. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch a perfect 5.0 hold up against 190 reviews. Poseidon Diving School Phu Quoc Padi keeps delivering. Small groups, real instruction, actual ocean time. This is how you learn to dive in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #ScubaDivingPhuQuoc #VisitVietnam #TravelTips #DivingSchool #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 190 reviews. Zero exceptions.\n\nPoseidon Diving School Phu Quoc Padi delivers every time. Small groups, real ocean time. Tag your travel buddy.",
+    "video_caption": "190 divers rated this 5 stars. All of them. Poseidon Diving School Phu Quoc Padi. Go find out why.",
+    "hashtags": "#PhuQuocDiving #ScubaDivingPhuQuoc #PhuQuocTips #PhuQuocActivities #VietnamTravel #TravelTips #TravelReels #DivingSchool #PhuQuoc #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "5.0 stars from 190 divers. Poseidon Diving School Phu Quoc Padi. No exceptions. #PhuQuoc #PhuQuocDiving #ScubaDiving #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "5.0★ from 190 divers.",
+    "scenes": [
+      "Show the review score filling the screen",
+      "Cut to gear being prepped on the boat",
+      "Underwater shot: instructor guides student",
+      "Student breaks the surface, grinning",
+      "Slow zoom on Poseidon school sign"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

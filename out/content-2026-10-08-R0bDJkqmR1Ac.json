@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 1,103 reviews. For a gift shop.\n\nLOCA - Night Market on Đường Trần Hưng Đạo is not your average souvenir stop. Locals rate it one of the best spots to pick up something real from Phu Quoc. Not mass-produced. Not overpriced tourist junk.\n\nHit this before you leave the island. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking through LOCA - Night Market and the shelves alone tell you why it has 1,103 reviews. Every item looks like it belongs in a carry-on, not a dusty souvenir bin. Đường Trần Hưng Đạo just delivered.",
+    "first_comment": "#PhuQuoc #PhuQuocNightMarket #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 1,103 reviews. For a gift shop in Phu Quoc.\n\nLOCA - Night Market, Đường Trần Hưng Đạo. Save this before your trip.",
+    "video_caption": "1,103 people rated this gift shop 4.9 stars. LOCA - Night Market earns every one.",
+    "hashtags": "#PhuQuocNightMarket #PhuQuocShopping #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "4.9 stars at a Phu Quoc gift shop. 1,103 reviews don't lie. LOCA - Night Market 🛍️ #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9★. 1,103 reviews. Gift shop.",
+    "scenes": [
+      "Pan across storefront at night, neon glow",
+      "Slow push into shelves of local goods",
+      "Close-up: hands picking up a product",
+      "Wide shot: crowd browsing inside",
+      "Cut to Google review rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
