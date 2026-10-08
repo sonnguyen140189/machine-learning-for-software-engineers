@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJfcl6s46NpzERvFpgYpkmGe0",
+    "ChIJixiLeACNpzER0bDJkqmR1Ac",
+    "ChIJ2SBPKCONpzER36aEkpOGpyk",
+    "ChIJZWGJPeONpzERce--tYenego",
+    "ChIJh878oruNpzER7b0NN-zrQpk",
+    "ChIJgfT9NoygKU8R8P0qLndf3k0",
+    "ChIJO-aIpaKNpzERkCLeSERC9yE",
+    "ChIJQz9pjguLpzERt20ZmhsgK9Y",
+    "ChIJD6wtS1eMpzER4kblLDZp36s",
+    "ChIJHalrczGMpzER22lEwxlew40",
+    "ChIJw58lTZeNpzERBCwsZlG8gwA",
+    "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
     "ChIJmz2D_FCMpzERKPewnmdlhGQ",
     "ChIJfQAdSg2NpzEREkgYHVPn5dE",
     "ChIJW-dwUgCNpzEROm6tVugd7qw",
@@ -187,21 +199,189 @@
     "ChIJCxSJFRGPpzERvq1ZTl4QO8c",
     "ChIJyUtXhYCPpzERS0pgKYm7hu4",
     "ChIJd8N-u3CPpzERe2DX-mg_nWE",
-    "ChIJnSiMgv6LpzERwHPkMSy5JEc",
-    "ChIJt7t-rLAfCDER9qvpDQ-ks6M",
-    "ChIJaV6sC_KLpzERlAdjMI0q54s",
-    "ChIJqfezlgAfCDERaYwzQEp_Rkc",
-    "ChIJCcDXjO2NpzERpuULcuYBz_U",
-    "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
-    "ChIJiyzaO4CNpzERTH6QKehpvBw",
-    "ChIJqx54JIyNpzERfmx8wXohQ4U",
-    "ChIJK6PXziqyU2gREZvk_pErVag",
-    "ChIJcQI2WEyNpzERiZfbiTwGiHU",
-    "ChIJ_QHQ2eWNpzER0VcwkboktMU",
-    "ChIJP5q2Xn2MpzERflLoidf2YAg",
-    "ChIJo5M0X62NpzERgrGHtWo8nCQ"
+    "ChIJnSiMgv6LpzERwHPkMSy5JEc"
   ],
   "history": [
+    {
+      "date": "2026-10-08",
+      "placeId": "ChIJfcl6s46NpzERvFpgYpkmGe0",
+      "placeName": "Chợ Dương Đông Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1399394055158880"
+        },
+        "instagramReel": {
+          "id": "18191714665400833"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "placeId": "ChIJixiLeACNpzER0bDJkqmR1Ac",
+      "placeName": "LOCA - Night Market",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122127353115313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17872480341602259"
+        }
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "placeId": "ChIJ2SBPKCONpzER36aEkpOGpyk",
+      "placeName": "Nice Tours Phu Quoc - Tailor Made Travel",
+      "results": {
+        "facebookVideo": {
+          "id": "2917538475311343"
+        },
+        "instagramReel": {
+          "id": "18627656422045899"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "placeId": "ChIJZWGJPeONpzERce--tYenego",
+      "placeName": "Алиса гид по Фукуоку",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122127352053313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17985092589081486"
+        }
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "placeId": "ChIJh878oruNpzER7b0NN-zrQpk",
+      "placeName": "Ecodive Vietnam - Trung Tâm Lặn Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1143229221994258"
+        },
+        "instagramReel": {
+          "id": "18123698597483744"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "placeId": "ChIJgfT9NoygKU8R8P0qLndf3k0",
+      "placeName": "Poseidon Diving School Phu Quoc Padi",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122127351069313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18117793873983630"
+        }
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "placeId": "ChIJO-aIpaKNpzERkCLeSERC9yE",
+      "placeName": "Vietnam Active - PADI 5 Star Diving Center Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "944609574972856"
+        },
+        "instagramReel": {
+          "id": "18055379168802956"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "placeId": "ChIJQz9pjguLpzERt20ZmhsgK9Y",
+      "placeName": "Flipper diving club",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122127349965313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18185281333423655"
+        }
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "placeId": "ChIJD6wtS1eMpzER4kblLDZp36s",
+      "placeName": "Long Beach Pearl",
+      "results": {
+        "facebookVideo": {
+          "id": "2899956970388761"
+        },
+        "instagramReel": {
+          "id": "17972360016172382"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "placeId": "ChIJHalrczGMpzER22lEwxlew40",
+      "placeName": "Quoc An Pearl",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122127348873313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18089496056695627"
+        }
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "placeId": "ChIJw58lTZeNpzERBCwsZlG8gwA",
+      "placeName": "Sunset Sanato Beach Club",
+      "results": {
+        "facebookVideo": {
+          "id": "2523470291497775"
+        },
+        "instagramReel": {
+          "id": "18102844283629797"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "placeId": "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
+      "placeName": "Aloha Beach Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122127347691313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AmhSOK7lFUUPyE0rXiMIofa\"}}"
+        }
+      }
+    },
     {
       "date": "2026-10-07",
       "placeId": "ChIJmz2D_FCMpzERKPewnmdlhGQ",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18630759724022451"
-        }
-      }
-    },
-    {
-      "date": "2026-09-22",
-      "placeId": "ChIJt7t-rLAfCDER9qvpDQ-ks6M",
-      "placeName": "Ngoc Hien Treasure",
-      "results": {
-        "facebookVideo": {
-          "id": "1067226835915346"
-        },
-        "instagramReel": {
-          "id": "18162594817489482"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-22",
-      "placeId": "ChIJaV6sC_KLpzERlAdjMI0q54s",
-      "placeName": "Kayaking Dynasty",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122124891171313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18104476904198672"
-        }
-      }
-    },
-    {
-      "date": "2026-09-22",
-      "placeId": "ChIJqfezlgAfCDERaYwzQEp_Rkc",
-      "placeName": "ALOHA88 - Kayak & Snorkeling club",
-      "results": {
-        "facebookVideo": {
-          "id": "2693825314468004"
-        },
-        "instagramReel": {
-          "id": "18117745060948004"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-22",
-      "placeId": "ChIJCcDXjO2NpzERpuULcuYBz_U",
-      "placeName": "Thuê cano riêng -FISHING TOUR",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122124889929313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18031825355846933"
-        }
-      }
-    },
-    {
-      "date": "2026-09-21",
-      "placeId": "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
-      "placeName": "Phu Quoc Day Spa - 푸꾸옥 스파 마사지 - 富国岛的水疗按摩",
-      "results": {
-        "facebookVideo": {
-          "id": "2413954572710619"
-        },
-        "instagramReel": {
-          "id": "18627545434042545"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-21",
-      "placeId": "ChIJiyzaO4CNpzERTH6QKehpvBw",
-      "placeName": "FIONA SPA",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122124743817313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17968445175158010"
-        }
-      }
-    },
-    {
-      "date": "2026-09-21",
-      "placeId": "ChIJqx54JIyNpzERfmx8wXohQ4U",
-      "placeName": "Little WIN SPA 2 - MASSAGE (전신 마사지, 풋 마사지)",
-      "results": {
-        "facebookVideo": {
-          "id": "1572008414073039"
-        },
-        "instagramReel": {
-          "id": "17909467455540955"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-21",
-      "placeId": "ChIJK6PXziqyU2gREZvk_pErVag",
-      "placeName": "Dgold Spa - body massage, foot massage, shampoo, nail",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122124743037313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"A3LC2ti6Rdj_msD8dLXyvvw\"}}"
-        }
-      }
-    },
-    {
-      "date": "2026-09-21",
-      "placeId": "ChIJcQI2WEyNpzERiZfbiTwGiHU",
-      "placeName": "Hello Spa - Massage & Nail",
-      "results": {
-        "facebookVideo": {
-          "id": "28695212800103018"
-        },
-        "instagramReel": {
-          "id": "18338116012257675"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-21",
-      "placeId": "ChIJ_QHQ2eWNpzER0VcwkboktMU",
-      "placeName": "Golden Foot Massage Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122124742473313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18383039389231285"
-        }
-      }
-    },
-    {
-      "date": "2026-09-21",
-      "placeId": "ChIJP5q2Xn2MpzERflLoidf2YAg",
-      "placeName": "THU HIỀN BAKERY",
-      "results": {
-        "facebookVideo": {
-          "id": "4669257646693129"
-        },
-        "instagramReel": {
-          "id": "18411198871089219"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-21",
-      "placeId": "ChIJo5M0X62NpzERgrGHtWo8nCQ",
-      "placeName": "MIX BAKERY COFFEE & TEA",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122124741855313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AwQU16wguGpuhQYrMp0m9fV\"}}"
         }
       }
     }
