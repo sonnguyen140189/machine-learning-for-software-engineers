@@ -1,0 +1,524 @@
+{
+  "stamp": "2026-10-09",
+  "items": [
+    {
+      "placeId": "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
+      "placeName": "Ham Ninh fishing town",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-10-09-RbE8mbGFjZ4k-0.jpg",
+        "out/media/2026-10-09-RbE8mbGFjZ4k-1.jpg",
+        "out/media/2026-10-09-RbE8mbGFjZ4k-2.jpg",
+        "out/media/2026-10-09-RbE8mbGFjZ4k-3.jpg",
+        "out/media/2026-10-09-RbE8mbGFjZ4k-4.jpg",
+        "out/media/2026-10-09-RbE8mbGFjZ4k-5.jpg",
+        "out/media/2026-10-09-RbE8mbGFjZ4k-6.jpg",
+        "out/media/2026-10-09-RbE8mbGFjZ4k-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you take a random turn off the main road and end up in Rạch Hàm, Phú Quốc. Boats rocking. Nets drying. Zero tour groups. Ham Ninh fishing town is what most tourists drive straight past on the way to the beaches. 4.1 stars from over 1,000 reviews. The locals here are the real deal. Save this for your Phu Quoc trip.",
+          "video_caption": "Wooden boats, salt air, and fishermen hauling in the morning catch. Ham Ninh is running at its own pace, and nobody told the tourists. This is what Phu Quoc looks like before the resorts showed up.",
+          "first_comment": "#PhuQuoc #PhuQuocTravel #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "POV: wrong turn. Right place. Ham Ninh fishing town hits different when you stumble into it. Tag your travel buddy.",
+          "video_caption": "Boats in. Nets out. Ham Ninh runs on fishing time, not tourist time.",
+          "hashtags": "#PhuQuoc #PhuQuocTravel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #PhuQuocAttractions"
+        },
+        "tiktok": {
+          "caption": "POV: you found Ham Ninh before the crowds did. Real fishing town. Real Phu Quoc. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+        },
+        "video_script": {
+          "hook": "POV: you took the wrong turn.",
+          "scenes": [
+            "Aerial pull back: boats packed along the dock",
+            "Close up: weathered fishing nets dripping dry",
+            "Wide shot: fishermen sorting the morning catch",
+            "Slow pan: stilted wooden houses on the water",
+            "Tourist crowd b-roll cut: nobody else is here"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJgw37s0-XpzERx2gWzxP5Qfg",
+      "placeName": "VEGAYACHTS - Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-10-09-Rx2gWzxP5Qfg-0.jpg",
+        "out/media/2026-10-09-Rx2gWzxP5Qfg-1.jpg",
+        "out/media/2026-10-09-Rx2gWzxP5Qfg-2.jpg",
+        "out/media/2026-10-09-Rx2gWzxP5Qfg-3.jpg",
+        "out/media/2026-10-09-Rx2gWzxP5Qfg-4.jpg",
+        "out/media/2026-10-09-Rx2gWzxP5Qfg-5.jpg",
+        "out/media/2026-10-09-Rx2gWzxP5Qfg-6.jpg",
+        "out/media/2026-10-09-Rx2gWzxP5Qfg-7.jpg"
+      ],
+      "videoPath": "out/media/2026-10-09-Rx2gWzxP5Qfg.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "1,806 reviews. Perfect 5.0 stars. Every single one.\n\nVEGAYACHTS at Sunset Town, An Thới, Phú Quốc is the kind of experience that turns first-timers into repeat bookers. Yacht tours off the south tip of Phu Quoc, golden-hour on the water, and a crew that actually delivers.\n\nNot one review below five stars. That's not luck. That's consistency.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the sun drop behind the horizon from the deck of a yacht off An Thới, Phú Quốc. VEGAYACHTS. 5.0 stars. 1,806 people weren't wrong. Book before it fills up.",
+          "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "1,806 reviews. Perfect 5.0 stars. Zero exceptions.\n\nVEGAYACHTS, Sunset Town, An Thới, Phú Quốc. This is your sign to book.\n\nTag your travel buddy.",
+          "video_caption": "Sunset from a yacht off Phú Quốc. VEGAYACHTS. 5.0 stars from 1,806 guests. Some things just earn it.",
+          "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocVietnam #VietnamTravel #TravelTips #TravelReels #YachtTour"
+        },
+        "tiktok": {
+          "caption": "5.0 stars. 1,806 reviews. VEGAYACHTS Phú Quốc just built different. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "5.0 STARS. 1,806 REVIEWS.",
+          "scenes": [
+            "Aerial drone: yacht leaving An Thới pier",
+            "Crew casts off ropes, boat moves out",
+            "Guests lean on rails, ocean all around",
+            "Sun hits the horizon, water turns gold",
+            "Close-up: 5-star review on phone screen",
+            "Wide shot: yacht silhouette at sunset"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJwUzGbH-MpzERwZw0BxLOowU",
+      "placeName": "Catamaran Sarita Phu Quoc _ Du thuyền Sarita Phú Quốc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-10-09-RwZw0BxLOowU-0.jpg",
+        "out/media/2026-10-09-RwZw0BxLOowU-1.jpg",
+        "out/media/2026-10-09-RwZw0BxLOowU-2.jpg",
+        "out/media/2026-10-09-RwZw0BxLOowU-3.jpg",
+        "out/media/2026-10-09-RwZw0BxLOowU-4.jpg",
+        "out/media/2026-10-09-RwZw0BxLOowU-5.jpg",
+        "out/media/2026-10-09-RwZw0BxLOowU-6.jpg",
+        "out/media/2026-10-09-RwZw0BxLOowU-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you stop scrolling boat tours and actually book one on a catamaran.\n\nCatamaran Sarita Phú Quốc runs day trips out of 3 Lý Thường Kiệt. A proper catamaran, not a crowded party boat. 4.5 stars across 30 reviews tells you people come back happy.\n\nIf a catamaran charter is on your Phu Quoc list, this is worth a look.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Stepping onto the Catamaran Sarita Phú Quốc and the island disappears behind you. This is how you do the waters around Phu Quoc. Tag your travel buddy who needs this trip.",
+          "first_comment": "#PhuQuoc #PhuQuocTravel #PhuQuocTips #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "POV: you traded the beach crowd for open water on a catamaran.\n\nCatamaran Sarita Phú Quốc, 4.5★. Save this.",
+          "video_caption": "Open water. Real catamaran. Catamaran Sarita Phú Quốc delivers. Share with someone planning Vietnam.",
+          "hashtags": "#PhuQuocTravel #PhuQuocTips #PhuQuocBoatTour #VietnamTravel #TravelTips #TravelReels #PhuQuocLife"
+        },
+        "tiktok": {
+          "caption": "POV: found a legit catamaran charter in Phu Quoc. Catamaran Sarita Phú Quốc, 4.5★. Don't miss this. #PhuQuoc #PhuQuocTravel #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "POV: catamaran. Phu Quoc.",
+          "scenes": [
+            "Dock at 3 Lý Thường Kiệt, boat waiting",
+            "Step onto catamaran deck",
+            "Lines cast off, open water ahead",
+            "Aerial shot: catamaran cutting blue water",
+            "Guests on deck, coastline fading"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ2fu7BmGNpzERyc_w8wahNio",
+      "placeName": "GRACE'S TOUR PHÚ QUỐC- SIM CARD- MONEY EXCHANGE- ENGLISH SPEAKER- DIVING",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-10-09-Ryc_w8wahNio-0.jpg",
+        "out/media/2026-10-09-Ryc_w8wahNio-1.jpg",
+        "out/media/2026-10-09-Ryc_w8wahNio-2.jpg",
+        "out/media/2026-10-09-Ryc_w8wahNio-3.jpg",
+        "out/media/2026-10-09-Ryc_w8wahNio-4.jpg",
+        "out/media/2026-10-09-Ryc_w8wahNio-5.jpg",
+        "out/media/2026-10-09-Ryc_w8wahNio-6.jpg",
+        "out/media/2026-10-09-Ryc_w8wahNio-7.jpg"
+      ],
+      "videoPath": "out/media/2026-10-09-Ryc_w8wahNio.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "5.0 stars. 195 reviews. Zero complaints.\n\nGrace's Tour Phú Quốc handles the stuff that kills travel days: SIM cards on arrival, currency exchange, diving bookings, and a real English speaker who actually picks up the phone.\n\nOne address on Đường Trần Hưng Đạo and your first 24 hours in Phu Quoc are sorted.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Walk in. SIM card, cash exchanged, diving trip booked. Walk out. Grace's Tour Phú Quốc does it all from one shop on Đường Trần Hưng Đạo. 5.0 stars from 195 real travelers. Go here first.",
+          "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #PhuQuocDiving #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "5.0 stars. 195 reviews. No debate.\n\nSIM card, money exchange, diving, English support. One stop.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "First stop in Phu Quoc. Grace's Tour Phú Quốc. SIM, cash, diving, sorted in minutes. 5.0 stars for a reason.",
+          "hashtags": "#PhuQuocTips #PhuQuocDiving #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VisitVietnam #TravelHacks"
+        },
+        "tiktok": {
+          "caption": "5.0 stars. 195 reviews. Grace's Tour Phú Quốc sorts your SIM, cash, and diving in one stop. Go here first. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelHacks"
+        },
+        "video_script": {
+          "hook": "5.0 stars. 195 reviews.",
+          "scenes": [
+            "Exterior shot: shop sign on Đường Trần Hưng Đạo",
+            "Staff hands over a SIM card, phone lights up",
+            "Cash counted out on exchange counter",
+            "Diving gear hanging, trip board in background",
+            "Close-up: Google review screen showing 5.0 stars"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJp9ZcOsKXpzERDLEPwP3e9JE",
+      "placeName": "Phú Quốc Go",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-10-09-RDLEPwP3e9JE-0.jpg",
+        "out/media/2026-10-09-RDLEPwP3e9JE-1.jpg",
+        "out/media/2026-10-09-RDLEPwP3e9JE-2.jpg",
+        "out/media/2026-10-09-RDLEPwP3e9JE-3.jpg",
+        "out/media/2026-10-09-RDLEPwP3e9JE-4.jpg",
+        "out/media/2026-10-09-RDLEPwP3e9JE-5.jpg",
+        "out/media/2026-10-09-RDLEPwP3e9JE-6.jpg",
+        "out/media/2026-10-09-RDLEPwP3e9JE-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.7 stars. 34 reviews. One tour agency in An Thới that keeps showing up on Phu Quoc itineraries. Phú Quốc Go operates out of Sky Building, SunGrand, and handles island tours so you're not piecing it together alone. Solid ratings for a reason. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the An Thới side of Phu Quoc from a tour that actually delivers. Phú Quốc Go, Sky Building, SunGrand. 4.7 stars, 34 reviews. Book before your dates fill.",
+          "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.7 stars. 34 reviews. Phú Quốc Go is the An Thới tour agency worth bookmarking. Save this before your trip.",
+          "video_caption": "Tour Phu Quoc the right way. Phú Quốc Go, 4.7 stars. Sky Building, SunGrand, An Thới.",
+          "hashtags": "#PhuQuocTours #PhuQuocTips #AnThoi #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.7 stars in An Thới. Phú Quốc Go handles your island tours. #PhuQuoc #PhuQuocTours #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.7 stars. 34 reviews.",
+          "scenes": [
+            "Aerial shot: An Thới coastline",
+            "Pan up Sky Building facade",
+            "Zoom in: Phú Quốc Go signage",
+            "Cut: tour boat leaving dock",
+            "Screen: 4.7★ rating card"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJXWMScYiMpzERFW5SXq8DfXs",
+      "placeName": "Saigonese Eatery",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-10-09-RFW5SXq8DfXs-0.jpg",
+        "out/media/2026-10-09-RFW5SXq8DfXs-1.jpg",
+        "out/media/2026-10-09-RFW5SXq8DfXs-2.jpg",
+        "out/media/2026-10-09-RFW5SXq8DfXs-3.jpg",
+        "out/media/2026-10-09-RFW5SXq8DfXs-4.jpg",
+        "out/media/2026-10-09-RFW5SXq8DfXs-5.jpg",
+        "out/media/2026-10-09-RFW5SXq8DfXs-6.jpg",
+        "out/media/2026-10-09-RFW5SXq8DfXs-7.jpg"
+      ],
+      "videoPath": "out/media/2026-10-09-RFW5SXq8DfXs.mp4",
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Their loss. Saigonese Eatery is pulling 4.6 stars across 2,159 reviews and the menu hits every time. Asian fusion done right, $15-30 a head. No gimmicks, no tourist markup. Just solid food on one of Phu Quoc's busiest streets hiding in plain sight. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the plates land at Saigonese Eatery. 4.6 stars, 2,159 reviews, $15-30 a head. This one is hiding on Đường Trần Hưng Đạo and most tourists never stop. Big mistake.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Tourists keep walking past Saigonese Eatery. 4.6 stars. 2,159 reviews. $15-30 a head. Don't be that tourist. Save this.",
+          "video_caption": "Plates dropping at Saigonese Eatery. Asian fusion, $15-30, 4.6 stars. Đường Trần Hưng Đạo hiding in plain sight.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #PhuQuocEats #VietnamTravel #TravelTips #TravelReels #AsianFusion"
+        },
+        "tiktok": {
+          "caption": "Tourists walk past this every day. 4.6 stars, 2,159 reviews. Saigonese Eatery on Đường Trần Hưng Đạo hits. #PhuQuoc #PhuQuocFood #PhuQuocTips"
+        },
+        "video_script": {
+          "hook": "Locals don't post about this.",
+          "scenes": [
+            "Busy street shot, Đường Trần Hưng Đạo",
+            "Camera stops at Saigonese Eatery entrance",
+            "Dishes arriving at the table, close-up",
+            "Show 4.6 stars, 2,159 reviews on screen",
+            "Price tag graphic: $15-30 per person"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJvXeYrq6NpzER68wVOXl4Edg",
+      "placeName": "MEDITERRAN Greek & Italian Restaurant (pizza, pasta & souvlaki)",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-10-09-R68wVOXl4Edg-0.jpg",
+        "out/media/2026-10-09-R68wVOXl4Edg-1.jpg",
+        "out/media/2026-10-09-R68wVOXl4Edg-2.jpg",
+        "out/media/2026-10-09-R68wVOXl4Edg-3.jpg",
+        "out/media/2026-10-09-R68wVOXl4Edg-4.jpg",
+        "out/media/2026-10-09-R68wVOXl4Edg-5.jpg",
+        "out/media/2026-10-09-R68wVOXl4Edg-6.jpg",
+        "out/media/2026-10-09-R68wVOXl4Edg-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.8 stars. 1,027 reviews. On a pizza-and-souvlaki joint in Phu Quoc.\n\nMEDITERRAN Greek & Italian Restaurant on 24 Đường Trần Hưng Đạo is doing something right. Real Greek souvlaki, wood-fired pizza, proper pasta. $15-30 a head. No resort markup.\n\nThis is the kind of place that earns repeat visits. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the souvlaki plate land on the table at MEDITERRAN. 1,027 people gave this spot 4.8 stars, and one bite in, you'll get why. Pizza, pasta, Greek classics. All under $30 a head.",
+          "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocFood #VietnamTravel #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "4.8 stars. 1,027 reviews. For souvlaki in Phu Quoc.\n\nMEDITERRAN on Đường Trần Hưng Đạo: pizza, pasta, Greek classics. $15-30. Save this.",
+          "video_caption": "Pizza, souvlaki, 4.8 stars. MEDITERRAN is delivering hard on Đường Trần Hưng Đạo. Under $30 a head.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "4.8 stars, 1,027 reviews. Greek food in Phu Quoc hits different. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.8★. 1,027 reviews. Phu Quoc.",
+          "scenes": [
+            "Exterior shot: MEDITERRAN sign on Đường Trần Hưng Đạo",
+            "Close-up: souvlaki plate hits the table",
+            "Pull back: pizza straight from the oven",
+            "Fork twirls pasta, steam rising",
+            "Wide shot: busy dining room, full tables",
+            "End card: 4.8★ rating on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
+      "placeName": "The Spice House Restaurant at Cassia Cottage Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-10-09-RJ7MA3oUHL5E-0.jpg",
+        "out/media/2026-10-09-RJ7MA3oUHL5E-1.jpg",
+        "out/media/2026-10-09-RJ7MA3oUHL5E-2.jpg",
+        "out/media/2026-10-09-RJ7MA3oUHL5E-3.jpg",
+        "out/media/2026-10-09-RJ7MA3oUHL5E-4.jpg",
+        "out/media/2026-10-09-RJ7MA3oUHL5E-5.jpg",
+        "out/media/2026-10-09-RJ7MA3oUHL5E-6.jpg",
+        "out/media/2026-10-09-RJ7MA3oUHL5E-7.jpg"
+      ],
+      "videoPath": "out/media/2026-10-09-RJ7MA3oUHL5E.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "732 reviews. 4.7 stars. And The Spice House Restaurant at Cassia Cottage Phu Quoc keeps delivering.\n\nAsian fusion done right on Đường Trần Hưng Đạo. Plates $15-30. The kind of spot that earns repeat visits, not just one-time clicks.\n\nIf you're eating well in Phu Quoc, this address belongs on your list. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch the plates land at The Spice House Restaurant at Cassia Cottage Phu Quoc. Asian fusion, 4.7 stars, 732 people already convinced. $15-30 a head on Đường Trần Hưng Đạo. Your move.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.7 stars. 732 reviews. The Spice House Restaurant at Cassia Cottage Phu Quoc earns every one.\n\nAsian fusion, $15-30. Save this for your Phu Quoc trip.",
+          "video_caption": "732 people rated this 4.7 stars. Plates hitting the table at The Spice House Restaurant at Cassia Cottage Phu Quoc. Worth every cent.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #AsianFusion"
+        },
+        "tiktok": {
+          "caption": "4.7 stars & 732 reviews at The Spice House Restaurant at Cassia Cottage Phu Quoc. Asian fusion for $15-30. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.7★, 732 reviews don't lie.",
+          "scenes": [
+            "Exterior shot of Cassia Cottage entrance",
+            "Camera pans across full dining table",
+            "Close-up: Asian fusion dish plated up",
+            "Fork cuts in, steam rises",
+            "Google rating card animates on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJG0omSAeNpzERTWnB_Eaa4c8",
+      "placeName": "Bếp An Restaurant",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-10-09-RTWnB_Eaa4c8-0.jpg",
+        "out/media/2026-10-09-RTWnB_Eaa4c8-1.jpg",
+        "out/media/2026-10-09-RTWnB_Eaa4c8-2.jpg",
+        "out/media/2026-10-09-RTWnB_Eaa4c8-3.jpg",
+        "out/media/2026-10-09-RTWnB_Eaa4c8-4.jpg",
+        "out/media/2026-10-09-RTWnB_Eaa4c8-5.jpg",
+        "out/media/2026-10-09-RTWnB_Eaa4c8-6.jpg",
+        "out/media/2026-10-09-RTWnB_Eaa4c8-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists walk past Bếp An Restaurant every day. Locals don't say a word. 4.7 stars across 2,316 reviews and it still flies under the radar on Đường Trần Hưng Đạo. Vietnamese food done right, no resort markup. Around $15-30 a head for a full meal. That's the deal. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch what lands on the table at Bếp An Restaurant. Real Vietnamese cooking on Đường Trần Hưng Đạo, 4.7 stars, 2,316 reviews deep. This is where locals eat when tourists aren't looking.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "Locals don't post about Bếp An Restaurant. 4.7★, 2,316 reviews, still off the tourist trail. $15-30 a head. Save this.",
+          "video_caption": "Real Vietnamese food. 4.7 stars. No tourist markup. Bếp An Restaurant is the one locals keep quiet about.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamFood #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Locals eat here. Tourists walk past. Bếp An Restaurant, Phu Quoc. 4.7★ and 2,316 reviews don't lie. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "Locals don't post about this.",
+          "scenes": [
+            "Exterior shot: Bếp An Restaurant sign",
+            "Pan across packed local tables",
+            "Close-up: steaming Vietnamese dishes served",
+            "Cut to Google review: 4.7★, 2,316 reviews",
+            "Show street view: Đường Trần Hưng Đạo"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ9avQtSSNpzERrhWZcMK8lbI",
+      "placeName": "Bò Tơ Quán Đảo Phú Quốc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-10-09-RrhWZcMK8lbI-0.jpg",
+        "out/media/2026-10-09-RrhWZcMK8lbI-1.jpg",
+        "out/media/2026-10-09-RrhWZcMK8lbI-2.jpg",
+        "out/media/2026-10-09-RrhWZcMK8lbI-3.jpg",
+        "out/media/2026-10-09-RrhWZcMK8lbI-4.jpg",
+        "out/media/2026-10-09-RrhWZcMK8lbI-5.jpg",
+        "out/media/2026-10-09-RrhWZcMK8lbI-6.jpg",
+        "out/media/2026-10-09-RrhWZcMK8lbI-7.jpg"
+      ],
+      "videoPath": "out/media/2026-10-09-RrhWZcMK8lbI.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "2,585 reviews. 4.7 stars. This beef spot on Trần Hưng Đạo is not a secret anymore, and honestly it deserves every single one.\n\nBò Tơ Quán Đảo Phú Quốc serves young beef (bò tơ) done the Phu Quoc way. Tender, smoky, zero fuss. $15-30 a person for a full table spread.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Watch the beef hit the grill at Bò Tơ Quán Đảo Phú Quốc. 2,585 locals and tourists have eaten here. The line at dinner tells you everything. $15-30 a head.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.7 stars. 2,585 reviews. Bò Tơ Quán Đảo Phú Quốc earns every one.\n\nBeef, fire, $15-30 a person. Tag your travel buddy.",
+          "video_caption": "Grill smoke, tender bò tơ, 2,585 reviews backed it. Bò Tơ Quán Đảo Phú Quốc delivers.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #BoToPhuQuoc #VietnamTravel #TravelTips #TravelReels #FoodReels"
+        },
+        "tiktok": {
+          "caption": "2,585 reviews on one beef restaurant in Phu Quoc. Bò Tơ Quán Đảo Phú Quốc. Go. #PhuQuoc #PhuQuocFood #VietnamFood #FoodTok"
+        },
+        "video_script": {
+          "hook": "2,585 reviews. One beef spot.",
+          "scenes": [
+            "Exterior shot: busy entrance, crowd visible",
+            "Raw beef platter lands on table",
+            "Grill ignites, smoke rises close-up",
+            "Hands place beef strips on grill",
+            "Golden sear, tongs flip the beef",
+            "Full table spread, diners eating"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJz-qKmxCLpzERSo4Oja1dZFo",
+      "placeName": "Mai Jo Restaurant",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-10-09-RSo4Oja1dZFo-0.jpg",
+        "out/media/2026-10-09-RSo4Oja1dZFo-1.jpg",
+        "out/media/2026-10-09-RSo4Oja1dZFo-2.jpg",
+        "out/media/2026-10-09-RSo4Oja1dZFo-3.jpg",
+        "out/media/2026-10-09-RSo4Oja1dZFo-4.jpg",
+        "out/media/2026-10-09-RSo4Oja1dZFo-5.jpg",
+        "out/media/2026-10-09-RSo4Oja1dZFo-6.jpg",
+        "out/media/2026-10-09-RSo4Oja1dZFo-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "EMOTIONAL_HIT",
+        "facebook": {
+          "caption": "This place fixes the noise.\n\nMai Jo Restaurant sits in Ông Lang, away from the main tourist strip. 4.7 stars across 1,815 reviews. That number is earned.\n\n$15-30 a head. Real food. The kind of meal that makes you slow down and actually be somewhere.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Fork hits the plate. The table goes quiet. Mai Jo Restaurant in Ông Lang delivers the meal that makes you put your phone down. 4.7 stars. 1,815 people weren't lying. $15-30 a head.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Phu Quoc that doesn't feel touristy. Mai Jo Restaurant. 4.7★, 1,815 reviews. $15-30 a head. Tag your travel buddy.",
+          "video_caption": "The meal that slows everything down. Mai Jo Restaurant, Ông Lang. 4.7 stars. Go.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "The restaurant that makes you actually unplug. Mai Jo, Ông Lang. 4.7★ 1,815 reviews. #PhuQuoc #PhuQuocFood #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Phu Quoc that fixes burnout.",
+          "scenes": [
+            "Exterior shot: Mai Jo sign, Ông Lang street",
+            "Hands setting plates down on table",
+            "Close-up: food arriving, steam rising",
+            "Wide shot: relaxed diners, no crowds",
+            "Screen text: 4.7★ across 1,815 reviews"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ63dtv_KNpzERT8Yrx7sqVqs",
+      "placeName": "Nage Eatery Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-10-09-RT8Yrx7sqVqs-0.jpg",
+        "out/media/2026-10-09-RT8Yrx7sqVqs-1.jpg",
+        "out/media/2026-10-09-RT8Yrx7sqVqs-2.jpg",
+        "out/media/2026-10-09-RT8Yrx7sqVqs-3.jpg",
+        "out/media/2026-10-09-RT8Yrx7sqVqs-4.jpg",
+        "out/media/2026-10-09-RT8Yrx7sqVqs-5.jpg",
+        "out/media/2026-10-09-RT8Yrx7sqVqs-6.jpg",
+        "out/media/2026-10-09-RT8Yrx7sqVqs-7.jpg"
+      ],
+      "videoPath": "out/media/2026-10-09-RT8Yrx7sqVqs.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "433 reviews. 4.5 stars. And most tourists walk straight past it.\n\nNage Eatery Phu Quoc sits on Đường Trần Hưng Đạo and the numbers don't lie. Over 400 people rated this place and it still holds a 4.5. That's not luck. That's consistency.\n\nIf you're eating on that strip, this is the one. Save this for your Phu Quoc trip.",
+          "video_caption": "4.5 stars, 433 reviews, right on Đường Trần Hưng Đạo. Watch what lands on the table at Nage Eatery Phu Quoc and you'll get why the rating holds. This is the one.",
+          "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "433 reviews. 4.5 stars. Still flying under the radar.\n\nNage Eatery Phu Quoc, Đường Trần Hưng Đạo. Save this for your Phu Quoc trip.",
+          "video_caption": "Plates dropping at Nage Eatery Phu Quoc. 4.5 stars across 433 reviews. Đường Trần Hưng Đạo. Don't skip it.",
+          "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #PhuQuoc #VietnamTravel #TravelTips #TravelReels #FoodReels"
+        },
+        "tiktok": {
+          "caption": "4.5 stars, 433 reviews, and you probably haven't heard of it. Nage Eatery Phu Quoc, Đường Trần Hưng Đạo. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "433 reviews. 4.5 stars.",
+          "scenes": [
+            "Exterior shot: Đường Trần Hưng Đạo signage",
+            "Pan across full table spread",
+            "Close-up: steam rising from main dish",
+            "Cut to Google review count on screen",
+            "Slow zoom on crowded dining room"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}

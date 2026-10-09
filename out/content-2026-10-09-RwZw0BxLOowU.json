@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stop scrolling boat tours and actually book one on a catamaran.\n\nCatamaran Sarita Phú Quốc runs day trips out of 3 Lý Thường Kiệt. A proper catamaran, not a crowded party boat. 4.5 stars across 30 reviews tells you people come back happy.\n\nIf a catamaran charter is on your Phu Quoc list, this is worth a look.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Stepping onto the Catamaran Sarita Phú Quốc and the island disappears behind you. This is how you do the waters around Phu Quoc. Tag your travel buddy who needs this trip.",
+    "first_comment": "#PhuQuoc #PhuQuocTravel #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you traded the beach crowd for open water on a catamaran.\n\nCatamaran Sarita Phú Quốc, 4.5★. Save this.",
+    "video_caption": "Open water. Real catamaran. Catamaran Sarita Phú Quốc delivers. Share with someone planning Vietnam.",
+    "hashtags": "#PhuQuocTravel #PhuQuocTips #PhuQuocBoatTour #VietnamTravel #TravelTips #TravelReels #PhuQuocLife"
+  },
+  "tiktok": {
+    "caption": "POV: found a legit catamaran charter in Phu Quoc. Catamaran Sarita Phú Quốc, 4.5★. Don't miss this. #PhuQuoc #PhuQuocTravel #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: catamaran. Phu Quoc.",
+    "scenes": [
+      "Dock at 3 Lý Thường Kiệt, boat waiting",
+      "Step onto catamaran deck",
+      "Lines cast off, open water ahead",
+      "Aerial shot: catamaran cutting blue water",
+      "Guests on deck, coastline fading"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

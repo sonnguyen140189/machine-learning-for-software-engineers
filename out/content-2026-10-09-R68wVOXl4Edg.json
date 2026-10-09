@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 1,027 reviews. On a pizza-and-souvlaki joint in Phu Quoc.\n\nMEDITERRAN Greek & Italian Restaurant on 24 Đường Trần Hưng Đạo is doing something right. Real Greek souvlaki, wood-fired pizza, proper pasta. $15-30 a head. No resort markup.\n\nThis is the kind of place that earns repeat visits. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the souvlaki plate land on the table at MEDITERRAN. 1,027 people gave this spot 4.8 stars, and one bite in, you'll get why. Pizza, pasta, Greek classics. All under $30 a head.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocFood #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 1,027 reviews. For souvlaki in Phu Quoc.\n\nMEDITERRAN on Đường Trần Hưng Đạo: pizza, pasta, Greek classics. $15-30. Save this.",
+    "video_caption": "Pizza, souvlaki, 4.8 stars. MEDITERRAN is delivering hard on Đường Trần Hưng Đạo. Under $30 a head.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 1,027 reviews. Greek food in Phu Quoc hits different. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★. 1,027 reviews. Phu Quoc.",
+    "scenes": [
+      "Exterior shot: MEDITERRAN sign on Đường Trần Hưng Đạo",
+      "Close-up: souvlaki plate hits the table",
+      "Pull back: pizza straight from the oven",
+      "Fork twirls pasta, steam rising",
+      "Wide shot: busy dining room, full tables",
+      "End card: 4.8★ rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

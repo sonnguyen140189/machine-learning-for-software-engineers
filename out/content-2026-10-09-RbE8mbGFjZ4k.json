@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you take a random turn off the main road and end up in Rạch Hàm, Phú Quốc. Boats rocking. Nets drying. Zero tour groups. Ham Ninh fishing town is what most tourists drive straight past on the way to the beaches. 4.1 stars from over 1,000 reviews. The locals here are the real deal. Save this for your Phu Quoc trip.",
+    "video_caption": "Wooden boats, salt air, and fishermen hauling in the morning catch. Ham Ninh is running at its own pace, and nobody told the tourists. This is what Phu Quoc looks like before the resorts showed up.",
+    "first_comment": "#PhuQuoc #PhuQuocTravel #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "POV: wrong turn. Right place. Ham Ninh fishing town hits different when you stumble into it. Tag your travel buddy.",
+    "video_caption": "Boats in. Nets out. Ham Ninh runs on fishing time, not tourist time.",
+    "hashtags": "#PhuQuoc #PhuQuocTravel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #PhuQuocAttractions"
+  },
+  "tiktok": {
+    "caption": "POV: you found Ham Ninh before the crowds did. Real fishing town. Real Phu Quoc. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: you took the wrong turn.",
+    "scenes": [
+      "Aerial pull back: boats packed along the dock",
+      "Close up: weathered fishing nets dripping dry",
+      "Wide shot: fishermen sorting the morning catch",
+      "Slow pan: stilted wooden houses on the water",
+      "Tourist crowd b-roll cut: nobody else is here"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "2,585 reviews. 4.7 stars. This beef spot on Trần Hưng Đạo is not a secret anymore, and honestly it deserves every single one.\n\nBò Tơ Quán Đảo Phú Quốc serves young beef (bò tơ) done the Phu Quoc way. Tender, smoky, zero fuss. $15-30 a person for a full table spread.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the beef hit the grill at Bò Tơ Quán Đảo Phú Quốc. 2,585 locals and tourists have eaten here. The line at dinner tells you everything. $15-30 a head.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 2,585 reviews. Bò Tơ Quán Đảo Phú Quốc earns every one.\n\nBeef, fire, $15-30 a person. Tag your travel buddy.",
+    "video_caption": "Grill smoke, tender bò tơ, 2,585 reviews backed it. Bò Tơ Quán Đảo Phú Quốc delivers.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #BoToPhuQuoc #VietnamTravel #TravelTips #TravelReels #FoodReels"
+  },
+  "tiktok": {
+    "caption": "2,585 reviews on one beef restaurant in Phu Quoc. Bò Tơ Quán Đảo Phú Quốc. Go. #PhuQuoc #PhuQuocFood #VietnamFood #FoodTok"
+  },
+  "video_script": {
+    "hook": "2,585 reviews. One beef spot.",
+    "scenes": [
+      "Exterior shot: busy entrance, crowd visible",
+      "Raw beef platter lands on table",
+      "Grill ignites, smoke rises close-up",
+      "Hands place beef strips on grill",
+      "Golden sear, tongs flip the beef",
+      "Full table spread, diners eating"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

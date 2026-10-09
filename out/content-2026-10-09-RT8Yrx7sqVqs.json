@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "433 reviews. 4.5 stars. And most tourists walk straight past it.\n\nNage Eatery Phu Quoc sits on Đường Trần Hưng Đạo and the numbers don't lie. Over 400 people rated this place and it still holds a 4.5. That's not luck. That's consistency.\n\nIf you're eating on that strip, this is the one. Save this for your Phu Quoc trip.",
+    "video_caption": "4.5 stars, 433 reviews, right on Đường Trần Hưng Đạo. Watch what lands on the table at Nage Eatery Phu Quoc and you'll get why the rating holds. This is the one.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "433 reviews. 4.5 stars. Still flying under the radar.\n\nNage Eatery Phu Quoc, Đường Trần Hưng Đạo. Save this for your Phu Quoc trip.",
+    "video_caption": "Plates dropping at Nage Eatery Phu Quoc. 4.5 stars across 433 reviews. Đường Trần Hưng Đạo. Don't skip it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #PhuQuoc #VietnamTravel #TravelTips #TravelReels #FoodReels"
+  },
+  "tiktok": {
+    "caption": "4.5 stars, 433 reviews, and you probably haven't heard of it. Nage Eatery Phu Quoc, Đường Trần Hưng Đạo. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "433 reviews. 4.5 stars.",
+    "scenes": [
+      "Exterior shot: Đường Trần Hưng Đạo signage",
+      "Pan across full table spread",
+      "Close-up: steam rising from main dish",
+      "Cut to Google review count on screen",
+      "Slow zoom on crowded dining room"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

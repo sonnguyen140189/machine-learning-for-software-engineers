@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,806 reviews. Perfect 5.0 stars. Every single one.\n\nVEGAYACHTS at Sunset Town, An Thới, Phú Quốc is the kind of experience that turns first-timers into repeat bookers. Yacht tours off the south tip of Phu Quoc, golden-hour on the water, and a crew that actually delivers.\n\nNot one review below five stars. That's not luck. That's consistency.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the sun drop behind the horizon from the deck of a yacht off An Thới, Phú Quốc. VEGAYACHTS. 5.0 stars. 1,806 people weren't wrong. Book before it fills up.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "1,806 reviews. Perfect 5.0 stars. Zero exceptions.\n\nVEGAYACHTS, Sunset Town, An Thới, Phú Quốc. This is your sign to book.\n\nTag your travel buddy.",
+    "video_caption": "Sunset from a yacht off Phú Quốc. VEGAYACHTS. 5.0 stars from 1,806 guests. Some things just earn it.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocVietnam #VietnamTravel #TravelTips #TravelReels #YachtTour"
+  },
+  "tiktok": {
+    "caption": "5.0 stars. 1,806 reviews. VEGAYACHTS Phú Quốc just built different. #PhuQuoc #PhuQuocTours #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "5.0 STARS. 1,806 REVIEWS.",
+    "scenes": [
+      "Aerial drone: yacht leaving An Thới pier",
+      "Crew casts off ropes, boat moves out",
+      "Guests lean on rails, ocean all around",
+      "Sun hits the horizon, water turns gold",
+      "Close-up: 5-star review on phone screen",
+      "Wide shot: yacht silhouette at sunset"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

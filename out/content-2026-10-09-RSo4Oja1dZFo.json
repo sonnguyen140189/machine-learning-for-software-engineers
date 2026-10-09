@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes the noise.\n\nMai Jo Restaurant sits in Ông Lang, away from the main tourist strip. 4.7 stars across 1,815 reviews. That number is earned.\n\n$15-30 a head. Real food. The kind of meal that makes you slow down and actually be somewhere.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Fork hits the plate. The table goes quiet. Mai Jo Restaurant in Ông Lang delivers the meal that makes you put your phone down. 4.7 stars. 1,815 people weren't lying. $15-30 a head.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. Mai Jo Restaurant. 4.7★, 1,815 reviews. $15-30 a head. Tag your travel buddy.",
+    "video_caption": "The meal that slows everything down. Mai Jo Restaurant, Ông Lang. 4.7 stars. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The restaurant that makes you actually unplug. Mai Jo, Ông Lang. 4.7★ 1,815 reviews. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that fixes burnout.",
+    "scenes": [
+      "Exterior shot: Mai Jo sign, Ông Lang street",
+      "Hands setting plates down on table",
+      "Close-up: food arriving, steam rising",
+      "Wide shot: relaxed diners, no crowds",
+      "Screen text: 4.7★ across 1,815 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

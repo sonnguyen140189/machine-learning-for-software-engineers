@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 34 reviews. One tour agency in An Thới that keeps showing up on Phu Quoc itineraries. Phú Quốc Go operates out of Sky Building, SunGrand, and handles island tours so you're not piecing it together alone. Solid ratings for a reason. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the An Thới side of Phu Quoc from a tour that actually delivers. Phú Quốc Go, Sky Building, SunGrand. 4.7 stars, 34 reviews. Book before your dates fill.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 34 reviews. Phú Quốc Go is the An Thới tour agency worth bookmarking. Save this before your trip.",
+    "video_caption": "Tour Phu Quoc the right way. Phú Quốc Go, 4.7 stars. Sky Building, SunGrand, An Thới.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #AnThoi #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.7 stars in An Thới. Phú Quốc Go handles your island tours. #PhuQuoc #PhuQuocTours #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.7 stars. 34 reviews.",
+    "scenes": [
+      "Aerial shot: An Thới coastline",
+      "Pan up Sky Building facade",
+      "Zoom in: Phú Quốc Go signage",
+      "Cut: tour boat leaving dock",
+      "Screen: 4.7★ rating card"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "732 reviews. 4.7 stars. And The Spice House Restaurant at Cassia Cottage Phu Quoc keeps delivering.\n\nAsian fusion done right on Đường Trần Hưng Đạo. Plates $15-30. The kind of spot that earns repeat visits, not just one-time clicks.\n\nIf you're eating well in Phu Quoc, this address belongs on your list. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the plates land at The Spice House Restaurant at Cassia Cottage Phu Quoc. Asian fusion, 4.7 stars, 732 people already convinced. $15-30 a head on Đường Trần Hưng Đạo. Your move.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 732 reviews. The Spice House Restaurant at Cassia Cottage Phu Quoc earns every one.\n\nAsian fusion, $15-30. Save this for your Phu Quoc trip.",
+    "video_caption": "732 people rated this 4.7 stars. Plates hitting the table at The Spice House Restaurant at Cassia Cottage Phu Quoc. Worth every cent.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #AsianFusion"
+  },
+  "tiktok": {
+    "caption": "4.7 stars & 732 reviews at The Spice House Restaurant at Cassia Cottage Phu Quoc. Asian fusion for $15-30. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.7★, 732 reviews don't lie.",
+    "scenes": [
+      "Exterior shot of Cassia Cottage entrance",
+      "Camera pans across full dining table",
+      "Close-up: Asian fusion dish plated up",
+      "Fork cuts in, steam rises",
+      "Google rating card animates on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

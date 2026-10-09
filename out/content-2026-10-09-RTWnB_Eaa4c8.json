@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk past Bếp An Restaurant every day. Locals don't say a word. 4.7 stars across 2,316 reviews and it still flies under the radar on Đường Trần Hưng Đạo. Vietnamese food done right, no resort markup. Around $15-30 a head for a full meal. That's the deal. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what lands on the table at Bếp An Restaurant. Real Vietnamese cooking on Đường Trần Hưng Đạo, 4.7 stars, 2,316 reviews deep. This is where locals eat when tourists aren't looking.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Bếp An Restaurant. 4.7★, 2,316 reviews, still off the tourist trail. $15-30 a head. Save this.",
+    "video_caption": "Real Vietnamese food. 4.7 stars. No tourist markup. Bếp An Restaurant is the one locals keep quiet about.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamFood #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Locals eat here. Tourists walk past. Bếp An Restaurant, Phu Quoc. 4.7★ and 2,316 reviews don't lie. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior shot: Bếp An Restaurant sign",
+      "Pan across packed local tables",
+      "Close-up: steaming Vietnamese dishes served",
+      "Cut to Google review: 4.7★, 2,316 reviews",
+      "Show street view: Đường Trần Hưng Đạo"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 195 reviews. Zero complaints.\n\nGrace's Tour Phú Quốc handles the stuff that kills travel days: SIM cards on arrival, currency exchange, diving bookings, and a real English speaker who actually picks up the phone.\n\nOne address on Đường Trần Hưng Đạo and your first 24 hours in Phu Quoc are sorted.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walk in. SIM card, cash exchanged, diving trip booked. Walk out. Grace's Tour Phú Quốc does it all from one shop on Đường Trần Hưng Đạo. 5.0 stars from 195 real travelers. Go here first.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #PhuQuocDiving #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 195 reviews. No debate.\n\nSIM card, money exchange, diving, English support. One stop.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "First stop in Phu Quoc. Grace's Tour Phú Quốc. SIM, cash, diving, sorted in minutes. 5.0 stars for a reason.",
+    "hashtags": "#PhuQuocTips #PhuQuocDiving #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VisitVietnam #TravelHacks"
+  },
+  "tiktok": {
+    "caption": "5.0 stars. 195 reviews. Grace's Tour Phú Quốc sorts your SIM, cash, and diving in one stop. Go here first. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelHacks"
+  },
+  "video_script": {
+    "hook": "5.0 stars. 195 reviews.",
+    "scenes": [
+      "Exterior shot: shop sign on Đường Trần Hưng Đạo",
+      "Staff hands over a SIM card, phone lights up",
+      "Cash counted out on exchange counter",
+      "Diving gear hanging, trip board in background",
+      "Close-up: Google review screen showing 5.0 stars"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
