@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.4 stars. 565 reviews. For a grocery store.\n\nKingkong Mart on Đường Bạch Đằng is where smart travelers stock up. Snacks, drinks, local products, sunscreen. Everything you forgot to pack and a few things you didn't know you needed.\n\nSkip the resort mini-bar prices. This is your move.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Cart filling up fast at Kingkong Mart. Local snacks, cold drinks, beach supplies. 565 people rated this place 4.4 stars. A grocery run that actually delivers.",
+    "first_comment": "#PhuQuoc #PhuQuocTravel #PhuQuocTips #VisitVietnam #TravelTips #VietnamTravel #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "4.4 stars. 565 reviews. For a grocery store in Phu Quoc.\n\nKingkong Mart. Cold drinks, snacks, supplies. Skip the resort markup.\n\nSave this.",
+    "video_caption": "Grabbing cold drinks and local snacks at Kingkong Mart. 565 reviews don't lie. Your wallet will thank you.",
+    "hashtags": "#PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #PhuQuocFood #TravelReels #ThingsToDoPhuQuoc #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "4.4 stars for a grocery store?? Kingkong Mart delivers. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels"
+  },
+  "video_script": {
+    "hook": "4.4★ grocery store. 565 reviews.",
+    "scenes": [
+      "Exterior shot of Kingkong Mart sign",
+      "Panning shelves of local snacks",
+      "Close-up of cold drink section",
+      "Hands loading a basket with supplies",
+      "Receipt or checkout counter moment"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

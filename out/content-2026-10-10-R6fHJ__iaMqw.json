@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 198 reviews. On a side street in Ông Lang that most tourists never find.\n\nPeace Corner Coffee & Homemade Food on Đường Dinh Bà is doing something right. Homemade food, real coffee, and the kind of slow morning Phu Quoc is supposed to feel like. All under $30 a head.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the food land on this table. Homemade. $$ pricing. 4.9 stars from 198 people who already know about Peace Corner Coffee & Homemade Food in Ông Lang. Now you do too.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #PhuQuocRestaurant #VietnamFood"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 198 reviews. A side street in Ông Lang.\n\nPeace Corner Coffee & Homemade Food hits different at this price. Save this.",
+    "video_caption": "Homemade food. Real coffee. 4.9 stars. Ông Lang's best-kept table just got found.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocRestaurant #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "4.9 stars in Ông Lang and nobody's talking about it. Peace Corner hits. #PhuQuoc #PhuQuocFood #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "4.9 stars. Ông Lang. $30 max.",
+    "scenes": [
+      "Pan down Đường Dinh Bà street sign",
+      "Push in on cafe exterior, low foot traffic",
+      "Close-up: homemade dish lands on table",
+      "Steam rising from coffee cup, slow zoom",
+      "Wide shot: relaxed local dining vibe"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

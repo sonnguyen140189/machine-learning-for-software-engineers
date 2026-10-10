@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk past this every day on Đường Trần Hưng Đạo. Locals don't. Tram Tram's Banh Mi has 509 reviews and a 4.5-star rating. Under $10. The line moves fast, the bread is fresh, and it tastes nothing like the resort versions. This is the real Phu Quoc sandwich stop. Save this for your Phu Quoc trip.",
+    "video_caption": "Bread cracks on camera. Locals queue at Tram Tram's Banh Mi on Đường Trần Hưng Đạo. 509 reviews. Under $10. You've walked past this twice already.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BanhMiVietnam #VisitVietnam #TravelTips #PhuQuocTips #VietnamStreetFood"
+  },
+  "instagram": {
+    "caption": "Locals don't tell tourists about Tram Tram's Banh Mi. 4.5 stars. 509 reviews. Under $10. Find it on Đường Trần Hưng Đạo. Save this.",
+    "video_caption": "509 locals rated this banh mi spot on Đường Trần Hưng Đạo. Still empty when tourists walk past.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #BanhMiVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocEats #StreetFoodVietnam #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Tourists keep walking past Tram Tram's Banh Mi. 4.5 stars, 509 reviews, under $10. Don't be that tourist. #PhuQuoc #PhuQuocFood #BanhMi #VietnamStreetFood"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior shot: storefront on Đường Trần Hưng Đạo",
+      "Locals queuing, tourists walking past",
+      "Hands pulling fresh banh mi from basket",
+      "Knife slicing bread, fillings loaded in",
+      "Close-up: first bite, steam rising",
+      "Price tag visible: under $10"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

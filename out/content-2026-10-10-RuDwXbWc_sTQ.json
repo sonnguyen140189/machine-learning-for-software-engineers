@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "Walked down Đường Nguyễn Văn Trỗi and almost missed it. Quán Ăn 93 sits at number 93/185, no flashy sign, no tourist menu out front. 358 reviews later, it's clearly doing something right. A solid $$ bistro in Khu 2 where a full meal runs $15-30 per person. This is where you eat like you actually live here. Save this for your Phu Quoc trip.",
+    "video_caption": "Camera pans down a local Phu Quoc street. No resort logos. No English menus. Just Quán Ăn 93, 358 reviews deep, and a table with your name on it. $15-30 a head. Worth every dong.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you stopped scrolling and actually turned down the side street. Quán Ăn 93, 4.3 stars, $15-30 a head. Tag your travel buddy.",
+    "video_caption": "No tourist trap energy. Just Quán Ăn 93, a local Phu Quoc bistro, 358 reviews, and real food for under $30.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodieTravel"
+  },
+  "tiktok": {
+    "caption": "Almost walked past Quán Ăn 93. Don't be me. 4.3 stars, $15-30/head, real Phu Quoc food. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Walked past 3 times. Don't be me.",
+    "scenes": [
+      "Street-level shot: Đường Nguyễn Văn Trỗi, no tourist signs",
+      "Camera finds the 93/185 address plate",
+      "Door opens, locals already seated inside",
+      "Close-up: plates landing on table",
+      "Receipt reveal: under $30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

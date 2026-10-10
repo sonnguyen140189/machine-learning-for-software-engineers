@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 1,019 reviews. For bánh mì.\n\nBánh Mì Sài Gòn - Phú Quốc on Đường Trần Hưng Đạo is not a restaurant. It's a bakery that somehow outscores half the sit-down spots on the island. Crispy baguette, loaded fillings, loose change out of your pocket. This is your breakfast sorted before the beach crowds hit. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the baguette crack when they press it. That sound alone is worth the detour to Bánh Mì Sài Gòn - Phú Quốc. 4.8 stars from over 1,000 people. Breakfast under $5. Go early.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BanhMi #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+  },
+  "instagram": {
+    "caption": "4.8★ from 1,019 reviews. For a bánh mì stand.\nBánh Mì Sài Gòn - Phú Quốc. Go before the beach. Tag your travel buddy.",
+    "video_caption": "That crunch. 1,019 people rated this place 4.8 stars. Bánh Mì Sài Gòn - Phú Quốc. Your move.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #BanhMi #VietnamTravel #TravelTips #TravelReels #PhuQuoc #StreetFoodVietnam"
+  },
+  "tiktok": {
+    "caption": "1,019 reviews. 4.8 stars. It's a bánh mì spot. Bánh Mì Sài Gòn - Phú Quốc earned every one. #PhuQuoc #BanhMi #VietnamFood #StreetFood"
+  },
+  "video_script": {
+    "hook": "4.8★ from 1,019 reviews.",
+    "scenes": [
+      "Exterior shot: busy street counter, queue forming",
+      "Hands splitting a golden baguette in half",
+      "Close-up: fillings layered inside the roll",
+      "First bite, audible crunch",
+      "Google review count on screen: 1,019"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

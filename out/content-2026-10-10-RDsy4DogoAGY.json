@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you smell the charcoal before you even see the sign.\n\nSong Gia Food Phu quoc on Đường Nguyễn Du is doing BBQ the way locals actually eat it. $15-30 a head. 4.8 stars. Smoke in your hair for the rest of the night.\n\nOrder everything that comes off the grill. You will not regret it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Charcoal fired up, skewers hitting the grill, smoke everywhere. Song Gia Food Phu quoc at Đường Nguyễn Du is the BBQ spot your resort map will never show you. $15-30 a person. 4.8 stars. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BBQPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you follow the charcoal smoke down Đường Nguyễn Du and end up at this.\n\nSong Gia Food Phu quoc. 4.8 stars. $15-30 a head. Tag your travel buddy.",
+    "video_caption": "Smoke rising, grill glowing, skewers piling up. Song Gia Food Phu quoc hits different after dark. 4.8 stars, $15-30.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurant #BBQVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Followed the smoke. Ended up here. Song Gia Food Phu quoc = best BBQ decision you'll make. #PhuQuoc #PhuQuocFood #VietnamTravel #BBQ"
+  },
+  "video_script": {
+    "hook": "POV: you followed the smoke.",
+    "scenes": [
+      "Smoke rising from open charcoal grill",
+      "Skewers and seafood laid raw on counter",
+      "Grill master flipping meat, flames up",
+      "Packed local crowd eating at low tables",
+      "Close-up: charred skewer lifted to camera"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

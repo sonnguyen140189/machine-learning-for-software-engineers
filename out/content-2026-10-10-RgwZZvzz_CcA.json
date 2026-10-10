@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars. 99 reviews. And most tourists walk right past Chợ đêm Ẩm thực Phu Quoc Marina.\n\nThis night food market sits inside the Marina strip and pulls locals in every evening. Grilled seafood, local street bites, cold drinks. The kind of place where you eat with your hands and lose track of time.\n\nNot the biggest market on the island. Just one of the most rated. Save this for your Phu Quoc trip.",
+    "video_caption": "Smoke rising. Grills going. Chợ đêm Ẩm thực Phu Quoc Marina after dark. 4.5 stars from 99 reviewers and the vibe backs it up. Walk in hungry.",
+    "first_comment": "#PhuQuoc #PhuQuocNightMarket #PhuQuocFood #VisitVietnam #TravelTips #VietnamStreetFood #PhuQuocTravel"
+  },
+  "instagram": {
+    "caption": "4.5 stars. 99 reviews. Chợ đêm Ẩm thực Phu Quoc Marina earns it.\n\nGrills, local bites, no tourist markup energy. Tag your travel buddy.",
+    "video_caption": "Smoke, grills, and a 4.5-star night market most visitors skip. Chợ đêm Ẩm thực Phu Quoc Marina hits different after dark.",
+    "hashtags": "#PhuQuocFood #PhuQuocNightMarket #PhuQuocTips #VietnamStreetFood #VietnamTravel #TravelReels #TravelTips #PhuQuocTravel"
+  },
+  "tiktok": {
+    "caption": "4.5 stars and 99 reviews at this Phu Quoc night market. Chợ đêm Ẩm thực Phu Quoc Marina. Go hungry. #PhuQuoc #PhuQuocFood #VietnamStreetFood #NightMarket"
+  },
+  "video_script": {
+    "hook": "4.5 stars. 99 reviews.",
+    "scenes": [
+      "Aerial pull into marina strip at dusk",
+      "Market stalls lighting up, vendors setting up",
+      "Close-up: seafood hitting the grill",
+      "Crowd shot, locals filling tables",
+      "Hand picking up skewer, smoke rising",
+      "Sign: Chợ đêm Ẩm thực Phu Quoc Marina"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

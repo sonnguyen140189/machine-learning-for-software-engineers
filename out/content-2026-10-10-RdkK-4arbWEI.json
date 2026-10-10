@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $30 for two at Nhà Xưa 68. Real Vietnamese food, 687 people rated it 4.4 stars, and it sits right on Lý Thường Kiệt. Not a resort buffet. Not a tourist trap. Just solid local cooking at a price that makes you question every hotel restaurant you've ever booked. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch this plate land on the table at Nhà Xưa 68. $15-30 per person, 4.4 stars, 687 reviews. This is what eating local in Phu Quoc actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips #VietnamFood #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "$15-30 a head at Nhà Xưa 68. 4.4 stars. 687 reviews. Do the math. Tag your travel buddy.",
+    "video_caption": "Plates hitting the table at Nhà Xưa 68. Under $30 for two. Phu Quoc locals know.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "Under $30 for two at Nhà Xưa 68 in Phu Quoc. 4.4 stars, 687 reviews. Eat here. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "$30 dinner for TWO in Phu Quoc??",
+    "scenes": [
+      "Exterior shot: Nhà Xưa 68 sign lit up",
+      "Hands pointing at menu prices",
+      "Steaming dishes arriving at table",
+      "Close-up: chopsticks lifting first bite",
+      "Wide shot: packed local crowd dining"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

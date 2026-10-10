@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you finally found the good Bún Quậy in Phu Quoc.\n\nBún quậy THIỆN MỸ on Đường Trần Hưng Đạo. 4.7 stars. 420 reviews. Under $10 a head.\n\nThis is the bowl locals actually eat. Springy noodles, fresh seafood, broth that earns its reputation. No resort markup. No tourist menu.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch closely. This is how Bún Quậy is supposed to look. Bún quậy THIỆN MỸ, 420 reviews deep, under $10. Phu Quoc's local bowl, no filter needed.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BunQuay #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "POV: you walked past this 3 times. Don't be me.\n\nBún quậy THIỆN MỸ. 4.7★. Under $10. Save this.",
+    "video_caption": "The bowl that 420 reviewers didn't lie about. Bún quậy THIỆN MỸ. Under $10. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #BunQuay #VietnamTravel #TravelTips #TravelReels #PhuQuocRestaurants #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "POV: found the Phu Quoc bowl locals rate at 4.7★ for under $10 #PhuQuoc #PhuQuocFood #BunQuay #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found the good Bún Quậy.",
+    "scenes": [
+      "Exterior shot, busy local crowd outside",
+      "Hands stir springy noodles in broth",
+      "Close-up: seafood toppings hit the bowl",
+      "Steam rising, chopsticks lift first bite",
+      "Price check on screen: under $10"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
