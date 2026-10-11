@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "453 reviews. 4.5 stars. And it's fully vegan.\n\nNhà Hàng Chay NẤM on Đường Nguyễn Trãi is doing something right. Plant-based Vietnamese dishes that actually convert meat-eaters. The kind of place locals bring their whole family on a Sunday.\n\nPriced at $15-30 per person. Solid value for what lands on the table.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch what a $15-30 vegan meal looks like at Nhà Hàng Chay NẤM. Full plates. Real Vietnamese flavors. Zero meat. 453 people gave it 4.5 stars and they weren't wrong.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VeganVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "453 reviews. 4.5 stars. Fully vegan. Nhà Hàng Chay NẤM is the real deal.\n\nPlant-based Vietnamese done right. Save this.",
+    "video_caption": "Phu Quoc has a vegan restaurant with 453 reviews and 4.5 stars. Nhà Hàng Chay NẤM. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VeganVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "453 reviews. 4.5 stars. Fully vegan in Phu Quoc. Nhà Hàng Chay NẤM delivers. #PhuQuoc #PhuQuocFood #VeganVietnam #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "453 reviews. All vegan.",
+    "scenes": [
+      "Exterior shot: Đường Nguyễn Trãi sign visible",
+      "Hands lifting lids off steaming clay pots",
+      "Close-up: colorful plant-based dishes plated",
+      "Chopsticks pulling noodles from a deep bowl",
+      "Review screen: 4.5 stars, 453 ratings"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

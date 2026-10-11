@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "514 reviews. 4.1 stars. And most tourists have never heard of Suối Đá Bàn.\n\nThis eco-tourism spot is all natural rock formations, cool stream water, and zero resort crowds. The kind of place where you actually slow down.\n\nIf you're planning a day away from the beach strip, this is worth adding to the list.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the water run over these massive rock slabs at Suối Đá Bàn. No resort. No crowds. Just 514 reviewers who already know about this spot, and the rest of us catching up.",
+    "first_comment": "#PhuQuoc #PhuQuocNature #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #EcoTourism"
+  },
+  "instagram": {
+    "caption": "514 reviews. Most tourists still walk past Suối Đá Bàn.\n\nNatural rock slabs. Cool stream. Zero crowds. Save this.",
+    "video_caption": "Water rushing over giant rocks at Suối Đá Bàn. 4.1 stars from 514 people, and it's still this quiet.",
+    "hashtags": "#PhuQuocNature #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "514 people rated Suối Đá Bàn 4.1 stars. Still empty when you get there. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "514 reviews. Zero crowds.",
+    "scenes": [
+      "Drone pull-back over rocky stream",
+      "Water flowing across flat stone slabs",
+      "Visitor wading through shallow current",
+      "Close-up: crystal water over dark rock",
+      "Wide shot: dense jungle canopy above"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

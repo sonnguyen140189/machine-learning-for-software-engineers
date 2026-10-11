@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this. Cầu Ánh Sáng sits inside Grand World Phu Quoc and most visitors never slow down long enough to actually look at it. Lit up at night, the bridge reflects across the water in a way your camera will not be ready for. Go after dark. No crowd. No queue. Just you and the lights. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking across Cầu Ánh Sáng after dark, lights hitting the water below. This is inside Grand World and almost nobody stops here. Go slow. Worth every second.",
+    "first_comment": "#PhuQuoc #GrandWorldPhuQuoc #PhuQuocNightlife #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this. Cầu Ánh Sáng at night hits different. Go after dark. Tag your travel buddy.",
+    "video_caption": "Nobody stops at Cầu Ánh Sáng. Their loss. Lights on the water after dark inside Grand World.",
+    "hashtags": "#PhuQuocTips #GrandWorldPhuQuoc #PhuQuocAtNight #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Everyone walks past Cầu Ánh Sáng inside Grand World. Don't be that tourist. Go after dark. #PhuQuoc #GrandWorldPhuQuoc #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists skip this every night.",
+    "scenes": [
+      "Wide shot: bridge lit up at night",
+      "Slow pan across water reflections",
+      "Close-up: light strips on railings",
+      "Empty walkway, zero crowds",
+      "Camera tilts down to glowing water"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
