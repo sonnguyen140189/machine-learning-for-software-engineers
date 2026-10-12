@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists scroll past this one. Locals who work in hospitality? They book here for their own getaways. Seashells Phu Quoc Hotel & Spa on 01 Võ Thị Sáu hits different: private beach area, spa, pool, free breakfast, 4.4 stars across 2,926 reviews. Duong Dong location means you're close to everything but sleeping somewhere that feels calm. Save this for your Phu Quoc trip.",
+    "video_caption": "Pool to private beach. Breakfast included. 4.4 stars from 2,926 guests. Seashells Phu Quoc Hotel & Spa keeps showing up for a reason. This is what a smart Phu Quoc base looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #VisitVietnam #TravelTips #PhuQuocResort #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Resort staff book here on their days off. Seashells Phu Quoc Hotel & Spa, private beach, spa, free breakfast, 4.4★. Tag your travel buddy.",
+    "video_caption": "Private beach. Spa. Pool. Free breakfast. Seashells Phu Quoc Hotel & Spa earns its 4.4 stars every single morning.",
+    "hashtags": "#PhuQuocHotels #PhuQuocResort #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocBeach"
+  },
+  "tiktok": {
+    "caption": "The hotel hospitality workers actually stay at. Seashells Phu Quoc Hotel & Spa. 4.4★, private beach, free breakfast. #PhuQuoc #PhuQuocHotels #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Resort staff book here off-duty.",
+    "scenes": [
+      "Aerial pan: pool meets private beach",
+      "Breakfast spread, wide angle shot",
+      "Spa treatment room, low light, calm",
+      "Room interior, balcony sea light",
+      "Guest walking from pool to beach"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

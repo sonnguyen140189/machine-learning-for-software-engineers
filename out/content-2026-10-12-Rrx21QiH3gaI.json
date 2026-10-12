@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking Đường Trần Hưng Đạo and Blue Monkey Bar pulls you in.\n\n4.6 stars. 546 reviews. $15-30 a person.\n\nNot the loudest bar on the strip. Not the cheapest. Just consistently good, every single time.\n\nDrinks land fast. Vibe is easy. The kind of place you plan one drink at and close down.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Drinks hitting the bar top at Blue Monkey Bar, Đường Trần Hưng Đạo. 546 people rated this 4.6 stars and yeah, you'll see why in the first round.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBars #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: one drink at Blue Monkey Bar turns into three.\n\n4.6★, 546 reviews, $15-30pp. Tag your travel buddy.",
+    "video_caption": "Walked in for one. Stayed for the whole night. Blue Monkey Bar, Phu Quoc. 4.6 stars for a reason.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: you find Blue Monkey Bar on night one. Trip sorted. #PhuQuoc #PhuQuocBars #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: you found the bar.",
+    "scenes": [
+      "Walk up to Blue Monkey Bar entrance",
+      "Bartender shaking drinks, close shot",
+      "Full bar crowd, buzzing atmosphere",
+      "Hand grabs a cocktail off the bar",
+      "4.6★ review count appears on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

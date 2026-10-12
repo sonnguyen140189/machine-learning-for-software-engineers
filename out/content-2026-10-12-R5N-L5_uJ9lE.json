@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Sonaga Beach Resort & Villa sits right on the water in Đường Bào, and the moment you arrive, the pace just drops. 4.2 stars across 1,515 reviews. That kind of consistency doesn't happen by accident. Beach access, villa-style rooms, the kind of quiet that actually recharges you. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the stress leave. Sonaga Beach Resort & Villa, Đường Bào. Private beach, villa rooms, 4.2 stars from 1,515 guests. This is what a proper reset looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocVilla #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Sonaga Beach Resort & Villa. 4.2★, 1,515 reviews. Beach access, villa rooms, real quiet. Tag your travel buddy.",
+    "video_caption": "Beachfront. Villa rooms. 4.2 stars. Sonaga Beach Resort & Villa delivers the reset you actually need.",
+    "hashtags": "#PhuQuocResort #PhuQuocVilla #PhuQuocHotel #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The resort that actually recharges you. Sonaga Beach Resort & Villa, Phu Quoc. 4.2★ 1,515 reviews. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Slow pan: resort entrance at golden hour",
+      "Villa room door opens to beach view",
+      "Feet in sand, waves rolling in",
+      "Aerial pull-back over waterfront villas",
+      "Guest relaxing, drink in hand, zero crowds"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "3,988 reviews. 4.8 stars. On one of the busiest streets in Phu Quoc.\n\nFIONA SPA at 20 Đường Trần Hưng Đạo isn't coasting on tourist foot traffic. That rating is earned.\n\nBook a slot before your beach day. Walk out feeling like a different person.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the tension leave. Fiona Spa on Đường Trần Hưng Đạo holds a 4.8 across nearly 4,000 reviews. The table does not lie. Tag your travel buddy who needs this.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 3,988 reviews. Fiona Spa delivers every time.\n\n20 Đường Trần Hưng Đạo, Phú Quốc. Save this.",
+    "video_caption": "Nearly 4,000 people rated Fiona Spa 4.8. Your body already knows what to do.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 3,988 reviews. Fiona Spa on Đường Trần Hưng Đạo slaps. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "3,988 reviews. 4.8 stars.",
+    "scenes": [
+      "Exterior shot: Đường Trần Hưng Đạo sign visible",
+      "Reception desk, calm lighting, staff greeting",
+      "Hands pouring warm oil, slow zoom",
+      "Guest face, eyes closed, visibly relaxed",
+      "Google review screen: 4.8 stars scrolling"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

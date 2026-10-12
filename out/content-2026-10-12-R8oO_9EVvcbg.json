@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.6 stars. 1,063 reviews. La Veranda Resort Phu Quoc keeps delivering.\n\nKayaks at your door. Yoga on the beach. Mediterranean dining steps from Đường Trần Hưng Đạo. A spa that actually earns its price tag.\n\nThis is Duong Dong Beach done right. Not a party hotel. Not a budget crash pad. The kind of place you book once and start planning the return trip before checkout.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Paddle out from La Veranda Resort Phu Quoc at sunrise. Back for a beach yoga session. Lunch at the Mediterranean restaurant. Spa by 3pm. 4.6 stars across 1,063 stays. The reviews add up for a reason.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips #MGallery #LuxuryTravel"
+  },
+  "instagram": {
+    "caption": "4.6 stars. 1,063 reviews. La Veranda Resort Phu Quoc keeps earning both.\n\nKayaks, beach yoga, Mediterranean dining, spa. Duong Dong Beach at its best.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Kayak launch at sunrise. Yoga on the sand. Spa by afternoon. La Veranda Resort Phu Quoc. 4.6 stars. 1,063 people agree.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #MGalleryHotel #LuxuryHotel #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.6 stars. 1,063 reviews. La Veranda Resort Phu Quoc hits different. Kayaks, yoga, spa, Mediterranean food. All on Duong Dong Beach. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.6★ · 1,063 reviews · Phu Quoc",
+    "scenes": [
+      "Aerial pull back over Duong Dong Beach",
+      "Kayaks launching into calm blue water",
+      "Guest mid-pose at beachfront yoga class",
+      "Mediterranean dishes plated at the restaurant",
+      "Hands receiving a spa treatment inside",
+      "Review count animates up to 1,063"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

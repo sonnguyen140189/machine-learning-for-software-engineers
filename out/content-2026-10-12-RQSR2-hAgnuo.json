@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you picked Khem Beach and everyone else is stuck near the ferry port. New World Phu Quoc Resort sits right on one of the quietest stretches of coast on the island. 4.7 stars across 6,012 reviews. That's not luck. That's consistency. If you're planning Phu Quoc, this end of the island changes the whole trip. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into New World Phu Quoc Resort on Khem Beach. 4.7 stars, 6,012 reviews, and somehow the beach is still calm. This is what picking the right side of the island looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #KhemBeach #PhuQuocHotel #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "POV: you booked Khem Beach while everyone else crowded the north. New World Phu Quoc Resort. 4.7★, 6,012 reviews. Tag your travel buddy.",
+    "video_caption": "Khem Beach, calm water, 4.7 stars. New World Phu Quoc Resort just hits different on this side of the island.",
+    "hashtags": "#PhuQuocResort #KhemBeach #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocBeaches"
+  },
+  "tiktok": {
+    "caption": "POV: right resort, right beach, right side of Phu Quoc. New World delivers. #PhuQuoc #KhemBeach #PhuQuocResort #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you picked the right beach.",
+    "scenes": [
+      "Aerial drone over Khem Beach coastline",
+      "Resort entrance, wide open and calm",
+      "Slow walk along the beachfront path",
+      "Empty beach chairs facing the water",
+      "Rating card: 4.7★ across 6,012 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

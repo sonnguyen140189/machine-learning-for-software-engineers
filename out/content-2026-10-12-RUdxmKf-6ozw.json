@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered down Đường Trần Hưng Đạo and found NONÊ Kitchen & Bar Phu Quoc. 4.9 stars. 120 reviews. The kind of place that makes you cancel tomorrow's reservation. $15-30 a head for food that earns those numbers. Go hungry. Go twice. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch this before you book dinner in Phu Quoc. NONÊ Kitchen & Bar is sitting at 4.9 stars on Đường Trần Hưng Đạo and most tourists walk straight past it. $15-30 a head. That's the whole bill.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+  },
+  "instagram": {
+    "caption": "Walked past twice. Third time I went in. NONÊ Kitchen & Bar, 4.9 stars, $15-30 a head. Tag your travel buddy.",
+    "video_caption": "4.9 stars on Đường Trần Hưng Đạo. NONÊ Kitchen & Bar hits different when you finally find it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: you almost skipped the best dinner of your trip. NONÊ Kitchen & Bar, 4.9★, $15-30. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Walked past 3 times. Don't be me.",
+    "scenes": [
+      "Exterior shot: NONÊ sign on Đường Trần Hưng Đạo",
+      "Push through the entrance, full dining room",
+      "Close-up: plates landing on table",
+      "Cut to: fork hitting first bite",
+      "Flash: 4.9-star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
