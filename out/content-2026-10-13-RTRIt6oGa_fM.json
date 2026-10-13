@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk right past this street. Locals keep coming back.\n\nGolden Foot Massage Retreat Phú Quốc sits on Đường Chu Văn An, away from the resort strip, rated 4.9 stars by 97 reviewers who clearly found what they were looking for.\n\nNo lobby theatrics. No upsell pressure. Just serious massage work on a quiet street most visitors never turn down.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.9 stars. 97 reviews. On a street tourists skip entirely. Watch what a proper massage retreat in Phu Quoc actually looks like, no resort markup attached.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #PhuQuocTips #VisitVietnam #TravelTips #MassagePhuQuoc #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Locals don't talk about this one. 4.9 stars, 97 reviews, zero tourist foot traffic.\n\nGolden Foot Massage Retreat Phú Quốc, Đường Chu Văn An. Save this.",
+    "video_caption": "Skip the resort spa. This street finds you a 4.9-star massage and nobody's fighting you for a slot.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocLife #ThingsToDoPhuQuoc #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "The street tourists walk past, locals keep booking. 4.9 stars says enough. #PhuQuoc #PhuQuocSpa #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this spa.",
+    "scenes": [
+      "Walk down quiet Đường Chu Văn An",
+      "Storefront sign: Golden Foot Massage Retreat",
+      "Close-up: 4.9 stars on screen",
+      "Hands working a foot massage",
+      "Empty street outside, zero tourist crowd"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

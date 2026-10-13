@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this place. TIỆM CHAY TÂM AN sits at 38 Hoàng Văn Thụ and pulls a 4.9 rating from people who actually live here. Full vegetarian menu. Under $10 a head. No resort markup, no tourist menu. Just clean, honest food that locals come back to. If you're skipping meat for a day or just want something real, this is the spot. Save this for your Phu Quoc trip.",
+    "video_caption": "Camera walks into TIỆM CHAY TÂM AN and the locals don't look up. That's the sign. 4.9 stars, under $10, zero tourist energy. Phu Quoc vegetarian done right.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+  },
+  "instagram": {
+    "caption": "Locals don't post about TIỆM CHAY TÂM AN. 4.9 stars. Under $10. Full veg menu. Now you know. Save this for your Phu Quoc trip.",
+    "video_caption": "Walked into TIỆM CHAY TÂM AN. Packed with locals. Under $10. 4.9 stars. That's all.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #VegetarianFood #TravelReels #PhuQuocRestaurants #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "Locals eat here daily. Tourists walk past. TIỆM CHAY TÂM AN. 4.9 stars. Under $10. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips #VegetarianFood"
+  },
+  "video_script": {
+    "hook": "Locals don't tell tourists this.",
+    "scenes": [
+      "Exterior shot: simple shophouse sign",
+      "Pan across packed local diners eating",
+      "Close-up: bowls of fresh vegetarian dishes",
+      "Hands reaching for food, steam rising",
+      "Price board on wall, all under $10",
+      "4.9-star rating on phone screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

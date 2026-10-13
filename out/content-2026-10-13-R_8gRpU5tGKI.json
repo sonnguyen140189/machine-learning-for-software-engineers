@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,157 reviews. 4.7 stars. At a vegetarian restaurant most tourists walk straight past.\n\nNora's Cafe - Restaurant sits on Hem Chua Ong, Cửa Lấp, Phú Quốc, and the numbers don't lie. Plant-based food at this level, in this price range ($15-30/person), is not easy to find on the island.\n\nBook the trip. Add this to the list.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.7 stars across 1,157 reviews and the dining room is full for a reason. Watch what comes out of the kitchen at Nora's Cafe - Restaurant in Cửa Lấp, Phú Quốc. Plant-based plates that actually deliver.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianTravel #VisitVietnam #PhuQuocRestaurants #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.7★ across 1,157 reviews. Vegetarian. Cửa Lấp, Phú Quốc.\n\nThis place earns every star. $15-30/person.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "1,157 people rated this vegetarian spot 4.7★. The plates at Nora's Cafe - Restaurant prove why. Cửa Lấp, Phú Quốc.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VegetarianTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.7★ from 1,157 reviews at a vegetarian spot in Phú Quốc. This is not a skip. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "1,157 reviews. 4.7 stars.",
+    "scenes": [
+      "Exterior shot: Hem Chua Ong alley entrance",
+      "Camera pans dining room, full tables",
+      "Close-up: colorful vegetarian plates arriving",
+      "Hands reaching in, food being served",
+      "Price tag graphic: $15-30 per person",
+      "Rating card: Nora's Cafe 4.7★ 1,157 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

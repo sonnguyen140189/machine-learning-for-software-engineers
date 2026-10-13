@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're two days into Phu Quoc and your legs are done. You find Little WIN SPA 2 on Đường Trần Hưng Đạo. 4.9 stars, 312 reviews. You book the full-body massage. You leave a different person. Foot massage or full-body, this place delivers. Save this for your Phu Quoc trip.",
+    "video_caption": "Walked past once. Walked in the second time. Little WIN SPA 2 on Đường Trần Hưng Đạo, 4.9 stars from 312 reviews. Full-body or foot massage, both rated. Your beach-wrecked legs need this.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Walked in sore. Walked out fixed. Little WIN SPA 2, 4.9★ from 312 reviews on Đường Trần Hưng Đạo. Tag your travel buddy.",
+    "video_caption": "4.9 stars. 312 reviews. Little WIN SPA 2 is doing something right. Full-body or foot, book it.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+  },
+  "tiktok": {
+    "caption": "POV: your legs gave up in Phu Quoc. Little WIN SPA 2 fixed that. 4.9★, 312 reviews. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: your legs are done.",
+    "scenes": [
+      "Street-level sign: Little WIN SPA 2",
+      "Pan up Đường Trần Hưng Đạo entrance",
+      "Close-up: 4.9★ review screen",
+      "Hands pressing foot massage",
+      "Guest exhales, eyes closed on table",
+      "Exit door, relaxed slow walk out"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
