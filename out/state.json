@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJaV6sC_KLpzERlAdjMI0q54s",
+    "ChIJCcDXjO2NpzERpuULcuYBz_U",
+    "ChIJMwe2gsuXpzERYM-EJba18Po",
+    "ChIJFxJfXGiNpzER5oQGw5O9TkU",
+    "ChIJ6ZS5Zl6MpzERb-qhkr9ofs4",
+    "ChIJf6ykc4iMpzER-X7O0fSCJSs",
+    "ChIJxyir2P0fCDERr4lf9WU--CQ",
+    "ChIJh4tQxoeMpzERnVXCmClthfI",
+    "ChIJ17LlPYaNpzERY0rp_hDIF7E",
+    "ChIJh_DUIYeNpzERDqbaRMxPgTY",
+    "ChIJze_KNYiMpzERLa0Mfzg3-ZE",
+    "ChIJbd7_NgGNpzERqXUHaQ6Y6K4",
     "ChIJpz2x3xeLpzERgWgyuWd2czk",
     "ChIJR4_RrzuVpzERTNZI9HaezLk",
     "ChIJOS1SBvaNpzER_8gRpU5tGKI",
@@ -187,21 +199,189 @@
     "ChIJCwiEQQSNpzER_YXtjinHkS0",
     "ChIJY5fODACNpzER4vgSD0OdNQA",
     "ChIJ_9CmnfSNpzERsmmH4TLwHy4",
-    "ChIJ3ZgwWLONpzERIM11I5sYgVs",
-    "ChIJjXUjGRmNpzERbpTPg0YpR3g",
-    "ChIJzwU_1waNpzERJApCT6UMoDk",
-    "ChIJd4s74SiNpzERSsU3_x_0EsI",
-    "ChIJ_dcHMgCNpzERUJe8lMtw-Uk",
-    "ChIJJdya9E71pzERTu4abOIfjls",
-    "ChIJ07kLWwCTpzERMUTHN5TrzFY",
-    "ChIJBz09gZgfCDERzAyxFBp-iDM",
-    "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
-    "ChIJXQcO2BeLpzERuYoEmJFjuuM",
-    "ChIJq-YgJcuNpzER37aiRi5HfVo",
-    "ChIJQUSIY6yNpzERAxVW7b7Opt0",
-    "ChIJ44qAJhSLpzERXmrw41RYzJA"
+    "ChIJ3ZgwWLONpzERIM11I5sYgVs"
   ],
   "history": [
+    {
+      "date": "2026-10-14",
+      "placeId": "ChIJaV6sC_KLpzERlAdjMI0q54s",
+      "placeName": "Kayaking Dynasty",
+      "results": {
+        "facebookVideo": {
+          "id": "1420485352840069"
+        },
+        "instagramReel": {
+          "id": "17961586607998749"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "placeId": "ChIJCcDXjO2NpzERpuULcuYBz_U",
+      "placeName": "Thuê cano riêng -FISHING TOUR",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128302255313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18200172601376170"
+        }
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "placeId": "ChIJMwe2gsuXpzERYM-EJba18Po",
+      "placeName": "Ann Seafood",
+      "results": {
+        "facebookVideo": {
+          "id": "929495740033317"
+        },
+        "instagramReel": {
+          "id": "18114246086584262"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "placeId": "ChIJFxJfXGiNpzER5oQGw5O9TkU",
+      "placeName": "Nhà hàng hải sản Thuận Kiều 2 - Fresh Seafood & Vietnamese Cuisine",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128301295313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18147729808569346"
+        }
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "placeId": "ChIJ6ZS5Zl6MpzERb-qhkr9ofs4",
+      "placeName": "Phuong Hoang Seafood Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "2016588932349853"
+        },
+        "instagramReel": {
+          "id": "17908510650324657"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "placeId": "ChIJf6ykc4iMpzER-X7O0fSCJSs",
+      "placeName": "Si’s Crab House Seafood Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128300167313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18029377727860472"
+        }
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "placeId": "ChIJxyir2P0fCDERr4lf9WU--CQ",
+      "placeName": "Mai Hương Beachfront",
+      "results": {
+        "facebookVideo": {
+          "id": "2184171329121272"
+        },
+        "instagramReel": {
+          "id": "18632735842024211"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "placeId": "ChIJh4tQxoeMpzERnVXCmClthfI",
+      "placeName": "Huong Bien Restaurant - Vietnamese Cuisine & Seafood",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128299027313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17989567083062415"
+        }
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "placeId": "ChIJ17LlPYaNpzERY0rp_hDIF7E",
+      "placeName": "MYLA SEAFOOD",
+      "results": {
+        "facebookVideo": {
+          "id": "1672077454520903"
+        },
+        "instagramReel": {
+          "id": "18117992740978639"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "placeId": "ChIJh_DUIYeNpzERDqbaRMxPgTY",
+      "placeName": "Hải sản Động Tôm Hùm - Lobster Cave seafood",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128297707313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17910430326306712"
+        }
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "placeId": "ChIJze_KNYiMpzERLa0Mfzg3-ZE",
+      "placeName": "Xin Chao seafood restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "982051070894821"
+        },
+        "instagramReel": {
+          "id": "18136556041681442"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "placeId": "ChIJbd7_NgGNpzERqXUHaQ6Y6K4",
+      "placeName": "Blue seafood restaurant (블루씨푸드)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128296597313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18012339578761611"
+        }
+      }
+    },
     {
       "date": "2026-10-13",
       "placeId": "ChIJpz2x3xeLpzERgWgyuWd2czk",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18094707044210999"
-        }
-      }
-    },
-    {
-      "date": "2026-09-28",
-      "placeId": "ChIJjXUjGRmNpzERbpTPg0YpR3g",
-      "placeName": "Miss Tiên Spa 1 - Body & Foot Massage Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1859108638410326"
-        },
-        "instagramReel": {
-          "id": "18027858827854346"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-28",
-      "placeId": "ChIJzwU_1waNpzERJApCT6UMoDk",
-      "placeName": "ZEN Spa & Nail",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122125756341313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AuyxFe0QcQnbRJe0ONsR0bj\"}}"
-        }
-      }
-    },
-    {
-      "date": "2026-09-28",
-      "placeId": "ChIJd4s74SiNpzERSsU3_x_0EsI",
-      "placeName": "JOY spa ( Massage _ Waxing _ Nail _Shampoo )",
-      "results": {
-        "facebookVideo": {
-          "id": "1438645431700832"
-        },
-        "instagramReel": {
-          "id": "18115299058957935"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-28",
-      "placeId": "ChIJ_dcHMgCNpzERUJe8lMtw-Uk",
-      "placeName": "ANH SPA NGUYỄN TRÃI",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122125755165313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17889022140617976"
-        }
-      }
-    },
-    {
-      "date": "2026-09-27",
-      "placeId": "ChIJJdya9E71pzERTu4abOIfjls",
-      "placeName": "Milana Beach Resort & Spa Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1636949171147317"
-        },
-        "instagramReel": {
-          "id": "18123226240911135"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-27",
-      "placeId": "ChIJ07kLWwCTpzERMUTHN5TrzFY",
-      "placeName": "Sonasea Public Beach Bai Truong",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122125607997313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph /17841415599286595/media failed: {\"error\":{\"message\":\"An unknown error has occurred.\",\"type\":\"OAuthException\",\"code\":1,\"fbtrace_id\":\"AbULjcfW_PLbRLDtnsWAEcZ\"}}"
-        }
-      }
-    },
-    {
-      "date": "2026-09-27",
-      "placeId": "ChIJBz09gZgfCDERzAyxFBp-iDM",
-      "placeName": "Bai Dai beach",
-      "results": {
-        "facebookVideo": {
-          "id": "28532792226341966"
-        },
-        "instagramReel": {
-          "id": "18119853574779492"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-27",
-      "placeId": "ChIJo_k30uyXpzERwwH_mtvJ1aQ",
-      "placeName": "Istanbul Bai Kem",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122125607079313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17923158357430777"
-        }
-      }
-    },
-    {
-      "date": "2026-09-27",
-      "placeId": "ChIJXQcO2BeLpzERuYoEmJFjuuM",
-      "placeName": "Ong Lang beach",
-      "results": {
-        "facebookVideo": {
-          "id": "29096811069916012"
-        },
-        "instagramReel": {
-          "id": "17959731141250627"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-27",
-      "placeId": "ChIJq-YgJcuNpzER37aiRi5HfVo",
-      "placeName": "Phu Quoc Beach",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122125605525313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18348933298265816"
-        }
-      }
-    },
-    {
-      "date": "2026-09-27",
-      "placeId": "ChIJQUSIY6yNpzERAxVW7b7Opt0",
-      "placeName": "Bãi Trường",
-      "results": {
-        "facebookVideo": {
-          "id": "1090421426924119"
-        },
-        "instagramReel": {
-          "id": "18120804314476585"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-27",
-      "placeId": "ChIJ44qAJhSLpzERXmrw41RYzJA",
-      "placeName": "Camia Resort & Spa",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122125604343313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17992911770843628"
         }
       }
     }
