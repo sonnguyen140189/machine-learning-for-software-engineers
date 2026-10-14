@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "801 reviews. 4.7 stars. This is the seafood restaurant locals keep recommending in Phu Quoc. Huong Biển Restaurant serves Vietnamese seafood done properly, right on Võ Thị Sáu. Budget around $40-80 per person and order whatever came off the boat that morning. No gimmicks. Just solid food and a crowd that keeps coming back. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the seafood land on the table at Huong Biển. 801 people rated this 4.7 stars and the plates tell you exactly why. Address: 1 Võ Thị Sáu, Phú Quốc.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #VietnamFood #TravelTips #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 801 reviews. Huong Biển is not a fluke. Fresh Vietnamese seafood, real crowd, 1 Võ Thị Sáu. Tag your travel buddy.",
+    "video_caption": "Plates keep arriving at Huong Biển. 801 reviews back this up. Fresh seafood, Phu Quoc-style.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #FoodReels"
+  },
+  "tiktok": {
+    "caption": "801 reviews, 4.7 stars. Huong Biển delivers every time. Fresh seafood in Phu Quoc done right. #PhuQuoc #PhuQuocFood #VietnamTravel #SeafoodLovers"
+  },
+  "video_script": {
+    "hook": "4.7★ from 801 people. Earned.",
+    "scenes": [
+      "Exterior shot: Huong Biển sign at dusk",
+      "Close-up: whole fish arrives on table",
+      "Pan across: packed tables, local crowd",
+      "Slow pour: dipping sauce into bowl",
+      "Hands pulling apart fresh crab claws",
+      "Final frame: empty plates, satisfied faces"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
