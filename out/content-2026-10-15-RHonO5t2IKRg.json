@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: You needed a break from the beach and found this.\n\nSugar Fusion Bakery on Đường Trần Hưng Đạo hits different when the sun is high and you just want something good. 4.7 stars, 277 reviews, and a vibe that doesn't feel like a tourist trap. Fresh bakes, real coffee, a seat that's actually comfortable.\n\nPhu Quoc doesn't slow down. This place does.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Fresh pastries landing on the counter. Coffee poured. Nobody rushing you. Sugar Fusion Bakery is 4.7 stars for a reason. 277 people didn't lie. Find it at 39 Đường Trần Hưng Đạo.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocTravel"
+  },
+  "instagram": {
+    "caption": "POV: You found the bakery Phu Quoc needed. 4.7★, 277 reviews. Sugar Fusion Bakery delivers.\n\nTag your travel buddy.",
+    "video_caption": "Fresh bakes. Real coffee. 4.7 stars. Sugar Fusion Bakery on Đường Trần Hưng Đạo. Don't walk past it.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocBakery #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "Walked in for coffee. Stayed way too long. Sugar Fusion Bakery, Phu Quoc. 4.7★ #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: best bakery in Phu Quoc",
+    "scenes": [
+      "Push open bakery door, warm light spills out",
+      "Close-up: fresh pastries lined on counter",
+      "Barista pours coffee, steam rising",
+      "Customer bites in, genuine reaction",
+      "Wide shot: cozy interior, guests relaxed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

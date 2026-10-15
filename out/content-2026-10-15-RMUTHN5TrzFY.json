@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you skip the resort pool and find this instead. Sonasea Public Beach Bãi Trường sits right on the longest beach on the island. No wristband. No booking. Just show up, drop your towel, and get in the water. 4.4 stars from 123 reviewers backs it up. Save this for your Phu Quoc trip.",
+    "video_caption": "Walked past the resort gates and found a free public beach with zero crowds. Sonasea Public Beach Bãi Trường. No reservation needed. Just sand, water, and that west-coast Phu Quoc light.",
+    "first_comment": "#PhuQuoc #PhuQuocBeaches #BaiTruong #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found the free beach on Bãi Trường. No wristband. Just show up. 4.4★ from 123 reviews. Tag your travel buddy.",
+    "video_caption": "Skipped the resort. Found Sonasea Public Beach Bãi Trường. Free access, longest beach on the island. Do not walk past this.",
+    "hashtags": "#PhuQuocBeaches #BaiTruong #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #BeachVibes"
+  },
+  "tiktok": {
+    "caption": "Free public beach on Bãi Trường. No booking, no crowds. Just show up. #PhuQuoc #BaiTruong #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: free beach, no wristband.",
+    "scenes": [
+      "Walk past resort entrance gates",
+      "Public beach sign comes into frame",
+      "Wide shot: empty sand stretches both ways",
+      "Feet hitting the water, west-coast light",
+      "Slow pan along Bãi Trường shoreline"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

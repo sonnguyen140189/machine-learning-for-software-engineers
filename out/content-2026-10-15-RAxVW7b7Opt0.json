@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc that doesn't feel touristy. Bãi Trường delivers exactly that. Long stretch of sand, fewer crowds than the north beaches, and a sunset that makes you forget you have a flight home. 4.4 stars across 779 reviews. The numbers back it up. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the sun drop behind the horizon at Bãi Trường. No resort fence blocking the view. Just open beach, warm water, and that light hitting perfect. This is why people extend their Phu Quoc trips.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #BaiTruong #VisitVietnam #TravelTips #PhuQuocTips #VietnamBeach"
+  },
+  "instagram": {
+    "caption": "This beach fixes burnout. Bãi Trường, Phu Quoc. 4.4★ across 779 reviews. Long, open, and quieter than you expect. Tag your travel buddy.",
+    "video_caption": "Feet in the sand at Bãi Trường. Sunset incoming. Crowds? Minimal. Regrets? Zero.",
+    "hashtags": "#PhuQuocBeaches #BaiTruong #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocVietnam #BeachVibes"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc beach that actually resets you. Bãi Trường hits different at sunset. #PhuQuoc #BaiTruong #VietnamTravel #BeachTok"
+  },
+  "video_script": {
+    "hook": "This beach fixes burnout.",
+    "scenes": [
+      "Wide shot: long empty shoreline at golden hour",
+      "Feet walking on wet sand toward water",
+      "Pan across calm waves, soft light on surface",
+      "Close-up: sun touching the horizon",
+      "Pull back: lone figure sitting, no crowds"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

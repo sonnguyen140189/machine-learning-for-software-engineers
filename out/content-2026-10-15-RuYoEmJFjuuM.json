@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you took the road north and found Ong Lang beach before the crowds did.\n\nNo beach clubs blasting EDM. No hawkers every 10 meters. Just soft sand, calm water, and maybe 12 other people on a Saturday.\n\n4.1 stars across 750 reviews. Quiet beaches don't usually rack up numbers like that.\n\nRent a scooter, head north from town, and give yourself two hours here. You'll stay four.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Scooter parked. Shoes off. Ong Lang beach has maybe 15 people on it right now. This is Phu Quoc without the noise. 4.1 stars, 750 reviews, and somehow still this empty.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #OngLangBeach #VisitVietnam #PhuQuocTips #TravelTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: wrong turn, right beach. Ong Lang hits different when it's this empty. 4.1★ / 750 reviews.\n\nTag your travel buddy.",
+    "video_caption": "Shoes off at Ong Lang. Barely anyone here. This is the Phu Quoc the resorts don't advertise.",
+    "hashtags": "#PhuQuocBeach #OngLangBeach #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #BeachVibes"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn north. Found Ong Lang beach. Barely anyone there. This is the Phu Quoc you came for. #PhuQuoc #OngLangBeach #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Right beach.",
+    "scenes": [
+      "Scooter pulls onto empty beach road",
+      "Pan wide: sand, trees, calm water",
+      "Footprints in sand, no crowd in sight",
+      "Slow zoom on gentle waves breaking",
+      "Rider sits down, shoes beside them"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
