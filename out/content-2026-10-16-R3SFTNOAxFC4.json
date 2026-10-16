@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $15 for a full Indian meal in Phu Quoc. Krishna Garden Pure Veg Indian on Tran Hung Dao street is doing something right. 4.7 stars across 898 reviews. Pure veg menu, so no guessing what's in your food. Solid pick for vegetarians who thought Phu Quoc would be all seafood. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch this plate land on the table. Krishna Garden Pure Veg Indian, Phu Quoc. Under $15, 4.7 stars, 898 people already know. Full pure veg Indian menu steps from Tran Hung Dao street.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #IndianFoodVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VegetarianTravel"
+  },
+  "instagram": {
+    "caption": "Under $15 for Indian food this good. Krishna Garden Pure Veg Indian, 4.7★, 898 reviews. Vegetarians, Phu Quoc has you covered. Tag your travel buddy.",
+    "video_caption": "Real Indian food. Real price. Krishna Garden Pure Veg Indian hits $15 and 4.7 stars. Phu Quoc vegetarians, take note.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #IndianFoodVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VegetarianTravel"
+  },
+  "tiktok": {
+    "caption": "Under $15 Indian food in Phu Quoc. 4.7 stars. 898 reviews. Pure veg. This place is the move. #PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFood"
+  },
+  "video_script": {
+    "hook": "Under $15 Indian food in Phu Quoc??",
+    "scenes": [
+      "Exterior shot: Krishna Garden sign, Tran Hung Dao street",
+      "Pan across full pure veg menu board",
+      "Close-up: curry and bread hitting the table",
+      "Fork digs in, steam rises",
+      "Screen overlay: 4.7★ 898 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

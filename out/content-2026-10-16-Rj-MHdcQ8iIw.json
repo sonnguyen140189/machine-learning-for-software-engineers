@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "38,768 reviews. 4.9 stars. Vinpearl Wonderworld Phu Quoc is not playing around.\n\nThis is the resort people keep coming back to, and the numbers tell you exactly why. Beachfront at Bãi Dài, one of the longest stretches of sand on the island. The kind of property where the photos actually undersell it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.9 stars from 38,768 people. Watch what Vinpearl Wonderworld Phu Quoc actually looks like on arrival day. Bãi Dài beach, right outside the door.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "38,768 reviews. 4.9 stars. Vinpearl Wonderworld Phu Quoc earns every single one.\n\nBãi Dài beach at your door. Save this.",
+    "video_caption": "4.9 stars. 38,768 people can't be wrong. Vinpearl Wonderworld Phu Quoc up close.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #BaiDaiBeach #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 38,768 reviews. Vinpearl Wonderworld Phu Quoc hits different. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9★ from 38,768 people.",
+    "scenes": [
+      "Drone pull-back over Bãi Dài shoreline",
+      "Resort entrance gates opening wide",
+      "Pool deck with ocean in background",
+      "Beachfront walking shot, feet in sand",
+      "Room reveal, balcony view over water"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

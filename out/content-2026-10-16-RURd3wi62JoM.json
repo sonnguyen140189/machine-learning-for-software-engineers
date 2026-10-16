@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this place. Locals fill every seat by noon. Cơm chay tự chọn Bồ Đề Chay is a self-serve vegetarian spot on Phú Quốc that most visitors never find. Pick your dishes, pay under $10, eat like a local. 4.7 stars across 242 reviews says everything. Save this for your Phu Quoc trip.",
+    "video_caption": "Trays loaded. Steam rising. Under $10 for a full vegetarian spread at Cơm chay tự chọn Bồ Đề Chay. Watch how locals do lunch in Phu Quoc. This is the real thing.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "Locals don't talk about Cơm chay tự chọn Bồ Đề Chay. 4.7 stars. Under $10. Self-serve vegetarian. Tag your travel buddy.",
+    "video_caption": "Self-serve trays, full plates, under $10. Cơm chay tự chọn Bồ Đề Chay hits different when you're tired of resort food.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #VegetarianFood #VietnamFood #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Tourists walk past. Locals pack it out by noon. Under $10 vegetarian lunch in Phu Quoc. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Wide shot: packed lunch crowd, steaming trays",
+      "Close-up: ladle scooping tofu stir-fry",
+      "Hands building a full plate, dish by dish",
+      "Receipt or price display under $10",
+      "Last bite, satisfied nod to camera"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

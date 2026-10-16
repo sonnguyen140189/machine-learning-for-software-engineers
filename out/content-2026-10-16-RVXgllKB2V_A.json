@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the big resort packages. Locals point you here instead. Red River Tours on Đường Trần Hưng Đạo is the agency repeat visitors actually use to sort island day trips, snorkeling runs, and transfers without the markup. 364 reviews at 4.1 stars. Small outfit. Gets things done. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into Red River Tours on Đường Trần Hưng Đạo. No glossy lobby. Just 364 reviews worth of people who got where they needed to go. This is where you book your island trips without the resort tax.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #PhuQuocTips #VisitVietnam #TravelTips #VietnamTravel #PhuQuocIsland"
+  },
+  "instagram": {
+    "caption": "Locals don't use the resort desk. They use Red River Tours. 364 reviews. 4.1 stars. Đường Trần Hưng Đạo. Tag your travel buddy.",
+    "video_caption": "Skip the resort package. Red River Tours gets you on the water faster and cheaper. 364 reviews back it up.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocIsland #VietnamTravel #TravelTips #TravelReels #IslandTours"
+  },
+  "tiktok": {
+    "caption": "Not the flashy agency. Just the one that works. Red River Tours, Phu Quoc. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't tell you this one.",
+    "scenes": [
+      "Street-level shot: Đường Trần Hưng Đạo signage",
+      "Push into Red River Tours storefront",
+      "Staff reviewing island tour map with visitor",
+      "Cut to boat leaving dock, snorkel gear visible",
+      "Text overlay: 364 reviews. 4.1 stars."
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
