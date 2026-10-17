@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJoeqegKKWpzER3bN1bSxK1n4",
+    "ChIJL3-4s1GMpzER_eOIkH6lzQU",
+    "ChIJn_OoioaMpzER6LmKuuTHasY",
+    "ChIJq2ddr5WRpzERGEYb5TieBgs",
+    "ChIJb94_UYaMpzERLROoXapH5lI",
+    "ChIJR0Eq5IeMpzER7hzZw3l9NSw",
+    "ChIJfVqVdoeMpzERX-ZG1WyAvMA",
+    "ChIJl1Ayn9aNpzERF5-boB6Ec3c",
+    "ChIJcUfuO36MpzER-YtnHO2vDD0",
+    "ChIJi0veCZmLpzER_TFGrkrELl8",
+    "ChIJgQRYpz-MpzER_PdUT7NFsIM",
+    "ChIJYR0kkkuNpzERyLTt-5KL60Y",
     "ChIJi-z2ewCNpzER4P73e0T61VE",
     "ChIJYREw3iyNpzER4MEeLlm9Ju4",
     "ChIJlehMyBUfCDERDSqZ_aeChQA",
@@ -187,21 +199,189 @@
     "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
     "ChIJQZoz472XpzERETLpPPs-P8Y",
     "ChIJYbElPPaLpzERTX725HPPGuM",
-    "ChIJybqyDQCRpzER7ojvdd5xiqQ",
-    "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
-    "ChIJtePCImGLpzER70_qwXv_noQ",
-    "ChIJL0VA6XSNpzERkXZ9BjZxZlM",
-    "ChIJVX1ODrIfCDERlnrDWWdlWYQ",
-    "ChIJccUCppGNpzERY4DpGOmVA7o",
-    "ChIJPeTYBQCNpzERKIhrcy6hcJM",
-    "ChIJ90jXsf2TpzERk1THOzfOnoU",
-    "ChIJif-3eKuNpzERQNn7TSJoUsA",
-    "ChIJI8DOC6r1pzER4RZWiBFkfxc",
-    "ChIJbdRC8WqSpzERtGShQM46Sx8",
-    "ChIJFywM4byNpzERTsKVgNJw3vc",
-    "ChIJMTK8cRSLpzER_q7VsEitfig"
+    "ChIJybqyDQCRpzER7ojvdd5xiqQ"
   ],
   "history": [
+    {
+      "date": "2026-10-17",
+      "placeId": "ChIJoeqegKKWpzER3bN1bSxK1n4",
+      "placeName": "Chùa Sùng Đức",
+      "results": {
+        "facebookVideo": {
+          "id": "1118013960603602"
+        },
+        "instagramReel": {
+          "id": "18097578857657308"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "placeId": "ChIJL3-4s1GMpzER_eOIkH6lzQU",
+      "placeName": "Guan Di Temple",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128669935313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17939073768384110"
+        }
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "placeId": "ChIJn_OoioaMpzER6LmKuuTHasY",
+      "placeName": "Dinh Cậu",
+      "results": {
+        "facebookVideo": {
+          "id": "1771096144211844"
+        },
+        "instagramReel": {
+          "id": "18143977954599226"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "placeId": "ChIJq2ddr5WRpzERGEYb5TieBgs",
+      "placeName": "Quốc Mẫu Hall",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128668765313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18109300886210793"
+        }
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "placeId": "ChIJb94_UYaMpzERLROoXapH5lI",
+      "placeName": "Dinh Bà Thủy Long Thánh Mẫu",
+      "results": {
+        "facebookVideo": {
+          "id": "28798370576470312"
+        },
+        "instagramReel": {
+          "id": "18128557283497834"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "placeId": "ChIJR0Eq5IeMpzER7hzZw3l9NSw",
+      "placeName": "Sùng Hưng Cổ Tự",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128667607313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18144303652517068"
+        }
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "placeId": "ChIJfVqVdoeMpzERX-ZG1WyAvMA",
+      "placeName": "Cao Dai Temple of Phu-Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1720912626706593"
+        },
+        "instagramReel": {
+          "id": "18123880052315375"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "placeId": "ChIJl1Ayn9aNpzERF5-boB6Ec3c",
+      "placeName": "Chùa Hưng Sơn. Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128666575313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18097588970436621"
+        }
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "placeId": "ChIJcUfuO36MpzER-YtnHO2vDD0",
+      "placeName": "Hung Quoc Tu Pagoda",
+      "results": {
+        "facebookVideo": {
+          "id": "29194119386879130"
+        },
+        "instagramReel": {
+          "id": "18143380480719254"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "placeId": "ChIJi0veCZmLpzER_TFGrkrELl8",
+      "placeName": "Hung Nhi Son Pagoda",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128665573313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18080827049354808"
+        }
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "placeId": "ChIJgQRYpz-MpzER_PdUT7NFsIM",
+      "placeName": "Su Muon Pagoda",
+      "results": {
+        "facebookVideo": {
+          "id": "1086455954175961"
+        },
+        "instagramReel": {
+          "id": "17992122867102019"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "placeId": "ChIJYR0kkkuNpzERyLTt-5KL60Y",
+      "placeName": "Food Garden Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128664547313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18219450979344353"
+        }
+      }
+    },
     {
       "date": "2026-10-16",
       "placeId": "ChIJi-z2ewCNpzER4P73e0T61VE",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18075617072547031"
-        }
-      }
-    },
-    {
-      "date": "2026-10-01",
-      "placeId": "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
-      "placeName": "Nhà hàng hải sản Xưa và Nay",
-      "results": {
-        "facebookVideo": {
-          "id": "1000547229725627"
-        },
-        "instagramReel": {
-          "id": "18080366636360809"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-01",
-      "placeId": "ChIJtePCImGLpzER70_qwXv_noQ",
-      "placeName": "Đảo Hải Sản | Seafood Restaurant · 해산물 · Рестораны Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126275131313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18129079168798157"
-        }
-      }
-    },
-    {
-      "date": "2026-10-01",
-      "placeId": "ChIJL0VA6XSNpzERkXZ9BjZxZlM",
-      "placeName": "TUNA Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1098987752713534"
-        },
-        "instagramReel": {
-          "id": "18128444365891368"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-01",
-      "placeId": "ChIJVX1ODrIfCDERlnrDWWdlWYQ",
-      "placeName": "Mai Hương Restaurant - Grand World Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126273895313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18435201241195534"
-        }
-      }
-    },
-    {
-      "date": "2026-09-30",
-      "placeId": "ChIJccUCppGNpzERY4DpGOmVA7o",
-      "placeName": "Phở Hòa",
-      "results": {
-        "facebookVideo": {
-          "id": "1438073345142007"
-        },
-        "instagramReel": {
-          "id": "18163087306430448"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-30",
-      "placeId": "ChIJPeTYBQCNpzERKIhrcy6hcJM",
-      "placeName": "Bánh mì Nhung",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126137347313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18100157189565690"
-        }
-      }
-    },
-    {
-      "date": "2026-09-30",
-      "placeId": "ChIJ90jXsf2TpzERk1THOzfOnoU",
-      "placeName": "Bãi 3 Cây Dừa (Three Coconus Tree Beach) Longbeach",
-      "results": {
-        "facebookVideo": {
-          "id": "1131856785834595"
-        },
-        "instagramReel": {
-          "id": "18097043657440458"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-30",
-      "placeId": "ChIJif-3eKuNpzERQNn7TSJoUsA",
-      "placeName": "Vida Loca Resort & Sunset Beach Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126136285313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17958974586246352"
-        }
-      }
-    },
-    {
-      "date": "2026-09-30",
-      "placeId": "ChIJI8DOC6r1pzER4RZWiBFkfxc",
-      "placeName": "Eco Lagoon",
-      "results": {
-        "facebookVideo": {
-          "id": "1769741913973522"
-        },
-        "instagramReel": {
-          "id": "18493270750099818"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-30",
-      "placeId": "ChIJbdRC8WqSpzERtGShQM46Sx8",
-      "placeName": "Thanh Kieu Beach Resort",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126135055313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18115825226071464"
-        }
-      }
-    },
-    {
-      "date": "2026-09-30",
-      "placeId": "ChIJFywM4byNpzERTsKVgNJw3vc",
-      "placeName": "Free Beach Resort Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "4592013894349271"
-        },
-        "instagramReel": {
-          "id": "18014659262752974"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-09-30",
-      "placeId": "ChIJMTK8cRSLpzER_q7VsEitfig",
-      "placeName": "Phu Quoc Eco Beach Resort",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126133519313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18006933608781533"
         }
       }
     }
