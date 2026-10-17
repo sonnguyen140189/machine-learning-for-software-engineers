@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you took a wrong turn on Võ Thị Sáu and walked into Dinh Bà Thủy Long Thánh Mẫu. Incense smoke. Red lanterns. Zero other tourists. This temple is the real Phu Quoc. 4.5 stars, 299 reviews, and most visitors walk straight past it. Give it 20 minutes. Save this for your Phu Quoc trip.",
+    "video_caption": "Red lanterns, burning incense, nobody else around. Dinh Bà Thủy Long Thánh Mẫu on a quiet morning is one of those moments Phu Quoc doesn't advertise. 4.5 stars. Go before the tour buses figure it out.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #VietnamTravel #TravelTips #ThingsToDoPhuQuoc #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "POV: wrong turn. Found Dinh Bà Thủy Long Thánh Mẫu. Zero tourists, all vibes. Tag your travel buddy.",
+    "video_caption": "Incense. Lanterns. No crowds. This temple in Phu Quoc hits different at 8am.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #PhuQuocHidden"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn and found this. Dinh Bà Thủy Long Thánh Mẫu, Phu Quoc. Go early. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Wrong turn. Found this temple.",
+    "scenes": [
+      "Approach gate from street level",
+      "Pan up red lanterns and incense smoke",
+      "Close-up altar offerings and candles",
+      "Wide shot of empty courtyard",
+      "Slow zoom on ornate roof detail"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

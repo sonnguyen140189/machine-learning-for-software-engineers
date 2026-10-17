@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. Hung Nhi Son Pagoda sits quietly on Phu Quoc while the crowds head to the beaches. Incense in the air. No entrance fee. No tour groups. Just locals coming to pray. If you want one hour that feels nothing like the resort strip, this is it. Save this for your Phu Quoc trip.",
+    "video_caption": "Incense smoke rising. Monks moving through the courtyard. Zero tourists in sight. Hung Nhi Son Pagoda is the Phu Quoc stop nobody puts in their itinerary. Add it.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #PhuQuocTips #VietnamTemple #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this. Hung Nhi Son Pagoda. No crowds. No tour buses. Just incense and silence. Tag your travel buddy.",
+    "video_caption": "Incense rising. Empty courtyard. This pagoda on Phu Quoc belongs to the locals. Go anyway.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #BuddhismTravel"
+  },
+  "tiktok": {
+    "caption": "Locals don't post about this Phu Quoc pagoda. Hung Nhi Son. Zero crowds. All atmosphere. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior gate, incense smoke drifting out",
+      "Slow walk through empty stone courtyard",
+      "Close-up: offerings and altar candles lit",
+      "Wide shot: zero tourists in frame",
+      "Final still: Hung Nhi Son Pagoda sign"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

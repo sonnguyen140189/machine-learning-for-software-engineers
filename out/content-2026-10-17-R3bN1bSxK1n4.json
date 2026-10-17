@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars. 117 reviews. And most tourists walk straight past Chùa Sùng Đức without a second glance.\n\nThis Buddhist temple in Phú Quốc is the kind of place that slows you down. Incense in the air. Quiet courtyards. Zero tour buses.\n\nIf your Phu Quoc itinerary is all beaches and bars, carve out one morning for this. You'll leave feeling reset.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Stepping inside Chùa Sùng Đức while the rest of the island sleeps in. Incense smoke, golden shrines, and a courtyard so quiet you hear your own footsteps. This is Phu Quoc at 8am.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #TravelVietnam"
+  },
+  "instagram": {
+    "caption": "4.5 stars. 117 reviews. Most tourists never find Chùa Sùng Đức.\n\nQuiet courtyards. Real incense. Zero crowds. Tag your travel buddy.",
+    "video_caption": "Chùa Sùng Đức at sunrise. No crowds. Just golden light and incense smoke. Phu Quoc has layers.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #BuddhismTravel #VisitVietnam #SpiritualTravel"
+  },
+  "tiktok": {
+    "caption": "4.5⭐ 117 reviews and zero tourist buses. Chùa Sùng Đức hits different. #PhuQuoc #VietnamTravel #PhuQuocTips #TempleLife"
+  },
+  "video_script": {
+    "hook": "4.5★ temple. Zero crowds.",
+    "scenes": [
+      "Exterior gate of Chùa Sùng Đức, slow push in",
+      "Incense sticks burning close-up, smoke rising",
+      "Wide shot: empty courtyard, golden shrine",
+      "Hands pressed together in prayer, soft light",
+      "Aerial or pan shot: temple rooftop details"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

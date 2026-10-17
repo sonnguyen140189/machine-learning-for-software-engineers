@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. Su Muon Pagoda sits off the main drag and most visitors never find it. No tour bus. No crowds. Just incense smoke, temple bells, and monks going about their day. Phu Quoc has a spiritual side most people miss completely. This is where to find it. Save this for your Phu Quoc trip.",
+    "video_caption": "Step inside Su Muon Pagoda while the tour groups are at the beach. Incense curling through the air. Monks in saffron robes. Total quiet in the middle of Phu Quoc. 4.4 stars, 612 reviews, and almost no foreigners inside.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTemple #PhuQuocTravel"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Su Muon Pagoda. Tourists walk straight past it. 4.4 stars, 612 reviews, zero tour buses. Tag your travel buddy.",
+    "video_caption": "Phu Quoc temple most visitors never step inside. Su Muon Pagoda. Incense, silence, zero crowds.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTemple #VietnamTravel #TravelTips #TravelReels #PhuQuocHidden #VisitVietnam #TravelVibes"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc temple tourists keep missing. Su Muon Pagoda. Go early. Go quiet. #PhuQuoc #PhuQuocTips #VietnamTravel #TempleVibes #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Wide shot: pagoda gate, no crowds",
+      "Close-up: incense smoke rising slowly",
+      "Monk walking through courtyard",
+      "Ornate roof detail, golden trim",
+      "Visitor standing alone, total quiet"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout faster than any beach club. Chùa Hưng Sơn sits quietly in Khu Phố 7, and most tourists never find it. No entrance fee. No crowds. Just incense smoke, temple bells, and actual silence. 4.8 stars from people who made the detour. Worth every minute. Save this for your Phu Quoc trip.",
+    "video_caption": "Walk through the gates of Chùa Hưng Sơn and the noise just stops. Incense drifting. Bell echoing. Zero tourists. This is the Phu Quoc the resort map won't show you.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #PhuQuocTravel #TravelTips #VietnamTemple #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Chùa Hưng Sơn, 4.8 stars, zero crowds. Tag your travel buddy.",
+    "video_caption": "Gates open. Incense rising. Nobody else here. Chùa Hưng Sơn is the Phu Quoc reset you didn't plan for.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTravel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam #HiddenPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Needed a reset. Found Chùa Hưng Sơn. 4.8 stars, no tourists, pure silence. #PhuQuoc #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Slow push through temple gate",
+      "Incense smoke curling upward",
+      "Empty courtyard, no tourists",
+      "Close-up of bell, slight sway",
+      "Monk walking past in silence"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. The Cao Đài Temple on Nguyễn Trãi is one of the most visually striking buildings on the island. Free to enter. Bright yellow facade, dragon pillars, and an interior that stops you mid-step. Most visitors spend their whole trip at the beach and never see it. 15 minutes here will change how you think about Phu Quoc. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking through the gates of the Cao Đài Temple in Phu Quoc. The colors hit different in person. Free entry, almost no crowd. This one deserves a spot on your itinerary.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this temple. Free entry. Zero crowd. The Cao Đài Temple is worth every minute. Save this.",
+    "video_caption": "Stepped inside the Cao Đài Temple. The dragon pillars alone are worth the detour. Free, 10 minutes from the main strip.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #CaoDai"
+  },
+  "tiktok": {
+    "caption": "Free temple in Phu Quoc that tourists walk straight past. The colors inside are unreal. #PhuQuoc #VietnamTravel #CaoDai #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior shot: bright yellow facade, full frame",
+      "Slow pan up dragon-wrapped pillars",
+      "Push through main gates into courtyard",
+      "Interior wide: altar colors, ceiling detail",
+      "Close-up: intricate painted eye motif",
+      "Empty courtyard, one visitor, no crowd"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
