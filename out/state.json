@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ51OpPgCVpzER-TzMZtCOk0o",
+    "ChIJYQY76P2NpzERlul1IUfk3N8",
+    "ChIJz-FucgSNpzERjZlTcooFwcY",
+    "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
+    "ChIJo-0fmz6NpzERIEhHbz8e4T8",
+    "ChIJE6Jt3vuVpzERA6ErTfB79es",
+    "ChIJZaB-ewCNpzERPBRid0eSO98",
+    "ChIJ44qAJhSLpzERXmrw41RYzJA",
+    "ChIJAQAAAECKpzERzt6bVEvLa-M",
+    "ChIJI6oge0mLpzERKUoKtQLR-oc",
+    "ChIJLZPWxLiWpzERwrkgfIa1P8I",
+    "ChIJdQIPu76LpzERR-arMzuJz5I",
     "ChIJoeqegKKWpzER3bN1bSxK1n4",
     "ChIJL3-4s1GMpzER_eOIkH6lzQU",
     "ChIJn_OoioaMpzER6LmKuuTHasY",
@@ -187,21 +199,189 @@
     "ChIJQf0ZjIeNpzERtMMtf7OdVyg",
     "ChIJ67MzfTqNpzERl5vEmwYkACQ",
     "ChIJt-QpkieNpzEROHxvKTl08as",
-    "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
-    "ChIJHaad39SNpzERxyH_xEG63Kg",
-    "ChIJoXjKmgSNpzERianh5FZP7WE",
-    "ChIJB4_swjiNpzER0vsGaMBGTxg",
-    "ChIJEYK7sD6LpzERgAa_oy1mPEg",
-    "ChIJCzimRUaRpzER1jlvynsq6ko",
-    "ChIJ31mASN6NpzERb74nK1CMQBs",
-    "ChIJ6YYsdoeMpzER4sWM4NiICeI",
-    "ChIJCVbqKQCVpzERyNmZl5mrNcU",
-    "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
-    "ChIJQZoz472XpzERETLpPPs-P8Y",
-    "ChIJYbElPPaLpzERTX725HPPGuM",
-    "ChIJybqyDQCRpzER7ojvdd5xiqQ"
+    "ChIJqd0nQ8SNpzERSxVeIRn2Aes"
   ],
   "history": [
+    {
+      "date": "2026-10-18",
+      "placeId": "ChIJ51OpPgCVpzER-TzMZtCOk0o",
+      "placeName": "Maison Kayser Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1862314638269386"
+        },
+        "instagramReel": {
+          "id": "17952043347050162"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "placeId": "ChIJYQY76P2NpzERlul1IUfk3N8",
+      "placeName": "Bapaki Tea, Bakery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128787079313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18357201454174749"
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "placeId": "ChIJz-FucgSNpzERjZlTcooFwcY",
+      "placeName": "LAN CHI BAKERY PHÚ QUỐC",
+      "results": {
+        "facebookVideo": {
+          "id": "4227529490714149"
+        },
+        "instagramReel": {
+          "id": "18096837596141966"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "placeId": "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
+      "placeName": "The Cake Corner",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128786113313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18022089863875278"
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "placeId": "ChIJo-0fmz6NpzERIEhHbz8e4T8",
+      "placeName": "TUNG Cake and Tea",
+      "results": {
+        "facebookVideo": {
+          "id": "1576248967607945"
+        },
+        "instagramReel": {
+          "id": "17893930848435765"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "placeId": "ChIJE6Jt3vuVpzERA6ErTfB79es",
+      "placeName": "The Juliet Coffee & Dessert - AMA71",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128784919313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18037612784653280"
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "placeId": "ChIJZaB-ewCNpzERPBRid0eSO98",
+      "placeName": "Nị Bakery",
+      "results": {
+        "facebookVideo": {
+          "id": "2028635084518669"
+        },
+        "instagramReel": {
+          "id": "18432241027199825"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "placeId": "ChIJ44qAJhSLpzERXmrw41RYzJA",
+      "placeName": "Camia Resort & Spa",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128783893313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17978651981914929"
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "placeId": "ChIJAQAAAECKpzERzt6bVEvLa-M",
+      "placeName": "Chen Sea Resort & Spa Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1561015319384118"
+        },
+        "instagramReel": {
+          "id": "17961781413208607"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "placeId": "ChIJI6oge0mLpzERKUoKtQLR-oc",
+      "placeName": "Ocean Bay Resort & Spa Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128782615313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18110607728237082"
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "placeId": "ChIJLZPWxLiWpzERwrkgfIa1P8I",
+      "placeName": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
+      "results": {
+        "facebookVideo": {
+          "id": "1423889182632346"
+        },
+        "instagramReel": {
+          "id": "18219120088359682"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "placeId": "ChIJdQIPu76LpzERR-arMzuJz5I",
+      "placeName": "Eco Tour Thai Duong – Cua Can River Basket Boat Experience",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128781643313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17882377725534745"
+        }
+      }
+    },
     {
       "date": "2026-10-17",
       "placeId": "ChIJoeqegKKWpzER3bN1bSxK1n4",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18087319844695137"
-        }
-      }
-    },
-    {
-      "date": "2026-10-02",
-      "placeId": "ChIJHaad39SNpzERxyH_xEG63Kg",
-      "placeName": "Pacific Boat",
-      "results": {
-        "facebookVideo": {
-          "id": "1692919719070035"
-        },
-        "instagramReel": {
-          "id": "17912397864535514"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-02",
-      "placeId": "ChIJoXjKmgSNpzERianh5FZP7WE",
-      "placeName": "Kimie's Tours - Phu Quoc snorkeling",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126468211313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17949877158326524"
-        }
-      }
-    },
-    {
-      "date": "2026-10-02",
-      "placeId": "ChIJB4_swjiNpzER0vsGaMBGTxg",
-      "placeName": "Onbird Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1713065253088458"
-        },
-        "instagramReel": {
-          "id": "18113809741827791"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-02",
-      "placeId": "ChIJEYK7sD6LpzERgAa_oy1mPEg",
-      "placeName": "Basket Boat Tour & Kayak Tour (Dynasty Phu Quoc)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126467185313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17939363925373663"
-        }
-      }
-    },
-    {
-      "date": "2026-10-01",
-      "placeId": "ChIJCzimRUaRpzER1jlvynsq6ko",
-      "placeName": "Hộ Quốc Temple",
-      "results": {
-        "facebookVideo": {
-          "id": "1774064423813680"
-        },
-        "instagramReel": {
-          "id": "18107716766248154"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-01",
-      "placeId": "ChIJ31mASN6NpzERb74nK1CMQBs",
-      "placeName": "Công Viên Bạch Đằng (Dinh Cậu )",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126279445313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18092133284673697"
-        }
-      }
-    },
-    {
-      "date": "2026-10-01",
-      "placeId": "ChIJ6YYsdoeMpzER4sWM4NiICeI",
-      "placeName": "Huong Nguyen Phu Quoc Local Food Store",
-      "results": {
-        "facebookVideo": {
-          "id": "1406971307612795"
-        },
-        "instagramReel": {
-          "id": "18078758405383378"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-01",
-      "placeId": "ChIJCVbqKQCVpzERyNmZl5mrNcU",
-      "placeName": "Chợ đêm Vui Fest",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126278203313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18077936939399788"
-        }
-      }
-    },
-    {
-      "date": "2026-10-01",
-      "placeId": "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
-      "placeName": "Into The Blue - Phu Quoc Snorkeling Boat Trip",
-      "results": {
-        "facebookVideo": {
-          "id": "951867767989189"
-        },
-        "instagramReel": {
-          "id": "17968305107966253"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-01",
-      "placeId": "ChIJQZoz472XpzERETLpPPs-P8Y",
-      "placeName": "HẢI SẢN DƯƠNG ĐÔNG - QUÁN Di VIEW BIỂN CẦU CẢNG",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126277231313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18010943690968020"
-        }
-      }
-    },
-    {
-      "date": "2026-10-01",
-      "placeId": "ChIJYbElPPaLpzERTX725HPPGuM",
-      "placeName": "Ốc Nhi (옥니 사이공)-해산물 BBQ & 샤브샤브 및 각종 안주",
-      "results": {
-        "facebookVideo": {
-          "id": "1679088080557984"
-        },
-        "instagramReel": {
-          "id": "18347421319267497"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-01",
-      "placeId": "ChIJybqyDQCRpzER7ojvdd5xiqQ",
-      "placeName": "Bè Nắng - Quán Ăn Hải Sản Tươi Sống Trên Bè Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126276253313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18075617072547031"
         }
       }
     }
