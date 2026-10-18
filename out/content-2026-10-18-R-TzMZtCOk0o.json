@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Some mornings in Phu Quoc just hit differently. A proper French bakery, flaky croissants, real espresso, and zero rush. Maison Kayser Phu Quoc is that reset you didn't know you needed. 4.6 stars across 262 reviews. Budget around $15-30 per person. Skip the resort breakfast queue. Come here instead. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch that croissant shatter on the first pull. Maison Kayser Phu Quoc is doing French bakery right, on a tropical island. 4.6 stars. 262 people already know. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #VietnamFood #PhuQuocTravel"
+  },
+  "instagram": {
+    "caption": "This is your slow-morning fix in Phu Quoc. Maison Kayser. 4.6★, 262 reviews, proper French pastry. Comment your go-to Phu Quoc breakfast spot.",
+    "video_caption": "Flaky croissant. Real espresso. Beach island. Maison Kayser Phu Quoc just fixed the morning.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocBakery #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "French bakery on a beach island hits different. Maison Kayser Phu Quoc, 4.6★. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc needed this.",
+    "scenes": [
+      "Close-up: croissant tears open, layers visible",
+      "Barista pulls espresso shot, steam rising",
+      "Wide shot: bright cafe interior, morning light",
+      "Hand wraps around coffee cup, beach visible outside",
+      "Pastry display case, full lineup in frame"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

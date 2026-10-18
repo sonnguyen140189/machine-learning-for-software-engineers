@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 3,132 reviews. At a coffee shop inside Sunset Town. The Juliet Coffee & Dessert - AMA71 is sitting at 71 Amalfi, Phú Quốc and people will not stop talking about it. Desserts, specialty coffee, and a setting that photographs itself. Budget $15-30 per person. For all of that. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the desserts land on the table at The Juliet Coffee & Dessert - AMA71. 4.9 stars from over 3,000 people. Sunset Town, Phú Quốc. $15-30 per person. Your next café stop is decided.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #SunsetTownPhuQuoc #VisitVietnam #TravelTips #PhuQuocFood #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 3,132 reviews. One café in Sunset Town, Phú Quốc. The Juliet Coffee & Dessert - AMA71. $15-30 per person. Save this.",
+    "video_caption": "Desserts arriving at The Juliet Coffee & Dessert - AMA71. Sunset Town, Phú Quốc. 4.9 stars. Go.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #SunsetTownPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 3,132 reviews. One café. The Juliet Coffee & Dessert - AMA71, Phú Quốc. #PhuQuoc #PhuQuocCafe #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9★ from 3,132 people.",
+    "scenes": [
+      "Exterior shot: Amalfi street sign, café facade",
+      "Dessert plated and placed on table, close-up",
+      "Coffee poured, steam rising, slow motion",
+      "Wide shot: Sunset Town street backdrop",
+      "Price tag on menu: under $30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
