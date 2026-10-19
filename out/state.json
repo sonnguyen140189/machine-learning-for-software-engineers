@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJlSRlw5KNpzER9K0k_h7wn_A",
+    "ChIJL0VA6XSNpzERkXZ9BjZxZlM",
+    "ChIJtePCImGLpzER70_qwXv_noQ",
+    "ChIJZczOcTKNpzERDrdWOGSuTvA",
+    "ChIJ90jXsf2TpzERk1THOzfOnoU",
+    "ChIJoVjpabeNpzERP8XEX6ZMUic",
+    "ChIJc-syEUyNpzERlXt7rXb3Hcg",
+    "ChIJqR3vbQCJpzERyD9DA0Mcihs",
+    "ChIJF9qetGKMpzER2yzXvft5qgg",
+    "ChIJ8zUfc5iXpzERSSpBZR01y2c",
+    "ChIJ2bp76JUfCDER2BAKZAkG66c",
+    "ChIJbUZGsQEfCDERXgX4I2SUCsI",
     "ChIJ51OpPgCVpzER-TzMZtCOk0o",
     "ChIJYQY76P2NpzERlul1IUfk3N8",
     "ChIJz-FucgSNpzERjZlTcooFwcY",
@@ -187,21 +199,189 @@
     "ChIJ7fpDGamNpzERBaF8duO9WKY",
     "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
     "ChIJq31LD1-MpzERdIuwa2Bg2ok",
-    "ChIJ1aeQ29SNpzERQ6q22sUKYRc",
-    "ChIJGeOzddMfCDERWqFBHDihXo0",
-    "ChIJcSDG-fqWpzERQkkxuLWDUyU",
-    "ChIJhS_cnzseCDERAMqYy7efZBo",
-    "ChIJDz3c2puNpzERnfsc7Mo0TOQ",
-    "ChIJS797XwCNpzERpdvvoNGRBK4",
-    "ChIJAclVLQCNpzERZ2vBnJYPlsE",
-    "ChIJOwIiCSmNpzER1ISpdLmLcEg",
-    "ChIJR1rvyAmNpzERHEdIhXDMsII",
-    "ChIJQf0ZjIeNpzERtMMtf7OdVyg",
-    "ChIJ67MzfTqNpzERl5vEmwYkACQ",
-    "ChIJt-QpkieNpzEROHxvKTl08as",
-    "ChIJqd0nQ8SNpzERSxVeIRn2Aes"
+    "ChIJ1aeQ29SNpzERQ6q22sUKYRc"
   ],
   "history": [
+    {
+      "date": "2026-10-19",
+      "placeId": "ChIJlSRlw5KNpzER9K0k_h7wn_A",
+      "placeName": "thì là",
+      "results": {
+        "facebookVideo": {
+          "id": "1106682181721981"
+        },
+        "instagramReel": {
+          "id": "18117638359995554"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "placeId": "ChIJL0VA6XSNpzERkXZ9BjZxZlM",
+      "placeName": "TUNA Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128916667313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18465719446184547"
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "placeId": "ChIJtePCImGLpzER70_qwXv_noQ",
+      "placeName": "Đảo Hải Sản | Seafood Restaurant · 해산물 · Рестораны Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1639176867877595"
+        },
+        "instagramReel": {
+          "id": "18114147667853873"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "placeId": "ChIJZczOcTKNpzERDrdWOGSuTvA",
+      "placeName": "Bơ restaurant & coffee",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128915617313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17976676071135036"
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "placeId": "ChIJ90jXsf2TpzERk1THOzfOnoU",
+      "placeName": "Bãi 3 Cây Dừa (Three Coconus Tree Beach) Longbeach",
+      "results": {
+        "facebookVideo": {
+          "id": "1371528838194549"
+        },
+        "instagramReel": {
+          "id": "18134538874677385"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "placeId": "ChIJoVjpabeNpzERP8XEX6ZMUic",
+      "placeName": "Swing Pier",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128914783313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17889741999469425"
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "placeId": "ChIJc-syEUyNpzERlXt7rXb3Hcg",
+      "placeName": "Dinh Cau Lighthouse",
+      "results": {
+        "facebookVideo": {
+          "id": "1044814755250788"
+        },
+        "instagramReel": {
+          "id": "18074832539764888"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "placeId": "ChIJqR3vbQCJpzERyD9DA0Mcihs",
+      "placeName": "Suối Đá Bàn",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128913787313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18117929452975934"
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "placeId": "ChIJF9qetGKMpzER2yzXvft5qgg",
+      "placeName": "Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1113108774407759"
+        },
+        "instagramReel": {
+          "id": "18115899737519907"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "placeId": "ChIJ8zUfc5iXpzERSSpBZR01y2c",
+      "placeName": "Phu Quoc Prison History Museum",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128912533313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18128258732299173"
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "placeId": "ChIJ2bp76JUfCDER2BAKZAkG66c",
+      "placeName": "Vinpearl Safari Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1139747405402243"
+        },
+        "instagramReel": {
+          "id": "17961767586228815"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "placeId": "ChIJbUZGsQEfCDERXgX4I2SUCsI",
+      "placeName": "Grand World Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122128911447313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18114484373519904"
+        }
+      }
+    },
     {
       "date": "2026-10-18",
       "placeId": "ChIJ51OpPgCVpzER-TzMZtCOk0o",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18165257053488121"
-        }
-      }
-    },
-    {
-      "date": "2026-10-03",
-      "placeId": "ChIJGeOzddMfCDERWqFBHDihXo0",
-      "placeName": "Wyndham Grand Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1049766244551191"
-        },
-        "instagramReel": {
-          "id": "18102106685561542"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-03",
-      "placeId": "ChIJcSDG-fqWpzERQkkxuLWDUyU",
-      "placeName": "Premier Village Phu Quoc Resort",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126613267313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17974918665141468"
-        }
-      }
-    },
-    {
-      "date": "2026-10-03",
-      "placeId": "ChIJhS_cnzseCDERAMqYy7efZBo",
-      "placeName": "Vinpearl Resort & Spa Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "2614297705698473"
-        },
-        "instagramReel": {
-          "id": "18017962001735152"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-03",
-      "placeId": "ChIJDz3c2puNpzERnfsc7Mo0TOQ",
-      "placeName": "Dusit Princess Moonrise beach resort",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126612205313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18629480674019492"
-        }
-      }
-    },
-    {
-      "date": "2026-10-02",
-      "placeId": "ChIJS797XwCNpzERpdvvoNGRBK4",
-      "placeName": "Phở Vương Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "4660255577578410"
-        },
-        "instagramReel": {
-          "id": "17910606201493142"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-02",
-      "placeId": "ChIJAclVLQCNpzERZ2vBnJYPlsE",
-      "placeName": "Châu Ký Gia - Cantonese noodles & Rice, Local Food",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126472693313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18031593263675029"
-        }
-      }
-    },
-    {
-      "date": "2026-10-02",
-      "placeId": "ChIJOwIiCSmNpzER1ISpdLmLcEg",
-      "placeName": "Mì Tê - Artisan Noodles",
-      "results": {
-        "facebookVideo": {
-          "id": "1898223081562580"
-        },
-        "instagramReel": {
-          "id": "18000395162805805"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-02",
-      "placeId": "ChIJR1rvyAmNpzERHEdIhXDMsII",
-      "placeName": "Bún Quậy Kiến-Xây | Local PhuQuoc Seafood Noodles",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126471589313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18100284965057557"
-        }
-      }
-    },
-    {
-      "date": "2026-10-02",
-      "placeId": "ChIJQf0ZjIeNpzERtMMtf7OdVyg",
-      "placeName": "Mì Tê Lý Thường Kiệt - Artisan Noodles",
-      "results": {
-        "facebookVideo": {
-          "id": "1654053442916392"
-        },
-        "instagramReel": {
-          "id": "18391648681163992"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-02",
-      "placeId": "ChIJ67MzfTqNpzERl5vEmwYkACQ",
-      "placeName": "Phở Lý Quốc Sư",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126470611313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18158241217503361"
-        }
-      }
-    },
-    {
-      "date": "2026-10-02",
-      "placeId": "ChIJt-QpkieNpzEROHxvKTl08as",
-      "placeName": "Xóm Mới Garden Phú Quốc 씀모이가든 푸꾸옥 맛집",
-      "results": {
-        "facebookVideo": {
-          "id": "1626039385865282"
-        },
-        "instagramReel": {
-          "id": "18077448302407417"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-02",
-      "placeId": "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
-      "placeName": "Phu Quoc Local Guide - Snorkeling and Scuba Diving",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126469273313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18087319844695137"
         }
       }
     }
