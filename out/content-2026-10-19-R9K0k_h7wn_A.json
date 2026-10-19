@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you walked down Trần Hưng Đạo and ducked into thì là on a whim.\n\n4.7 stars. 1,155 reviews. $15-30 a head for real Vietnamese food on Phu Quoc.\n\nThe kind of place that makes you cancel your resort dinner reservation. Fresh herbs, bold broth, no performance. Just the food doing the work.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Bowl hits the table at thì là and suddenly the resort buffet feels embarrassing. 4.7 stars, 1,155 reviews, $15-30 a person. 43 Đường Trần Hưng Đạo. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you picked thì là over the resort restaurant. 4.7★, 1,155 reviews, $15-30 a head. Zero regrets.\n\nTag your travel buddy.",
+    "video_caption": "The bowl lands. You immediately regret every resort meal before this. thì là, Phu Quoc. 4.7 stars.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodTok"
+  },
+  "tiktok": {
+    "caption": "Walked in on a whim. Left with a new favorite restaurant. thì là hits different 🍜 #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you found thì là",
+    "scenes": [
+      "Exterior shot: 43 Đường Trần Hưng Đạo sign",
+      "Push through the door, busy tables inside",
+      "Close-up: steaming bowl lands on table",
+      "Herbs piled high, broth catching light",
+      "Review count flashes: 4.7★ · 1,155 reviews",
+      "Price card: $15-30 a person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

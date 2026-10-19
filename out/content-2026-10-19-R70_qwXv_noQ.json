@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you follow a local down Hẻm 111 and end up at the best seafood table of your trip.\n\nĐảo Hải Sản doesn't advertise. 4.7 stars and 1,390 reviews do it for them.\n\n$15-30 a head. Fresh catch. The kind of place you book a second dinner at before the first one ends.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Grilled, steamed, and piled high. Đảo Hải Sản on Hẻm 111 is doing 4.7 stars for a reason. $15-30 a person and the table is already full. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #SeafoodPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: wrong alley, right restaurant. Đảo Hải Sản, 4.7★, 1,390 reviews, $15-30 a head.\n\nSave this.",
+    "video_caption": "Fresh catch. Packed tables. 4.7 stars off a side alley in Phu Quoc. Đảo Hải Sản hits.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #SeafoodPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Followed a local down a side alley. Ended up here. 4.7★ seafood for $15-30. #PhuQuoc #PhuQuocFood #SeafoodLovers"
+  },
+  "video_script": {
+    "hook": "POV: you found the good seafood.",
+    "scenes": [
+      "Handheld walk down narrow Hẻm 111",
+      "Restaurant sign comes into frame: Đảo Hải Sản",
+      "Whole crabs and prawns hit the grill",
+      "Steam rising, plates stacked on table",
+      "Review screen: 4.7★ 1,390 reviews",
+      "Bill arrives, under $30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This beach fixes something in you. Bãi 3 Cây Dừa sits right on Long Beach, three coconut palms marking the spot, and somehow it still feels like you have it to yourself. No big resort crowd. No vendors every 10 steps. Just sand, water, and actual quiet. That's rare on this stretch. Save this for your Phu Quoc trip.",
+    "video_caption": "Three palm trees. One stretch of sand. Zero crowds. Bãi 3 Cây Dừa on Long Beach hits different when you actually stop walking and sit down. This is what you came to Phu Quoc for.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #LongBeachPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamBeach"
+  },
+  "instagram": {
+    "caption": "This beach fixes something in you. Bãi 3 Cây Dừa, Long Beach. Quiet, real, exactly what you need. Tag your travel buddy.",
+    "video_caption": "Three palms. Empty sand. Phu Quoc that doesn't feel touristy. Bãi 3 Cây Dừa delivers.",
+    "hashtags": "#PhuQuocBeach #PhuQuocTips #LongBeachPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc that doesn't feel touristy. Bãi 3 Cây Dừa, Long Beach. Go. #PhuQuoc #PhuQuocBeach #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that doesn't feel touristy.",
+    "scenes": [
+      "Slow pan across empty shoreline",
+      "Three coconut palms from below, sky behind",
+      "Feet in wet sand, waves pulling back",
+      "Wide shot: beach, palms, no crowds",
+      "Close on calm water, late afternoon light"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

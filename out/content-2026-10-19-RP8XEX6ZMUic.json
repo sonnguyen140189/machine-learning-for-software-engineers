@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Some places just reset you. Swing Pier in Phu Quoc is one of them. You sit, you swing, you watch the water move. No agenda. No rush. Just that feeling where your shoulders finally drop. Not every stop has to be a landmark. Sometimes a pier and the right light is enough. Save this for your Phu Quoc trip.",
+    "video_caption": "Feet off the ground, ocean underneath, Phu Quoc stretching out in front of you. This is Swing Pier doing exactly what it promises. Worth every minute.",
+    "first_comment": "#PhuQuoc #PhuQuocIsland #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Some places just reset you. Swing Pier, Phu Quoc. Sit, swing, watch the water. That's it. That's the post.\n\nTag your travel buddy.",
+    "video_caption": "Swinging over the ocean in Phu Quoc hits different. Swing Pier. Put it on the list.",
+    "hashtags": "#PhuQuocTips #PhuQuocIsland #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocVibes"
+  },
+  "tiktok": {
+    "caption": "The pier that genuinely resets your brain. Swing Pier, Phu Quoc. Go. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: pier extending over calm water",
+      "Close-up: feet swinging above the sea",
+      "Pull back: lone figure, golden light, silence",
+      "Slow pan across the horizon line",
+      "Cut to: genuine smile, no performance"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

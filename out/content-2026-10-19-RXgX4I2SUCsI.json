@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "14,488 reviews. 4.5 stars. Grand World Phu Quoc is not playing around.\n\nThis isn't just a resort complex. It's a full city within Bãi Dài, Phú Quốc. Canals, gondolas, night markets, live performances, and food from every corner of Vietnam, all in one walkable strip.\n\nFirst-timers always underestimate how much is here. Block out a full evening minimum.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Gondolas. Canal-side lights. Street food at midnight. Grand World Phu Quoc hits different after dark. Walk the full strip at Bãi Dài, Phú Quốc and tell me this isn't worth a full night of your trip.",
+    "first_comment": "#PhuQuoc #GrandWorldPhuQuoc #PhuQuocNightLife #VisitVietnam #TravelTips #PhuQuocAttraction #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "14,488 reviews. 4.5 stars. Grand World Phu Quoc earns every single one.\n\nCanals, gondolas, night markets. One evening is not enough.\n\nTag your travel buddy.",
+    "video_caption": "Gondolas at Bãi Dài, Phú Quốc. 4.5 stars across 14,488 reviews. Watch what Grand World looks like after dark.",
+    "hashtags": "#PhuQuocTips #GrandWorldPhuQuoc #PhuQuocNightLife #PhuQuocAttraction #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "14,488 reviews. Grand World Phu Quoc after dark hits different. Block a full night. #PhuQuoc #GrandWorldPhuQuoc #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "14,488 reviews. See why.",
+    "scenes": [
+      "Aerial shot of Grand World canal at dusk",
+      "Gondola gliding under lit-up bridge",
+      "Street food stalls packed with locals and tourists",
+      "Live performance crowd reacting on main strip",
+      "Close-up of 4.5-star rating on phone screen",
+      "Wide shot of full Bãi Dài, Phú Quốc skyline at night"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

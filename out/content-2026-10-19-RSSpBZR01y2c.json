@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "9,861 people rated this. Most tourists still walk right past it.\n\nPhu Quoc Prison History Museum holds the full weight of what happened on this island during the French colonial era and the Vietnam War. Mannequins. Real cells. Real methods. Nothing is softened.\n\nThis is the Phu Quoc most beach resorts don't mention. Give it 90 minutes. You'll leave knowing the island differently.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Step inside the cells at Phu Quoc Prison History Museum. Wire cages. Mannequins mid-scene. 4.3 stars from nearly 10,000 visitors, and most tourists on this island never come here. That gap says everything.",
+    "first_comment": "#PhuQuoc #PhuQuocHistory #ThingsToDoPhuQuoc #VisitVietnam #VietnamHistory #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "9,861 reviews. Most Phu Quoc tourists never show up.\n\nPhu Quoc Prison History Museum. Real cells. Real history. 90 minutes that reframe the whole island.\n\nShare with someone planning Vietnam.",
+    "video_caption": "Wire cages. Mannequins mid-torture. 4.3 stars from nearly 10,000 people. Phu Quoc Prison Museum is the hardest walk you'll take here.",
+    "hashtags": "#PhuQuocHistory #ThingsToDoPhuQuoc #PhuQuocTips #VietnamHistory #VietnamTravel #TravelTips #TravelReels #PhuQuocMuseum"
+  },
+  "tiktok": {
+    "caption": "9,861 reviews and tourists still skip it. Phu Quoc Prison Museum will change how you see this island. #PhuQuoc #VietnamHistory #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "9,861 reviews. Still skipped.",
+    "scenes": [
+      "Pan across prison exterior wall",
+      "Push into narrow cell corridor",
+      "Close-up: wire cage with mannequins",
+      "Slow tilt up informational placard",
+      "Wide shot of empty courtyard, harsh light"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

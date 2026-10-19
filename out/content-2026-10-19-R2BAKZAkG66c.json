@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "27,364 reviews. 4.6 stars. Vinpearl Safari Phú Quốc earns every one.\n\nThis isn't a standard zoo. Open-range enclosures, rare native species, and exotic wildlife across one of Southeast Asia's largest safari parks. You ride through it on a tram. Animals walk past the windows.\n\nKids lose their minds. Adults do too.\n\nBãi Dài is already worth the drive north. Add this and you've got a full day sorted.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Tram moving. Giraffes five feet away. This is Vinpearl Safari Phú Quốc and 27,364 people gave it 4.6 stars for a reason. Open-range safari on a Vietnamese island. Not what you expected from Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocThingsToDo #VisitVietnam #VietnamTravel #PhuQuocTips #VinpearlSafari #TravelVietnam"
+  },
+  "instagram": {
+    "caption": "27,364 reviews. 4.6 stars. Vinpearl Safari Phú Quốc is not a regular zoo.\n\nOpen-range safari by tram. Animals at arm's length.\n\nTag your travel buddy.",
+    "video_caption": "Tram rolling. Giraffes closing in. Vinpearl Safari Phú Quốc hits different. 4.6 stars, 27k+ reviews. Go.",
+    "hashtags": "#PhuQuoc #PhuQuocThingsToDo #VinpearlSafari #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VietnamTourism"
+  },
+  "tiktok": {
+    "caption": "27,364 reviews. 4.6 stars. Vinpearl Safari Phú Quốc just changed the itinerary. #PhuQuoc #VietnamTravel #SafariPark #TravelTips"
+  },
+  "video_script": {
+    "hook": "27,364 reviews. 4.6 stars.",
+    "scenes": [
+      "Tram entering open safari gate",
+      "Giraffes walking beside tram window",
+      "Rare native species in open enclosure",
+      "Kids pointing, wide-eyed reaction shot",
+      "Aerial pull-back: massive park scale"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

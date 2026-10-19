@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you took the jungle trail and found this. Suối Đá Bàn is one of those spots that rewards the people who actually leave the resort. Giant flat boulders, a stream cutting through the forest, and almost nobody else around. 4.4 stars from people who made the trek. Wear shoes you don't mind getting wet. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the water move across the flat rocks at Suối Đá Bàn. No crowds. No resort pool vibes. Just jungle, boulders, and a stream that earns the walk. Phu Quoc delivers when you go looking.",
+    "first_comment": "#PhuQuoc #PhuQuocNature #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #VietnamNature"
+  },
+  "instagram": {
+    "caption": "Took the trail. Found Suối Đá Bàn. Wet shoes, zero regrets. Tag your travel buddy.",
+    "video_caption": "Stream. Boulders. No one else there. Suối Đá Bàn goes hard for people who actually explore Phu Quoc.",
+    "hashtags": "#PhuQuocNature #PhuQuocTips #PhuQuocTrail #VisitVietnam #VietnamTravel #TravelReels #TravelTips"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn in the jungle. Found Suối Đá Bàn. Wear shoes you can get wet. #PhuQuoc #PhuQuocNature #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found Suối Đá Bàn",
+    "scenes": [
+      "Trail entrance, dense jungle canopy",
+      "Boots stepping over tree roots",
+      "First glimpse of flat boulder field",
+      "Water rushing over dark stone",
+      "Wide shot, no other tourists visible"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
