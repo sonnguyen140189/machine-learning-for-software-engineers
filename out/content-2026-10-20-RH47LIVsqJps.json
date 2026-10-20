@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wander off Đường Trần Hưng Đạo and find Zyzu Kafé up the stairs.\n\n4.4 stars. 349 reviews. Under $10 a person.\n\nThe kind of café locals orbit while tourists miss the turn. Good coffee, real prices, zero resort markup.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Climbing the stairs to Zyzu Kafé, 69 Đường Trần Hưng Đạo. 4.4 stars, under $10, and somehow off most tourist radars. This is what a Phu Quoc coffee break actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: took the stairs. Found Zyzu Kafé. 4.4★, 349 reviews, under $10.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Stairs off Đường Trần Hưng Đạo. Zyzu Kafé at the top. Under $10. Worth every step.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeShop"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn in Duong Dong. Found Zyzu Kafé. 4.4★ under $10. Don't miss this staircase. #PhuQuoc #PhuQuocCafe #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found the staircase café",
+    "scenes": [
+      "Street-level shot of 69 Đường Trần Hưng Đạo signage",
+      "Camera tilts up to show stairs leading to Zyzu Kafé",
+      "Hands wrap around a coffee cup, steam rising",
+      "Price on menu board, under $10 visible",
+      "Wide shot of café seating, local crowd"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

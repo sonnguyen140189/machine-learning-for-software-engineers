@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "327 reviews. 4.5 stars. Under $10 a head.\n\nHD cafe in Khu 1 keeps delivering for locals and visitors alike. Good coffee, low prices, real atmosphere. No resort markup, no tourist trap pricing.\n\nIf you're spending time in Phú Quốc and need a solid café that won't wreck your budget, this is the one to bookmark.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Coffee order placed. Change from a $10 bill. This is HD cafe in Khu 1, Phú Quốc. 327 people rated it 4.5 stars and they are not wrong. Under $10 every single time.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "327 reviews. 4.5 stars. Every drink under $10.\n\nHD cafe, Khu 1, Phú Quốc. Save this.",
+    "video_caption": "4.5 stars, 327 reviews, under $10. HD cafe in Phú Quốc just became your new go-to. Tag your travel buddy.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeVietnam"
+  },
+  "tiktok": {
+    "caption": "4.5 stars and under $10 at HD cafe Phú Quốc. No notes. #PhuQuoc #PhuQuocTips #VietnamTravel #CafeVietnam"
+  },
+  "video_script": {
+    "hook": "327 reviews. 4.5★. Under $10.",
+    "scenes": [
+      "Exterior shot of HD cafe sign",
+      "Barista preparing coffee orders",
+      "Close-up of drinks on table",
+      "Receipt showing total under $10",
+      "Satisfied sip, relaxed vibe inside"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

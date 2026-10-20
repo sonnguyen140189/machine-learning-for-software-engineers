@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this one. GÓC CÀ PHÊ - Phú Quốc Riverside Coffee, Tea & Books sits right on the water, books on the shelves, coffee under $10, and almost nobody in there. 4.7 stars from 84 people who found it. Quiet. Real. Exactly what you need between beach days. Save this for your Phu Quoc trip.",
+    "video_caption": "Coffee in hand, river out front, a shelf of books behind you. GÓC CÀ PHÊ - Phú Quốc Riverside Coffee, Tea & Books is the slowest, best hour you'll spend in Phu Quoc. Under $10. Zero crowds.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #VietnamCafe #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past GÓC CÀ PHÊ - Phú Quốc Riverside Coffee, Tea & Books. 4.7 stars, riverside seats, books, under $10. Save this.",
+    "video_caption": "River view. Shelf of books. Coffee under $10. GÓC CÀ PHÊ hits different when you slow down.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CafeVibes"
+  },
+  "tiktok": {
+    "caption": "The cafe tourists walk right past in Phu Quoc. 4.7 stars, riverside, books, all under $10. #PhuQuoc #PhuQuocCafe #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior shot: riverside cafe frontage",
+      "Door opening, books lining the walls",
+      "Coffee poured, steam rising close-up",
+      "Wide shot: empty riverside seats, water behind",
+      "Price tag on menu, under $10 visible"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
