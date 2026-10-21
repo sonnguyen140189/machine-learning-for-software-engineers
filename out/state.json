@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJv6Lq7g_aCTERiYzE3phvZS4",
+    "ChIJCzimRUaRpzER1jlvynsq6ko",
+    "ChIJsWqZg7gfCDERVA6dihKWpho",
+    "ChIJ-0XGzouOpzERbbOfSGDmmuU",
+    "ChIJhzuiMZSNpzERWNr-SaAOJgQ",
+    "ChIJxxKldgCNpzERA-z1yNFjwLo",
+    "ChIJQZoz472XpzERETLpPPs-P8Y",
+    "ChIJybqyDQCRpzER7ojvdd5xiqQ",
+    "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
+    "ChIJ7fpDGamNpzERBaF8duO9WKY",
+    "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
+    "ChIJhS_cnzseCDERAMqYy7efZBo",
     "ChIJ0d82exqLpzERoNkx8uHzmAM",
     "ChIJ4S3p-tSNpzERDYsRxEN2Jmo",
     "ChIJsY399WOMpzER7lV4UDy_2w0",
@@ -187,21 +199,189 @@
     "ChIJ44prVx6LpzERai_OMQwtHu0",
     "ChIJ22idLmGNpzERjGFt76Jpj7s",
     "ChIJgZXGLMmNpzERdpFiMil-ONw",
-    "ChIJ1zgaajWTpzERAwdFNM7oyxM",
-    "ChIJ-RvbtGiNpzER2H1IufKqjGc",
-    "ChIJG0ygU8-NpzERXtcRcF0Av7k",
-    "ChIJTZlTGwCNpzERcOusT0_hYo4",
-    "ChIJv4cK9HiNpzER-Vx6JuZH1Sw",
-    "ChIJh6tNOEiNpzERxoGlcVd66u4",
-    "ChIJ-zqn9WCMpzER2Ko070p2nyo",
-    "ChIJD8-KD3uNpzERZVGLp2AdvPI",
-    "ChIJTd2mCvyNpzERdeSpl6CVO3A",
-    "ChIJO2yx-4eMpzER80b94-QiU6c",
-    "ChIJ00OuQxuTpzER-w6UBHVBLJo",
-    "ChIJe_vjTACNpzERrvGoA9qvlAU",
-    "ChIJKQ4XQIeMpzERd9lt9e6zGUg"
+    "ChIJ1zgaajWTpzERAwdFNM7oyxM"
   ],
   "history": [
+    {
+      "date": "2026-10-21",
+      "placeId": "ChIJv6Lq7g_aCTERiYzE3phvZS4",
+      "placeName": "Phu Dung Pagoda",
+      "results": {
+        "facebookVideo": {
+          "id": "1498563025424879"
+        },
+        "instagramReel": {
+          "id": "17966011964979727"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "placeId": "ChIJCzimRUaRpzER1jlvynsq6ko",
+      "placeName": "Hộ Quốc Temple",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122129167767313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18146424370606288"
+        }
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "placeId": "ChIJsWqZg7gfCDERVA6dihKWpho",
+      "placeName": "Vinwonders Fountain",
+      "results": {
+        "facebookVideo": {
+          "id": "1642409887435814"
+        },
+        "instagramReel": {
+          "id": "18089742611267810"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "placeId": "ChIJ-0XGzouOpzERbbOfSGDmmuU",
+      "placeName": "Tiên Sơn Đỉnh",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122129166783313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17893477836681975"
+        }
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "placeId": "ChIJhzuiMZSNpzERWNr-SaAOJgQ",
+      "placeName": "Hải Sản 154",
+      "results": {
+        "facebookVideo": {
+          "id": "975356952295075"
+        },
+        "instagramReel": {
+          "id": "17990418171074945"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "placeId": "ChIJxxKldgCNpzERA-z1yNFjwLo",
+      "placeName": "Seafood Nails",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122129165769313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18028679780862682"
+        }
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "placeId": "ChIJQZoz472XpzERETLpPPs-P8Y",
+      "placeName": "HẢI SẢN DƯƠNG ĐÔNG - QUÁN Di VIEW BIỂN CẦU CẢNG",
+      "results": {
+        "facebookVideo": {
+          "id": "1589668205642937"
+        },
+        "instagramReel": {
+          "id": "17930240067419712"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "placeId": "ChIJybqyDQCRpzER7ojvdd5xiqQ",
+      "placeName": "Bè Nắng - Quán Ăn Hải Sản Tươi Sống Trên Bè Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122129164755313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18575663449076143"
+        }
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "placeId": "ChIJ7YQa_YqNpzERJ5gsnB4szZo",
+      "placeName": "Nhà hàng hải sản Xưa và Nay",
+      "results": {
+        "facebookVideo": {
+          "id": "2293858174781086"
+        },
+        "instagramReel": {
+          "id": "18108986906242726"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "placeId": "ChIJ7fpDGamNpzERBaF8duO9WKY",
+      "placeName": "Bánh Mì & You",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122129163909313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18105416114632082"
+        }
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "placeId": "ChIJ1ZhyOTuNpzERBPnWDk-EEcc",
+      "placeName": "Phu Quoc Street Food Tour - Eat with Locals, Drink with Locals",
+      "results": {
+        "facebookVideo": {
+          "id": "3047551365609518"
+        },
+        "instagramReel": {
+          "id": "18098301365661646"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "placeId": "ChIJhS_cnzseCDERAMqYy7efZBo",
+      "placeName": "Vinpearl Resort & Spa Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122129163033313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18101464331545195"
+        }
+      }
+    },
     {
       "date": "2026-10-20",
       "placeId": "ChIJ0d82exqLpzERoNkx8uHzmAM",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18144715420573692"
-        }
-      }
-    },
-    {
-      "date": "2026-10-05",
-      "placeId": "ChIJ-RvbtGiNpzER2H1IufKqjGc",
-      "placeName": "Ocean Night Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1599250401669154"
-        },
-        "instagramReel": {
-          "id": "18119083312753017"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-05",
-      "placeId": "ChIJG0ygU8-NpzERXtcRcF0Av7k",
-      "placeName": "Ngoc Hien Pearl Farm",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126890263313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18054245792800112"
-        }
-      }
-    },
-    {
-      "date": "2026-10-05",
-      "placeId": "ChIJTZlTGwCNpzERcOusT0_hYo4",
-      "placeName": "SORI Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "1619568339915170"
-        },
-        "instagramReel": {
-          "id": "18111589118169128"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-05",
-      "placeId": "ChIJv4cK9HiNpzER-Vx6JuZH1Sw",
-      "placeName": "Nhà hàng Vịnh Xanh Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126889219313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18050091932603531"
-        }
-      }
-    },
-    {
-      "date": "2026-10-04",
-      "placeId": "ChIJh6tNOEiNpzERxoGlcVd66u4",
-      "placeName": "Versailles - Beach Club Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1780437149831133"
-        },
-        "instagramReel": {
-          "id": "18640534447004036"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-04",
-      "placeId": "ChIJ-zqn9WCMpzER2Ko070p2nyo",
-      "placeName": "The Rabbit Hole Irish Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126761257313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18108439184178904"
-        }
-      }
-    },
-    {
-      "date": "2026-10-04",
-      "placeId": "ChIJD8-KD3uNpzERZVGLp2AdvPI",
-      "placeName": "Sip & Heal Beach Bar Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1120528877178261"
-        },
-        "instagramReel": {
-          "id": "18109145033181113"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-04",
-      "placeId": "ChIJTd2mCvyNpzERdeSpl6CVO3A",
-      "placeName": "Passion Pub & Sports Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126760063313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17875208535582303"
-        }
-      }
-    },
-    {
-      "date": "2026-10-04",
-      "placeId": "ChIJO2yx-4eMpzER80b94-QiU6c",
-      "placeName": "HAPPY BEAR Live Music Bar & Bistro",
-      "results": {
-        "facebookVideo": {
-          "id": "1644196460761742"
-        },
-        "instagramReel": {
-          "id": "17995515045044574"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-04",
-      "placeId": "ChIJ00OuQxuTpzER-w6UBHVBLJo",
-      "placeName": "INK 360 Rooftop Bar",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126758791313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18129048220867186"
-        }
-      }
-    },
-    {
-      "date": "2026-10-04",
-      "placeId": "ChIJe_vjTACNpzERrvGoA9qvlAU",
-      "placeName": "Mojito Beach Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1375233709004428"
-        },
-        "instagramReel": {
-          "id": "18097819271085942"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-04",
-      "placeId": "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
-      "placeName": "House No. 1",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122126757453313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18016759391955207"
         }
       }
     }
