@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this place. Nhà hàng hải sản Xưa và Nay sits on Trần Hưng Đạo and most visitors never stop. 4.5 stars across 193 reviews. That score doesn't come from tourists. Fresh seafood, local crowd, zero performance. This is the real Phu Quoc dinner. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the locals order. Nhà hàng hải sản Xưa và Nay on Trần Hưng Đạo. 193 reviews, 4.5 stars, and the tables are full of residents. That tells you everything.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #VietnamTravel #TravelTips #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Nhà hàng hải sản Xưa và Nay. 4.5 stars, 193 reviews, packed with residents. Tag your travel buddy.",
+    "video_caption": "Full tables. Local crowd. Nhà hàng hải sản Xưa và Nay. Phu Quoc seafood the way it's actually eaten here.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocTips #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #FoodReels"
+  },
+  "tiktok": {
+    "caption": "Locals eat here. Tourists walk past. Nhà hàng hải sản Xưa và Nay, Phu Quoc. 4.5 stars. 193 reviews. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post this spot.",
+    "scenes": [
+      "Exterior shot: busy tables, local crowd",
+      "Zoom in: 4.5 star rating on screen",
+      "Hands reaching for fresh seafood dish",
+      "Wide shot: packed dining room, no tourists",
+      "Close-up: steaming plate hits the table"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

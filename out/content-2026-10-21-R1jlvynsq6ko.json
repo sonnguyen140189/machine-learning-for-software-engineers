@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stumble onto Hộ Quốc Temple and forget you're on a beach island.\n\nDragon staircases. Massive Buddha statues. Mountain backdrop. This place hits different when you've spent three days at the beach.\n\n4.7 stars across 1,456 reviews. Not a tourist trap. A real working temple worth the drive.\n\nAdd it to your Phu Quoc itinerary between beach days. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking up the dragon stairs at Hộ Quốc Temple. 1,456 people gave this 4.7 stars and it shows. Phu Quoc has layers. This is one of them.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #VietnamTravel #ThingsToDoPhuQuoc #PhuQuocTips #BuddhismVietnam"
+  },
+  "instagram": {
+    "caption": "POV: you find Hộ Quốc Temple between beach days. 4.7★, 1,456 reviews, zero hype. Phu Quoc has layers.\n\nSave this for your trip.",
+    "video_caption": "Dragon stairs. Mountain backdrop. Real temple energy. Hộ Quốc Temple is the Phu Quoc stop most tourists skip.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #PhuQuocTravel #VietnamTravel #ThingsToDoPhuQuoc #TravelReels #TravelTips"
+  },
+  "tiktok": {
+    "caption": "POV: wrong turn, right place. Hộ Quốc Temple on Phu Quoc just reset my whole trip. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: you found this temple.",
+    "scenes": [
+      "Drone pull-back: temple against mountain",
+      "Slow walk up dragon staircase",
+      "Close-up: intricate gate carvings",
+      "Wide shot: giant Buddha statue",
+      "Visitor stands still, looks up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

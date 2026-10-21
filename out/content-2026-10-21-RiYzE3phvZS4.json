@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. Phu Dung Pagoda sits in Hà Tiên, off every major itinerary, rated 4.5 stars by 1,466 people who actually found it. Buddhist temple. Dead quiet. Zero tour groups. This is Phu Quoc-region travel done right. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into Phù Dung Pagoda while tour buses park somewhere else. 4.5 stars, 1,466 reviews, and nobody in line. This is what slow travel in Hà Tiên actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #HaTien #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Phù Dung Pagoda. 4.5 stars. 1,466 reviews. Zero crowds. Save this.",
+    "video_caption": "No tour groups. No queue. Just Phù Dung Pagoda and total silence. Hà Tiên delivers.",
+    "hashtags": "#PhuQuocTemple #HaTienVietnam #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocTravel #BuddhismTravel"
+  },
+  "tiktok": {
+    "caption": "Nobody told you about Phù Dung Pagoda. 4.5 stars, 1,466 reviews, still empty. #PhuQuoc #HaTien #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior gate of Phù Dung Pagoda, golden hour light",
+      "Slow push through empty courtyard",
+      "Close-up: incense smoke curling upward",
+      "Wide shot: no other tourists in frame",
+      "Tilt up to pagoda rooftop detail"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

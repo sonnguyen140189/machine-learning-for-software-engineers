@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Seafood with your feet basically hanging over the water. HẢI SẢN DƯƠNG ĐÔNG sits right on the pier at 115 Đ. Trần Phú, and the dock-side view hits different at golden hour. Fresh catch, $15-30 a head, and that sea breeze doing all the work. 4.6 stars from real diners. Book the table closest to the edge. Save this for your Phu Quoc trip.",
+    "video_caption": "Camera pans down the pier, water below, seafood landing on the table. This is dinner at HẢI SẢN DƯƠNG ĐÔNG. $15-30. Right on the dock. 4.6 stars.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Dinner with your feet over the ocean. HẢI SẢN DƯƠNG ĐÔNG, pier-side, $15-30. 4.6 stars. Tag your travel buddy.",
+    "video_caption": "Pier table. Fresh seafood. Sea breeze. HẢI SẢN DƯƠNG ĐÔNG delivers. $15-30 a head.",
+    "hashtags": "#PhuQuocSeafood #PhuQuocFood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Seafood ON the pier. The view is free. HẢI SẢN DƯƠNG ĐÔNG, Phu Quoc. $15-30. #PhuQuoc #PhuQuocSeafood #VietnamFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Dinner over the ocean.",
+    "scenes": [
+      "Wide shot: pier stretching over water",
+      "Pan across full seafood spread on table",
+      "Close-up: fresh prawns, steam rising",
+      "Cut to: golden light on the dock",
+      "Show price card: $15-30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
