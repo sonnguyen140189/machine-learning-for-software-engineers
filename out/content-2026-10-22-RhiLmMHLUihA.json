@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Locals don't post about this coffee shop. SIM Coffee - A Story Of The Island sits at 202c Nguyễn Trung Trực and pulls a perfect 5.0. Under $10 a person. Zero tourist crowds. The name alone tells you this place has a point of view. Find it before everyone else does. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the barista work at SIM Coffee - A Story Of The Island. 5.0 stars. Under $10. The café Phu Quoc locals keep to themselves. 202c Nguyễn Trung Trực. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #VietnamCoffee #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Locals don't post about this café. SIM Coffee - A Story Of The Island. 5.0 stars. Under $10. No crowds. Save this for your Phu Quoc trip.",
+    "video_caption": "5.0 stars and the tourists have no idea it exists. SIM Coffee - A Story Of The Island. Tag your travel buddy.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CoffeeShop"
+  },
+  "tiktok": {
+    "caption": "The café locals keep secret in Phu Quoc. 5.0 stars. Under $10. 202c Nguyễn Trung Trực. #PhuQuoc #VietnamTravel #PhuQuocTips #CoffeeTok #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals keep this one secret.",
+    "scenes": [
+      "Exterior shot: 202c Nguyễn Trung Trực signage",
+      "Push into café entrance, ambient light",
+      "Close-up: Vietnamese coffee being poured",
+      "Show empty seats, no tourist crowds",
+      "Zoom on 5.0 star rating on phone screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

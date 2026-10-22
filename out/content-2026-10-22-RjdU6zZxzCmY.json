@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this café. Their loss. ALLO Cafe & Bakery on Đường Bào is pulling a 4.9★ from locals who actually know Phu Quoc coffee. Pastries baked fresh, proper espresso, and zero resort markup. This is the café you put in your notes app and tell nobody about. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the barista pull this shot. ALLO Cafe & Bakery on Đường Bào, 4.9 stars, and most tourists never find it. This is where you go when you're done with the hotel breakfast.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocFood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about ALLO Cafe & Bakery. 4.9★ on Đường Bào and zero tourist crowds. Tag your travel buddy.",
+    "video_caption": "4.9 stars. Đường Bào. Zero tourists. ALLO Cafe & Bakery just became your Phu Quoc morning.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeInVietnam"
+  },
+  "tiktok": {
+    "caption": "The café locals aren't posting about. 4.9★ on Đường Bào. Go before everyone finds it. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post this café.",
+    "scenes": [
+      "Exterior shot, Đường Bào streetfront",
+      "Barista pulling fresh espresso shot",
+      "Pastries lined up on the counter",
+      "Close-up: latte art in the cup",
+      "Empty seats, morning light, no crowds"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

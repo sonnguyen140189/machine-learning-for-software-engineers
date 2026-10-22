@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the resort pool. The ones who know, book VipDive Phu Quoc.\n\nBased in Cửa Lấp, this dive school runs a perfect 5.0 from 86 reviews. Not 4.8. Not 4.9. Five flat.\n\nPhu Quoc's reefs are genuinely world-class and most visitors never get below the surface. That's your advantage.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "5.0 stars. 86 divers. Zero complaints. VipDive Phu Quoc sits in Cửa Lấp, far from the resort crowd, right on the water. This is how you actually see the island.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #ScubaDivingVietnam #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists stay topside. You don't have to. VipDive Phu Quoc. 5.0 stars. 86 reviews. Cửa Lấp.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "5.0 stars at VipDive Phu Quoc. Reefs most tourists never see. Cửa Lấp is the move.",
+    "hashtags": "#PhuQuocDiving #PhuQuocTips #ScubaDivingVietnam #VietnamTravel #TravelTips #TravelReels #DivingLife"
+  },
+  "tiktok": {
+    "caption": "Most tourists never go below the surface in Phu Quoc. VipDive Phu Quoc changes that. 5.0 stars. #PhuQuoc #ScubaDiving #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Aerial shot: Cửa Lấp coastline, boats waiting",
+      "Gear being fitted on a first-time diver",
+      "Underwater: coral reef, fish scattering",
+      "Instructor giving thumbs-up mid-dive",
+      "Surface shot: diver breaks water, smiling"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 1,068 reviews. For a dive center in Phu Quoc.\n\nVietnam Explorer PADI Dive Center isn't playing around. Whether you're a complete beginner or already certified, these guys run tight courses and open-water dives around Phu Quoc's reefs. PADI certified. Small groups. Instructors who actually know these waters.\n\nBook early. Slots fill faster than the tide comes in.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch a first-timer jump off a boat into open water for the first time. That's what Vietnam Explorer PADI Dive Center does. 4.9 stars. 1,068 people didn't lie. Phu Quoc's reefs are waiting.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 1,068 reviews. Phu Quoc's top-rated dive center.\n\nVietnam Explorer PADI Dive Center. Beginners welcome. Reefs are ready.\n\nTag your travel buddy.",
+    "video_caption": "First dive. Open water. 4.9 stars. 1,068 reviews back this up. Vietnam Explorer PADI Dive Center, Phu Quoc.",
+    "hashtags": "#PhuQuocDiving #PhuQuocTips #ThingsToDoPhuQuoc #PADIDiving #VietnamTravel #TravelTips #TravelReels"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 1,068 reviews. Phu Quoc's best dive center just unlocked. #PhuQuoc #PhuQuocDiving #PADIDiving #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9★ 1,068 reviews. PADI diving.",
+    "scenes": [
+      "Aerial shot: turquoise reef below boat",
+      "Instructor gears up a first-timer",
+      "Diver rolls backward off the boat",
+      "Underwater: coral reef, fish swarm",
+      "Diver surfaces, big grin, thumbs up",
+      "Text overlay: Vietnam Explorer PADI Dive Center"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
