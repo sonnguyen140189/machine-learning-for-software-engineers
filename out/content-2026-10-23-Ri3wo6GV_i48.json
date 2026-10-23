@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 1,410 reviews. Inside Sunset Town.\n\nLUMI SPA - MASSAGE 마사지 스파 on 63 Đường Venice keeps showing up for a reason. After a full day on the beach or sightseeing, this is where you decompress properly. The rating doesn't lie at this volume.\n\nAdd it to your Phu Quoc itinerary before the crowds catch on.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walk into LUMI SPA - MASSAGE 마사지 스파 and feel the day leave your body. 4.9 stars across 1,410 reviews. Sunset Town, Phu Quoc. This is what recovery looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 1,410 reviews. LUMI SPA - MASSAGE 마사지 스파 inside Sunset Town.\n\nYour muscles will thank you.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "1,410 people gave it 4.9 stars. LUMI SPA - MASSAGE 마사지 스파, Sunset Town. Book it.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 1,410 reviews. LUMI SPA in Sunset Town hits different after a beach day. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9 stars. 1,410 reviews.",
+    "scenes": [
+      "Exterior shot: LUMI SPA sign, Sunset Town",
+      "Slow push into spa entrance",
+      "Hands placing hot stones on back",
+      "Guest exhales, eyes close",
+      "Rating card on screen: 4.9 / 1,410 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

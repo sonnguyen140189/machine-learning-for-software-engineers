@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the main strip. Savvy travelers book Ong Lang Beach.\n\nMövenpick Villas & Residences Phu Quoc sits on one of the quietest stretches of coastline on the island. 4.7 stars across 2,867 reviews. The crowd never found it.\n\nPrivate villa setup. Actual beach access. Far from the chaos of Duong Dong.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Ong Lang Beach at sunrise. No crowds. No noise. Just the water and your villa.\n\nMövenpick Phu Quoc earns 4.7 stars for a reason. This is what the quieter side of the island looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #OngLangBeach #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists book the main strip. Smart ones book Ong Lang Beach. 4.7★, 2,867 reviews, zero chaos.\n\nTag your travel buddy.",
+    "video_caption": "Quiet beach. Private villa. 4.7 stars. Mövenpick Phu Quoc is the side of the island most miss.",
+    "hashtags": "#PhuQuocResort #OngLangBeach #PhuQuocHotel #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Tourists skip Ong Lang Beach. That's why Mövenpick Phu Quoc still feels this calm. 4.7★ #PhuQuoc #PhuQuocResort #OngLangBeach #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this beach.",
+    "scenes": [
+      "Aerial pan over empty Ong Lang Beach",
+      "Resort entrance, lush grounds, no crowds",
+      "Villa interior, open doors to private terrace",
+      "Slow walk to the shoreline at golden hour",
+      "Zoom on 4.7★ rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
