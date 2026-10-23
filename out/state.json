@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJx3f8BWaNpzER6bgZfY6yD40",
+    "ChIJ3ZgwWLONpzERIM11I5sYgVs",
+    "ChIJA5A7QwCVpzERi3wo6GV_i48",
+    "ChIJE8hQn1ONpzER1K6-murM3g0",
+    "ChIJFQgAJs2NpzER0WPyHaJXWLk",
+    "ChIJPXLuTs2NpzERES05dJcH7Jc",
+    "ChIJCT7IJHeNpzERsmyKSQegiig",
+    "ChIJ1aeQ29SNpzERQ6q22sUKYRc",
+    "ChIJX5g8DI6NpzERD3kfpnZmESY",
+    "ChIJjUvOA0-LpzERxo73OaJMLZo",
+    "ChIJcSDG-fqWpzERQkkxuLWDUyU",
+    "ChIJDz3c2puNpzERnfsc7Mo0TOQ",
     "ChIJo5M0X62NpzERgrGHtWo8nCQ",
     "ChIJrXaM1tmNpzERj7I5uw4cwro",
     "ChIJuQ3uBpGTpzERjdU6zZxzCmY",
@@ -187,21 +199,189 @@
     "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
     "ChIJSQvg5PCNpzERilomshpyO-w",
     "ChIJBzbuPzwkCDER2xazM7W1GSc",
-    "ChIJhwi1TFqTpzERiZQmfO7PxUY",
-    "ChIJ4YZT316MpzERCRfSDHQgbtk",
-    "ChIJcdSi1ayNpzERvyJ8tt9HvWs",
-    "ChIJn6kim_SXpzERd6rlRMQmpZc",
-    "ChIJ0R95YniTpzER8HfwfZ2aMZI",
-    "ChIJ-_0E4DSNpzERdh1-L4xrPi4",
-    "ChIJl8UfBQGNpzERWCMLl5afNZA",
-    "ChIJF33R8xCLpzERFtTAVV7G-14",
-    "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
-    "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
-    "ChIJ04EPezKNpzERUCu48VTEXnw",
-    "ChIJeaUPhUuNpzERsYgZr-tG9Hw",
-    "ChIJgwI3D_8fCDERzTBdqPmUa9M"
+    "ChIJhwi1TFqTpzERiZQmfO7PxUY"
   ],
   "history": [
+    {
+      "date": "2026-10-23",
+      "placeId": "ChIJx3f8BWaNpzER6bgZfY6yD40",
+      "placeName": "Tamarind Spa",
+      "results": {
+        "facebookVideo": {
+          "id": "1938184003823944"
+        },
+        "instagramReel": {
+          "id": "18143665168614653"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "placeId": "ChIJ3ZgwWLONpzERIM11I5sYgVs",
+      "placeName": "Massage Phú Quốc - Nhiên Spa | 마사지 | 스파 | Spa Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122129869191313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18092760338658474"
+        }
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "placeId": "ChIJA5A7QwCVpzERi3wo6GV_i48",
+      "placeName": "LUMI SPA - MASSAGE 마사지 스파",
+      "results": {
+        "facebookVideo": {
+          "id": "2001501047107735"
+        },
+        "instagramReel": {
+          "id": "18106092752642227"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "placeId": "ChIJE8hQn1ONpzER1K6-murM3g0",
+      "placeName": "Glow Day Spa Massage 1 ( 발 마사지, 바디 마사지,핫스톤 테라피)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122129868015313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18109234016247856"
+        }
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "placeId": "ChIJFQgAJs2NpzER0WPyHaJXWLk",
+      "placeName": "Green Paradise Spa - Massage (전신 마사지, 풋 마사지)",
+      "results": {
+        "facebookVideo": {
+          "id": "1132018152578154"
+        },
+        "instagramReel": {
+          "id": "18340900342258432"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "placeId": "ChIJPXLuTs2NpzERES05dJcH7Jc",
+      "placeName": "푸꾸옥 티라운지 엔 문스파(t-lounge & moon spa ) 카카오톡",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122129867067313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18438751549196896"
+        }
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "placeId": "ChIJCT7IJHeNpzERsmyKSQegiig",
+      "placeName": "YUJU SPA Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1594156608510813"
+        },
+        "instagramReel": {
+          "id": "17995311656843614"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "placeId": "ChIJ1aeQ29SNpzERQ6q22sUKYRc",
+      "placeName": "OCSEN Beach Bar & Club",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122129866149313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18132967990786305"
+        }
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "placeId": "ChIJX5g8DI6NpzERD3kfpnZmESY",
+      "placeName": "Sol by Meliá Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "29260479240308211"
+        },
+        "instagramReel": {
+          "id": "18178078945442948"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "placeId": "ChIJjUvOA0-LpzERxo73OaJMLZo",
+      "placeName": "Mövenpick Villas & Residences Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122129864877313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17917098021466682"
+        }
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "placeId": "ChIJcSDG-fqWpzERQkkxuLWDUyU",
+      "placeName": "Premier Village Phu Quoc Resort",
+      "results": {
+        "facebookVideo": {
+          "id": "1095169296563992"
+        },
+        "instagramReel": {
+          "id": "18396885847200401"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "placeId": "ChIJDz3c2puNpzERnfsc7Mo0TOQ",
+      "placeName": "Dusit Princess Moonrise beach resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122129863815313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18020958407730535"
+        }
+      }
+    },
     {
       "date": "2026-10-22",
       "placeId": "ChIJo5M0X62NpzERgrGHtWo8nCQ",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18162222040512817"
-        }
-      }
-    },
-    {
-      "date": "2026-10-07",
-      "placeId": "ChIJ4YZT316MpzERCRfSDHQgbtk",
-      "placeName": "Cassia Cottage Resort & Spa Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1764698284782521"
-        },
-        "instagramReel": {
-          "id": "18105130151527978"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-07",
-      "placeId": "ChIJcdSi1ayNpzERvyJ8tt9HvWs",
-      "placeName": "West Life Bungalow Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127215091313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17879468304546594"
-        }
-      }
-    },
-    {
-      "date": "2026-10-07",
-      "placeId": "ChIJn6kim_SXpzERd6rlRMQmpZc",
-      "placeName": "Premier Residences Phu Quoc Emerald Bay Managed by Accor",
-      "results": {
-        "facebookVideo": {
-          "id": "1445852597400040"
-        },
-        "instagramReel": {
-          "id": "18340650739273159"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-07",
-      "placeId": "ChIJ0R95YniTpzER8HfwfZ2aMZI",
-      "placeName": "Regent Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127213951313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18111073442601125"
-        }
-      }
-    },
-    {
-      "date": "2026-10-06",
-      "placeId": "ChIJ-_0E4DSNpzERdh1-L4xrPi4",
-      "placeName": "Mộc Cuisine Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "2317936242295032"
-        },
-        "instagramReel": {
-          "id": "18150876397499117"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-06",
-      "placeId": "ChIJl8UfBQGNpzERWCMLl5afNZA",
-      "placeName": "Bombay Indian Restaurant Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127045057313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18111002393161893"
-        }
-      }
-    },
-    {
-      "date": "2026-10-06",
-      "placeId": "ChIJF33R8xCLpzERFtTAVV7G-14",
-      "placeName": "Camia Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "2043013679686879"
-        },
-        "instagramReel": {
-          "id": "17910292983502539"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-06",
-      "placeId": "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
-      "placeName": "NINH KITCHEN - VIETNAMESE CUISINE",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127043995313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17969238351180316"
-        }
-      }
-    },
-    {
-      "date": "2026-10-06",
-      "placeId": "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
-      "placeName": "FUSION Treats",
-      "results": {
-        "facebookVideo": {
-          "id": "930492236485527"
-        },
-        "instagramReel": {
-          "id": "18108340229524553"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-06",
-      "placeId": "ChIJ04EPezKNpzERUCu48VTEXnw",
-      "placeName": "The Waterfront Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127043107313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18097732187378085"
-        }
-      }
-    },
-    {
-      "date": "2026-10-06",
-      "placeId": "ChIJeaUPhUuNpzERsYgZr-tG9Hw",
-      "placeName": "Chợ đêm Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "4412383909012624"
-        },
-        "instagramReel": {
-          "id": "17908039839483541"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-06",
-      "placeId": "ChIJgwI3D_8fCDERzTBdqPmUa9M",
-      "placeName": "VinWonders Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127042039313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"Ao3QWbbzH50gc_6RjFVTxjr\"}}"
         }
       }
     }
