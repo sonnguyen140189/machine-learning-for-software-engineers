@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "3,485 reviews. 4.7 stars. Nhà hàng Vịnh Xanh Phú Quốc earns every one.\n\nThis is Phu Quoc seafood at its most serious. Fresh catch, waterfront setting, the kind of meal that becomes the story you tell when you get home. Budget for it. $100+ per person, and worth the conversation before you go.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the seafood arrive at Nhà hàng Vịnh Xanh Phú Quốc. 3,485 people rated this 4.7 stars. The plates explain why. 40 Đường Trần Hưng Đạo, Khu 1. Book ahead.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "3,485 reviews. 4.7 stars. Nhà hàng Vịnh Xanh Phú Quốc delivers.\n\nSplurge-worthy. Tag your travel buddy.",
+    "video_caption": "Fresh seafood. 4.7 stars. 3,485 people already know about Nhà hàng Vịnh Xanh Phú Quốc. Now you do too.",
+    "hashtags": "#PhuQuocSeafood #PhuQuocRestaurants #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodieTravel"
+  },
+  "tiktok": {
+    "caption": "3,485 reviews don't lie. Nhà hàng Vịnh Xanh Phú Quốc is the splurge worth having. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "3,485 reviews. 4.7 stars.",
+    "scenes": [
+      "Exterior shot, waterfront signage",
+      "Live seafood tanks, close up",
+      "Chef plates fresh catch, steam rising",
+      "Full table spread, multiple dishes",
+      "Guest reacts to first bite"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

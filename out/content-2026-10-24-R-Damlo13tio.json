@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wander off Đường Trần Hưng Đạo and end up inside Phu Quoc Centre. Local vendors, real prices, zero resort markup. This is where the island shops, not where it poses. 4.3 stars across 179 reviews says it holds up. Add it to your first-day list before you spend a dollar anywhere else. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking the stalls at Phu Quoc Centre, 1 Đường Trần Hưng Đạo. Vendors, local goods, actual island prices. Skip the resort shops. Come here first.",
+    "first_comment": "#PhuQuoc #PhuQuocMarket #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you find where locals actually shop in Phu Quoc. Phu Quoc Centre. 4.3★, 179 reviews. Go here first. Tag your travel buddy.",
+    "video_caption": "Stalls, local prices, zero tourist markup. Phu Quoc Centre delivers. First stop on arrival.",
+    "hashtags": "#PhuQuocMarket #PhuQuocTips #PhuQuocShopping #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Walked into Phu Quoc Centre and skipped every resort shop after. Real prices, real goods. #PhuQuoc #PhuQuocMarket #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: locals shop HERE.",
+    "scenes": [
+      "Pan down Đường Trần Hưng Đạo entrance",
+      "Push through market doors, stalls reveal",
+      "Close-up: vendor hands sorting local goods",
+      "Wide shot: busy aisles, zero tourists",
+      "Price tag close-up, reaction to low cost"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

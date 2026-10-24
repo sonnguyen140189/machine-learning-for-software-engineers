@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. Sunset Town on Phu Quoc hits different when you actually stop. Golden hour here isn't a backdrop. It's the whole point. Baroque architecture, canal reflections, light that shifts every 10 minutes. 4.6 stars across 5,126 reviews and somehow still not on every itinerary. Go before it is. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the light hit Sunset Town canal by canal. This is what 5,126 people rated 4.6 stars. Phu Quoc doesn't look like this anywhere else. Show up one hour before sunset. That's the window.",
+    "first_comment": "#PhuQuoc #PhuQuocIsland #SunsetTown #VisitVietnam #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Sunset Town. 4.6 stars, 5,126 reviews, still slept on.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Golden hour at Sunset Town hits canal by canal. Arrive one hour early. Trust the 5,126 reviews.",
+    "hashtags": "#PhuQuocTips #PhuQuocAttractions #SunsetTown #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Tourists keep walking past Sunset Town. That's a mistake. #PhuQuoc #SunsetTown #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Wide shot: Sunset Town canal at golden hour",
+      "Tilt up baroque facade, warm light hitting stone",
+      "Slow pan across reflections in still water",
+      "Close up: light shifting on archway details",
+      "Crowd-free street, lone traveler walking through"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 228 reviews. SORI Restaurant is earning that rating one plate at a time.\n\nVietnamese food done right, priced right. $15-30 per person for a full sit-down meal on Phu Quoc. That's the kind of math that makes you order an extra dish.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Plates landing at SORI Restaurant and the table is already full. 4.7 stars from 228 diners. $15-30 per person. Vietnamese food hitting every time. Book before it fills up.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 228 reviews. SORI Restaurant is not playing around.\n\nVietnamese done right. $15-30/person. Save this.",
+    "video_caption": "228 diners rated this 4.7 stars. SORI Restaurant, Phu Quoc. Vietnamese flavors, $15-30/person. Tag your travel buddy.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.7 stars, 228 reviews. SORI Restaurant on Phu Quoc is built different. $15-30/person. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.7 stars. 228 reviews.",
+    "scenes": [
+      "Exterior shot, sign in frame",
+      "Server carries steaming dishes",
+      "Close-up: bowl lands on table",
+      "Chopsticks lifting noodles",
+      "Wide table shot, full spread",
+      "Price on menu shown clearly"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
