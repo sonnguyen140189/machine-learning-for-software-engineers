@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "Walked down a temple alley off Đường Trần Hưng Đạo. Found Lemongrass Restaurant. 1,303 reviews and 4.6 stars. Not by accident.\n\nFamily-run. Real portions. The kind of spot locals point you to when you ask where they actually eat.\n\nPhu Quoc has flashier restaurants. Few with this track record.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Down a temple alley. Past the main strip. Lemongrass Restaurant shows up, 4.6 stars deep, 1,303 reviews earned. Watch what lands on the table.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn down a temple alley. Found Lemongrass Restaurant. 4.6 stars, 1,303 reviews. Don't be me, save this now.",
+    "video_caption": "Temple alley. Family kitchen. 1,303 people were right about Lemongrass Restaurant.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "Wrong turn = best meal. Lemongrass Restaurant off Đường Trần Hưng Đạo. 4.6★ 1,303 reviews. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Took a wrong turn. Found this.",
+    "scenes": [
+      "Walk down narrow temple alley",
+      "Restaurant sign appears mid-alley",
+      "Crowded tables, family cooking visible",
+      "Dishes arrive, close-up on food",
+      "Review count flashes on screen: 1,303"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

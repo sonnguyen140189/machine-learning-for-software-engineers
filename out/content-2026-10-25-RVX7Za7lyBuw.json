@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wander down Đường Trần Hưng Đạo and stop dead. La Place coffee and eatery Phu Quoc. 4.7 stars, 519 reviews, and somehow it still feels like a find. Food runs $15-30 a person. Solid coffee, real food, the kind of spot you return to twice in one trip. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the food land on this table. La Place coffee and eatery Phu Quoc, rated 4.7 by 519 people, priced at $15-30 a person. Trần Hưng Đạo just delivered.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked past once. Went back twice. La Place, 4.7 stars, $15-30 a head. Tag your travel buddy.",
+    "video_caption": "Coffee ordered. Food incoming. La Place Phu Quoc lives up to 519 reviews.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Almost walked past La Place Phu Quoc. 4.7 stars said sit down. #PhuQuoc #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Walked past. Went back.",
+    "scenes": [
+      "Approach cafe entrance on Đường Trần Hưng Đạo",
+      "Pan across interior, people eating",
+      "Close-up: coffee cup hits the table",
+      "Plate of food arrives, steam rising",
+      "Cut to 4.7-star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
