@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJj0CLlcuTpzERosWOlPYPO2k",
+    "ChIJbe2gNQCLpzERjsFqrNha-w8",
+    "ChIJmz2D_FCMpzERKPewnmdlhGQ",
+    "ChIJLzMM1GiNpzER_IUJOcCgd9U",
+    "ChIJUxx6SgCNpzER1Mc9ZcK7CMY",
+    "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
+    "ChIJ4b-mBReLpzERO-pqk4mlARM",
+    "ChIJW-dwUgCNpzEROm6tVugd7qw",
+    "ChIJszMWeMWNpzERVX7Za7lyBuw",
+    "ChIJSQvg5PCNpzERilomshpyO-w",
+    "ChIJW0SI6z2NpzERKixqsVMmIkI",
+    "ChIJBzbuPzwkCDER2xazM7W1GSc",
     "ChIJ0R95YniTpzER8HfwfZ2aMZI",
     "ChIJ6YYsdoeMpzER4sWM4NiICeI",
     "ChIJH_PX_b6VpzERKTtTpGV5YXk",
@@ -187,21 +199,189 @@
     "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
     "ChIJvXeYrq6NpzER68wVOXl4Edg",
     "ChIJXWMScYiMpzERFW5SXq8DfXs",
-    "ChIJp9ZcOsKXpzERDLEPwP3e9JE",
-    "ChIJ2fu7BmGNpzERyc_w8wahNio",
-    "ChIJwUzGbH-MpzERwZw0BxLOowU",
-    "ChIJgw37s0-XpzERx2gWzxP5Qfg",
-    "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
-    "ChIJfcl6s46NpzERvFpgYpkmGe0",
-    "ChIJixiLeACNpzER0bDJkqmR1Ac",
-    "ChIJ2SBPKCONpzER36aEkpOGpyk",
-    "ChIJZWGJPeONpzERce--tYenego",
-    "ChIJh878oruNpzER7b0NN-zrQpk",
-    "ChIJgfT9NoygKU8R8P0qLndf3k0",
-    "ChIJO-aIpaKNpzERkCLeSERC9yE",
-    "ChIJQz9pjguLpzERt20ZmhsgK9Y"
+    "ChIJp9ZcOsKXpzERDLEPwP3e9JE"
   ],
   "history": [
+    {
+      "date": "2026-10-25",
+      "placeId": "ChIJj0CLlcuTpzERosWOlPYPO2k",
+      "placeName": "Sora & Umi",
+      "results": {
+        "facebookVideo": {
+          "id": "2296634394468202"
+        },
+        "instagramReel": {
+          "id": "18209124826371626"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "placeId": "ChIJbe2gNQCLpzERjsFqrNha-w8",
+      "placeName": "Hanoi Coffee and Breakfast",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130301617313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17866882290680482"
+        }
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "placeId": "ChIJmz2D_FCMpzERKPewnmdlhGQ",
+      "placeName": "LEMONGRASS RESTAURANT",
+      "results": {
+        "facebookVideo": {
+          "id": "28849708157971860"
+        },
+        "instagramReel": {
+          "id": "18135389944734991"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "placeId": "ChIJLzMM1GiNpzER_IUJOcCgd9U",
+      "placeName": "4 Seasons Café & Eatery- Egg Coffee & Banh Mi",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130300489313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17882286444628969"
+        }
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "placeId": "ChIJUxx6SgCNpzER1Mc9ZcK7CMY",
+      "placeName": "Hân Coffee",
+      "results": {
+        "facebookVideo": {
+          "id": "39549334058048033"
+        },
+        "instagramReel": {
+          "id": "17959455249016215"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "placeId": "ChIJZ4DYfi6NpzERwk2Xbd77-PU",
+      "placeName": "ANBA COFFEE",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130299565313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17877801660572916"
+        }
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "placeId": "ChIJ4b-mBReLpzERO-pqk4mlARM",
+      "placeName": "Tree House Phu Quoc Restaurant and Coffee",
+      "results": {
+        "facebookVideo": {
+          "id": "1477874377535352"
+        },
+        "instagramReel": {
+          "id": "18079868822728297"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "placeId": "ChIJW-dwUgCNpzEROm6tVugd7qw",
+      "placeName": "Ann Cafe & Brunch Phu Quoc ( Coffee Shop at Duong Dong Night Market )",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130298665313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18468066430184466"
+        }
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "placeId": "ChIJszMWeMWNpzERVX7Za7lyBuw",
+      "placeName": "La Place coffee and eatery Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1448426177404342"
+        },
+        "instagramReel": {
+          "id": "18082008680347771"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "placeId": "ChIJSQvg5PCNpzERilomshpyO-w",
+      "placeName": "Là-Men Coffee & Brunch Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130297501313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18134786680678324"
+        }
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "placeId": "ChIJW0SI6z2NpzERKixqsVMmIkI",
+      "placeName": "Bagels 'n Eggs",
+      "results": {
+        "facebookVideo": {
+          "id": "1135386679445546"
+        },
+        "instagramReel": {
+          "id": "18136410745737151"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "placeId": "ChIJBzbuPzwkCDER2xazM7W1GSc",
+      "placeName": "Thom Beach Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130296529313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18414649051085185"
+        }
+      }
+    },
     {
       "date": "2026-10-24",
       "placeId": "ChIJ0R95YniTpzER8HfwfZ2aMZI",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18467919835191104"
-        }
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "placeId": "ChIJ2fu7BmGNpzERyc_w8wahNio",
-      "placeName": "GRACE'S TOUR PHÚ QUỐC- SIM CARD- MONEY EXCHANGE- ENGLISH SPEAKER- DIVING",
-      "results": {
-        "facebookVideo": {
-          "id": "1575192724336322"
-        },
-        "instagramReel": {
-          "id": "18105785699206310"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "placeId": "ChIJwUzGbH-MpzERwZw0BxLOowU",
-      "placeName": "Catamaran Sarita Phu Quoc _ Du thuyền Sarita Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127486837313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17987136278882979"
-        }
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "placeId": "ChIJgw37s0-XpzERx2gWzxP5Qfg",
-      "placeName": "VEGAYACHTS - Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1904331384306804"
-        },
-        "instagramReel": {
-          "id": "18104573309345148"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "placeId": "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
-      "placeName": "Ham Ninh fishing town",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127485613313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18096369317140844"
-        }
-      }
-    },
-    {
-      "date": "2026-10-08",
-      "placeId": "ChIJfcl6s46NpzERvFpgYpkmGe0",
-      "placeName": "Chợ Dương Đông Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1399394055158880"
-        },
-        "instagramReel": {
-          "id": "18191714665400833"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-08",
-      "placeId": "ChIJixiLeACNpzER0bDJkqmR1Ac",
-      "placeName": "LOCA - Night Market",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127353115313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17872480341602259"
-        }
-      }
-    },
-    {
-      "date": "2026-10-08",
-      "placeId": "ChIJ2SBPKCONpzER36aEkpOGpyk",
-      "placeName": "Nice Tours Phu Quoc - Tailor Made Travel",
-      "results": {
-        "facebookVideo": {
-          "id": "2917538475311343"
-        },
-        "instagramReel": {
-          "id": "18627656422045899"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-08",
-      "placeId": "ChIJZWGJPeONpzERce--tYenego",
-      "placeName": "Алиса гид по Фукуоку",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127352053313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17985092589081486"
-        }
-      }
-    },
-    {
-      "date": "2026-10-08",
-      "placeId": "ChIJh878oruNpzER7b0NN-zrQpk",
-      "placeName": "Ecodive Vietnam - Trung Tâm Lặn Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1143229221994258"
-        },
-        "instagramReel": {
-          "id": "18123698597483744"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-08",
-      "placeId": "ChIJgfT9NoygKU8R8P0qLndf3k0",
-      "placeName": "Poseidon Diving School Phu Quoc Padi",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127351069313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18117793873983630"
-        }
-      }
-    },
-    {
-      "date": "2026-10-08",
-      "placeId": "ChIJO-aIpaKNpzERkCLeSERC9yE",
-      "placeName": "Vietnam Active - PADI 5 Star Diving Center Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "944609574972856"
-        },
-        "instagramReel": {
-          "id": "18055379168802956"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-08",
-      "placeId": "ChIJQz9pjguLpzERt20ZmhsgK9Y",
-      "placeName": "Flipper diving club",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127349965313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18185281333423655"
         }
       }
     }
