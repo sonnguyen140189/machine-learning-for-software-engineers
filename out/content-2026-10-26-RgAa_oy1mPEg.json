@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep scrolling past this one. Basket boat tours and kayaking at Dynasty Phu Quoc, rated 4.8 stars across 370 reviews and still flying under the radar. You spin a traditional Vietnamese basket boat, you paddle through calm coastal water, you leave with a story that no beach bar can give you. Ấp 2, Phú Quốc. Book it before it blows up. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch this guy spin a basket boat like he was born in one. Dynasty Phu Quoc's basket boat tour is the activity most visitors walk right past. 4.8 stars. 370 reviews. Now you know.",
+    "first_comment": "#PhuQuoc #PhuQuocActivities #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Locals don't post about this activity. Basket boats, kayaks, 4.8 stars at Dynasty Phu Quoc. Tag your travel buddy.",
+    "video_caption": "Spinning a basket boat in Phu Quoc hits different. 4.8 stars. Most tourists never find it.",
+    "hashtags": "#PhuQuocActivities #PhuQuocTips #BasketBoat #VietnamTravel #TravelTips #TravelReels #PhuQuoc #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The boat activity tourists keep missing in Phu Quoc. 4.8 stars says it all. #PhuQuoc #PhuQuocActivities #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post this.",
+    "scenes": [
+      "Hands gripping basket boat edge",
+      "Boat spinning on open water",
+      "Paddler laughing, loses control",
+      "Kayak gliding along calm coastline",
+      "Close-up: 4.8 star review screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

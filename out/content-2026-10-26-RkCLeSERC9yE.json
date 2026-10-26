@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,341 reviews. Every single one a 5-star. Vietnam Active on Đường Trần Hưng Đạo is not playing around.\n\nPADI 5 Star certified. That means instructors, equipment, and safety standards are all top tier. First-time diver or getting your next certification, this is your spot in Phu Quoc.\n\nThe waters around the island are clearer than most people expect. Coral, fish, visibility that actually delivers.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Gearing up at Vietnam Active, Phu Quoc's highest-rated dive center. 1,341 five-star reviews and the reef does not disappoint. Watch what's under the surface.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #ScubaDivingVietnam #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "1,341 reviews. Perfect 5.0. Vietnam Active is Phu Quoc's dive center benchmark.\n\nPADI 5 Star. Beginner or certified. Tag your dive buddy.",
+    "video_caption": "Suiting up at Vietnam Active. 5.0 stars, 1,341 divers can't be wrong. The reef earns it.",
+    "hashtags": "#PhuQuocDiving #PhuQuocTips #ScubaDivingVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuoc #DivingLife"
+  },
+  "tiktok": {
+    "caption": "5.0 stars. 1,341 reviews. Vietnam Active just built different. #PhuQuoc #PhuQuocDiving #ScubaDiving #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5.0★ from 1,341 divers.",
+    "scenes": [
+      "Diver gearing up on dock at sunrise",
+      "Instructor checks tank and mask fit",
+      "Underwater shot: coral reef comes into frame",
+      "School of fish parts around the camera",
+      "Diver gives OK signal, smiles through mask",
+      "Surface shot: boat, blue water, Phu Quoc coast"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

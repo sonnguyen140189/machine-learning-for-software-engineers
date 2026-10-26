@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Công Viên Bạch Đằng sits right beside the famous Dinh Cậu rock temple, where the sea opens up on both sides and the wind just hits different. No entrance fee. No crowds at sunrise. Just fishing boats, salt air, and the kind of quiet Phu Quoc doesn't advertise. Walk the waterfront, watch the offerings at the temple, then grab a coffee from a nearby cart. Zero agenda required. Save this for your Phu Quoc trip.",
+    "video_caption": "Camera pans the waterfront at Công Viên Bạch Đằng. Boats. Wind. Dinh Cậu temple on the rock behind you. No tour group in sight. This is the version of Phu Quoc most people walk straight past.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #DinhCau #VisitVietnam #TravelTips #PhuQuocTravel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Công Viên Bạch Đằng. Free. Empty at sunrise. Sea on both sides. Tag your travel buddy.",
+    "video_caption": "No entrance fee. No tour bus. Just Dinh Cậu, open water, and actual silence. Phu Quoc delivers.",
+    "hashtags": "#PhuQuoc #PhuQuocTravel #DinhCau #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocPark"
+  },
+  "tiktok": {
+    "caption": "Free park. Sea on both sides. Zero tourists at sunrise. Công Viên Bạch Đằng is doing something. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelReels"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: Công Viên Bạch Đằng waterfront at dawn",
+      "Pan to Dinh Cậu temple on the rock",
+      "Close-up: incense smoke, offering bowls",
+      "Cut to open sea, fishing boats passing",
+      "Slow zoom: empty park bench, wind in trees"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
