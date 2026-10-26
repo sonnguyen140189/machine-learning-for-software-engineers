@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJXWhyEQ-LpzER8jVR0IFy6YU",
+    "ChIJEYK7sD6LpzERgAa_oy1mPEg",
+    "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
+    "ChIJ31mASN6NpzERb74nK1CMQBs",
+    "ChIJfcl6s46NpzERvFpgYpkmGe0",
+    "ChIJixiLeACNpzER0bDJkqmR1Ac",
+    "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
+    "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
+    "ChIJhwi1TFqTpzERiZQmfO7PxUY",
+    "ChIJgfT9NoygKU8R8P0qLndf3k0",
+    "ChIJQz9pjguLpzERt20ZmhsgK9Y",
+    "ChIJO-aIpaKNpzERkCLeSERC9yE",
     "ChIJj0CLlcuTpzERosWOlPYPO2k",
     "ChIJbe2gNQCLpzERjsFqrNha-w8",
     "ChIJmz2D_FCMpzERKPewnmdlhGQ",
@@ -187,21 +199,189 @@
     "ChIJg1ksqtqNpzER3W4HrVMz7hE",
     "ChIJLS6KuYmLpzER6fHJ__iaMqw",
     "ChIJ652atFCNpzERuDwXbWc_sTQ",
-    "ChIJt4XvJwCNpzERDsy4DogoAGY",
-    "ChIJIxst3A-NpzERxKcvb8CHI2Y",
-    "ChIJT6Xejc2NpzERdkK-4arbWEI",
-    "ChIJV-4XtMuNpzERGZ71Xi3iZJA",
-    "ChIJGXZel_ONpzERtQgInjMPXU4",
-    "ChIJ63dtv_KNpzERT8Yrx7sqVqs",
-    "ChIJz-qKmxCLpzERSo4Oja1dZFo",
-    "ChIJ9avQtSSNpzERrhWZcMK8lbI",
-    "ChIJG0omSAeNpzERTWnB_Eaa4c8",
-    "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
-    "ChIJvXeYrq6NpzER68wVOXl4Edg",
-    "ChIJXWMScYiMpzERFW5SXq8DfXs",
-    "ChIJp9ZcOsKXpzERDLEPwP3e9JE"
+    "ChIJt4XvJwCNpzERDsy4DogoAGY"
   ],
   "history": [
+    {
+      "date": "2026-10-26",
+      "placeId": "ChIJXWhyEQ-LpzER8jVR0IFy6YU",
+      "placeName": "Anh Duyen Boat Rental",
+      "results": {
+        "facebookVideo": {
+          "id": "1652000549644905"
+        },
+        "instagramReel": {
+          "id": "18081603644711942"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "placeId": "ChIJEYK7sD6LpzERgAa_oy1mPEg",
+      "placeName": "Basket Boat Tour & Kayak Tour (Dynasty Phu Quoc)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130458721313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18198830803389572"
+        }
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "placeId": "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
+      "placeName": "Ham Ninh fishing town",
+      "results": {
+        "facebookVideo": {
+          "id": "891882740586726"
+        },
+        "instagramReel": {
+          "id": "18344022898287132"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "placeId": "ChIJ31mASN6NpzERb74nK1CMQBs",
+      "placeName": "Công Viên Bạch Đằng (Dinh Cậu )",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130457389313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17941953234380291"
+        }
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "placeId": "ChIJfcl6s46NpzERvFpgYpkmGe0",
+      "placeName": "Chợ Dương Đông Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "2160888224515848"
+        },
+        "instagramReel": {
+          "id": "18104398031640039"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "placeId": "ChIJixiLeACNpzER0bDJkqmR1Ac",
+      "placeName": "LOCA - Night Market",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130456483313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18028248395882390"
+        }
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "placeId": "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
+      "placeName": "FUSION Treats",
+      "results": {
+        "facebookVideo": {
+          "id": "2609739112882572"
+        },
+        "instagramReel": {
+          "id": "17956678179278286"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "placeId": "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
+      "placeName": "NINH KITCHEN - VIETNAMESE CUISINE",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130455481313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18130530367789099"
+        }
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "placeId": "ChIJhwi1TFqTpzERiZQmfO7PxUY",
+      "placeName": "Rooty Trip Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1462531112611892"
+        },
+        "instagramReel": {
+          "id": "17952040743049006"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "placeId": "ChIJgfT9NoygKU8R8P0qLndf3k0",
+      "placeName": "Poseidon Diving School Phu Quoc Padi",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130454455313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17954335914289331"
+        }
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "placeId": "ChIJQz9pjguLpzERt20ZmhsgK9Y",
+      "placeName": "Flipper diving club",
+      "results": {
+        "facebookVideo": {
+          "id": "1101448562768750"
+        },
+        "instagramReel": {
+          "id": "18046871642820530"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "placeId": "ChIJO-aIpaKNpzERkCLeSERC9yE",
+      "placeName": "Vietnam Active - PADI 5 Star Diving Center Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130453261313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18373898527214067"
+        }
+      }
+    },
     {
       "date": "2026-10-25",
       "placeId": "ChIJj0CLlcuTpzERosWOlPYPO2k",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18204669904375563"
-        }
-      }
-    },
-    {
-      "date": "2026-10-10",
-      "placeId": "ChIJIxst3A-NpzERxKcvb8CHI2Y",
-      "placeName": "Tween's Kitchen - Main Street Branch",
-      "results": {
-        "facebookVideo": {
-          "id": "957442400246051"
-        },
-        "instagramReel": {
-          "id": "17954396316259426"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-10",
-      "placeId": "ChIJT6Xejc2NpzERdkK-4arbWEI",
-      "placeName": "Nhà Xưa 68",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127658203313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18177571825448126"
-        }
-      }
-    },
-    {
-      "date": "2026-10-10",
-      "placeId": "ChIJV-4XtMuNpzERGZ71Xi3iZJA",
-      "placeName": "Bánh Mì Sài Gòn - Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1621401599390189"
-        },
-        "instagramReel": {
-          "id": "18107624957204631"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-10",
-      "placeId": "ChIJGXZel_ONpzERtQgInjMPXU4",
-      "placeName": "Bún quậy THIỆN MỸ",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127656985313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18111354743336108"
-        }
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "placeId": "ChIJ63dtv_KNpzERT8Yrx7sqVqs",
-      "placeName": "Nage Eatery Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "2390334795103059"
-        },
-        "instagramReel": {
-          "id": "18133444276670242"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "placeId": "ChIJz-qKmxCLpzERSo4Oja1dZFo",
-      "placeName": "Mai Jo Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127491595313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Media ID is not available\",\"type\":\"OAuthException\",\"code\":9007,\"error_subcode\":2207027,\"is_transient\":false,\"error_user_title\":\"Cannot Publish\",\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"fbtrace_id\":\"AtPKrgtvjzuhUoG4uQGThua\"}}"
-        }
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "placeId": "ChIJ9avQtSSNpzERrhWZcMK8lbI",
-      "placeName": "Bò Tơ Quán Đảo Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "2559420311227340"
-        },
-        "instagramReel": {
-          "id": "18093322376440602"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "placeId": "ChIJG0omSAeNpzERTWnB_Eaa4c8",
-      "placeName": "Bếp An Restaurant",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127490551313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18137455168628568"
-        }
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "placeId": "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
-      "placeName": "The Spice House Restaurant at Cassia Cottage Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1420727586282368"
-        },
-        "instagramReel": {
-          "id": "18076063631729485"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "placeId": "ChIJvXeYrq6NpzER68wVOXl4Edg",
-      "placeName": "MEDITERRAN Greek & Italian Restaurant (pizza, pasta & souvlaki)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127489015313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18080366663375224"
-        }
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "placeId": "ChIJXWMScYiMpzERFW5SXq8DfXs",
-      "placeName": "Saigonese Eatery",
-      "results": {
-        "facebookVideo": {
-          "id": "1799755321166148"
-        },
-        "instagramReel": {
-          "id": "18568649173074942"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-09",
-      "placeId": "ChIJp9ZcOsKXpzERDLEPwP3e9JE",
-      "placeName": "Phú Quốc Go",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127487887313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18467919835191104"
         }
       }
     }
