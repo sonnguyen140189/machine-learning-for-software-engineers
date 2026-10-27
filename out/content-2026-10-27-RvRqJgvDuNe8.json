@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this bar on Đường Trần Hưng Đạo. Their loss. Origin 1982 is a speakeasy hidden inside The last old house (1982), and the 4.9★ rating from 687 reviews tells you everything. Craft cocktails, serious atmosphere, $15-30 a person. This is where you drink on a Phu Quoc night. Save this for your Phu Quoc trip.",
+    "video_caption": "Push open the door of The last old house (1982) and the whole vibe shifts. Dim lights, cold cocktail, 4.9 stars. Origin 1982 is the bar your resort map won't show you. 149 Đường Trần Hưng Đạo.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this bar. 4.9★, 687 reviews, speakeasy inside The last old house (1982). Tag your travel buddy.",
+    "video_caption": "Step inside The last old house (1982). Origin 1982 hits different at night. Phu Quoc's best-kept cocktail secret.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocTips #PhuQuocBars #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The bar tourists walk straight past in Phu Quoc. 4.9★ speakeasy inside The last old house (1982). #PhuQuoc #PhuQuocNightlife #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this bar.",
+    "scenes": [
+      "Exterior shot: old wooden house facade at night",
+      "Hand pushes open a heavy door",
+      "Interior reveal: low lighting, vintage decor",
+      "Bartender shakes a cocktail close-up",
+      "Glass slides across the bar, condensation dripping",
+      "Rating card: 4.9★ 687 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc that doesn't feel touristy. Ocean Night Bar sits right on the water at 01 Võ Thị Sáu, cold drink in hand, sky turning red. 4.8 stars across 445 reviews. That's not luck, that's consistency. Bar, grill, ocean breeze. Some evenings just reset everything. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the sky go from blue to red over the water at Ocean Night Bar. Grilled food, cold drinks, 4.8 stars. This is the Phu Quoc evening you actually came for.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocFood #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. Ocean Night Bar, 4.8★, 445 reviews. Bar, grill, water views. Tag your travel buddy.",
+    "video_caption": "Sky turns red. Drink in hand. Ocean Night Bar hits different at sunset. 4.8★ and 445 people agree.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocFood #PhuQuocBars #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The Phu Quoc evening that resets everything. Ocean Night Bar, 4.8★. #PhuQuoc #PhuQuocNightlife #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that fixes burnout.",
+    "scenes": [
+      "Wide shot: ocean at golden hour",
+      "Rack focus to cold drink on table",
+      "Grill flames, food plating close-up",
+      "Crowd laughing, relaxed atmosphere",
+      "Sky turns deep red over water"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
