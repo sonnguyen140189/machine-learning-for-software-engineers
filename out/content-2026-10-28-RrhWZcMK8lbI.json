@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars. 2,594 reviews. At a beef restaurant on Phu Quoc island.\n\nBò Tơ Quán Đảo Phú Quốc on Đường Trần Hưng Đạo keeps showing up in every local recommendation list, and those numbers tell you why. Young beef, Vietnamese-style, done properly. $15-30 a person gets you a full meal.\n\nThis is where you eat when you want the real thing, not the tourist version.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the beef hit the grill at Bò Tơ Quán Đảo Phú Quốc. 2,594 people rated this place 4.7 stars. You'll understand the moment your order arrives. Đường Trần Hưng Đạo, Phu Quoc. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 2,594 reviews. One beef restaurant on Phu Quoc.\n\nBò Tơ Quán Đảo Phú Quốc, Đường Trần Hưng Đạo. $15-30. Go hungry.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "2,594 people rated this Phu Quoc beef spot 4.7 stars. Bò Tơ Quán Đảo Phú Quốc. The grill does the talking.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.7 stars. 2,594 reviews. This beef restaurant in Phu Quoc earns every one. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.7★ from 2,594 reviews.",
+    "scenes": [
+      "Exterior shot: busy street front, Đường Trần Hưng Đạo",
+      "Close-up: raw young beef prepped tableside",
+      "Flames rise as beef hits the grill",
+      "Pull back: packed tables, local crowd eating",
+      "Final plate lands, steam rising"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "741 reviews. 4.7 stars. And somehow The Spice House Restaurant at Cassia Cottage Phu Quoc still doesn't have a line out the door.\n\nAsian fusion done right, priced at $15-30 a head. The kind of meal that makes you rebook your table the next night.\n\nOn Đường Trần Hưng Đạo, away from the main tourist drag. Worth finding.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch this plate land on the table at The Spice House Restaurant at Cassia Cottage Phu Quoc. 4.7 stars across 741 reviews. $15-30 a person. The numbers explain themselves.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocDining #VietnamEats"
+  },
+  "instagram": {
+    "caption": "741 reviews. 4.7 stars. The Spice House Restaurant at Cassia Cottage Phu Quoc earns both.\n\n$15-30 a head. Asian fusion. Go tonight.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.7 stars. 741 reviews. The Spice House Restaurant at Cassia Cottage Phu Quoc. $15-30. Dinner sorted.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocDining #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #AsianFusion"
+  },
+  "tiktok": {
+    "caption": "741 reviews. 4.7 stars. The Spice House at Cassia Cottage Phu Quoc hits different. $15-30 a head. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "741 reviews. 4.7 stars.",
+    "scenes": [
+      "Exterior shot, Cassia Cottage sign",
+      "Waiter carries full plates to table",
+      "Close-up: fork breaks into Asian fusion dish",
+      "Slow pan across full table spread",
+      "Bill arrives, camera lingers on total"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

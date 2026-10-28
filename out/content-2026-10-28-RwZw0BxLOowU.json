@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you booked a catamaran day trip and now you're watching Phu Quoc shrink behind you. Catamaran Sarita Phú Quốc runs sailing trips out of 3 Lý Thường Kiệt. 4.5 stars from real guests. Blue water, open deck, nothing between you and the South China Sea. Save this for your Phu Quoc trip.",
+    "video_caption": "Sails up, island behind you. This is what a day on Catamaran Sarita Phú Quốc actually looks like. 4.5 stars, open deck, Phu Quoc's coastline all to yourself.",
+    "first_comment": "#PhuQuoc #PhuQuocBoatTrip #PhuQuocIsland #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "POV: Phu Quoc is shrinking behind you. Catamaran Sarita Phú Quốc. 4.5★. Open deck. Book it. Tag your travel buddy.",
+    "video_caption": "Deck underfoot, South China Sea ahead. Catamaran Sarita Phú Quốc does this to people.",
+    "hashtags": "#PhuQuocBoatTrip #PhuQuocIsland #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SailingVietnam"
+  },
+  "tiktok": {
+    "caption": "POV: you said yes to the catamaran. Catamaran Sarita Phú Quốc. 4.5★ and worth every minute. #PhuQuoc #PhuQuocBoatTrip #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you booked the catamaran.",
+    "scenes": [
+      "Aerial: catamaran leaving Phu Quoc dock",
+      "Deck shot: open water, no land in sight",
+      "Guests leaning over rail, turquoise below",
+      "Sails catching wind, speed picking up",
+      "Island coastline framed from the bow"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

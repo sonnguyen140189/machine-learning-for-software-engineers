@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes a bad travel day.\n\nMộc Cuisine Phú Quốc on Đường Trần Hưng Đạo hits differently. Small, calm, 4.8 stars from 255 people who clearly came back. Food lands somewhere between Vietnamese comfort and bistro care. $15-30 a person for the kind of meal that slows you down.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the plates arrive at Mộc Cuisine Phú Quốc. 4.8 stars. 255 reviews. $15-30 a head. This is the dinner that resets the whole trip.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes a bad travel day. Mộc Cuisine Phú Quốc. 4.8★, $15-30 a head, zero noise.\n\nSave this.",
+    "video_caption": "4.8 stars. 255 diners. Mộc Cuisine Phú Quốc just reset my entire trip.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The dinner that fixed my trip. Mộc Cuisine Phú Quốc. 4.8★, ~$20/head. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This fixed my whole trip.",
+    "scenes": [
+      "Push through the front door, soft warm light",
+      "Pan across a calm, half-full dining room",
+      "Close-up: bowl lands on the table, steam rises",
+      "Fork into the main, slow pull-back shot",
+      "Receipt in frame: under $30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

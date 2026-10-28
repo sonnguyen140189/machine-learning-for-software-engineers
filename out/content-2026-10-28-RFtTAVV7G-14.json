@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 2,686 reviews. At a beachfront Asian fusion spot most tourists never find.\n\nCamia Restaurant sits right on the sand at Ông Lang, one of Phu Quoc's quietest stretches of coast. The kind of place regulars come back to every single trip.\n\nFusion done right, ocean right there, zero resort markup feeling.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Waves, fusion plates, and a 4.8-star rating locals quietly protect. Camia Restaurant at Ông Lang is the beachfront dinner you didn't book, but should have. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamFood #AsianFusion"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 2,686 reviews. Beachfront. Ông Lang.\n\nCamia Restaurant is the answer to every 'where should we eat' debate. Tag your travel buddy.",
+    "video_caption": "Sand underfoot, fusion food in front of you. Camia Restaurant hits 4.8 stars for a reason. Save it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #AsianFusionFood #OngLang #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 2,686 reviews, beachfront Ông Lang. Camia Restaurant lives up to it. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8 stars. 2,686 reviews.",
+    "scenes": [
+      "Aerial: waves meet Ông Lang sand",
+      "Walk-up shot of Camia exterior",
+      "Fusion plates landing on table",
+      "Close-up: food detail, fork lift",
+      "Pull back: ocean view from seat",
+      "End card: rating + address on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

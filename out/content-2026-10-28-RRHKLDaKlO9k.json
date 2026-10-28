@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this one. Aigue-Marine French Bistro by Hidden Gem sits right on Đường Trần Hưng Đạo and somehow stays off every group chat. 4.7 stars across 328 reviews. French bistro food in Phu Quoc, done properly, for $15-30 a head. Steak, wine, real sauces. Not beach-bar food. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the plate land. French bistro on Đường Trần Hưng Đạo, Phu Quoc. 4.7 stars, under $30, and the tourist trail somehow skips it completely. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #FrenchFood #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this. Aigue-Marine French Bistro by Hidden Gem. 4.7★, 328 reviews, $15-30. Save this.",
+    "video_caption": "French food this good in Phu Quoc. 4.7 stars. Most tourists never find it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FrenchBistro"
+  },
+  "tiktok": {
+    "caption": "The French bistro Phu Quoc tourists keep missing. 4.7★, $15-30. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior shot: bistro facade on Đường Trần Hưng Đạo",
+      "Close-up: menu, prices visible $15-30",
+      "Plate arriving: French bistro dish, steam rising",
+      "Wine glass poured at the table",
+      "Reviewer text: 4.7 stars, 328 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

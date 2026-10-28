@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Their loss. The Waterfront Restaurant sits at 4.8 stars across 212 reviews and barely anyone in the resort crowds knows it exists. Waterfront setting, $15-30 a head, food that earns every one of those stars. Bookmark this before your trip fills up with the obvious spots. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what happens when you actually sit down at The Waterfront Restaurant. Waterfront views, 4.8 stars, and a bill that won't wreck your travel budget. This is the Phu Quoc dinner spot the resort maps leave off.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past The Waterfront Restaurant. 4.8 stars. 212 reviews. $15-30 a head. Tag your travel buddy.",
+    "video_caption": "4.8 stars on Đường Trần Hưng Đạo and the tourist crowds have no idea. Don't sleep on this one.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats"
+  },
+  "tiktok": {
+    "caption": "Tourists keep walking past this 4.8-star spot in Phu Quoc. Big mistake. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists walk past this daily.",
+    "scenes": [
+      "Pan along Đường Trần Hưng Đạo street front",
+      "Push into The Waterfront Restaurant entrance",
+      "Show waterfront view from the table",
+      "Close-up of food arriving, steam rising",
+      "Cut to Google: 4.8 stars, 212 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
