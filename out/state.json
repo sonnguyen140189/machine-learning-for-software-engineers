@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJyVg7uFmMpzER8oO_9EVvcbg",
+    "ChIJGeOzddMfCDERWqFBHDihXo0",
+    "ChIJxfXY0YeMpzERVIRnrvcuBKE",
+    "ChIJQ4JcfECSpzER9dUT9AlYDJk",
+    "ChIJ_8wuyciNpzERgLyqow3Lg2s",
+    "ChIJD6wtS1eMpzER4kblLDZp36s",
+    "ChIJVVVVVXQgCDER_KXFZ6RZQ8Q",
+    "ChIJHalrczGMpzER22lEwxlew40",
+    "ChIJG0ygU8-NpzERXtcRcF0Av7k",
+    "ChIJYbElPPaLpzERTX725HPPGuM",
+    "ChIJW_ltjrgfCDERJzBq-pRFwR0",
+    "ChIJVX1ODrIfCDERlnrDWWdlWYQ",
     "ChIJZQnCwX2TpzERgwZZvzz_CcA",
     "ChIJwUzGbH-MpzERwZw0BxLOowU",
     "ChIJ2SBPKCONpzER36aEkpOGpyk",
@@ -187,21 +199,189 @@
     "ChIJI5DMg7mNpzER_AUE58P5avM",
     "ChIJqx54JIyNpzERfmx8wXohQ4U",
     "ChIJ_QHQ2eWNpzER0VcwkboktMU",
-    "ChIJK6PXziqyU2gREZvk_pErVag",
-    "ChIJUYfZHeSNpzER5-l8QW0lTcM",
-    "ChIJbWwp_zj1pzERg-_J_57c0UA",
-    "ChIJLa_VvluMpzERVdeTFM021V4",
-    "ChIJSVVo1BORpzERFyzoL0kEyZE",
-    "ChIJLUpd9kSNpzER53HI0cebROw",
-    "ChIJcQI2WEyNpzERiZfbiTwGiHU",
-    "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
-    "ChIJiyzaO4CNpzERTH6QKehpvBw",
-    "ChIJg25lxluMpzERrx21QiH3gaI",
-    "ChIJjR83W0yNpzERUdxmKf-6ozw",
-    "ChIJZ9BuoEyTpzER5N-L5_uJ9lE",
-    "ChIJ0cqxY2ySpzERo9J49pxmTgY"
+    "ChIJK6PXziqyU2gREZvk_pErVag"
   ],
   "history": [
+    {
+      "date": "2026-10-29",
+      "placeId": "ChIJyVg7uFmMpzER8oO_9EVvcbg",
+      "placeName": "La Veranda Resort Phu Quoc - MGallery Collection",
+      "results": {
+        "facebookVideo": {
+          "id": "1225282583478356"
+        },
+        "instagramReel": {
+          "id": "18121206746321176"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "placeId": "ChIJGeOzddMfCDERWqFBHDihXo0",
+      "placeName": "Wyndham Grand Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130938601313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18140885284716659"
+        }
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "placeId": "ChIJxfXY0YeMpzERVIRnrvcuBKE",
+      "placeName": "Seashells Phu Quoc Hotel & Spa",
+      "results": {
+        "facebookVideo": {
+          "id": "1117701201144626"
+        },
+        "instagramReel": {
+          "id": "18488820127129398"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "placeId": "ChIJQ4JcfECSpzER9dUT9AlYDJk",
+      "placeName": "InterContinental Phu Quoc Long Beach Resort by IHG",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130937443313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18475441063188189"
+        }
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "placeId": "ChIJ_8wuyciNpzERgLyqow3Lg2s",
+      "placeName": "MEO Kitchen",
+      "results": {
+        "facebookVideo": {
+          "id": "1653619546264876"
+        },
+        "instagramReel": {
+          "id": "18212494696365605"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "placeId": "ChIJD6wtS1eMpzER4kblLDZp36s",
+      "placeName": "Long Beach Pearl",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130936291313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18140376709538055"
+        }
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "placeId": "ChIJVVVVVXQgCDER_KXFZ6RZQ8Q",
+      "placeName": "Phu Quoc Bee Farm",
+      "results": {
+        "facebookVideo": {
+          "id": "2892138087853268"
+        },
+        "instagramReel": {
+          "id": "17970933572966253"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "placeId": "ChIJHalrczGMpzER22lEwxlew40",
+      "placeName": "Quoc An Pearl",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130935427313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18014359082763432"
+        }
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "placeId": "ChIJG0ygU8-NpzERXtcRcF0Av7k",
+      "placeName": "Ngoc Hien Pearl Farm",
+      "results": {
+        "facebookVideo": {
+          "id": "1161883772859099"
+        },
+        "instagramReel": {
+          "id": "18125422411920135"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "placeId": "ChIJYbElPPaLpzERTX725HPPGuM",
+      "placeName": "Ốc Nhi (옥니 사이공)-해산물 BBQ & 샤브샤브 및 각종 안주",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130934347313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18099222158673530"
+        }
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "placeId": "ChIJW_ltjrgfCDERJzBq-pRFwR0",
+      "placeName": "Hải sản Cường Kua - Grand World Phú Quốc, Grand World Restaurant, 大世界好吃餐厅， 맛있는 해산물 레스토랑",
+      "results": {
+        "facebookVideo": {
+          "id": "2220282762247102"
+        },
+        "instagramReel": {
+          "id": "18031033892919880"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "placeId": "ChIJVX1ODrIfCDERlnrDWWdlWYQ",
+      "placeName": "Mai Hương Restaurant - Grand World Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122130933501313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18096250523403800"
+        }
+      }
+    },
     {
       "date": "2026-10-28",
       "placeId": "ChIJZQnCwX2TpzERgwZZvzz_CcA",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18126445412310373"
-        }
-      }
-    },
-    {
-      "date": "2026-10-13",
-      "placeId": "ChIJUYfZHeSNpzER5-l8QW0lTcM",
-      "placeName": "Liby Travel - Phu Quoc Island Tours",
-      "results": {
-        "facebookVideo": {
-          "id": "1674937830879486"
-        },
-        "instagramReel": {
-          "id": "17917902294449207"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-13",
-      "placeId": "ChIJbWwp_zj1pzERg-_J_57c0UA",
-      "placeName": "Green Bay Phu Quoc Resort & Spa",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128121697313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18117729932069730"
-        }
-      }
-    },
-    {
-      "date": "2026-10-13",
-      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
-      "placeName": "Jerry's Jungle Tours",
-      "results": {
-        "facebookVideo": {
-          "id": "956150713747718"
-        },
-        "instagramReel": {
-          "id": "18117397663794594"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-13",
-      "placeId": "ChIJSVVo1BORpzERFyzoL0kEyZE",
-      "placeName": "PHƯƠNG NHI TOUR – Island & Fishing Tour",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128120647313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17909469807489943"
-        }
-      }
-    },
-    {
-      "date": "2026-10-12",
-      "placeId": "ChIJLUpd9kSNpzER53HI0cebROw",
-      "placeName": "Little WIN SPA - MASSAGE (전신 마사지, 풋 마사지)",
-      "results": {
-        "facebookVideo": {
-          "id": "1832319871104690"
-        },
-        "instagramReel": {
-          "id": "17929163202421865"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-12",
-      "placeId": "ChIJcQI2WEyNpzERiZfbiTwGiHU",
-      "placeName": "Hello Spa - Massage & Nail",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127982425313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17910080307556499"
-        }
-      }
-    },
-    {
-      "date": "2026-10-12",
-      "placeId": "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
-      "placeName": "Phu Quoc Day Spa - 푸꾸옥 스파 마사지 - 富国岛的水疗按摩",
-      "results": {
-        "facebookVideo": {
-          "id": "2295674291291988"
-        },
-        "instagramReel": {
-          "id": "17902199856374468"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-12",
-      "placeId": "ChIJiyzaO4CNpzERTH6QKehpvBw",
-      "placeName": "FIONA SPA",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127981249313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17997930044824903"
-        }
-      }
-    },
-    {
-      "date": "2026-10-12",
-      "placeId": "ChIJg25lxluMpzERrx21QiH3gaI",
-      "placeName": "Blue Monkey Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1478430580876007"
-        },
-        "instagramReel": {
-          "id": "18125895353301670"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-12",
-      "placeId": "ChIJjR83W0yNpzERUdxmKf-6ozw",
-      "placeName": "NONÊ Kitchen & Bar Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127980067313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18115533719035360"
-        }
-      }
-    },
-    {
-      "date": "2026-10-12",
-      "placeId": "ChIJZ9BuoEyTpzER5N-L5_uJ9lE",
-      "placeName": "SONAGA BEACH RESORT & VILLA",
-      "results": {
-        "facebookVideo": {
-          "id": "1119669953878224"
-        },
-        "instagramReel": {
-          "id": "18598346341067059"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-12",
-      "placeId": "ChIJ0cqxY2ySpzERo9J49pxmTgY",
-      "placeName": "Pullman Phu Quoc Beach Resort",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122127978759313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18491003710111529"
         }
       }
     }
