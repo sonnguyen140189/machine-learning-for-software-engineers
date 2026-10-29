@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc that doesn't feel touristy. Phu Quoc Bee Farm is the slow-down moment most visitors miss. Bees buzzing, fresh honey straight from the comb, zero crowds. 4.8 stars across 804 reviews tells you locals and travelers both rate this. Add it between beaches. You'll be glad you did. Save this for your Phu Quoc trip.",
+    "video_caption": "Fresh honey straight from the comb at Phu Quoc Bee Farm. 4.8 stars. 804 reviews. Zero resort energy. This is the half-day reset your itinerary needs.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips #PhuQuocIsland"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. Phu Quoc Bee Farm. 4.8 stars, 804 reviews. Save this.",
+    "video_caption": "Honey straight from the comb. No crowds. Just bees. Phu Quoc Bee Farm hits different.",
+    "hashtags": "#PhuQuocTips #PhuQuocIsland #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "This is the reset your Phu Quoc trip needs. Phu Quoc Bee Farm. 4.8 stars. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that doesn't feel touristy.",
+    "scenes": [
+      "Drone pull back over farm entrance",
+      "Close-up: bees working the hive",
+      "Hand lifts honeycomb, honey drips slow",
+      "Visitor tastes honey, genuine reaction",
+      "Wide shot: green farm, no crowds"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

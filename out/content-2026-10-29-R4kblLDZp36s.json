@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this shop on Đường Trần Hưng Đạo. Big mistake.\n\nLong Beach Pearl carries Phu Quoc pearl jewelry, and this island grows some of the best pearls in Southeast Asia. Most visitors don't realize that until they're back home paying double at a boutique.\n\n4.3 stars, 349 reviews. Worth the stop.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Pearls grown right here in Phu Quoc waters. Long Beach Pearl on Đường Trần Hưng Đạo is where you actually buy them without the resort markup. 4.3 stars, 349 reviews. Watch before you shop.",
+    "first_comment": "#PhuQuoc #PhuQuocShopping #VisitVietnam #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists walk past Long Beach Pearl every day. Don't be them. Phu Quoc pearls, straight from the source, 4.3★ 349 reviews. Save this.",
+    "video_caption": "Phu Quoc grows the pearls. Long Beach Pearl on Đường Trần Hưng Đạo sells them. 349 reviews don't lie.",
+    "hashtags": "#PhuQuocShopping #PhuQuocTips #PhuQuocPearls #VietnamTravel #TravelTips #TravelReels #ShopVietnam"
+  },
+  "tiktok": {
+    "caption": "The pearl shop locals actually rate on Đường Trần Hưng Đạo. 4.3★ 349 reviews. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this shop.",
+    "scenes": [
+      "Walk along Đường Trần Hưng Đạo storefront",
+      "Push open the door, step inside",
+      "Close-up: pearl strands under display glass",
+      "Hands lifting a pearl necklace to camera",
+      "4.3 stars, 349 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "3,785 reviews on a pearl farm. Phu Quoc's pearl industry is the real deal, and Ngoc Hien Pearl Farm on Đường Trần Hưng Đạo is where most visitors end up. Watch the full cultivation process, see how pearls are graded, and shop direct from the source. No middleman markup. 4.2 stars across nearly 4,000 reviews tells you it delivers. Save this for your Phu Quoc trip.",
+    "video_caption": "Cracking open an oyster live on camera. This is Ngoc Hien Pearl Farm and 3,785 people rated it 4.2 stars for a reason. Pearl cultivation explained in minutes, straight from the water.",
+    "first_comment": "#PhuQuoc #PhuQuocPearls #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "3,785 reviews. 4.2 stars. Ngoc Hien Pearl Farm earns it. See the full process, shop direct. Save this.",
+    "video_caption": "Live oyster opening. Real pearls. 3,785 reviews back this up. Ngoc Hien Pearl Farm, Phu Quoc.",
+    "hashtags": "#PhuQuocPearls #PhuQuocTips #PhuQuocAttractions #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "3,785 people rated this pearl farm 4.2 stars. Watch them crack an oyster live. #PhuQuoc #PhuQuocPearls #TravelTips"
+  },
+  "video_script": {
+    "hook": "3,785 reviews. Pearl farm.",
+    "scenes": [
+      "Aerial shot: pearl rafts on ocean",
+      "Hands pull oyster from water",
+      "Knife cracks shell open on camera",
+      "Pearl extracted, held to light",
+      "Display cases of graded pearls",
+      "Visitor tries on pearl necklace"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

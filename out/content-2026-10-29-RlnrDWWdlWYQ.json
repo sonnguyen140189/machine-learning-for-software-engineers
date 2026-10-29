@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 3,918 reviews. At a restaurant inside Grand World Phú Quốc.\n\nMai Hương Restaurant earns that rating every single service. The crowd does not lie at this volume.\n\nIf you are staying near Grand World or just passing through, this one belongs on the list.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "3,918 people rated this place 4.8 stars. Watch what lands on the table at Mai Hương Restaurant inside Grand World Phú Quốc. The numbers make sense the second you sit down.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #GrandWorldPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 3,918 reviews. Mai Hương Restaurant, Grand World Phú Quốc.\n\nThat rating at that volume means something. Save this.",
+    "video_caption": "3,918 reviews at 4.8 stars. Mai Hương Restaurant inside Grand World Phú Quốc. Watch the food arrive and tell me it's not obvious why.",
+    "hashtags": "#PhuQuocFood #GrandWorldPhuQuoc #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodTok"
+  },
+  "tiktok": {
+    "caption": "3,918 reviews. 4.8 stars. Mai Hương Restaurant at Grand World Phú Quốc hits different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8★, 3,918 reviews.",
+    "scenes": [
+      "Aerial shot: Grand World Phú Quốc at night",
+      "Push into Mai Hương Restaurant entrance",
+      "Dishes arriving on a full table",
+      "Close-up: steam rising off the food",
+      "Cut to packed dining room, happy faces",
+      "End card: rating + address on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

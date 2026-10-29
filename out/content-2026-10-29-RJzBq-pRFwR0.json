@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 4,044 reviews. At a seafood restaurant inside Grand World Phú Quốc.\n\nThat number doesn't lie. Hải sản Cường Kua pulls crowds for a reason. Fresh catch, big portions, right in the middle of one of Phu Quoc's most electric dining strips.\n\nIf you're staying near Grand World, this is the one locals and tourists both keep coming back to.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Plates landing fast at Hải sản Cường Kua. Seafood straight from the tank, served inside Grand World Phú Quốc. 4,044 people rated this 4.8 stars. Watch why.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #GrandWorldPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4,044 reviews. 4.8 stars. Hải sản Cường Kua at Grand World Phú Quốc.\n\nFresh seafood, big energy, zero disappointment.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Tank-fresh seafood. 4.8 stars. Hải sản Cường Kua inside Grand World Phú Quốc hits different at night.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #GrandWorldPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4,044 reviews at Hải sản Cường Kua - Grand World Phú Quốc. The 4.8 stars make sense the second the food lands. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4,044 reviews. 4.8 stars.",
+    "scenes": [
+      "Zoom in on live seafood tanks",
+      "Hands picking fresh catch at counter",
+      "Chef grilling over open flame",
+      "Steaming plates hit the table fast",
+      "Wide shot of Grand World Phú Quốc at night"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

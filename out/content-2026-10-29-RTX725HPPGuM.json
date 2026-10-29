@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 797 reviews. At a seafood BBQ spot most tourists walk straight past.\n\nỐc Nhi (옥니 사이공) on 363 Nguyễn Trung Trực serves grilled seafood, hotpot, and bar bites at $15-30 per person. Family-run, packed with locals, and rated higher than half the resort restaurants on the island.\n\nIf your Phu Quoc trip doesn't include a BBQ night like this, rebook it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Shells cracking. Charcoal smoking. A table full of grilled seafood for under $30 at Ốc Nhi (옥니 사이공). 797 people rated this 4.8 stars and they were not wrong. Find it at 363 Nguyễn Trung Trực.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #SeafoodBBQ #PhuQuocRestaurants #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 797 reviews. Locals already know Ốc Nhi (옥니 사이공).\n\nGrilled seafood, hotpot, $15-30/person. Save this.",
+    "video_caption": "Charcoal grill. 797 reviews. 4.8 stars. Ốc Nhi (옥니 사이공) is the BBQ spot Phu Quoc locals keep returning to.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #SeafoodBBQ #VietnamTravel #PhuQuocTips #TravelReels #TravelTips #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "797 reviews, 4.8 stars, and locals still fill every table. Ốc Nhi (옥니 사이공) hits different. #PhuQuoc #PhuQuocFood #SeafoodBBQ #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★. 797 reviews. Locals only.",
+    "scenes": [
+      "Overhead shot: full table of grilled shellfish",
+      "Close-up: shells split open on charcoal grill",
+      "Pan across hotpot bubbling at the table",
+      "Cut to packed dining room, local families eating",
+      "Zoom in: Google rating 4.8, 797 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

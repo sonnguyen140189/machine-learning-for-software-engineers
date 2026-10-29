@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "8,641 reviews. 4.7 stars. And most tourists walk straight past MEO Kitchen.\n\nThis local Vietnamese restaurant on Đường Trần Hưng Đạo is where Phu Quoc residents actually eat. The menu is straightforward, the portions are real, and the bill lands between $15-30 per person.\n\nNo flashy signage. No English-only menu boards. Just consistent food that keeps 8,000+ people coming back.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the locals fill this place before the tourists even find it. MEO Kitchen on Đường Trần Hưng Đạo. 4.7 stars, 8,641 reviews, $15-30 a head. Your next dinner sorted.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "8,641 reviews. 4.7 stars. Tourists walk straight past MEO Kitchen.\n\n$15-30 a head. Real local Vietnamese food on Đường Trần Hưng Đạo. Save this.",
+    "video_caption": "Locals pack MEO Kitchen every night. 8,641 reviews don't lie. $15-30 a head on Đường Trần Hưng Đạo.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnameseFood #VietnamTravel #TravelTips #TravelReels"
+  },
+  "tiktok": {
+    "caption": "8,641 reviews and tourists still walk past MEO Kitchen 😤 $15-30 a head. Phu Quoc's most slept-on dinner spot. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "8,641 reviews. Tourists ignore this.",
+    "scenes": [
+      "Exterior shot: MEO Kitchen signage on Đường Trần Hưng Đạo",
+      "Pan across packed tables of local diners",
+      "Close-up: steaming Vietnamese dishes landing on table",
+      "Hands reaching in, chopsticks moving fast",
+      "Bill arrives, show $15-30 range"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
