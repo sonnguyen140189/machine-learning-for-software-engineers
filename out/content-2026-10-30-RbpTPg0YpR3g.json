@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "545 reviews. 4.5 stars. And it's sitting right on Đường Bạch Đằng.\n\nMiss Tiên Spa 1 keeps showing up in conversations for a reason. Body massage, foot massage, consistent results. No resort markup. Just a spot locals and repeat visitors keep coming back to.\n\nIf your feet are done after a full day of beaches and markets, this is the move.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Feet wrecked after a beach day? Miss Tiên Spa 1 on Đường Bạch Đằng. 4.5 stars across 545 reviews. Walk in, switch off. That's it.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "545 reviews. 4.5 stars. Miss Tiên Spa 1 earns it.\n\nBody and foot massage on Đường Bạch Đằng. No resort prices. Save this.",
+    "video_caption": "Beach legs. Market feet. Miss Tiên Spa 1 fixes both. 4.5★ across 545 reviews. Worth every minute.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #VisitVietnam #MassagePhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.5 stars. 545 reviews. Miss Tiên Spa 1 on Đường Bạch Đằng. Book it. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "545 reviews. Still underrated.",
+    "scenes": [
+      "Exterior shot: Đường Bạch Đằng sign visible",
+      "Receptionist greets, hands over menu",
+      "Therapist begins foot soak ritual",
+      "Close-up: hands working pressure points",
+      "Guest leans back, eyes closed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

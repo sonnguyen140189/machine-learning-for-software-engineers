@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc burns you out fast. Sun, heat, full days on the road. Queen spa on Đường Trần Hưng Đạo is where you reset. 4.7 stars across 587 reviews. That score holds because the work is consistent. Book a slot mid-trip, not at the end. Your body will thank you on day three. Save this for your Phu Quoc trip.",
+    "video_caption": "Hands working out every knot from a full week on the island. Queen spa, Đường Trần Hưng Đạo. 4.7 stars, 587 reviews. This is what recovery looks like in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc wears you down. Queen spa brings you back. 4.7 stars, 587 reviews. Book mid-trip, not last day.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Recovery mode: ON. Queen spa, Đường Trần Hưng Đạo. 4.7★, 587 reviews. Worth every minute.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+  },
+  "tiktok": {
+    "caption": "Mid-trip reset at Queen spa in Phu Quoc. 4.7★ across 587 reviews. Your body needs this. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc broke me. This fixed it.",
+    "scenes": [
+      "Street-level sign: Queen spa, Đường Trần Hưng Đạo",
+      "Soft-lit interior, calm empty room",
+      "Therapist hands prepping warm oil",
+      "Close-up: shoulders visibly dropping",
+      "Review overlay: 4.7★, 587 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

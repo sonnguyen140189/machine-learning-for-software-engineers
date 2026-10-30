@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 2,849 reviews. On the main strip in Phu Quoc.\n\nZENITH SPA & NAIL on Đường Trần Hưng Đạo earns that rating for a reason. Consistent, clean, and the kind of massage that actually fixes tight shoulders after a day of beach-hopping.\n\nBook it before your last full day. You'll wish you booked it on day one.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch someone walk out of ZENITH SPA & NAIL looking ten years younger. 4.8 stars, 2,849 reviews, right on Đường Trần Hưng Đạo. Your Phu Quoc itinerary needs this slot.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 2,849 reviews. ZENITH SPA & NAIL delivers.\n\nBook it. Save this for your Phu Quoc trip.",
+    "video_caption": "Tight shoulders after the beach. ZENITH SPA & NAIL on Đường Trần Hưng Đạo. 4.8 stars. Go.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocVietnam #VietnamTravel #TravelTips #TravelReels #SpaTreatment"
+  },
+  "tiktok": {
+    "caption": "2,849 people rated this spa 4.8 stars in Phu Quoc. ZENITH SPA & NAIL. Book it. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★ · 2,849 reviews · Phu Quoc",
+    "scenes": [
+      "Exterior shot: ZENITH SPA & NAIL sign on Đường Trần Hưng Đạo",
+      "Receptionist hands over booking card",
+      "Therapist works on back massage, close-up",
+      "Clean treatment room, soft lighting",
+      "Guest exits looking relaxed, smiling"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

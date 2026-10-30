@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 561 reviews. On one of Phu Quoc's busiest streets.\n\nSpa Massage Salon Quỳnh Anh on 98 Đường Trần Hưng Đạo is pulling numbers that most resorts can't touch. Full body or foot massage, your call. The kind of place that earns repeat customers, not just one-time tourists.\n\nBook before your beach day. Or after. Either works.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Hands working. Shoulders dropping. That 4.9-star rating at Spa Massage Salon Quỳnh Anh earning its score in real time. 561 people didn't get it wrong. Đường Trần Hưng Đạo, Phu Quoc. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 561 reviews. Spa Massage Salon Quỳnh Anh is not playing around.\n\nFull body. Foot massage. Đường Trần Hưng Đạo.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "561 reviews at 4.9 stars. Spa Massage Salon Quỳnh Anh delivers. Book it.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 561 reviews. Spa Massage Salon Quỳnh Anh on Đường Trần Hưng Đạo hits different. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9★ / 561 reviews.",
+    "scenes": [
+      "Exterior shot: 98 Đường Trần Hưng Đạo sign",
+      "Hands pouring warm massage oil",
+      "Full body massage in progress",
+      "Foot massage close-up, slow pan",
+      "Google review screen: 4.9, 561 ratings"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

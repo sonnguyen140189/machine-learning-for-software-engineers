@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 141 reviews. Right at chợ đêm Phú Quốc.\n\nHello Spa - Massage & Nail on 05 Lê Lợi is pulling numbers most spas in Phu Quoc can only dream about. After a full day on the beach or island-hopping, this is where you land. Massage, nails, total reset.\n\nLocation puts you steps from the night market. Treat yourself, then eat. Perfect order.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walk into Hello Spa - Massage & Nail, 05 Lê Lợi, right next to chợ đêm Phú Quốc. 4.9 stars from 141 real reviews. Watch what a proper post-beach recovery looks like. This is the move before hitting the night market.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 141 reviews. Steps from chợ đêm Phú Quốc.\n\nHello Spa - Massage & Nail on 05 Lê Lợi. Beach day done. Recovery unlocked.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "141 people rated this 4.9 stars. Hello Spa - Massage & Nail, right at chợ đêm Phú Quốc. Watch the full reset.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.9 stars, 141 reviews, next to chợ đêm Phú Quốc. This spa is not playing. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9★ from 141 reviews.",
+    "scenes": [
+      "Exterior shot: 05 Lê Lợi sign, night market buzzing behind",
+      "Push through the door, staff greet at front desk",
+      "Close-up: nail station, polished finish, clean tools",
+      "Hands pressing into back, slow exhale from client",
+      "Google review screen: 4.9 stars, scroll through comments",
+      "Guest walks out relaxed, night market lights ahead"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
