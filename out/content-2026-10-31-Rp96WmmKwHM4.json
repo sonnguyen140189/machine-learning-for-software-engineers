@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 101 reviews. One bakery in An Thới that keeps showing up on every local's list.\n\nRyrao Bakery sits at 89 Positano An Thới, Phú Quốc. Far enough from the main tourist strip that most visitors never find it. Close enough that you have zero excuse once you know.\n\nFresh bakes. Solid coffee. A rating that doesn't lie.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch what comes out of the oven at Ryrao Bakery. An Thới's best-rated bakery and most tourists walk straight past it. 4.8 stars. 101 people already know. Now you do too.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 101 reviews. Ryrao Bakery in An Thới is not a fluke.\n\nFresh bakes, great coffee, off the tourist trail. Tag your travel buddy.",
+    "video_caption": "Pastries straight from the oven. Ryrao Bakery hits 4.8 stars for a reason. Go find it.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #AnThoi #VietnamTravel #TravelTips #TravelReels #FoodieTravel"
+  },
+  "tiktok": {
+    "caption": "4.8 stars in Phu Quoc and nobody's talking about it. Ryrao Bakery, An Thới. Go. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8 STARS. 101 REVIEWS.",
+    "scenes": [
+      "Exterior shot: Ryrao Bakery sign, An Thới street",
+      "Tray of fresh pastries pulled from oven",
+      "Close-up: golden crust, steam rising",
+      "Coffee poured beside a pastry on counter",
+      "Rating on screen: 4.8★ 101 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

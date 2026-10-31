@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.7 stars at a French bakery inside Sun Premier Village Kem Beach. 74 reviews and people keep coming back.\n\nPeony French Bakery and Icecream does flaky pastries, fresh bread, and scooped ice cream right on the beach strip. The kind of stop that turns a walk into a 45-minute sit-down.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the pastry case at Peony French Bakery fill up in the morning. Croissants, cream puffs, and ice cream at Sun Premier Village Kem Beach. 4.7 stars for a reason.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. French pastries. On a beach in Phu Quoc.\n\nPeony French Bakery at Sun Premier Village Kem Beach. Tag your travel buddy.",
+    "video_caption": "Croissants and ice cream steps from the sand. Peony French Bakery, Sun Premier Village Kem Beach. 4.7 stars.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocBeaches #KemBeach #VietnamTravel #TravelTips #TravelReels #PhuQuocIcecream"
+  },
+  "tiktok": {
+    "caption": "French bakery on a Phu Quoc beach. 4.7 stars and a pastry case worth the detour. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.7 stars. Beach bakery.",
+    "scenes": [
+      "Pan across full pastry display case",
+      "Close-up: croissant flakes on plate",
+      "Ice cream scooped into cone, slow motion",
+      "Wide shot: beachfront village backdrop",
+      "Customer biting into cream puff"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

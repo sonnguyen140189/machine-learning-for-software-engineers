@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stumble into Phố đi bộ - chợ đêm Phú Quốc after dark and suddenly the whole night opens up. Street food stalls, moving crowds, lights everywhere. This is what a Phu Quoc night actually looks like, not the resort pool. Go hungry. Go late. Walk slow. Save this for your Phu Quoc trip.",
+    "video_caption": "Lights on, crowds in, food ready. Phố đi bộ - chợ đêm Phú Quốc hits different after 8pm. Your first Phu Quoc night should start here.",
+    "first_comment": "#PhuQuoc #PhuQuocNightMarket #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked into Phố đi bộ - chợ đêm Phú Quốc with no plan. Left with a full stomach and zero regrets. Tag your travel buddy.",
+    "video_caption": "Night market energy in Phu Quoc hits hard. Phố đi bộ - chợ đêm Phú Quốc, after 8pm. Go.",
+    "hashtags": "#PhuQuocNightMarket #PhuQuocFood #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Took a wrong turn after dark. Found Phố đi bộ - chợ đêm Phú Quốc. Don't be me, plan this one. #PhuQuoc #NightMarket #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Walked in with no plan.",
+    "scenes": [
+      "Entrance lit up, crowds flowing in",
+      "Close-up: sizzling street food stall",
+      "Hands grabbing skewers, steam rising",
+      "Wide shot: packed pedestrian street at night",
+      "Slow pan across market lights and signs"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "19,543 reviews. 4.5 stars. And most tourists still walk past the cable car line thinking it's just a ride.\n\nSunworld Hòn Thơm is a full day out. The world's longest non-stop cable car crosses open ocean to an island water park. Ancient Rome theming, slides, wave pools, shopping, the works.\n\nBook the combo ticket. Arrive early. Beat the midday heat.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Stepping into a gondola over the South China Sea. Below you: open water. Ahead: an island water park with 19,543 people rating it 4.5 stars. Sunworld Hòn Thơm delivers.",
+    "first_comment": "#PhuQuoc #SunworldHonThom #PhuQuocCableCar #VisitVietnam #TravelTips #PhuQuocThingsToDo #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "19,543 reviews. 4.5 stars. Cable car over open ocean to a full island water park. Sunworld Hòn Thơm.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Gondola. Open ocean below. Island water park ahead. Sunworld Hòn Thơm hits different.",
+    "hashtags": "#PhuQuoc #PhuQuocCableCar #SunworldHonThom #PhuQuocThingsToDo #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "World's longest non-stop cable car. Over the ocean. To an island water park. Phu Quoc delivers. #PhuQuoc #SunworldHonThom #PhuQuocCableCar #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "19,543 reviews. 4.5 stars.",
+    "scenes": [
+      "Aerial shot of cable car crossing open ocean",
+      "Gondola door closes, water visible below",
+      "Island water park comes into view ahead",
+      "Wide shot of wave pool packed with visitors",
+      "Roman-themed archways and shopping area",
+      "Sunset view back across cable car route"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

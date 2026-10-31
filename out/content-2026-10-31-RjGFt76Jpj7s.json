@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists stick to the main strip. Locals end up at Cyan Bar & Sunset Dining. Tran Hung Dao, Cua Lap side. $15-30 a head, 4.7 stars, 98 reviews deep. Sunset hits different from this angle. Drinks, food, the whole thing. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the sun drop behind the water at Cyan Bar & Sunset Dining. Real crowd, real food, real sunset. $15-30 a person and worth every dong. Cua Lap side of the island.",
+    "first_comment": "#PhuQuoc #PhuQuocSunset #PhuQuocRestaurant #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Cyan Bar & Sunset Dining. 4.7 stars, Cua Lap side, $15-30 a head. Tag your travel buddy.",
+    "video_caption": "Sun going down. Drinks in hand. Cyan Bar & Sunset Dining hits different from the tourist strip.",
+    "hashtags": "#PhuQuocSunset #PhuQuocRestaurant #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SunsetBar"
+  },
+  "tiktok": {
+    "caption": "Tourists miss this sunset bar every time. Cyan Bar & Sunset Dining, Cua Lap. $15-30. #PhuQuoc #PhuQuocTips #VietnamTravel #SunsetBar"
+  },
+  "video_script": {
+    "hook": "Locals keep this one quiet.",
+    "scenes": [
+      "Drone pull-back: bar on waterfront at golden hour",
+      "Close-up: cold drink condensating on table",
+      "Wide shot: sun touching the horizon line",
+      "Cut to: food plates arriving, steam rising",
+      "Crowd shot: mix of locals and few tourists"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

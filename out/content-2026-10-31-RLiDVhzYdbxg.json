@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered into Grand World at night and suddenly forgot every overpriced resort restaurant you booked.\n\nChợ đêm Grand World has fresh seafood, cold drinks, and that chaotic night market energy that actually makes dinner feel like an event.\n\n$15-30 a head. 4.3 stars from 111 reviews. Worth every dong.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Grilled shells hitting the table, lanterns everywhere, strangers laughing two seats over. This is what dinner at Chợ đêm Grand World looks like on a Tuesday night.",
+    "first_comment": "#PhuQuoc #PhuQuocNightMarket #PhuQuocFood #GrandWorldPhuQuoc #VisitVietnam #TravelTips #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Walked into Chợ đêm Grand World with no plan. Left with a full stomach and zero regrets. $15-30, 4.3 stars, all the vibes.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Seafood. Night market chaos. Phu Quoc after dark. Chợ đêm Grand World just changed dinner.",
+    "hashtags": "#PhuQuocFood #PhuQuocNightMarket #GrandWorldPhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #SeafoodLovers"
+  },
+  "tiktok": {
+    "caption": "No plan. Just walked in. Chợ đêm Grand World delivered hard. #PhuQuoc #PhuQuocFood #NightMarket #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "You need to see this at night.",
+    "scenes": [
+      "Wide shot: lanterns lighting the market strip",
+      "Close-up: fresh seafood displayed on ice",
+      "Hands pointing at menu, vendor nods",
+      "Grilled prawns arriving at the table",
+      "Crowd noise, clinking glasses, smiling faces",
+      "Price tag on screen: $15-30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

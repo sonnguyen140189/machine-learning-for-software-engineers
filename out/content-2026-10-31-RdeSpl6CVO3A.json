@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists are drinking at the resort bar right now. Meanwhile, Passion Pub & Sports Bar in Cửa Lấp is pulling 4.8 stars from 354 reviews and hardly anyone talks about it. Cold drinks, sports on screen, real crowd. $15-30 a person. Skip the overpriced hotel cocktails. Save this for your Phu Quoc trip.",
+    "video_caption": "Cold beer, live sport on the big screen, 4.8 stars. Passion Pub & Sports Bar in Cửa Lấp is what the resort strip doesn't want you to find. This is your sign.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBars #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "The resort bar crowd has no idea this exists. Passion Pub & Sports Bar. 4.8★, 354 reviews, Cửa Lấp. Tag your travel buddy.",
+    "video_caption": "Big screens. Cold drinks. Zero tourist markup. Passion Pub & Sports Bar is the bar locals actually go to.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBars #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocLife"
+  },
+  "tiktok": {
+    "caption": "The bar the resort strip doesn't want you to find. 4.8★ in Cửa Lấp. #PhuQuoc #PhuQuocNightlife #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this bar.",
+    "scenes": [
+      "Exterior shot: Passion Pub & Sports Bar sign at night",
+      "Pan across big screens showing live sport",
+      "Close-up: cold beers landing on the bar top",
+      "Crowd shot: mix of locals and in-the-know tourists",
+      "Google Maps pull: 4.8★ 354 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
