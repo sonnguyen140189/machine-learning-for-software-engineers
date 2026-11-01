@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJS797XwCNpzERpdvvoNGRBK4",
+    "ChIJg86dEt2NpzERhuRCYB6zQoo",
+    "ChIJiamiNwCNpzERGZfl84R9I3k",
+    "ChIJccUCppGNpzERY4DpGOmVA7o",
+    "ChIJSTGCnBuLpzERx2KCLdVFKIk",
+    "ChIJ4YZT316MpzERCRfSDHQgbtk",
+    "ChIJkcMAuZCNpzERRQmhoqfUVYk",
+    "ChIJbWwp_zj1pzERg-_J_57c0UA",
+    "ChIJ0cqxY2ySpzERo9J49pxmTgY",
+    "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
+    "ChIJn6kim_SXpzERd6rlRMQmpZc",
+    "ChIJR8uGGm2TpzERCyP0dgpgLX0",
     "ChIJ1zgaajWTpzERAwdFNM7oyxM",
     "ChIJ22idLmGNpzERjGFt76Jpj7s",
     "ChIJTd2mCvyNpzERdeSpl6CVO3A",
@@ -187,21 +199,189 @@
     "ChIJj3KLVmuNpzERRcxS6PIioiI",
     "ChIJdzmotOqNpzER3SFTNOAxFC4",
     "ChIJMSfrfEqNpzER9_6_sLzv_nk",
-    "ChIJOawITM2NpzERxPm19sYAUpo",
-    "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
-    "ChIJyQi3u2GMpzERVXgllKB2V_A",
-    "ChIJLUwZPQCNpzERZrGj0TvOFHI",
-    "ChIJuc0GvNH1pzER9rnXP_FJS-Q",
-    "ChIJ44y8R_uNpzERI0lt0GkPrNM",
-    "ChIJAWovfRONpzERI7y_gpk_6D0",
-    "ChIJa_lVMmeNpzERHonO5t2IKRg",
-    "ChIJq-YgJcuNpzER37aiRi5HfVo",
-    "ChIJBz09gZgfCDERzAyxFBp-iDM",
-    "ChIJQUSIY6yNpzERAxVW7b7Opt0",
-    "ChIJ07kLWwCTpzERMUTHN5TrzFY",
-    "ChIJXQcO2BeLpzERuYoEmJFjuuM"
+    "ChIJOawITM2NpzERxPm19sYAUpo"
   ],
   "history": [
+    {
+      "date": "2026-11-01",
+      "placeId": "ChIJS797XwCNpzERpdvvoNGRBK4",
+      "placeName": "Phở Vương Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1633462091576270"
+        },
+        "instagramReel": {
+          "id": "18203976295334242"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "placeId": "ChIJg86dEt2NpzERhuRCYB6zQoo",
+      "placeName": "Phở Feu",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131434351313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18140476090740377"
+        }
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "placeId": "ChIJiamiNwCNpzERGZfl84R9I3k",
+      "placeName": "Cua 350 – Crab Noodle Soup Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "2330132597788815"
+        },
+        "instagramReel": {
+          "id": "18115934495597440"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "placeId": "ChIJccUCppGNpzERY4DpGOmVA7o",
+      "placeName": "Phở Hòa",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131433085313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18100188146086452"
+        }
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "placeId": "ChIJSTGCnBuLpzERx2KCLdVFKIk",
+      "placeName": "Mövenpick Resort Waverly Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "2195238874677444"
+        },
+        "instagramReel": {
+          "id": "18120171757782511"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "placeId": "ChIJ4YZT316MpzERCRfSDHQgbtk",
+      "placeName": "Cassia Cottage Resort & Spa Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131431765313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18167599711468944"
+        }
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "placeId": "ChIJkcMAuZCNpzERRQmhoqfUVYk",
+      "placeName": "Salinda Resort Phu Quoc Island",
+      "results": {
+        "facebookVideo": {
+          "id": "1149327344437358"
+        },
+        "instagramReel": {
+          "id": "17916507951497714"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "placeId": "ChIJbWwp_zj1pzERg-_J_57c0UA",
+      "placeName": "Green Bay Phu Quoc Resort & Spa",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131430655313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18138236290672060"
+        }
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "placeId": "ChIJ0cqxY2ySpzERo9J49pxmTgY",
+      "placeName": "Pullman Phu Quoc Beach Resort",
+      "results": {
+        "facebookVideo": {
+          "id": "1107858822236777"
+        },
+        "instagramReel": {
+          "id": "18112523966246361"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "placeId": "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
+      "placeName": "Meliá Vinpearl Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131429749313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18002225996814318"
+        }
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "placeId": "ChIJn6kim_SXpzERd6rlRMQmpZc",
+      "placeName": "Premier Residences Phu Quoc Emerald Bay Managed by Accor",
+      "results": {
+        "facebookVideo": {
+          "id": "1400079652198361"
+        },
+        "instagramReel": {
+          "id": "17912824047472648"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "placeId": "ChIJR8uGGm2TpzERCyP0dgpgLX0",
+      "placeName": "Sailing Club Signature Resort Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131428789313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18105644858200913"
+        }
+      }
+    },
     {
       "date": "2026-10-31",
       "placeId": "ChIJ1zgaajWTpzERAwdFNM7oyxM",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18641284822034343"
-        }
-      }
-    },
-    {
-      "date": "2026-10-16",
-      "placeId": "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
-      "placeName": "Vinpearl Wonderworld Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "29416286824629915"
-        },
-        "instagramReel": {
-          "id": "18127414204887024"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-16",
-      "placeId": "ChIJyQi3u2GMpzERVXgllKB2V_A",
-      "placeName": "RED RIVER TOURS",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128506729313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17983374026898653"
-        }
-      }
-    },
-    {
-      "date": "2026-10-16",
-      "placeId": "ChIJLUwZPQCNpzERZrGj0TvOFHI",
-      "placeName": "Layla Mermaid Tours - Premium 3 Island Snorkeling & Beach BBQ Escape",
-      "results": {
-        "facebookVideo": {
-          "id": "1252626037063464"
-        },
-        "instagramReel": {
-          "id": "17879860272631278"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-16",
-      "placeId": "ChIJuc0GvNH1pzER9rnXP_FJS-Q",
-      "placeName": "Viet Sail Phu Quoc - Sailing School - Rental & Tours",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128505637313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17905461096666925"
-        }
-      }
-    },
-    {
-      "date": "2026-10-15",
-      "placeId": "ChIJ44y8R_uNpzERI0lt0GkPrNM",
-      "placeName": "Tiệm Bánh Kem Phú Quốc - PP Bakery",
-      "results": {
-        "facebookVideo": {
-          "id": "948039581298518"
-        },
-        "instagramReel": {
-          "id": "18132084772762526"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-15",
-      "placeId": "ChIJAWovfRONpzERI7y_gpk_6D0",
-      "placeName": "Devis Bakery Phu Quoc 데비스베이커리",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128401447313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17902337982671109"
-        }
-      }
-    },
-    {
-      "date": "2026-10-15",
-      "placeId": "ChIJa_lVMmeNpzERHonO5t2IKRg",
-      "placeName": "Sugar Fusion Bakery",
-      "results": {
-        "facebookVideo": {
-          "id": "1144901054732796"
-        },
-        "instagramReel": {
-          "id": "18571672849074972"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-15",
-      "placeId": "ChIJq-YgJcuNpzER37aiRi5HfVo",
-      "placeName": "Phu Quoc Beach",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128400571313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18150547519557555"
-        }
-      }
-    },
-    {
-      "date": "2026-10-15",
-      "placeId": "ChIJBz09gZgfCDERzAyxFBp-iDM",
-      "placeName": "Bai Dai beach",
-      "results": {
-        "facebookVideo": {
-          "id": "1619399663245347"
-        },
-        "instagramReel": {
-          "id": "17987490866878475"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-15",
-      "placeId": "ChIJQUSIY6yNpzERAxVW7b7Opt0",
-      "placeName": "Bãi Trường",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128399635313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17863429221694891"
-        }
-      }
-    },
-    {
-      "date": "2026-10-15",
-      "placeId": "ChIJ07kLWwCTpzERMUTHN5TrzFY",
-      "placeName": "Sonasea Public Beach Bai Truong",
-      "results": {
-        "facebookVideo": {
-          "id": "28230009813368824"
-        },
-        "instagramReel": {
-          "id": "18120631520284961"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-15",
-      "placeId": "ChIJXQcO2BeLpzERuYoEmJFjuuM",
-      "placeName": "Ong Lang beach",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128398687313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17924173086430012"
         }
       }
     }
