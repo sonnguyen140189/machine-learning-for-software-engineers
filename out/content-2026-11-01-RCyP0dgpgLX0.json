@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 4,985 reviews. Sailing Club Signature Resort Phú Quốc is not an accident.\n\nNearly 5,000 people came back and said: yes. That number earns attention.\n\nBeachfront position, resort-level service, and a rating that almost no hotel in Phu Quoc touches. If you're planning a stay and want zero regrets, this is the shortlist.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the camera pan across Sailing Club Signature Resort Phú Quốc and count the reasons 4,985 reviewers gave it 4.9 stars. Beachfront. Polished. Packed with detail. This is what top-rated actually looks like in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4,985 reviews. 4.9 stars. Sailing Club Signature Resort Phú Quốc earns both.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.9 stars from nearly 5,000 guests. Sailing Club Signature Resort Phú Quốc on camera. Draw your own conclusion.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 4,985 reviews. Sailing Club Signature Resort Phú Quốc is the answer. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4,985 reviews. 4.9 stars.",
+    "scenes": [
+      "Drone pulls back over beachfront resort",
+      "Slow pan across pool to ocean horizon",
+      "Close-up: room detail, crisp linens",
+      "Staff greeting guest at entrance",
+      "Rating graphic: 4.9 fades in on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
