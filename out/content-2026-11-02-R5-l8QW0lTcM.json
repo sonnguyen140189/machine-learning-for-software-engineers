@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you almost booked the big group boat. Then you found Liby Travel.\n\n4.9 stars across 233 reviews. That's not luck, that's consistency.\n\nSnorkeling tours out of Phú Quốc that people actually come back to rave about. Small operator energy, serious results.\n\nBook through Đường Trần Hưng Đạo and skip the tourist-trap pier shuffle.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Fins on. Mask down. Reef below. This is what 233 five-star reviews look like from underwater. Liby Travel snorkeling tours, Phú Quốc.",
+    "first_comment": "#PhuQuoc #PhuQuocSnorkeling #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Almost booked the wrong tour. Then I found Liby Travel. 4.9★, 233 reviews. Phu Quoc snorkeling done right.\n\nTag your travel buddy.",
+    "video_caption": "Underwater Phu Quoc hits different. Liby Travel is why 233 people came back to leave five stars.",
+    "hashtags": "#PhuQuocSnorkeling #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: almost missed the best snorkel tour in Phu Quoc. 4.9★ 233 reviews. Do not skip Liby Travel. #PhuQuoc #PhuQuocSnorkeling #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: right tour, wrong almost.",
+    "scenes": [
+      "Boat leaving dock at sunrise",
+      "Gear handed out on deck",
+      "First drop into clear water",
+      "Coral reef swarming with fish",
+      "GoPro selfie, big grin, mask up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

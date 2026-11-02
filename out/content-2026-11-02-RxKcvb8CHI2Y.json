@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "757 reviews. 4.7 stars. And somehow Tween's Kitchen - Main Street Branch still has empty tables at dinner.\n\nThis is Vietnamese food done right on Đường Trần Hưng Đạo. $15-30 per person for dishes locals and tourists both keep coming back for. No gimmicks. Just solid cooking that earns its rating every single night.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Fork down, first bite. See why Tween's Kitchen on Đường Trần Hưng Đạo has 757 people rating it 4.7 stars. $15-30 and worth every dong.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "757 reviews. 4.7 stars. Tween's Kitchen still surprises people.\n\nViet food on Đường Trần Hưng Đạo, $15-30/person. Save this.",
+    "video_caption": "4.7 stars, 757 reviews. Watch why Tween's Kitchen earns it plate after plate.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "757 reviews don't lie. Tween's Kitchen on Đường Trần Hưng Đạo hits different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "757 reviews. 4.7 stars.",
+    "scenes": [
+      "Push through restaurant entrance, busy tables",
+      "Menu flat-lay, price visible $15-30",
+      "Steam rising off fresh Vietnamese dish",
+      "Close-up: first forkful lifted slowly",
+      "Wide shot: packed dining room, locals eating"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

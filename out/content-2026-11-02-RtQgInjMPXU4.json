@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you finally found the good Bún Quậy.\n\nBún quậy THIỆN MỸ on Đường Trần Hưng Đạo is the real deal. 4.7 stars across 423 reviews. Under $10 a head. The locals eating here at noon tell you everything you need to know.\n\nBún quậy is Phu Quoc's own noodle dish. You won't find it like this back home. Order it, stir it, eat it fast.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Chopsticks hit the bowl, broth rises, noodles spin. This is bún quậy done right at THIỆN MỸ. 4.7 stars, under $10, packed with locals at lunch. 103 Đường Trần Hưng Đạo. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BunQuay #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: walked past twice. Finally went in. Big mistake not going sooner.\n\nBún quậy THIỆN MỸ. 4.7★. 423 reviews. Under $10.\n\nTag your travel buddy.",
+    "video_caption": "Stir the noodles. Sip the broth. Under $10 at THIỆN MỸ. This is Phu Quoc's own dish.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #BunQuay #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #FoodieTravel"
+  },
+  "tiktok": {
+    "caption": "Walked past 3 times. Don't be me. Bún quậy THIỆN MỸ hits different. Under $10. #PhuQuoc #PhuQuocFood #BunQuay #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Walked past 3 times. Don't be me.",
+    "scenes": [
+      "Street sign: 103 Đường Trần Hưng Đạo",
+      "Packed lunch crowd, locals only",
+      "Bowl lands on table, steam rising",
+      "Chopsticks stir noodles in broth",
+      "Close-up: broth, herbs, sliced pork",
+      "Text overlay: 4.7★ 423 reviews under $10"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

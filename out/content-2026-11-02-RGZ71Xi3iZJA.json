@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $5 for bánh mì in Phu Quoc? At Bánh Mì Sài Gòn - Phú Quốc, that's exactly what you get. 4.8 stars across 1,074 reviews. Crusty bread, loaded fillings, zero tourist markup. Sits right on Đường Trần Hưng Đạo so it's easy to find. This is where you eat breakfast before the beach, not the resort buffet. Save this for your Phu Quoc trip.",
+    "video_caption": "1,074 people rated this bánh mì spot 4.8 stars. Watch the line move fast at Bánh Mì Sài Gòn - Phú Quốc. Crispy roll, full filling, Phu Quoc prices. Your hotel breakfast can't compete.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BanhMi #VisitVietnam #TravelTips #PhuQuocTips #VietnamFood"
+  },
+  "instagram": {
+    "caption": "Under $5 bánh mì. 4.8 stars. 1,074 reviews. Bánh Mì Sài Gòn - Phú Quốc is your breakfast sorted. Save this.",
+    "video_caption": "Skip the resort breakfast. Bánh Mì Sài Gòn - Phú Quốc hits different at $$ prices with 4.8 stars behind it.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #BanhMi #VietnamTravel #TravelTips #TravelReels #PhuQuoc #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 1,074 reviews, and it costs less than your coffee. Bánh Mì Sài Gòn - Phú Quốc is the move. #PhuQuoc #PhuQuocFood #BanhMi #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $5. 4.8 stars. Phu Quoc.",
+    "scenes": [
+      "Close-up: golden bánh mì on counter",
+      "Hands stuffing fillings into roll",
+      "Google Maps review screen: 4.8, 1,074 reviews",
+      "First bite, flaky crust shatters",
+      "Street sign: Đường Trần Hưng Đạo"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

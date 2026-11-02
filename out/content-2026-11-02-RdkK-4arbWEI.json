@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $30 for two at Nhà Xưa 68. Real Vietnamese food, not the tourist-menu version. 699 reviews back that up. This spot on Lý Thường Kiệt keeps prices honest and portions generous. Order the local fish dishes. Sit outside if you can. This is the Phu Quoc meal you actually came for. Save this for your Phu Quoc trip.",
+    "video_caption": "Plates landing on the table at Nhà Xưa 68. Local Vietnamese recipes, $15-30 a head, 699 people rated it 4.4 stars. Watch what gets ordered here and copy it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "$15-30 a head at Nhà Xưa 68. 699 reviews. 4.4 stars. Real Phu Quoc food, no tourist markup. Tag your travel buddy.",
+    "video_caption": "Food hits the table at Nhà Xưa 68. Under $30. 699 locals and travelers rated this 4.4 stars. Don't walk past it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Under $30 for a full Vietnamese meal at Nhà Xưa 68. 699 reviews don't lie. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $30. Real Vietnamese food.",
+    "scenes": [
+      "Exterior shot: Nhà Xưa 68 signage",
+      "Server carries full tray to table",
+      "Close-up: local fish dish plated",
+      "Wide shot: busy dining room, locals eating",
+      "Pull back: price tag graphic on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
