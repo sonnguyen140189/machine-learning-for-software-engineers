@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJUYfZHeSNpzER5-l8QW0lTcM",
+    "ChIJqfezlgAfCDERaYwzQEp_Rkc",
+    "ChIJLUwZPQCNpzERZrGj0TvOFHI",
+    "ChIJZda5YRSLpzERa4Qv5WcHsuo",
+    "ChIJg1ksqtqNpzER3W4HrVMz7hE",
+    "ChIJ652atFCNpzERuDwXbWc_sTQ",
+    "ChIJt4XvJwCNpzERDsy4DogoAGY",
+    "ChIJV-4XtMuNpzERGZ71Xi3iZJA",
+    "ChIJz8pb8YmNpzERI6yCJJsKwFE",
+    "ChIJIxst3A-NpzERxKcvb8CHI2Y",
+    "ChIJT6Xejc2NpzERdkK-4arbWEI",
+    "ChIJGXZel_ONpzERtQgInjMPXU4",
     "ChIJS797XwCNpzERpdvvoNGRBK4",
     "ChIJg86dEt2NpzERhuRCYB6zQoo",
     "ChIJiamiNwCNpzERGZfl84R9I3k",
@@ -187,21 +199,189 @@
     "ChIJb94_UYaMpzERLROoXapH5lI",
     "ChIJR0Eq5IeMpzER7hzZw3l9NSw",
     "ChIJfVqVdoeMpzERX-ZG1WyAvMA",
-    "ChIJl1Ayn9aNpzERF5-boB6Ec3c",
-    "ChIJcUfuO36MpzER-YtnHO2vDD0",
-    "ChIJi0veCZmLpzER_TFGrkrELl8",
-    "ChIJgQRYpz-MpzER_PdUT7NFsIM",
-    "ChIJYR0kkkuNpzERyLTt-5KL60Y",
-    "ChIJi-z2ewCNpzER4P73e0T61VE",
-    "ChIJYREw3iyNpzER4MEeLlm9Ju4",
-    "ChIJlehMyBUfCDERDSqZ_aeChQA",
-    "ChIJ5eqLUm2NpzERURd3wi62JoM",
-    "ChIJj3KLVmuNpzERRcxS6PIioiI",
-    "ChIJdzmotOqNpzER3SFTNOAxFC4",
-    "ChIJMSfrfEqNpzER9_6_sLzv_nk",
-    "ChIJOawITM2NpzERxPm19sYAUpo"
+    "ChIJl1Ayn9aNpzERF5-boB6Ec3c"
   ],
   "history": [
+    {
+      "date": "2026-11-02",
+      "placeId": "ChIJUYfZHeSNpzER5-l8QW0lTcM",
+      "placeName": "Liby Travel - Phu Quoc Snorkeling Tours",
+      "results": {
+        "facebookVideo": {
+          "id": "28984318521234850"
+        },
+        "instagramReel": {
+          "id": "18133676809792337"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "placeId": "ChIJqfezlgAfCDERaYwzQEp_Rkc",
+      "placeName": "ALOHA88 - Kayak & Snorkeling club",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131579275313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18342937228286270"
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "placeId": "ChIJLUwZPQCNpzERZrGj0TvOFHI",
+      "placeName": "Layla Mermaid Tours - Premium 3 Island Snorkeling & Beach BBQ Escape",
+      "results": {
+        "facebookVideo": {
+          "id": "2185648902834111"
+        },
+        "instagramReel": {
+          "id": "18027435863926289"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "placeId": "ChIJZda5YRSLpzERa4Qv5WcHsuo",
+      "placeName": "Bún Quậy Cô Thắm",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131578213313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18027883631866977"
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "placeId": "ChIJg1ksqtqNpzER3W4HrVMz7hE",
+      "placeName": "Tram Tram’s Banh Mi",
+      "results": {
+        "facebookVideo": {
+          "id": "3660247310791823"
+        },
+        "instagramReel": {
+          "id": "18134722549773656"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "placeId": "ChIJ652atFCNpzERuDwXbWc_sTQ",
+      "placeName": "Quán Ăn 93",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131577343313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18102774806178599"
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "placeId": "ChIJt4XvJwCNpzERDsy4DogoAGY",
+      "placeName": "Song Gia Food Phu quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "4072478276221116"
+        },
+        "instagramReel": {
+          "id": "18156870343491589"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "placeId": "ChIJV-4XtMuNpzERGZ71Xi3iZJA",
+      "placeName": "Bánh Mì Sài Gòn - Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131576035313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17975659836157536"
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "placeId": "ChIJz8pb8YmNpzERI6yCJJsKwFE",
+      "placeName": "Bánh canh chả cá chợ đêm",
+      "results": {
+        "facebookVideo": {
+          "id": "1717361373236949"
+        },
+        "instagramReel": {
+          "id": "18175119394416913"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "placeId": "ChIJIxst3A-NpzERxKcvb8CHI2Y",
+      "placeName": "Tween's Kitchen - Main Street Branch",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131575057313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18141434371714716"
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "placeId": "ChIJT6Xejc2NpzERdkK-4arbWEI",
+      "placeName": "Nhà Xưa 68",
+      "results": {
+        "facebookVideo": {
+          "id": "1085847397612855"
+        },
+        "instagramReel": {
+          "id": "17968133211234623"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "placeId": "ChIJGXZel_ONpzERtQgInjMPXU4",
+      "placeName": "Bún quậy THIỆN MỸ",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131574091313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18169996789484150"
+        }
+      }
+    },
     {
       "date": "2026-11-01",
       "placeId": "ChIJS797XwCNpzERpdvvoNGRBK4",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18097588970436621"
-        }
-      }
-    },
-    {
-      "date": "2026-10-17",
-      "placeId": "ChIJcUfuO36MpzER-YtnHO2vDD0",
-      "placeName": "Hung Quoc Tu Pagoda",
-      "results": {
-        "facebookVideo": {
-          "id": "29194119386879130"
-        },
-        "instagramReel": {
-          "id": "18143380480719254"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-17",
-      "placeId": "ChIJi0veCZmLpzER_TFGrkrELl8",
-      "placeName": "Hung Nhi Son Pagoda",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128665573313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18080827049354808"
-        }
-      }
-    },
-    {
-      "date": "2026-10-17",
-      "placeId": "ChIJgQRYpz-MpzER_PdUT7NFsIM",
-      "placeName": "Su Muon Pagoda",
-      "results": {
-        "facebookVideo": {
-          "id": "1086455954175961"
-        },
-        "instagramReel": {
-          "id": "17992122867102019"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-17",
-      "placeId": "ChIJYR0kkkuNpzERyLTt-5KL60Y",
-      "placeName": "Food Garden Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128664547313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18219450979344353"
-        }
-      }
-    },
-    {
-      "date": "2026-10-16",
-      "placeId": "ChIJi-z2ewCNpzER4P73e0T61VE",
-      "placeName": "CƠM CHAY HIỀN ĐỨC",
-      "results": {
-        "facebookVideo": {
-          "id": "1634540948339277"
-        },
-        "instagramReel": {
-          "id": "18118412455953985"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-16",
-      "placeId": "ChIJYREw3iyNpzER4MEeLlm9Ju4",
-      "placeName": "Nhà hàng Chay Minh Tâm",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128510815313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17916124335465275"
-        }
-      }
-    },
-    {
-      "date": "2026-10-16",
-      "placeId": "ChIJlehMyBUfCDERDSqZ_aeChQA",
-      "placeName": "Lam Vegan - Tiệm Chay Lam",
-      "results": {
-        "facebookVideo": {
-          "id": "1038885825829427"
-        },
-        "instagramReel": {
-          "id": "18074468909735284"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-16",
-      "placeId": "ChIJ5eqLUm2NpzERURd3wi62JoM",
-      "placeName": "Cơm chay tự chọn Bồ Đề Chay",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128509837313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18114133703598662"
-        }
-      }
-    },
-    {
-      "date": "2026-10-16",
-      "placeId": "ChIJj3KLVmuNpzERRcxS6PIioiI",
-      "placeName": "RASOI INDIAN PURE VEGETARIAN RESTAURANT",
-      "results": {
-        "facebookVideo": {
-          "id": "2044806996239486"
-        },
-        "instagramReel": {
-          "id": "18036601556847782"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-16",
-      "placeId": "ChIJdzmotOqNpzER3SFTNOAxFC4",
-      "placeName": "Krishna Garden Pure Veg Indian",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128508793313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18027602870860412"
-        }
-      }
-    },
-    {
-      "date": "2026-10-16",
-      "placeId": "ChIJMSfrfEqNpzER9_6_sLzv_nk",
-      "placeName": "Maharaja Lounge - Authentic Indian 100% Veg Restaurant",
-      "results": {
-        "facebookVideo": {
-          "id": "3766255846847022"
-        },
-        "instagramReel": {
-          "id": "18021710366930716"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-16",
-      "placeId": "ChIJOawITM2NpzERxPm19sYAUpo",
-      "placeName": "Phở bò Nam Định",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128507803313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18641284822034343"
         }
       }
     }
