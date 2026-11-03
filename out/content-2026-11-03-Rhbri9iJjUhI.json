@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This bar fixes the noise in your head.\n\nBoroda Bar on Đường Trần Hưng Đạo hits different when the sun drops. Cold drinks, real atmosphere, none of the resort-bar markup. $15-30 a person for a full night out. 4.5 stars across 297 reviews says it's not just us.\n\nPhu Quoc's bar scene has a lot of forgettable spots. This one stays with you.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the whole vibe shift when the lights come on at Boroda Bar. Cold glass in hand, Đường Trần Hưng Đạo buzzing outside. 4.5 stars for a reason. $15-30 covers a proper night out here.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBars #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. Boroda Bar, 4.5★, 297 reviews. $15-30 a head.\n\nTag your travel buddy.",
+    "video_caption": "Drinks hit. Crowd's good. Boroda Bar earns its 4.5 stars. Under $30 a person.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The bar Phu Quoc trips are built around. 4.5★, $15-30. #PhuQuoc #PhuQuocBars #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This bar fixes burnout.",
+    "scenes": [
+      "Exterior shot, neon warming up at dusk",
+      "Bartender pours first drink, close-up",
+      "Crowd filling seats, energy building",
+      "Cold glass raised, city buzz behind it",
+      "Price graphic: $15-30 per person, 4.5★"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

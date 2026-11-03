@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 68 reviews. Under $10 a head.\n\nThe LÁ - Coffee & Breakfast in Cửa Lấp is doing something right. Breakfast done properly, coffee that earns the rating, and a bill that won't hurt.\n\nMost tourists never make it out to this end of the island. Their loss.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Coffee poured. Breakfast plate lands. Bill comes in under $10. The LÁ - Coffee & Breakfast in Cửa Lấp has a 4.9 and most visitors to Phu Quoc walk straight past it. Watch till the end.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 68 reviews. Under $10 a head.\n\nThe LÁ - Coffee & Breakfast in Cửa Lấp is quietly winning. Tag your travel buddy.",
+    "video_caption": "Breakfast hits. Coffee earns the 4.9. Bill: under $10. The LÁ - Coffee & Breakfast, Cửa Lấp.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocEats"
+  },
+  "tiktok": {
+    "caption": "4.9 stars in Phu Quoc and under $10. The LÁ - Coffee & Breakfast is not a drill. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9 stars. Under $10.",
+    "scenes": [
+      "Exterior of The LÁ - Coffee & Breakfast, Cửa Lấp",
+      "Coffee being poured into cup, close-up",
+      "Full breakfast plate set on table",
+      "Receipt or price board showing under $10",
+      "4.9-star rating on screen, 68 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

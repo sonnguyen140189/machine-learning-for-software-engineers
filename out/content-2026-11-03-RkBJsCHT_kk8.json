@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Horizon Beach Bar sits right on Đường Trần Hưng Đạo, cocktail in hand, ocean in front. 4.6 stars from real visitors. $15-30 per person for the full experience. Not a resort price tag, not a resort crowd. Just good drinks and a view that actually earns its reputation. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the sun drop behind the water at Horizon Beach Bar. Cocktails hitting the table, waves doing the rest. $15-30 per person on Đường Trần Hưng Đạo. This is what a Phu Quoc evening should look like.",
+    "first_comment": "#PhuQuoc #PhuQuocBar #PhuQuocNightlife #VisitVietnam #TravelTips #IslandBar #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Horizon Beach Bar, Đường Trần Hưng Đạo. 4.6 stars, $15-30, ocean doing the work. Save this for your Phu Quoc trip.",
+    "video_caption": "Cocktails. Ocean. 4.6 stars on Đường Trần Hưng Đạo. Horizon Beach Bar earns every one of them.",
+    "hashtags": "#PhuQuocBar #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #IslandVibes"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc beach bar that actually delivers. $15-30, 4.6 stars, zero disappointment. #PhuQuoc #PhuQuocBar #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Aerial pull back from bar to ocean",
+      "Bartender pours cocktail, slow motion",
+      "Condensation drips down glass closeup",
+      "Guest raises drink toward sunset horizon",
+      "Wide shot: empty stools at golden hour",
+      "Text overlay: 4.6 stars. $15-30. Worth it."
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
