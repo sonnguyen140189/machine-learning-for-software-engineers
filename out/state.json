@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ-_tD7H2NpzERkBJsCHT_kk8",
+    "ChIJcxX3RgCNpzERDr_3FzLo3EI",
+    "ChIJkXqwPFeNpzERTPv9JMJKOHg",
+    "ChIJGW6TumGMpzERhbri9iJjUhI",
+    "ChIJYVpQmqSJpzERQ2jruG6WqKE",
+    "ChIJt4DYpuyLpzERm18CccVtFaM",
+    "ChIJfQAdSg2NpzEREkgYHVPn5dE",
+    "ChIJOS1SBvaNpzER_8gRpU5tGKI",
+    "ChIJYR0kkkuNpzERyLTt-5KL60Y",
+    "ChIJ73vtGACNpzERggOwt0eOKmI",
+    "ChIJofwmL4GLpzERIyBu_Nb2Gso",
+    "ChIJnwyMnieNpzER3fyL1HjMgaw",
     "ChIJUYfZHeSNpzER5-l8QW0lTcM",
     "ChIJqfezlgAfCDERaYwzQEp_Rkc",
     "ChIJLUwZPQCNpzERZrGj0TvOFHI",
@@ -187,21 +199,189 @@
     "ChIJo-0fmz6NpzERIEhHbz8e4T8",
     "ChIJE6Jt3vuVpzERA6ErTfB79es",
     "ChIJZaB-ewCNpzERPBRid0eSO98",
-    "ChIJ44qAJhSLpzERXmrw41RYzJA",
-    "ChIJAQAAAECKpzERzt6bVEvLa-M",
-    "ChIJI6oge0mLpzERKUoKtQLR-oc",
-    "ChIJLZPWxLiWpzERwrkgfIa1P8I",
-    "ChIJdQIPu76LpzERR-arMzuJz5I",
-    "ChIJoeqegKKWpzER3bN1bSxK1n4",
-    "ChIJL3-4s1GMpzER_eOIkH6lzQU",
-    "ChIJn_OoioaMpzER6LmKuuTHasY",
-    "ChIJq2ddr5WRpzERGEYb5TieBgs",
-    "ChIJb94_UYaMpzERLROoXapH5lI",
-    "ChIJR0Eq5IeMpzER7hzZw3l9NSw",
-    "ChIJfVqVdoeMpzERX-ZG1WyAvMA",
-    "ChIJl1Ayn9aNpzERF5-boB6Ec3c"
+    "ChIJ44qAJhSLpzERXmrw41RYzJA"
   ],
   "history": [
+    {
+      "date": "2026-11-03",
+      "placeId": "ChIJ-_tD7H2NpzERkBJsCHT_kk8",
+      "placeName": "Horizon Beach Bar Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1819053462471202"
+        },
+        "instagramReel": {
+          "id": "18109632353260972"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "placeId": "ChIJcxX3RgCNpzERDr_3FzLo3EI",
+      "placeName": "Hookah Vibes | Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131717065313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18146428366595144"
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "placeId": "ChIJkXqwPFeNpzERTPv9JMJKOHg",
+      "placeName": "Chip Funny (Drinks - Foods - Bar)",
+      "results": {
+        "facebookVideo": {
+          "id": "4946750038885600"
+        },
+        "instagramReel": {
+          "id": "17917940664535950"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "placeId": "ChIJGW6TumGMpzERhbri9iJjUhI",
+      "placeName": "Boroda Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131715709313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18088421351313432"
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "placeId": "ChIJYVpQmqSJpzERQ2jruG6WqKE",
+      "placeName": "Rory's Beach Bar",
+      "results": {
+        "facebookVideo": {
+          "id": "2083179662345130"
+        },
+        "instagramReel": {
+          "id": "18104575148570421"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "placeId": "ChIJt4DYpuyLpzERm18CccVtFaM",
+      "placeName": "On The Rock Restaurant & Beach Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131714593313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18120778630752850"
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "placeId": "ChIJfQAdSg2NpzEREkgYHVPn5dE",
+      "placeName": "Hi Coffee - 11 Trần Hưng Đạo - Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1438420611054371"
+        },
+        "instagramReel": {
+          "id": "17994809769059790"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "placeId": "ChIJOS1SBvaNpzER_8gRpU5tGKI",
+      "placeName": "Nora’s Cafe - Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131713363313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18095435513202066"
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "placeId": "ChIJYR0kkkuNpzERyLTt-5KL60Y",
+      "placeName": "Food Garden Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "2630343694148802"
+        },
+        "instagramReel": {
+          "id": "18103013738531940"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "placeId": "ChIJ73vtGACNpzERggOwt0eOKmI",
+      "placeName": "Diner PHU QUOC BEER'n BURGERS BREAKFAST LUNCH DINNER",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131712271313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18028169810703733"
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "placeId": "ChIJofwmL4GLpzERIyBu_Nb2Gso",
+      "placeName": "Tim Coffee",
+      "results": {
+        "facebookVideo": {
+          "id": "1440107867619412"
+        },
+        "instagramReel": {
+          "id": "18125766836315363"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "placeId": "ChIJnwyMnieNpzER3fyL1HjMgaw",
+      "placeName": "The LÁ - Coffee & Breakfast",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131711305313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18100082441451369"
+        }
+      }
+    },
     {
       "date": "2026-11-02",
       "placeId": "ChIJUYfZHeSNpzER5-l8QW0lTcM",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "17978651981914929"
-        }
-      }
-    },
-    {
-      "date": "2026-10-18",
-      "placeId": "ChIJAQAAAECKpzERzt6bVEvLa-M",
-      "placeName": "Chen Sea Resort & Spa Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1561015319384118"
-        },
-        "instagramReel": {
-          "id": "17961781413208607"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-18",
-      "placeId": "ChIJI6oge0mLpzERKUoKtQLR-oc",
-      "placeName": "Ocean Bay Resort & Spa Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128782615313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18110607728237082"
-        }
-      }
-    },
-    {
-      "date": "2026-10-18",
-      "placeId": "ChIJLZPWxLiWpzERwrkgfIa1P8I",
-      "placeName": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
-      "results": {
-        "facebookVideo": {
-          "id": "1423889182632346"
-        },
-        "instagramReel": {
-          "id": "18219120088359682"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-18",
-      "placeId": "ChIJdQIPu76LpzERR-arMzuJz5I",
-      "placeName": "Eco Tour Thai Duong – Cua Can River Basket Boat Experience",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128781643313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17882377725534745"
-        }
-      }
-    },
-    {
-      "date": "2026-10-17",
-      "placeId": "ChIJoeqegKKWpzER3bN1bSxK1n4",
-      "placeName": "Chùa Sùng Đức",
-      "results": {
-        "facebookVideo": {
-          "id": "1118013960603602"
-        },
-        "instagramReel": {
-          "id": "18097578857657308"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-17",
-      "placeId": "ChIJL3-4s1GMpzER_eOIkH6lzQU",
-      "placeName": "Guan Di Temple",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128669935313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17939073768384110"
-        }
-      }
-    },
-    {
-      "date": "2026-10-17",
-      "placeId": "ChIJn_OoioaMpzER6LmKuuTHasY",
-      "placeName": "Dinh Cậu",
-      "results": {
-        "facebookVideo": {
-          "id": "1771096144211844"
-        },
-        "instagramReel": {
-          "id": "18143977954599226"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-17",
-      "placeId": "ChIJq2ddr5WRpzERGEYb5TieBgs",
-      "placeName": "Quốc Mẫu Hall",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128668765313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18109300886210793"
-        }
-      }
-    },
-    {
-      "date": "2026-10-17",
-      "placeId": "ChIJb94_UYaMpzERLROoXapH5lI",
-      "placeName": "Dinh Bà Thủy Long Thánh Mẫu",
-      "results": {
-        "facebookVideo": {
-          "id": "28798370576470312"
-        },
-        "instagramReel": {
-          "id": "18128557283497834"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-17",
-      "placeId": "ChIJR0Eq5IeMpzER7hzZw3l9NSw",
-      "placeName": "Sùng Hưng Cổ Tự",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128667607313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18144303652517068"
-        }
-      }
-    },
-    {
-      "date": "2026-10-17",
-      "placeId": "ChIJfVqVdoeMpzERX-ZG1WyAvMA",
-      "placeName": "Cao Dai Temple of Phu-Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1720912626706593"
-        },
-        "instagramReel": {
-          "id": "18123880052315375"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-17",
-      "placeId": "ChIJl1Ayn9aNpzERF5-boB6Ec3c",
-      "placeName": "Chùa Hưng Sơn. Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128666575313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18097588970436621"
         }
       }
     }
