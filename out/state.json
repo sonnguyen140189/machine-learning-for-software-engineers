@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ-eiJAyWNpzERDgSwrmygtNY",
+    "ChIJ98f-pNONpzERewlmnsZY83o",
+    "ChIJu-TTHwCNpzERTEItwgVnUVU",
+    "ChIJ46RrGACNpzERe2qzrhFzD2k",
+    "ChIJl1AwDfuNpzERAZBzVul_WO8",
+    "ChIJqx54JIyNpzERfmx8wXohQ4U",
+    "ChIJvc4-RWUgCDERx4AJFW81Tg4",
+    "ChIJb94_UYaMpzERLROoXapH5lI",
+    "ChIJn_OoioaMpzER6LmKuuTHasY",
+    "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
+    "ChIJI6oge0mLpzERKUoKtQLR-oc",
+    "ChIJLZPWxLiWpzERwrkgfIa1P8I",
     "ChIJ-_tD7H2NpzERkBJsCHT_kk8",
     "ChIJcxX3RgCNpzERDr_3FzLo3EI",
     "ChIJkXqwPFeNpzERTPv9JMJKOHg",
@@ -187,21 +199,189 @@
     "ChIJ90jXsf2TpzERk1THOzfOnoU",
     "ChIJoVjpabeNpzERP8XEX6ZMUic",
     "ChIJc-syEUyNpzERlXt7rXb3Hcg",
-    "ChIJqR3vbQCJpzERyD9DA0Mcihs",
-    "ChIJF9qetGKMpzER2yzXvft5qgg",
-    "ChIJ8zUfc5iXpzERSSpBZR01y2c",
-    "ChIJ2bp76JUfCDER2BAKZAkG66c",
-    "ChIJbUZGsQEfCDERXgX4I2SUCsI",
-    "ChIJ51OpPgCVpzER-TzMZtCOk0o",
-    "ChIJYQY76P2NpzERlul1IUfk3N8",
-    "ChIJz-FucgSNpzERjZlTcooFwcY",
-    "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
-    "ChIJo-0fmz6NpzERIEhHbz8e4T8",
-    "ChIJE6Jt3vuVpzERA6ErTfB79es",
-    "ChIJZaB-ewCNpzERPBRid0eSO98",
-    "ChIJ44qAJhSLpzERXmrw41RYzJA"
+    "ChIJqR3vbQCJpzERyD9DA0Mcihs"
   ],
   "history": [
+    {
+      "date": "2026-11-04",
+      "placeId": "ChIJ-eiJAyWNpzERDgSwrmygtNY",
+      "placeName": "Rose spa - Massage, Nail, Eyelashes & More",
+      "results": {
+        "facebookVideo": {
+          "id": "1851632186036118"
+        },
+        "instagramReel": {
+          "id": "18117838538087254"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "placeId": "ChIJ98f-pNONpzERewlmnsZY83o",
+      "placeName": "Lotus Spa - Massage, Nail, Eyelashes & More",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131898859313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18177599344445732"
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "placeId": "ChIJu-TTHwCNpzERTEItwgVnUVU",
+      "placeName": "PATTHU SPA PHÚ QUỐC (마사지, 발 마사지, 샴푸, 按摩, 洗頭, Body Massage, Foot Massage, Shampoo, Gội Đầu Dưỡng Sinh)",
+      "results": {
+        "facebookVideo": {
+          "id": "1420922864436790"
+        },
+        "instagramReel": {
+          "id": "18112622516131145"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "placeId": "ChIJ46RrGACNpzERe2qzrhFzD2k",
+      "placeName": "Aurum Spa",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131897863313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18058492046581134"
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "placeId": "ChIJl1AwDfuNpzERAZBzVul_WO8",
+      "placeName": "Massage DuBai Luxury Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1433395598323781"
+        },
+        "instagramReel": {
+          "id": "17953130514318333"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "placeId": "ChIJqx54JIyNpzERfmx8wXohQ4U",
+      "placeName": "Little WIN SPA 2 - MASSAGE (전신 마사지, 풋 마사지)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131896837313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18183011404447027"
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "placeId": "ChIJvc4-RWUgCDERx4AJFW81Tg4",
+      "placeName": "Phu Quoc National Park",
+      "results": {
+        "facebookVideo": {
+          "id": "2567283873747718"
+        },
+        "instagramReel": {
+          "id": "18398518804164502"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "placeId": "ChIJb94_UYaMpzERLROoXapH5lI",
+      "placeName": "Dinh Bà Thủy Long Thánh Mẫu",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131895859313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18347314222276429"
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "placeId": "ChIJn_OoioaMpzER6LmKuuTHasY",
+      "placeName": "Dinh Cậu",
+      "results": {
+        "facebookVideo": {
+          "id": "1076462772092293"
+        },
+        "instagramReel": {
+          "id": "18003793704042338"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "placeId": "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
+      "placeName": "Vinpearl Wonderworld Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131894881313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18343488745262466"
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "placeId": "ChIJI6oge0mLpzERKUoKtQLR-oc",
+      "placeName": "Ocean Bay Resort & Spa Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "2244529396122926"
+        },
+        "instagramReel": {
+          "id": "18343468576261314"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "placeId": "ChIJLZPWxLiWpzERwrkgfIa1P8I",
+      "placeName": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122131893705313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18397103857164036"
+        }
+      }
+    },
     {
       "date": "2026-11-03",
       "placeId": "ChIJ-_tD7H2NpzERkBJsCHT_kk8",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18117929452975934"
-        }
-      }
-    },
-    {
-      "date": "2026-10-19",
-      "placeId": "ChIJF9qetGKMpzER2yzXvft5qgg",
-      "placeName": "Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1113108774407759"
-        },
-        "instagramReel": {
-          "id": "18115899737519907"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-19",
-      "placeId": "ChIJ8zUfc5iXpzERSSpBZR01y2c",
-      "placeName": "Phu Quoc Prison History Museum",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128912533313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18128258732299173"
-        }
-      }
-    },
-    {
-      "date": "2026-10-19",
-      "placeId": "ChIJ2bp76JUfCDER2BAKZAkG66c",
-      "placeName": "Vinpearl Safari Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1139747405402243"
-        },
-        "instagramReel": {
-          "id": "17961767586228815"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-19",
-      "placeId": "ChIJbUZGsQEfCDERXgX4I2SUCsI",
-      "placeName": "Grand World Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128911447313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18114484373519904"
-        }
-      }
-    },
-    {
-      "date": "2026-10-18",
-      "placeId": "ChIJ51OpPgCVpzER-TzMZtCOk0o",
-      "placeName": "Maison Kayser Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1862314638269386"
-        },
-        "instagramReel": {
-          "id": "17952043347050162"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-18",
-      "placeId": "ChIJYQY76P2NpzERlul1IUfk3N8",
-      "placeName": "Bapaki Tea, Bakery",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128787079313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18357201454174749"
-        }
-      }
-    },
-    {
-      "date": "2026-10-18",
-      "placeId": "ChIJz-FucgSNpzERjZlTcooFwcY",
-      "placeName": "LAN CHI BAKERY PHÚ QUỐC",
-      "results": {
-        "facebookVideo": {
-          "id": "4227529490714149"
-        },
-        "instagramReel": {
-          "id": "18096837596141966"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-18",
-      "placeId": "ChIJcSuWQQ6NpzERWBZdPTXD4J4",
-      "placeName": "The Cake Corner",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128786113313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18022089863875278"
-        }
-      }
-    },
-    {
-      "date": "2026-10-18",
-      "placeId": "ChIJo-0fmz6NpzERIEhHbz8e4T8",
-      "placeName": "TUNG Cake and Tea",
-      "results": {
-        "facebookVideo": {
-          "id": "1576248967607945"
-        },
-        "instagramReel": {
-          "id": "17893930848435765"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-18",
-      "placeId": "ChIJE6Jt3vuVpzERA6ErTfB79es",
-      "placeName": "The Juliet Coffee & Dessert - AMA71",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128784919313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18037612784653280"
-        }
-      }
-    },
-    {
-      "date": "2026-10-18",
-      "placeId": "ChIJZaB-ewCNpzERPBRid0eSO98",
-      "placeName": "Nị Bakery",
-      "results": {
-        "facebookVideo": {
-          "id": "2028635084518669"
-        },
-        "instagramReel": {
-          "id": "18432241027199825"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-18",
-      "placeId": "ChIJ44qAJhSLpzERXmrw41RYzJA",
-      "placeName": "Camia Resort & Spa",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122128783893313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17978651981914929"
         }
       }
     }
