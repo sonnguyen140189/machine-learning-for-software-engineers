@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 109 reviews. Zero complaints.\n\nAurum Spa on Đ. 30 Tháng 4 is running a perfect score and the reviews back it up completely. No filler services, no rushed sessions. Just consistent, top-rated massage work in Phu Quoc.\n\nIf your itinerary doesn't have a recovery day built in, add one. This is where you spend it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Hands moving. Tension leaving. 5.0 stars earned every single session at Aurum Spa, Phú Quốc. 109 people reviewed this place and not one dropped below perfect. Book before your body demands it.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 109 reviews. Aurum Spa doesn't miss.\n\nPhu Quoc's most consistent spa rating. Tag your travel buddy.",
+    "video_caption": "109 reviews. Perfect score. Aurum Spa just runs different. Add this to your Phu Quoc list.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+  },
+  "tiktok": {
+    "caption": "5.0 stars. 109 reviews. Aurum Spa in Phú Quốc hasn't missed once. Add it. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5.0★ 109 reviews. Zero misses.",
+    "scenes": [
+      "Exterior shot: Aurum Spa entrance sign",
+      "Hands pouring warm oil, slow close-up",
+      "Client face, eyes closed, visibly relaxed",
+      "Review screen: 5.0 stars, scroll through ratings",
+      "Staff preparing treatment room, clean setup"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,112 reviews. 4.2 stars. And most tourists skip right past it.\n\nPhu Quoc National Park covers 31,422 hectares of UNESCO Biosphere Reserve. Evergreen forest, rare flora, endemic wildlife, and oceanic species most visitors never see.\n\nThis isn't a day-trip afterthought. It's the ecological core of the entire island.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walking into the UNESCO Biosphere Reserve most Phu Quoc tourists never enter. 31,422 hectares. Dense canopy. Wildlife around every turn. This is the other side of the island.",
+    "first_comment": "#PhuQuoc #PhuQuocNationalPark #VisitVietnam #PhuQuocTips #ThingsToDoPhuQuoc #VietnamNature #TravelTips"
+  },
+  "instagram": {
+    "caption": "1,112 reviews. 4.2 stars. Most tourists skip it.\n\nPhu Quoc National Park. UNESCO Biosphere Reserve. The real island.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "31,422 hectares of UNESCO forest and barely a tourist in sight. Phu Quoc hits different when you go this deep.",
+    "hashtags": "#PhuQuocNationalPark #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #NatureVietnam #VisitVietnam #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "1,112 people rated it 4.2 stars. Tourists still walk past it. Phu Quoc National Park is the whole island's best-kept fact. #PhuQuoc #PhuQuocNationalPark #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "1,112 reviews. Still empty.",
+    "scenes": [
+      "Aerial shot: dense canopy stretching to horizon",
+      "Boots stepping onto forest trail",
+      "Camera pans up through towering evergreen trees",
+      "Close-up: rare flora on forest floor",
+      "Wildlife movement caught in undergrowth",
+      "Wide shot: hiker alone in vast forest silence"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

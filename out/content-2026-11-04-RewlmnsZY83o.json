@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you ducked into Hẻm 118/7 Đường Trần Hưng Đạo looking for a massage. Found a 4.9-star spa with 459 reviews instead.\n\nLotus Spa covers everything. Massage, nails, eyelashes, more. One stop, zero regrets.\n\nThis is the kind of place locals quietly book on repeat while tourists walk straight past it on the main strip.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "459 people rated Lotus Spa 4.9 stars. Watch why. Nails, lashes, full-body massage, all in one spot off Trần Hưng Đạo. Book before your Phu Quoc trip fills up.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found the 4.9-star spa the main strip tourists never see. Lotus Spa. Nails, lashes, massage. All of it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walked past the resort spas. Found Lotus Spa instead. 459 reviews. 4.9 stars. Worth every detour.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocBeaches #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: wrong alley, right spa. 4.9 stars, 459 reviews. Lotus Spa delivers. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found the right alley.",
+    "scenes": [
+      "Street sign: Hẻm 118/7 Trần Hưng Đạo",
+      "Walk into Lotus Spa entrance",
+      "Close-up: nail art in progress",
+      "Lash application, steady hands",
+      "Massage table, soft lighting",
+      "Phone screen: 4.9 stars, 459 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

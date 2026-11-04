@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered off Võ Thị Sáu street and found this. Dinh Bà Thủy Long Thánh Mẫu is one of Phu Quoc's most atmospheric temples, rated 4.5 stars by 303 visitors. Incense smoke, dragon carvings, total quiet. Two minutes from the busy strip and it feels like a different world. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking through the gates of Dinh Bà Thủy Long Thánh Mẫu on Võ Thị Sáu. Incense rising, carvings everywhere, almost no tourists. 4.5 stars, 303 reviews, and somehow still off the radar.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Took a wrong turn on Võ Thị Sáu. Found Dinh Bà Thủy Long Thánh Mẫu. 4.5 stars. Zero crowds. Tag your travel buddy.",
+    "video_caption": "Stepped inside Dinh Bà Thủy Long Thánh Mẫu and the street noise just disappeared. This is Phu Quoc nobody shows you.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocHidden"
+  },
+  "tiktok": {
+    "caption": "Wrong turn. Best accident. Dinh Bà Thủy Long Thánh Mẫu hits different at midday. #PhuQuoc #VietnamTravel #TravelReels #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Walked past this 3x. Don't be me.",
+    "scenes": [
+      "Approach temple gate from busy street",
+      "Push through ornate wooden doors",
+      "Pan up dragon carvings on roof",
+      "Incense smoke curling past altar",
+      "Empty courtyard, one local praying"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
