@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10 for a full vegetarian meal in Phu Quoc? At Bếp Chay Nhà An, yes. 4.9 stars across 374 reviews. That rating on a budget spot is rare. Fresh plant-based dishes, local crowd, zero tourist markup. Địa chỉ: 29 Đường Trần Hưng Đạo, Khu 1. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the plates land at Bếp Chay Nhà An. Full vegetarian spread, under $10, 4.9 stars. The locals eating here know something tourists don't. 29 Đường Trần Hưng Đạo, Khu 1.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianVietnam #VisitVietnam #PhuQuocRestaurants #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Under $10. 4.9 stars. 374 reviews. Bếp Chay Nhà An is the vegetarian spot Phu Quoc didn't know it needed. Tag your travel buddy.",
+    "video_caption": "Plates stacking up at Bếp Chay Nhà An. Full veggie meal, under $10, locals only energy.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VegetarianVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Under $10 vegetarian meal in Phu Quoc. 4.9 stars. Not a typo. #PhuQuoc #PhuQuocFood #VegetarianTravel #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $10. 4.9 stars. Phu Quoc.",
+    "scenes": [
+      "Exterior shot: 29 Đường Trần Hưng Đạo storefront",
+      "Close-up: colorful veggie dishes arriving",
+      "Pan across packed local tables",
+      "Fork lifting noodles, steam rising",
+      "Bill arrives: under $10 on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
