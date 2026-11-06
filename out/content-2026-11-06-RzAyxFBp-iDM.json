@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Locals don't post about Bãi Dài. So we will.\n\nWhile the tour buses unload at the crowded south, this long stretch of sand sits mostly empty. No beach clubs fighting for space. No hawkers every 10 meters. Just flat water, soft sand, and room to breathe.\n\n4.3★ from people who actually found it. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking Bãi Dài at low tide. No crowds. No music. Just wind, flat turquoise water, and 147 people who kept this quiet. Watch till the end.",
+    "first_comment": "#PhuQuoc #PhuQuocBeaches #BaiDai #VisitVietnam #TravelTips #PhuQuocTips #VietnamBeach"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Bãi Dài. Big mistake for them. Big win for you.\n\n4.3★, long stretch, almost no crowds. Save this.",
+    "video_caption": "Empty sand. Flat water. Bãi Dài while tourists are still at breakfast. Tag your travel buddy.",
+    "hashtags": "#PhuQuocBeaches #BaiDai #PhuQuocTips #VietnamBeach #TravelTips #VietnamTravel #TravelReels #BeachVibes"
+  },
+  "tiktok": {
+    "caption": "The beach locals actually go to in Phu Quoc. Bãi Dài. Still empty. Go before everyone finds out. #PhuQuoc #PhuQuocBeaches #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post this beach.",
+    "scenes": [
+      "Aerial pan along empty Bãi Dài shoreline",
+      "Feet walking on flat wet sand at low tide",
+      "Wide shot showing zero beach clubs or crowds",
+      "Close-up: gentle turquoise waves rolling in",
+      "Person sitting alone facing open water"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

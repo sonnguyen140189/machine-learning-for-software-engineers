@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "6,352 reviews. 4.4 stars. And Phu Quoc still surprises first-timers every single day.\n\nWhite-sand beaches. Dense jungle hiking trails. Resorts for every budget. This island runs on more than just beach vibes.\n\nMost visitors only scratch the surface. The ones who stay longer always wish they booked an extra week.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Jungle trails in the morning. White-sand beaches by noon. Phu Quoc packs more into one island than most countries pack into a region. 6,352 people rated it 4.4 stars. Watch why.",
+    "first_comment": "#PhuQuoc #PhuQuocIsland #VisitVietnam #TravelTips #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "6,352 reviews. 4.4 stars. Phu Quoc earns it every time.\n\nBeaches, jungle, resorts. One island.\n\nTag your travel buddy.",
+    "video_caption": "White sand. Jungle trails. 6,352 people can't be wrong. Phu Quoc hits different.",
+    "hashtags": "#PhuQuoc #PhuQuocIsland #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "6,352 reviews. 4.4 stars. Phu Quoc is not slowing down. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocIsland"
+  },
+  "video_script": {
+    "hook": "6,352 reviews. 4.4 stars.",
+    "scenes": [
+      "Aerial shot: white-sand coastline curving",
+      "Hiker pushing through jungle trail",
+      "Resort pool overlooks turquoise bay",
+      "Local market stalls, motion blur crowd",
+      "Sunset hits the beach, golden light"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

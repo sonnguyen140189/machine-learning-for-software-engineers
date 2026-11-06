@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This beach fixes burnout. Bãi Trường stretches for miles along Đường Trần Hưng Đạo, wide enough that you can walk 20 minutes and barely pass another person. 4.4 stars across 793 reviews. The sand stays golden, the water stays calm, and the sunset hits different when you're not fighting for a spot. Phu Quoc at its most uncomplicated. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking Bãi Trường at golden hour. Miles of open beach, 793 people rated it 4.4 stars, and it still feels like you have it to yourself. Phu Quoc delivered.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #BaiTruong #VisitVietnam #TravelTips #PhuQuocTips #VietnamBeach"
+  },
+  "instagram": {
+    "caption": "This beach fixes burnout. Bãi Trường, Phu Quoc. 4.4★, 793 reviews, still never crowded at golden hour. Save this.",
+    "video_caption": "Miles of open sand at Bãi Trường. Golden hour, barely a soul around. Phu Quoc unfiltered.",
+    "hashtags": "#PhuQuocBeaches #BaiTruong #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachVibes"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc beach that doesn't feel touristy. Bãi Trường hits every time. #PhuQuoc #BaiTruong #VietnamTravel #BeachTok"
+  },
+  "video_script": {
+    "hook": "This beach fixes burnout.",
+    "scenes": [
+      "Wide aerial pan down empty shoreline",
+      "Feet hit wet sand at water's edge",
+      "Camera tilts up to unobstructed horizon",
+      "Golden sun drops toward the water",
+      "Solo figure walks away into the light"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

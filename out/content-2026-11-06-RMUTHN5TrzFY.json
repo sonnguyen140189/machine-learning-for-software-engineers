@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking Bãi Trường and stumble onto a public beach that actually has space. Sonasea Public Beach sits right on the longest stretch of sand in Phu Quoc. 4.4 stars from 131 reviews. Bring a towel, skip the resort fee. This is the move for a free beach day on the west coast. Save this for your Phu Quoc trip.",
+    "video_caption": "Walked the whole strip of Bãi Trường and landed here. Sonasea Public Beach, no entry fee, west-coast sunset incoming. This is what a free beach day in Phu Quoc actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #BaiTruong #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: free beach day on Bãi Trường and you found Sonasea Public Beach. 4.4★, real sand, no resort bill. Tag your travel buddy.",
+    "video_caption": "No resort fee. No crowds. Just Bãi Trường at its best. Sonasea Public Beach delivers.",
+    "hashtags": "#PhuQuocBeach #BaiTruong #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "Free public beach on Bãi Trường. 4.4 stars. No entry fee. Don't walk past this. #PhuQuoc #BaiTruong #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: free beach, Bãi Trường",
+    "scenes": [
+      "Feet walking along Bãi Trường shoreline",
+      "Wide shot: Sonasea beach sign comes into frame",
+      "Pan across open sand, sparse crowds",
+      "Close-up: waves hitting the west-coast shore",
+      "Golden hour light on the water"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
