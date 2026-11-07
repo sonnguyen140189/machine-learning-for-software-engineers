@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJBWE7axyNpzER5e0d8AjEDJA",
+    "ChIJr7enHa-rNTERbivpCTqoenY",
+    "ChIJ_fS2ExSLpzERfs3RvFN0_ts",
+    "ChIJoeqegKKWpzER3bN1bSxK1n4",
+    "ChIJR0Eq5IeMpzER7hzZw3l9NSw",
+    "ChIJL3-4s1GMpzER_eOIkH6lzQU",
+    "ChIJq2ddr5WRpzERGEYb5TieBgs",
+    "ChIJl1Ayn9aNpzERF5-boB6Ec3c",
+    "ChIJfVqVdoeMpzERX-ZG1WyAvMA",
+    "ChIJcUfuO36MpzER-YtnHO2vDD0",
+    "ChIJi0veCZmLpzER_TFGrkrELl8",
+    "ChIJgQRYpz-MpzER_PdUT7NFsIM",
     "ChIJOwIiCSmNpzER1ISpdLmLcEg",
     "ChIJF9qetGKMpzER2yzXvft5qgg",
     "ChIJ8zUfc5iXpzERSSpBZR01y2c",
@@ -187,21 +199,189 @@
     "ChIJ9xs8gteNpzERinKZ-FvGR_Q",
     "ChIJjyDBQaiNpzER-ZJ13hHpdEw",
     "ChIJb5faY8qNpzERH4uW3FwoE5s",
-    "ChIJHaad39SNpzERxyH_xEG63Kg",
-    "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
-    "ChIJoXjKmgSNpzERianh5FZP7WE",
-    "ChIJB4_swjiNpzER0vsGaMBGTxg",
-    "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
-    "ChIJv6Lq7g_aCTERiYzE3phvZS4",
-    "ChIJCzimRUaRpzER1jlvynsq6ko",
-    "ChIJsWqZg7gfCDERVA6dihKWpho",
-    "ChIJ-0XGzouOpzERbbOfSGDmmuU",
-    "ChIJhzuiMZSNpzERWNr-SaAOJgQ",
-    "ChIJxxKldgCNpzERA-z1yNFjwLo",
-    "ChIJQZoz472XpzERETLpPPs-P8Y",
-    "ChIJybqyDQCRpzER7ojvdd5xiqQ"
+    "ChIJHaad39SNpzERxyH_xEG63Kg"
   ],
   "history": [
+    {
+      "date": "2026-11-07",
+      "placeId": "ChIJBWE7axyNpzER5e0d8AjEDJA",
+      "placeName": "AROMA Cafe Bistro Bar Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "2055907378398303"
+        },
+        "instagramReel": {
+          "id": "18088356173710568"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "placeId": "ChIJr7enHa-rNTERbivpCTqoenY",
+      "placeName": "Tran Quoc Pagoda",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122132392797313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17911258803570515"
+        }
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "placeId": "ChIJ_fS2ExSLpzERfs3RvFN0_ts",
+      "placeName": "Dinh Bà Lớn Tướng Lê Kim Định",
+      "results": {
+        "facebookVideo": {
+          "id": "1527444602480076"
+        },
+        "instagramReel": {
+          "id": "18119619125069418"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "placeId": "ChIJoeqegKKWpzER3bN1bSxK1n4",
+      "placeName": "Chùa Sùng Đức",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122132391621313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18125535023297151"
+        }
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "placeId": "ChIJR0Eq5IeMpzER7hzZw3l9NSw",
+      "placeName": "Sùng Hưng Cổ Tự",
+      "results": {
+        "facebookVideo": {
+          "id": "1158490336700680"
+        },
+        "instagramReel": {
+          "id": "18111860477227902"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "placeId": "ChIJL3-4s1GMpzER_eOIkH6lzQU",
+      "placeName": "Guan Di Temple",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122132390397313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18099079442117509"
+        }
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "placeId": "ChIJq2ddr5WRpzERGEYb5TieBgs",
+      "placeName": "Quốc Mẫu Hall",
+      "results": {
+        "facebookVideo": {
+          "id": "923095970757448"
+        },
+        "instagramReel": {
+          "id": "18072413657507898"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "placeId": "ChIJl1Ayn9aNpzERF5-boB6Ec3c",
+      "placeName": "Chùa Hưng Sơn. Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122132389323313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18114053543163206"
+        }
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "placeId": "ChIJfVqVdoeMpzERX-ZG1WyAvMA",
+      "placeName": "Cao Dai Temple of Phu-Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "872585189249291"
+        },
+        "instagramReel": {
+          "id": "18132905615510176"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "placeId": "ChIJcUfuO36MpzER-YtnHO2vDD0",
+      "placeName": "Hung Quoc Tu Pagoda",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122132388333313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18141565357551930"
+        }
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "placeId": "ChIJi0veCZmLpzER_TFGrkrELl8",
+      "placeName": "Hung Nhi Son Pagoda",
+      "results": {
+        "facebookVideo": {
+          "id": "1784393432821522"
+        },
+        "instagramReel": {
+          "id": "18118973521993732"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "placeId": "ChIJgQRYpz-MpzER_PdUT7NFsIM",
+      "placeName": "Su Muon Pagoda",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122132387289313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18143225092623596"
+        }
+      }
+    },
     {
       "date": "2026-11-06",
       "placeId": "ChIJOwIiCSmNpzER1ISpdLmLcEg",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18124915105931635"
-        }
-      }
-    },
-    {
-      "date": "2026-10-22",
-      "placeId": "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
-      "placeName": "Phu Quoc Local Guide - Snorkeling and Scuba Diving",
-      "results": {
-        "facebookVideo": {
-          "id": "1096202003177306"
-        },
-        "instagramReel": {
-          "id": "18492057445105528"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-22",
-      "placeId": "ChIJoXjKmgSNpzERianh5FZP7WE",
-      "placeName": "Kimie's Tours - Phu Quoc snorkeling",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122129540925313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18429778678148754"
-        }
-      }
-    },
-    {
-      "date": "2026-10-22",
-      "placeId": "ChIJB4_swjiNpzER0vsGaMBGTxg",
-      "placeName": "Onbird Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "1049143141482180"
-        },
-        "instagramReel": {
-          "id": "18120801784984068"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-22",
-      "placeId": "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
-      "placeName": "Into The Blue - Phu Quoc Snorkeling Boat Trip",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122129539779313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18134006194673169"
-        }
-      }
-    },
-    {
-      "date": "2026-10-21",
-      "placeId": "ChIJv6Lq7g_aCTERiYzE3phvZS4",
-      "placeName": "Phu Dung Pagoda",
-      "results": {
-        "facebookVideo": {
-          "id": "1498563025424879"
-        },
-        "instagramReel": {
-          "id": "17966011964979727"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-21",
-      "placeId": "ChIJCzimRUaRpzER1jlvynsq6ko",
-      "placeName": "Hộ Quốc Temple",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122129167767313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18146424370606288"
-        }
-      }
-    },
-    {
-      "date": "2026-10-21",
-      "placeId": "ChIJsWqZg7gfCDERVA6dihKWpho",
-      "placeName": "Vinwonders Fountain",
-      "results": {
-        "facebookVideo": {
-          "id": "1642409887435814"
-        },
-        "instagramReel": {
-          "id": "18089742611267810"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-21",
-      "placeId": "ChIJ-0XGzouOpzERbbOfSGDmmuU",
-      "placeName": "Tiên Sơn Đỉnh",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122129166783313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17893477836681975"
-        }
-      }
-    },
-    {
-      "date": "2026-10-21",
-      "placeId": "ChIJhzuiMZSNpzERWNr-SaAOJgQ",
-      "placeName": "Hải Sản 154",
-      "results": {
-        "facebookVideo": {
-          "id": "975356952295075"
-        },
-        "instagramReel": {
-          "id": "17990418171074945"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-21",
-      "placeId": "ChIJxxKldgCNpzERA-z1yNFjwLo",
-      "placeName": "Seafood Nails",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122129165769313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18028679780862682"
-        }
-      }
-    },
-    {
-      "date": "2026-10-21",
-      "placeId": "ChIJQZoz472XpzERETLpPPs-P8Y",
-      "placeName": "HẢI SẢN DƯƠNG ĐÔNG - QUÁN Di VIEW BIỂN CẦU CẢNG",
-      "results": {
-        "facebookVideo": {
-          "id": "1589668205642937"
-        },
-        "instagramReel": {
-          "id": "17930240067419712"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-21",
-      "placeId": "ChIJybqyDQCRpzER7ojvdd5xiqQ",
-      "placeName": "Bè Nắng - Quán Ăn Hải Sản Tươi Sống Trên Bè Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122129164755313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18575663449076143"
         }
       }
     }
