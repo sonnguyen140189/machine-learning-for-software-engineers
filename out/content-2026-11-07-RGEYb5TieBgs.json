@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists don't stop here. They should.\n\nQuốc Mẫu Hall sits inside Thiền viện Trúc Lâm Hộ Quốc, one of Phu Quoc's most serene temple complexes. Most visitors walk the main paths and leave. The ones who slow down find this hall, the incense, the quiet, the detail in every carved surface.\n\n4.6 stars. 113 reviews. Barely on anyone's itinerary.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Incense rising. Carved altars. Almost no tourists. This is Quốc Mẫu Hall inside Thiền viện Trúc Lâm Hộ Quốc and most people walk straight past it. 4.6 stars from the ones who didn't.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #TravelTips #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Quốc Mẫu Hall. 4.6 stars, 113 reviews, barely on the map.\n\nTag your travel buddy.",
+    "video_caption": "Walk past the main temple. Keep going. Quốc Mẫu Hall is what most tourists miss at Thiền viện Trúc Lâm Hộ Quốc.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocHidden"
+  },
+  "tiktok": {
+    "caption": "Nobody talks about this hall in Phu Quoc. 4.6 stars from the few who found it. #PhuQuoc #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Aerial pull-back over temple complex",
+      "Slow walk past main hall entrance",
+      "Close-up: incense smoke rising",
+      "Pan across carved altar detail",
+      "Wide shot: empty courtyard, one visitor",
+      "Text overlay: 4.6 stars, 113 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

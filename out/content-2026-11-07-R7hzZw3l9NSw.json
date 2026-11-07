@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this. Sùng Hưng Cổ Tự sits right on Đường Trần Hưng Đạo and most visitors never stop. One of Phu Quoc's oldest temples. Free to enter. Incense in the air, dragon carvings on every column, and almost no one else inside. That's the whole point. Save this for your Phu Quoc trip.",
+    "video_caption": "Dragon pillars, burning incense, zero crowds. Sùng Hưng Cổ Tự is steps from the main road and tourists keep walking. 4.4 stars. Completely free. Go early.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #VisitVietnam #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Sùng Hưng Cổ Tự. Free entry. Zero crowds. Don't be them.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Dragon carvings. Incense smoke. Free entry. Sùng Hưng Cổ Tự never makes the tourist lists. That's exactly why you go.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocHidden"
+  },
+  "tiktok": {
+    "caption": "Tourists walk past this every day. Sùng Hưng Cổ Tự. Free. Empty. Go. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Exterior gate shot, ornate roof detail",
+      "Slow pan up dragon-wrapped columns",
+      "Incense smoke rising, wide temple hall",
+      "Empty courtyard, tourist street visible outside",
+      "Close-up: offering altar, candles lit"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
