@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $30 for two people. At a 4.8-star restaurant on Đường Trần Hưng Đạo. That's Bơ restaurant & coffee doing things right.\n\n768 reviews don't lie. This place earns every star at a price that makes no sense for the quality.\n\nFood, coffee, and a bill that won't hurt. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the food land on this table. Bơ restaurant & coffee, Phu Quoc. 4.8 stars, $$ prices, 768 people already know. You're next.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $30 for two. Bơ restaurant & coffee is rated 4.8★ across 768 reviews. Do the math.\n\nTag your travel buddy.",
+    "video_caption": "4.8 stars. $$ prices. 768 reviews. Bơ restaurant & coffee just became your Phu Quoc lunch plan.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Under $30 for two at a 4.8-star spot in Phu Quoc. Bơ restaurant & coffee. Add it now. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $30. 4.8 stars. Phu Quoc.",
+    "scenes": [
+      "Exterior shot of Bơ on Đường Trần Hưng Đạo",
+      "Dishes arriving at the table, close-up",
+      "Coffee poured, steam rising, tight shot",
+      "Bill arrives, camera lingers on total",
+      "Reviewer rating 4.8 on screen, 768 count"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

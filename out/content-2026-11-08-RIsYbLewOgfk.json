@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,503 reviews. 4.7 stars. Inside VinWonders, Phú Quốc.\n\nNhà hàng Deepsea is not the place tourists accidentally walk into. You come here on purpose. Fresh seafood, serious portions, and a crowd that keeps coming back.\n\nIf you're already at VinWonders, this is the meal you book before you go. Not after.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.7 stars and 1,503 people can't all be ordering the wrong thing. Watch what lands on the table at Nhà hàng Deepsea inside VinWonders, Phú Quốc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.7 stars. 1,503 reviews. Nhà hàng Deepsea at VinWonders, Phú Quốc delivers.\n\nTag your travel buddy.",
+    "video_caption": "1,503 reviews pointing at one restaurant inside VinWonders, Phú Quốc. Here's what they're eating at Nhà hàng Deepsea.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "1,503 reviews at Nhà hàng Deepsea inside VinWonders Phú Quốc. Worth it? Watch. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "1,503 reviews. One restaurant.",
+    "scenes": [
+      "Exterior shot: Nhà hàng Deepsea sign",
+      "Pan across full dining room crowd",
+      "Close-up: fresh seafood arriving at table",
+      "Wide shot: VinWonders backdrop behind diners",
+      "Reaction shot: first bite, nod of approval"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

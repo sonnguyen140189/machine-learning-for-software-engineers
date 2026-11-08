@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "8,296 reviews. 4.8 stars. Hải sản Động Tôm Hùm earns every single one.\n\nThis is Phu Quoc's lobster cave experience. Live tanks, fresh-off-the-boat seafood, and a setting that justifies the $$$$ price tag. Budget $100+ per person and don't flinch. The grilled lobster alone makes the math work.\n\nOn 1 Đường Bạch Đằng. Book ahead.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Live lobsters. Giant tanks. 8,296 people rated this 4.8 stars and they were right. Hải sản Động Tôm Hùm on 1 Đường Bạch Đằng is the seafood meal you plan your whole trip around.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "8,296 reviews. 4.8 stars. Hải sản Động Tôm Hùm just hits different.\n\nBudget $100+. No regrets.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Live tanks. Fresh lobster. 4.8 stars from 8,296 people. Hải sản Động Tôm Hùm is the one splurge worth every dollar in Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "8,296 reviews and a 4.8 star rating. Hải sản Động Tôm Hùm is not a debate. #PhuQuoc #PhuQuocFood #SeafoodLovers"
+  },
+  "video_script": {
+    "hook": "8,296 reviews. 4.8 stars.",
+    "scenes": [
+      "Pan across live lobster tanks",
+      "Chef pulls lobster from water",
+      "Grill flames hit the seafood",
+      "Plate lands on candlelit table",
+      "Close-up: fork breaks into lobster"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

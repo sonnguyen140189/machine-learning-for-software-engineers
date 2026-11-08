@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Fresh seafood in Phu Quoc for under $30 a head. TUNA Restaurant on Trần Hưng Đạo is pulling 4.8 stars across 709 reviews and the prices still haven't caught up with its reputation. Order off the daily catch. Sit outside. Watch the boats. This is the meal you'll talk about at home. Save this for your Phu Quoc trip.",
+    "video_caption": "Grilled fish hitting the table at TUNA Restaurant. $15-30 a person. 4.8 stars. 709 people already know. Now you do too.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocSeafood #VisitVietnam #TravelTips #VietnamFood #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "Under $30 for fresh seafood at a 4.8-star spot. TUNA Restaurant delivers. Tag your travel buddy.",
+    "video_caption": "Seafood straight off the boat. $15-30. 709 reviews at 4.8 stars. Phu Quoc is not playing fair.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocTips #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #FoodieTravel"
+  },
+  "tiktok": {
+    "caption": "4.8 stars. 709 reviews. Fresh seafood under $30. TUNA Restaurant in Phu Quoc goes hard. #PhuQuoc #PhuQuocFood #VietnamTravel #SeafoodLovers"
+  },
+  "video_script": {
+    "hook": "Fresh seafood. Under $30. 4.8★.",
+    "scenes": [
+      "Exterior shot: TUNA Restaurant sign, waterfront setting",
+      "Close-up: whole grilled fish plated and smoking",
+      "Wide: table spread of seafood dishes",
+      "Hand reaching for prawns, sauce dripping",
+      "709-review rating pulled up on phone screen",
+      "Bill arrives: under $30 per person revealed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
