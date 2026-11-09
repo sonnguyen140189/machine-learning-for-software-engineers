@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Eating fresh seafood over the water at Hải Sản Dương Đông - Quán Di View Biển Cầu Cảng hits differently when the boats are docking right below you. This is Phu Quoc at its most real. $15-30 a head for a full spread. Grilled fish, cold beer, salt air. No resort markup, no tourist theater. 4.6 stars from people who actually found it. Save this for your Phu Quoc trip.",
+    "video_caption": "Boats coming in, grills fired up, plates landing on the table. Hải Sản Dương Đông - Quán Di View Biển Cầu Cảng puts you right on the pier. $15-30 a person for a seafood spread you'll talk about for weeks.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc seafood over the water, boats docking below your table. Hải Sản Dương Đông - Quán Di View Biển Cầu Cảng. $15-30/person. Tag your travel buddy.",
+    "video_caption": "Pier table. Fresh catch. Cold beer. Hải Sản Dương Đông - Quán Di View Biển Cầu Cảng delivers the real Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodReels"
+  },
+  "tiktok": {
+    "caption": "Seafood on the pier in Phu Quoc. $15-30/person. This is the vibe. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that feels real.",
+    "scenes": [
+      "Pan across pier, boats docking below",
+      "Close-up: whole grilled fish lands on table",
+      "Cold beer poured, condensation dripping",
+      "Wide shot: open-air dining, water beneath",
+      "Guest reacts, first bite, eyes close"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

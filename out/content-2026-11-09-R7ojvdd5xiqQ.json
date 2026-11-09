@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. Bè Nắng is a floating seafood raft on the water in Phu Quoc, and most visitors never find it. Fresh catch cooked to order, feet dangling over the sea, $15-30 a person. 4.6 stars from 169 reviews, mostly locals. That ratio matters. Find it on Đ. Trần Phú before the crowds do. Save this for your Phu Quoc trip.",
+    "video_caption": "Stepping onto a floating raft to eat grilled seafood. No resort restaurant. No tourist menu. Just locals, fresh fish, and open water. Bè Nắng hits different at $15-30 a head.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips #VietnamFood #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Bè Nắng. Floating seafood raft. Fresh catch. $15-30 a person. 4.6 stars. Save this.",
+    "video_caption": "Eating grilled seafood on a floating raft in Phu Quoc. $15-30. Locals only, until now.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocRestaurants"
+  },
+  "tiktok": {
+    "caption": "A floating seafood raft locals actually go to. Phu Quoc's Bè Nắng. $15-30. 4.6 stars. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't tell tourists this.",
+    "scenes": [
+      "Walk down Đ. Trần Phú waterfront",
+      "Step onto floating wooden raft",
+      "Show live seafood tanks up close",
+      "Grill smoking, fish sizzling on rack",
+      "Wide shot: open water, tables full of locals",
+      "Bill arrives: under $30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

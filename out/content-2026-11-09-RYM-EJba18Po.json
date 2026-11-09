@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 4,380 reviews. At a seafood spot right on Bãi Khem.\n\nAnn Seafood earns that rating every single service. Fresh catches, Phu Quoc flavors, and a crowd that keeps coming back. No gimmicks. Just really good seafood.\n\nIf you're staying near Bãi Khem, this is the dinner plan. Full stop.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the plates land at Ann Seafood. Fresh seafood, 4.8 stars, 4,380 people vouching for it. Bãi Khem just got a lot more interesting.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocFood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8★ from 4,380 reviews. Ann Seafood at Bãi Khem is not a fluke.\n\nFresh catches. Phu Quoc done right. Save this.",
+    "video_caption": "Plates hitting the table at Ann Seafood. 4,380 reviews at 4.8 stars. Bãi Khem delivers.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #BaiKhem #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocRestaurants"
+  },
+  "tiktok": {
+    "caption": "4.8 stars. 4,380 reviews. Ann Seafood at Bãi Khem lives up to every single one. #PhuQuoc #PhuQuocFood #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "4,380 reviews. 4.8 stars.",
+    "scenes": [
+      "Exterior shot: Ann Seafood sign at Bãi Khem",
+      "Tanks of live seafood, close-up",
+      "Chef plates fresh grilled prawns",
+      "Full table spread, steam rising",
+      "Packed dining room, happy diners",
+      "Fork hits seafood, slow pull back"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
