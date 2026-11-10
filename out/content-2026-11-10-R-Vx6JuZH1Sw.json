@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "3,551 reviews. 4.7 stars. Nhà hàng Vịnh Xanh Phú Quốc earns every one of them.\n\nFresh seafood, right on the water, on Đường Trần Hưng Đạo. This is the kind of meal you plan your whole day around. Budget for it. It hits $100+ per person and it is worth the conversation.\n\nBook ahead. It fills up fast. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the seafood arrive at Nhà hàng Vịnh Xanh Phú Quốc. 3,551 people rated this 4.7 stars. The spread explains why. Worth every dollar.",
+    "first_comment": "#PhuQuoc #PhuQuocSeafood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "3,551 reviews. 4.7 stars. Nhà hàng Vịnh Xanh Phú Quốc.\n\nBudget $100+. Book ahead. Save this.",
+    "video_caption": "Seafood landing at Nhà hàng Vịnh Xanh Phú Quốc. 4.7 stars from 3,551 people. This is why.",
+    "hashtags": "#PhuQuocSeafood #PhuQuocRestaurants #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodTravel"
+  },
+  "tiktok": {
+    "caption": "4.7 stars. 3,551 reviews. Nhà hàng Vịnh Xanh Phú Quốc delivers. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "3,551 reviews. 4.7 stars.",
+    "scenes": [
+      "Exterior shot, waterfront setting",
+      "Fresh seafood displayed on ice",
+      "Dishes plated and landing on table",
+      "Close-up: shellfish, sauce, steam",
+      "Wide table shot, full spread"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

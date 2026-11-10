@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk through Chợ đêm Phú Quốc once and leave. Locals come back every week. The difference? They know which stalls to hit. Grilled seafood priced for locals, not resorts. Fruit shakes squeezed to order. Souvenirs you won't find on the main strip. 6,680 reviews and it still feels like the real Phu Quoc after dark. Go hungry. Go late. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what happens when you skip the resort dinner and come here instead. Chợ đêm Phú Quốc after 7pm. Smoke, noise, real food, real prices. This is the night market your hotel didn't mention.",
+    "first_comment": "#PhuQuoc #PhuQuocNightMarket #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists walk through once. Locals come back every week. Chợ đêm Phú Quốc hits different after dark. Tag your travel buddy.",
+    "video_caption": "Grilled seafood, fruit shakes, zero resort prices. Chợ đêm Phú Quốc after 7pm. Don't skip this.",
+    "hashtags": "#PhuQuocNightMarket #PhuQuocFood #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Your hotel won't mention this. Chợ đêm Phú Quốc after dark hits different. #PhuQuoc #PhuQuocNightMarket #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "What locals actually do at night",
+    "scenes": [
+      "Wide shot: market entrance, crowds pouring in",
+      "Close-up: seafood grilling on open flames",
+      "Vendor squeezing fresh fruit shakes",
+      "Stalls packed with local shoppers, not tourists",
+      "Overhead shot: lights, smoke, full market energy"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

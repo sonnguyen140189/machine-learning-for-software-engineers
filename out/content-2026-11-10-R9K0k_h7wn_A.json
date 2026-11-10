@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered down Trần Hưng Đạo and found thì là. 4.7 stars. 1,269 reviews. And somehow still not on every tourist list. Vietnamese food done right, priced at $15-30 a head. Order, sit, eat slowly. This is the kind of place you come back to twice in one trip. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into thì là and the food hits before you even sit down. 4.7 stars from 1,269 people, and the bill still lands under $30. Phu Quoc eating, done right.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found thì là on Trần Hưng Đạo. 4.7★, 1,269 reviews, under $30 a head. Tag your travel buddy.",
+    "video_caption": "thì là in Phu Quoc. 4.7 stars. The food does the talking. Under $30.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Found thì là on Trần Hưng Đạo. 4.7★, 1,269 reviews, under $30. Do not walk past this. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you found thì là",
+    "scenes": [
+      "Street-level shot of 43 Trần Hưng Đạo sign",
+      "Push through the entrance, busy tables",
+      "Close-up: dishes landing on the table",
+      "Fork lifts food, steam rises",
+      "Bill arrives, under $30"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

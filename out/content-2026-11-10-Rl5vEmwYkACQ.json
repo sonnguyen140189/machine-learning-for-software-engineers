@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10 for a bowl of phở in Phu Quoc. Phở Lý Quốc Sư on Đ. 30 Tháng 4 is pulling 4.6 stars across 517 reviews and barely anyone talks about it. Rich broth, local crowd, zero tourist markup. This is the kind of bowl that makes you cancel your resort dinner. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the broth hit the bowl at Phở Lý Quốc Sư. 4.6 stars, 517 reviews, under $10. The locals eating here at 7am are telling you everything you need to know.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $10 for THIS bowl. Phở Lý Quốc Sư, 4.6★, 517 reviews. No tourist markup. Just broth.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "517 locals rated this phở 4.6 stars. It costs under $10. Your resort breakfast can wait.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Under $10 phở with 517 reviews in Phu Quoc. Phở Lý Quốc Sư hits different. #PhuQuoc #PhuQuocFood #VietnamFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $10 phở. Phu Quoc.",
+    "scenes": [
+      "Exterior shot: busy local street, sign visible",
+      "Broth ladled steaming into white bowl",
+      "Herbs, bean sprouts, lime added tableside",
+      "Close-up: chopsticks lifting noodles",
+      "Pan to packed tables, local diners only",
+      "Price receipt or menu shown on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
