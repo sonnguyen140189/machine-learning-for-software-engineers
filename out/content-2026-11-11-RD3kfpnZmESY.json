@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "8,196 reviews. 4.6 stars. And most tourists book somewhere else.\n\nSol by Meliá Phu Quoc sits right on Đường Bào with beach views, 3 restaurants, 2 bars, and a pool that actually gets quiet mid-morning. Rooms are bright, suites are legit, and the whole property runs smooth.\n\nIf your Phu Quoc trip needs a solid base that won't disappoint, this one delivers. Save this for your Phu Quoc trip.",
+    "video_caption": "Pool. Beach views. 3 restaurants on-site. Sol by Meliá Phu Quoc has 8,196 reviews for a reason. Watch what you get for a 4.6-star stay on the island.",
+    "first_comment": "#PhuQuoc #PhuQuocHotels #VisitVietnam #TravelTips #ThingsToDoPhuQuoc"
+  },
+  "instagram": {
+    "caption": "8,196 reviews. 4.6 stars. Sol by Meliá Phu Quoc earns both.\n\nBeach views, pool, 3 restaurants. Save this for your Phu Quoc trip.",
+    "video_caption": "4.6 stars across 8,196 reviews. This is what Sol by Meliá Phu Quoc actually looks like. Pool, beach views, 3 on-site restaurants.",
+    "hashtags": "#PhuQuocHotels #PhuQuocResort #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "8,196 reviews and still flies under the radar. Sol by Meliá Phu Quoc hits different. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "8,196 reviews. 4.6 stars.",
+    "scenes": [
+      "Aerial pan over beachfront property",
+      "Bright suite reveal, natural light flooding in",
+      "Pool mid-morning, almost no one there",
+      "Bar pours drinks, ocean visible behind",
+      "Restaurant table set, 3 dining options shown",
+      "Guest walks out to beach view at sunrise"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

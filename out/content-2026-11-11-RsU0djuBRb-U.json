@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you booked the Bãi Dài stretch before the crowds found it. Sheraton Phu Quoc Long Beach Resort sits right on one of the longest, least-developed beaches on the island. 4.5 stars across 2,598 reviews. The kind of property that earns that rating quietly. No gimmicks. Just beach, pool, and space to actually switch off. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking out of the lobby straight onto Bãi Dài. No crowd. No noise. Just that beach. Sheraton Phu Quoc Long Beach Resort. 4.5 stars. 2,598 people agree. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: your hotel backs onto Bãi Dài and the beach is almost empty. Sheraton Phu Quoc Long Beach Resort. 4.5★, 2,598 reviews. Save this.",
+    "video_caption": "Stepped onto Bãi Dài from the resort. Nobody around. This is the Phu Quoc people are chasing.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "POV: beachfront resort, Bãi Dài, almost no one around. 4.5★ for a reason. #PhuQuoc #PhuQuocResort #BaiDai #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: best beach in Phu Quoc.",
+    "scenes": [
+      "Drone pulls back from shoreline",
+      "Resort entrance, wide and open",
+      "Bare feet hit Bãi Dài sand",
+      "Empty pool facing the ocean",
+      "Review count flashes on screen: 2,598"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

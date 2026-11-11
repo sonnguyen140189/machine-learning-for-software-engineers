@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.6 stars on Trần Hưng Đạo. Only 80 reviews. That ratio means something.\n\nM Villas Beach Bar is sitting on one of Phu Quoc's main strips and still flying under the radar. Cold drinks, beach bar energy, and a crowd that actually knows where to go.\n\nIf your Phu Quoc itinerary doesn't have a beach bar sunset block, fix that.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Beach bar. 4.6 stars. Barely 80 people have reviewed it. Watch what you've been walking past on Trần Hưng Đạo every single day.",
+    "first_comment": "#PhuQuoc #PhuQuocBar #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.6 stars. Only 80 reviews. M Villas Beach Bar is slipping past most tourists on Trần Hưng Đạo.\n\nTag your travel buddy.",
+    "video_caption": "80 reviews and a 4.6. This beach bar on Trần Hưng Đạo is criminally underrated.",
+    "hashtags": "#PhuQuocBar #PhuQuocBeaches #PhuQuocTips #PhuQuocNightlife #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.6 stars. Only 80 reviews. M Villas Beach Bar is the one tourists keep skipping. #PhuQuoc #PhuQuocBar #BeachBar #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.6 stars. 80 reviews.",
+    "scenes": [
+      "Pan down Trần Hưng Đạo strip",
+      "Stop at M Villas Beach Bar sign",
+      "Wide shot of bar facing the beach",
+      "Close-up of cold drink on counter",
+      "Golden hour light hitting the water"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the main strip. Locals point you to Ong Lang Beach instead.\n\nMövenpick Villas & Residences Phu Quoc sits right on it. 4.7 stars across 3,003 reviews. Villas, not just rooms. Private residences, not just a hotel block.\n\nOng Lang runs quieter, greener, and far less crowded than the south coast. This is the version of Phu Quoc people come back for.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Ong Lang Beach at sunrise, no crowds in sight. Mövenpick Villas & Residences Phu Quoc wakes up like this every morning. 4.7 stars. 3,003 reviews. The quieter side of the island finally gets the resort it deserves.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #OngLangBeach #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists book the south. Locals point to Ong Lang Beach.\n\nMövenpick Villas & Residences Phu Quoc. 4.7★, 3,003 reviews. Tag your travel buddy.",
+    "video_caption": "Villas on a quiet beach. 4.7 stars. This is the Phu Quoc the south coast tourists never find.",
+    "hashtags": "#PhuQuocResort #OngLangBeach #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelReels #TravelTips"
+  },
+  "tiktok": {
+    "caption": "Skip the crowded south coast. Ong Lang Beach hits different. Mövenpick Phu Quoc, 4.7★ #PhuQuoc #PhuQuocResort #OngLangBeach #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists keep missing this beach.",
+    "scenes": [
+      "Aerial pan over Ong Lang Beach, zero crowds",
+      "Resort entrance, lush greenery lining the path",
+      "Villa interior, floor-to-ceiling windows facing sea",
+      "Guest walking barefoot to the waterline at sunrise",
+      "Review count flashes on screen: 4.7★ 3,003 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Sunset Sanato Beach Club hits different when the sky turns orange over the water. Cold drink in hand, feet in sand, zero agenda. $15-30 a head for vibes this good is a deal. 2,692 people have already figured this out. Save this for your Phu Quoc trip.",
+    "video_caption": "Sky goes orange. Music drops low. Your drink sweats on the table. This is Sunset Sanato Beach Club doing its thing, and it works every single time.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #SunsetPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Sunset Sanato Beach Club. $15-30. Worth every cent. Tag your travel buddy.",
+    "video_caption": "Sun melts into the sea. Drink hits the table. Sunset Sanato Beach Club, no further explanation needed.",
+    "hashtags": "#PhuQuocBeach #SunsetPhuQuoc #PhuQuocTips #PhuQuocBar #VietnamTravel #TravelTips #TravelReels #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Burnout cure found. Sunset Sanato Beach Club delivering. $15-30 and the sky does the rest. #PhuQuoc #PhuQuocTips #SunsetVibes #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: beach club at golden hour",
+      "Bartender pours drink, condensation drips",
+      "Camera pans across crowd watching sunset",
+      "Close-up: glass raised against orange sky",
+      "Pull back: full beach club view, lights on"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

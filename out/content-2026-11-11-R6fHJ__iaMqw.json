@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 203 reviews. On a backstreet in Ông Lang.\n\nPeace Corner Coffee & Homemade Food is not on the main strip. That's the point. Real homemade cooking, strong coffee, and a bill that lands well under $30 for two people.\n\nĐường Dinh Bà is easy to miss. Don't miss it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the plate land. Homemade food, Ông Lang backstreet, 4.9 stars from 203 people who found Peace Corner Coffee & Homemade Food. Your turn.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 203 reviews. A backstreet in Ông Lang.\n\nPeace Corner Coffee & Homemade Food. Under $30 for two. Save this.",
+    "video_caption": "Backstreet Phu Quoc. Homemade plates. 4.9 stars. Peace Corner delivers every time.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #OngLang #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocRestaurant"
+  },
+  "tiktok": {
+    "caption": "4.9 stars on a backstreet in Ông Lang. Peace Corner hits different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9 stars. Backstreet Ông Lang.",
+    "scenes": [
+      "Ride down Đường Dinh Bà, low traffic",
+      "Exterior of Peace Corner sign",
+      "Coffee poured, steam rising close-up",
+      "Homemade plate set on table",
+      "Two-person meal, bill shown under $30"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past 40six Beach Haus. That's exactly why you should stop.\n\nBeach bar on ĐT45. 4.6 stars across 650 reviews. $15-30 a head. Cold drinks, food that actually delivers, and a crowd that isn't all resort guests.\n\nPhu Quoc has a lot of beachside spots. Few hit this consistently. Save this for your Phu Quoc trip.",
+    "video_caption": "Cold drink in hand, feet near the sand at 40six Beach Haus. 650 reviews say this place is worth the stop on ĐT45. $15-30 a person and no resort markup. This is the Phu Quoc locals keep quiet about.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #PhuQuocFood #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Locals don't post about 40six Beach Haus. 4.6 stars, 650 reviews, $15-30 a head on ĐT45.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Beach bar energy on ĐT45. 40six Beach Haus is what Phu Quoc eats keep quiet. 4.6 stars. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels"
+  },
+  "tiktok": {
+    "caption": "The beach bar Phu Quoc keeps quiet. 40six Beach Haus. 4.6★, $15-30 a head. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Pan across 40six Beach Haus sign on ĐT45",
+      "Bartender pours cold drink, condensation drips",
+      "Plate of food lands on table, close-up shot",
+      "Pull back to show beach setting, real crowd",
+      "Flash the 4.6 star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
