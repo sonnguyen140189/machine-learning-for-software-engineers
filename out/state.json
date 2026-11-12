@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJaV6sC_KLpzERlAdjMI0q54s",
+    "ChIJCcDXjO2NpzERpuULcuYBz_U",
+    "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
+    "ChIJhwi1TFqTpzERiZQmfO7PxUY",
+    "ChIJoXjKmgSNpzERianh5FZP7WE",
+    "ChIJB4_swjiNpzER0vsGaMBGTxg",
+    "ChIJHaad39SNpzERxyH_xEG63Kg",
+    "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
+    "ChIJBzbuPzwkCDER2xazM7W1GSc",
+    "ChIJv6Lq7g_aCTERiYzE3phvZS4",
+    "ChIJCzimRUaRpzER1jlvynsq6ko",
+    "ChIJ4b-mBReLpzERO-pqk4mlARM",
     "ChIJLS6KuYmLpzER6fHJ__iaMqw",
     "ChIJX5g8DI6NpzERD3kfpnZmESY",
     "ChIJX3VOsa2NpzERsU0djuBRb-U",
@@ -187,21 +199,189 @@
     "ChIJ-RvbtGiNpzER2H1IufKqjGc",
     "ChIJ-zqn9WCMpzER2Ko070p2nyo",
     "ChIJkX-ZsFiTpzER9TM2r77QY5g",
-    "ChIJq31LD1-MpzERdIuwa2Bg2ok",
-    "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
-    "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
-    "ChIJAz1J0-mNpzERyQ40GMjmouI",
-    "ChIJ06-yPMWNpzERvRqJgvDuNe8",
-    "ChIJXWhyEQ-LpzER8jVR0IFy6YU",
-    "ChIJEYK7sD6LpzERgAa_oy1mPEg",
-    "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
-    "ChIJ31mASN6NpzERb74nK1CMQBs",
-    "ChIJfcl6s46NpzERvFpgYpkmGe0",
-    "ChIJixiLeACNpzER0bDJkqmR1Ac",
-    "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
-    "ChIJM7ZmjUmNpzERLAWS1d-uWFA"
+    "ChIJq31LD1-MpzERdIuwa2Bg2ok"
   ],
   "history": [
+    {
+      "date": "2026-11-12",
+      "placeId": "ChIJaV6sC_KLpzERlAdjMI0q54s",
+      "placeName": "Kayaking Dynasty",
+      "results": {
+        "facebookVideo": {
+          "id": "3855416561263719"
+        },
+        "instagramReel": {
+          "id": "17958400236271011"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "placeId": "ChIJCcDXjO2NpzERpuULcuYBz_U",
+      "placeName": "Thuê cano riêng -FISHING TOUR",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133222705313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17931292644425047"
+        }
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "placeId": "ChIJqd0nQ8SNpzERSxVeIRn2Aes",
+      "placeName": "Phu Quoc Local Guide - Snorkeling and Scuba Diving",
+      "results": {
+        "facebookVideo": {
+          "id": "1115845068090317"
+        },
+        "instagramReel": {
+          "id": "17940058557127542"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "placeId": "ChIJhwi1TFqTpzERiZQmfO7PxUY",
+      "placeName": "Rooty Trip Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133221577313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18027310283877196"
+        }
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "placeId": "ChIJoXjKmgSNpzERianh5FZP7WE",
+      "placeName": "Kimie's Tours - Phu Quoc snorkeling",
+      "results": {
+        "facebookVideo": {
+          "id": "1737977757303113"
+        },
+        "instagramReel": {
+          "id": "18361236010219168"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "placeId": "ChIJB4_swjiNpzER0vsGaMBGTxg",
+      "placeName": "Onbird Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133220671313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18085758629346209"
+        }
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "placeId": "ChIJHaad39SNpzERxyH_xEG63Kg",
+      "placeName": "Pacific Boat",
+      "results": {
+        "facebookVideo": {
+          "id": "1907459813569355"
+        },
+        "instagramReel": {
+          "id": "17911144572604333"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "placeId": "ChIJuV0Hp8KNpzER0WP9kmtfxoo",
+      "placeName": "Into The Blue - Phu Quoc Snorkeling Boat Trip",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133219669313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18110891222369380"
+        }
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "placeId": "ChIJBzbuPzwkCDER2xazM7W1GSc",
+      "placeName": "Thom Beach Bar",
+      "results": {
+        "facebookVideo": {
+          "id": "1135820012505742"
+        },
+        "instagramReel": {
+          "id": "17976579213177047"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "placeId": "ChIJv6Lq7g_aCTERiYzE3phvZS4",
+      "placeName": "Phu Dung Pagoda",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133218601313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18119088200006878"
+        }
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "placeId": "ChIJCzimRUaRpzER1jlvynsq6ko",
+      "placeName": "Hộ Quốc Temple",
+      "results": {
+        "facebookVideo": {
+          "id": "1162045282923642"
+        },
+        "instagramReel": {
+          "id": "18131981932854788"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "placeId": "ChIJ4b-mBReLpzERO-pqk4mlARM",
+      "placeName": "Tree House Phu Quoc Restaurant and Coffee",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133217497313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18110697380631481"
+        }
+      }
+    },
     {
       "date": "2026-11-11",
       "placeId": "ChIJLS6KuYmLpzER6fHJ__iaMqw",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18144934210607117"
-        }
-      }
-    },
-    {
-      "date": "2026-10-27",
-      "placeId": "ChIJk8Lp8MmNpzERTG_Ze_CHtp0",
-      "placeName": "Aloha Beach Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "2920894668288368"
-        },
-        "instagramReel": {
-          "id": "18116707079583911"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-27",
-      "placeId": "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
-      "placeName": "House No. 1",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130610521313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17977528308149348"
-        }
-      }
-    },
-    {
-      "date": "2026-10-27",
-      "placeId": "ChIJAz1J0-mNpzERyQ40GMjmouI",
-      "placeName": "The Cheeky Traveller English Pub & Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1139140422384568"
-        },
-        "instagramReel": {
-          "id": "18217517422360120"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-27",
-      "placeId": "ChIJ06-yPMWNpzERvRqJgvDuNe8",
-      "placeName": "Origin 1982 - Speakeasy bar in The last old house (1982)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130609621313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18114183458146607"
-        }
-      }
-    },
-    {
-      "date": "2026-10-26",
-      "placeId": "ChIJXWhyEQ-LpzER8jVR0IFy6YU",
-      "placeName": "Anh Duyen Boat Rental",
-      "results": {
-        "facebookVideo": {
-          "id": "1652000549644905"
-        },
-        "instagramReel": {
-          "id": "18081603644711942"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-26",
-      "placeId": "ChIJEYK7sD6LpzERgAa_oy1mPEg",
-      "placeName": "Basket Boat Tour & Kayak Tour (Dynasty Phu Quoc)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130458721313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18198830803389572"
-        }
-      }
-    },
-    {
-      "date": "2026-10-26",
-      "placeId": "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
-      "placeName": "Ham Ninh fishing town",
-      "results": {
-        "facebookVideo": {
-          "id": "891882740586726"
-        },
-        "instagramReel": {
-          "id": "18344022898287132"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-26",
-      "placeId": "ChIJ31mASN6NpzERb74nK1CMQBs",
-      "placeName": "Công Viên Bạch Đằng (Dinh Cậu )",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130457389313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17941953234380291"
-        }
-      }
-    },
-    {
-      "date": "2026-10-26",
-      "placeId": "ChIJfcl6s46NpzERvFpgYpkmGe0",
-      "placeName": "Chợ Dương Đông Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "2160888224515848"
-        },
-        "instagramReel": {
-          "id": "18104398031640039"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-26",
-      "placeId": "ChIJixiLeACNpzER0bDJkqmR1Ac",
-      "placeName": "LOCA - Night Market",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130456483313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18028248395882390"
-        }
-      }
-    },
-    {
-      "date": "2026-10-26",
-      "placeId": "ChIJ-y3_pUSLpzERdA_J9w9GuiM",
-      "placeName": "FUSION Treats",
-      "results": {
-        "facebookVideo": {
-          "id": "2609739112882572"
-        },
-        "instagramReel": {
-          "id": "17956678179278286"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-26",
-      "placeId": "ChIJM7ZmjUmNpzERLAWS1d-uWFA",
-      "placeName": "NINH KITCHEN - VIETNAMESE CUISINE",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130455481313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18130530367789099"
         }
       }
     }
