@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,571 reviews. Every single one is 5 stars. That's not luck. That's Onbird Phu Quoc.\n\nThis tour agency runs day trips, island-hopping routes, and local experiences that actually deliver. No filler stops. No rushed itineraries. Just people who know Phu Quoc cold.\n\nIf you're planning tours for your trip, this is the name to book. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what happens when a tour agency has 1,571 five-star reviews. Onbird Phu Quoc keeps showing up for every single traveler. Here's why the reviews don't lie.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocIsland #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "1,571 reviews. 5.0 stars. Zero exceptions. Onbird Phu Quoc earns every one.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "5.0 stars across 1,571 bookings. Onbird Phu Quoc does not miss. Book before your dates fill up.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocIsland #VietnamTravel #TravelTips #TravelReels #PhuQuocActivities"
+  },
+  "tiktok": {
+    "caption": "1,571 reviews. All 5 stars. Onbird Phu Quoc is built different. #PhuQuoc #PhuQuocTours #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "1,571 reviews. All 5 stars.",
+    "scenes": [
+      "Scroll through perfect 5-star ratings",
+      "Boat launches into open water",
+      "Group steps onto a secluded island",
+      "Guide points out local landmarks",
+      "Travelers react, smiles, thumbs up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

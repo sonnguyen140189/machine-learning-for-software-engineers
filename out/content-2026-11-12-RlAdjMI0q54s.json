@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc at water level hits different. No engine noise. No resort pool. Just you, a paddle, and whatever the mangroves are hiding around the next bend. Kayaking Dynasty gets you out there without the crowds. 4.4 stars from 53 paddlers who came back sun-tired and smiling. Save this for your Phu Quoc trip.",
+    "video_caption": "Paddle out. Let the mangroves close in behind you. This is what slow travel actually looks like in Phu Quoc. Kayaking Dynasty. Worth every stroke.",
+    "first_comment": "#PhuQuoc #PhuQuocActivities #KayakingPhuQuoc #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc at water level hits different. Kayaking Dynasty. 4.4 stars. Zero engine noise. Tag your travel buddy.",
+    "video_caption": "Paddle into the mangroves. No crowds. Just this. Kayaking Dynasty, Phu Quoc.",
+    "hashtags": "#PhuQuocActivities #KayakingPhuQuoc #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #OutdoorVietnam"
+  },
+  "tiktok": {
+    "caption": "No resort pool needed. Just a paddle and the mangroves. Kayaking Dynasty Phu Quoc 🛶 #PhuQuoc #PhuQuocActivities #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This fixes burnout instantly.",
+    "scenes": [
+      "Hands grip paddle, water calm and glassy",
+      "Kayak glides into narrow mangrove channel",
+      "Branches close overhead, light filters through",
+      "Wide shot: two kayaks, open bay, no boats",
+      "Close-up: paddler grins, shoulders drop"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

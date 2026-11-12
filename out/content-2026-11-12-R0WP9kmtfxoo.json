@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 590 reviews. Zero complaints.\n\nInto The Blue on 100 Đường Trần Hưng Đạo is running a perfect score on one of the most competitive boat trip routes in Phu Quoc. That doesn't happen by accident.\n\nSnorkeling, coral, open water. The kind of trip that actually delivers what the photos promise.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Jumping off the boat into clear blue water. 590 people gave this trip a perfect 5.0. Watch why Into The Blue keeps that score.",
+    "first_comment": "#PhuQuoc #PhuQuocSnorkeling #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocBoatTrip #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 590 reviews. Into The Blue is running a perfect score.\n\nTag your travel buddy.",
+    "video_caption": "Boat drops anchor. Mask on. Straight into the coral. Into The Blue, Phu Quoc. Perfect 5.0 for a reason.",
+    "hashtags": "#PhuQuocSnorkeling #PhuQuocBoatTrip #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "590 reviews. Perfect 5.0. Into The Blue delivers. #PhuQuoc #PhuQuocSnorkeling #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5.0★. 590 reviews. Perfect.",
+    "scenes": [
+      "Boat cruising open blue water",
+      "Gear handed out on the deck",
+      "Diver rolls off the side",
+      "Underwater coral reef wide shot",
+      "Smiling tourists surface, thumbs up",
+      "5.0 star rating shown on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

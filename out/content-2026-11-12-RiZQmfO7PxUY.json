@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the big-name tour operators. Locals point you to Rooty Trip Phú Quốc.\n\n4.8 stars across 1,072 reviews. That's not luck. That's a team that actually knows this island.\n\nDay trips, island hopping, snorkeling, custom itineraries. All run by people who live here year-round.\n\nStreet address: 191 Đường Trần Hưng Đạo, Cửa Lấp.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch what happens when you skip the resort tour desk and book with Rooty Trip Phú Quốc instead. 4.8 stars. 1,072 reviews. The locals already knew.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't book the resort tours. They use Rooty Trip Phú Quốc.\n4.8★, 1,072 reviews. Save this.",
+    "video_caption": "4.8 stars. 1,072 reviews. Rooty Trip Phú Quốc is what the resort desk doesn't mention.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #IslandLife"
+  },
+  "tiktok": {
+    "caption": "Skip the resort tour desk. Rooty Trip Phú Quốc. 4.8★ 1,072 reviews. #PhuQuoc #PhuQuocTours #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't tell tourists this.",
+    "scenes": [
+      "Zoom in: 4.8★ rating on screen",
+      "Scroll through 1,072 review stars",
+      "Staff prepping boats at sunrise",
+      "Snorkeling footage, crystal water",
+      "Group boarding boat, smiling"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

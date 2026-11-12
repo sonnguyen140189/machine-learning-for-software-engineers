@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists don't make it this far north. Thom Beach Bar sits in Bãi Thơm, the quiet end of Phu Quoc that most visitors never reach. 4.5 stars, 378 reviews, almost zero crowds. Cold drinks, sand between your toes, and a coastline that actually feels untouched. This is the version of Phu Quoc people are chasing. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into Thom Beach Bar and the only sound is waves. No beach clubs. No DJ sets. Just Bãi Thơm doing its thing. 4.5 stars and nobody talks about it.",
+    "first_comment": "#PhuQuoc #PhuQuocBeach #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #BeachBarPhuQuoc"
+  },
+  "instagram": {
+    "caption": "Tourists don't make it to Bãi Thơm. 4.5★, 378 reviews, zero crowds. Thom Beach Bar is the Phu Quoc find you actually want. Save this.",
+    "video_caption": "Cold drink. Empty beach. Thom Beach Bar in Bãi Thơm hits different when you're the only one there.",
+    "hashtags": "#PhuQuocBeach #PhuQuocTips #BaiThom #VietnamTravel #TravelTips #TravelReels #PhuQuocVibes #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "Nobody talks about Thom Beach Bar in Bãi Thơm. 4.5★ and always quiet. #PhuQuoc #PhuQuocTips #VietnamTravel #BaiThom"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Drone pulls back over empty coastline",
+      "Feet hit sand, bar sign comes into frame",
+      "Close-up: cold drink sweating in sunlight",
+      "Wide shot: empty beach chairs, calm water",
+      "Pan across 4.5-star rating on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

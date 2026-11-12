@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists don't find Tree House Phu Quoc Restaurant and Coffee. It's on a back road in Ông Lang, away from the main strip, and that's exactly the point. 4.7 stars across 1,231 reviews. Meals run $15-30 a person. The kind of place that earns repeat visits, not influencer flybys. Save this for your Phu Quoc trip.",
+    "video_caption": "A treehouse restaurant hiding in Ông Lang. 4.7 stars. 1,231 people already know. Now you do too. Tree House Phu Quoc Restaurant and Coffee, worth every minute of the detour.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamFood #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this. Tree House Phu Quoc, Ông Lang. 4.7 stars, 1,231 reviews. $15-30 a head. Tag your travel buddy.",
+    "video_caption": "A treehouse café tucked in Ông Lang. 4.7 stars and most tourists never find it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #OngLang #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VietnamFood"
+  },
+  "tiktok": {
+    "caption": "The restaurant tourists walk past every day in Ông Lang. Big mistake. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep missing this.",
+    "scenes": [
+      "Drone pulls back over Ông Lang road",
+      "Sign appears through tree cover",
+      "Wide shot of open-air treehouse seating",
+      "Food arrives at table, close-up",
+      "4.7 star rating graphic fades in",
+      "Guest looks out from treetop level"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

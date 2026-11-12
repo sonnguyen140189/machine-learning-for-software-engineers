@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Locals don't book the group tour boat. They rent their own.\n\nThuê cano riêng -FISHING TOUR on Trần Hưởng Đạo lets you skip the crowded party boats and get out on the water solo. Private canoe. Your schedule. Real fishing.\n\n5.0 stars from every single person who's been. That's not luck.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Private boat. Zero crowds. Watch the lines drop into open water off Phu Quoc at Thuê cano riêng -FISHING TOUR. This is what most tourists never find.",
+    "first_comment": "#PhuQuoc #PhuQuocFishing #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals rent private. Tourists take the group boat. Big difference.\n\nThuê cano riêng -FISHING TOUR. 5.0★. Tag your travel buddy.",
+    "video_caption": "Your own boat. Your own catch. Thuê cano riêng -FISHING TOUR hits different when there's no one else on board.",
+    "hashtags": "#PhuQuocFishing #PhuQuocTips #PhuQuocActivities #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Skip the tourist boat. Go private. Thuê cano riêng -FISHING TOUR in Phu Quoc. 5.0★ for a reason. #PhuQuoc #FishingTour #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Locals don't do group tours.",
+    "scenes": [
+      "Pan across empty open water at sunrise",
+      "Private canoe engine starting up at dock",
+      "Fishing line dropping into clear green water",
+      "Close-up: fresh catch pulled onto the boat",
+      "Wide shot: solo boat, no crowd, open horizon"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

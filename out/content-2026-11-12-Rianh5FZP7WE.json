@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the big boat operators. Locals point you to Kimie's Tours.\n\n5.0 stars. 285 reviews. On Đường Trần Hưng Đạo in Phú Quốc, not the resort strip. Small group snorkeling the way it should be, reefs that aren't wrecked by crowds.\n\nIf you're planning a water day, this is the one to book first. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what happens when you skip the giant tourist boats. Kimie's Tours, 5.0 stars, 285 reviews. Small group. Real reefs. Đường Trần Hưng Đạo, Phú Quốc.",
+    "first_comment": "#PhuQuoc #PhuQuocSnorkeling #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTours #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals don't book the big boats. They book Kimie's Tours.\n\n5.0★, 285 reviews. Small group snorkeling on Đường Trần Hưng Đạo. Save this.",
+    "video_caption": "5.0 stars. 285 reviews. Skip the crowd boats. Kimie's Tours is the move.",
+    "hashtags": "#PhuQuocSnorkeling #PhuQuocTours #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #ThingsToDoPhuQuoc #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Locals skip the big tourist boats and go here instead. 5.0 stars says it all. #PhuQuoc #PhuQuocSnorkeling #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't book the big boats.",
+    "scenes": [
+      "Boat pulling away from Đường Trần Hưng Đạo dock",
+      "Small group gearing up with snorkels",
+      "Underwater: reef fish, clear water",
+      "GoPro POV: diver descending into blue",
+      "Review screen: 5.0 stars, 285 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

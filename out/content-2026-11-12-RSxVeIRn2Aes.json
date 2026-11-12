@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you booked a snorkel tour and got a 4.9-star guide instead of a cattle-boat operation.\n\nPhu Quoc Local Guide at 94 Nguyễn Trung Trực delivers the kind of underwater trip where the guide actually knows the reef. Small groups. Real coral. Not the same churned-up spots every resort pushes.\n\n4.9 stars across 65 reviews says everything.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Mask on, fins in. This is what a 4.9-star snorkel guide looks like in Phu Quoc. Skip the resort package and book the real thing at 94 Nguyễn Trung Trực. Worth every minute underwater.",
+    "first_comment": "#PhuQuoc #PhuQuocSnorkeling #ScubaDivingPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: you found the 4.9-star snorkel guide tourists walk past.\n\n94 Nguyễn Trung Trực. Small groups. Real reef. Tag your dive buddy.",
+    "video_caption": "Fins on. 4.9 stars. This Phu Quoc snorkel guide hits different. 94 Nguyễn Trung Trực.",
+    "hashtags": "#PhuQuocSnorkeling #ScubaDivingPhuQuoc #PhuQuocTips #PhuQuocOcean #VietnamTravel #TravelTips #TravelReels #DivingVietnam"
+  },
+  "tiktok": {
+    "caption": "POV: found the 4.9-star snorkel guide in Phu Quoc nobody talks about. 94 Nguyễn Trung Trực #PhuQuoc #SnorkelingVietnam #PhuQuocTips #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.9★ snorkel guide. Phu Quoc.",
+    "scenes": [
+      "Diver gears up at 94 Nguyễn Trung Trực",
+      "Small boat pulls away from shore",
+      "Underwater: guide points at live coral",
+      "School of fish fills the frame",
+      "Surfacing, diver gives thumbs up"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

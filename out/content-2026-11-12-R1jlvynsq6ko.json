@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you drove past the resort strip and found Hộ Quốc Temple instead.\n\n4.7 stars. 1,488 reviews. And most tourists never make it here.\n\nThe dragons on the gate alone are worth the detour. Incense smoke, terraced pavilions, ocean views behind the altars. It hits different when you're the only foreigner in the frame.\n\nAdd this to your itinerary before you book another beach club.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walking through the main gate of Hộ Quốc Temple while every tourist heads to the beach. 4.7 stars, 1,488 reviews, and somehow still this peaceful. Phu Quoc delivers.",
+    "first_comment": "#PhuQuoc #PhuQuocTemple #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #PhuQuocTips #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you skipped the beach clubs and found Hộ Quốc Temple. 4.7★, 1,488 reviews, zero crowds.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Dragon gates. Incense smoke. Ocean behind the altars. Hộ Quốc Temple just changed my whole Phu Quoc day.",
+    "hashtags": "#PhuQuocTemple #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland #BuddhistTemple"
+  },
+  "tiktok": {
+    "caption": "took a wrong turn on Phu Quoc. found Hộ Quốc Temple. 4.7★ and I had it almost to myself 🐉 #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: best detour in Phu Quoc",
+    "scenes": [
+      "Slow push into dragon-flanked gate",
+      "Incense smoke rising over altars",
+      "Tilt up terraced pavilion levels",
+      "Wide shot: ocean visible behind temple",
+      "Close-up: intricate roof tile carvings",
+      "Single visitor dwarfed by main hall"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

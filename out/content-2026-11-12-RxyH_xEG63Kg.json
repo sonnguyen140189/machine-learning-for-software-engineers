@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking Đường Trần Hưng Đạo and spot Pacific Boat before the crowds do. 4.7 stars from 167 reviewers. That's not luck, that's a track record. Cửa Lấp doesn't get enough attention on the tourist circuit, and that's exactly why this one hits different. Add it to the list before everyone else does. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking Đường Trần Hưng Đạo in Cửa Lấp and Pacific Boat just appears. 4.7 stars. 167 reviews. Watch why this one earns it. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocTravel #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found Pacific Boat before it blows up. 4.7★, 167 reviews, Cửa Lấp. Save this for your Phu Quoc trip.",
+    "video_caption": "Cửa Lấp delivered. Pacific Boat, 4.7 stars. This is why you explore past the resort strip.",
+    "hashtags": "#PhuQuocTips #PhuQuocTravel #PhuQuocThingsToDo #VietnamTravel #TravelTips #TravelReels #PhuQuocLife"
+  },
+  "tiktok": {
+    "caption": "Found Pacific Boat on Đường Trần Hưng Đạo. 4.7 stars. 167 reviews. Cửa Lấp delivering. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you found this in Phu Quoc",
+    "scenes": [
+      "Pan down Đường Trần Hưng Đạo, low traffic",
+      "Zoom into Pacific Boat signage",
+      "Show Cửa Lấp waterfront setting",
+      "Close-up: 4.7-star rating on screen",
+      "Wide shot, boats visible in background"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

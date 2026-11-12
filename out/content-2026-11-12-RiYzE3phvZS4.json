@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this. Phu Dung Pagoda sits quietly in Hà Tiên, pulling a 4.5-star rating from 1,471 reviews, almost all of them locals. No tour buses. No entry fee line. Just incense smoke, painted dragons, and silence that actually hits different after a week of beach crowds. Add this to your Phu Quoc itinerary as a half-day side trip. Save this for your Phu Quoc trip.",
+    "video_caption": "Dragon pillars, red lanterns, zero tourists. Phu Dung Pagoda in Hà Tiên earns 4.5 stars from 1,471 reviewers, and almost none of them came off a tour bus. This is what a real day off the beach looks like.",
+    "first_comment": "#PhuQuoc #HaTien #PhuQuocTemple #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Phu Dung Pagoda. 4.5 stars. 1,471 reviews. Zero tour buses. Tag your travel buddy.",
+    "video_caption": "Incense, painted dragons, complete silence. Phu Dung Pagoda is the Hà Tiên stop nobody tells you about.",
+    "hashtags": "#PhuQuocTemple #HaTienVietnam #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocTravel"
+  },
+  "tiktok": {
+    "caption": "1,471 reviews and still no tour buses. Phu Dung Pagoda hits different. #PhuQuoc #HaTien #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Slow pan up dragon-wrapped pillars",
+      "Incense smoke drifting through open hall",
+      "Close-up: intricate painted ceiling details",
+      "Wide shot: empty courtyard, no crowds",
+      "Reviewer rating graphic: 4.5★ 1,471 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
