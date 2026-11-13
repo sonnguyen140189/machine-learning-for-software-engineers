@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past Mai Jo Restaurant. Their loss.\n\nÔng Lang is already off the main drag. This spot is a level deeper. 4.7 stars across 1,874 reviews and it still feels like nobody knows about it.\n\nFood lands at $15-30 a head. For that you get a real meal, real atmosphere, real Phu Quoc.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Plates hitting the table at Mai Jo Restaurant and the vibe is exactly what Ông Lang promises. Quiet. Legit. 4.7 stars for a reason. $15-30 a head and zero tourist noise.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #OngLang #VisitVietnam #TravelTips #PhuQuocRestaurants #VietnamFood"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Mai Jo Restaurant. Their loss. 4.7★, 1,874 reviews, Ông Lang quiet.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Food arriving at Mai Jo Restaurant. Ông Lang. 4.7 stars. $15-30. This is the one you almost missed.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #OngLang #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Nobody talks about Mai Jo Restaurant in Ông Lang. 4.7 stars. $15-30/head. Add it now. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior shot: low-key Ông Lang street",
+      "Pan across full table of dishes",
+      "Close-up: fork breaking into main course",
+      "Reaction shot: first bite, eyes widen",
+      "Screen text: 4.7★ 1,874 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

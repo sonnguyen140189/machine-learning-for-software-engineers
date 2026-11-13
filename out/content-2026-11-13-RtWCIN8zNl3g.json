@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this one. NHÀ HÀNG PHỐ ĐẢO PHÚ QUỐC sits on Đ. 30 Tháng 4 in Dương Đông and pulls a 4.9★ rating. Fresh seafood, $15-30 a head, zero resort markup. The kind of spot locals book on weekends. Save this for your Phu Quoc trip.",
+    "video_caption": "Fresh crab, grilled fish, cold beer. NHÀ HÀNG PHỐ ĐẢO PHÚ QUỐC is doing $15-30 seafood dinners that the resort strip doesn't want you to find. 4.9★ says it all. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocSeafood #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about NHÀ HÀNG PHỐ ĐẢO PHÚ QUỐC. 4.9★. $15-30 a head. Real seafood, no tourist markup. Save this.",
+    "video_caption": "Fresh seafood. 4.9★. Under $30. NHÀ HÀNG PHỐ ĐẢO PHÚ QUỐC hits different when the locals are the ones filling the tables.",
+    "hashtags": "#PhuQuocFood #PhuQuocSeafood #PhuQuocRestaurants #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The seafood spot locals keep quiet about. 4.9★ in Dương Đông. $15-30 a head. #PhuQuoc #PhuQuocFood #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Street-level exterior, Đ. 30 Tháng 4 signage",
+      "Full table of fresh seafood arriving",
+      "Close-up: whole grilled fish plated",
+      "Cold beer poured, condensation on glass",
+      "Bill arrives, camera lingers on total"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

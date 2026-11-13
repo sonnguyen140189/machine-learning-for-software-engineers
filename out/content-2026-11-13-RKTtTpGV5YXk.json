@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Sunset Town hits different when the sky turns orange and the whole crowd goes quiet. 4.6 stars across 5,328 reviews and it still feels personal. Cobblestone streets, rooftop bars, lights flickering on at dusk. Skip the first hour after sunset. Come at golden hour and stay. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the sky change over Sunset Town. Crowds pause. Phones go up. That orange light hits every corner of those cobblestone streets and suddenly everyone stops rushing. 4.6 stars. 5,328 people agree.",
+    "first_comment": "#PhuQuoc #PhuQuocSunset #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Sunset Town at golden hour is a different world. 4.6 stars, 5,328 reviews. Come early, stay late.",
+    "video_caption": "Cobblestones, orange sky, the crowd goes silent. Sunset Town delivers every single time.",
+    "hashtags": "#PhuQuocSunset #PhuQuocTips #PhuQuocAttractions #VietnamTravel #TravelTips #TravelReels #SunsetVibes"
+  },
+  "tiktok": {
+    "caption": "Nobody warns you how good Sunset Town actually is. Come at golden hour. Trust the 5,328 reviews. #PhuQuoc #SunsetTown #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: cobblestone streets at dusk",
+      "Sky shifts orange above rooftops",
+      "Crowd stops, phones rise in unison",
+      "Close-up: warm lights flicker on",
+      "Slow pan across rooftop bar views"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

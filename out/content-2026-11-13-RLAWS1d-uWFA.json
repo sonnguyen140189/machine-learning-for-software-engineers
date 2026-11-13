@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this place. 4.9 stars, 392 reviews, sits right on Lê Lợi street in Dương Đông. NINH KITCHEN is the Vietnamese spot locals actually eat at. Real pho, real portions, real prices. No English menu out front. That's the point. Around $15-30 a head and you'll leave full. Save this for your Phu Quoc trip.",
+    "video_caption": "392 locals rated this 4.9 stars and nobody talks about it. Watch what lands on the table at NINH KITCHEN, Dương Đông. This is what Vietnamese food in Phu Quoc actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about NINH KITCHEN. 4.9 stars, 392 reviews, Dương Đông. $15-30 a head. Save this.",
+    "video_caption": "4.9 stars. 392 reviews. Zero tourists inside. NINH KITCHEN hits different.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodTok"
+  },
+  "tiktok": {
+    "caption": "The Vietnamese spot in Phu Quoc locals don't want you finding. 4.9 stars. $15-30. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't tell tourists this.",
+    "scenes": [
+      "Pan street sign: 10 Lê Lợi, Dương Đông",
+      "Push through the door, packed tables",
+      "Steaming bowls landing on table",
+      "Close-up: chopsticks lifting noodles",
+      "Receipt reveal: under $30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

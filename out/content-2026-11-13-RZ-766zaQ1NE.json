@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Some restaurants you eat at. Some you remember.\n\nMare at Sunset Town is the second kind. Italian food, Phu Quoc sunset, 4.7 stars across 916 reviews. The kind of dinner that makes you forget you had a flight to catch.\n\nPrice sits at $$$$, so plan for it. Worth every dong.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "The sun drops, the pasta arrives, and nothing else matters. Mare at Sunset Town, Phú Quốc. 4.7 stars. 916 people didn't lie. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocRestaurants #SunsetTown #VisitVietnam #ItalianFood #PhuQuocDining #TravelTips"
+  },
+  "instagram": {
+    "caption": "Some dinners just fix you. Mare at Sunset Town does that.\n\n4.7★ across 916 reviews. Italian. Phu Quoc sunset. Save this.",
+    "video_caption": "Sunset. Italian food. 4.7 stars. Mare at Sunset Town hits different. Plan for $$$$. Worth it.",
+    "hashtags": "#PhuQuocRestaurants #PhuQuocDining #SunsetTown #ItalianFood #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "This dinner in Phu Quoc will wreck your budget and fix your soul. Mare, Sunset Town. 4.7★ 916 reviews. #PhuQuoc #PhuQuocFood #SunsetTown #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This dinner fixes burnout.",
+    "scenes": [
+      "Wide shot: Sunset Town facade at golden hour",
+      "Slow pan across Mare's lit dining room",
+      "Close up: pasta plated, steam rising",
+      "Cut to: sunset framed through restaurant window",
+      "Rating card: 4.7★ 916 reviews fades in"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

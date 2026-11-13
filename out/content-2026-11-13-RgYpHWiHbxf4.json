@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered off the main strip in Ông Lang and found a 4.8-star Vietnamese restaurant with 967 reviews. Restaurant Eat Pray Love Phú Quốc sits on Đường Đông - Cửa Cạn and delivers real local food at $15-30 a person. Not the tourist center. Not a resort menu. Just honest Vietnamese cooking that keeps pulling people back. Save this for your Phu Quoc trip.",
+    "video_caption": "967 reviews. 4.8 stars. Tucked into Ông Lang off the main road. Watch what lands on the table at Restaurant Eat Pray Love Phú Quốc and tell me you're not booking a table tonight.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: wrong turn in Ông Lang, right restaurant. Restaurant Eat Pray Love Phú Quốc. 4.8★, 967 reviews, $15-30pp. Tag your travel buddy.",
+    "video_caption": "4.8 stars in Ông Lang. Real Vietnamese food, $15-30pp. Restaurant Eat Pray Love Phú Quốc just earned a spot on the list.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #OngLang #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "POV: found a 4.8★ Vietnamese spot off the tourist trail in Ông Lang. Restaurant Eat Pray Love Phú Quốc hits different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you found the good one.",
+    "scenes": [
+      "Dusty road in Ông Lang, walking away from crowds",
+      "Signage for Restaurant Eat Pray Love comes into frame",
+      "Steaming Vietnamese dishes land on a wooden table",
+      "Close-up: chopsticks lifting noodles, broth swirls",
+      "Wide shot: full table, local ingredients, no resort menu in sight"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

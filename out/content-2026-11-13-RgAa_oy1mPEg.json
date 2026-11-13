@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book sunset cruises. Locals spin basket boats.\n\nBasket Boat Tour & Kayak Tour (Dynasty Phu Quoc) is the kind of activity most visitors scroll past, but the 4.8★ rating from 379 reviews tells the real story. You paddle a round woven boat, you wobble, you laugh, you get it. No script. Just water and motion.\n\nKayak options available too if you want to cover more ground.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Round boat. Zero control. 100% worth it. Watch these basket boats spin at Dynasty Phu Quoc and try not to book immediately. 4.8 stars, 379 reviews, and almost no tourists in sight.",
+    "first_comment": "#PhuQuoc #PhuQuocActivities #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists book cruises. Locals spin basket boats. 4.8★ from 379 reviews at Dynasty Phu Quoc.\n\nSave this for your trip.",
+    "video_caption": "Spinning a basket boat in Phu Quoc and absolutely losing control. 4.8 stars. Zero regrets.",
+    "hashtags": "#PhuQuocActivities #PhuQuocTips #PhuQuocKayak #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Tourists skip this. Big mistake. Basket boats hit different in Phu Quoc. #PhuQuoc #PhuQuocActivities #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Wide shot: round basket boats on calm water",
+      "Hands grip the paddles, boat spins",
+      "Laughter, water splashing on rider",
+      "Kayak gliding alongside basket boat",
+      "Close-up: 4.8★ review screen on phone"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

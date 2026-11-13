@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stop scrolling past generic boat tours and find Anh Duyen Boat Rental. 4.8 stars. 30 reviews. Small operation, real results. Skip the crowded tourist piers and get on the water your way. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the boat leave the dock at Anh Duyen Boat Rental. 4.8 stars from real travelers. This is how you actually see Phu Quoc from the water.",
+    "first_comment": "#PhuQuoc #PhuQuocBoatTour #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found the 4.8-star boat rental locals actually use. Anh Duyen Boat Rental, Phu Quoc. Tag your travel buddy.",
+    "video_caption": "Boat pulling out. Open water. 4.8 stars for a reason. Anh Duyen Boat Rental delivers.",
+    "hashtags": "#PhuQuocBoatTour #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: found a 4.8-star boat rental nobody talks about in Phu Quoc. #PhuQuoc #PhuQuocTips #BoatTour #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: found the right boat rental.",
+    "scenes": [
+      "Zoom into 4.8-star Google rating",
+      "Boats lined up at dock, early morning",
+      "Hands untying rope, engine starts",
+      "Open water shot, coast shrinking behind",
+      "Close-up: waves hitting the bow"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
