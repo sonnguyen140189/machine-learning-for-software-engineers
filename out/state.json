@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJ_UyQR16MpzERxeEPTGIlsuA",
+    "ChIJ00OuQxuTpzER-w6UBHVBLJo",
+    "ChIJgZXGLMmNpzERdpFiMil-ONw",
+    "ChIJh6tNOEiNpzERxoGlcVd66u4",
+    "ChIJD8-KD3uNpzERZVGLp2AdvPI",
+    "ChIJ-RvbtGiNpzER2H1IufKqjGc",
+    "ChIJ-zqn9WCMpzER2Ko070p2nyo",
+    "ChIJkX-ZsFiTpzER9TM2r77QY5g",
+    "ChIJq31LD1-MpzERdIuwa2Bg2ok",
+    "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
+    "ChIJAz1J0-mNpzERyQ40GMjmouI",
+    "ChIJ06-yPMWNpzERvRqJgvDuNe8",
     "ChIJXWhyEQ-LpzER8jVR0IFy6YU",
     "ChIJEYK7sD6LpzERgAa_oy1mPEg",
     "ChIJae-ceQCNpzERtWCIN8zNl3g",
@@ -187,21 +199,189 @@
     "ChIJ_8wuyciNpzERgLyqow3Lg2s",
     "ChIJD6wtS1eMpzER4kblLDZp36s",
     "ChIJVVVVVXQgCDER_KXFZ6RZQ8Q",
-    "ChIJHalrczGMpzER22lEwxlew40",
-    "ChIJG0ygU8-NpzERXtcRcF0Av7k",
-    "ChIJYbElPPaLpzERTX725HPPGuM",
-    "ChIJW_ltjrgfCDERJzBq-pRFwR0",
-    "ChIJVX1ODrIfCDERlnrDWWdlWYQ",
-    "ChIJZQnCwX2TpzERgwZZvzz_CcA",
-    "ChIJwUzGbH-MpzERwZw0BxLOowU",
-    "ChIJ2SBPKCONpzER36aEkpOGpyk",
-    "ChIJgw37s0-XpzERx2gWzxP5Qfg",
-    "ChIJ9avQtSSNpzERrhWZcMK8lbI",
-    "ChIJMemrMgSNpzERRHKLDaKlO9k",
-    "ChIJvXeYrq6NpzER68wVOXl4Edg",
-    "ChIJ-_0E4DSNpzERdh1-L4xrPi4"
+    "ChIJHalrczGMpzER22lEwxlew40"
   ],
   "history": [
+    {
+      "date": "2026-11-14",
+      "placeId": "ChIJ_UyQR16MpzERxeEPTGIlsuA",
+      "placeName": "Luna Bar",
+      "results": {
+        "facebookVideo": {
+          "id": "2238480167095390"
+        },
+        "instagramReel": {
+          "id": "18646452007030109"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "placeId": "ChIJ00OuQxuTpzER-w6UBHVBLJo",
+      "placeName": "INK 360 Rooftop Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133505815313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17994441516111351"
+        }
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "placeId": "ChIJgZXGLMmNpzERdpFiMil-ONw",
+      "placeName": "ROOFTOP LOUNGE - PHU QUOC",
+      "results": {
+        "facebookVideo": {
+          "id": "1128643250027072"
+        },
+        "instagramReel": {
+          "id": "17875723323602277"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "placeId": "ChIJh6tNOEiNpzERxoGlcVd66u4",
+      "placeName": "Versailles - Beach Club Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133504717313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18105237053166768"
+        }
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "placeId": "ChIJD8-KD3uNpzERZVGLp2AdvPI",
+      "placeName": "Sip & Heal Beach Bar Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1692779115757817"
+        },
+        "instagramReel": {
+          "id": "17904624939378156"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "placeId": "ChIJ-RvbtGiNpzER2H1IufKqjGc",
+      "placeName": "Ocean Night Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133503475313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17987369685102559"
+        }
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "placeId": "ChIJ-zqn9WCMpzER2Ko070p2nyo",
+      "placeName": "The Rabbit Hole Irish Bar",
+      "results": {
+        "facebookVideo": {
+          "id": "1202404395651217"
+        },
+        "instagramReel": {
+          "id": "18134223097689438"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "placeId": "ChIJkX-ZsFiTpzER9TM2r77QY5g",
+      "placeName": "Fu Bar Regent Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133502323313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18121720073320768"
+        }
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "placeId": "ChIJq31LD1-MpzERdIuwa2Bg2ok",
+      "placeName": "Sunset Beach Bar & Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "28746998248335286"
+        },
+        "instagramReel": {
+          "id": "18085938890709932"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "placeId": "ChIJKQ4XQIeMpzERd9lt9e6zGUg",
+      "placeName": "House No. 1",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133501111313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18177442927478841"
+        }
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "placeId": "ChIJAz1J0-mNpzERyQ40GMjmouI",
+      "placeName": "The Cheeky Traveller English Pub & Bar",
+      "results": {
+        "facebookVideo": {
+          "id": "1445698550380565"
+        },
+        "instagramReel": {
+          "id": "18141172207539979"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "placeId": "ChIJ06-yPMWNpzERvRqJgvDuNe8",
+      "placeName": "Origin 1982 - Speakeasy bar in The last old house (1982)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133500133313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18176413858455444"
+        }
+      }
+    },
     {
       "date": "2026-11-13",
       "placeId": "ChIJXWhyEQ-LpzER8jVR0IFy6YU",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18014359082763432"
-        }
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "placeId": "ChIJG0ygU8-NpzERXtcRcF0Av7k",
-      "placeName": "Ngoc Hien Pearl Farm",
-      "results": {
-        "facebookVideo": {
-          "id": "1161883772859099"
-        },
-        "instagramReel": {
-          "id": "18125422411920135"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "placeId": "ChIJYbElPPaLpzERTX725HPPGuM",
-      "placeName": "Ốc Nhi (옥니 사이공)-해산물 BBQ & 샤브샤브 및 각종 안주",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130934347313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18099222158673530"
-        }
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "placeId": "ChIJW_ltjrgfCDERJzBq-pRFwR0",
-      "placeName": "Hải sản Cường Kua - Grand World Phú Quốc, Grand World Restaurant, 大世界好吃餐厅， 맛있는 해산물 레스토랑",
-      "results": {
-        "facebookVideo": {
-          "id": "2220282762247102"
-        },
-        "instagramReel": {
-          "id": "18031033892919880"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "placeId": "ChIJVX1ODrIfCDERlnrDWWdlWYQ",
-      "placeName": "Mai Hương Restaurant - Grand World Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130933501313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18096250523403800"
-        }
-      }
-    },
-    {
-      "date": "2026-10-28",
-      "placeId": "ChIJZQnCwX2TpzERgwZZvzz_CcA",
-      "placeName": "Chợ đêm Ẩm thực Phu Quoc Marina",
-      "results": {
-        "facebookVideo": {
-          "id": "1144792058070773"
-        },
-        "instagramReel": {
-          "id": "18632141764020632"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-28",
-      "placeId": "ChIJwUzGbH-MpzERwZw0BxLOowU",
-      "placeName": "Catamaran Sarita Phu Quoc _ Du thuyền Sarita Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130780615313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18180967576438483"
-        }
-      }
-    },
-    {
-      "date": "2026-10-28",
-      "placeId": "ChIJ2SBPKCONpzER36aEkpOGpyk",
-      "placeName": "Nice Tours Phu Quoc - Tailor Made Travel",
-      "results": {
-        "facebookVideo": {
-          "id": "1813485776770495"
-        },
-        "instagramReel": {
-          "id": "17897604477415471"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-28",
-      "placeId": "ChIJgw37s0-XpzERx2gWzxP5Qfg",
-      "placeName": "VEGAYACHTS - Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130779385313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17979048408138042"
-        }
-      }
-    },
-    {
-      "date": "2026-10-28",
-      "placeId": "ChIJ9avQtSSNpzERrhWZcMK8lbI",
-      "placeName": "Bò Tơ Quán Đảo Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "1652747049639114"
-        },
-        "instagramReel": {
-          "id": "18021937238948771"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-28",
-      "placeId": "ChIJMemrMgSNpzERRHKLDaKlO9k",
-      "placeName": "Aigue-Marine French Bistro by Hidden Gem",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130778215313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18341396062276506"
-        }
-      }
-    },
-    {
-      "date": "2026-10-28",
-      "placeId": "ChIJvXeYrq6NpzER68wVOXl4Edg",
-      "placeName": "MEDITERRAN Greek & Italian Restaurant (pizza, pasta & souvlaki)",
-      "results": {
-        "facebookVideo": {
-          "id": "1738621920571644"
-        },
-        "instagramReel": {
-          "id": "18132763921768062"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-28",
-      "placeId": "ChIJ-_0E4DSNpzERdh1-L4xrPi4",
-      "placeName": "Mộc Cuisine Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130776979313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18080876246721386"
         }
       }
     }
