@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes the kind of tired that sleep doesn't cure.\n\nVersailles - Beach Club Phú Quốc sits right on Đường Trần Hưng Đạo. Sand, cold drinks, and a horizon that actually makes you exhale. 4.6 stars across 458 reviews. Around $15-30 a head.\n\nBook the table. Watch the sky change. Order again.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Sand under your chair. Drink in hand. Sky doing that thing it does at golden hour. Versailles - Beach Club Phú Quốc hits different when you've needed a reset. $15-30 a head. 4.6 stars. Go.",
+    "first_comment": "#PhuQuoc #PhuQuocBeachClub #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This is what decompression looks like. Versailles - Beach Club Phú Quốc. 4.6★, 458 reviews, $15-30 a head.\n\nTag your travel buddy.",
+    "video_caption": "Beach club energy. Cold drink. Sun dropping fast. Versailles - Beach Club Phú Quốc earns every one of those 458 reviews.",
+    "hashtags": "#PhuQuocBeaches #PhuQuocRestaurants #PhuQuocTips #PhuQuocBeachClub #VietnamTravel #TravelTips #TravelReels #BeachClubVibes"
+  },
+  "tiktok": {
+    "caption": "When Phu Quoc finally makes you breathe again. Versailles - Beach Club Phú Quốc. 4.6★. $15-30. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that fixes burnout.",
+    "scenes": [
+      "Aerial pull-back over beachfront tables",
+      "Close-up: condensation dripping down glass",
+      "Wide shot: sun low, sky turning gold",
+      "Slow pan across filled outdoor seating",
+      "Cut to review count: 4.6★ 458 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

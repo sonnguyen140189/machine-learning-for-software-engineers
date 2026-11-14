@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "970 reviews. 4.4 stars. And it's an Irish bar on a Vietnamese island. The Rabbit Hole Irish Bar on Đường Trần Hưng Đạo earns every one. Cold pints, live sport on every screen, and a crowd that stays way later than planned. Budget $15-30 a head and clear your morning after. Save this for your Phu Quoc trip.",
+    "video_caption": "Pints poured, sport on every screen, 970 people rating this place 4.4 stars. The Rabbit Hole Irish Bar delivers every night on Đường Trần Hưng Đạo. Your Phu Quoc nights just got a plan.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #IrishBarPhuQuoc #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "970 reviews. 4.4 stars. Irish bar in Phu Quoc. The Rabbit Hole hits different. Tag your travel buddy.",
+    "video_caption": "Cold pints. Live sport. 970 people can't be wrong. The Rabbit Hole Irish Bar, Phu Quoc.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocBars #IrishBar #PhuQuocTips #VietnamTravel #TravelReels #TravelTips #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "970 reviews on an Irish bar in Vietnam. The Rabbit Hole, Phu Quoc. Worth every pint. #PhuQuoc #PhuQuocNightlife #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "970 reviews. Irish bar. Phu Quoc.",
+    "scenes": [
+      "Exterior shot: neon sign at night",
+      "Pan across screens showing live sport",
+      "Bartender pouring a cold draft pint",
+      "Packed crowd, raised glasses, loud laughs",
+      "Close-up: 4.4 stars on phone screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

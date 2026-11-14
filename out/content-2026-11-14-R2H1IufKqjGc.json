@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc that doesn't feel touristy. Ocean Night Bar sits right on the water at 01 Võ Thị Sáu, cold drink in hand, sun going down, no hustlers, no neon overload. Just the kind of evening that resets you. 4.8 stars across 455 reviews. That rating holds for a reason. Save this for your Phu Quoc trip.",
+    "video_caption": "Sun hits the water. Drink hits the table. Ocean Night Bar at 01 Võ Thị Sáu delivers the kind of night you actually came to Phu Quoc for. 4.8 stars. 455 people agree.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #PhuQuocNightlife #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Ocean Night Bar, 4.8 stars, 455 reviews. The water does the rest. Tag your travel buddy.",
+    "video_caption": "Bar. Water. Sunset. Ocean Night Bar at 01 Võ Thị Sáu. 4.8 stars for a reason.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The evening reset you needed in Phu Quoc. Ocean Night Bar. 4.8 stars. 455 reviews. #PhuQuoc #PhuQuocBars #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Wide shot: bar over water, golden hour light",
+      "Close up: cold drink placed on table",
+      "Pan across waterfront seating, few guests",
+      "Slow zoom: sun dropping below horizon",
+      "Cut to: reviewer count on screen, 455 reviews, 4.8★"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

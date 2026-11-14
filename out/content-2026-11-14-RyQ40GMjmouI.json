@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're on Trần Hưng Đạo and you duck into an English pub on a whim.\n\nThe Cheeky Traveller delivers. 4.8 stars across 940 reviews. Cold pints, familiar bar food, and a crowd that actually talks to each other.\n\nBudget $15-30 per person. Solid for a full night out.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "940 people rated this Phu Quoc English pub 4.8 stars. Watch why. The Cheeky Traveller on Hẻm 118 Đường Trần Hưng Đạo hits different after a long beach day. $15-30 a head. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocNightlife #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you walked into The Cheeky Traveller not expecting much. 4.8★, 940 reviews later, it makes sense.\n\nSave this.",
+    "video_caption": "Ducked into an English pub in Phu Quoc. 4.8 stars. Full pints. Good people. The Cheeky Traveller delivers.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: random English pub in Phu Quoc hits a 4.8★ with 940 reviews. The Cheeky Traveller is real. #PhuQuoc #PhuQuocBars #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: best bar in Phu Quoc?",
+    "scenes": [
+      "Exterior shot: Hẻm 118 Đường Trần Hưng Đạo sign",
+      "Push through the pub door, crowd visible",
+      "Close-up: cold pint pulled at the bar",
+      "Pan across full tables, people laughing",
+      "Phone screen: 4.8★ 940 reviews on Google"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

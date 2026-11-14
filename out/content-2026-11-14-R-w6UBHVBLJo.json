@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book Phu Quoc for the beach. Locals know the sky hits different at INK 360.\n\nRotating rooftop bar at the InterContinental. Full 360-degree sweep of the coastline, the marina, and the South China Sea. 4.7 stars across 784 reviews and somehow still not on most itineraries.\n\nGet here before sunset. Stay for the first hour of dark. That is the window.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the whole island rotate past you. INK 360 at the InterContinental is a spinning rooftop bar above the Phu Quoc marina. 4.7 stars. Most visitors never find it. Now you have no excuse.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #PhuQuocNightlife #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Tourists skip this rooftop. 784 reviews say that's a mistake. INK 360 spins above the Phu Quoc marina. Tag your travel buddy.",
+    "video_caption": "A rooftop that actually rotates. INK 360 above the marina, 4.7 stars, still off most tourist lists.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Spinning rooftop bar in Phu Quoc. 4.7 stars. Most tourists walk right past it. #PhuQuoc #PhuQuocNightlife #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior shot: InterContinental tower at dusk",
+      "Elevator doors open onto the rooftop",
+      "Bar slowly rotating, coast panning into view",
+      "Wide shot: full 360 of marina and sea",
+      "Close-up: drink in hand, sun hitting the water",
+      "Night skyline completing one full rotation"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

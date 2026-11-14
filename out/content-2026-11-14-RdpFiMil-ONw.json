@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes a bad travel day.\n\nRooftop. Cold drink. Đường Trần Hưng Đạo below you. Sky doing its thing above you.\n\nROOFTOP LOUNGE - PHU QUOC is sitting at a perfect 5.0 stars and 93 reviews don't lie. Budget $15-30 a head and stay longer than you planned.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the sky turn from your rooftop seat. Drinks in hand, Đường Trần Hưng Đạo lit up below. ROOFTOP LOUNGE - PHU QUOC. 5.0 stars. Zero excuses not to go.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBars #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes a bad travel day. Rooftop views, cold drinks, 5.0 stars.\n\nROOFTOP LOUNGE - PHU QUOC. $15-30/head.\n\nSave this.",
+    "video_caption": "Sky turning gold above Đường Trần Hưng Đạo. ROOFTOP LOUNGE - PHU QUOC hits different at sunset.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Best rooftop mood in Phu Quoc? ROOFTOP LOUNGE - PHU QUOC. 5.0 stars. $15-30. Go. #PhuQuoc #PhuQuocBars #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that fixes burnout.",
+    "scenes": [
+      "Slow pan up staircase to rooftop",
+      "Wide shot: city lights below, open sky above",
+      "Close-up: condensation dripping down cold glass",
+      "Guest leaning back, visibly unwinding",
+      "Text overlay: 5.0 stars, 93 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

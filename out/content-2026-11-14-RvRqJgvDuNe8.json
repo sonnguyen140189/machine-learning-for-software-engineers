@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this bar on Đường Trần Hưng Đạo. Big mistake.\n\nOrigin 1982 - Speakeasy bar in The last old house (1982) is hiding inside a preserved 1982 house, 4.9 stars across 601 reviews, and barely on the tourist radar. Craft cocktails, $15-30 a head, the kind of place locals book and don't share.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walk through an old 1982 house. Find a speakeasy with 4.9 stars. Order something you can't pronounce. Origin 1982 on Đường Trần Hưng Đạo is the bar locals keep off the group chats.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocNightlife #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Origin 1982 - Speakeasy bar in The last old house (1982). 4.9 stars. 601 reviews. Now you know.\n\nTag your travel buddy.",
+    "video_caption": "A preserved 1982 house. A hidden speakeasy. 4.9 stars. Origin 1982 on Đường Trần Hưng Đạo hits different.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The bar locals keep off the tourist maps. Origin 1982 speakeasy, Phu Quoc. 4.9 stars. #PhuQuoc #PhuQuocBars #VietnamTravel #Speakeasy"
+  },
+  "video_script": {
+    "hook": "Locals don't post this bar.",
+    "scenes": [
+      "Exterior: faded 1982 house facade",
+      "Push through unmarked door",
+      "Dimly lit interior, vintage decor",
+      "Bartender shaking craft cocktail",
+      "Close-up: drink lands on old wooden bar",
+      "601 reviews. 4.9 stars. On screen."
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

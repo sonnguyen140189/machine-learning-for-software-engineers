@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Drinks + food for two, under $30. At Luna Bar on 98 Đường Trần Hưng Đạo.\n\n4.5 stars from 262 reviews and your wallet barely notices. That's the Phu Quoc dollar gap working in your favor.\n\nCocktails, cold beers, good vibes. No resort markup. Just a solid night out without the guilt.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the bartender pour at Luna Bar and try not to book your flight immediately. $15-30 per person. Phu Quoc nights just got cheaper.",
+    "first_comment": "#PhuQuoc #PhuQuocBars #PhuQuocNightlife #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "$30 covers two people at Luna Bar. Phu Quoc pricing hits different.\n\n4.5★, 262 reviews. Tag your travel buddy.",
+    "video_caption": "Cocktails flowing at Luna Bar. Under $30 for two. This is why people keep coming back to Phu Quoc.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "$30 for two people at a 4.5-star bar in Phu Quoc. Luna Bar is the move. #PhuQuoc #PhuQuocNightlife #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "$30 for two. Phu Quoc bar.",
+    "scenes": [
+      "Exterior shot: Luna Bar sign at night",
+      "Bartender shaking cocktail, close up",
+      "Two drinks land on the counter",
+      "Pan across full bar, crowd vibing",
+      "Phone screen shows the bill: under $30"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

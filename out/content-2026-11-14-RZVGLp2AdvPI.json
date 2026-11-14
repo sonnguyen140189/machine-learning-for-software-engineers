@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. Sip & Heal Beach Bar Phu Quoc on Đường Trần Hưng Đạo hits different when you're done with crowded resort pools. 4.6 stars. Cold cocktail in hand. Feet in the sand. $15-30 a person gets you a full evening here. Not a bad trade. Save this for your Phu Quoc trip.",
+    "video_caption": "Cocktails landing on the bar. Waves behind it. Sip & Heal Beach Bar Phu Quoc earns that 4.6 for a reason. $15-30 all in. This is the reset you booked the trip for.",
+    "first_comment": "#PhuQuoc #PhuQuocBeachBar #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocNightlife #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Sip & Heal Beach Bar Phu Quoc. 4.6 stars, $15-30 a person. Save this for your Phu Quoc trip.",
+    "video_caption": "Cocktail. Ocean. No resort crowds. Sip & Heal Beach Bar Phu Quoc. $15-30. Worth every cent.",
+    "hashtags": "#PhuQuocBeachBar #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocCocktails"
+  },
+  "tiktok": {
+    "caption": "The cocktail bar reset you need in Phu Quoc. 4.6★ and $15-30 a person. #PhuQuoc #PhuQuocBeachBar #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Aerial shot: bar meets beach at dusk",
+      "Bartender pours cocktail, slow motion",
+      "Glass placed on bar, ocean background",
+      "Guest exhales, leans back in chair",
+      "Price tag graphic: $15-30 per person",
+      "4.6 star rating animates on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
