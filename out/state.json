@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJVX1ODrIfCDERlnrDWWdlWYQ",
+    "ChIJ9avQtSSNpzERrhWZcMK8lbI",
+    "ChIJvXeYrq6NpzER68wVOXl4Edg",
+    "ChIJXWMScYiMpzERFW5SXq8DfXs",
+    "ChIJ-_0E4DSNpzERdh1-L4xrPi4",
+    "ChIJMemrMgSNpzERRHKLDaKlO9k",
+    "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
+    "ChIJ04EPezKNpzERUCu48VTEXnw",
+    "ChIJF33R8xCLpzERFtTAVV7G-14",
+    "ChIJdQIPu76LpzERR-arMzuJz5I",
+    "ChIJt7t-rLAfCDER9qvpDQ-ks6M",
+    "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
     "ChIJ_UyQR16MpzERxeEPTGIlsuA",
     "ChIJ00OuQxuTpzER-w6UBHVBLJo",
     "ChIJgZXGLMmNpzERdpFiMil-ONw",
@@ -187,21 +199,189 @@
     "ChIJM17n40yNpzERMNx__IDN-GE",
     "ChIJjXUjGRmNpzERbpTPg0YpR3g",
     "ChIJzwU_1waNpzERJApCT6UMoDk",
-    "ChIJtZzCV-CNpzERLAx0sVMFldE",
-    "ChIJcQI2WEyNpzERiZfbiTwGiHU",
-    "ChIJLUpd9kSNpzER53HI0cebROw",
-    "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
-    "ChIJiyzaO4CNpzERTH6QKehpvBw",
-    "ChIJyVg7uFmMpzER8oO_9EVvcbg",
-    "ChIJGeOzddMfCDERWqFBHDihXo0",
-    "ChIJxfXY0YeMpzERVIRnrvcuBKE",
-    "ChIJQ4JcfECSpzER9dUT9AlYDJk",
-    "ChIJ_8wuyciNpzERgLyqow3Lg2s",
-    "ChIJD6wtS1eMpzER4kblLDZp36s",
-    "ChIJVVVVVXQgCDER_KXFZ6RZQ8Q",
-    "ChIJHalrczGMpzER22lEwxlew40"
+    "ChIJtZzCV-CNpzERLAx0sVMFldE"
   ],
   "history": [
+    {
+      "date": "2026-11-15",
+      "placeId": "ChIJVX1ODrIfCDERlnrDWWdlWYQ",
+      "placeName": "Mai Hương Restaurant - Grand World Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "2106866160715722"
+        },
+        "instagramReel": {
+          "id": "18135490961508319"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "placeId": "ChIJ9avQtSSNpzERrhWZcMK8lbI",
+      "placeName": "Bò Tơ Quán Đảo Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133615183313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18581239159078894"
+        }
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "placeId": "ChIJvXeYrq6NpzER68wVOXl4Edg",
+      "placeName": "MEDITERRAN Greek & Italian Restaurant (pizza, pasta & souvlaki)",
+      "results": {
+        "facebookVideo": {
+          "id": "1115557041350003"
+        },
+        "instagramReel": {
+          "id": "18133914712805720"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "placeId": "ChIJXWMScYiMpzERFW5SXq8DfXs",
+      "placeName": "Saigonese Eatery",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133614349313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17917387872536144"
+        }
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "placeId": "ChIJ-_0E4DSNpzERdh1-L4xrPi4",
+      "placeName": "Mộc Cuisine Phú Quốc",
+      "results": {
+        "facebookVideo": {
+          "id": "1802361631092864"
+        },
+        "instagramReel": {
+          "id": "18118949180587612"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "placeId": "ChIJMemrMgSNpzERRHKLDaKlO9k",
+      "placeName": "Aigue-Marine French Bistro by Hidden Gem",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133613137313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18195996280401895"
+        }
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "placeId": "ChIJA4C4QwaNpzERJ7MA3oUHL5E",
+      "placeName": "The Spice House Restaurant at Cassia Cottage Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1455173214356880"
+        },
+        "instagramReel": {
+          "id": "17975568816178415"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "placeId": "ChIJ04EPezKNpzERUCu48VTEXnw",
+      "placeName": "The Waterfront Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133612171313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17907509355351509"
+        }
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "placeId": "ChIJF33R8xCLpzERFtTAVV7G-14",
+      "placeName": "Camia Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "910684212035839"
+        },
+        "instagramReel": {
+          "id": "18037769465668967"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "placeId": "ChIJdQIPu76LpzERR-arMzuJz5I",
+      "placeName": "Eco Tour Thai Duong – Cua Can River Basket Boat Experience",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133611097313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17881808466632843"
+        }
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "placeId": "ChIJt7t-rLAfCDER9qvpDQ-ks6M",
+      "placeName": "Ngoc Hien Treasure",
+      "results": {
+        "facebookVideo": {
+          "id": "1471981938208588"
+        },
+        "instagramReel": {
+          "id": "18107880122458996"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "placeId": "ChIJS4Ky0oiPpzERbE8mbGFjZ4k",
+      "placeName": "Ham Ninh fishing town",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133610071313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18195050206406012"
+        }
+      }
+    },
     {
       "date": "2026-11-14",
       "placeId": "ChIJ_UyQR16MpzERxeEPTGIlsuA",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "17984497403905980"
-        }
-      }
-    },
-    {
-      "date": "2026-10-30",
-      "placeId": "ChIJcQI2WEyNpzERiZfbiTwGiHU",
-      "placeName": "Hello Spa - Massage & Nail",
-      "results": {
-        "facebookVideo": {
-          "id": "1438717267680580"
-        },
-        "instagramReel": {
-          "id": "17992287869862356"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-30",
-      "placeId": "ChIJLUpd9kSNpzER53HI0cebROw",
-      "placeName": "Little WIN SPA - MASSAGE (전신 마사지, 풋 마사지)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131143819313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18082785281349354"
-        }
-      }
-    },
-    {
-      "date": "2026-10-30",
-      "placeId": "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
-      "placeName": "Phu Quoc Day Spa - 푸꾸옥 스파 마사지 - 富国岛的水疗按摩",
-      "results": {
-        "facebookVideo": {
-          "id": "1528435645778560"
-        },
-        "instagramReel": {
-          "id": "18096531143479733"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-30",
-      "placeId": "ChIJiyzaO4CNpzERTH6QKehpvBw",
-      "placeName": "FIONA SPA",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131142781313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17942072793391528"
-        }
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "placeId": "ChIJyVg7uFmMpzER8oO_9EVvcbg",
-      "placeName": "La Veranda Resort Phu Quoc - MGallery Collection",
-      "results": {
-        "facebookVideo": {
-          "id": "1225282583478356"
-        },
-        "instagramReel": {
-          "id": "18121206746321176"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "placeId": "ChIJGeOzddMfCDERWqFBHDihXo0",
-      "placeName": "Wyndham Grand Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130938601313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18140885284716659"
-        }
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "placeId": "ChIJxfXY0YeMpzERVIRnrvcuBKE",
-      "placeName": "Seashells Phu Quoc Hotel & Spa",
-      "results": {
-        "facebookVideo": {
-          "id": "1117701201144626"
-        },
-        "instagramReel": {
-          "id": "18488820127129398"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "placeId": "ChIJQ4JcfECSpzER9dUT9AlYDJk",
-      "placeName": "InterContinental Phu Quoc Long Beach Resort by IHG",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130937443313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18475441063188189"
-        }
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "placeId": "ChIJ_8wuyciNpzERgLyqow3Lg2s",
-      "placeName": "MEO Kitchen",
-      "results": {
-        "facebookVideo": {
-          "id": "1653619546264876"
-        },
-        "instagramReel": {
-          "id": "18212494696365605"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "placeId": "ChIJD6wtS1eMpzER4kblLDZp36s",
-      "placeName": "Long Beach Pearl",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130936291313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18140376709538055"
-        }
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "placeId": "ChIJVVVVVXQgCDER_KXFZ6RZQ8Q",
-      "placeName": "Phu Quoc Bee Farm",
-      "results": {
-        "facebookVideo": {
-          "id": "2892138087853268"
-        },
-        "instagramReel": {
-          "id": "17970933572966253"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-29",
-      "placeId": "ChIJHalrczGMpzER22lEwxlew40",
-      "placeName": "Quoc An Pearl",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122130935427313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18014359082763432"
         }
       }
     }
