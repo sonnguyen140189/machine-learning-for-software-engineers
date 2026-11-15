@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Some restaurants feed you. Mộc Cuisine Phú Quốc actually slows you down.\n\n4.8 stars across 267 reviews. $15-30 a head. The kind of bistro that makes you cancel your afternoon plans.\n\nSimple done right. That's the whole thing.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the food land on the table at Mộc Cuisine Phú Quốc. $15-30 a head. 4.8 stars. 267 people weren't exaggerating. Book it before you even land.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Some restaurants just fix the day. Mộc Cuisine Phú Quốc is that place. 4.8★, 267 reviews, $15-30 a head.\n\nTag your travel buddy.",
+    "video_caption": "4.8 stars. $15-30. Mộc Cuisine Phú Quốc hits different. Add it to the list.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The bistro that makes you cancel your afternoon plans. Mộc Cuisine Phú Quốc. 4.8★. Under $30. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This bistro fixes burnout.",
+    "scenes": [
+      "Exterior shot, Trần Hưng Đạo street",
+      "Door opens, warm interior revealed",
+      "Dishes placed on table, close up",
+      "Fork lifts food, steam visible",
+      "Guest leans back, visibly relaxed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

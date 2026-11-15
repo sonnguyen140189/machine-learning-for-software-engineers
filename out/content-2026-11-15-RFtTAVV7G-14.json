@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 2,741 reviews. At a beachfront Asian fusion spot most tourists never find in Ông Lang. Camia Restaurant sits right on the beach on Lê Thức Nhã Street, away from the main drag, and the reviews don't lie. Fresh flavors, water views, and a crowd that's mostly in-the-know locals and repeat visitors. Save this for your Phu Quoc trip.",
+    "video_caption": "Waves on one side. 4.8-star food on the other. Camia Restaurant in Ông Lang is earning every single one of those 2,741 reviews, and you can see exactly why the moment your plate arrives.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips #AsianFusion #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 2,741 reviews. Beachfront in Ông Lang. Camia Restaurant is not a coincidence. Save this for your Phu Quoc trip.",
+    "video_caption": "Beachfront table. Asian fusion. 4.8 stars from 2,741 people. Camia Restaurant, Ông Lang. Go.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VisitVietnam #VietnamTravel #TravelReels #TravelTips #AsianFusion"
+  },
+  "tiktok": {
+    "caption": "2,741 reviews and 4.8 stars at a beachfront spot in Ông Lang. Camia Restaurant is the real deal. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★. 2,741 reviews. Beach.",
+    "scenes": [
+      "Aerial shot: beach location, Ông Lang",
+      "Walk up to Camia Restaurant entrance",
+      "Beachfront tables fill with diners",
+      "Close-up: Asian fusion dishes arriving",
+      "Guest reaction, ocean in background",
+      "Review count flashes on screen: 2,741"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

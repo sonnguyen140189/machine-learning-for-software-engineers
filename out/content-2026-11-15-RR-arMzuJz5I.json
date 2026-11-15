@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you said yes to the basket boat and ended up spinning down the Cửa Cạn River with mangroves 2 feet from your face.\n\nEco Tour Thái Dương runs this experience right on the river. 4.2 stars from 120 reviews. Small boats, real current, zero resort crowds.\n\nThis is Phu Quoc before the beach bars start. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the basket boat hit the current on Cửa Cạn River. This is what Phu Quoc looks like at water level. Eco Tour Thái Dương, 4.2 stars, 120 reviews. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Spun down Cửa Cạn River in a basket boat. 2 feet from the mangroves. Zero crowds.\n\nEco Tour Thái Dương. 4.2★, 120 reviews. Save this.",
+    "video_caption": "Basket boat. Real current. Mangroves close enough to touch. Eco Tour Thái Dương on the Cửa Cạn River hits different.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #CuaCanRiver #ThingsToDoPhuQuoc #VietnamTravel #TravelReels #TravelTips"
+  },
+  "tiktok": {
+    "caption": "Said yes to the basket boat. The Cửa Cạn River said hold on. #PhuQuoc #PhuQuocTours #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Basket boat. No warning.",
+    "scenes": [
+      "Boat launch from riverbank, engine off",
+      "Basket spinning slowly mid-river",
+      "Mangrove branches passing inches away",
+      "Rider laughing, gripping the rim",
+      "Wide shot: river bends, no buildings in sight"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
