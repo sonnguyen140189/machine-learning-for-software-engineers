@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJY6GhjSaNpzERAuI657sZah0",
+    "ChIJR4_RrzuVpzERTNZI9HaezLk",
+    "ChIJ1Tz0QOcfCDER2oug-pJV_TA",
+    "ChIJq00LoVofCDER9kzksPf7Axs",
+    "ChIJi-z2ewCNpzER4P73e0T61VE",
+    "ChIJf3chCACNpzER9HKozVLUOpA",
+    "ChIJYREw3iyNpzER4MEeLlm9Ju4",
+    "ChIJ5eqLUm2NpzERURd3wi62JoM",
+    "ChIJpz2x3xeLpzERgWgyuWd2czk",
+    "ChIJMSfrfEqNpzER9_6_sLzv_nk",
+    "ChIJdzmotOqNpzER3SFTNOAxFC4",
+    "ChIJj3KLVmuNpzERRcxS6PIioiI",
     "ChIJVX1ODrIfCDERlnrDWWdlWYQ",
     "ChIJ9avQtSSNpzERrhWZcMK8lbI",
     "ChIJvXeYrq6NpzER68wVOXl4Edg",
@@ -187,21 +199,189 @@
     "ChIJDwL8FCsfCDERLiDVhzYdbxg",
     "ChIJ_0eqFMcfCDERGFRN2VvZDXg",
     "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
-    "ChIJdaBXGQCVpzERp96WmmKwHM4",
-    "ChIJTdwiKNmVpzER1knXm_zr2zA",
-    "ChIJP5q2Xn2MpzERflLoidf2YAg",
-    "ChIJaZw-NgCXpzERKfWFL1KzRvE",
-    "ChIJvxdKNoKWpzERAWSyG5rABsg",
-    "ChIJY5fODACNpzER4vgSD0OdNQA",
-    "ChIJy3uLSwCNpzERFT5PFepWMbQ",
-    "ChIJCwiEQQSNpzER_YXtjinHkS0",
-    "ChIJiay3xP-NpzERoRJEhKTbIPY",
-    "ChIJM17n40yNpzERMNx__IDN-GE",
-    "ChIJjXUjGRmNpzERbpTPg0YpR3g",
-    "ChIJzwU_1waNpzERJApCT6UMoDk",
-    "ChIJtZzCV-CNpzERLAx0sVMFldE"
+    "ChIJdaBXGQCVpzERp96WmmKwHM4"
   ],
   "history": [
+    {
+      "date": "2026-11-16",
+      "placeId": "ChIJY6GhjSaNpzERAuI657sZah0",
+      "placeName": "Bombay Pure Vegetarian Indian Restaurant",
+      "results": {
+        "facebookVideo": {
+          "id": "1140354895165129"
+        },
+        "instagramReel": {
+          "id": "18118462529081469"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "placeId": "ChIJR4_RrzuVpzERTNZI9HaezLk",
+      "placeName": "Maharaja Lounge - 100% Pure Veg Authentic Indian Restaurant Sunset Town",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133740115313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17916509634555355"
+        }
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "placeId": "ChIJ1Tz0QOcfCDER2oug-pJV_TA",
+      "placeName": "Thali House - Best Indian 100% Vegetarian Food in Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1118440797627404"
+        },
+        "instagramReel": {
+          "id": "17889695064689078"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "placeId": "ChIJq00LoVofCDER9kzksPf7Axs",
+      "placeName": "Maa Vegetarian Indian Restaurant - 100% Pure Veg Food in Grand World Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133738921313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18108270584342751"
+        }
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "placeId": "ChIJi-z2ewCNpzER4P73e0T61VE",
+      "placeName": "CƠM CHAY HIỀN ĐỨC",
+      "results": {
+        "facebookVideo": {
+          "id": "1136598045899402"
+        },
+        "instagramReel": {
+          "id": "18414423829090345"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "placeId": "ChIJf3chCACNpzER9HKozVLUOpA",
+      "placeName": "Desi Indian Restaurant (Pure Veg) - Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133737763313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18231081307334885"
+        }
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "placeId": "ChIJYREw3iyNpzER4MEeLlm9Ju4",
+      "placeName": "Nhà hàng Chay Minh Tâm",
+      "results": {
+        "facebookVideo": {
+          "id": "1171862902460225"
+        },
+        "instagramReel": {
+          "id": "17979870495173260"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "placeId": "ChIJ5eqLUm2NpzERURd3wi62JoM",
+      "placeName": "Cơm chay tự chọn Bồ Đề Chay",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133736689313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18121909510948249"
+        }
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "placeId": "ChIJpz2x3xeLpzERgWgyuWd2czk",
+      "placeName": "TIỆM CHAY TÂM AN",
+      "results": {
+        "facebookVideo": {
+          "id": "1859164668558007"
+        },
+        "instagramReel": {
+          "id": "17957056989298952"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "placeId": "ChIJMSfrfEqNpzER9_6_sLzv_nk",
+      "placeName": "Maharaja Lounge - Authentic Indian 100% Veg Restaurant",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133735687313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18457467178122517"
+        }
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "placeId": "ChIJdzmotOqNpzER3SFTNOAxFC4",
+      "placeName": "Krishna Garden Pure Veg Indian",
+      "results": {
+        "facebookVideo": {
+          "id": "1169580999057011"
+        },
+        "instagramReel": {
+          "id": "18121032226782467"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "placeId": "ChIJj3KLVmuNpzERRcxS6PIioiI",
+      "placeName": "RASOI INDIAN PURE VEGETARIAN RESTAURANT",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122133733869313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18130729660921565"
+        }
+      }
+    },
     {
       "date": "2026-11-15",
       "placeId": "ChIJVX1ODrIfCDERlnrDWWdlWYQ",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18401550196206341"
-        }
-      }
-    },
-    {
-      "date": "2026-10-31",
-      "placeId": "ChIJTdwiKNmVpzER1knXm_zr2zA",
-      "placeName": "Cafe Juliet & Pastries",
-      "results": {
-        "facebookVideo": {
-          "id": "2044836206217120"
-        },
-        "instagramReel": {
-          "id": "18120946006960089"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-31",
-      "placeId": "ChIJP5q2Xn2MpzERflLoidf2YAg",
-      "placeName": "THU HIỀN BAKERY",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131293069313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17886910005511565"
-        }
-      }
-    },
-    {
-      "date": "2026-10-31",
-      "placeId": "ChIJaZw-NgCXpzERKfWFL1KzRvE",
-      "placeName": "Peony French Bakery and Icecream",
-      "results": {
-        "facebookVideo": {
-          "id": "1643614113842459"
-        },
-        "instagramReel": {
-          "id": "18099197162678914"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-31",
-      "placeId": "ChIJvxdKNoKWpzERAWSyG5rABsg",
-      "placeName": "Sunworld Hòn Thơm - Hon Thom Cable Car Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131291887313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18158333152512725"
-        }
-      }
-    },
-    {
-      "date": "2026-10-30",
-      "placeId": "ChIJY5fODACNpzER4vgSD0OdNQA",
-      "placeName": "LUNA SPA- Body Massage, Foot Massage, Shampoo, Gội Đầu Dưỡng Sinh)(마사지, 발 마사지, 샴푸, 按摩, 洗頭,)",
-      "results": {
-        "facebookVideo": {
-          "id": "1823724208948392"
-        },
-        "instagramReel": {
-          "id": "18117030991914543"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-30",
-      "placeId": "ChIJy3uLSwCNpzERFT5PFepWMbQ",
-      "placeName": "Queen spa",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131148229313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17914278966520770"
-        }
-      }
-    },
-    {
-      "date": "2026-10-30",
-      "placeId": "ChIJCwiEQQSNpzER_YXtjinHkS0",
-      "placeName": "SELINA SPA Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "2321756735032896"
-        },
-        "instagramReel": {
-          "id": "17962479204250374"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-30",
-      "placeId": "ChIJiay3xP-NpzERoRJEhKTbIPY",
-      "placeName": "HaVi Spa & Massage Therapy Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131147161313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18057475061576776"
-        }
-      }
-    },
-    {
-      "date": "2026-10-30",
-      "placeId": "ChIJM17n40yNpzERMNx__IDN-GE",
-      "placeName": "Spa Massage Salon Quỳnh Anh (전신 마사지, 풋 마사지)",
-      "results": {
-        "facebookVideo": {
-          "id": "1099573836301554"
-        },
-        "instagramReel": {
-          "id": "18042945131838038"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-30",
-      "placeId": "ChIJjXUjGRmNpzERbpTPg0YpR3g",
-      "placeName": "Miss Tiên Spa 1 - Body & Foot Massage Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131146111313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18416680942085741"
-        }
-      }
-    },
-    {
-      "date": "2026-10-30",
-      "placeId": "ChIJzwU_1waNpzERJApCT6UMoDk",
-      "placeName": "ZEN Spa & Nail",
-      "results": {
-        "facebookVideo": {
-          "id": "1123657970217634"
-        },
-        "instagramReel": {
-          "id": "18090255788256555"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-30",
-      "placeId": "ChIJtZzCV-CNpzERLAx0sVMFldE",
-      "placeName": "제니스스파 & 네일 ZENITH SPA & NAIL",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131144845313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17984497403905980"
         }
       }
     }
