@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Locals don't post about this place. That's why the queue is all Vietnamese families.\n\nCơm chay tự chọn Bồ Đề Chay is a pick-your-own vegetarian rice spot on Đ. 30 Tháng 4. Under $10 a person. 4.7 stars from 246 reviews. You grab a tray, point at what you want, pay almost nothing.\n\nNo English menu pressure. No tourist markup. Just real local food.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch how fast this tray fills up. Cơm chay tự chọn Bồ Đề Chay, Phu Quoc. Pick-your-own vegetarian rice, under $10, 4.7 stars. The locals eating here every day already knew. Now you do too.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianVietnam #VisitVietnam #TravelTips #PhuQuocRestaurants #PhúQuốc"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Cơm chay tự chọn Bồ Đề Chay. Under $10. 4.7 stars. Point, grab, eat.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Tray. Point. Pay under $10. Cơm chay tự chọn Bồ Đề Chay is the vegetarian spot Phu Quoc locals actually eat at.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamTravel #VegetarianTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The vegetarian spot locals eat at daily in Phu Quoc. Under $10. 4.7 stars. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post this spot.",
+    "scenes": [
+      "Exterior sign: Cơm chay tự chọn Bồ Đề Chay",
+      "Vietnamese families queuing at counter",
+      "Hands pointing at dishes, tray filling up",
+      "Close-up: rice, tofu, veggie sides plated",
+      "Receipt or price board showing under $10",
+      "Full tray on table, first bite taken"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

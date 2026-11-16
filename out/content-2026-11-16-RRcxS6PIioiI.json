@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,570 reviews. 4.8 stars. At an Indian vegetarian restaurant in the middle of Phu Quoc.\n\nRАСОИ INDIAN PURE VEGETARIAN RESTAURANT on 97 Đường Trần Hưng Đạo hits different. No meat. No shortcuts. Just proper dal, fresh paneer dishes, and curries that taste like someone's grandmother made them.\n\nIf you've been surviving on seafood and spring rolls, this is your reset meal. Budget $15-30 per person.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the curry land on the table at RASOI INDIAN PURE VEGETARIAN RESTAURANT. 4.8 stars from 1,570 people, $15-30 a head, zero meat on the menu. Phu Quoc eats are broader than you think.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips #VegetarianTravel #IndianFoodAbroad"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 1,570 reviews. Indian vegetarian in Phu Quoc.\n\nRАСОИ INDIAN PURE VEGETARIAN RESTAURANT, 97 Đường Trần Hưng Đạo. $15-30 a head. Tag your travel buddy.",
+    "video_caption": "1,570 people rated this place 4.8 stars. Pure vegetarian Indian food on a beach island. RASOI delivers.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #VegetarianTravel"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 1,570 reviews, pure veg Indian food in Phu Quoc. RASOI is not a fluke. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.8★ 1,570 reviews. In Phu Quoc.",
+    "scenes": [
+      "Exterior shot: 97 Đường Trần Hưng Đạo storefront",
+      "Close-up: steaming dal poured into bowl",
+      "Hands tearing fresh naan, slow pull-back",
+      "Paneer dish plated, vibrant sauce close-up",
+      "Review screen: 4.8 stars, 1,570 ratings shown"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

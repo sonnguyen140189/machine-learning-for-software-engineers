@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this one. Pure veg Indian food on Phu Quoc, 4.8 stars, and nobody's talking about it. Desi Indian Restaurant sits off the main strip near Cửa Lấp, so the resort crowd never finds it. Dal, paneer, fresh roti. Around $15-30 a person. For a full sit-down meal, that's fair. Save this for your Phu Quoc trip.",
+    "video_caption": "Roti coming off the pan, dal poured fresh, paneer cooked to order. Pure veg Indian in Phu Quoc and the place is packed with locals. Desi Indian Restaurant near Cửa Lấp. 4.8 stars. Go find it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #IndianFoodVietnam #VisitVietnam #TravelTips #VegetarianTravel #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past this. Pure veg Indian, 4.8 stars, Phu Quoc. Desi Indian Restaurant near Cửa Lấp deserves the detour. Save this.",
+    "video_caption": "Fresh roti. Hot dal. 4.8 stars. Pure veg Indian hiding near Cửa Lấp in Phu Quoc.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #IndianFoodVietnam #VegetarianTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Nobody told you about this pure veg Indian spot in Phu Quoc. 4.8 stars near Cửa Lấp. Go. #PhuQuoc #PhuQuocFood #VegetarianTravel #IndianFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists walk right past this.",
+    "scenes": [
+      "Exterior shot: small sign, local street near Cửa Lấp",
+      "Close-up: roti pressed and cooked on pan",
+      "Bowl of dal poured, steam rising",
+      "Paneer dish plated, vibrant colors",
+      "Packed dining room, local crowd eating",
+      "Google rating: 4.8 stars on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

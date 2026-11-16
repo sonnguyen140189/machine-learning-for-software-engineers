@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this place. 4.9 stars. 76 reviews. Under $10 a head. TIỆM CHAY TÂM AN on 38 Hoàng Văn Thụ is where locals eat vegetarian in Phu Quoc, and almost no foreign visitors know it exists. Fresh, clean, cheap. The kind of meal that makes you rethink every resort buffet you paid triple for. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what a 4.9-star vegetarian lunch looks like in Phu Quoc for under $10. TIỆM CHAY TÂM AN. Locals pack this place daily. Tourists walk straight past it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VegetarianVietnam #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals eat here. Tourists don't know it exists. TIỆM CHAY TÂM AN. 4.9 stars. Under $10. Save this.",
+    "video_caption": "4.9 stars. Under $10. Zero tourists. TIỆM CHAY TÂM AN is Phu Quoc's best-kept vegetarian secret.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #VegetarianVietnam #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Locals eat here every day. Tourists walk past. 4.9⭐ under $10. TIỆM CHAY TÂM AN #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Pan across busy local lunch crowd",
+      "Close-up: steaming vegetarian dishes plated",
+      "Zoom on handwritten menu board",
+      "Show bill arriving, under $10 total",
+      "Cut to storefront: 38 Hoàng Văn Thụ sign"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
