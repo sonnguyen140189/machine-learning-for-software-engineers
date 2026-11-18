@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "2,029 reviews. Every single one is 5 stars. That's not luck. That's VEGAYACHTS delivering every time. Sunset yacht cruises off the coast of An Thới, Phú Quốc, where the South China Sea turns gold at dusk. No crowds, no noise, just open water and that sky. If you're planning Phu Quoc, this goes on the list before the beach clubs. Save this for your Phu Quoc trip.",
+    "video_caption": "The deck clears. The engine hums. And then An Thới disappears behind you. This is what 2,029 five-star reviews look like on VEGAYACHTS, and yeah, it earns every single one.",
+    "first_comment": "#PhuQuoc #PhuQuocYacht #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "2,029 reviews. Perfect 5.0. VEGAYACHTS doesn't miss. Sunset on the water off An Thới hits different from any beach chair. Tag your travel buddy.",
+    "video_caption": "Open water. Golden sky. Zero complaints. VEGAYACHTS off An Thới, Phú Quốc, 2,029 five-star reasons to book.",
+    "hashtags": "#PhuQuocYacht #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SunsetCruise #PhuQuoc #IslandLife #VisitVietnam"
+  },
+  "tiktok": {
+    "caption": "2,029 reviews. Perfect 5.0. VEGAYACHTS off An Thới earns it every sunset. #PhuQuoc #PhuQuocYacht #VietnamTravel #TravelTips #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "2,029 reviews. Perfect 5.0.",
+    "scenes": [
+      "Yacht leaves An Thới dock at dusk",
+      "Wide shot: open sea, horizon glowing",
+      "Guests on deck, drinks raised, sky orange",
+      "Camera pans across still water surface",
+      "Close-up: 5.0 stars on phone screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

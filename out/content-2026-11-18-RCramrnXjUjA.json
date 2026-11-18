@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,491 reviews. 4.0 stars. John's Tours Phú Quốc keeps showing up for a reason.\n\nBased on Đường Trần Hưng Đạo, this is one of the most-reviewed tour operators on the island. Snorkeling, island hopping, fishing trips, they run it all.\n\nIf you're planning time on the water, this is a solid starting point. Book early. Spots fill fast.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Boat loaded. Crew ready. John's Tours Phú Quốc has 1,491 reviews backing them up. Here's what a day on the water actually looks like.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #IslandHoppingPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "1,491 reviews on one Phu Quoc tour agency. John's Tours Phú Quốc earns the numbers.\n\nIsland hopping, snorkeling, fishing. All covered.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Deck, ocean, go. 1,491 people reviewed John's Tours Phú Quốc for a reason. Watch the full day.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #IslandHoppingPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "1,491 reviews on one Phu Quoc tour boat. John's Tours Phú Quốc delivers. #PhuQuoc #PhuQuocTours #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "1,491 reviews. One tour agency.",
+    "scenes": [
+      "Boat pulling away from the dock",
+      "Crew handing out snorkel gear",
+      "Underwater shot near coral reef",
+      "Fresh seafood plated on deck",
+      "Sign: John's Tours Phú Quốc"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

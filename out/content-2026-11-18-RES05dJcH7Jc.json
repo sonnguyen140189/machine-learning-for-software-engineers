@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 5,710 reviews. No debate.\n\nT-lounge & Moon Spa on Đường Trần Hưng Đạo is the kind of place that earns a perfect score and keeps it. Full spa treatments, a lounge to decompress in, and a reputation that speaks in raw numbers. Book ahead. Slots fill fast.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "5,710 people gave this spa a perfect score. Watch why. T-lounge & Moon Spa, Đường Trần Hưng Đạo, Phu Quoc. Your body will thank you.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 5,710 reviews. Zero debate.\n\nT-lounge & Moon Spa on Đường Trần Hưng Đạo. Book early.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "5,710 reviews. Still 5.0 stars. T-lounge & Moon Spa does something right. Tag your travel buddy.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+  },
+  "tiktok": {
+    "caption": "5.0 stars from 5,710 people. T-lounge & Moon Spa, Phu Quoc. Book it. #PhuQuoc #PhuQuocSpa #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5,710 reviews. Still 5.0 stars.",
+    "scenes": [
+      "Exterior shot: spa entrance on Đường Trần Hưng Đạo",
+      "Pan across lounge seating area",
+      "Close-up: treatment room, soft lighting",
+      "Hands receiving massage treatment",
+      "Screen recording: 5.0 star Google rating"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

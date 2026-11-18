@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the resort spa. Locals book Phu Quoc Day Spa - 푸꾸옥 스파 마사지 - 富国岛的水疗按摩 on Đường Trần Hưng Đạo. 4.7 stars across 1,525 reviews and it still flies under the radar. No lobby upsells. No overpriced add-ons. Just solid work at a street-level spa that keeps filling up on word of mouth alone. Save this for your Phu Quoc trip.",
+    "video_caption": "Hands-on, no-frills massage on Đường Trần Hưng Đạo. 4.7 stars. 1,525 people didn't stumble here by accident. Skip the resort spa queue and book Phu Quoc Day Spa instead.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists skip this. 1,525 reviews say that's their loss. Phu Quoc Day Spa on Đường Trần Hưng Đạo. 4.7 stars. Tag your travel buddy.",
+    "video_caption": "Street-level spa. 4.7 stars. 1,525 reviews. Phu Quoc Day Spa earns every one.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuocLife"
+  },
+  "tiktok": {
+    "caption": "Resort spa tourists walk past this 4.7-star spot every day. Big mistake. #PhuQuoc #PhuQuocSpa #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep walking past this.",
+    "scenes": [
+      "Exterior shot: 100/3 Đường Trần Hưng Đạo sign",
+      "Pan across spa entrance, calm interior",
+      "Close-up: 4.7 stars, 1,525 reviews on screen",
+      "Hands working a shoulder massage",
+      "Guest relaxing, eyes closed, tension gone"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
