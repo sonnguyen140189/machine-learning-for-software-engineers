@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJLUpd9kSNpzER53HI0cebROw",
+    "ChIJE8hQn1ONpzER1K6-murM3g0",
+    "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
+    "ChIJFQgAJs2NpzER0WPyHaJXWLk",
+    "ChIJPXLuTs2NpzERES05dJcH7Jc",
+    "ChIJiyzaO4CNpzERTH6QKehpvBw",
+    "ChIJw0auYQCNpzER8BCjNBsmIBs",
+    "ChIJCT7IJHeNpzERsmyKSQegiig",
+    "ChIJwUzGbH-MpzERwZw0BxLOowU",
+    "ChIJ2SBPKCONpzER36aEkpOGpyk",
+    "ChIJgw37s0-XpzERx2gWzxP5Qfg",
+    "ChIJFfC9MFqMpzERCramrnXjUjA",
     "ChIJY6GhjSaNpzERAuI657sZah0",
     "ChIJR4_RrzuVpzERTNZI9HaezLk",
     "ChIJ1Tz0QOcfCDER2oug-pJV_TA",
@@ -187,21 +199,189 @@
     "ChIJSTGCnBuLpzERx2KCLdVFKIk",
     "ChIJ4YZT316MpzERCRfSDHQgbtk",
     "ChIJkcMAuZCNpzERRQmhoqfUVYk",
-    "ChIJbWwp_zj1pzERg-_J_57c0UA",
-    "ChIJ0cqxY2ySpzERo9J49pxmTgY",
-    "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
-    "ChIJn6kim_SXpzERd6rlRMQmpZc",
-    "ChIJR8uGGm2TpzERCyP0dgpgLX0",
-    "ChIJ1zgaajWTpzERAwdFNM7oyxM",
-    "ChIJ22idLmGNpzERjGFt76Jpj7s",
-    "ChIJTd2mCvyNpzERdeSpl6CVO3A",
-    "ChIJRQVFmFqNpzERu5Sg8_W6Zoo",
-    "ChIJDwL8FCsfCDERLiDVhzYdbxg",
-    "ChIJ_0eqFMcfCDERGFRN2VvZDXg",
-    "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
-    "ChIJdaBXGQCVpzERp96WmmKwHM4"
+    "ChIJbWwp_zj1pzERg-_J_57c0UA"
   ],
   "history": [
+    {
+      "date": "2026-11-18",
+      "placeId": "ChIJLUpd9kSNpzER53HI0cebROw",
+      "placeName": "Little WIN SPA - MASSAGE (전신 마사지, 풋 마사지)",
+      "results": {
+        "facebookVideo": {
+          "id": "1478988640827180"
+        },
+        "instagramReel": {
+          "id": "18099724310481143"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "placeId": "ChIJE8hQn1ONpzER1K6-murM3g0",
+      "placeName": "Glow Day Spa Massage 1 ( 발 마사지, 바디 마사지,핫스톤 테라피)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134033773313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17911659204396738"
+        }
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "placeId": "ChIJ3_BvKVqMpzERC9__5hfKN_Q",
+      "placeName": "Phu Quoc Day Spa - 푸꾸옥 스파 마사지 - 富国岛的水疗按摩",
+      "results": {
+        "facebookVideo": {
+          "id": "1799054157861098"
+        },
+        "instagramReel": {
+          "id": "18117360293153973"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "placeId": "ChIJFQgAJs2NpzER0WPyHaJXWLk",
+      "placeName": "Green Paradise Spa - Massage (전신 마사지, 풋 마사지)",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134032693313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18140787010724755"
+        }
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "placeId": "ChIJPXLuTs2NpzERES05dJcH7Jc",
+      "placeName": "푸꾸옥 티라운지 엔 문스파(t-lounge & moon spa ) 카카오톡",
+      "results": {
+        "facebookVideo": {
+          "id": "1168069515664406"
+        },
+        "instagramReel": {
+          "id": "18118260494332281"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "placeId": "ChIJiyzaO4CNpzERTH6QKehpvBw",
+      "placeName": "FIONA SPA",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134031841313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18019114676977093"
+        }
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "placeId": "ChIJw0auYQCNpzER8BCjNBsmIBs",
+      "placeName": "LUA SPA",
+      "results": {
+        "facebookVideo": {
+          "id": "977668208335349"
+        },
+        "instagramReel": {
+          "id": "18138462754672419"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "placeId": "ChIJCT7IJHeNpzERsmyKSQegiig",
+      "placeName": "YUJU SPA Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134030575313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18131878069868001"
+        }
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "placeId": "ChIJwUzGbH-MpzERwZw0BxLOowU",
+      "placeName": "Catamaran Sarita Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1207219295165730"
+        },
+        "instagramReel": {
+          "id": "18029784998946904"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "placeId": "ChIJ2SBPKCONpzER36aEkpOGpyk",
+      "placeName": "Nice Tours Phu Quoc - Tailor Made Travel",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134029543313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18154194763510219"
+        }
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "placeId": "ChIJgw37s0-XpzERx2gWzxP5Qfg",
+      "placeName": "VEGAYACHTS - Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1949954835967369"
+        },
+        "instagramReel": {
+          "id": "18119492876084971"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "placeId": "ChIJFfC9MFqMpzERCramrnXjUjA",
+      "placeName": "John's Tours Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134028355313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Media ID is not available\",\"code\":9007,\"type\":\"OAuthException\",\"error_subcode\":2207027,\"is_transient\":false,\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"error_user_title\":\"Cannot Publish\",\"fbtrace_id\":\"AcdaLxCpNecIajCsYvQ51qe\"}}"
+        }
+      }
+    },
     {
       "date": "2026-11-16",
       "placeId": "ChIJY6GhjSaNpzERAuI657sZah0",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18138236290672060"
-        }
-      }
-    },
-    {
-      "date": "2026-11-01",
-      "placeId": "ChIJ0cqxY2ySpzERo9J49pxmTgY",
-      "placeName": "Pullman Phu Quoc Beach Resort",
-      "results": {
-        "facebookVideo": {
-          "id": "1107858822236777"
-        },
-        "instagramReel": {
-          "id": "18112523966246361"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-11-01",
-      "placeId": "ChIJQ6NpnkEeCDER1xPLzXd8bKk",
-      "placeName": "Meliá Vinpearl Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131429749313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18002225996814318"
-        }
-      }
-    },
-    {
-      "date": "2026-11-01",
-      "placeId": "ChIJn6kim_SXpzERd6rlRMQmpZc",
-      "placeName": "Premier Residences Phu Quoc Emerald Bay Managed by Accor",
-      "results": {
-        "facebookVideo": {
-          "id": "1400079652198361"
-        },
-        "instagramReel": {
-          "id": "17912824047472648"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-11-01",
-      "placeId": "ChIJR8uGGm2TpzERCyP0dgpgLX0",
-      "placeName": "Sailing Club Signature Resort Phu Quoc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131428789313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18105644858200913"
-        }
-      }
-    },
-    {
-      "date": "2026-10-31",
-      "placeId": "ChIJ1zgaajWTpzERAwdFNM7oyxM",
-      "placeName": "Sailing Club Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "984797174672732"
-        },
-        "instagramReel": {
-          "id": "17958340353267736"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-31",
-      "placeId": "ChIJ22idLmGNpzERjGFt76Jpj7s",
-      "placeName": "Cyan Bar & Sunset Dining",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131297551313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18059306900802180"
-        }
-      }
-    },
-    {
-      "date": "2026-10-31",
-      "placeId": "ChIJTd2mCvyNpzERdeSpl6CVO3A",
-      "placeName": "Passion Pub & Sports Bar",
-      "results": {
-        "facebookVideo": {
-          "id": "1785699446058989"
-        },
-        "instagramReel": {
-          "id": "17915184261498651"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-31",
-      "placeId": "ChIJRQVFmFqNpzERu5Sg8_W6Zoo",
-      "placeName": "Kingkong Mart",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131296303313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17878578879572892"
-        }
-      }
-    },
-    {
-      "date": "2026-10-31",
-      "placeId": "ChIJDwL8FCsfCDERLiDVhzYdbxg",
-      "placeName": "Chợ đêm Grand World - Night Market Grand World Phú Quốc",
-      "results": {
-        "facebookVideo": {
-          "id": "2762150340847086"
-        },
-        "instagramReel": {
-          "id": "18118098367822176"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-31",
-      "placeId": "ChIJ_0eqFMcfCDERGFRN2VvZDXg",
-      "placeName": "Phố đi bộ - chợ đêm Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131295337313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17965039113237093"
-        }
-      }
-    },
-    {
-      "date": "2026-10-31",
-      "placeId": "ChIJTZ1zwWGTpzERcwjyUgDVOt0",
-      "placeName": "LOLO BAKERY & CAFE (로로베이커리)",
-      "results": {
-        "facebookVideo": {
-          "id": "1730471338500003"
-        },
-        "instagramReel": {
-          "id": "18121234042758221"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-10-31",
-      "placeId": "ChIJdaBXGQCVpzERp96WmmKwHM4",
-      "placeName": "Ryrao Bakery",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131294197313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18401550196206341"
         }
       }
     }
