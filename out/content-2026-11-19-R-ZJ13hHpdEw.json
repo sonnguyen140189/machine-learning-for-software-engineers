@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 135 reviews. One of the highest-rated dive clubs on the island.\n\nPhil Hai Diving Club at 68 Đường Trần Hưng Đạo is where serious divers go in Phu Quoc. Small operation. Big reputation. Whether you're a first-timer or bringing your own certification, the numbers don't lie.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Gear up and drop in. Phil Hai Diving Club earns a 4.9 from 135 divers and you can see why the moment you hit the water. Phu Quoc's reefs are waiting.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #DivingVietnam #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #ScubaDiving"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 135 divers rated this the best on the island.\n\nPhil Hai Diving Club, 68 Đường Trần Hưng Đạo. Save this.",
+    "video_caption": "135 reviews. 4.9 stars. Phil Hai Diving Club delivers underwater Phu Quoc at its best.",
+    "hashtags": "#PhuQuocDiving #PhuQuocTips #DivingVietnam #PhuQuocActivities #VietnamTravel #TravelTips #TravelReels #ScubaDiving"
+  },
+  "tiktok": {
+    "caption": "4.9 stars from 135 divers. Phil Hai Diving Club is the move in Phu Quoc. #PhuQuoc #PhuQuocDiving #DivingVietnam #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9★ · 135 divers rated this.",
+    "scenes": [
+      "Diver gears up on the dock",
+      "Underwater shot: coral reef close-up",
+      "Diver signals OK to camera",
+      "Surface break, mask off, smiling",
+      "Sign: Phil Hai Diving Club exterior"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

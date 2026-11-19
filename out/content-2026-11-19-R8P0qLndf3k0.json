@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "207 reviews. Every single one is 5 stars. That's not luck, that's a dive school doing something right. Poseidon Diving School Phu Quoc Padi is the spot locals point you to when you ask where to actually learn to dive in Phu Quoc. Small classes, real instruction, zero filler. If getting PADI certified is on your list, this is the place to do it. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch first-timers go from zero dive experience to fully certified, right here in Phu Quoc. Poseidon Diving School Phu Quoc Padi holds a perfect 5.0 across 207 reviews. That score doesn't lie.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #ScubaDivingPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "207 reviews. 5.0 stars. Zero exceptions. Poseidon Diving School Phu Quoc Padi is the real deal for PADI certification. Tag your travel buddy.",
+    "video_caption": "Perfect 5.0. 207 divers can't be wrong. This is where you get PADI certified in Phu Quoc.",
+    "hashtags": "#PhuQuocDiving #ScubaDivingPhuQuoc #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "207 reviews. All 5 stars. This dive school in Phu Quoc is built different. #PhuQuoc #PhuQuocDiving #ScubaDiving #PADICertified"
+  },
+  "video_script": {
+    "hook": "207 reviews. ALL 5 stars.",
+    "scenes": [
+      "Instructor checks gear on student",
+      "Student enters water, first bubble trail",
+      "Underwater wide shot, coral reef below",
+      "PADI cert card held up to camera",
+      "Review screen: 5.0, 207 ratings"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

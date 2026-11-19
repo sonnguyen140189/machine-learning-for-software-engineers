@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 581 reviews. Inside Chợ đêm Phú Quốc.\n\nMost people walk right past Ann Cafe & Brunch Phu Quoc hunting street food. Big mistake. This place sits at 7 Đường Lê Thị Hồng Gấm and it hits differently, great coffee, proper brunch plates, and a crowd that actually knows what they're doing. $15-30 a person for a full sit-down meal at a night market. That math is unbeatable.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walk into Chợ đêm Phú Quốc, skip the stalls, find Ann Cafe & Brunch Phu Quoc. 4.8 stars for a reason. Brunch plates, strong coffee, $15-30 a head. This is the move.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocCafe #VisitVietnam #TravelTips #PhuQuocRestaurant #VietnamFood"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 581 reviews. Inside a night market. Ann Cafe & Brunch Phu Quoc is not what you expect.\n\nTag your travel buddy.",
+    "video_caption": "Night market brunch hit different. Ann Cafe & Brunch Phu Quoc, 4.8 stars, $15-30 a head. Find it.",
+    "hashtags": "#PhuQuocFood #PhuQuocCafe #PhuQuocTips #PhuQuocRestaurant #VietnamTravel #TravelTips #TravelReels #BrunchVibes"
+  },
+  "tiktok": {
+    "caption": "4.8 stars inside Chợ đêm Phú Quốc. Most tourists walk past. Don't. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel #BrunchTok"
+  },
+  "video_script": {
+    "hook": "4.8 stars. Inside a night market.",
+    "scenes": [
+      "Pan across Chợ đêm Phú Quốc entrance at night",
+      "Push through the crowd, away from stalls",
+      "Reveal Ann Cafe & Brunch Phu Quoc signage",
+      "Close-up: coffee poured, brunch plate lands",
+      "Show packed tables, happy diners",
+      "Flash rating: 4.8 stars, 581 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

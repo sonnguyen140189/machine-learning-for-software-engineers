@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk right past this place. 4.8 stars, 695 reviews, and somehow Bagels 'n Eggs still doesn't have a line out the door. Proper bagels in Phu Quoc. Eggs done right. A breakfast spot on Đường Trần Hưng Đạo that earns repeat visits. If your mornings here have been hotel buffet by default, fix that. Save this for your Phu Quoc trip.",
+    "video_caption": "Bagels landing on the plate. Eggs cooked to order. 4.8 stars on Đường Trần Hưng Đạo and the tables are still half empty at 8am. This is the breakfast Phu Quoc wasn't supposed to have.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BreakfastPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep walking past Bagels 'n Eggs. 4.8 stars. 695 reviews. Tables still open. Fix your Phu Quoc mornings. Save this.",
+    "video_caption": "Bagels in Phu Quoc. 4.8 stars. Nobody's talking about it. Now you know.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocBreakfast #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Nobody talks about this breakfast spot in Phu Quoc. 4.8 stars. Still no line. #PhuQuoc #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep skipping this.",
+    "scenes": [
+      "Exterior shot: 118/2 Đường Trần Hưng Đạo storefront",
+      "Bagel sliced open, steam rising",
+      "Eggs plated, close-up on the yolk",
+      "Review screen: 4.8 stars, 695 reviews",
+      "Half-empty tables, morning light"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
