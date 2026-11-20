@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered off Đường Trần Hưng Đạo and found A little Eatery. 4.8 stars. 403 reviews. And somehow still no queue. This is the kind of Duong Dong spot that earns repeat visits, not Instagram fame. Budget $15-30 per person and eat well. Save this for your Phu Quoc trip.",
+    "video_caption": "Fork hits the plate. 4.8 stars on a Duong Dong side street. A little Eatery is doing something right, and the 403 reviewers agree. $15-30 a head. No hype needed.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked past twice. Third time I went in. A little Eatery, 4.8★, 403 reviews, Duong Dong. Tag your travel buddy.",
+    "video_caption": "4.8 stars on a side street in Duong Dong. A little Eatery earns every one of them.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #DuongDong #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Almost missed this one. A little Eatery, Duong Dong, 4.8 stars. Go. #PhuQuoc #PhuQuocFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "Walked past 3 times. Don't be me.",
+    "scenes": [
+      "Street-level sign: A little Eatery",
+      "Push through the door, interior reveal",
+      "Plates arriving at the table, close-up",
+      "Google review count: 403, rating: 4.8",
+      "Diner takes first bite, reaction shot"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

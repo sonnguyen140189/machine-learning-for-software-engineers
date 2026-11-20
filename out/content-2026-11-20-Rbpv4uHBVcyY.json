@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout.\n\nBEACH bar on Lê Lợi, right on the water in Khu 1. 4.5 stars across 600 reviews. That's not luck, that's consistency.\n\nSand, cold drink, zero agenda. The kind of afternoon Phu Quoc does better than anywhere.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Cold drink in hand, feet in the sand. BEACH bar delivers every single time. 4.5 stars, 600 reviews, and a view that earns both. Find it on Lê Lợi, Khu 1.",
+    "first_comment": "#PhuQuoc #PhuQuocBar #PhuQuocBeaches #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. BEACH bar, Lê Lợi, 4.5 stars, 600 reviews. Phu Quoc at its best.\n\nSave this.",
+    "video_caption": "Sand underfoot, drink in hand. BEACH bar on Lê Lợi is exactly what your trip needs.",
+    "hashtags": "#PhuQuocBar #PhuQuocBeaches #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The bar that fixes burnout. BEACH bar, Phu Quoc. 4.5 stars for a reason. #PhuQuoc #PhuQuocBar #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Aerial pull back over shoreline",
+      "Feet hit the sand, slow motion",
+      "Bartender slides cold drink across bar",
+      "Wide shot: empty chairs, full horizon",
+      "Guest stares at water, says nothing"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

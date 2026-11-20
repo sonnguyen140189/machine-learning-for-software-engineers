@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you took the cable car over open ocean and landed on an island with rollercoasters. That's Sunworld Hòn Thơm Phú Quốc, and it hits different when you see it in person. One of the longest oversea cable car rides on the planet. Water park, rides, beaches, all on one island. 4.4 stars across 3,882 reviews. Save this for your Phu Quoc trip.",
+    "video_caption": "Cable car doors open. Ocean in every direction. Then an island full of rides appears below you. Sunworld Hòn Thơm Phú Quốc is not what most people expect from Phu Quoc. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocIsland #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: cable car over open ocean, island full of rides waiting below. Sunworld Hòn Thơm Phú Quốc. 4.4★ from 3,882 reviews. Save this.",
+    "video_caption": "Stepped off the cable car onto a whole island. Sunworld Hòn Thơm Phú Quốc is a full day. Don't skip it.",
+    "hashtags": "#PhuQuocTips #PhuQuocIsland #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: cable car over ocean, island full of rides below. Did not see this coming. #PhuQuoc #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: island amusement park appears",
+    "scenes": [
+      "Cable car lifts off, ocean below",
+      "Aerial shot: island comes into frame",
+      "Doors open, park entrance revealed",
+      "Water slides, roller coaster in action",
+      "Sunset view from cable car return"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

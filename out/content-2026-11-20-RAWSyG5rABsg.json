@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "19,653 reviews. 4.5 stars. And most tourists still skip this.\n\nSunworld Hòn Thơm is a cable car ride over open ocean, an Ancient Rome-themed shopping hub, AND a full island water park. All connected. All one ticket.\n\nThe cable car alone covers 7,899 meters, one of the longest sea-crossing cable cars on the planet.\n\nPhu Quoc keeps pulling surprises. This is a big one.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Cable car. Open ocean below. Ancient Rome on the other side. Sunworld Hòn Thơm delivers things you don't expect from a Vietnamese island. 4.5 stars, 19,000+ reviews. Plan accordingly.",
+    "first_comment": "#PhuQuoc #PhuQuocThingsToDo #SunworldHonThom #VisitVietnam #TravelTips #PhuQuocIsland #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "19,653 reviews. 4.5 stars. Still flying under the radar.\n\nSunworld Hòn Thơm: sea cable car, Ancient Rome hub, island water park. One ticket.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "7,899 meters of cable car over open ocean. Then a water park. Then Ancient Rome. Phu Quoc, what are you?",
+    "hashtags": "#PhuQuocThingsToDo #PhuQuocIsland #SunworldHonThom #HonThomCableCar #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "19,653 reviews and tourists still walk past this. Cable car over open ocean + water park + Ancient Rome in Phu Quoc. #PhuQuoc #SunworldHonThom #VietnamTravel #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "19,653 reviews. Know it?",
+    "scenes": [
+      "Aerial shot: cable car leaving mainland dock",
+      "Cabin rising over open turquoise ocean",
+      "Wide shot: Roman-style archways and columns",
+      "Water park slides launching into blue pools",
+      "POV look down from cable car height",
+      "Review count and 4.5 stars on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

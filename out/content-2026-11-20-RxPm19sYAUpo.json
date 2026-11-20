@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "794 reviews. 4.6 stars. For a pho spot on Trần Hưng Đạo.\n\nPhở bò Nam Định is doing something right. Nam Dinh-style beef pho, slow-cooked broth, the kind of bowl that makes you cancel your beach plans and order a second.\n\nPrice range: $15-30 per person. Worth every dollar.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the broth hit the bowl at Phở bò Nam Định. 794 locals and travelers rated this 4.6 stars. One sip and you'll understand why. 108 Đường Trần Hưng Đạo, Phú Quốc.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "794 reviews. 4.6 stars. This pho earns it.\n\nPhở bò Nam Định on Đường Trần Hưng Đạo is the bowl Phu Quoc keeps rating up.\n\nTag your travel buddy.",
+    "video_caption": "Steam rising. Broth pouring. 4.6 stars from 794 people. Phở bò Nam Định does not miss.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "794 reviews. 4.6 stars. This pho in Phu Quoc is not playing around. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "794 reviews. 4.6 stars.",
+    "scenes": [
+      "Close-up: broth poured into bowl",
+      "Slow pull: tendon, brisket, fresh herbs",
+      "Steam rising above the bowl",
+      "Busy tables, locals eating",
+      "Chopsticks lift noodles, broth drips"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

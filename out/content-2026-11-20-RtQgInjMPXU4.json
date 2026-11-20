@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you finally found the good Bún Quậy in Phu Quoc.\n\nBún quậy THIỆN MỸ on Đường Trần Hưng Đạo has 439 reviews and a 4.7-star rating. That's not luck. That's a locals' staple that keeps delivering.\n\nBún quậy is Phu Quoc's own noodle dish. Soft rice noodles, fresh seafood, rich broth. You stir it yourself at the table. Hence the name.\n\nBudget around $15-30 per person. Worth every dollar.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Stirring the broth, pulling the noodles, 439 reviews backing this bowl. Bún quậy THIỆN MỸ is the Phu Quoc noodle spot you keep walking past. Stop walking.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BunQuay #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you walked past this 3 times before going in. Don't be that tourist.\n\nBún quậy THIỆN MỸ. 4.7★, 439 reviews. Phu Quoc's own noodle dish done right.\n\nTag your travel buddy.",
+    "video_caption": "Soft noodles, fresh seafood, stir-it-yourself broth. 4.7 stars at Bún quậy THIỆN MỸ. This is the bowl Phu Quoc is known for.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #BunQuay #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: found the Phu Quoc noodle spot locals actually rate. 4.7★ 439 reviews. Bún quậy THIỆN MỸ. #PhuQuoc #PhuQuocFood #VietnamFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: found the good Bún Quậy.",
+    "scenes": [
+      "Street sign: Đường Trần Hưng Đạo",
+      "Packed tables, locals eating",
+      "Bowl arrives, steam rising",
+      "Hand stirs noodles in broth",
+      "Close-up: seafood, soft noodles",
+      "Phone shows 4.7★, 439 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
