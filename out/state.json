@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJi4uGpxKNpzERP7b_sLCQiqY",
+    "ChIJKzlafMuLpzERtBF-FredP28",
+    "ChIJ2ZmK8-aXpzER871TJk_88xw",
+    "ChIJvxdKNoKWpzERAWSyG5rABsg",
+    "ChIJOawITM2NpzERxPm19sYAUpo",
+    "ChIJjR83W0yNpzERUdxmKf-6ozw",
+    "ChIJIxst3A-NpzERxKcvb8CHI2Y",
+    "ChIJT6Xejc2NpzERdkK-4arbWEI",
+    "ChIJH0aX5viNpzER9TG55g0FCcM",
+    "ChIJGXZel_ONpzERtQgInjMPXU4",
+    "ChIJTd2mCvyNpzERdeSpl6CVO3A",
+    "ChIJZTA3eeiNpzERbpv4uHBVcyY",
     "ChIJqZTzF9-NpzERawUadUKlXUU",
     "ChIJW-dwUgCNpzEROm6tVugd7qw",
     "ChIJW0SI6z2NpzERKixqsVMmIkI",
@@ -187,21 +199,189 @@
     "ChIJYVpQmqSJpzERQ2jruG6WqKE",
     "ChIJt4DYpuyLpzERm18CccVtFaM",
     "ChIJfQAdSg2NpzEREkgYHVPn5dE",
-    "ChIJOS1SBvaNpzER_8gRpU5tGKI",
-    "ChIJYR0kkkuNpzERyLTt-5KL60Y",
-    "ChIJ73vtGACNpzERggOwt0eOKmI",
-    "ChIJofwmL4GLpzERIyBu_Nb2Gso",
-    "ChIJnwyMnieNpzER3fyL1HjMgaw",
-    "ChIJUYfZHeSNpzER5-l8QW0lTcM",
-    "ChIJqfezlgAfCDERaYwzQEp_Rkc",
-    "ChIJLUwZPQCNpzERZrGj0TvOFHI",
-    "ChIJZda5YRSLpzERa4Qv5WcHsuo",
-    "ChIJg1ksqtqNpzER3W4HrVMz7hE",
-    "ChIJ652atFCNpzERuDwXbWc_sTQ",
-    "ChIJt4XvJwCNpzERDsy4DogoAGY",
-    "ChIJV-4XtMuNpzERGZ71Xi3iZJA"
+    "ChIJOS1SBvaNpzER_8gRpU5tGKI"
   ],
   "history": [
+    {
+      "date": "2026-11-20",
+      "placeId": "ChIJi4uGpxKNpzERP7b_sLCQiqY",
+      "placeName": "GÓC CÀ PHÊ - Phú Quốc Riverside Coffee, Tea & Books",
+      "results": {
+        "facebookVideo": {
+          "id": "1155902244084153"
+        },
+        "instagramReel": {
+          "id": "17989874378888903"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "placeId": "ChIJKzlafMuLpzERtBF-FredP28",
+      "placeName": "Hoa Đảo Viên Coffee - Phú Quốc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134347801313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17946453111364996"
+        }
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "placeId": "ChIJ2ZmK8-aXpzER871TJk_88xw",
+      "placeName": "Sunworld Hon Thom Phu Quoc",
+      "results": {
+        "facebookVideo": {
+          "id": "1422809406537904"
+        },
+        "instagramReel": {
+          "id": "18094485365682339"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "placeId": "ChIJvxdKNoKWpzERAWSyG5rABsg",
+      "placeName": "Sunworld Hòn Thơm - Hon Thom Cable Car Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134346763313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18289043533295627"
+        }
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "placeId": "ChIJOawITM2NpzERxPm19sYAUpo",
+      "placeName": "Phở bò Nam Định",
+      "results": {
+        "facebookVideo": {
+          "id": "1739012007554779"
+        },
+        "instagramReel": {
+          "id": "18171893488411283"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "placeId": "ChIJjR83W0yNpzERUdxmKf-6ozw",
+      "placeName": "NONÊ Kitchen & Bar Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134345779313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17936225469409694"
+        }
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "placeId": "ChIJIxst3A-NpzERxKcvb8CHI2Y",
+      "placeName": "Tween's Kitchen - Main Street Branch",
+      "results": {
+        "facebookVideo": {
+          "id": "2280090712847003"
+        },
+        "instagramReel": {
+          "id": "18035766953905734"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "placeId": "ChIJT6Xejc2NpzERdkK-4arbWEI",
+      "placeName": "Nhà Xưa 68",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134344555313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "error": "IG Graph /17841415599286595/media_publish failed: {\"error\":{\"message\":\"Media ID is not available\",\"code\":9007,\"type\":\"OAuthException\",\"error_subcode\":2207027,\"is_transient\":false,\"error_user_msg\":\"The media is not ready for publishing, please wait for a moment\",\"error_user_title\":\"Cannot Publish\",\"fbtrace_id\":\"ARW83sBq_ZexymsPwkWR8Tf\"}}"
+        }
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "placeId": "ChIJH0aX5viNpzER9TG55g0FCcM",
+      "placeName": "A little Eatery",
+      "results": {
+        "facebookVideo": {
+          "id": "1699715378446827"
+        },
+        "instagramReel": {
+          "id": "18179646589452215"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "placeId": "ChIJGXZel_ONpzERtQgInjMPXU4",
+      "placeName": "Bún quậy THIỆN MỸ",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134343313313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18146629486586777"
+        }
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "placeId": "ChIJTd2mCvyNpzERdeSpl6CVO3A",
+      "placeName": "Passion Pub & Sports Bar",
+      "results": {
+        "facebookVideo": {
+          "id": "4501374753456808"
+        },
+        "instagramReel": {
+          "id": "17972902395188189"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "placeId": "ChIJZTA3eeiNpzERbpv4uHBVcyY",
+      "placeName": "BEACH",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134342191313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18090782546295712"
+        }
+      }
+    },
     {
       "date": "2026-11-19",
       "placeId": "ChIJqZTzF9-NpzERawUadUKlXUU",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18095435513202066"
-        }
-      }
-    },
-    {
-      "date": "2026-11-03",
-      "placeId": "ChIJYR0kkkuNpzERyLTt-5KL60Y",
-      "placeName": "Food Garden Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "2630343694148802"
-        },
-        "instagramReel": {
-          "id": "18103013738531940"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-11-03",
-      "placeId": "ChIJ73vtGACNpzERggOwt0eOKmI",
-      "placeName": "Diner PHU QUOC BEER'n BURGERS BREAKFAST LUNCH DINNER",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131712271313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18028169810703733"
-        }
-      }
-    },
-    {
-      "date": "2026-11-03",
-      "placeId": "ChIJofwmL4GLpzERIyBu_Nb2Gso",
-      "placeName": "Tim Coffee",
-      "results": {
-        "facebookVideo": {
-          "id": "1440107867619412"
-        },
-        "instagramReel": {
-          "id": "18125766836315363"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-11-03",
-      "placeId": "ChIJnwyMnieNpzER3fyL1HjMgaw",
-      "placeName": "The LÁ - Coffee & Breakfast",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131711305313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18100082441451369"
-        }
-      }
-    },
-    {
-      "date": "2026-11-02",
-      "placeId": "ChIJUYfZHeSNpzER5-l8QW0lTcM",
-      "placeName": "Liby Travel - Phu Quoc Snorkeling Tours",
-      "results": {
-        "facebookVideo": {
-          "id": "28984318521234850"
-        },
-        "instagramReel": {
-          "id": "18133676809792337"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-11-02",
-      "placeId": "ChIJqfezlgAfCDERaYwzQEp_Rkc",
-      "placeName": "ALOHA88 - Kayak & Snorkeling club",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131579275313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18342937228286270"
-        }
-      }
-    },
-    {
-      "date": "2026-11-02",
-      "placeId": "ChIJLUwZPQCNpzERZrGj0TvOFHI",
-      "placeName": "Layla Mermaid Tours - Premium 3 Island Snorkeling & Beach BBQ Escape",
-      "results": {
-        "facebookVideo": {
-          "id": "2185648902834111"
-        },
-        "instagramReel": {
-          "id": "18027435863926289"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-11-02",
-      "placeId": "ChIJZda5YRSLpzERa4Qv5WcHsuo",
-      "placeName": "Bún Quậy Cô Thắm",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131578213313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18027883631866977"
-        }
-      }
-    },
-    {
-      "date": "2026-11-02",
-      "placeId": "ChIJg1ksqtqNpzER3W4HrVMz7hE",
-      "placeName": "Tram Tram’s Banh Mi",
-      "results": {
-        "facebookVideo": {
-          "id": "3660247310791823"
-        },
-        "instagramReel": {
-          "id": "18134722549773656"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-11-02",
-      "placeId": "ChIJ652atFCNpzERuDwXbWc_sTQ",
-      "placeName": "Quán Ăn 93",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131577343313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18102774806178599"
-        }
-      }
-    },
-    {
-      "date": "2026-11-02",
-      "placeId": "ChIJt4XvJwCNpzERDsy4DogoAGY",
-      "placeName": "Song Gia Food Phu quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "4072478276221116"
-        },
-        "instagramReel": {
-          "id": "18156870343491589"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-11-02",
-      "placeId": "ChIJV-4XtMuNpzERGZ71Xi3iZJA",
-      "placeName": "Bánh Mì Sài Gòn - Phú Quốc",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122131576035313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17975659836157536"
         }
       }
     }
