@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book Phú Quốc south. Locals know Ong Lang is the move.\n\nMövenpick Resort Waverly Phu Quoc sits on the quieter west coast, 4.7 stars across 5,558 reviews, two restaurants, a spa, and a pool that actually has space in it.\n\nBeach without the chaos. That's the whole pitch.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Pool to beach in 30 seconds. No crowds, no noise. Mövenpick Resort Waverly Phu Quoc on the west coast is what Phu Quoc looked like before everyone found it. 4.7 stars. 5,558 reviews. Book accordingly.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #OngLang #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists book the south. Ong Lang stays quiet.\n\nMövenpick Resort Waverly Phu Quoc. 4.7★, 5,558 reviews. Two restaurants, spa, pool, beach.\n\nTag your travel buddy.",
+    "video_caption": "West coast Phu Quoc hits different. Mövenpick Resort Waverly, 4.7★, real beach, zero crowd energy. #PhuQuocResort #PhuQuocTips",
+    "hashtags": "#PhuQuoc #PhuQuocResort #OngLangBeach #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BeachResort"
+  },
+  "tiktok": {
+    "caption": "Quiet side of Phu Quoc, 4.7 stars, actual beach space. Mövenpick Resort Waverly does not miss. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Tourists skip this side of Phu Quoc.",
+    "scenes": [
+      "Aerial drone pull from beach to resort",
+      "Empty pool, morning light, no people",
+      "Walk from pool gate onto sand beach",
+      "Spa interior, slow pan across treatment room",
+      "Restaurant dinner plate lands on table",
+      "Guest in hammock, west coast sunset behind"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

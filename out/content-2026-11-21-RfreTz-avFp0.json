@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep scrolling past this resort. Their loss.\n\nAndochine Resort & Spa Phu Quoc sits inside Sonasea on Đường Bào, away from the crowds that clog the main strip. 4.8 stars across 986 reviews. That rating doesn't happen by accident.\n\nFull spa. Quiet pool. The kind of service that makes you extend your stay by two nights.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "986 reviews. 4.8 stars. And somehow the pool is never packed. Andochine Resort & Spa Phu Quoc is doing something right. Tag your travel buddy who needs this.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocSpa #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Tourists keep scrolling past this resort. Their loss.\n\nAndochine Resort & Spa Phu Quoc. 4.8★, 986 reviews, quiet pool.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "986 reviews. 4.8 stars. Pool still empty. Andochine Resort & Spa Phu Quoc. Book it.",
+    "hashtags": "#PhuQuocResort #PhuQuocSpa #PhuQuocHotel #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The resort tourists keep overlooking in Phu Quoc. 4.8 stars says everything. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Tourists keep overlooking this.",
+    "scenes": [
+      "Aerial pan over Sonasea resort grounds",
+      "Pool at golden hour, no crowds",
+      "Spa treatment room, candles lit",
+      "Staff delivering welcome drinks poolside",
+      "Close-up: 4.8 stars on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

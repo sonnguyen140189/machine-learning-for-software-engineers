@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5,052 reviews. 4.9 stars. Sailing Club Signature Resort Phú Quốc is not flying under the radar. This is Phu Quoc's most-rated luxury resort and the numbers back it up. Private beach. Pool villas. Service that actually shows up. If you're planning a Phu Quoc stay and sitting on the fence, this is the one people keep coming back to rate. Save this for your Phu Quoc trip.",
+    "video_caption": "Walking into Sailing Club Signature Resort Phú Quốc and suddenly understanding why 5,052 people felt the need to leave a review. Watch this before you book your Phu Quoc hotel.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #VisitVietnam #PhuQuocHotel #TravelTips"
+  },
+  "instagram": {
+    "caption": "5,052 reviews. 4.9 stars. Sailing Club Signature Resort Phú Quốc earns every one. Save this before you book Phu Quoc.",
+    "video_caption": "4.9 stars from 5,052 guests. Sailing Club Signature Resort Phú Quốc hits different. Tag your travel buddy.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #LuxuryTravel"
+  },
+  "tiktok": {
+    "caption": "4.9 stars. 5,052 reviews. Sailing Club Signature Resort Phú Quốc just built different. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5,052 reviews. 4.9 stars.",
+    "scenes": [
+      "Aerial pan over resort beachfront",
+      "Slow push into pool villa entrance",
+      "Staff delivering welcome drinks poolside",
+      "Guest reaction shot at room reveal",
+      "Sunset from private beach, golden light"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
