@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 220 reviews. Zero complaints.\n\nGRACE'S TOUR PHÚ QUỐC is the one-stop shop tourists actually trust on 98 Đường Trần Hưng Đạo. English-speaking staff, diving trips, SIM cards, and money exchange, all from one desk.\n\nNo language barrier. No running around town. Just sorted.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walk in speaking only English. Walk out with a SIM card, local cash, and a diving trip booked. GRACE'S TOUR PHÚ QUỐC does it all, 5.0 stars from 220 reviews backs that up.",
+    "first_comment": "#PhuQuoc #PhuQuocTips #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocDiving #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 220 reviews. GRACE'S TOUR PHÚ QUỐC delivers.\n\nSIM card, money exchange, diving, English speaker, one address.\n\nTag your travel buddy.",
+    "video_caption": "SIM card. Cash exchanged. Diving booked. English spoken. GRACE'S TOUR PHÚ QUỐC, one stop, zero stress.",
+    "hashtags": "#PhuQuocTips #PhuQuocDiving #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "5.0 stars, 220 reviews. SIM, cash, diving, one spot in Phu Quoc 🤙 #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "5.0★ 220 reviews. One desk.",
+    "scenes": [
+      "Staff greets tourist in fluent English",
+      "SIM card handed over the counter",
+      "Cash exchanged, bills counted out",
+      "Diving gear laid out, trip confirmed",
+      "Review screen showing 5.0 stars"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

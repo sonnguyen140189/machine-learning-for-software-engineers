@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stop winging your Phu Quoc itinerary and actually see the island right.\n\nTHÀNH DUY PHÚ QUỐC TRAVEL is a local tour agency with a perfect 5.0★ rating. Small review count, zero bad ones. That ratio means something.\n\nLocal operators know routes, timing, and spots the big tour buses skip. Book local, travel smarter.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "A local Phu Quoc tour agency. 5.0 stars. Every single review. THÀNH DUY PHÚ QUỐC TRAVEL handles the planning so you handle the memories. This is how you do the island properly.",
+    "first_comment": "#PhuQuoc #PhuQuocTravel #PhuQuocTips #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTours"
+  },
+  "instagram": {
+    "caption": "POV: you let a local plan your Phu Quoc trip. 5.0★ at THÀNH DUY PHÚ QUỐC TRAVEL. Zero misses.\n\nShare with someone planning Vietnam.",
+    "video_caption": "Local guides. Perfect rating. THÀNH DUY PHÚ QUỐC TRAVEL gets you off the tourist track fast.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #LocalGuide #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Stop guessing your Phu Quoc itinerary. Let locals handle it. THÀNH DUY PHÚ QUỐC TRAVEL. 5.0★. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTours"
+  },
+  "video_script": {
+    "hook": "POV: locals plan your whole trip",
+    "scenes": [
+      "Aerial shot: Phu Quoc coastline at sunrise",
+      "Hands pointing at a map on a table",
+      "Speedboat cutting through clear water",
+      "Tourist laughing with local guide on beach",
+      "Phone screen: 5.0★ review page zooming in"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

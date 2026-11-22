@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you stop guessing which boat tour is legit and just book with the one locals actually use.\n\nUnion Marina Phú Quốc. 5.0 stars. 31 reviews. Zero complaints.\n\nThey run tours out of Suối Lớn, away from the main tourist piers. Smaller crowds, real itineraries, people who actually know the water.\n\nIf you're planning island-hopping or a day trip on the water, this is the name to have saved.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Boat tours in Phu Quoc are hit or miss. Union Marina Phú Quốc is a full 5.0 stars from 31 reviews. Book once, no regrets. Here's what to expect on the water.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #PhuQuocIsland #VisitVietnam #TravelTips #VietnamTravel #IslandHopping"
+  },
+  "instagram": {
+    "caption": "POV: you found the boat tour with zero bad reviews.\n\nUnion Marina Phú Quốc. 5.0★, 31 reviews. Save this before you book anything else.",
+    "video_caption": "5.0 stars. 31 reviews. Union Marina Phú Quốc delivers on the water. Watch this before booking any island tour.",
+    "hashtags": "#PhuQuocTours #PhuQuocIsland #VietnamTravel #TravelTips #IslandHopping #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "POV: found the only Phu Quoc boat tour with a perfect score. Union Marina Phú Quốc, no skips. #PhuQuoc #VietnamTravel #IslandHopping #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: perfect score boat tour.",
+    "scenes": [
+      "Pan across open water, Phu Quoc coastline in bg",
+      "Close-up: phone showing 5.0★, 31 reviews",
+      "Crew loading gear onto boat at Suối Lớn pier",
+      "Wide shot: boat cutting through clear blue water",
+      "Snorkeling footage, coral visible below surface"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

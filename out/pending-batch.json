@@ -1,0 +1,522 @@
+{
+  "stamp": "2026-11-22",
+  "items": [
+    {
+      "placeId": "ChIJLZPWxLiWpzERwrkgfIa1P8I",
+      "placeName": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-11-22-RwrkgfIa1P8I-0.jpg",
+        "out/media/2026-11-22-RwrkgfIa1P8I-1.jpg",
+        "out/media/2026-11-22-RwrkgfIa1P8I-2.jpg",
+        "out/media/2026-11-22-RwrkgfIa1P8I-3.jpg",
+        "out/media/2026-11-22-RwrkgfIa1P8I-4.jpg",
+        "out/media/2026-11-22-RwrkgfIa1P8I-5.jpg",
+        "out/media/2026-11-22-RwrkgfIa1P8I-6.jpg",
+        "out/media/2026-11-22-RwrkgfIa1P8I-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.7 stars. 3,580 reviews. At JW Marriott Phu Quoc Emerald Bay Resort & Spa on Bãi Khem.\n\nThree outdoor pools. Five restaurants. A full spa. All on one of the best beaches in Phu Quoc.\n\nThis isn't just a hotel. It's the reason people extend their trip by three nights.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Bãi Khem beach at a resort with 5 restaurants, 3 pools, and a spa. JW Marriott Phu Quoc Emerald Bay Resort & Spa holds 4.7 stars across 3,580 reviews. The numbers don't lie. Tag your travel buddy.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #LuxuryTravel #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.7★ from 3,580 reviews. JW Marriott Phu Quoc Emerald Bay Resort & Spa on Bãi Khem.\n3 pools. 5 restaurants. 1 serious spa.\nSave this for your Phu Quoc trip.",
+          "video_caption": "3 pools, 5 restaurants, a spa, and Bãi Khem beach outside your door. JW Marriott Phu Quoc Emerald Bay delivers. 4.7★ from 3,580 guests.",
+          "hashtags": "#PhuQuocResort #PhuQuocLuxury #BaiKhem #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "4.7★ from 3,580 reviews on Bãi Khem beach. JW Marriott Phu Quoc delivers. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "4.7★. 3,580 reviews. Phu Quoc.",
+          "scenes": [
+            "Aerial pull back over Bãi Khem beach",
+            "Slow pan across three resort pools",
+            "Chef plates dish at one of 5 restaurants",
+            "Guest enters spa, dim lighting, still water",
+            "Waves hit beach at golden hour"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJI6oge0mLpzERKUoKtQLR-oc",
+      "placeName": "Ocean Bay Resort & Spa Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-11-22-RKUoKtQLR-oc-0.jpg",
+        "out/media/2026-11-22-RKUoKtQLR-oc-1.jpg",
+        "out/media/2026-11-22-RKUoKtQLR-oc-2.jpg",
+        "out/media/2026-11-22-RKUoKtQLR-oc-3.jpg",
+        "out/media/2026-11-22-RKUoKtQLR-oc-4.jpg",
+        "out/media/2026-11-22-RKUoKtQLR-oc-5.jpg",
+        "out/media/2026-11-22-RKUoKtQLR-oc-6.jpg",
+        "out/media/2026-11-22-RKUoKtQLR-oc-7.jpg"
+      ],
+      "videoPath": "out/media/2026-11-22-RKUoKtQLR-oc.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you skip the Phú Quốc strip and book Ông Lang instead. Ocean Bay Resort & Spa Phu Quoc hits different when the beach in front of you is actually quiet. 4.6 stars across 3,264 reviews. That's not luck, that's consistency. Save this for your Phu Quoc trip.",
+          "video_caption": "Watch what happens when you pick the quieter side of the island. Ocean Bay Resort & Spa Phu Quoc, Ông Lang. 4.6 stars. 3,264 people already know. Now you do too.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #OngLang #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "POV: you booked the quiet side of Phu Quoc. Ocean Bay Resort & Spa Phu Quoc. 4.6★, 3,264 reviews. Tag your travel buddy.",
+          "video_caption": "Ông Lang over the tourist strip. Every time. Ocean Bay Resort & Spa Phu Quoc delivers.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #OngLang #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "Skipped the crowded south. Booked Ông Lang. No regrets. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "POV: you found the quiet side",
+          "scenes": [
+            "Aerial pull back over Ông Lang beach",
+            "Resort entrance, lush grounds, no crowds",
+            "Pool shot, still water, no one in frame",
+            "Close-up: 4.6 stars, 3,264 reviews on screen",
+            "Guest walking toward calm shoreline"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJxfXY0YeMpzERVIRnrvcuBKE",
+      "placeName": "Seashells Phu Quoc Hotel & Spa",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-11-22-RVIRnrvcuBKE-0.jpg",
+        "out/media/2026-11-22-RVIRnrvcuBKE-1.jpg",
+        "out/media/2026-11-22-RVIRnrvcuBKE-2.jpg",
+        "out/media/2026-11-22-RVIRnrvcuBKE-3.jpg",
+        "out/media/2026-11-22-RVIRnrvcuBKE-4.jpg",
+        "out/media/2026-11-22-RVIRnrvcuBKE-5.jpg",
+        "out/media/2026-11-22-RVIRnrvcuBKE-6.jpg",
+        "out/media/2026-11-22-RVIRnrvcuBKE-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "LOCALS_DONT_TELL",
+        "facebook": {
+          "caption": "Tourists book the big resort chains. Repeat visitors book Seashells Phu Quoc Hotel & Spa.\n\n4.4 stars across nearly 3,000 reviews. Free breakfast included. Private beach access. Spa on-site. Pool. All at 01 Võ Thị Sáu right in Duong Dong.\n\nNo shuttle bus to the beach. No extra fees to reach the water. You walk out and you're there.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Pool in the morning, private beach by noon, spa before dinner. Seashells Phu Quoc Hotel & Spa packs a full day into one address. 4.4 stars. Nearly 3,000 people agree.",
+          "first_comment": "#PhuQuoc #PhuQuocHotels #PhuQuocResort #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "Repeat visitors skip the resort chains and book Seashells Phu Quoc Hotel & Spa.\n\nPrivate beach. Free breakfast. Spa. Pool. 4.4★ / 2,996 reviews.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Private beach. Free breakfast. Spa on-site. Seashells Phu Quoc Hotel & Spa, 4.4★ across 2,996 reviews. Tag your travel buddy.",
+          "hashtags": "#PhuQuocHotels #PhuQuocResort #PhuQuocTips #PhuQuocVietnam #VietnamTravel #TravelTips #TravelReels #BeachHotel"
+        },
+        "tiktok": {
+          "caption": "Repeat visitors skip the chains and book this. Private beach + free breakfast + spa. #PhuQuoc #PhuQuocHotels #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "Locals don't post about this hotel.",
+          "scenes": [
+            "Aerial pull-back over private beach frontage",
+            "Breakfast spread, plates filling the frame",
+            "Pool surface at golden hour, no crowds",
+            "Spa treatment room, candles lit",
+            "Room balcony with sea view beyond"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJn6kim_SXpzERd6rlRMQmpZc",
+      "placeName": "Premier Residences Phu Quoc Emerald Bay Managed by Accor",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-11-22-Rd6rlRMQmpZc-0.jpg",
+        "out/media/2026-11-22-Rd6rlRMQmpZc-1.jpg",
+        "out/media/2026-11-22-Rd6rlRMQmpZc-2.jpg",
+        "out/media/2026-11-22-Rd6rlRMQmpZc-3.jpg",
+        "out/media/2026-11-22-Rd6rlRMQmpZc-4.jpg",
+        "out/media/2026-11-22-Rd6rlRMQmpZc-5.jpg",
+        "out/media/2026-11-22-Rd6rlRMQmpZc-6.jpg",
+        "out/media/2026-11-22-Rd6rlRMQmpZc-7.jpg"
+      ],
+      "videoPath": "out/media/2026-11-22-Rd6rlRMQmpZc.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "10,444 reviews. 4.8 stars. At Bãi Khem, the quietest beach on the island.\n\nPremier Residences Phu Quoc Emerald Bay delivers 5 restaurants, a spa, a full fitness center, and free breakfast every morning. This isn't a trade-off resort. You get the beach AND the amenities.\n\nBãi Khem stays calmer than the north. That matters.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Free breakfast. Five restaurants. 4.8 stars from over 10,000 guests. Premier Residences Phu Quoc Emerald Bay on Bãi Khem is doing something right. Walk the beach, eat well, repeat.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #BaiKhem #PhuQuocHotel #VisitVietnam #TravelTips #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "10,444 reviews. 4.8 stars. Bãi Khem.\n\n5 restaurants, spa, free breakfast. Premier Residences Phu Quoc Emerald Bay hits different.\n\nTag your travel buddy.",
+          "video_caption": "Beachfront. Free breakfast. 4.8 stars. Bãi Khem delivers.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #BaiKhem #PhuQuocTips #VietnamTravel #TravelReels #TravelTips #PhuQuocBeaches"
+        },
+        "tiktok": {
+          "caption": "10,444 people rated this 4.8★ on Bãi Khem beach 👀 Premier Residences Phu Quoc Emerald Bay #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "10,444 reviews. 4.8 stars.",
+          "scenes": [
+            "Aerial pan over Bãi Khem shoreline",
+            "Resort entrance, lush grounds, wide path",
+            "Breakfast spread, full buffet table",
+            "Spa treatment room, calm lighting",
+            "Guest walking empty beach at sunrise",
+            "Five restaurant signs rolling on screen"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJvwhDHaaNpzERENdVmu6mI64",
+      "placeName": "Tahiti Resort Phú Quốc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-11-22-RENdVmu6mI64-0.jpg",
+        "out/media/2026-11-22-RENdVmu6mI64-1.jpg",
+        "out/media/2026-11-22-RENdVmu6mI64-2.jpg",
+        "out/media/2026-11-22-RENdVmu6mI64-3.jpg",
+        "out/media/2026-11-22-RENdVmu6mI64-4.jpg",
+        "out/media/2026-11-22-RENdVmu6mI64-5.jpg",
+        "out/media/2026-11-22-RENdVmu6mI64-6.jpg",
+        "out/media/2026-11-22-RENdVmu6mI64-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.4 stars. 265 reviews. Tahiti Resort Phú Quốc keeps showing up on the list for good reason. Right on Đường Trần Hưng Đạo, one of Phu Quoc's main strips, so you're close to everything but still inside a proper resort. 265 people didn't lie. Save this for your Phu Quoc trip.",
+          "video_caption": "Walking into Tahiti Resort Phú Quốc on Đường Trần Hưng Đạo. 4.4 stars across 265 reviews. This is what a solid Phu Quoc base actually looks like. No surprises at check-in.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.4 stars. 265 reviews. Tahiti Resort Phú Quốc earns it. Đường Trần Hưng Đạo location, solid base for the whole island. Save this.",
+          "video_caption": "Tahiti Resort Phú Quốc on Đường Trần Hưng Đạo. 265 reviews at 4.4 stars. Your Phu Quoc home base, sorted.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "265 reviews. 4.4 stars. Tahiti Resort Phú Quốc hits. #PhuQuoc #PhuQuocHotel #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.4★ across 265 reviews.",
+          "scenes": [
+            "Exterior shot: resort entrance sign",
+            "Pan down Đường Trần Hưng Đạo street view",
+            "Walk through lobby or pool area",
+            "Close-up: phone showing 4.4-star rating"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ4TCVW2ceCDERj-MHdcQ8iIw",
+      "placeName": "Vinpearl Wonderworld Phu Quoc",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-11-22-Rj-MHdcQ8iIw-0.jpg",
+        "out/media/2026-11-22-Rj-MHdcQ8iIw-1.jpg",
+        "out/media/2026-11-22-Rj-MHdcQ8iIw-2.jpg",
+        "out/media/2026-11-22-Rj-MHdcQ8iIw-3.jpg",
+        "out/media/2026-11-22-Rj-MHdcQ8iIw-4.jpg",
+        "out/media/2026-11-22-Rj-MHdcQ8iIw-5.jpg",
+        "out/media/2026-11-22-Rj-MHdcQ8iIw-6.jpg",
+        "out/media/2026-11-22-Rj-MHdcQ8iIw-7.jpg"
+      ],
+      "videoPath": "out/media/2026-11-22-Rj-MHdcQ8iIw.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "39,318 reviews. 4.9 stars. Vinpearl Wonderworld Phu Quoc is not playing games.\n\nThis isn't a resort you stumble into. It's the one people come back for. Bãi Dài beach on your doorstep, world-class facilities, and a scale that somehow still feels personal.\n\nIf Phu Quoc is on your 2026 list, this is worth knowing about.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Walking into Vinpearl Wonderworld Phu Quoc for the first time hits different. 39,318 people rated this 4.9 stars. Watch the full property reveal. Bãi Dài has never looked like this.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #VinpearlPhuQuoc #VisitVietnam #PhuQuocHotel #TravelTips #PhuQuocTips"
+        },
+        "instagram": {
+          "caption": "4.9 stars. 39,318 reviews. Vinpearl Wonderworld Phu Quoc.\n\nBãi Dài doesn't miss.\n\nTag your travel buddy.",
+          "video_caption": "39,318 people rated this 4.9 stars. Vinpearl Wonderworld Phu Quoc on Bãi Dài. The numbers say it all.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #BaiDai #VietnamTravel #TravelTips #TravelReels #PhuQuocTips #VisitVietnam"
+        },
+        "tiktok": {
+          "caption": "39,318 reviews. 4.9 stars. Vinpearl Wonderworld Phu Quoc on Bãi Dài is built different. #PhuQuoc #PhuQuocResort #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "4.9★ 39,318 reviews.",
+          "scenes": [
+            "Aerial shot of Bãi Dài coastline",
+            "Resort entrance, grand scale revealed",
+            "Pool deck overlooking the sea",
+            "Room view, floor-to-ceiling windows",
+            "Beach access, golden hour light"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJH58ibXKSpzERN59OMqttOUY",
+      "placeName": "Best Western Premier Sonasea Phu Quoc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-11-22-RN59OMqttOUY-0.jpg",
+        "out/media/2026-11-22-RN59OMqttOUY-1.jpg",
+        "out/media/2026-11-22-RN59OMqttOUY-2.jpg",
+        "out/media/2026-11-22-RN59OMqttOUY-3.jpg",
+        "out/media/2026-11-22-RN59OMqttOUY-4.jpg",
+        "out/media/2026-11-22-RN59OMqttOUY-5.jpg",
+        "out/media/2026-11-22-RN59OMqttOUY-6.jpg",
+        "out/media/2026-11-22-RN59OMqttOUY-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "9,278 reviews. 4.7 stars. Best Western Premier Sonasea Phu Quoc keeps showing up for a reason.\n\nLocated on Đường Bào, this resort checks the boxes that actually matter: consistent ratings across thousands of stays, not just a handful of paid reviews.\n\n4.7 from nearly 10K guests is rare. That's repeat trust, not luck.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Walking into Best Western Premier Sonasea Phu Quoc, rated 4.7 stars by 9,278 guests. Watch what nearly 10,000 people kept coming back for.",
+          "first_comment": "#PhuQuoc #PhuQuocResort #PhuQuocHotel #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "9,278 reviews. 4.7 stars. Best Western Premier Sonasea Phu Quoc earns it.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "4.7 stars from nearly 10K guests. Best Western Premier Sonasea Phu Quoc. See why.",
+          "hashtags": "#PhuQuocResort #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "9,278 reviews and still 4.7 stars. Best Western Premier Sonasea Phu Quoc is built different. #PhuQuoc #PhuQuocResort #VietnamTravel"
+        },
+        "video_script": {
+          "hook": "9,278 reviews. 4.7 stars.",
+          "scenes": [
+            "Drone pull back over resort grounds",
+            "Pan across pool toward Đường Bào shoreline",
+            "Close up: 4.7★ rating on screen",
+            "Guests checking in at front desk",
+            "Slow walk through resort corridor"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJqfezlgAfCDERaYwzQEp_Rkc",
+      "placeName": "ALOHA88 - Kayak & Snorkeling club",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-11-22-RaYwzQEp_Rkc-0.jpg",
+        "out/media/2026-11-22-RaYwzQEp_Rkc-1.jpg",
+        "out/media/2026-11-22-RaYwzQEp_Rkc-2.jpg",
+        "out/media/2026-11-22-RaYwzQEp_Rkc-3.jpg",
+        "out/media/2026-11-22-RaYwzQEp_Rkc-4.jpg",
+        "out/media/2026-11-22-RaYwzQEp_Rkc-5.jpg",
+        "out/media/2026-11-22-RaYwzQEp_Rkc-6.jpg",
+        "out/media/2026-11-22-RaYwzQEp_Rkc-7.jpg"
+      ],
+      "videoPath": "out/media/2026-11-22-RaYwzQEp_Rkc.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "5.0 stars. 310 reviews. Zero complaints.\n\nALOHA88 - Kayak & Snorkeling club in Phu Quoc is running a perfect score, and that doesn't happen by accident. Paddle out, drop under the surface, and see what 310 people couldn't stop talking about.\n\nIf you're in Phu Quoc and skipping water activities, you're doing it wrong.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "310 people gave this 5 stars. Watch why. ALOHA88 kayaks hit the water and the reef does the rest. Phu Quoc from a different angle.",
+          "first_comment": "#PhuQuoc #PhuQuocActivities #PhuQuocSnorkeling #VisitVietnam #TravelTips"
+        },
+        "instagram": {
+          "caption": "5.0 stars. 310 reviews. ALOHA88 runs a perfect score.\n\nKayak, snorkel, repeat. Save this.",
+          "video_caption": "Perfect 5.0. 310 reviews. ALOHA88 hits different on the water. #PhuQuoc",
+          "hashtags": "#PhuQuocActivities #PhuQuocSnorkeling #PhuQuocKayak #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "5.0 stars. 310 reviews. No bad days at ALOHA88 Phu Quoc. #PhuQuoc #PhuQuocActivities #PhuQuocSnorkeling"
+        },
+        "video_script": {
+          "hook": "5.0★ 310 reviews. All water.",
+          "scenes": [
+            "Kayaks launching from shore",
+            "Paddle strokes cutting clear water",
+            "Mask on, dropping below surface",
+            "Reef fish swarming the camera",
+            "Guests surfacing, laughing"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ5yaRNw-RpzEROC31Adl9gQE",
+      "placeName": "Union Marina Phú Quốc",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-11-22-ROC31Adl9gQE-0.jpg",
+        "out/media/2026-11-22-ROC31Adl9gQE-1.jpg",
+        "out/media/2026-11-22-ROC31Adl9gQE-2.jpg",
+        "out/media/2026-11-22-ROC31Adl9gQE-3.jpg",
+        "out/media/2026-11-22-ROC31Adl9gQE-4.jpg",
+        "out/media/2026-11-22-ROC31Adl9gQE-5.jpg",
+        "out/media/2026-11-22-ROC31Adl9gQE-6.jpg",
+        "out/media/2026-11-22-ROC31Adl9gQE-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you stop guessing which boat tour is legit and just book with the one locals actually use.\n\nUnion Marina Phú Quốc. 5.0 stars. 31 reviews. Zero complaints.\n\nThey run tours out of Suối Lớn, away from the main tourist piers. Smaller crowds, real itineraries, people who actually know the water.\n\nIf you're planning island-hopping or a day trip on the water, this is the name to have saved.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Boat tours in Phu Quoc are hit or miss. Union Marina Phú Quốc is a full 5.0 stars from 31 reviews. Book once, no regrets. Here's what to expect on the water.",
+          "first_comment": "#PhuQuoc #PhuQuocTours #PhuQuocIsland #VisitVietnam #TravelTips #VietnamTravel #IslandHopping"
+        },
+        "instagram": {
+          "caption": "POV: you found the boat tour with zero bad reviews.\n\nUnion Marina Phú Quốc. 5.0★, 31 reviews. Save this before you book anything else.",
+          "video_caption": "5.0 stars. 31 reviews. Union Marina Phú Quốc delivers on the water. Watch this before booking any island tour.",
+          "hashtags": "#PhuQuocTours #PhuQuocIsland #VietnamTravel #TravelTips #IslandHopping #TravelReels #PhuQuocTips"
+        },
+        "tiktok": {
+          "caption": "POV: found the only Phu Quoc boat tour with a perfect score. Union Marina Phú Quốc, no skips. #PhuQuoc #VietnamTravel #IslandHopping #TravelTips"
+        },
+        "video_script": {
+          "hook": "POV: perfect score boat tour.",
+          "scenes": [
+            "Pan across open water, Phu Quoc coastline in bg",
+            "Close-up: phone showing 5.0★, 31 reviews",
+            "Crew loading gear onto boat at Suối Lớn pier",
+            "Wide shot: boat cutting through clear blue water",
+            "Snorkeling footage, coral visible below surface"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJF51T3SwlCDERZHJJPo-0tZQ",
+      "placeName": "Jini mud cafe(미니골프 갯벌체험 투명보트)",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-11-22-RZHJJPo-0tZQ-0.jpg",
+        "out/media/2026-11-22-RZHJJPo-0tZQ-1.jpg",
+        "out/media/2026-11-22-RZHJJPo-0tZQ-2.jpg",
+        "out/media/2026-11-22-RZHJJPo-0tZQ-3.jpg",
+        "out/media/2026-11-22-RZHJJPo-0tZQ-4.jpg",
+        "out/media/2026-11-22-RZHJJPo-0tZQ-5.jpg",
+        "out/media/2026-11-22-RZHJJPo-0tZQ-6.jpg",
+        "out/media/2026-11-22-RZHJJPo-0tZQ-7.jpg"
+      ],
+      "videoPath": "out/media/2026-11-22-RZHJJPo-0tZQ.mp4",
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "4.9 stars. Only 37 people know about it. Jini mud cafe(미니골프 갯벌체험 투명보트) is serving up mud flat experiences, mini golf, and transparent boat rides, all under one roof in Phu Quoc. The kind of place that keeps its rating perfect because word hasn't spread yet. Grab it before it does. Save this for your Phu Quoc trip.",
+          "video_caption": "Transparent boats, mud flats, mini golf, and a 4.9 rating with barely anyone talking about it. Jini mud cafe(미니골프 갯벌체험 투명보트) is one of those spots you stumble on and immediately text your travel buddy about.",
+          "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips #VietnamTravel #TravelTips"
+        },
+        "instagram": {
+          "caption": "4.9 stars. 37 reviews. Jini mud cafe(미니골프 갯벌체험 투명보트) has mud flats, transparent boats, and mini golf. Save this.",
+          "video_caption": "Transparent boat. Mud flat. Mini golf. One 4.9-star cafe in Phu Quoc nobody's talking about yet.",
+          "hashtags": "#PhuQuocCafe #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocActivities #VietnamTips"
+        },
+        "tiktok": {
+          "caption": "4.9 stars and 37 reviews. Jini mud cafe in Phu Quoc has transparent boats AND mud flats. Go now. #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips #PhuQuocCafe"
+        },
+        "video_script": {
+          "hook": "4.9 stars. 37 reviews.",
+          "scenes": [
+            "Exterior shot of Jini mud cafe sign",
+            "Feet stepping onto mud flat, slow motion",
+            "Transparent boat gliding over shallow water",
+            "Mini golf course, ball dropping into hole",
+            "Price board on wall, $15-30 range visible",
+            "Reviewer rating screen: 4.9 stars closeup"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJ2fu7BmGNpzERyc_w8wahNio",
+      "placeName": "GRACE'S TOUR PHÚ QUỐC- SIM CARD- MONEY EXCHANGE- ENGLISH SPEAKER- DIVING",
+      "mode": "photo",
+      "photoPaths": [
+        "out/media/2026-11-22-Ryc_w8wahNio-0.jpg",
+        "out/media/2026-11-22-Ryc_w8wahNio-1.jpg",
+        "out/media/2026-11-22-Ryc_w8wahNio-2.jpg",
+        "out/media/2026-11-22-Ryc_w8wahNio-3.jpg",
+        "out/media/2026-11-22-Ryc_w8wahNio-4.jpg",
+        "out/media/2026-11-22-Ryc_w8wahNio-5.jpg",
+        "out/media/2026-11-22-Ryc_w8wahNio-6.jpg",
+        "out/media/2026-11-22-Ryc_w8wahNio-7.jpg"
+      ],
+      "videoPath": null,
+      "content": {
+        "hookArchetype": "NUMBER_REVEAL",
+        "facebook": {
+          "caption": "5.0 stars. 220 reviews. Zero complaints.\n\nGRACE'S TOUR PHÚ QUỐC is the one-stop shop tourists actually trust on 98 Đường Trần Hưng Đạo. English-speaking staff, diving trips, SIM cards, and money exchange, all from one desk.\n\nNo language barrier. No running around town. Just sorted.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "Walk in speaking only English. Walk out with a SIM card, local cash, and a diving trip booked. GRACE'S TOUR PHÚ QUỐC does it all, 5.0 stars from 220 reviews backs that up.",
+          "first_comment": "#PhuQuoc #PhuQuocTips #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocDiving #VietnamTravel"
+        },
+        "instagram": {
+          "caption": "5.0 stars. 220 reviews. GRACE'S TOUR PHÚ QUỐC delivers.\n\nSIM card, money exchange, diving, English speaker, one address.\n\nTag your travel buddy.",
+          "video_caption": "SIM card. Cash exchanged. Diving booked. English spoken. GRACE'S TOUR PHÚ QUỐC, one stop, zero stress.",
+          "hashtags": "#PhuQuocTips #PhuQuocDiving #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "5.0 stars, 220 reviews. SIM, cash, diving, one spot in Phu Quoc 🤙 #PhuQuoc #PhuQuocTips #VietnamTravel #TravelTips"
+        },
+        "video_script": {
+          "hook": "5.0★ 220 reviews. One desk.",
+          "scenes": [
+            "Staff greets tourist in fluent English",
+            "SIM card handed over the counter",
+            "Cash exchanged, bills counted out",
+            "Diving gear laid out, trip confirmed",
+            "Review screen showing 5.0 stars"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    },
+    {
+      "placeId": "ChIJnSiMgv6LpzERwHPkMSy5JEc",
+      "placeName": "THÀNH DUY PHÚ QUỐC TRAVEL",
+      "mode": "video",
+      "photoPaths": [
+        "out/media/2026-11-22-RwHPkMSy5JEc-0.jpg",
+        "out/media/2026-11-22-RwHPkMSy5JEc-1.jpg",
+        "out/media/2026-11-22-RwHPkMSy5JEc-2.jpg",
+        "out/media/2026-11-22-RwHPkMSy5JEc-3.jpg",
+        "out/media/2026-11-22-RwHPkMSy5JEc-4.jpg",
+        "out/media/2026-11-22-RwHPkMSy5JEc-5.jpg",
+        "out/media/2026-11-22-RwHPkMSy5JEc-6.jpg",
+        "out/media/2026-11-22-RwHPkMSy5JEc-7.jpg"
+      ],
+      "videoPath": "out/media/2026-11-22-RwHPkMSy5JEc.mp4",
+      "content": {
+        "hookArchetype": "POV_REVEAL",
+        "facebook": {
+          "caption": "POV: you stop winging your Phu Quoc itinerary and actually see the island right.\n\nTHÀNH DUY PHÚ QUỐC TRAVEL is a local tour agency with a perfect 5.0★ rating. Small review count, zero bad ones. That ratio means something.\n\nLocal operators know routes, timing, and spots the big tour buses skip. Book local, travel smarter.\n\nSave this for your Phu Quoc trip.",
+          "video_caption": "A local Phu Quoc tour agency. 5.0 stars. Every single review. THÀNH DUY PHÚ QUỐC TRAVEL handles the planning so you handle the memories. This is how you do the island properly.",
+          "first_comment": "#PhuQuoc #PhuQuocTravel #PhuQuocTips #VisitVietnam #TravelTips #VietnamTravel #PhuQuocTours"
+        },
+        "instagram": {
+          "caption": "POV: you let a local plan your Phu Quoc trip. 5.0★ at THÀNH DUY PHÚ QUỐC TRAVEL. Zero misses.\n\nShare with someone planning Vietnam.",
+          "video_caption": "Local guides. Perfect rating. THÀNH DUY PHÚ QUỐC TRAVEL gets you off the tourist track fast.",
+          "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #LocalGuide #PhuQuoc"
+        },
+        "tiktok": {
+          "caption": "Stop guessing your Phu Quoc itinerary. Let locals handle it. THÀNH DUY PHÚ QUỐC TRAVEL. 5.0★. #PhuQuoc #VietnamTravel #TravelTips #PhuQuocTours"
+        },
+        "video_script": {
+          "hook": "POV: locals plan your whole trip",
+          "scenes": [
+            "Aerial shot: Phu Quoc coastline at sunrise",
+            "Hands pointing at a map on a table",
+            "Speedboat cutting through clear water",
+            "Tourist laughing with local guide on beach",
+            "Phone screen: 5.0★ review page zooming in"
+          ],
+          "cta": "Save this for your Phu Quoc trip."
+        }
+      }
+    }
+  ]
+}
