@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $10 a round. At a bar on Trần Hưng Đạo. Yes, really.\n\nBoroda Bar keeps it simple. Cold drinks, good vibes, and a bill that won't ruin your budget. 4.5 stars across 300 reviews means the locals and tourists both figured this one out.\n\nPhu Quoc nightlife doesn't have to cost you. Save this for your Phu Quoc trip.",
+    "video_caption": "Drinks clinking, tabs under $10. Boroda Bar on Trần Hưng Đạo is where your Phu Quoc nights should start. 4.5 stars. 300 people already know. Now you do too.",
+    "first_comment": "#PhuQuoc #PhuQuocNightlife #PhuQuocBars #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Under $10 a round in Phu Quoc. Boroda Bar. 4.5★, 300 reviews. That's the whole pitch.\n\nTag your travel buddy.",
+    "video_caption": "Phu Quoc bar nights under $10. Boroda Bar delivers every time. 4.5 stars don't lie.",
+    "hashtags": "#PhuQuocBars #PhuQuocNightlife #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuocFood"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc bar under $10 a round?? Boroda Bar on Trần Hưng Đạo. 4.5★ 300 reviews. Go. #PhuQuoc #PhuQuocNightlife #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $10 a round in Phu Quoc.",
+    "scenes": [
+      "Exterior shot: Boroda Bar sign lit up",
+      "Bartender pours drinks at counter",
+      "Wide crowd shot, full tables, lively",
+      "Close-up: receipt showing under $10",
+      "Glasses raised, cheers to camera"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

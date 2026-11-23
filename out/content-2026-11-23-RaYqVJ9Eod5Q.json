@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists book the big-name agencies. Locals use Đăng Khoa Trip.\n\n4.7 stars. 81 reviews. Small team on Phạm Ngọc Thạch that actually picks up the phone.\n\nIf you want island tours without the herded-group energy, this is the one to call before you land.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walk past the resort tour desks. Head to Đăng Khoa Trip on Phạm Ngọc Thạch instead. 4.7 stars from people who figured it out the hard way. Don't be one of them.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #PhuQuocTips #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't book their tours at the resort desk. They call Đăng Khoa Trip. 4.7★, 81 reviews. Save this.",
+    "video_caption": "Skip the resort tour desk. Đăng Khoa Trip on Phạm Ngọc Thạch. 4.7 stars. Small team. Big difference.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #IslandTours"
+  },
+  "tiktok": {
+    "caption": "Not the resort tour desk. Đăng Khoa Trip. 4.7 stars. Locals know. #PhuQuoc #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't book here.",
+    "scenes": [
+      "Pan busy resort tour desks, tourists queuing",
+      "Cut to quiet shopfront on Phạm Ngọc Thạch",
+      "Close-up: Đăng Khoa Trip sign, 4.7-star rating shown",
+      "Staff on phone, small personal team at work",
+      "Boat leaving dock, small group, no crowd"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
