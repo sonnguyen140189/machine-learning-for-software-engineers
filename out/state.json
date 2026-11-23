@@ -1,5 +1,17 @@
 {
   "postedPlaceIds": [
+    "ChIJG0ygU8-NpzERXtcRcF0Av7k",
+    "ChIJ0cqxY2ySpzERo9J49pxmTgY",
+    "ChIJb94_UYaMpzERLROoXapH5lI",
+    "ChIJn_OoioaMpzER6LmKuuTHasY",
+    "ChIJhzuiMZSNpzERWNr-SaAOJgQ",
+    "ChIJYbElPPaLpzERTX725HPPGuM",
+    "ChIJXQ4GN9SXpzERaYqVJ9Eod5Q",
+    "ChIJ-_tD7H2NpzERkBJsCHT_kk8",
+    "ChIJkXqwPFeNpzERTPv9JMJKOHg",
+    "ChIJGW6TumGMpzERhbri9iJjUhI",
+    "ChIJYVpQmqSJpzERQ2jruG6WqKE",
+    "ChIJ44prVx6LpzERai_OMQwtHu0",
     "ChIJnSiMgv6LpzERwHPkMSy5JEc",
     "ChIJ2fu7BmGNpzERyc_w8wahNio",
     "ChIJF51T3SwlCDERZHJJPo-0tZQ",
@@ -187,21 +199,189 @@
     "ChIJc-syEUyNpzERlXt7rXb3Hcg",
     "ChIJbUZGsQEfCDERXgX4I2SUCsI",
     "ChIJq-YgJcuNpzER37aiRi5HfVo",
-    "ChIJBz09gZgfCDERzAyxFBp-iDM",
-    "ChIJGetZgyyNpzERfgkTRwWcE74",
-    "ChIJQUSIY6yNpzERAxVW7b7Opt0",
-    "ChIJ07kLWwCTpzERMUTHN5TrzFY",
-    "ChIJXQcO2BeLpzERuYoEmJFjuuM",
-    "ChIJY6klvwiLpzERbXSkUvWfTOs",
-    "ChIJ2_A_qiGNpzERECnKPGDMbqc",
-    "ChIJyQi3u2GMpzERVXgllKB2V_A",
-    "ChIJLa_VvluMpzERVdeTFM021V4",
-    "ChIJuc0GvNH1pzER9rnXP_FJS-Q",
-    "ChIJSVVo1BORpzERFyzoL0kEyZE",
-    "ChIJq6qqEz8eCDER7vOnb6Q6Ol8",
-    "ChIJO2yx-4eMpzER80b94-QiU6c"
+    "ChIJBz09gZgfCDERzAyxFBp-iDM"
   ],
   "history": [
+    {
+      "date": "2026-11-23",
+      "placeId": "ChIJG0ygU8-NpzERXtcRcF0Av7k",
+      "placeName": "Ngoc Hien Pearl Farm",
+      "results": {
+        "facebookVideo": {
+          "id": "1614781236601419"
+        },
+        "instagramReel": {
+          "id": "18083708150721188"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "placeId": "ChIJ0cqxY2ySpzERo9J49pxmTgY",
+      "placeName": "Pullman Phu Quoc Beach Resort",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134753359313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18131363270310997"
+        }
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "placeId": "ChIJb94_UYaMpzERLROoXapH5lI",
+      "placeName": "Dinh Bà Thủy Long Thánh Mẫu",
+      "results": {
+        "facebookVideo": {
+          "id": "1139139412249442"
+        },
+        "instagramReel": {
+          "id": "18068369081542424"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "placeId": "ChIJn_OoioaMpzER6LmKuuTHasY",
+      "placeName": "Dinh Cậu",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134752267313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18406816780203280"
+        }
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "placeId": "ChIJhzuiMZSNpzERWNr-SaAOJgQ",
+      "placeName": "Hải Sản 154",
+      "results": {
+        "facebookVideo": {
+          "id": "2933923060326473"
+        },
+        "instagramReel": {
+          "id": "18157636270521839"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "placeId": "ChIJYbElPPaLpzERTX725HPPGuM",
+      "placeName": "Ốc Nhi (옥니 사이공)-해산물 BBQ & 샤브샤브 및 각종 안주",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134751175313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18121154792084722"
+        }
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "placeId": "ChIJXQ4GN9SXpzERaYqVJ9Eod5Q",
+      "placeName": "Đăng Khoa Trip",
+      "results": {
+        "facebookVideo": {
+          "id": "29280579698248945"
+        },
+        "instagramReel": {
+          "id": "18104314754385757"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "placeId": "ChIJ-_tD7H2NpzERkBJsCHT_kk8",
+      "placeName": "Horizon Beach Bar Phu Quoc",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134750035313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17941985745404891"
+        }
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "placeId": "ChIJkXqwPFeNpzERTPv9JMJKOHg",
+      "placeName": "Chip Funny (Drinks - Foods - Bar)",
+      "results": {
+        "facebookVideo": {
+          "id": "2236384430631035"
+        },
+        "instagramReel": {
+          "id": "17919467295535683"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "placeId": "ChIJGW6TumGMpzERhbri9iJjUhI",
+      "placeName": "Boroda Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134749009313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "17972734836195629"
+        }
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "placeId": "ChIJYVpQmqSJpzERQ2jruG6WqKE",
+      "placeName": "Rory's Beach Bar",
+      "results": {
+        "facebookVideo": {
+          "id": "2121257341910213"
+        },
+        "instagramReel": {
+          "id": "18103018922420405"
+        },
+        "tiktok": {
+          "error": "TIKTOK_ACCESS_TOKEN not set"
+        }
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "placeId": "ChIJ44prVx6LpzERai_OMQwtHu0",
+      "placeName": "Highball Bar",
+      "results": {
+        "facebook": {
+          "id": "1133240739869014_122134747971313843",
+          "post_supports_client_mutation_id": true
+        },
+        "instagram": {
+          "id": "18133253554694256"
+        }
+      }
+    },
     {
       "date": "2026-11-22",
       "placeId": "ChIJnSiMgv6LpzERwHPkMSy5JEc",
@@ -3019,186 +3199,6 @@
         },
         "instagram": {
           "id": "18131729708496810"
-        }
-      }
-    },
-    {
-      "date": "2026-11-06",
-      "placeId": "ChIJGetZgyyNpzERfgkTRwWcE74",
-      "placeName": "Bãi biển Lumera Beach",
-      "results": {
-        "facebookVideo": {
-          "id": "2668026606969868"
-        },
-        "instagramReel": {
-          "id": "18139474105729465"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-11-06",
-      "placeId": "ChIJQUSIY6yNpzERAxVW7b7Opt0",
-      "placeName": "Bãi Trường",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122132208249313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18347066974252336"
-        }
-      }
-    },
-    {
-      "date": "2026-11-06",
-      "placeId": "ChIJ07kLWwCTpzERMUTHN5TrzFY",
-      "placeName": "Sonasea Public Beach Bai Truong",
-      "results": {
-        "facebookVideo": {
-          "id": "1354047330007567"
-        },
-        "instagramReel": {
-          "id": "17995915989102186"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-11-06",
-      "placeId": "ChIJXQcO2BeLpzERuYoEmJFjuuM",
-      "placeName": "Ong Lang beach",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122132207157313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17898096150420773"
-        }
-      }
-    },
-    {
-      "date": "2026-11-05",
-      "placeId": "ChIJY6klvwiLpzERbXSkUvWfTOs",
-      "placeName": "Bếp Chay Nhà An | VEGETARIAN BISTRO",
-      "results": {
-        "facebookVideo": {
-          "id": "1115536224691174"
-        },
-        "instagramReel": {
-          "id": "18197600893351809"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-11-05",
-      "placeId": "ChIJ2_A_qiGNpzERECnKPGDMbqc",
-      "placeName": "Nhà Hàng Chay NẤM (Vegan Restaurant)",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122132054181313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18083010881343619"
-        }
-      }
-    },
-    {
-      "date": "2026-11-05",
-      "placeId": "ChIJyQi3u2GMpzERVXgllKB2V_A",
-      "placeName": "RED RIVER TOURS",
-      "results": {
-        "facebookVideo": {
-          "id": "1682901180223097"
-        },
-        "instagramReel": {
-          "id": "17914071621506633"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-11-05",
-      "placeId": "ChIJLa_VvluMpzERVdeTFM021V4",
-      "placeName": "Jerry's Jungle Tours",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122132053197313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17954995230331126"
-        }
-      }
-    },
-    {
-      "date": "2026-11-05",
-      "placeId": "ChIJuc0GvNH1pzER9rnXP_FJS-Q",
-      "placeName": "Viet Sail Phu Quoc - Sailing School - Rental & Tours",
-      "results": {
-        "facebookVideo": {
-          "id": "1675111694000841"
-        },
-        "instagramReel": {
-          "id": "17936237406147976"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-11-05",
-      "placeId": "ChIJSVVo1BORpzERFyzoL0kEyZE",
-      "placeName": "PHƯƠNG NHI TOUR – Island & Fishing Tour",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122132052141313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "18104495828544128"
-        }
-      }
-    },
-    {
-      "date": "2026-11-05",
-      "placeId": "ChIJq6qqEz8eCDER7vOnb6Q6Ol8",
-      "placeName": "Radisson Blu Resort, Phu Quoc",
-      "results": {
-        "facebookVideo": {
-          "id": "29614943028140593"
-        },
-        "instagramReel": {
-          "id": "18035998628887490"
-        },
-        "tiktok": {
-          "error": "TIKTOK_ACCESS_TOKEN not set"
-        }
-      }
-    },
-    {
-      "date": "2026-11-05",
-      "placeId": "ChIJO2yx-4eMpzER80b94-QiU6c",
-      "placeName": "HAPPY BEAR Live Music Bar & Bistro",
-      "results": {
-        "facebook": {
-          "id": "1133240739869014_122132051115313843",
-          "post_supports_client_mutation_id": true
-        },
-        "instagram": {
-          "id": "17927146992433292"
         }
       }
     }
