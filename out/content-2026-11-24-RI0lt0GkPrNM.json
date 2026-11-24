@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this bakery. Locals know better. Tiệm Bánh Kem Phú Quốc - PP Bakery on Đ. Trần Phú is pulling a 4.9★ rating and the cakes look like they belong in a Saigon patisserie. Not a resort dessert menu. An actual neighborhood bakery doing the work. Add this to your food list before everyone else does. Save this for your Phu Quoc trip.",
+    "video_caption": "Fresh cakes. Local street. 4.9 stars. Watch what comes out of Tiệm Bánh Kem Phú Quốc - PP Bakery and tell me you're not stopping here. This is Phu Quoc's bakery secret. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocTips #VisitVietnam #VietnamTravel #TravelTips #PhuQuocRestaurants"
+  },
+  "instagram": {
+    "caption": "Locals don't post about this bakery. 4.9★ at Tiệm Bánh Kem Phú Quốc - PP Bakery. Save this for your Phu Quoc trip.",
+    "video_caption": "4.9 stars. Street-side bakery. Zero tourist foot traffic. Tiệm Bánh Kem Phú Quốc - PP Bakery is the move.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocBakery #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Locals keep this bakery off the tourist map. 4.9★ and worth every bite. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Locals keep this off the map.",
+    "scenes": [
+      "Pan down Đ. Trần Phú street exterior",
+      "Push in on glass display of cakes",
+      "Close-up: cake slice lifted on fork",
+      "Cut to 4.9★ rating on screen",
+      "Staff boxing up an order"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

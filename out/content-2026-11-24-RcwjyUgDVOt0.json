@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're staying at Sonasea and somehow walk past the best café on Bãi Trường every single morning.\n\nLOLO BAKERY & CAFE sits right inside the resort complex on Đường Bào. Korean-run, 4.4 stars, 464 reviews deep. The pastry case alone is worth the detour.\n\nMid-range pricing ($15-30/person) for a sit-down café spread that actually delivers. Save this for your Phu Quoc trip.",
+    "video_caption": "Fresh pastries, Korean café energy, right inside Sonasea on Bãi Trường. LOLO BAKERY & CAFE is what your Phu Quoc mornings are missing. 4.4 stars. 464 reviews. Go before the beach crowd wakes up.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you walked past LOLO BAKERY & CAFE three times before finally going in. Don't be that person.\n\n4.4★, 464 reviews, Bãi Trường. Save this.",
+    "video_caption": "Korean café tucked into Sonasea resort. LOLO BAKERY & CAFE hitting different at 8am on Bãi Trường.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #BaiTruong #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CafeHopping"
+  },
+  "tiktok": {
+    "caption": "Walked past this every day. Finally went in. Big mistake for my wallet. #PhuQuoc #PhuQuocCafe #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: walked past 3 times.",
+    "scenes": [
+      "Exterior shot: LOLO sign, Sonasea complex",
+      "Slow pan across full pastry case",
+      "Close-up: coffee poured, steam rising",
+      "Wide shot: calm café interior, few guests",
+      "Cut to: table spread, pastries plated"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

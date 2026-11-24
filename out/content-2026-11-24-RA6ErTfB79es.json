@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 3,327 reviews. At a coffee shop in Sunset Town.\n\nThe Juliet Coffee & Dessert - AMA71 is sitting at 71 Amalfi inside Phú Quốc's most photogenic district, quietly collecting near-perfect ratings from every tourist who walks in.\n\n$15-30 a person. For coffee and dessert that apparently earns a 4.9.\n\nThat number doesn't lie. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the dessert land on the table at The Juliet Coffee & Dessert - AMA71. Sunset Town backdrop. 4.9 stars. 3,327 people didn't get it wrong. $15-30 a person in one of Phu Quoc's most beautiful corners.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #SunsetTownPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamCafe"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 3,327 reviews. One coffee shop in Sunset Town.\n\nThe Juliet Coffee & Dessert - AMA71. $15-30. Save this.",
+    "video_caption": "3,327 people rated this 4.9. The Juliet Coffee & Dessert - AMA71 in Sunset Town. Go see why.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #SunsetTownPhuQuoc #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CafeHopping"
+  },
+  "tiktok": {
+    "caption": "4.9 stars from 3,327 reviews. This café in Sunset Town is not playing around. #PhuQuoc #PhuQuocCafe #SunsetTown #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9 stars. 3,327 reviews.",
+    "scenes": [
+      "Exterior shot: 71 Amalfi signage, Sunset Town street",
+      "Slow pan across dessert display case",
+      "Coffee poured, steam rising close-up",
+      "Dessert plate set on table, full reveal",
+      "Wide shot: café interior, every seat filled",
+      "Rating on screen: 4.9 stars, 3,327 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

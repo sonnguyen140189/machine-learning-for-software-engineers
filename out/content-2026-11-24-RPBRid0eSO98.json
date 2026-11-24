@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you're walking down Nguyễn Trung Trực and you smell it before you see it. Nị Bakery. 5.0 stars. 46 reviews. A perfect score from real people in a town full of tourist traps. This is the kind of pastry shop locals actually return to. Not because it's flashy. Because it's just really, really good. Save this for your Phu Quoc trip.",
+    "video_caption": "Fresh pastries. Perfect score. Nị Bakery on Nguyễn Trung Trực is earning every single one of those 5 stars. Watch till the end.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocBakery #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you find the 5.0-star bakery the tourists keep walking past. Nị Bakery. Save this.",
+    "video_caption": "5.0 stars. 46 reviews. Nị Bakery is not an accident. It earns it every day.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #PhuQuocBakery #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Found the 5-star bakery locals actually go to in Phu Quoc. Nị Bakery. No notes. #PhuQuoc #PhuQuocFood #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: 5.0 stars. Zero hype.",
+    "scenes": [
+      "Exterior shot: storefront on Nguyễn Trung Trực",
+      "Close-up: pastries arranged in display case",
+      "Hands picking up a pastry, flaky layers visible",
+      "Review screen: 5.0 stars, 46 reviews shown",
+      "First bite reaction, no words needed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
