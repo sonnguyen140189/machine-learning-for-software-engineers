@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you booked a dive trip on a whim. Now you're 15 meters down, watching reef fish dart through coral off Phu Quoc. Lặn biển Phú Quốc - Delight Diving on Đường Trần Hưng Đạo runs a 5.0★ rating across 191 reviews. That's not luck. That's consistency. First time diver or certified, they handle both. Save this for your Phu Quoc trip.",
+    "video_caption": "Gear on. Giant stride. Under the surface in seconds. Delight Diving delivers a 5.0★ dive experience, 191 reviews deep. Phu Quoc's reefs don't disappoint.",
+    "first_comment": "#PhuQuoc #PhuQuocDiving #DivingVietnam #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "Booked a dive on a whim. 5.0★, 191 reviews, zero regrets. Lặn biển Phú Quốc - Delight Diving. Save this.",
+    "video_caption": "Mask down, world gone quiet. Delight Diving, Phu Quoc. 5.0★ for a reason.",
+    "hashtags": "#PhuQuocDiving #PhuQuocTips #DivingVietnam #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Dived Phu Quoc on a whim. Best decision. 5.0★ for a reason. #PhuQuocDiving #DivingVietnam #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: best dive of your life.",
+    "scenes": [
+      "Diver suits up on the boat deck",
+      "Giant stride entry off the stern",
+      "Descent shot, bubbles rising up",
+      "Reef fish swarm around coral heads",
+      "Diver floats, weightless, wide-angle",
+      "Back on deck, mask off, huge grin"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

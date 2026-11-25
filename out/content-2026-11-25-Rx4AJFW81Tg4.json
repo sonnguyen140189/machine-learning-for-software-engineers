@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "1,114 people rated a rainforest. 4.2 stars.\n\nPhu Quoc National Park is a UNESCO Biosphere Reserve covering most of the island's interior. Evergreen forest, rare flora, endemic wildlife, and oceanic species you won't find anywhere else in Vietnam.\n\nMost tourists stay on the beach their whole trip. The park sits empty.\n\nRent a motorbike and go north. Save this for your Phu Quoc trip.",
+    "video_caption": "Riding into Phu Quoc National Park at dawn. No crowds, no resort pools. Just 37,000 hectares of UNESCO rainforest that most tourists on this island never enter.",
+    "first_comment": "#PhuQuoc #PhuQuocNationalPark #VisitVietnam #TravelTips #ThingsToDoPhuQuoc #VietnamNature #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "1,114 reviews. 4.2 stars. For a rainforest.\n\nPhu Quoc National Park is a UNESCO Biosphere Reserve most visitors never enter. Tag your travel buddy.",
+    "video_caption": "37,000 hectares of UNESCO forest. Zero resort crowds. This is the Phu Quoc nobody films.",
+    "hashtags": "#PhuQuocNationalPark #PhuQuocTips #VietnamNature #PhuQuocTravel #TravelReels #VietnamTravel #TravelTips #PhuQuocAdventure"
+  },
+  "tiktok": {
+    "caption": "4.2 stars. 1,114 reviews. For a UNESCO rainforest most tourists skip. #PhuQuoc #PhuQuocNationalPark #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "1,114 reviews. 4.2★. A rainforest.",
+    "scenes": [
+      "Aerial: dense green canopy, no buildings",
+      "Motorbike turns onto empty forest road",
+      "Close-up: rare orchid on mossy trunk",
+      "Wide shot: forest trail, misty morning light",
+      "Camera pans to UNESCO Biosphere Reserve sign"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

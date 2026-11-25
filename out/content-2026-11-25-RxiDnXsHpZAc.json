@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.6 stars. 97 reviews. All for a plate of cơm tấm in Phu Quoc.\n\nCơm tấm Nhị on 1 Nguyễn Trung Trực keeps it simple. Broken rice, grilled pork, a fried egg. The kind of plate locals eat twice a week without thinking about it. Price sits at $15-30 a head. No resort markup. No tourist menu.\n\nIf you want to eat like someone who actually lives here, start here.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the plate land. Broken rice, charred pork, egg still runny. This is what 97 reviewers kept coming back for at Cơm tấm Nhị. Street-level, no frills, $15-30 a head.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #VietnamFood #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocRestaurants #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.6 stars. 97 reviews. Just cơm tấm.\n\nCơm tấm Nhị is the no-fuss broken rice spot locals keep rating. $15-30 a head.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Broken rice. Grilled pork. Runny egg. 97 people rated Cơm tấm Nhị 4.6 stars for a reason.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #VietnamFood #PhuQuocTips #TravelTips #VietnamTravel #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "97 reviews. 4.6 stars. This cơm tấm spot in Phu Quoc earns every one. #PhuQuoc #PhuQuocFood #VietnamFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "4.6 stars. 97 reviews.",
+    "scenes": [
+      "Close-up: broken rice filling the plate",
+      "Grilled pork slices hit the rice",
+      "Egg cracked, yolk still runny",
+      "Fork cuts through, steam rises",
+      "Wide shot: busy local dining room"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

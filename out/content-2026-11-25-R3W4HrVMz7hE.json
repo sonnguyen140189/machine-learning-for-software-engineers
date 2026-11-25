@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists walk straight past this place on Đường Trần Hưng Đạo. Locals don't. Tram Tram's Banh Mi has 512 reviews and a 4.5-star rating for a reason. Crispy bread, loaded fillings, priced at $$ so it won't hurt your budget. This is the banh mi stop the resort crowd never finds. Save this for your Phu Quoc trip.",
+    "video_caption": "Banh mi straight off the press at Tram Tram's Banh Mi. Watch the bread crack open. 512 locals and travelers rated this 4.5 stars. Now you know where to go.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #BanhMiPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't share this one. Tram Tram's Banh Mi, 4.5★, 512 reviews, still off the tourist radar. Tag your travel buddy.",
+    "video_caption": "Crunch first, questions later. Tram Tram's Banh Mi hits different at street level.",
+    "hashtags": "#PhuQuocFood #PhuQuocTips #BanhMi #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "The banh mi spot tourists keep skipping on Đường Trần Hưng Đạo. 4.5 stars. 512 reviews. #PhuQuoc #PhuQuocFood #BanhMi #VietnamFood"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Pan down busy Đường Trần Hưng Đạo storefront",
+      "Hands press fresh bread onto hot grill",
+      "Knife splits loaf, fillings stacked high",
+      "Close-up: first bite, crust shatters",
+      "Pull back: packed local crowd ordering"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

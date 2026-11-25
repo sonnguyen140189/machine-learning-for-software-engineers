@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "15,032 reviews. 4.5 stars. Grand World Phu Quoc is not a fluke.\n\nThis massive entertainment complex at Bãi Dài packs canals, street food lanes, neon-lit bridges, and live performances into one walkable strip. Come at night. The whole place changes after dark.\n\nFirst-timers: wear comfortable shoes. You will cover distance.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Neon lights, canal boats, street food smoke. Grand World Phu Quoc hits different at night. 15,032 people rated it 4.5 stars and they were not exaggerating. Walk the whole strip before 10pm.",
+    "first_comment": "#PhuQuoc #GrandWorldPhuQuoc #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocNightlife #VietnamTravel #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "15,032 reviews. 4.5 stars. Grand World Phu Quoc earns both.\n\nGo at night. Tag your travel buddy.",
+    "video_caption": "Canal boats. Neon bridges. 15K reviews at 4.5 stars. Grand World Phu Quoc after dark.",
+    "hashtags": "#PhuQuocNightlife #PhuQuocTips #GrandWorldPhuQuoc #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocAttractions"
+  },
+  "tiktok": {
+    "caption": "15,032 reviews. 4.5 stars. Grand World Phu Quoc hits hardest after dark. #PhuQuoc #GrandWorld #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "15,032 reviews. 4.5 stars.",
+    "scenes": [
+      "Aerial shot: canal strip lit up at night",
+      "Street food stalls with smoke rising",
+      "Canal boat gliding under neon bridge",
+      "Crowds walking the main promenade",
+      "Live performance stage, full audience",
+      "Wide shot: full complex glowing at 9pm"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

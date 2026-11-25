@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "754 reviews. 4.7 stars. This Thai spot on Đường Bạch Đằng earns every one of them.\n\nPad Thai at 90 Đường Bạch Đằng, Dương Đông is the kind of place locals loop back to and tourists only find if they stray off the main drag. Expect bold flavors, generous portions, and a bill that won't hurt at $15-30 a head.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the wok smoke rise at Pad Thai on Đường Bạch Đằng. 754 people rated this 4.7 stars and the plate explains why. Around $15-30 a head in Dương Đông.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "754 reviews. 4.7 stars. Pad Thai on Đường Bạch Đằng earns both.\n\n$15-30 a head. Dương Đông, Phu Quoc. Save this.",
+    "video_caption": "Wok smoke, 4.7 stars, 754 reviews. Pad Thai at 90 Đường Bạch Đằng does not miss.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #ThaiFood #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "754 reviews at 4.7 stars. This Thai spot in Dương Đông is no accident. #PhuQuoc #PhuQuocFood #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "754 reviews. 4.7 stars.",
+    "scenes": [
+      "Exterior shot: 90 Đường Bạch Đằng sign",
+      "Wok flames flare in the kitchen",
+      "Pad Thai plated, steam rising close-up",
+      "Full table spread, two diners react",
+      "Receipt or menu showing $15-30 range"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

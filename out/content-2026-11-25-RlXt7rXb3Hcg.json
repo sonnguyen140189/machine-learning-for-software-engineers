@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place resets your brain.\n\nDinh Cậu Lighthouse sits at the edge of Dương Đông, where the river meets the sea. Watch fishing boats drift past at golden hour. No crowds pushing for the same photo. Just wind, water, and a view that actually makes you stop.\n\nIf Phu Quoc has been feeling too loud, come here first.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Fishing boats moving slow. Sun dropping fast. Dinh Cậu Lighthouse at golden hour hits different. This is the Phu Quoc the resorts don't put in their brochures.",
+    "first_comment": "#PhuQuoc #PhuQuocLighthouse #PhuQuocSunset #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place resets your brain. Dinh Cậu Lighthouse, golden hour, zero crowd pressure.\n\nTag your travel buddy.",
+    "video_caption": "Boats drifting. Wind picking up. Dinh Cậu Lighthouse at sunset does something to you.",
+    "hashtags": "#PhuQuocSunset #PhuQuocLighthouse #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc sunset that actually stops you mid-scroll. Dinh Cậu Lighthouse. 🌅 #PhuQuoc #PhuQuocSunset #TravelTips #VisitVietnam"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that fixes burnout.",
+    "scenes": [
+      "Wide shot: lighthouse on rocky point",
+      "Fishing boats crossing slow at dusk",
+      "Wind moving through tall grass below",
+      "Sun hits the water, full golden light",
+      "Solo traveler sits at the edge, still"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

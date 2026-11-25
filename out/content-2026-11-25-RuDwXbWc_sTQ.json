@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "Walked down Đường Nguyễn Văn Trỗi, almost missed it. Quán Ăn 93 sits at number 93/185 and 363 reviews later, locals are still not done with it. 4.2 stars. $15-30 a head. Real food, real crowd, zero tourist-trap energy. This is the kind of spot you stumble into and immediately text your group. Save this for your Phu Quoc trip.",
+    "video_caption": "Street food energy, sit-down prices. Quán Ăn 93 on Đường Nguyễn Văn Trỗi is pulling 363 reviews for a reason. Under $30 a head and the tables fill fast. Go early.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Walked past. Doubled back. Sat down. Quán Ăn 93 earns every one of its 363 reviews. $15-30 a head. Tag your travel buddy.",
+    "video_caption": "363 reviews on a street most tourists skip. Quán Ăn 93 hits different when you actually find it.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "POV: you almost walked past Quán Ăn 93. 363 reviews. $15-30. Don't skip it. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: almost missed this place.",
+    "scenes": [
+      "Pan down busy Đường Nguyễn Văn Trỗi",
+      "Zoom in on 93/185 sign on wall",
+      "Packed tables, locals eating fast",
+      "Close-up of steaming dishes arriving",
+      "Show Google rating: 4.2 stars, 363 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

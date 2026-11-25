@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "28,096 reviews. 4.6 stars. This is not a normal zoo.\n\nVinpearl Safari Phú Quốc is an open conservation park where rare native species and exotic animals roam actual space, not concrete enclosures. You walk through it. Some of them walk past you.\n\nLocated at Bãi Dài on the northern tip of the island. Budget a half-day minimum.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "A giraffe just walked past the camera. This is Vinpearl Safari Phú Quốc, 4.6 stars across 28,096 reviews, and it earns every single one. Open conservation zoo at Bãi Dài. Add it to the itinerary.",
+    "first_comment": "#PhuQuoc #PhuQuocThingsToDo #VinpearlSafari #VisitVietnam #TravelTips #PhuQuocTravel #VietnamWildlife"
+  },
+  "instagram": {
+    "caption": "28,096 reviews. 4.6 stars. This zoo is different.\n\nVinpearl Safari Phú Quốc, open conservation park at Bãi Dài. Half-day minimum. Tag your travel buddy.",
+    "video_caption": "Animals roaming free. You in the middle of it. Vinpearl Safari Phú Quốc hits different at 4.6 stars for a reason.",
+    "hashtags": "#PhuQuocThingsToDo #PhuQuocTravel #VinpearlSafari #VietnamWildlife #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "28,096 people rated this 4.6 stars. Open zoo. Rare animals. Bãi Dài, Phu Quoc. #PhuQuoc #VinpearlSafari #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "28,096 reviews. 4.6 stars.",
+    "scenes": [
+      "Aerial shot: vast open safari grounds",
+      "Giraffe walks across dirt path",
+      "Rare native species at close range",
+      "Visitor watches rhino from safe distance",
+      "Wide shot: lush park at Bãi Dài",
+      "Text overlay: 4.6 stars, 28,096 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

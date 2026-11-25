@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 74 reviews. Zero half-stars, zero complaints.\n\nFood Garden Phu Quoc on 126 Đường Trần Hưng Đạo is running a perfect score, and dinner for two lands well under $60. That's $$ pricing with five-star results.\n\nFresh ingredients, real portions, the kind of meal you text people about. Swipe to see what's on the plates.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Plates hitting the table at Food Garden Phu Quoc. Five stars, 74 reviews, $15-30 a head. Watch what lands in front of you here.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "74 reviews. All 5 stars. Dinner from $15.\n\nFood Garden Phu Quoc is the one. Tag your travel buddy.",
+    "video_caption": "5.0 stars. 74 people agreed. Food Garden Phu Quoc delivers.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #FoodInVietnam"
+  },
+  "tiktok": {
+    "caption": "5.0 stars at Food Garden Phu Quoc. 74 reviews, $15-30/head. Book it. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5.0 STARS. 74 REVIEWS.",
+    "scenes": [
+      "Exterior shot: Food Garden Phu Quoc sign",
+      "Pan across full table of dishes",
+      "Close-up: fork breaking into main course",
+      "Reaction shot: first bite, nod of approval",
+      "Bill arrives, camera reveals total"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered off Đường Nguyễn Du and found the BBQ spot locals actually line up for.\n\nSong Gia Food Phu Quoc. 4.8 stars. Smoke in the air. Meat on the grill. Bill stays under $30 a head.\n\nThis is the kind of place you stop photographing and just eat. Charcoal-grilled seafood and meats, no resort markup, no tourist menu.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Charcoal smoke, sizzling grill, $15-30 a head. Song Gia Food Phu Quoc earns that 4.8 for a reason. Watch the skewers hit the heat and try not to book a table immediately.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you followed the smoke and found Song Gia Food Phu Quoc.\n\n4.8 stars. BBQ under $30. No resort markup.\n\nTag your travel buddy.",
+    "video_caption": "Grill firing. Skewers smoking. 4.8 stars at Song Gia Food Phu Quoc. Under $30 a head.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #BBQNight"
+  },
+  "tiktok": {
+    "caption": "Followed the smoke down Đường Nguyễn Du. Found this. 4.8★ BBQ under $30 a head. #PhuQuoc #PhuQuocFood #PhuQuocTips"
+  },
+  "video_script": {
+    "hook": "POV: you followed the smoke.",
+    "scenes": [
+      "Charcoal grill firing up close",
+      "Skewers laid on smoking grates",
+      "Plate of grilled seafood arriving",
+      "Bill dropped on table, under $30",
+      "Street sign: Đường Nguyễn Du"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
