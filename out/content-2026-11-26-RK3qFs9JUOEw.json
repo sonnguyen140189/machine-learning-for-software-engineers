@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes the mid-trip crash.\n\nCà Phê Bàng on Đ. Trần Phú is the kind of coffee shop you sit in for two hours without noticing. 4.4 stars. 232 reviews. The crowd is calm, the coffee is real, and nobody is rushing you out.\n\nPhu Quoc moves fast. This spot doesn't.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the cup land on the table. Watch the room. This is Cà Phê Bàng and it hits different when the beach crowds get to be too much. 4.4 stars, 232 reviews, Đ. Trần Phú.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. Cà Phê Bàng. 4.4★, 232 reviews. Tag your travel buddy.",
+    "video_caption": "Coffee order in. Noise out. Cà Phê Bàng is the reset button Phu Quoc didn't advertise.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #CoffeePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "Needed a break from the beach. Found Cà Phê Bàng. Stayed two hours. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Phu Quoc that slows you down.",
+    "scenes": [
+      "Pan across calm interior, soft light",
+      "Close-up: coffee poured into glass",
+      "Hands wrap around cup, no phone",
+      "Wide shot: near-empty tables, unhurried",
+      "Cut to storefront: 225 Đ. Trần Phú"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

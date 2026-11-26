@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $30 for two at Bơ restaurant & coffee. On Trần Hưng Đạo, Phu Quoc's busiest strip. 4.8 stars across 790 reviews. That math makes no sense. Food is real, portions are generous, and the coffee alone is worth the stop. Skip the overpriced resort dining. This is where your money actually goes far. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch this plate land on the table at Bơ restaurant & coffee. $15-30 for a full meal. 790 people rated it 4.8 stars. Your resort buffet can wait.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "$15-30 a head. 4.8 stars. 790 reviews. Bơ restaurant & coffee on Trần Hưng Đạo is the move. Save this.",
+    "video_caption": "Plates arriving at Bơ restaurant & coffee. Under $30 for two. 790 reviews don't lie.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "$15-30 a head at Bơ restaurant & coffee. 4.8 stars. 790 reviews. Phu Quoc eats are built different. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Under $30. 4.8 stars. Phu Quoc.",
+    "scenes": [
+      "Exterior shot of Bơ restaurant & coffee sign",
+      "Camera pans a full table of dishes",
+      "Close-up: coffee poured, steam rising",
+      "Cut to: receipt or menu price visible",
+      "Zoom out: packed tables, local crowd"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

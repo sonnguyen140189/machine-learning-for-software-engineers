@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars. 330 reviews. HD Cafe keeps showing up on locals' lists and now we know why.\n\nSolid coffee, easy vibe, and prices that won't hurt at $15-30 a person. This is the kind of spot you stumble into once and return to every morning after.\n\nKhu 1, Phú Quốc. Worth the detour.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the morning crowd roll into HD Cafe. 330 reviews. 4.5 stars. Phu Quoc locals already know. Now you do too. Khu 1, Phú Quốc.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "330 reviews. 4.5 stars. HD Cafe earns it every morning.\n\nKhu 1, Phú Quốc. Save this.",
+    "video_caption": "Morning coffee at HD Cafe hits different. 4.5 stars, 330 locals agree. Khu 1, Phú Quốc.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeShop"
+  },
+  "tiktok": {
+    "caption": "4.5 stars, 330 reviews. HD Cafe in Khu 1 Phú Quốc is the real deal. #PhuQuoc #PhuQuocCafe #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "330 reviews. 4.5 stars.",
+    "scenes": [
+      "Exterior shot: HD Cafe sign, Khu 1",
+      "Close-up: coffee poured into cup",
+      "Pan across tables filling with locals",
+      "Slow zoom on steaming drink",
+      "Text overlay: 4.5 stars, 330 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "Walked down a side street on Đường Trần Hưng Đạo and found Zyzu Kafé. 4.4 stars, 360 reviews, and barely anyone talking about it online. Order, grab a seat, slow down. This is the kind of coffee stop that resets the whole day. Duong Dong has better cafés than people give it credit for. Save this for your Phu Quoc trip.",
+    "video_caption": "Lối lên off Đường Trần Hưng Đạo. One minute you're in the street noise. Next you're at Zyzu Kafé with a drink in hand and nowhere to be. 4.4 stars. 360 people weren't wrong.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #DuongDong #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Took a turn off Đường Trần Hưng Đạo. Found Zyzu Kafé. 4.4 stars and zero hype. Tag your travel buddy.",
+    "video_caption": "POV: you stop rushing and sit down at Zyzu Kafé. Best decision of the day.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #DuongDong #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Found Zyzu Kafé on a side street in Duong Dong. 4.4 stars. Zero crowds. This is the move. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you found the good café.",
+    "scenes": [
+      "Street-level shot: Đường Trần Hưng Đạo foot traffic",
+      "Turn into Lối lên side entrance",
+      "First look at Zyzu Kafé interior or facade",
+      "Close-up: drink being set on the table",
+      "Relaxed guest shot, no rush energy"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

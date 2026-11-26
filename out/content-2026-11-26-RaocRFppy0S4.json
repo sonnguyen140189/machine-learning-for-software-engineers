@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "436 reviews. 5.0 stars. Perfect score.\n\nMr. Viet Coffee on Đ. Lê Lợi is doing something right. No half stars, no dips. Just a flawless record across hundreds of cups.\n\nIf you're in Phú Quốc and need a coffee stop that actually delivers, this is the one locals keep rating and tourists keep discovering.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch the pour at Mr. Viet Coffee, Đ. Lê Lợi. 436 people gave it 5 stars. See why in 30 seconds.",
+    "first_comment": "#PhuQuoc #PhuQuocCoffee #ThingsToDoPhuQuoc #VisitVietnam #VietnamCoffee #PhuQuocTips #TravelVietnam"
+  },
+  "instagram": {
+    "caption": "436 reviews. 5.0 stars. Zero dips.\n\nMr. Viet Coffee on Đ. Lê Lợi is the real deal. Tag your travel buddy.",
+    "video_caption": "Perfect 5.0. 436 people voted. Mr. Viet Coffee on Đ. Lê Lợi earns every star.",
+    "hashtags": "#PhuQuocCoffee #PhuQuocTips #PhuQuocFood #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #CoffeeReels"
+  },
+  "tiktok": {
+    "caption": "5.0 stars. 436 reviews. Mr. Viet Coffee in Phú Quốc hits different. #PhuQuoc #VietnamCoffee #PhuQuocTips #TravelTips"
+  },
+  "video_script": {
+    "hook": "5.0 STARS. 436 REVIEWS.",
+    "scenes": [
+      "Exterior shot: Đ. Lê Lợi storefront",
+      "Close-up: coffee being poured slowly",
+      "Wide shot: cups lined up, steam rising",
+      "Screen overlay: 5.0 stars, 436 reviews",
+      "Final sip, satisfied reaction"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

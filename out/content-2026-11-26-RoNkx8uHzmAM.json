@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "LOCALS_DONT_TELL",
+  "facebook": {
+    "caption": "Tourists keep walking past this coffee shop on Đường Trần Hưng Đạo. Their loss. Ola coffee shop pulls a 4.7 from 228 reviews and the crowd inside is almost entirely locals. That's the tell. Good coffee, chill vibe, real prices. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch what happens when you skip the resort café and walk into Ola coffee shop instead. 4.7 stars. Locals everywhere. This is the coffee spot on Đường Trần Hưng Đạo they don't put in the guidebooks.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Locals don't post about Ola coffee shop. 4.7 stars, 228 reviews, and barely a tourist in sight. Tag your travel buddy.",
+    "video_caption": "Walked past the resort café. Found Ola coffee shop instead. 4.7 stars and the locals know why.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeShop"
+  },
+  "tiktok": {
+    "caption": "The coffee shop locals actually go to in Phu Quoc. 4.7 stars. Zero tourist menus. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Locals don't post about this.",
+    "scenes": [
+      "Pan exterior sign: Ola coffee shop",
+      "Show busy tables, mostly locals",
+      "Close-up: coffee cup hits the table",
+      "Quick cut: 4.7 star rating on screen",
+      "Wide shot: relaxed indoor vibe"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

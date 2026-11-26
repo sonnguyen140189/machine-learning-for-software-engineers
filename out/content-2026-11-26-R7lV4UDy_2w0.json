@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "6,244 reviews. 4.3 stars. Chuồn Chuồn Bistro & Bar is not flying under the radar anymore. Asian fusion on Trần Hưng Đạo, $15-30 a head, and a crowd that keeps coming back. The review count tells you everything. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the plates land at Chuồn Chuồn Bistro & Bar. Asian fusion, $15-30 a person, 6,244 people already rated it 4.3 stars. Your Phu Quoc dinner plan just sorted itself.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips #AsianFusion #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "6,244 reviews. 4.3 stars. Chuồn Chuồn Bistro & Bar hits different. Asian fusion, $15-30 a head. Tag your travel buddy.",
+    "video_caption": "Plates arriving at Chuồn Chuồn Bistro & Bar. 6,244 ratings at 4.3 stars. This is your Phu Quoc dinner.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #PhuQuoc #VietnamTravel #TravelTips #TravelReels #AsianFusion"
+  },
+  "tiktok": {
+    "caption": "6,244 reviews at 4.3 stars. Chuồn Chuồn Bistro & Bar earns it. #PhuQuoc #PhuQuocFood #AsianFusion #TravelTips"
+  },
+  "video_script": {
+    "hook": "6,244 reviews. 4.3 stars.",
+    "scenes": [
+      "Exterior shot, Trần Hưng Đạo street",
+      "Busy dining room, full tables",
+      "Close-up: fusion dish hitting the table",
+      "Drinks poured, bar in background",
+      "Price graphic: $15-30 per person"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

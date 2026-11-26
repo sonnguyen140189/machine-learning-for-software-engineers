@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Coffee and a full café spread for under $15 at June Coffee (Phú Quốc). That's the $$ tier here, solid drinks, chill atmosphere, and you're not paying tourist markup. Located on Lý Thường Kiệt, it's the kind of spot you drop into between beaches and don't want to leave. 4.4 stars from locals who keep coming back. Save this for your Phu Quoc trip.",
+    "video_caption": "Watch the barista work at June Coffee (Phú Quốc), $15 gets you a full order on Lý Thường Kiệt. 4.4 stars. No resort pricing. Just good coffee.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #VietnamCoffee #CafeVibes #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $15 for coffee in Phu Quoc. June Coffee (Phú Quốc) on Lý Thường Kiệt. 4.4 stars. No resort markup. Tag your travel buddy.",
+    "video_caption": "Ordering at June Coffee (Phú Quốc). $15 max. 4.4 stars. This is your Phu Quoc coffee stop.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CoffeeVibes"
+  },
+  "tiktok": {
+    "caption": "Under $15 for coffee in Phu Quoc?? June Coffee (Phú Quốc) delivers. 4.4 stars, no tourist tax. #PhuQuoc #PhuQuocCafe #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Coffee for under $15 in Phu Quoc.",
+    "scenes": [
+      "Exterior shot: 81 Lý Thường Kiệt signage",
+      "Barista pouring into glass cup",
+      "Close-up: drink on wooden table",
+      "Wide shot: relaxed café interior",
+      "Screen text: 4.4 stars. $15 max."
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes the mid-trip crash.\n\n58 CAFÉ on 58 Hoàng Văn Thụ sits at 4.5 stars across 157 reviews. Not flashy. Just good coffee, calm energy, and a vibe that slows you down when Phu Quoc's pace catches up with you.\n\nThe $$ price point means you're not breaking the bank either.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Coffee hit. Quiet corner. 157 people rated 58 CAFÉ at 4.5 stars and you can see exactly why. Sometimes you just need a place that gets out of your way.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #CoffeeVietnam #VisitVietnam #TravelTips #PhuQuocTips #VietnamCoffee"
+  },
+  "instagram": {
+    "caption": "Phu Quoc that doesn't feel touristy. 58 CAFÉ. 4.5 stars. 157 reviews. Mid-trip reset found.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.5 stars. 157 reviews. One calm café on 58 Hoàng Văn Thụ. Walk in. Slow down.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CoffeeVietnam"
+  },
+  "tiktok": {
+    "caption": "The mid-trip crash is real. 58 CAFÉ fixes it. 4.5★ 157 reviews. #PhuQuoc #PhuQuocCafe #VietnamTravel #CoffeeVibes"
+  },
+  "video_script": {
+    "hook": "Phu Quoc burned you out.",
+    "scenes": [
+      "Exterior shot: 58 Hoàng Văn Thụ signage",
+      "Push through door, ambient café sounds",
+      "Close-up: coffee poured into cup",
+      "Wide shot: calm seating area, few people",
+      "Screen overlay: 4.5★ 157 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

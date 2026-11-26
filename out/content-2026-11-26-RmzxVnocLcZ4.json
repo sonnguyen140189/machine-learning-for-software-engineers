@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "SHOCK_PRICE",
+  "facebook": {
+    "caption": "Under $15 for coffee AND ice cream at Buddy Ice Cream & Cafe. In Phu Quoc. That's the whole post.\n\nSit-down cafe on Đường Bạch Đằng, 4.5 stars from 373 reviews. The kind of place that fills up fast because locals know the price-to-quality math here.\n\nBook your table early or walk in and hope for the best. Save this for your Phu Quoc trip.",
+    "video_caption": "Watching ice cream get scooped at Buddy Ice Cream & Cafe while your wallet stays intact. 4.5 stars, $$ pricing, Đường Bạch Đằng. This is the coffee stop tourists walk past. Don't.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #PhuQuocFood #ThingsToDoPhuQuoc #VisitVietnam #VietnamTravel #TravelTips"
+  },
+  "instagram": {
+    "caption": "Under $15 at a 4.5-star cafe. Buddy Ice Cream & Cafe on Đường Bạch Đằng delivers.\n\n373 reviews back it up. Tag your travel buddy.",
+    "video_caption": "Ice cream. Coffee. Under $15. Buddy Ice Cream & Cafe is the move in Phu Quoc.",
+    "hashtags": "#PhuQuocCafe #PhuQuocFood #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #CafeHopping"
+  },
+  "tiktok": {
+    "caption": "Under $15 at a 4.5-star Phu Quoc cafe. Buddy Ice Cream & Cafe on Đường Bạch Đằng. Go. #PhuQuoc #PhuQuocFood #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "Under $15. 4.5 stars. Phu Quoc.",
+    "scenes": [
+      "Exterior shot: Đường Bạch Đằng storefront",
+      "Slow pour: coffee hitting the glass",
+      "Close-up: ice cream scoop landing",
+      "Pan across filled tables, locals eating",
+      "Receipt or menu price held to camera"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

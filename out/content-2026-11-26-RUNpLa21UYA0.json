@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "928 reviews. 4.6 stars. This coffee shop on Đường Trần Hưng Đạo keeps delivering.\n\nIsland Phu Quoc café sits at 85 Đường Trần Hưng Đạo and the numbers don't lie. Nearly 1,000 people rated it and the score barely moved. That's consistency.\n\nBudget around $15-30 per person. Solid mid-range for Phu Quoc café standards.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walk into Island Phu Quoc café and you instantly understand why 928 people left a review. The vibe does the talking. 85 Đường Trần Hưng Đạo. Go find out yourself.",
+    "first_comment": "#PhuQuoc #PhuQuocCafe #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "928 reviews. 4.6 stars. Island Phu Quoc café earns every one.\n\n85 Đường Trần Hưng Đạo. Save this for your Phu Quoc trip.",
+    "video_caption": "Nearly 1,000 ratings at this café on Đường Trần Hưng Đạo. The score? Still 4.6. Watch why.",
+    "hashtags": "#PhuQuocCafe #PhuQuocTips #PhuQuocFood #VietnamTravel #TravelTips #TravelReels #CoffeeVietnam"
+  },
+  "tiktok": {
+    "caption": "928 reviews. 4.6 stars. This Phu Quoc café is not an accident. #PhuQuoc #PhuQuocCafe #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "928 reviews. 4.6 stars.",
+    "scenes": [
+      "Exterior shot: 85 Đường Trần Hưng Đạo sign",
+      "Pan across full café interior",
+      "Close-up: drinks hitting the counter",
+      "Cut to Google review score on screen",
+      "Wide shot: customers, real crowd"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
