@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 145 reviews. Right next to Chợ đêm Phú Quốc.\n\nHello Spa - Massage & Nail doesn't advertise. It just delivers. Consistently.\n\nFeet wrecked from beach-hopping? Body done from island days? This is the fix. Located at 05 Lê Lợi, it's one of the highest-rated spas on the island and most tourists walk right past it.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch what 4.9 stars looks like at Hello Spa - Massage & Nail. Steps from Chợ đêm Phú Quốc. Your feet will thank you.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #PhuQuocTips"
+  },
+  "instagram": {
+    "caption": "4.9 stars. 145 reviews. Next to Chợ đêm Phú Quốc.\n\nHello Spa - Massage & Nail is doing something right. Tag your travel buddy.",
+    "video_caption": "4.9 stars steps from Chợ đêm Phú Quốc. Hello Spa - Massage & Nail. Book it.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+  },
+  "tiktok": {
+    "caption": "4.9 stars near Chợ đêm Phú Quốc. Hello Spa - Massage & Nail. Don't skip it. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9 STARS. 145 REVIEWS.",
+    "scenes": [
+      "Exterior shot: 05 Lê Lợi sign at night",
+      "Pan to Chợ đêm Phú Quốc lights nearby",
+      "Close-up: nail station, clean tools laid out",
+      "Hands receiving massage, slow zoom",
+      "Review screen: 4.9 stars highlighted"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

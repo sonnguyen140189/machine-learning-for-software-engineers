@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: legs wrecked after a full day of Phu Quoc beaches. You find LUNA SPA on Đường Trần Hưng Đạo and walk in on a whim. Body massage, foot massage, shampoo, Gội Đầu Dưỡng Sinh. All of it. 4.8 stars across 223 reviews. You leave a different person. Save this for your Phu Quoc trip.",
+    "video_caption": "Walked in sore. Walked out fixed. LUNA SPA on Đường Trần Hưng Đạo is doing 4.8 stars for a reason. Foot massage, body massage, full Gội Đầu Dưỡng Sinh. This is what day two recovery looks like in Phu Quoc.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you stumbled into LUNA SPA after a long beach day. 4.8 stars. 223 reviews. Legs: fixed. Tag your travel buddy.",
+    "video_caption": "Sore legs meet LUNA SPA. Foot massage, body massage, Gội Đầu Dưỡng Sinh. 4.8 stars on Đường Trần Hưng Đạo.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Day 2 in Phu Quoc and my legs gave up. LUNA SPA fixed that fast. 4.8 stars. No skipping this. #PhuQuocSpa #PhuQuocTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you need this after the beach.",
+    "scenes": [
+      "Exterior shot: LUNA SPA sign at dusk",
+      "Pan across service menu board",
+      "Hands pressing into tired calves",
+      "Close-up: steaming foot bath fills frame",
+      "Shampoo bowl, slow pour, foam rising",
+      "Guest walks out, visibly relaxed"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

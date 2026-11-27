@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout. 제니스스파 & 네일 ZENITH SPA & NAIL on Đường Trần Hưng Đạo is what you book after three days of beaches and bikes. 4.8 stars across 2,866 reviews. That number does not lie. Walk in tense. Walk out a different person. Save this for your Phu Quoc trip.",
+    "video_caption": "Hands working down a back. Steam rising. The kind of quiet that actually sticks. 제니스스파 & 네일 ZENITH SPA & NAIL, 4.8 stars, 2,866 people already know. Now you do too.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. 4.8 stars. 2,866 reviews. 제니스스파 & 네일 ZENITH SPA & NAIL on Đường Trần Hưng Đạo. Save this for your Phu Quoc trip.",
+    "video_caption": "Steam. Silence. 2,866 people rated this 4.8. 제니스스파 & 네일 ZENITH SPA & NAIL delivers.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Phu Quoc that actually resets you. 4.8 stars at 제니스스파 & 네일 ZENITH SPA & NAIL. #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Exterior shot: 85 Đường Trần Hưng Đạo sign",
+      "Warm-lit reception, staff greeting guest",
+      "Hands pressing into shoulder blades",
+      "Close-up: steam rising from hot stones",
+      "Guest exhales, eyes closed, fully gone",
+      "Rating card: 4.8★ 2,866 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

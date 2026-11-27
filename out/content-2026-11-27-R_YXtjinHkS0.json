@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.8 stars. 206 reviews. On a street most tourists drive straight past.\n\nSELINA SPA Phú Quốc on Đường Trần Hưng Đạo is pulling those numbers for a reason. Locals rate it. Repeat visitors rate it. The kind of place that earns its score review by review.\n\nBook it before your Phu Quoc trip fills up with beach days and nothing else.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "206 people gave this spa 4.8 stars. Watch why. SELINA SPA Phú Quốc on Đường Trần Hưng Đạo, this is what a well-earned rating looks like. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 206 reviews. SELINA SPA Phú Quốc.\nThat score doesn't lie. Save this for your Phu Quoc trip.",
+    "video_caption": "206 reviews. 4.8 stars. SELINA SPA Phú Quốc earns every one. Tag your travel buddy.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocVietnam #VietnamTravel #TravelTips #TravelReels #SpaDay"
+  },
+  "tiktok": {
+    "caption": "4.8 stars, 206 reviews. SELINA SPA Phú Quốc hits different. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8★. 206 reviews. This spa.",
+    "scenes": [
+      "Exterior shot: 97C Đường Trần Hưng Đạo signage",
+      "Pan across reception, warm lighting",
+      "Therapist preparing treatment table",
+      "Close-up: hands, oils, calm setting",
+      "Review screen: 4.8 stars highlighted"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

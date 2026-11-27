@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you booked a random spa near Cửa Lấp and it turned out to be a 4.8-star find with 660 reviews.\n\nHaVi Spa & Massage Therapy Phu Quoc is not in the resort strip. That's exactly why locals keep going back. No lobby upsells. No tourist pricing theater. Just solid massage therapy that earns repeat visits.\n\n660 people rated this 4.8 stars. That number does the talking.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Hands working out every knot from a full beach day. This is HaVi Spa & Massage Therapy Phu Quoc near Cửa Lấp. 4.8 stars. 660 reviews. Book ahead.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "Booked a random spa near Cửa Lấp. 4.8 stars. 660 reviews. Zero regrets.\n\nHaVi Spa & Massage Therapy Phu Quoc. Tag your travel buddy.",
+    "video_caption": "4.8 stars and 660 reviews at a spa most tourists walk past. HaVi Spa near Cửa Lấp delivers.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocTravel #VietnamTravel #TravelTips #TravelReels #SpaDay"
+  },
+  "tiktok": {
+    "caption": "POV: found a 4.8-star spa off the tourist trail in Phu Quoc 🙌 #PhuQuoc #PhuQuocSpa #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: best spa decision you'll make",
+    "scenes": [
+      "Exterior shot of HaVi Spa, Cửa Lấp street",
+      "Hands pressing into back, slow close-up",
+      "Steam rising from hot towel on table",
+      "Phone screen showing 4.8 stars, 660 reviews",
+      "Guest leaving, visibly relaxed, smiling"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

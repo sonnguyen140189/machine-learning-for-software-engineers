@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you booked a massage on a whim and it turned out to be the best decision of your whole Phu Quoc trip.\n\n오션스파 Ocean spa on Đường Trần Hưng Đạo is pulling 4.9 stars from 3,569 reviews. That number is almost unfair.\n\nBook ahead. This one fills up fast.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "3,569 people rated this spa 4.9 stars. Watch what walking into 오션스파 Ocean spa actually looks like. Your body will thank you for adding this to the itinerary.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: a random massage booking just became your trip highlight.\n\n오션스파 Ocean spa. 4.9★, 3,569 reviews. Book ahead.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.9 stars. 3,569 reviews. 오션스파 Ocean spa is not playing around. Add it to the list.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Booked a massage on a whim. 4.9★ from 3,569 reviews. 오션스파 delivered. #PhuQuoc #PhuQuocSpa #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: best decision of your trip",
+    "scenes": [
+      "Walk up to 오션스파 Ocean spa entrance",
+      "Reception desk, calm lighting, staff greets",
+      "Treatment room door opens, table set up",
+      "Close-up: hot stones or oils on tray",
+      "Guest relaxing, eyes closed, exhales"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

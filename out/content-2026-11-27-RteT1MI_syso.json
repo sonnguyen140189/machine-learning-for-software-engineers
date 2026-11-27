@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.9 stars. 822 reviews. COCO SPA Phu Quoc - 푸꾸옥 코코스파 is not playing around.\n\nOn Đường Bào, away from the crowded resort strips. The kind of place that keeps its rating because the service actually delivers, every single time.\n\nBook before your beach day. Your body will thank you.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Hands working. Music low. The tension leaving your shoulders after a full beach day. COCO SPA Phu Quoc - 푸꾸옥 코코스파 has 822 people rating it 4.9 stars. Walk in and find out why.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #MassagePhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.9★ across 822 reviews. COCO SPA Phu Quoc - 푸꾸옥 코코스파 earns every single one.\n\nTag your travel buddy.",
+    "video_caption": "822 reviews. 4.9 stars. COCO SPA Phu Quoc - 푸꾸옥 코코스파 hits different after a long beach day.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #MassagePhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "4.9★ and 822 reviews at COCO SPA Phu Quoc - 푸꾸옥 코코스파. That rating is earned. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.9★. 822 reviews. One spa.",
+    "scenes": [
+      "Exterior shot: Đường Bào entrance sign",
+      "Receptionist hands over warm towel",
+      "Close-up: therapist working on shoulders",
+      "Guest exhales, eyes close, full relaxation",
+      "Review counter scrolling up to 822"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

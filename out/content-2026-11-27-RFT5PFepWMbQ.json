@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "Phu Quoc will drain you. The heat, the beach-hopping, the late nights at the market. Queen spa on Đường Trần Hưng Đạo is where you recover. 4.7 stars across 594 reviews. That rating holds because the results do. Book a slot before your legs give out on day three. Save this for your Phu Quoc trip.",
+    "video_caption": "Feet on a warm table. Street noise fading. This is Queen spa at Đường Trần Hưng Đạo. 4.7 stars and 594 people who came back less broken than they arrived. Your body will thank you.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips #PhuQuocTips #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "Phu Quoc will wreck you by day three. Queen spa fixes that. 4.7★, 594 reviews, Đường Trần Hưng Đạo. Save this.",
+    "video_caption": "4.7 stars. 594 people didn't lie. Queen spa on Đường Trần Hưng Đạo hits different after a full beach day.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #PhuQuocVietnam #VietnamTravel #TravelTips #TravelReels #SpaVietnam #ThingsToDoPhuQuoc"
+  },
+  "tiktok": {
+    "caption": "Day 3 in Phu Quoc and your body is done. Queen spa on Đường Trần Hưng Đạo. 4.7★ 594 reviews. Go. #PhuQuoc #PhuQuocSpa #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "Phu Quoc wrecked your body.",
+    "scenes": [
+      "Busy Đường Trần Hưng Đạo street entrance",
+      "Receptionist hands over warm towel",
+      "Hands begin shoulder massage, close-up",
+      "Client exhales, eyes close",
+      "Rating card: 4.7★ 594 reviews on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

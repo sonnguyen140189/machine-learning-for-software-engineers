@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you booked a massage on a whim and walked out a different person.\n\nTamarind Spa on 2 Nguyễn Thái Bình is sitting at a perfect 5.0★ across 1,643 reviews. That number doesn't lie.\n\nPrice range is $40-80 per person. For a full-body treatment in Phu Quoc, that's fair. Book ahead. It fills up.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "1,643 people gave this spa a perfect 5 stars. Watch what walking into Tamarind Spa actually looks like. The kind of place you don't leave in a hurry.",
+    "first_comment": "#PhuQuoc #PhuQuocSpa #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you find a 5.0★ spa with 1,643 reviews in Phu Quoc.\n\nTamarind Spa. $40-80. Book it early.\n\nTag your travel buddy.",
+    "video_caption": "5.0 stars. 1,643 reviews. Tamarind Spa delivers every single time. Don't skip this one.",
+    "hashtags": "#PhuQuocSpa #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: stumbled into the highest-rated spa in Phu Quoc. 5.0★ 1,643 reviews. #PhuQuoc #PhuQuocSpa #TravelTips #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: 5.0★ spa. 1,643 reviews.",
+    "scenes": [
+      "Exterior shot: Tamarind Spa sign, street view",
+      "Push through entrance, soft lighting inside",
+      "Treatment room reveal, clean and calm",
+      "Close-up: hands during massage in progress",
+      "Guest exits, visibly relaxed, slow-mo"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
