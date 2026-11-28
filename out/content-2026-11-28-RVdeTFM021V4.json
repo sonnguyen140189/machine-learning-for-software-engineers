@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "4.5 stars. 71 reviews. One jungle tour operator in Cửa Lấp, Phú Quốc that keeps delivering.\n\nJerry's Jungle Tours takes you off the main road and into the parts of Phu Quoc most tourists never reach. Small groups, local knowledge, real jungle.\n\nIf your itinerary is beach, resort, repeat, this breaks it up fast.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Watch what a Phu Quoc jungle tour actually looks like. Jerry's Jungle Tours, Cửa Lấp, 4.5 stars, 71 reviews, zero resort vibes. This is the other side of the island.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "4.5 stars. 71 reviews. Jerry's Jungle Tours, Cửa Lấp.\nThe side of Phu Quoc your resort map doesn't show. Tag your travel buddy.",
+    "video_caption": "Jungle. Not beach. Jerry's Jungle Tours in Cửa Lấp hits different. 4.5★, 71 reviews.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #ThingsToDoPhuQuoc #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "The jungle side of Phu Quoc. Jerry's Jungle Tours, Cửa Lấp. 4.5★ 71 reviews. #PhuQuoc #PhuQuocTours #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.5★. 71 reviews. Real jungle.",
+    "scenes": [
+      "Drone pulls back over dense jungle canopy",
+      "Boots hit a muddy forest trail",
+      "Guide points out wildlife up close",
+      "Group crosses a narrow jungle stream",
+      "Wide shot: no resort, no tourists in sight"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

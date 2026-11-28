@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "5.0 stars. 127 reviews. Zero complaints.\n\nViet Sail Phu Quoc runs sailing lessons, rentals, and tours out of Peppercorn Beach Resort near Gành Dầu. Whether you've never touched a sail or you know what you're doing, they handle both. North Phu Quoc, cleaner water, far fewer boats.\n\nThis is the kind of afternoon that rewires a whole trip.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Sails up, open water, north end of the island. Viet Sail Phu Quoc is running a 5.0 on 127 reviews and it shows the second you're on the boat. Lessons or full rental, your call.",
+    "first_comment": "#PhuQuoc #PhuQuocActivities #ThingsToDoPhuQuoc #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "5.0 stars. 127 reviews. Not one below five.\n\nViet Sail Phu Quoc, north end of the island, real sailing. Tag your travel buddy.",
+    "video_caption": "Catching wind off Gành Dầu. Viet Sail Phu Quoc. 5.0 stars for a reason.",
+    "hashtags": "#PhuQuocActivities #PhuQuocTips #PhuQuocSailing #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "5.0 stars, 127 reviews, north Phu Quoc open water. Viet Sail delivers. #PhuQuoc #PhuQuocActivities #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "5.0★. 127 reviews. Perfect.",
+    "scenes": [
+      "Sail unfurling against blue sky",
+      "Instructor adjusting rigging on dock",
+      "Boat cutting through clear north-coast water",
+      "Wide shot: empty horizon, no crowds",
+      "Close-up: hands gripping the tiller"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

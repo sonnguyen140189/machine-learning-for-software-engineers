@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "NUMBER_REVEAL",
+  "facebook": {
+    "caption": "2,561 reviews. 4.8 stars. And Camia Resort & Spa still feels like a secret.\n\nPalm-lined grounds. Infinity pool. Free breakfast included. Airy rooms that actually let you breathe.\n\nThis is Ông Lang, the quieter coast of Phu Quoc. Fewer crowds, slower pace, same island.\n\nIf you're building your Phu Quoc itinerary right now, save this one first.",
+    "video_caption": "Pool footage that earns those 2,561 five-star reviews. Camia Resort & Spa on Phu Quoc's quiet side, free breakfast included. Tag your travel buddy.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #OngLang #VisitVietnam #TravelTips #PhuQuocHotels #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "4.8 stars. 2,561 reviews. Camia Resort & Spa delivers every time.\n\nInfinity pool. Free breakfast. Ông Lang's quiet coast. Save this for your Phu Quoc trip.",
+    "video_caption": "Infinity pool. Free breakfast. 4.8 stars. Camia Resort & Spa on Phu Quoc's calm side hits different.",
+    "hashtags": "#PhuQuocResort #PhuQuocHotels #OngLang #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "4.8 stars and 2,561 reviews at Camia Resort & Spa. Infinity pool + free breakfast on Phu Quoc's quiet coast. #PhuQuoc #PhuQuocResort #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "4.8 stars. 2,561 reviews.",
+    "scenes": [
+      "Drone glides over palm-lined resort entrance",
+      "Infinity pool water shimmers, empty at sunrise",
+      "Breakfast spread: fresh fruit, local dishes, coffee",
+      "Airy room interior, curtains moving in breeze",
+      "Guest walks path between palms to beach"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you found the good Bún Quậy in Phu Quoc.\n\nBún Quậy Cô Thắm sits in Xóm Làng Chài, away from the tourist strips. 4.8 stars. 82 reviews. Locals keep coming back.\n\nPrice sits at $15-30 a person. For a family bowl spot this good, that's nothing.\n\nGo hungry. Order everything.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Slurping Bún Quậy in a fishing village restaurant with a 4.8-star rating most tourists walk straight past. Bún Quậy Cô Thắm, Xóm Làng Chài. Under $30 a head. Find it.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found the good Bún Quậy. 4.8 stars, Xóm Làng Chài, $15-30 a head.\n\nBún Quậy Cô Thắm. Write it down.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "4.8-star Bún Quậy in a fishing village. Most tourists never make it here. Bún Quậy Cô Thắm delivers.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #VietnamFood #VietnamTravel #TravelReels #TravelTips"
+  },
+  "tiktok": {
+    "caption": "Found the 4.8-star Bún Quậy spot locals actually eat at. Bún Quậy Cô Thắm, Phu Quoc. $15-30. Go. #PhuQuoc #PhuQuocFood #VietnamFood #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: you found the good Bún Quậy.",
+    "scenes": [
+      "Arrive at Xóm Làng Chài village lane",
+      "Spot the hand-painted sign outside",
+      "Steaming bowl hits the table",
+      "Close-up: noodles, broth, fresh herbs",
+      "Locals eating at packed plastic tables",
+      "Show the bill: under $30 a head"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

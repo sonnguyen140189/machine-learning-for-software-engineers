@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "EMOTIONAL_HIT",
+  "facebook": {
+    "caption": "This place fixes burnout.\n\nChen Sea Resort & Spa Phu Quoc sits on Bãi Xép beach in Ông Lang, away from the crowds. Minimalist villas. Infinity pool. Open-air gym with actual ocean air.\n\n4.5 stars across 919 reviews. That consistency means something.\n\nBook it for the last two nights of your trip. You'll leave Phu Quoc actually rested.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Infinity pool. Private beach. Zero noise. Chen Sea Resort & Spa Phu Quoc on Bãi Xép is the reset button your trip needs. 4.5★, 919 reviews. This is what the end of a Vietnam trip should feel like.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #VisitVietnam #TravelTips #PhuQuocHotel"
+  },
+  "instagram": {
+    "caption": "This place fixes burnout. Minimalist villas, infinity pool, real beach quiet. Chen Sea Resort & Spa Phu Quoc on Bãi Xép. 4.5★, 919 reviews.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Infinity pool. Ocean air. No resort noise. Bãi Xép hits different at Chen Sea Resort & Spa Phu Quoc. Tag your travel buddy.",
+    "hashtags": "#PhuQuocResort #PhuQuocBeaches #PhuQuocHotel #VietnamTravel #TravelTips #TravelReels #PhuQuocTips"
+  },
+  "tiktok": {
+    "caption": "The reset button your Vietnam trip needs. Chen Sea Resort & Spa on Bãi Xép. 4.5★ for a reason. #PhuQuoc #PhuQuocResort #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "This place fixes burnout.",
+    "scenes": [
+      "Aerial glide over Bãi Xép shoreline",
+      "Villa door opens to private garden",
+      "Infinity pool merges with ocean horizon",
+      "Open-air gym, breeze through palm frames",
+      "Guest exhales, closes eyes poolside"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

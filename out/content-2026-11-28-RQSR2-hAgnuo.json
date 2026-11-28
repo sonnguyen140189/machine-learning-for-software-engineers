@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you booked Khem Beach before the crowds figured it out.\n\nNew World Phu Quoc Resort sits right on one of the quietest stretches of sand on the island. 4.7 stars across 6,452 reviews. That number holds up.\n\nPrivate beach access. Pools that actually face the water. The kind of resort that makes you cancel your checkout.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "Walking out of your villa straight onto Khem Beach. No crowds. Just this. New World Phu Quoc Resort, 4.7 stars, 6,452 reviews. The rating makes sense the second you arrive.",
+    "first_comment": "#PhuQuoc #PhuQuocResort #KhemBeach #VisitVietnam #TravelTips #PhuQuocHotel #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: villa door opens straight onto Khem Beach.\n\nNew World Phu Quoc Resort. 4.7★, 6,452 reviews. Save this.",
+    "video_caption": "Stepped onto Khem Beach at 7am. Zero people. This is New World Phu Quoc Resort and it earns every star.",
+    "hashtags": "#PhuQuocResort #KhemBeach #PhuQuocHotel #PhuQuocTips #VietnamTravel #TravelTips #TravelReels #PhuQuoc"
+  },
+  "tiktok": {
+    "caption": "POV: your balcony IS the beach. New World Phu Quoc Resort just changed the standard. #PhuQuoc #PhuQuocResort #KhemBeach #VietnamTravel #TravelTips"
+  },
+  "video_script": {
+    "hook": "POV: villa door opens to this.",
+    "scenes": [
+      "Slow push through resort villa door",
+      "Reveal: private Khem Beach, empty sand",
+      "Drone pull-back over ocean-facing pools",
+      "Guest walking barefoot to waterline",
+      "Text overlay: 4.7★ across 6,452 reviews"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

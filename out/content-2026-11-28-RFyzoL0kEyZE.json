@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you skip the resort boat tour and book with the locals instead. Phương Nhi Tour runs island and fishing trips out of Phú Quốc with a 4.8-star rating across 56 reviews. That score doesn't lie. Small crew. Real water. No tourist script. Save this for your Phu Quoc trip.",
+    "video_caption": "Fishing lines out, engine running, open water ahead. This is what Phương Nhi Tour actually looks like. 4.8 stars. 56 reviews. Book the local way.",
+    "first_comment": "#PhuQuoc #PhuQuocTours #IslandHopping #VisitVietnam #TravelTips #PhuQuocIsland #VietnamTravel"
+  },
+  "instagram": {
+    "caption": "POV: you booked the local tour, not the resort one. Phương Nhi Tour. 4.8★, 56 reviews. Tag your travel buddy.",
+    "video_caption": "Cast a line. Jump in. Phương Nhi Tour hits 4.8★ for a reason. Book local.",
+    "hashtags": "#PhuQuocTours #PhuQuocTips #IslandHopping #VietnamTravel #TravelTips #TravelReels #PhuQuocIsland"
+  },
+  "tiktok": {
+    "caption": "Skip the resort boat. Book Phương Nhi Tour instead. 4.8★, 56 reviews, real deal. #PhuQuoc #PhuQuocTours #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: local tour > resort tour",
+    "scenes": [
+      "Boat pulling away from the dock",
+      "Fishing lines dropped into clear water",
+      "Crew hauling in a catch",
+      "Island coastline sliding past the boat",
+      "4.8★ review card on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}

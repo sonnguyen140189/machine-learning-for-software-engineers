@@ -1,0 +1,27 @@
+{
+  "hookArchetype": "POV_REVEAL",
+  "facebook": {
+    "caption": "POV: you wandered down Đường Bạch Đằng and found a deli that actually slaps.\n\nSimone's Deli & Co. is pulling a perfect 5.0 stars, and one bite in, you'll understand why. Real deli food in Phu Quoc. Not resort food. Not tourist-trap prices either, sitting comfortably at $15-30 a head.\n\nSave this for your Phu Quoc trip.",
+    "video_caption": "A 5.0-star deli on a quiet Phu Quoc street. Watch what lands on the counter at Simone's Deli & Co. and try not to book a table immediately.",
+    "first_comment": "#PhuQuoc #PhuQuocFood #PhuQuocRestaurants #VisitVietnam #TravelTips"
+  },
+  "instagram": {
+    "caption": "POV: you found the deli nobody told you about.\n\nSimone's Deli & Co. 5.0 stars. $15-30. Đường Bạch Đằng. Go.\n\nTag your travel buddy.",
+    "video_caption": "Walked past. Doubled back. Simone's Deli & Co. is a 5.0-star find on a street most tourists skip.",
+    "hashtags": "#PhuQuocFood #PhuQuocRestaurants #PhuQuocTips #PhuQuocEats #VietnamTravel #TravelTips #TravelReels #FoodTravel"
+  },
+  "tiktok": {
+    "caption": "Found a 5.0-star deli hiding in plain sight in Phu Quoc. Simone's Deli & Co. does not miss. #PhuQuoc #PhuQuocFood #VietnamTravel"
+  },
+  "video_script": {
+    "hook": "POV: you found the deli.",
+    "scenes": [
+      "Walk along Đường Bạch Đằng, spot the sign",
+      "Push open the door, wide shot of counter",
+      "Close-up: deli food plated up",
+      "Reaction shot, first bite",
+      "5.0 stars graphic on screen"
+    ],
+    "cta": "Save this for your Phu Quoc trip."
+  }
+}
